@@ -1,0 +1,40 @@
+name: Récupération des tweets
+
+on:
+  schedule:
+    # Toutes les 30 min (heure UTC), décalé de la minute 0 où GitHub est le plus chargé.
+    - cron: "7,37 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Récupérer les tweets
+        run: node fetch-list-tweets.mjs
+
+      - name: Publier les fichiers mis à jour
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "Aucun changement."
+            exit 0
+          fi
+          git commit -m "data: tweets du $(date -u +'%Y-%m-%d %H:%M') UTC"
+          git push
