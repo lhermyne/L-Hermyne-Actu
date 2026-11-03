@@ -1,14 +1,27 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-03T02:54:59.607Z",
+  "updated_at": "2026-11-03T03:10:06.157Z",
   "window_hours": 24,
-  "window_start": "2026-11-02T02:54:59.607Z",
+  "window_start": "2026-11-02T03:10:06.157Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": false,
   "possible_gaps": [],
-  "count": 93,
+  "count": 94,
   "tweets": [
+    {
+      "id": "2117451250593918985",
+      "created_at": "2026-11-03T02:58:13.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "Les derniers instants de Deo, tuée et cachée dans un congélateur, racontés par son fils\n➡️ https://l.leparisien.fr/HfBT",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2117451250593918985"
+    },
     {
       "id": "2117450207013360041",
       "created_at": "2026-11-03T02:54:04.000Z",
