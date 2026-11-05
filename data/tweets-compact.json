@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-06 00:48",
-  "period": "du 2026-11-05 00:48 au 2026-11-06 00:48",
-  "new_period": "du 2026-11-05 20:00 au 2026-11-06 00:48",
-  "context_period": "du 2026-11-05 00:48 au 2026-11-05 20:00",
+  "generated_at": "2026-11-06 00:49",
+  "period": "du 2026-11-05 00:49 au 2026-11-06 00:49",
+  "new_period": "du 2026-11-05 20:00 au 2026-11-06 00:49",
+  "context_period": "du 2026-11-05 00:49 au 2026-11-05 20:00",
   "coverage_complete": false,
-  "new_count": 122,
+  "new_count": 123,
   "context_count": 193,
-  "duplicates_merged": 6,
+  "duplicates_merged": 5,
   "empty_removed": 0,
   "new": [
     {
@@ -626,16 +626,18 @@
       "author_name": "AFP News Agency",
       "published_at": "2026-11-06 00:45",
       "text": "California Governor Gavin Newsom said Thursday he was commuting all death sentences across the state to life imprisonment, in a move that will affect over 500 prisoners.\n\nhttps://u.afp.com/SyKH"
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-06 00:48",
+      "text": "L’IA fait vaciller les Bourses mondiales après les élections de mi-mandat\n➡️ https://l.leparisien.fr/Osb3"
     }
   ],
   "context": [
     {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-05 00:49",
-      "text": "Midterms : un demi-milliard injecté et des entreprises qui chutent, la déroute des républicains coûte cher à Elon Musk\n➡️ https://l.leparisien.fr/aCzN",
-      "also_by": [
-        "Le Parisien | politique"
-      ]
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-05 00:51",
+      "text": "Midterms : un demi-milliard injecté et des entreprises qui chutent, la déroute des républicains coûte cher à Elon Musk\n➡️ https://l.leparisien.fr/EJU8"
     },
     {
       "author_name": "LCP",
