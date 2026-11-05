@@ -1,25 +1,35 @@
 {
-  "updated_at": "2026-11-05 02:26",
+  "updated_at": "2026-11-05 09:28",
   "last_run": {
-    "run_at": "2026-11-05 02:26",
-    "run_at_utc": "2026-11-05T01:26:16.921Z",
-    "fetched": 86,
-    "new_tweets": 86,
+    "run_at": "2026-11-05 09:28",
+    "run_at_utc": "2026-11-05T08:28:47.312Z",
+    "fetched": 90,
+    "new_tweets": 90,
     "saturation": 1,
     "gap_detected": true,
-    "gap_minutes": 60,
-    "message": "Trou possible de 1 h 00 min entre 2026-11-04 21:54 et 2026-11-04 22:53 : tous les tweets récupérés étaient nouveaux, certains ont pu être manqués."
+    "gap_minutes": 372,
+    "message": "Trou possible de 6 h 12 min entre 2026-11-05 02:25 et 2026-11-05 08:37 : tous les tweets récupérés étaient nouveaux, certains ont pu être manqués."
   },
   "last_24h": {
     "runs": 4,
     "runs_with_gap": 4,
-    "total_gap": "17 h 41 min",
-    "new_tweets": 360,
+    "total_gap": "20 h 17 min",
+    "new_tweets": 359,
     "max_new_tweets_per_run": 93,
     "max_saturation": 1
   },
   "advice": "Trous détectés sur les dernières 24 h : augmenter la fréquence des lancements.",
   "runs": [
+    {
+      "run_at": "2026-11-05 09:28",
+      "run_at_utc": "2026-11-05T08:28:47.312Z",
+      "fetched": 90,
+      "new_tweets": 90,
+      "saturation": 1,
+      "gap_detected": true,
+      "gap_minutes": 372,
+      "message": "Trou possible de 6 h 12 min entre 2026-11-05 02:25 et 2026-11-05 08:37 : tous les tweets récupérés étaient nouveaux, certains ont pu être manqués."
+    },
     {
       "run_at": "2026-11-05 02:26",
       "run_at_utc": "2026-11-05T01:26:16.921Z",
