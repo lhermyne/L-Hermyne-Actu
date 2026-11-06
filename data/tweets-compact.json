@@ -1,12 +1,12 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-06 04:20",
-  "period": "du 2026-11-05 04:20 au 2026-11-06 04:20",
-  "new_period": "du 2026-11-05 20:00 au 2026-11-06 04:20",
-  "context_period": "du 2026-11-05 04:20 au 2026-11-05 20:00",
+  "generated_at": "2026-11-06 04:23",
+  "period": "du 2026-11-05 04:23 au 2026-11-06 04:23",
+  "new_period": "du 2026-11-05 20:00 au 2026-11-06 04:23",
+  "context_period": "du 2026-11-05 04:23 au 2026-11-05 20:00",
   "coverage_complete": false,
-  "new_count": 146,
+  "new_count": 147,
   "context_count": 180,
   "duplicates_merged": 11,
   "empty_removed": 0,
@@ -767,6 +767,11 @@
       "author_name": "Le Parisien",
       "published_at": "2026-11-06 04:17",
       "text": "🔵 Info Le Parisien | Le festival Rock en Seine annulé en 2027 à cause d’importants travaux à Saint-Cloud ➡️ https://l.leparisien.fr/z9DI"
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-06 04:21",
+      "text": "Moins de pétrole, plus d’énergies renouvelables : en Chine, les émissions de CO2 n’avaient pas baissé autant depuis le Covid\n➡️ https://l.leparisien.fr/43Ag"
     }
   ],
   "context": [
