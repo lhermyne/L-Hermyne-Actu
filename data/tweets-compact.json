@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-06 08:21",
-  "period": "du 2026-11-05 08:21 au 2026-11-06 08:21",
-  "new_period": "du 2026-11-05 20:00 au 2026-11-06 08:21",
-  "context_period": "du 2026-11-05 08:21 au 2026-11-05 20:00",
+  "generated_at": "2026-11-06 08:51",
+  "period": "du 2026-11-05 08:51 au 2026-11-06 08:51",
+  "new_period": "du 2026-11-05 20:00 au 2026-11-06 08:51",
+  "context_period": "du 2026-11-05 08:51 au 2026-11-05 20:00",
   "coverage_complete": false,
-  "new_count": 274,
-  "context_count": 180,
-  "duplicates_merged": 16,
+  "new_count": 332,
+  "context_count": 152,
+  "duplicates_merged": 18,
   "empty_removed": 1,
   "new": [
     {
@@ -1323,7 +1323,10 @@
     {
       "author_name": "Le Parisien | politique",
       "published_at": "2026-11-06 08:05",
-      "text": "« Un courage extraordinaire » : Eva Geller, blessée lors de l’attentat de Sydney il y a onze mois, est décédée\n➡️ https://l.leparisien.fr/nDIz"
+      "text": "« Un courage extraordinaire » : Eva Geller, blessée lors de l’attentat de Sydney il y a onze mois, est décédée\n➡️ https://l.leparisien.fr/nDIz",
+      "also_by": [
+        "Le Parisien"
+      ]
     },
     {
       "author_name": "AFP News Agency",
@@ -1419,149 +1422,299 @@
       "author_name": "Damien Rieu",
       "published_at": "2026-11-06 08:18",
       "text": "[Retweet de @marc_vanguard] Les données suisses sont hallucinantes.\n\nEt dites-vous qu'elles n'incluent ici ni les clandestins, ni les frontaliers."
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-05 08:37",
-      "text": "🇫🇷 Emmanuel Macron doit-il démissionner ?\n\n🗣️ @sandrousseau : « Je ne crois pas à sa démission à six mois de la présidentielle. Il aura toujours été sourd et aveugle à tout ce qui se passe dans la rue »\n\n➡️ Suivez le direct sur https://sudradio.fr"
-    },
-    {
-      "author_name": "Comité Trump France",
-      "published_at": "2026-11-05 08:38",
-      "text": "Par contre on ne lâche pas un nuke juste pour gagner des midterms.\n[Cite @JoeyMannarino] @JDVance So why did you guys not end it before the midterms?\n\nCould’ve just dropped something massive four months ago and obliterate the place and it would be all forgotten now if there were no American casualties.\n\nWhy?"
-    },
-    {
-      "author_name": "Les Patriotes",
-      "published_at": "2026-11-05 08:38",
-      "text": "[Retweet de @f_philippot] 458 voix CONTRE\n0 voix POUR !\n\nMême les députés macronistes ne croient plus en leur projet de budget 2027 !\nVote hier soir de la partie « recettes » du budget ⤵️\n\nIl est temps de balayer tout ça, que Macron s’en aille, que des élections présidentielle et législatives anticipées"
-    },
-    {
-      "author_name": "Les Patriotes",
-      "published_at": "2026-11-05 08:38",
-      "text": "[Retweet de @LIreLand1984] Contrairement à nos députés dit d'opposition, des enfants de 5 ans , eux, ont compris la nécessité à ce que Macron parte de suite ✊🏻🇨🇵😏\n#MacronDémission \n#MacronDestitution"
-    },
-    {
-      "author_name": "Les Patriotes",
-      "published_at": "2026-11-05 08:38",
-      "text": "[Retweet de @LesPatriotes_77] 🚨 MACRON : SES MESSAGES PRIVÉS FONT DES RÉVÉLATIONS FRACASSANTES ! 🇫🇷\n« Vous êtes tous trop durs avec moi. »"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-05 08:38",
-      "text": "Immigration : \"Pendant longtemps, tu ne pouvais même pas mener ce débat, c'était interdit dans les médias ; je me suis fait jeter parce que je parlais de ces questions-là.\" déclare @Menard_off #LaGrandeInterview #Europe1"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-05 08:39",
-      "text": "Robert Ménard au sujet de l'élection présidentielle 2027 dans #LaGrandeInterview : «On a besoin de quelqu'un qui a une voix forte, mais pas hystérique»\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Observatoire du journalisme (Ojim)",
-      "published_at": "2026-11-05 08:39",
-      "text": "🚨CNews pourrait-elle bientôt fermer ? La pétition pour demander la fermeture de la chaîne dépasse les 800000 SIGNATURES ; la commission des affaires culturelles devrait se prononcer la semaine prochaine sur la suite à donner à cette pétition."
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-05 08:40",
-      "text": "🏛️ @marinetondelier doit-elle maintenir sa candidature à la présidentielle ?\n\n🗣️ @sandrousseau : « Le vote interne est bien trop tardif. Je ne veux pas d’une stratégie opportuniste »\n\n➡️ Suivez le direct sur https://sudradio.fr"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-05 08:42",
-      "text": "On a tourné la page de la dermatose nodulaire contagieuse au rendez-vous de la vache gasconne : « La vie continue »\n➡️ https://l.leparisien.fr/wZY6"
-    },
-    {
-      "author_name": "Bruno Attal",
-      "published_at": "2026-11-05 08:42",
-      "text": "Il faut médailler ce policier et sanctionner les parents des petits merdeux."
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-05 08:43",
-      "text": "Liberté de la presse menacée : « Je suis sidéré que toutes les rédactions ne se mobilisent pas toutes ensemble. Aujourd'hui, il y a une stratégie de LFI qui consiste à dire : \"Soit vous êtes avec nous, soit vous êtes contre nous\" », affirme @Menard_off #LaGrandeInterview #Europe1"
-    },
-    {
-      "author_name": "Le Point",
-      "published_at": "2026-11-05 08:44",
-      "text": "Reports en cascade et tirs de roquettes : sous tension, la vitrine sécurisée du Golfe s’est fissurée dernièrement. Mais grâce à leur manne financière, les pétromonarchies gardent pour l’instant la main sur le sport mondial.\n➡️ https://l.lepoint.fr/68f"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-05 08:44",
-      "text": "Lieutenant-colonel Erwan Coiffard au sujet de la mobilisation des forces de l'ordre lors des manifestations de ce jeudi 5 novembre dans #LaMatinale : «La participation de la gendarmerie est importante»\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Comité Trump France",
-      "published_at": "2026-11-05 08:44",
-      "text": "On a enfin retrouvé une presse qui n'est pas d'extrême droire."
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-05 08:46",
-      "text": "Edouard Philippe et le délit de faciès: quand le déni fait la morale\n\n➡️ Écoutez la signature d' @EugenieBastie sur #Europe1 #Europe1Matin"
-    },
-    {
-      "author_name": "AFP News Agency",
-      "published_at": "2026-11-05 08:46",
-      "text": "LIV Golf relaunch collapses as key investor withdraws, reports say\n\nThe private capital firm reportedly made the decision to walk away after struggling to convince several star players to fully commit to the league going forward\n\nhttps://u.afp.com/Syaj"
-    },
-    {
-      "author_name": "Ministère de la Justice",
-      "published_at": "2026-11-05 08:47",
-      "text": "#NonAuHarcèlement | À l’école ou sur les réseaux sociaux, le harcèlement scolaire est puni par la loi. \n\n⚖️ La #justice est mobilisée pour protéger les mineurs victimes, les orienter, les accompagner dans leurs démarches et sanctionner les faits."
-    },
-    {
-      "author_name": "Marc Vanguard",
-      "published_at": "2026-11-05 08:47",
-      "text": "[Retweet de @marc_vanguard] 🔴 Ce serait bien que @CheckNewsfr, @AfpFactuel, et @tristanwaleckx se penchent sur ces chiffres qui alimentent les peurs 👀"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-05 08:47",
-      "text": "Primaire de la droite et du centre :\"Si les candidats ne l'acceptent pas, ils se suicident ; aucun d'entre eux ne sera au second tour\" martèle @Menard_off #LaGrandeInterview #Europe1"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-05 08:48",
-      "text": "❌ « Aucune intimidation ne me touche »\n\n🗣️ @sandrousseau : « J’appelle à ce que @EELV rejoigne la campagne de @JLMelenchon. Si la position des écolos est de virer toutes les têtes qui dépassent… qu’ils le fassent, mais ils en paieront le prix »\n\n➡️ Suivez le direct sur"
     },
     {
       "author_name": "Le Média en 4⃣-4⃣-2⃣",
-      "published_at": "2026-11-05 08:48",
-      "text": "Écologie punitive : les feux de cheminée sont interdits dans 657 communes \nhttps://lemediaen442.fr/ecologie-punitive-les-feux-de-cheminee-sont-interdits-dans-657-communes/ \n\nPosséder une cheminée reste parfaitement légal, mais y faire brûler quelques bûches peut désormais coûter cher."
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-05 08:48",
-      "text": "L'édito de Laurent Tessier : «Mobilisations : le ras-le-bol des commerçants»"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-05 08:49",
-      "text": "❌ « Les propos d’@EPhilippe_LH sont absolument inadmissibles ! »\n\n🗣️ @sandrousseau : « On ne peut pas associer les pillages aux enfants de l’immigration. Ils font partie de la communauté nationale. Le sujet n'est pas l'immigration dans le 17 octobre »\n\n➡️ Suivez le direct sur"
-    },
-    {
-      "author_name": "Valeurs actuelles",
-      "published_at": "2026-11-05 08:50",
-      "text": "Alors que plusieurs responsables de gauche souhaitent restreindre l’accès des formations « d’extrême droite » aux médias français, ils lorgnent avec intérêt sur le modèle belge, qui prive depuis plus de trente ans ces mouvements de parole sur les antenne… https://l.valeursactuelles.com/sPz"
+      "published_at": "2026-11-06 08:21",
+      "text": "Zapping du 05/11 : Kassovitz allume Consigny, Macron prend cher \nhttps://lemediaen442.fr/zapping-du-05-11-kassovitz-allume-consigny-macron-prend-cher/ \n\nCharles Consigny quitte le plateau sous les adieux de Kassovitz, Emmanuel Macron refuse toujours de prendre exemple."
     },
     {
       "author_name": "Europe 1",
-      "published_at": "2026-11-05 08:50",
-      "text": "Primaire de la droite et du centre : \"Avec tout ce qui se passe, vous ne pinaillez pas : il faut se mettre d'accord maintenant et se mettre derrière celui qui est en tête.\" déclare @Menard_off #LaGrandeInterview #Europe1"
+      "published_at": "2026-11-06 08:21",
+      "text": "5 novembre : \"C'est un jour sans fin avec plus ou moins de violence [...] l'État n'a pas repris la main\" déclare @SergeGrouard #LaGrandeInterview #Europe1"
     },
     {
-      "author_name": "Marc Vanguard",
-      "published_at": "2026-11-05 08:50",
-      "text": "Les données suisses sont hallucinantes.\n\nEt dites-vous qu'elles n'incluent ici ni les clandestins, ni les frontaliers.\n[Cite @marc_vanguard] 🚨 THREAD : immigration et insécurité en Suisse, des chiffres choc.\n\nLa Suisse publie des données très précises sur la criminalité des étrangers, qui y représentent plus de 50% des condamnés pour homicide.\n\nVous ne serez plus le même après avoir vu cette réalité en face 🧵⬇️"
+      "author_name": "Damien Rieu",
+      "published_at": "2026-11-06 08:21",
+      "text": "Pourtant vous faisiez la même chose avec Quentin @MeSeydiBa, non ?\n[Cite @MeSeydiBa] On exhume aujourd'hui le compte Facebook du père de Pengo Bossio Wangi, victime d'un attentat terroriste.\n\nPour prouver quoi ? Que Kevin Tessier avait raison de le tuer ? \nQue son geste est légitime ? Que les larmes d'un père endeuillé depuis dix jours, elles, ne le sont pas ?"
+    },
+    {
+      "author_name": "Causeur.fr",
+      "published_at": "2026-11-06 08:22",
+      "text": "🇦🇺🇮🇹 Un chef italien rejette l'ananas sur ses pizzas et fini licencié @causeur \n\nhttps://www.causeur.fr/chef-pizza-ananas-licencie-australie-italie-336764"
+    },
+    {
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-06 08:23",
+      "text": "La Roche-sur-Yon: déjà victime d'un enlèvement en 2022 pour des cryptomonnaies, il est condamné à 2,5 ans de prison ferme pour avoir tiré depuis le balcon sur des hommes cagoulés (MàJ)\n\n https://www.fdesouche.com/2026/11/04/la-roche-sur-yon-tentative-denlevement-liee-aux-cryptomonnaies-avortee-les-assaillants-ont-fui-quand-le-proprietaire-a-tire-par-la-fenetre-aucun-blesse-le-proprietaire-est-en-detention-provisoir/"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-05 08:51",
-      "text": "Jimmy Gressier, champion du monde du 10 000 m, sur son enfance difficile au quartier : « Avec le recul, je m’aperçois que j’étais un cassos »\n➡️ https://l.leparisien.fr/yI83"
+      "published_at": "2026-11-06 08:23",
+      "text": "Bonjour et bienvenue dans ce nouveau fil consacré à la colère sociale : \n\n• après une nouvelle journée de mobilisation massive, la colère ne s'éteint pas\n• le gouvernement juge «important» de franchir la «barre des 1 500 euros net» pour le smic\n• Sébastien Lecornu a annoncé"
     },
+    {
+      "author_name": "Comité Trump France",
+      "published_at": "2026-11-06 08:23",
+      "text": "Pour rappel, les seuls qui n'ont pas élu Emmanuel Macron ce sont ceux qui ont voté Marine Le Pen."
+    },
+    {
+      "author_name": "Gabrielle Cluzel",
+      "published_at": "2026-11-06 08:24",
+      "text": "[Retweet de @mjberaudo] Heureusement que les Algériens n'attendent pas l'autorisation du cardinal Vesco pour se convertir au christianisme ! Espérons au moins qu'il les accueille et qu'il les soutient, car ils sont persécutés."
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-06 08:24",
+      "text": "«On va être encore privé de cette élection présidentielle» dénonce Serge Grouard, maire divers droite d'Orléans et président d'Orléans Métropole, dans #LaGrandeInterview.\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-06 08:25",
+      "text": "Après la débâcle aux Midterms, certains Républicains préparent déjà la succession de Donald Trump en 2028 https://ow.ly/lA8W106I1XO"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-06 08:25",
+      "text": "❌ « C’est deux fois la taille de tous les entrepôts Amazon en France ! J’ai vu l’entrepôt le plus grand que je n’aurais pu imaginer »\n\n🗣️ Yann Rivoallan, président de la Fédération française du prêt-à-porter féminin, dévoile comment Shein contourne la « taxe petit colis » avec"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-06 08:25",
+      "text": "Chambres froides de l’EFS piratées : la chaîne du sang dans le viseur des cyberattaques\n\nPar @guerricp https://l.lepoint.fr/YWA"
+    },
+    {
+      "author_name": "L'Observatoire des violences politiques",
+      "published_at": "2026-11-06 08:25",
+      "text": "[Retweet de @Observatoire_VP] 👁️ À Guichen, près de #Rennes, des militants proches de #LFI ont été contrôlés par les gendarmes dans la nuit du 10 au 11 février 2026, en possession d'un seau de colle et d'affiches anti-RN, alors que le centre-ville venait d'être recouvert de tags visant notamment un candidat"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-06 08:26",
+      "text": "\"En tant que gaulliste viscéral, je ne supporte plus de voir la France qui se casse la gueule\" déclare @SergeGrouard #LaGrandeInterview #Europe1"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-06 08:26",
+      "text": "🔴 La préfecture de Corse-du-Sud annonce ce vendredi la mort de deux personnes, noyées dans leur véhicule après les fortes pluies. Un troisième passager a été secouru en hélicoptère.\n\nLe département reste placé en vigilance orange pluie-inondation ➡️ https://l.leparisien.fr/jTlL"
+    },
+    {
+      "author_name": "Ligne Droite • La matinale de RC",
+      "published_at": "2026-11-06 08:28",
+      "text": "💥 \"Élise Lucet vient de se faire cambrioler dans les Hauts-de-Seine : entre 50 000 et 100 000 € de bijoux dérobés [...] Le réel a forcé la porte de son domicile au sens littéral.\"\n\n🗣️ La très chère mésaventure d’une figure de la gauche médiatique, jusqu’ici perçue comme"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-06 08:29",
+      "text": "«J'attends que le peuple français se lève et se réveille», appelle Serge Grouard, maire divers droite d'Orléans et président d'Orléans Métropole, dans #LaGrandeInterview.\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-06 08:29",
+      "text": "Ahmed al-Chareh efface méthodiquement la mémoire historique de la Syrie au profit d’une idéologie islamiste. Jusqu’à menacer l’identité du pays.\n\n➡️ https://l.lepoint.fr/5EP\nL'édito de @shalmani_abby"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-06 08:29",
+      "text": "Présidentielle 2027 : «Je défie quiconque de me parler du projet électoral de tel ou tel candidat», glisse Serge Grouard https://www.cnews.fr/france/2026-11-06/presidentielle-2027-je-defie-quiconque-de-me-parler-du-projet-electoral-de-tel-ou"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-06 08:30",
+      "text": "« Le froid l’hiver, la fournaise l’été » : à Longperrier, le quotidien des élèves du lycée le plus dégradé de France\n➡️ https://l.leparisien.fr/EJUf"
+    },
+    {
+      "author_name": "Médias-Presse-Info",
+      "published_at": "2026-11-06 08:30",
+      "text": "Raphaël Archambault, histrion insoumis, propagandiste fanatisé, agitateur politique professionnel. - https://www.medias-presse.info/raphael-archambault-histrion-insoumis-propagandiste-fanatise-agitateur-politique-professionnel/253636/ - «Ces gens sont les vrais fascistes de no..."
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-06 08:30",
+      "text": "🔴 L’invité du #GrandMatin\n\n🎙️Toute de suite Agnès Verdier-Molinié @iFRAP est en direct, au micro de @BenjaminGlaise \n\n➡️ Le direct sur https://sudradio.fr"
+    },
+    {
+      "author_name": "OMERTA",
+      "published_at": "2026-11-06 08:30",
+      "text": "« À DAKAR, LA FRANCE S’EFFACE ET LES NOUVELLES PUISSANCES AVANCENT »\n\nNotre reporter est allé à la rencontre des Sénégalais pour comprendre cette transformation. Un reportage à découvrir dans notre hors-série « DU RWANDA AU NIGER – L’AFRIQUE FRANCOPHOBE ? »\nDisponible demain en"
+    },
+    {
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-06 08:30",
+      "text": "Près de 170 colis expédiés depuis Blagnac, une vingtaine d’armes et 25 kg de munitions saisis.\n\nHuit personnes ont été interpellées après la découverte d’un atelier dans un bungalow, dont Stevan M., poursuivi dans l’affaire Leslie et Kevin.\n\n https://www.fdesouche.com/2026/11/06/cornebarrieu-atelier-clandestin-armes-stevan-leslie-kevin/"
+    },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-06 08:30",
+      "text": "Un programme qui veut «répondre à la crise de la civilisation humaine».→https://l.lefigaro.fr/3719"
+    },
+    {
+      "author_name": "Damien Rieu",
+      "published_at": "2026-11-06 08:30",
+      "text": "Les métiers en « tension » sont des métiers sous-payés. \nLes métiers en « tension » sont des métiers sous-payés. \nLes métiers en « tension » sont des métiers sous-payés. \nLes métiers en « tension » sont des métiers sous-payés."
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-06 08:32",
+      "text": "\"Dites que vous en avez assez, ça suffit, stop. Dites-le dans la dignité, dans le calme, dans le respect des autres, dans le respect de ceux qui bossent.\" déclare @SergeGrouard #LaGrandeInterview #Europe1"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-06 08:33",
+      "text": "«Quand on a l'honneur de diriger un pays comme la France, on écoute, on est au service des Français», déclare Serge Grouard, maire divers droite d'Orléans et président d'Orléans Métropole, à propos d'Emmanuel Macron, dans #LaGrandeInterview."
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-06 08:34",
+      "text": "Pour 2027, la Commission européenne fait le grand ménage dans ses textes en souffrance et mise tout sur le marché unique. Mais face aux lenteurs et aux renoncements, ce choc sera-t-il vraiment suffisant ?\n\nPar @Eberretta\n➡️ https://l.lepoint.fr/PXi"
+    },
+    {
+      "author_name": "Gabrielle Cluzel",
+      "published_at": "2026-11-06 08:34",
+      "text": "Le Christ a dit « allez évangéliser toutes les nations », mais Mgr Vesco sait mieux que le Christ. Où êtes-vous, tous les évêques et les prêtres ? Vous avez un menhir à livrer ? Il n’y a qu’un Américain pour le contredire ? Je pense aux martyrs chrétiens, en Afrique et ailleurs,\n[Cite @Sachinettiyil] Bishop Robert Barron has come out pushing back against Cardinal Jean-Paul Vesco of Algeria, who opined that “the Church is not there to convert” and that Christians should approach other religions through fraternity rather than seeking conversions.\n\nBarron said that Jesus’"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-06 08:34",
+      "text": "«J'attends une équipe de France de la politique pour redresser notre pays», lance Serge Grouard https://www.cnews.fr/france/2026-11-06/jattends-une-equipe-de-france-de-la-politique-pour-redresser-notre-pays-lance"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-06 08:34",
+      "text": "❌ Augmentation du Smic : « Qui va payer à la fin ? Ce sont les entreprises »\n\n🗣️ Agnès Verdier-Molinié, directrice de la Fondation @iFRAP et auteure de Arrêtez de nous taxer ! : « Mais aujourd’hui, les entreprises vont mal, elles sont surtaxées ! »\n\n📻 https://SudRadio.fr"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-06 08:35",
+      "text": "«Il y a une immense majorité silencieuse» :  face à la multiplicaition des manifestations, le maire d'Orléans appelle au rassemblement devant son hôtel de Ville https://ow.ly/ghVM106I20R"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-06 08:35",
+      "text": "Influenceur et trailer, Clem qui court réunit stars d’Internet et champions sportifs dans une course de 25 heures\n➡️ https://l.leparisien.fr/Up9W"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-06 08:37",
+      "text": "\"De temps en temps, on pourrait s'adresser à nos enfants et leur dire des choses positives.\" déclare @SergeGrouard #LaGrandeInterview #Europe1"
+    },
+    {
+      "author_name": "Dreuz",
+      "published_at": "2026-11-06 08:37",
+      "text": "Elections de mi-mandat : ce qui a coincé https://www.dreuz.com/2026/11/elections-de-mi-mandat-ce-qui-a-coince-333459.html"
+    },
+    {
+      "author_name": "Le JDD",
+      "published_at": "2026-11-06 08:39",
+      "text": "Design : Hubert de Malherbe, le créatif sans limite https://ow.ly/f48e106I21a"
+    },
+    {
+      "author_name": "Le JDD",
+      "published_at": "2026-11-06 08:39",
+      "text": "Smartphones pliables : notre sélection des modèles incontournables https://ow.ly/BiZ3106I20Y"
+    },
+    {
+      "author_name": "AFP News Agency",
+      "published_at": "2026-11-06 08:40",
+      "text": "Revellers carry torches and push effigies through the streets of Lewes, England, during the traditional Bonfire Night celebrations.\n\nThousands of people attend the annual parade that ends with the burning of an effigy or \"guy\", usually representing Guy Fawkes, who died in 1605"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-06 08:40",
+      "text": "«Il ne peut plus rien faire» : lassés des manifestations à répétition, certains Français appellent Emmanuel Macron à agir https://ow.ly/JEWG106I21e"
+    },
+    {
+      "author_name": "Eric Ciotti",
+      "published_at": "2026-11-06 08:40",
+      "text": "Suivez en direct le Conseil métropolitain ce vendredi 6 novembre à partir de 9h30. \n\nhttps://m.youtube.com/watch?v=yhu8BqI99js&ra=m"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-06 08:41",
+      "text": "🇫🇷 « Les demandes des manifestants sont hors sol ! »\n\n🗣️ Agnès Verdier-Molinié, directrice de la Fondation @iFRAP et auteure de Arrêtez de nous taxer ! : « Quand j’additionne leurs demandes, ce sont 90 milliards d’euros de dépenses supplémentaires. »\n\n📻 https://SudRadio.fr"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-06 08:41",
+      "text": "«On évitait à tout prix de croiser les CRS, on ne voulait surtout pas l'affrontement, on se faisait taper dessus» raconte Didier Barbelivien, chanteur, dans #LaMatinale.\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Cerfia",
+      "published_at": "2026-11-06 08:42",
+      "text": "🇫🇷💰 FLASH | Le CNC annonce vouloir consacrer 6 MILLIONS D’EUROS PAR AN aux créateurs de contenu, doublant l’enveloppe de son fonds.\n\nSuspendu après la polémique Ultia, le dispositif revient avec des aides pouvant atteindre plusieurs centaines de milliers d’euros par projet. Les"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-06 08:44",
+      "text": "Polémique/Immigration : \"On n'en a rien à faire\" estime @SergeGrouard #LaGrandeInterview #Europe1"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-06 08:44",
+      "text": "🇫🇷 « On peut économiser 10 milliards dans l’Éducation nationale. Il faut ouvrir plus de classes dans le privé. »\n\n🗣️ Agnès Verdier-Molinié, directrice de la Fondation @iFRAP et auteure de Arrêtez de nous taxer !\n\n📻 https://SudRadio.fr"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-06 08:44",
+      "text": "Immigration : \"Je n'accepte pas cette immigration ouverte [...] nous ne sommes pas un moulin\" estime @SergeGrouard #LaGrandeInterview #Europe1"
+    },
+    {
+      "author_name": "Marine Le Pen",
+      "published_at": "2026-11-06 08:44",
+      "text": "Emmanuel Macron souhaite une primaire de Raphaël Glucksmann à David Lisnard. Il considère donc que l’ensemble de ces candidats sont interchangeables et défendent les mêmes grandes options. Un aveu salutaire."
+    },
+    {
+      "author_name": "Parti National Breton | Strollad Broadel Breizh",
+      "published_at": "2026-11-06 08:45",
+      "text": "La 1ère étape, pour les Bretons, est la découverte qu'ils ont une double nationalité : ethnique (bretonne) et administrative (française). La 2ème étape est de réaliser que la nationalité 🇫🇷 ne veut plus rien dire et que la Bretagne est leur seule patrie.\n[Cite @Europe1] « Je ne me sens pas plus française que bretonne. Je me sens bretonne et française », assure Aziliz Le Corre @azilizlecorre #HDPros @PascalPraud #Europe1"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-06 08:47",
+      "text": "❌ « Une croissance à 1 % l’année prochaine ? C’est complètement illusoire »\n\n🗣️ Agnès Verdier-Molinié, directrice de la Fondation @iFRAP et auteure de Arrêtez de nous taxer ! : « On a cassé la croissance potentielle de la France par plus de dépenses publiques et plus de taxes »"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-06 08:47",
+      "text": "«On a abandonné Samuel Paty comme on a abandonné tous les gens de l'Éducation nationale», déplore Didier Barbelivien. Le chanteur lui rend hommage dans sa chanson «Professeur». #LaMatinale\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-06 08:47",
+      "text": "🎙️ Le maire divers droite d'Orléans était l'invité de CNEWS ➡️  https://mrf.lu/2V43T"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-06 08:47",
+      "text": "2017 : \"Je pourrais voter pour M. Lepen dans une configuration avec Jean-Luc Mélenchon au deuxième tour\" déclare @SergeGrouard #LaGrandeInterview #Europe1"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-06 08:47",
+      "text": "En refusant la primaire, Édouard Philippe ne joue pas seulement sa place, il révèle trois traits de caractère qui pourraient lui coûter l’Élysée.\n\n🖋️ LA CHRONIQUE de Gilles Le Gendre\n➡️ https://l.lepoint.fr/nSl"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-06 08:50",
+      "text": "🇫🇷 Taxe Zucman : « C’est faux de dire que les plus riches paient moins d’impôts »\n\n🗣️ Agnès Verdier-Molinié, directrice de la Fondation @iFRAP et auteure de Arrêtez de nous taxer ! : « C’est plutôt l’inverse. La moyenne paie 28 % et les plus riches, c’est plutôt 50 %. »\n\n📻"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-06 08:50",
+      "text": "À bout de souffle…\n\n➡️ Écoutez la signature de Catherine Nay dans #Europe1Matin #Europe1"
+    },
+    {
+      "author_name": "Le Média en 4⃣-4⃣-2⃣",
+      "published_at": "2026-11-06 08:50",
+      "text": "Hassan Salameh : 30 ans de prison, 14 ans d'isolement, menacé d'exécution par Ben-Gvir et touché par neuf balles ? \nhttps://lemediaen442.fr/hassan-salameh-30-ans-de-prison-14-ans-disolement-menace-dexecution-par-ben-gvir-et-touche-par-neuf-balles/ \n\n« Je veux te tuer. Je veux t'exécuter. » Ces mots ont été prononcés par Itamar Ben-Gvir, ministre israélien de la Sécurité nationale, face"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-06 08:50",
+      "text": "🇫🇷 « Les plus grandes fortunes sont trop taxées en France ! »\n\n🗣️ Agnès Verdier-Molinié, directrice de la Fondation @iFRAP et auteure de Arrêtez de nous taxer ! : « Oui, il y a plus de milliardaires, mais ils ne sont plus résidents en France »\n\n📻 https://SudRadio.fr"
+    }
+  ],
+  "context": [
     {
       "author_name": "CNEWS",
       "published_at": "2026-11-05 08:53",
