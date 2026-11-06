@@ -1,9 +1,9 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-06T04:20:38.517Z",
+  "updated_at": "2026-11-06T04:50:44.542Z",
   "window_hours": 24,
-  "window_start": "2026-11-05T04:20:38.517Z",
+  "window_start": "2026-11-05T04:50:44.542Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": false,
   "possible_gaps": [
@@ -23,8 +23,47 @@
       "minutes": 231
     }
   ],
-  "count": 344,
+  "count": 347,
   "tweets": [
+    {
+      "id": "2118565647445549292",
+      "created_at": "2026-11-06T04:46:26.000Z",
+      "author": "AFP",
+      "author_name": "AFP News Agency",
+      "type": "tweet",
+      "text": "Trump lashes out at \"crooked\" elections as the Democrats' midterm steamroller powers ahead\n\nAnother potential Senate upset in Mississippi is threatening to deepen Republicans' historic defeat\n\nhttps://u.afp.com/Syro",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "en",
+      "url": "https://x.com/AFP/status/2118565647445549292"
+    },
+    {
+      "id": "2118563387084873998",
+      "created_at": "2026-11-06T04:37:27.000Z",
+      "author": "leparisien_pol",
+      "author_name": "Le Parisien | politique",
+      "type": "tweet",
+      "text": "Le Japon en colère après la saisie par la Russie d’actifs de la société Tobacco International\n➡️ https://l.leparisien.fr/PcH1",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/leparisien_pol/status/2118563387084873998"
+    },
+    {
+      "id": "2118560622623506480",
+      "created_at": "2026-11-06T04:26:28.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "Le Japon en colère après la saisie par la Russie d’actifs de la société Tobacco International\n➡️ https://l.leparisien.fr/8mTM",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2118560622623506480"
+    },
     {
       "id": "2118556741520466153",
       "created_at": "2026-11-06T04:11:02.000Z",
