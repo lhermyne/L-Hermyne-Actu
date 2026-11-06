@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-06 02:50",
-  "period": "du 2026-11-05 02:50 au 2026-11-06 02:50",
-  "new_period": "du 2026-11-05 20:00 au 2026-11-06 02:50",
-  "context_period": "du 2026-11-05 02:50 au 2026-11-05 20:00",
+  "generated_at": "2026-11-06 03:20",
+  "period": "du 2026-11-05 03:20 au 2026-11-06 03:20",
+  "new_period": "du 2026-11-05 20:00 au 2026-11-06 03:20",
+  "context_period": "du 2026-11-05 03:20 au 2026-11-05 20:00",
   "coverage_complete": false,
-  "new_count": 136,
+  "new_count": 138,
   "context_count": 180,
-  "duplicates_merged": 9,
+  "duplicates_merged": 10,
   "empty_removed": 0,
   "new": [
     {
@@ -711,6 +711,19 @@
       "author_name": "AFP News Agency",
       "published_at": "2026-11-06 02:48",
       "text": "Paraguay president resigns after takeover of a bank linked to him blocked almost half the population from accessing their money.\n\nThe Central Bank's seizure of Ueno Bank froze the deposits of some three million people, including pensioners, and sparked angry demonstrations across"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-06 02:55",
+      "text": "« La seule chose qui me restait » : à Lyon, une voiture brûlée dans la manifestation appartenait à un SDF\n➡️ https://l.leparisien.fr/AAVr"
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-06 03:00",
+      "text": "« Votre régime féministe s’en souviendra à jamais » : des « combattants de l’État Masculin » revendiquent les fausses alertes à la bombe dans les aéroports\n➡️ https://l.leparisien.fr/Fnvm",
+      "also_by": [
+        "Le Parisien"
+      ]
     }
   ],
   "context": [
