@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-06 22:53",
-  "period": "du 2026-11-05 22:53 au 2026-11-06 22:53",
-  "new_period": "du 2026-11-06 20:00 au 2026-11-06 22:53",
-  "context_period": "du 2026-11-05 22:53 au 2026-11-06 20:00",
+  "generated_at": "2026-11-06 23:23",
+  "period": "du 2026-11-05 23:23 au 2026-11-06 23:23",
+  "new_period": "du 2026-11-06 20:00 au 2026-11-06 23:23",
+  "context_period": "du 2026-11-05 23:23 au 2026-11-06 20:00",
   "coverage_complete": true,
-  "new_count": 232,
-  "context_count": 1436,
-  "duplicates_merged": 95,
+  "new_count": 250,
+  "context_count": 1413,
+  "duplicates_merged": 96,
   "empty_removed": 8,
   "new": [
     {
@@ -52,7 +52,10 @@
     {
       "author_name": "Polémia",
       "published_at": "2026-11-06 20:06",
-      "text": "⚖️ Trappes : drame sanglant, dérapage présidentiel et questions gênantes\n\n« L’Élyséen avait-il donc oublié les tueries perpétrées par Mohamed Merah en 2012 contre des parachutistes (antillais) à Montauban, puis contre les élèves d’une école juive à Toulouse ? »\n\nDans un texte"
+      "text": "⚖️ Trappes : drame sanglant, dérapage présidentiel et questions gênantes\n\n« L’Élyséen avait-il donc oublié les tueries perpétrées par Mohamed Merah en 2012 contre des parachutistes (antillais) à Montauban, puis contre les élèves d’une école juive à Toulouse ? »\n\nDans un texte",
+      "also_by": [
+        "Jean-Yves Le Gallou"
+      ]
     },
     {
       "author_name": "L'Incorrect",
@@ -498,7 +501,8 @@
       "published_at": "2026-11-06 20:47",
       "text": "[Retweet de @gabriellecluzel] Horrible. Il célèbre la Toussaint rouge. Une pensée pour le pauvre Guy Monnerot, jeune instituteur de 23 ans exécuté ce jour-là. Comment un maire, un élu représentant l’État français peut-il fêter cela ?",
       "also_by": [
-        "Boulevard Voltaire"
+        "Boulevard Voltaire",
+        "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱"
       ]
     },
     {
@@ -864,7 +868,10 @@
     {
       "author_name": "Jordan Bardella",
       "published_at": "2026-11-06 21:34",
-      "text": "On doit retrouver une vocation universelle sur la scène mondiale, et surtout, dans un monde de plus en plus incertain et dangereux, retrouver les moyens de notre défense.\n\nNotre effort de défense doit monter à 3% du PIB."
+      "text": "On doit retrouver une vocation universelle sur la scène mondiale, et surtout, dans un monde de plus en plus incertain et dangereux, retrouver les moyens de notre défense.\n\nNotre effort de défense doit monter à 3% du PIB.",
+      "also_by": [
+        "Rassemblement National"
+      ]
     },
     {
       "author_name": "Boulevard Voltaire",
@@ -1185,137 +1192,99 @@
       "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
       "published_at": "2026-11-06 22:50",
       "text": "[Retweet de @cg59300] Le Discours de Grenelle \n\nRenaud Camus\n\nLe 15 novembre 2014"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
-      "published_at": "2026-11-05 22:55",
-      "text": "[Retweet de @FrenchCarcan] 🔴 En meeting à Poitiers, Bally Bagayoko qualifie la bataille de 732 de \"mythe\" et de \"folklore\"\n\n✅ La bataille de Poitiers, en octobre 732, oppose les troupes franques dirigées par le maire du palais Charles Martel à une expédition arabo-berbère commandée par l'émir Abd",
-      "also_by": [
-        "Damien Rieu"
-      ]
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-05 22:55",
-      "text": "🚨 La présentatrice de «Cash Investigation» a été victime hier d’un cambriolage à Suresnes. Entre 50 000 et 100 000 euros de bijoux auraient été volés dans son pavillon. ➡️ https://l.leparisien.fr/Xoud"
-    },
-    {
-      "author_name": "LCP",
-      "published_at": "2026-11-05 22:59",
-      "text": "A Euronaval, Marine Le Pen plaide pour davantage de frégates dans la flotte française https://lcp.fr/actualites/a-euronaval-marine-le-pen-plaide-pour-davantage-de-fregates-dans-la-flotte-francaise"
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-05 23:00",
-      "text": "Un changement après des mois de critiques.→https://l.lefigaro.fr/JMsq"
-    },
-    {
-      "author_name": "Jean-Yves Le Gallou",
-      "published_at": "2026-11-05 23:03",
-      "text": "La justice administrative a longtemps protégé les libertés, aujourd’hui elle n’est plus que le relai de l’ordre moral immigrationniste. Merci à @RiposteLaique pour son soutien à @_polemia . Honte aux juges sans la moindre déontologie ! \n https://resistancerepublicaine.com/2026/11/05/colloque-sur-la-remigration-interdit-larret-benjamin-de-1933-une-nouvelle-fois-bafoue/"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-05 23:03",
-      "text": "L'édito de Mickaël Dorian : «Mathieu Kassovitz : \"Les casseurs sont nécessaires\"»"
-    },
-    {
-      "author_name": "Jean-Yves Le Gallou",
-      "published_at": "2026-11-05 23:04",
-      "text": "[Retweet de @MartinSellner_] Dans cet ouvrage, j'ai rassemblé mes expériences et mes stratégies. Toute personne s'intéressant au militantisme de droite, au travail au sein des partis de droite et à la stratégie de droite devrait le lire."
-    },
-    {
-      "author_name": "Cercle Aristote",
-      "published_at": "2026-11-05 23:05",
-      "text": "La dame Sophie confirme : elle fera encore le castor en 2027 (après 2017 et 2022).\n\n(Mais promis, elle demandera ensuite aux gens de perdre des journées de salaire pour \"lutter\" contre le grand gouvernement central 🤡)\n[Cite @GG_RMC] 🎙️ @AlainMarschall : \"Jean-Luc Mélenchon, c'est le candidat de la CGT ?\"\n\n🎙️ @BinetSophie,  secrétaire générale de la CGT : \"Non, la CGT n'a pas de candidat. La CGT appellera toujours à battre l'extrême droite.\"\n\n#GGRMC"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-05 23:08",
-      "text": "Marc Silvera, directeur général Amical police nationale, rappelle dans #SoirInfo les conditions de travail des policiers en manifestation : «Derrière les forces de l’ordre, il y a des familles.»\n\nToute l'info est à retrouver sur https://cnews.fr"
+      "published_at": "2026-11-06 22:53",
+      "text": "«À partir du moment où l'immigration est assimilée, il n'y a plus de problème», expose Léna Rey, journaliste suisse, dans #100PolitiqueWE\n\nToute l'info est à retrouver sur https://cnews.fr"
     },
     {
       "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
-      "published_at": "2026-11-05 23:09",
-      "text": "[Retweet de @lucyjaynewhite1] “The problem isn’t just that we’re being replaced… we’re being denied our identity and told that the English People do not exist, that we’re a ‘mongrel race’.”\n\nPoliticians do this to justify mass immigration.\n\nMy speech from Paris."
+      "published_at": "2026-11-06 22:54",
+      "text": "[Retweet de @BenjaminRandow] 6 novembre 1836, mort de Charles X, dernier roi de France.\n\"Il est mort. Rien de plus.\" \nVictor Hugo"
     },
     {
-      "author_name": "Tribune Populaire🌐",
-      "published_at": "2026-11-05 23:09",
-      "text": "📂🇫🇷 Jacques Attali annonce que la rigueur budgétaire va s’imposer au prochain président de la France ! \n\n(et donc de facto dans la campagne présidentielle à venir en cas d’événement économique majeur)\n[Cite @TribunePop23] 📂🇫🇷 ANALYSE – Comment les médias vont lancer une grande campagne de propagande pour installer un « gouvernement technique » à la tête de l’État\n\nPremière étape : d’ici l’élection présidentielle de 2027, un événement économique fournira tous les éléments pour imposer l’idée qu’il"
+      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
+      "published_at": "2026-11-06 22:55",
+      "text": "[Retweet de @SabineShenerman] @EmmanuelMacron \nUne dame âgée autochtone, assassinée.\nVictime de votre politique de grand remplacement.\nAllez vous recevoir sa famille à l'Elysée ?"
     },
     {
       "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-05 23:10",
-      "text": "[Retweet de @F_Desouche] « J’étais blonde aux yeux bleus… Je me suis demandé si on était à notre place » : Floriane raconte l’agression mortelle de son père, devant ses yeux, pendant les émeutes de 2005"
+      "published_at": "2026-11-06 22:55",
+      "text": "Italie : Rome continue de refuser des transferts de demandeurs d’asile depuis d’autres pays de l’UE, selon la Commission européenne\n\n https://www.fdesouche.com/2026/11/06/italie-rome-refuse-transferts-demandeurs-asile-ue-commission-europeenne/"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-06 22:55",
+      "text": "Procès des parents d’Inass : « Je la giflais, je savais pas pourquoi je tapais ma fille »\n➡️ https://l.leparisien.fr/38Zi"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-06 22:56",
+      "text": "XV de France : le Championnat des nations a une «saveur différente», estime Antoine Dupont https://ow.ly/r2cY106I3qH"
     },
     {
       "author_name": "Jon De Lorraine",
-      "published_at": "2026-11-05 23:10",
-      "text": "Et hop, Dominique de Villepin fait la promotion de Christine Lagarde.\nComme c’est étonnant.\n(Ils se sont parlé récemment)"
+      "published_at": "2026-11-06 22:56",
+      "text": "Mais qu’est ce que je viens de voir ????"
     },
     {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-05 23:10",
-      "text": "🎮 Cela n'a pas échappé aux gamers : une refonte du célèbre «The Legend of Zelda : Ocarina of Time», dont la version originale date de 1998, est sortie ce jeudi. \n\nUn véritable événement chez les amoureux du jeu et une vraie stratégie de Nintendo, mêlant économie et nostalgie."
-    },
-    {
-      "author_name": "Le Point",
-      "published_at": "2026-11-05 23:11",
-      "text": "Catherine de Médicis a utilisé une escort-girl pour mettre fin à la première guerre de Religion. Rose Keller a balancé son porc, le Marquis de Sade. Victor Hugo a été cocu…\n➡️ https://l.lepoint.fr/mkR"
-    },
-    {
-      "author_name": "Valeurs actuelles",
-      "published_at": "2026-11-05 23:12",
-      "text": "TRIBUNE. En s’emparant par la force du Tribunal constitutionnel polonais, le gouvernement de Donald Tusk viole la loi et la Constitution pour verrouiller le pouvoir du camp libéral, affirme Olivier Bault de l’Institut Ordo Iuris.\nhttps://l.valeursactuelles.com/Tcs"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-05 23:13",
-      "text": "Carole Guillerm, députée Modem des Hauts-de-Seine, s'exprime dans #SoirInfo à propos des mouvements sociaux : «On ne peut pas se satisfaire de ce rituel samedi après samedi.»\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Jean-Yves Le Gallou",
-      "published_at": "2026-11-05 23:13",
-      "text": "[Retweet de @mbockcote] Mathieu Bock-Côté : \"Nous avons devant nous une gauche totalitaire qui veut fermer des chaînes télés\" https://www.marianne.net/politique/mathieu-bock-cote-nous-avons-devant-nous-une-gauche-totalitaire-qui-veut-fermer-des-chaines-teles via @MarianneleMag"
-    },
-    {
-      "author_name": "Jordan Bardella",
-      "published_at": "2026-11-05 23:13",
-      "text": "A travers ce livre, je veux aussi lancer un message à la jeunesse française : défiez-vous de ceux qui, à l'extrême gauche, veulent vous flatter sans répondre à vos aspirations, et soyez fiers d'être les héritiers d'une civilisation millénaire. #HéninBeaumont\n\n📖"
-    },
-    {
-      "author_name": "AFP News Agency",
-      "published_at": "2026-11-05 23:15",
-      "text": "Italian designer Pierpaolo Piccioli has quit as creative director at Balenciaga, the fashion house's parent company Kering said Thursday.\n\nhttps://u.afp.com/SyKu"
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-06 23:00",
+      "text": "La mobilisation contre la vie chère entend franchir les frontières.→https://l.lefigaro.fr/aoDV"
     },
     {
       "author_name": "Tribune Populaire🌐",
-      "published_at": "2026-11-05 23:15",
-      "text": "🚔🇫🇷FLASH INFO - Séquence complètement lunaire lors d’une manifestation aujourd’hui, des CRS ont reçu l'ordre de charger des manifestants mais derrière eux se trouvaient des gendarmes mobiles.."
+      "published_at": "2026-11-06 23:04",
+      "text": "📂🇺🇸🇮🇷FLASH INFO - D’après plusieurs sources, deux missiles américains ont frappé la ville de Suza sur l'île de Qeshm, à la suite du lancement d'un missile de défense aérienne iranien vers un avion de chasse américain."
     },
     {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-05 23:17",
-      "text": "Vincent Roy, journaliste, à propos des casseurs : «Nous vivons en ce moment sous la dictature d'une minorité.» #SoirInfo\n\nToute l'info est à retrouver sur https://cnews.fr"
+      "author_name": "AFP News Agency",
+      "published_at": "2026-11-06 23:07",
+      "text": "#BREAKING Paraguay Senate impeaches President Pena over banking crisis"
+    },
+    {
+      "author_name": "Pierre Sautarel",
+      "published_at": "2026-11-06 23:07",
+      "text": "[Retweet de @FrDesouche] Ce lien vous permet d’accéder directement à tous nos contenus vidéo. N’hésitez pas à le tester sur vos smartphones et tablettes et à nous faire part de vos impressions, notamment si vous rencontrez des problèmes d’affichage ou de navigation.\n\nhttps://www.fdesouche.com/fdescope/"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-05 23:21",
-      "text": "Connu pour son rôle de Hank Schrader, Dean Norris serait en proie à d'énormes difficultés financières \n\n➡️ https://l.leparisien.fr/J6qe"
+      "published_at": "2026-11-06 23:08",
+      "text": "Quatre personnes mises en examen pour des vols au musée Lalique et au musée de Montans en juillet\n➡️ https://l.leparisien.fr/sVos"
     },
     {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-05 23:21",
-      "text": "« C’est le monde à l’envers » : LFI accuse le préfet du Rhône de « céder à l’extrême droite » après l’annulation d’une conférence du député Raphaël Arnault https://l.leparisien.fr/J6qE"
+      "author_name": "Le Point",
+      "published_at": "2026-11-06 23:09",
+      "text": "Anecdotes méconnues, faits insolites et surprises historiques : testez vos connaissances avec ce quiz inspiré de notre hors-série 300 pépites de l’Histoire.\n➡️ https://l.lepoint.fr/Q4X"
     },
     {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-05 23:22",
-      "text": "Michel Valadier, directeur général de la Fondation pour l’école, dans #SoirInfo : «L’autorité parentale a été déconsidérée.»\n\nToute l'info est à retrouver sur https://cnews.fr"
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-06 23:10",
+      "text": "États-Unis : Donald Trump nomme Stephen Miller, architecte de sa politique migratoire, à la tête de son cabinet à la Maison-Blanche\n\n https://www.fdesouche.com/2026/11/06/etats-unis-trump-nomme-stephen-miller-chef-de-cabinet-maison-blanche/"
     },
+    {
+      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
+      "published_at": "2026-11-06 23:10",
+      "text": "[Retweet de @RupertLowe10] The Home Office welcomes endless dangerous third world scumbags, yet bans Eva Vlaardingerbroek from entering our country to attend a Restore Britain event.\n\nSo many people need to go to prison."
+    },
+    {
+      "author_name": "Cerfia",
+      "published_at": "2026-11-06 23:18",
+      "text": "🇺🇾🇻🇦✝️ FLASH | Le pape Léon XIV est arrivé en Uruguay pour une tournée de 12 jours en Amérique du Sud, malgré une récente opération. Il visitera aussi l’Argentine et le Pérou, où il a été missionnaire pendant près de 20 ans."
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-06 23:20",
+      "text": "Reçu par Léon XIV, Bob Dylan n’est pas le premier ni le dernier chanteur à avoir les honneurs du Vatican.\n➡️ https://l.lepoint.fr/1Gn"
+    },
+    {
+      "author_name": "Valeurs actuelles",
+      "published_at": "2026-11-06 23:21",
+      "text": "Les services de la présidente de l’Assemblée nationale, Yaël Braun-Pivet, supprimeraient systématiquement le terme « Noël » des invitations envoyées aux collaborateurs des députés pour l’arbre de... Noël.\nhttps://l.valeursactuelles.com/QEY"
+    }
+  ],
+  "context": [
     {
       "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
       "published_at": "2026-11-05 23:26",
@@ -2557,6 +2526,11 @@
       "author_name": "Le Point",
       "published_at": "2026-11-06 08:47",
       "text": "En refusant la primaire, Édouard Philippe ne joue pas seulement sa place, il révèle trois traits de caractère qui pourraient lui coûter l’Élysée.\n\n🖋️ LA CHRONIQUE de Gilles Le Gendre\n➡️ https://l.lepoint.fr/nSl"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-06 08:49",
+      "text": "Connu pour son rôle de Hank Schrader, Dean Norris serait en proie à d'énormes difficultés financières \n\n➡️ https://l.leparisien.fr/SSSf"
     },
     {
       "author_name": "Sud Radio",
@@ -5123,6 +5097,11 @@
       "author_name": "Aldo Sterone",
       "published_at": "2026-11-06 13:07",
       "text": "Lenovo a vendu un clé USB sécurisée par empreinte digitale. La pub dit que le contenu est chiffré et ne s'ouvre qu'avec votre doigt...\n\nOn a découvert que les données sont stockées en clair. Le doigt ne sert qu'à activer le port USB. Rien n'est chiffrée sur la puce."
+    },
+    {
+      "author_name": "Damien Rieu",
+      "published_at": "2026-11-06 13:08",
+      "text": "[Retweet de @FrenchCarcan] 🔴 En meeting à Poitiers, Bally Bagayoko qualifie la bataille de 732 de \"mythe\" et de \"folklore\"\n\n✅ La bataille de Poitiers, en octobre 732, oppose les troupes franques dirigées par le maire du palais Charles Martel à une expédition arabo-berbère commandée par l'émir Abd"
     },
     {
       "author_name": "Fdesouche.com est une revue de presse",
