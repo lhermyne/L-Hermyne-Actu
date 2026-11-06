@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-06 16:52",
-  "period": "du 2026-11-05 16:52 au 2026-11-06 16:52",
-  "new_period": "du 2026-11-06 08:00 au 2026-11-06 16:52",
-  "context_period": "du 2026-11-05 16:52 au 2026-11-06 08:00",
+  "generated_at": "2026-11-06 17:22",
+  "period": "du 2026-11-05 17:22 au 2026-11-06 17:22",
+  "new_period": "du 2026-11-06 08:00 au 2026-11-06 17:22",
+  "context_period": "du 2026-11-05 17:22 au 2026-11-06 08:00",
   "coverage_complete": false,
-  "new_count": 953,
-  "context_count": 330,
-  "duplicates_merged": 62,
+  "new_count": 1001,
+  "context_count": 307,
+  "duplicates_merged": 65,
   "empty_removed": 6,
   "new": [
     {
@@ -4433,7 +4433,10 @@
     {
       "author_name": "Boulevard Voltaire",
       "published_at": "2026-11-06 16:05",
-      "text": "[Retweet de @GabrielBendayan] Ivre, Jean-Luc Mélenchon fait référence à nos ancêtres les Gaulois.\n\nÀ deux doigts de reconnaître l'existence des Français de souche et de dire qu'ils ont, comme tous les peuples, le droit à la continuité historique."
+      "text": "[Retweet de @GabrielBendayan] Ivre, Jean-Luc Mélenchon fait référence à nos ancêtres les Gaulois.\n\nÀ deux doigts de reconnaître l'existence des Français de souche et de dire qu'ils ont, comme tous les peuples, le droit à la continuité historique.",
+      "also_by": [
+        "Gabrielle Cluzel"
+      ]
     },
     {
       "author_name": "Jon De Lorraine",
@@ -4689,7 +4692,10 @@
     {
       "author_name": "Les Braves",
       "published_at": "2026-11-06 16:33",
-      "text": "[Retweet de @RabulistenMedia] 🇫🇷 @RenaudCamus møter @LesBraves_ til en samtale om remigrasjon, Europas fremtid, kultur og det uerstattelige. Rabulisten gir deg en grundig gjennomgang av det over tre timer lange intervjuet, med sitater oversatt til norsk. Lenke under."
+      "text": "[Retweet de @RabulistenMedia] 🇫🇷 @RenaudCamus møter @LesBraves_ til en samtale om remigrasjon, Europas fremtid, kultur og det uerstattelige. Rabulisten gir deg en grundig gjennomgang av det over tre timer lange intervjuet, med sitater oversatt til norsk. Lenke under.",
+      "also_by": [
+        "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱"
+      ]
     },
     {
       "author_name": "Europe 1",
@@ -4878,131 +4884,253 @@
       "author_name": "Europe 1",
       "published_at": "2026-11-06 16:52",
       "text": "\"Il y a plein de causes extérieures qui peuvent venir, arriver à l'origine de cet accident dont les conséquences sont extrêmement graves.\" indique Maître Michel Benezra sur #Europe1 dans #PascalPraudEtVous @PascalPraud"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-06 16:53",
+      "text": "«Les revendications sont portées sur la haine antiflic», regrette Rudy Manna, délégué national communication Unsa Police, dans #100Actu\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Le JDD",
+      "published_at": "2026-11-06 16:53",
+      "text": "Le maire de Paris, Emmanuel Grégoire, souhaite donner les noms de Zyed Benna et Bouna Traoré à une partie de la place de la Nation.\n\nLa mort des deux adolescents, électrocutés dans un transformateur à Clichy-sous-Bois le 27 octobre 2005, avait été suivie de plusieurs semaines"
+    },
+    {
+      "author_name": "Le JDD",
+      "published_at": "2026-11-06 16:53",
+      "text": "Immigration : Paris renoue avec les talibans pour expulser des Afghans sous OQTF https://ow.ly/8Oqb106I2zr"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-06 16:55",
+      "text": "\"99% ne sont pas attachés. Que ce soit adultes, collégiens ou lycéens, personne ne met la ceinture.\" révèle Fabrice, chauffeur, sur #Europe1 dans #PascalPraudEtVous @PascalPraud"
+    },
+    {
+      "author_name": "Comité Trump France",
+      "published_at": "2026-11-06 16:55",
+      "text": "[Retweet de @SpXenFR] Starship en orbite"
+    },
+    {
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-06 16:55",
+      "text": "Pacte migratoire : la France classée « à risque », six pays pourront demander une réduction de leur contribution\n\n https://www.fdesouche.com/2026/11/06/pacte-migratoire-2027-france-risque-contributions/"
+    },
+    {
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-06 16:55",
+      "text": "Élise Goldfarb : « La France a toujours été moche… Tu t’es déjà baladée dans les petits villages avec des bâtiments construits en 1700, ils sont immondes »"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-06 16:56",
+      "text": "« Votre régime féministe s’en souviendra à jamais » : des « combattants de l’État Masculin » revendiquent les fausses alertes à la bombe dans les aéroports\n➡️ https://l.leparisien.fr/J6qX"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-06 16:57",
+      "text": "Le rendez-vous est fixé ➡️ https://mrf.lu/2_TyK"
+    },
+    {
+      "author_name": "Marc Vanguard",
+      "published_at": "2026-11-06 16:58",
+      "text": "[Retweet de @marc_vanguard] 🔴 L'inceste n'est PAS l'apanage des non-immigrés.\n\nIl faut EN FINIR avec cette rengaine. La Suisse publie des chiffres édifiants sur le sujet.\n\n👉 De 2022 à 2025, 57 % des adultes condamnés pour inceste en Suisse étaient étrangers.\n\n👉 Certes, les effectifs sont faibles, mais"
+    },
+    {
+      "author_name": "Comité Trump France",
+      "published_at": "2026-11-06 16:59",
+      "text": "On a une idée complètement dingue : un gouvernement qui exécute les OQTF ?\n[Cite @BastionMediaFR] ‼️🇫🇷 𝗔𝗟𝗘𝗥𝗧𝗘 𝗜𝗡𝗙𝗢 — Un homme de 25 ans, d’origine libyenne et sous OQTF, a AGRESSÉ SEXUELLEMENT une jeune femme de 19 ans à Rambouillet, dans les Yvelines.\n\nUne véritable scène d’horreur : l’individu s’était introduit discrètement dans l’immeuble de la victime avant de"
+    },
+    {
+      "author_name": "Ligne Droite • La matinale de RC",
+      "published_at": "2026-11-06 17:00",
+      "text": "🤜 34 candidats, 34 égos : bienvenue dans la présidentielle !\n🗣️ Claire-Marine Gros, anthropologue\nChronique complète :\n👉 https://youtu.be/wdM83Q-s_c8\n🎙️ Avec @RicharddeSeze sur @radiocourtoisie"
+    },
+    {
+      "author_name": "Rassemblement National",
+      "published_at": "2026-11-06 17:00",
+      "text": "Le Var et l’Hérault à l’honneur ce week-end ! @J_Bardella vient à votre rencontre pour dédicacer « Gouverner ».\n\nSamedi à La Seyne-sur-Mer, dimanche à La Grande-Motte : venez nombreux, on vous attend !\n\n➡️ https://www.amazon.fr/Gouverner-Jordan-Bardella/dp/2213736499/?th=1"
+    },
+    {
+      "author_name": "Tocsin",
+      "published_at": "2026-11-06 17:00",
+      "text": "Raphaël Glucksmann viré de la manif du 5 novembre : il n'a pas l'air de comprendre pourquoi ! \n\nPour revoir l'émission du JTTTV du 05/11 : \nhttps://www.youtube.com/watch?v=OH2GvC9Q9l4"
+    },
+    {
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-06 17:00",
+      "text": "« Prénom arabo-musulman » : Jérôme Fourquet face au tribunal de Quotidien  | Par  @ClemdeLongraye\nParce qu'il a voulu décrire la réalité des émeutes, Jérôme Fourquet se retrouve sous le feu des critiques médiatiques. \n \nhttps://www.bvoltaire.fr/prenom-arabo-musulman-jerome-fourquet-face-au-tribunal-de-quotidien/?fsp_sid=26043"
+    },
+    {
+      "author_name": "AFP News Agency",
+      "published_at": "2026-11-06 17:00",
+      "text": "⚠️ Ireland's government said Friday that hoax bomb claims sent to Irish media outlets amid a spate of threats against Europe-wide flights were \"likely\" part of a \"co-ordinated campaign of disruption\". \n➡️ https://u.afp.com/SyVH"
+    },
+    {
+      "author_name": "Causeur.fr",
+      "published_at": "2026-11-06 17:00",
+      "text": "Yannick Haenel: Prof un jour, pas toujours @causeur \n\nhttps://www.causeur.fr/yannick-haenel-prof-un-jour-pas-toujours-336851"
+    },
+    {
+      "author_name": "Tocsin",
+      "published_at": "2026-11-06 17:02",
+      "text": "🌐 Le JTT TV !\n\n🎙️ Les anciennes publications du père de la victime de Trappes remontent… Et c’est chaud !\n\n🔗 https://youtu.be/dFsMBm-QsFQ\n\n🗣️ @tomseraphine & @ValSchrmr"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-06 17:02",
+      "text": "L’impressionnant sauvetage d’un hélicoptère de l’US Navy par un titan des airs des Marines à plus de 3 000 m d’altitude\n➡️ https://l.leparisien.fr/8mTx"
+    },
+    {
+      "author_name": "Tocsin",
+      "published_at": "2026-11-06 17:04",
+      "text": "⚡️ « La Pologne et la Hongrie ont renversé le communisme : espérons qu’elles renverseront cette nouvelle dictature libérale en Europe ! »\n\n📝 « Pour donner une petite note positive, je rappelle que ce sont aussi les deux pays qui ont renversé le communisme en Europe de l’Est. On"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-06 17:05",
+      "text": "Plus d’une vingtaine de vols européens ont été perturbés par de fausses alertes à la bombe ces derniers jours. Parmi eux un Airbus A320 d’Aer Lingus dérouté jeudi vers une base militaire d’Évreux.\n\nPar @TVigoureux\n➡️ https://l.lepoint.fr/IBJ"
+    },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-06 17:06",
+      "text": "[Retweet de @phwallet] «Le proviseur adjoint a déposé plainte. Le dépôt de plainte du proviseur est en cours», rapporte l'institution. @Le_Figaro @Figaro_Etudiant  https://etudiant.lefigaro.fr/article/lycee/mouvement-lyceen-un-proviseur-asperge-a-bout-portant-avec-un-extincteur-a-nancy-20261106/"
+    },
+    {
+      "author_name": "Valeurs actuelles",
+      "published_at": "2026-11-06 17:06",
+      "text": "🗞️ Depuis le 17 octobre, les armuriers constatent une affluence exceptionnelle, qui met en lumière une tendance observée, elle, sur le plus long terme.\n\n🔗 https://l.valeursactuelles.com/5Lx"
+    },
+    {
+      "author_name": "Agence France-Presse",
+      "published_at": "2026-11-06 17:07",
+      "text": "Julie Ollivier, dont la plainte pour viols sur mineure a lancé l'affaire Cauet, s'est suicidée à l'âge de 28 ans lundi, a annoncé vendredi à l'AFP et au Nouvel Obs l'association MeToo Media. \n\n➡️ https://u.afp.com/SyjT"
+    },
+    {
+      "author_name": "L'Express",
+      "published_at": "2026-11-06 17:07",
+      "text": "Le gouvernement de Giorgia Meloni, qui a proposé une taxe pour les personnes riches quittant le pays, dans le cadre de son budget pour 2027, se dit prêt à modifier son projet après les critiques...\n\n➡️ https://l.lexpress.fr/m6H"
+    },
+    {
+      "author_name": "TVL",
+      "published_at": "2026-11-06 17:08",
+      "text": "🎙️ « Pour 98 % des populations du monde, le fait qu'il y ait des dictateurs, ils n'en ont strictement rien à foutre. Par contre, ils voient que dans les pays qui disent \"nous on n'est pas des dictatures\" c'est la merde absolue, en particulier chez nous. Ils ne veulent de ça à"
+    },
+    {
+      "author_name": "Médias-Presse-Info",
+      "published_at": "2026-11-06 17:10",
+      "text": "31 octobre – 6 novembre 2026, la semaine en bref - https://www.medias-presse.info/31-octobre-6-novembre-2026-semaine-en-bref/253693/ - Toute l’actualité de la semaine du 31 octobre au 66nombre 2026 en bref : politique, international, religion, société, bioéthique…  Politique..."
+    },
+    {
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-06 17:11",
+      "text": "[LIVRE] « Vous êtes tous trop durs avec moi » livre événement qui ne nous apprend rien | Par Arnaud Florac\nVous pouvez vous épargner la lecture de ce livre, qui ne contient qu’une poignée de messages bien peu intéressants. \n \nhttps://www.bvoltaire.fr/livre-vous-etes-tous-trop-durs-avec-moi-livre-evenement-qui-ne-nous-apprend-rien/?fsp_sid=26001"
+    },
+    {
+      "author_name": "Frontières",
+      "published_at": "2026-11-06 17:11",
+      "text": "Un PROVISEUR a été ASPERGÉ à bout pourtant avec un EXTINCTEUR au lycée Henri-Poincaré à Nancy.\n\n🚨 Le PROVISEUR adjoint a DÉPOSÉ PLAINTE. Le DÉPOT de PLAINTE du PROVISEUR est EN COURS."
+    },
+    {
+      "author_name": "LCP",
+      "published_at": "2026-11-06 17:11",
+      "text": "Manifestations du 17 octobre: Emmanuel Grégoire et Gérald Darmanin au programme des auditions de la commission d'enquête https://lcp.fr/actualites/manifestations-du-17-octobre-emmanuel-gregoire-et-gerald-darmanin-au-programme-des"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-06 17:13",
+      "text": "Poissons vivants pour la pêche au vif : le Jardi https://E.Leclerc de Vitry-le-François sommé de ne plus en vendre par les animalistes\n➡️ https://l.leparisien.fr/9FWP"
+    },
+    {
+      "author_name": "Ministère des Armées et des Anciens combattants",
+      "published_at": "2026-11-06 17:13",
+      "text": "[Retweet de @RufoAlice] Les commémorations mettent en action le patriotisme : elles traduisent en acte la fierté, la gratitude et la profondeur historique qui accompagne notre mémoire collective. Participer aux commémorations c’est donner vie à notre volonté de destin partagé. \n\nLe 2 novembre, à Balard,"
+    },
+    {
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-06 17:14",
+      "text": "[AUTANT EN EMPORTE LA FRANCE] Qui sème le vent… | Par Virginie Fontcalel\nPendant que certains jeunes font ce qu'on leur a appris, du vent, d'autres apprennent, et pourront penser. \n \nhttps://www.bvoltaire.fr/autant-en-emporte-la-france-qui-seme-le-vent/?fsp_sid=26065"
+    },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-06 17:14",
+      "text": "Thomas Markle, 82 ans, a été arrêté par des agents du FBI dans sa maison de retraite en Floride, rapportent plusieurs médias américains. →https://l.lefigaro.fr/kjlF"
+    },
+    {
+      "author_name": "Ministère des Armées et des Anciens combattants",
+      "published_at": "2026-11-06 17:15",
+      "text": "[Retweet de @CaVautrin] \"Elles assurent la permanence de la dissuasion nucléaire française, sans interruption depuis octobre 1964\". Ce matin je me suis rendue sur la base aérienne 921 de Taverny au cœur des Forces aériennes stratégiques (FAS).\n\nSa structure de commandement robuste et résiliente et ses"
+    },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-06 17:16",
+      "text": "[Retweet de @LeFigaroTV] «On n'instaure pas la démocratie par la guerre. Les États-Unis ont échoué à le faire en Afghanistan, et en ce moment même en Iran», estime Benoist Bihan, historien militaire et stratégiste, dans Points de Vue."
+    },
+    {
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-06 17:17",
+      "text": "La bataille de Poitiers, un mythe à démonter pour Bally Bagayoko | Par Eric de Mascureau\nAveuglé par son combat politique, l'élu insoumis semble nier un événement historique réel. \n \nhttps://www.bvoltaire.fr/la-bataille-de-poitiers-un-mythe-a-demonter-pour-bally-bagayoko/?fsp_sid=26055"
+    },
+    {
+      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
+      "published_at": "2026-11-06 17:19",
+      "text": "[Retweet de @jfa_flingueur] Répétez après moi :  « Le Grand remplacement est une fausse théorie raciste, conspirationniste, d'extrême-droite, inventée par @RenaudCamus. Il n'existe pas de Grand remplacement. »"
+    },
+    {
+      "author_name": "AFP News Agency",
+      "published_at": "2026-11-06 17:20",
+      "text": "🇵🇸 Gazan makes horseshoes from rubble of war\n\nFrom the ruins of destroyed homes, Mohammed al-Sir searches for scraps of iron from war debris and shapes them into horseshoes to protect horses in Khan Yunis, on the Gaza Strip."
+    },
+    {
+      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
+      "published_at": "2026-11-06 17:20",
+      "text": "[Retweet de @RabulistenMedia] https://rabulisten.no/renaud-camus-vil-stanse-befolkningsutskiftningen-og-gjenreise-europa"
+    },
+    {
+      "author_name": "Ni Oubli Ni Pardon",
+      "published_at": "2026-11-06 17:20",
+      "text": "📌 Pâques 2021.\n\nCouvre-feu à 19h.\n\nÀ table : uniquement les personnes du foyer.\nPas de famille élargie. Pas de fête. Juste le strict minimum.\nQui se souvient encore de cette règle ?\n\n#Paques2021 #CouvreFeu #QuiSeSouvient"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-06 17:21",
+      "text": "En réclamant une voix unique de l’Europe sur l’Ukraine, la présidente du Conseil italien obtient un débat au Conseil de Dublin. Mais c’est à Rome qu’elle s’adresse réellement.\n\nPar @Eberretta\n➡️ https://l.lepoint.fr/Q48"
+    },
+    {
+      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
+      "published_at": "2026-11-06 17:21",
+      "text": "[Retweet de @luxembourgdusud] @Boreaeos @LesBraves_ @RenaudCamus Justement Camus n'est pas nataliste, il veut öa dércoissance."
+    },
+    {
+      "author_name": "Valek",
+      "published_at": "2026-11-06 17:21",
+      "text": "[Retweet de @faragoli] perseguição a cristãos e assassinato de bebês. é óbvio que este traveco acha que é exatamente isso que a comunidade de e-sports e o mundo precisam!"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-06 17:21",
+      "text": "💵📉Après les Mid-terms, la bulle de l’IA explose à Wall Street et fait craindre un krach boursier\nhttps://www.sudradio.fr/sud-radio/apres-les-mid-terms-la-bulle-de-lia-explose-a-wall-street-et-fait-craindre-un-krach-boursier"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-06 17:21",
+      "text": "🔴 82 % d'opinion défavorable à Macron #LesVraiesVoix\n\n🎙️ \"Ce président n'a jamais établi de lien charnel avec les Français. Il était là pour autre chose et ça se voit avec la copie\" @luc_gras\n\n📺 https://SudRadio.fr"
+    },
+    {
+      "author_name": "L'Express",
+      "published_at": "2026-11-06 17:22",
+      "text": "Bruxelles accuse TikTok de ne pas protéger suffisamment ses utilisateurs des effets addictifs de son algorithme. La plateforme chinoise risque une amende pouvant atteindre 6 % de son chiffre...\n\n➡️ https://l.lexpress.fr/gjB"
+    },
+    {
+      "author_name": "Le Jarl",
+      "published_at": "2026-11-06 17:22",
+      "text": "Il n’y a absolument rien qui va dans cette vidéo… Il va falloir tout revoir dans notre pays ! TOUT !!"
     }
   ],
   "context": [
     {
-      "author_name": "AFP News Agency",
-      "published_at": "2026-11-05 17:10",
-      "text": "🇬🇧 British comedian Russell Brand was on Thursday found guilty by a London jury of one rape and three sexual assaults, involving a total of four women. \n➡️ https://u.afp.com/Syzt"
-    },
-    {
-      "author_name": "Eric Zemmour",
-      "published_at": "2026-11-05 17:11",
-      "text": "Pendant des décennies, nos dirigeants ont encaissé les « dividendes de la paix ». Ils ont vidé les arsenaux en croyant que l’Histoire était finie.\n\nL’Histoire est revenue. Les récents conflits dans le monde nous l’ont rappelé : la guerre de haute intensité dévore en quelques"
-    },
-    {
-      "author_name": "Le Figaro Culture",
-      "published_at": "2026-11-05 17:11",
-      "text": "« J’aurais été un très mauvais agent secret » : les confidences au Figaro de William Boyd, le maitre du roman d’espionnage britannique https://l.lefigaro.fr/ClF4"
-    },
-    {
-      "author_name": "Marine Le Pen",
-      "published_at": "2026-11-05 17:11",
-      "text": "😎"
-    },
-    {
-      "author_name": "Le Média en 4⃣-4⃣-2⃣",
-      "published_at": "2026-11-05 17:12",
-      "text": "Robots humanoïdes : Agility Robotics vise une entrée au Nasdaq le 5 novembre \n\nhttps://lemediaen442.fr/robots-humanoides-agility-robotics-vise-une-entree-au-nasdaq-le-5-novembre/"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-05 17:12",
-      "text": "Jean-Christophe Couvy, secrétaire national Unité police, s'exprime dans #Punchline à propos de l'emploi potentiel de drones équipés de mégaphones : «En maintien de l’ordre, vous devez faire des sommations et parfois, les manifestants ne les entendent pas»\n\nhttps://cnews.fr"
-    },
-    {
-      "author_name": "Valeurs actuelles",
-      "published_at": "2026-11-05 17:13",
-      "text": "🗞️ Dans un communiqué de presse publié le 5 novembre par son avocat, la famille de Quentin Deranque déplore le manque de « décence » et de « dignité » du député Insoumis Raphaël Arnault, fondateur de la Jeune Garde.    \n\n🔗 https://l.valeursactuelles.com/sPZ"
-    },
-    {
-      "author_name": "Le JDD",
-      "published_at": "2026-11-05 17:14",
-      "text": "L’État appelle à ré-industrialiser à tout bout de champ, mais est-il capable de s’engager sur la durée ? https://ow.ly/rSG1106HYFU"
-    },
-    {
-      "author_name": "Dreuz",
-      "published_at": "2026-11-05 17:15",
-      "text": "3 Novembre : un désastre électoral pour les Républicains et pour les Etats-Unis https://www.dreuz.com/2026/11/3-novembre-un-desastre-electoral-pour-les-republicains-et-pour-les-etats-unis-333400.html"
-    },
-    {
-      "author_name": "L'Express",
-      "published_at": "2026-11-05 17:15",
-      "text": "Le cru 2026 du CWTS Leiden Ranking Open Edition, le classement \"préféré\" du monde universitaire européen, vient d'être publié. Découvrez à quel rang se classe votre université.\n\n➡️ https://l.lexpress.fr/VPP"
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-05 17:15",
-      "text": "[Retweet de @Simon_pierr2] Les forces de l’ordre ont procédé à plusieurs tirs de gaz lacrymogènes pour faire évacuer la place de la Victoire à Bordeaux. Une grande partie des derniers manifestants s’est dispersée. \n#5novembre #Bordeaux #manifestations"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-05 17:16",
-      "text": "François Cocq, analyste politique, revient sur la responsabilité gouvernementale dans les mouvements sociaux : «Le gouvernement aurait pu désamorcer en amont du 17 octobre.» #Punchline\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-05 17:16",
-      "text": "\"Finale de la LDC où le ministre de l'Intérieur et le préfet de police en personne ont dit que l'on avait maîtrisé la situation alors qu'il y avait 250 forces de l'ordre blessées. Depuis, je ne demande plus rien.\" - @RedaBelhajj #Europe1 #PascalPraudEtVous @PascalPraud"
-    },
-    {
       "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-05 17:17",
-      "text": "David Lisnard poursuit sa percée selon un nouveau sondage, tandis que Jean-Luc Mélenchon patine https://l.leparisien.fr/kKrZ"
-    },
-    {
-      "author_name": "Boulevard Voltaire",
-      "published_at": "2026-11-05 17:17",
-      "text": "[ANIMAUX] Vols d’animaux tous azimuts : les malfaiteurs n’ont qu’à se servir | Par  @samuel_pinxit\nZoos, champs, jardins, salons animaliers... Les animaux sont devenus des victimes ordinaires de la criminalité. \n \nhttps://www.bvoltaire.fr/animaux-vols-danimaux-tous-azimuts-les-malfaiteurs-nont-qua-se-servir/?fsp_sid=25977"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-05 17:18",
-      "text": "Une conséquence de l'épisode méditerranéen qui frappe le sud du pays ? ➡️ https://mrf.lu/2VpfQ"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-05 17:19",
-      "text": "🔴 #5novembre à Toulouse #LesVraiesVoix\n\n🎙️ \"Il n'y a pas eu de casse ni de dégradations. La manifestation était festive et pleine de revendications\" @ChrisBouillot, correspondante Sud Radio à Toulouse\n\n📺 https://SudRadio.fr"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-05 17:19",
-      "text": "🧊 Épidémie de cyberattaques de réfrigérateurs en Europe : mais qui se cache derrière ?\nhttps://www.sudradio.fr/monde/epidemie-de-cyberattaques-de-refrigerateurs-en-europe-mais-qui-se-cache-derriere"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-05 17:19",
-      "text": "Eugénie Bastié, journaliste, s'interroge dans #Punchline sur la potentielle réponse de l'État aux contestations sociales : « Les entreprises peuvent-elles suivre une augmentation du SMIC ?»\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-05 17:19",
-      "text": "En Italie, un voleur s’endort dans la maison qu’il cambriole, il est réveillé par la police et arrêté\n➡️ https://l.leparisien.fr/tQg2",
-      "also_by": [
-        "Le Parisien | politique"
-      ]
-    },
-    {
-      "author_name": "AFP News Agency",
-      "published_at": "2026-11-05 17:20",
-      "text": "🇫🇷 Thousands of striking workers have protested across France against the rising cost of living in a new escalation following weeks of demonstrations, with police firing tear gas as violence and vandalism broke out in some cities.\n➡️ https://u.afp.com/Syzv"
-    },
-    {
-      "author_name": "Ni Oubli Ni Pardon",
-      "published_at": "2026-11-05 17:20",
-      "text": "📌 Mairie : oui.\n\nSalle : non.\n\nFête : annulée. Octobre 2020. Des mariages réduits, reportés, ou simplement oubliés. Qui se souvient encore de cette règle ?\n\n#MariagesSansFete #QuiSeSouvient #Octobre2020"
-    },
-    {
-      "author_name": "Le Point",
-      "published_at": "2026-11-05 17:21",
-      "text": "« Il a déjà gouverné en contournant le Congrès, pourquoi cela changerait-il ? » : après la défaite de Trump, l’Allemagne sur la retenue https://l.lepoint.fr/XQk"
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-05 17:21",
-      "text": "[Retweet de @LeFigaroTV] «Incapable d'arrêter les casseurs, l'État s'apprête à mettre en place une taxe anti-casseurs. Tous les assurés de France paieront plus pour créer un fonds, comme si les dégradations étaient devenues une calamité climatique», fustige @G_Roquette dans Points de Vue."
+      "published_at": "2026-11-05 17:23",
+      "text": "En Italie, un voleur s’endort dans la maison qu’il cambriole, il est réveillé par la police et arrêté\n➡️ https://l.leparisien.fr/gy7b"
     },
     {
       "author_name": "Sénat",
