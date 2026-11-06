@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-06 04:23",
-  "period": "du 2026-11-05 04:23 au 2026-11-06 04:23",
-  "new_period": "du 2026-11-05 20:00 au 2026-11-06 04:23",
-  "context_period": "du 2026-11-05 04:23 au 2026-11-05 20:00",
+  "generated_at": "2026-11-06 04:50",
+  "period": "du 2026-11-05 04:50 au 2026-11-06 04:50",
+  "new_period": "du 2026-11-05 20:00 au 2026-11-06 04:50",
+  "context_period": "du 2026-11-05 04:50 au 2026-11-05 20:00",
   "coverage_complete": false,
-  "new_count": 147,
+  "new_count": 149,
   "context_count": 180,
-  "duplicates_merged": 11,
+  "duplicates_merged": 12,
   "empty_removed": 0,
   "new": [
     {
@@ -771,7 +771,20 @@
     {
       "author_name": "Le Parisien | politique",
       "published_at": "2026-11-06 04:21",
-      "text": "Moins de pétrole, plus d’énergies renouvelables : en Chine, les émissions de CO2 n’avaient pas baissé autant depuis le Covid\n➡️ https://l.leparisien.fr/43Ag"
+      "text": "Moins de pétrole, plus d’énergies renouvelables : en Chine, les émissions de CO2 n’avaient pas baissé autant depuis le Covid\n➡️ https://l.leparisien.fr/43Ag",
+      "also_by": [
+        "Le Parisien"
+      ]
+    },
+    {
+      "author_name": "AFP News Agency",
+      "published_at": "2026-11-06 04:37",
+      "text": "Plot to smuggle 3,000 tarantulas in dirty socks thwarted at Peru airport.\n\nThe spiders, found in varying stages of development, from eggs and hatchlings to adults, were headed to Germany. Just one tarantula can sell for around 500 euros in Europe\n\nhttps://u.afp.com/SyKy"
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-06 04:43",
+      "text": "À l’aéroport de Palm Beach, la compagnie American Airlines a discrètement retiré le nom de Trump après les midterms\n➡️ https://l.leparisien.fr/AAVd"
     }
   ],
   "context": [
