@@ -1,13 +1,13 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-07 00:24",
-  "period": "du 2026-11-06 00:24 au 2026-11-07 00:24",
-  "new_period": "du 2026-11-06 20:00 au 2026-11-07 00:24",
-  "context_period": "du 2026-11-06 00:24 au 2026-11-06 20:00",
+  "generated_at": "2026-11-07 00:29",
+  "period": "du 2026-11-06 00:29 au 2026-11-07 00:29",
+  "new_period": "du 2026-11-06 20:00 au 2026-11-07 00:29",
+  "context_period": "du 2026-11-06 00:29 au 2026-11-06 20:00",
   "coverage_complete": true,
-  "new_count": 269,
-  "context_count": 1388,
+  "new_count": 270,
+  "context_count": 1386,
   "duplicates_merged": 96,
   "empty_removed": 8,
   "new": [
@@ -1386,19 +1386,14 @@
       "author_name": "Valeurs actuelles",
       "published_at": "2026-11-07 00:16",
       "text": "Après un mois sans mettre les pieds au lycée (avant les vacances, deux semaines de cours ont été assurées à distance), les élèves ont repris cette semaine le chemin de leurs établissements. À Tours, les tentative de blocage du lycée Descartes ont été sto… https://l.valeursactuelles.com/zMk"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-06 00:25",
-      "text": "Plus de 100 coups sur son fils de 12 ans, puni pour avoir fait du vélo. À Vienne, un père syrien condamné à dix ans de prison pour violences sur ses trois fils. Jugement non définitif.\n\n https://www.fdesouche.com/2026/11/06/vienne-autriche-pere-syrien-condamne-dix-ans-violences-trois-fils/"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-06 00:27",
-      "text": "Un gynécologue condamné à 5 ans de prison pour viol et agression sexuelle sur des patientes\n➡️ https://l.leparisien.fr/aCz1"
-    },
+      "published_at": "2026-11-07 00:24",
+      "text": "Plusieurs passants ont été victimes de jets de bocaux en verre depuis l'intérieur du RER A...\n\n➡️ https://l.leparisien.fr/nDIB"
+    }
+  ],
+  "context": [
     {
       "author_name": "Le Figaro",
       "published_at": "2026-11-06 00:30",

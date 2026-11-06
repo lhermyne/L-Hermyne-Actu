@@ -1,14 +1,27 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-06T23:24:02.267Z",
+  "updated_at": "2026-11-06T23:29:29.536Z",
   "window_hours": 24,
-  "window_start": "2026-11-05T23:24:02.267Z",
+  "window_start": "2026-11-05T23:29:29.536Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1761,
+  "count": 1760,
   "tweets": [
+    {
+      "id": "2118847013311971385",
+      "created_at": "2026-11-06T23:24:28.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "Plusieurs passants ont été victimes de jets de bocaux en verre depuis l'intérieur du RER A...\n\n➡️ https://l.leparisien.fr/nDIB",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2118847013311971385"
+    },
     {
       "id": "2118845124792975531",
       "created_at": "2026-11-06T23:16:58.000Z",
@@ -22875,32 +22888,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/Le_Figaro/status/2118486110930456733"
-    },
-    {
-      "id": "2118485406219943961",
-      "created_at": "2026-11-05T23:27:35.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "Un gynécologue condamné à 5 ans de prison pour viol et agression sexuelle sur des patientes\n➡️ https://l.leparisien.fr/aCz1",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2118485406219943961"
-    },
-    {
-      "id": "2118484855516282988",
-      "created_at": "2026-11-05T23:25:23.000Z",
-      "author": "F_Desouche",
-      "author_name": "Fdesouche.com est une revue de presse",
-      "type": "tweet",
-      "text": "Plus de 100 coups sur son fils de 12 ans, puni pour avoir fait du vélo. À Vienne, un père syrien condamné à dix ans de prison pour violences sur ses trois fils. Jugement non définitif.\n\n https://www.fdesouche.com/2026/11/06/vienne-autriche-pere-syrien-condamne-dix-ans-violences-trois-fils/",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/F_Desouche/status/2118484855516282988"
     }
   ]
 }
