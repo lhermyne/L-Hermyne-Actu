@@ -1,9 +1,9 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-06T03:50:33.454Z",
+  "updated_at": "2026-11-06T04:20:38.517Z",
   "window_hours": 24,
-  "window_start": "2026-11-05T03:50:33.454Z",
+  "window_start": "2026-11-05T04:20:38.517Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": false,
   "possible_gaps": [
@@ -23,8 +23,47 @@
       "minutes": 231
     }
   ],
-  "count": 341,
+  "count": 344,
   "tweets": [
+    {
+      "id": "2118556741520466153",
+      "created_at": "2026-11-06T04:11:02.000Z",
+      "author": "NiONiPardon",
+      "author_name": "Ni Oubli Ni Pardon",
+      "type": "tweet",
+      "text": "05/2020 Les gestes barrières par la chanteuse Clara Luciani, dans une vidéo sponsorisée par l’UNICEF et la ville de Paris : « Salut, c'est Clara Luciani. Pendant le Covid, tu arrêtes de faire la bise et de baver sur les gens que tu aimes et tu fais comme la Reine d’Angleterre, tu",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/NiONiPardon/status/2118556741520466153"
+    },
+    {
+      "id": "2118554763738402955",
+      "created_at": "2026-11-06T04:03:11.000Z",
+      "author": "AFP",
+      "author_name": "AFP News Agency",
+      "type": "tweet",
+      "text": "Silicon Valley bosses who spent two years cozying up to Trump now face a Democratic Congress already threatening subpoenas.\n\nTech executives will need to \"plant new forests for all of the subpoenas we'll be printing\", says Senator Ed Markey\n\nhttps://u.afp.com/Syr4",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "en",
+      "url": "https://x.com/AFP/status/2118554763738402955"
+    },
+    {
+      "id": "2118551736717558009",
+      "created_at": "2026-11-06T03:51:09.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "À l’aéroport de Palm Beach, la compagnie American Airlines a discrètement retiré le nom de Trump après les midterms\n➡️ https://l.leparisien.fr/Hfyi",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2118551736717558009"
+    },
     {
       "id": "2118549761816957392",
       "created_at": "2026-11-06T03:43:18.000Z",
