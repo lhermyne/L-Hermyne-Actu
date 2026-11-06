@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-06 03:20",
-  "period": "du 2026-11-05 03:20 au 2026-11-06 03:20",
-  "new_period": "du 2026-11-05 20:00 au 2026-11-06 03:20",
-  "context_period": "du 2026-11-05 03:20 au 2026-11-05 20:00",
+  "generated_at": "2026-11-06 03:50",
+  "period": "du 2026-11-05 03:50 au 2026-11-06 03:50",
+  "new_period": "du 2026-11-05 20:00 au 2026-11-06 03:50",
+  "context_period": "du 2026-11-05 03:50 au 2026-11-05 20:00",
   "coverage_complete": false,
-  "new_count": 138,
+  "new_count": 141,
   "context_count": 180,
-  "duplicates_merged": 10,
+  "duplicates_merged": 11,
   "empty_removed": 0,
   "new": [
     {
@@ -724,6 +724,24 @@
       "also_by": [
         "Le Parisien"
       ]
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-06 03:36",
+      "text": "« Des inquiétudes liées à l’IA » : la chute de Wall Street entraîne les Bourses de Tokyo et Séoul dans son sillage\n➡️ https://l.leparisien.fr/6aNp",
+      "also_by": [
+        "Le Parisien | politique"
+      ]
+    },
+    {
+      "author_name": "AFP News Agency",
+      "published_at": "2026-11-06 03:45",
+      "text": "Trump designates the Oval Office a national monument.\n\nTrump is redoubling his focus on beautifying the White House despite a brutal midterms defeat for his Republican Party\n\nhttps://u.afp.com/SyKt"
+    },
+    {
+      "author_name": "Mila ✨",
+      "published_at": "2026-11-06 03:47",
+      "text": "Merde mes bijoux ! C’est moi qui les ai payés avec mes impôts.\n[Cite @Frontieresmedia] 🚨 ALERTE - La journaliste Elise Lucet a été CAMBRIOLÉE, entre 50 000 et 100 000€ de BIJOUX ont été VOLÉS. (Europe 1)"
     }
   ],
   "context": [
