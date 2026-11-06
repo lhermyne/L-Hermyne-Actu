@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-06 01:50",
-  "period": "du 2026-11-05 01:50 au 2026-11-06 01:50",
-  "new_period": "du 2026-11-05 20:00 au 2026-11-06 01:50",
-  "context_period": "du 2026-11-05 01:50 au 2026-11-05 20:00",
+  "generated_at": "2026-11-06 02:20",
+  "period": "du 2026-11-05 02:20 au 2026-11-06 02:20",
+  "new_period": "du 2026-11-05 20:00 au 2026-11-06 02:20",
+  "context_period": "du 2026-11-05 02:20 au 2026-11-05 20:00",
   "coverage_complete": false,
-  "new_count": 130,
-  "context_count": 184,
-  "duplicates_merged": 8,
+  "new_count": 135,
+  "context_count": 181,
+  "duplicates_merged": 9,
   "empty_removed": 0,
   "new": [
     {
@@ -678,24 +678,37 @@
       "author_name": "Tanguy David",
       "published_at": "2026-11-06 01:45",
       "text": "[Retweet de @yona_faedda] N'hésitez pas à m'aider à retrouver ces deux danseuses étoiles, belle coordination sur leurs vélos vous remarquerez.\n\n (Toujours attendre d'être à 20/30m de la femme d'1m53 pour l'insulter 💪🏻)"
-    }
-  ],
-  "context": [
+    },
+    {
+      "author_name": "L'HERMYNE ⚜️",
+      "published_at": "2026-11-06 01:50",
+      "text": "Présidentielle 2027, second tour le plus probable : Le Pen 64,3 %, Mélenchon 35,7 %. Projection expérimentale. https://lhermyne.github.io/Presidentielle-2027/\n\nMise a jours quotidienne automatique en fonction des derniers sondages, et prise en compte de polymarket, le baromètre des réseaux,etc..."
+    },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-05 01:55",
-      "text": "Pourquoi la fête d’Halloween de Jeremstar fait tant polémique ?\n➡️ https://l.leparisien.fr/dY65"
+      "published_at": "2026-11-06 01:51",
+      "text": "« Vous n’avez pas idée » : Donald Trump revient à ses accusations « d’élections truquées » aux États-Unis\n➡️ https://l.leparisien.fr/5vxS",
+      "also_by": [
+        "Le Parisien | politique"
+      ]
     },
     {
       "author_name": "AFP News Agency",
-      "published_at": "2026-11-05 02:00",
-      "text": "Prince Harry and his wife Meghan will speak in Brussels about the dangers children face on social media in their first public appearance since allegations emerged that her father had possessed child abuse images. https://u.afp.com/Sya6"
+      "published_at": "2026-11-06 02:00",
+      "text": "The makers of an Indian blockbuster based on the Ramayana, one of Hinduism's most revered epics, have hailed the new film as an unprecedented fusion of homegrown and Hollywood talent, calling it India's first truly global release.\n\nhttps://u.afp.com/SyK6"
     },
     {
-      "author_name": "François Asselineau 🇫🇷",
-      "published_at": "2026-11-05 02:04",
-      "text": "📺 Retrouvez\n𝗟𝗘 𝗗𝗜𝗥𝗘𝗖𝗧 𝗻°𝟭𝟯𝟯\nqui a eu lieu le\n𝗠𝗘𝗥𝗖𝗥𝗘𝗗𝗜 𝟰 𝗡𝗢𝗩𝗘𝗠𝗕𝗥𝗘 𝟮𝟬𝟮𝟲\nde 20h30 à 22h45\n----------\n⚠️ 𝘾𝙡𝙞𝙦𝙪𝙚𝙯 𝙞𝙘𝙞 ⤵️\nhttps://www.youtube.com/live/R95SmXedg8U?is=oyrOr77wZ7D-qbz8\n------------------------------------"
+      "author_name": "Le Point",
+      "published_at": "2026-11-06 02:05",
+      "text": "Fantasy épique, braquage spectaculaire, escroquerie historique, espionnage à la britannique ou androïdes en cavale : les séries de novembre promettent du grand spectacle.\n➡️ https://l.lepoint.fr/Kzr"
     },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-06 02:16",
+      "text": "Il était porté disparu depuis deux ans : le corps d’un père de famille découvert par un promeneur dans une forêt du Jura\n➡️ https://l.leparisien.fr/2lJg"
+    }
+  ],
+  "context": [
     {
       "author_name": "Le Parisien",
       "published_at": "2026-11-05 02:25",
