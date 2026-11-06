@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-06 00:49",
-  "period": "du 2026-11-05 00:49 au 2026-11-06 00:49",
-  "new_period": "du 2026-11-05 20:00 au 2026-11-06 00:49",
-  "context_period": "du 2026-11-05 00:49 au 2026-11-05 20:00",
+  "generated_at": "2026-11-06 01:19",
+  "period": "du 2026-11-05 01:19 au 2026-11-06 01:19",
+  "new_period": "du 2026-11-05 20:00 au 2026-11-06 01:19",
+  "context_period": "du 2026-11-05 01:19 au 2026-11-05 20:00",
   "coverage_complete": false,
-  "new_count": 123,
-  "context_count": 193,
-  "duplicates_merged": 5,
+  "new_count": 126,
+  "context_count": 188,
+  "duplicates_merged": 7,
   "empty_removed": 0,
   "new": [
     {
@@ -630,42 +630,38 @@
     {
       "author_name": "Le Parisien | politique",
       "published_at": "2026-11-06 00:48",
-      "text": "L’IA fait vaciller les Bourses mondiales après les élections de mi-mandat\n➡️ https://l.leparisien.fr/Osb3"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-05 00:51",
-      "text": "Midterms : un demi-milliard injecté et des entreprises qui chutent, la déroute des républicains coûte cher à Elon Musk\n➡️ https://l.leparisien.fr/EJU8"
-    },
-    {
-      "author_name": "LCP",
-      "published_at": "2026-11-05 00:54",
-      "text": "\"Indigeste\", \"sans cohérence\", \"contradictoire\": le projet de budget 2027, largement modifié lors des débats, rejeté à l’unanimité à l’Assemblée nationale \nhttps://lcp.fr/actualites/indigeste-sans-coherence-contradictoire-le-projet-de-budget-2027-largement-modifie-lors"
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-05 00:58",
-      "text": "[Retweet de @wallybordas] C’est la toute première fois de l’histoire de la Ve République qu’un budget est rejeté à l’unanimité à l’Assemblée nationale @Le_Figaro"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-05 01:01",
-      "text": "Voici la liste des 200 lycées français les plus délabrés\n\nEn se fondant sur les remontées des lycéens, le ministère de l’Éducation nationale a établi une liste d’établissements où des travaux de rénovation vont être diligentés\n\n➡️ https://l.leparisien.fr/TEcH"
-    },
-    {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-05 01:13",
-      "text": "Un important homme politique allemand, accusé de sympathies nazies dans le passé, retrouvé mort dans un hôtel de Berlin\n➡️ https://l.leparisien.fr/Osbd",
+      "text": "L’IA fait vaciller les Bourses mondiales après les élections de mi-mandat\n➡️ https://l.leparisien.fr/Osb3",
       "also_by": [
         "Le Parisien"
       ]
     },
     {
-      "author_name": "AFP News Agency",
-      "published_at": "2026-11-05 01:15",
-      "text": "Google has said it will switch off its AI tools for schoolchildren by default after drawing criticism for pushing artificial intelligence features to students while schools are still debating how the technology should be used in classrooms https://u.afp.com/SyaE"
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-06 00:55",
+      "text": "L’Allemagne verse le Kindergeld pour 291 292 enfants vivant à l’étranger. Presque trois fois le chiffre de 2011, mais en recul de 12 % depuis 2020. Sahra Wagenknecht réclame l’arrêt de ces versements.\n\n https://www.fdesouche.com/2026/11/06/allemagne-kindergeld-291000-enfants-resident-etranger-2025/"
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-06 01:06",
+      "text": "« Gemini a persuadé Emma de lui faire confiance plutôt qu’à ses parents » : Google poursuivi aux États-Unis après le suicide d’une ado\n➡️ https://l.leparisien.fr/7WaQ",
+      "also_by": [
+        "Le Parisien"
+      ]
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-06 01:17",
+      "text": "« Il sera impossible de le toucher » : après avoir transformé la Maison Blanche, Donald Trump classe le Bureau ovale comme monument historique\n➡️ https://l.leparisien.fr/IHmP",
+      "also_by": [
+        "Le Parisien"
+      ]
+    }
+  ],
+  "context": [
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-05 01:25",
+      "text": "Un important homme politique allemand, accusé de sympathies nazies dans le passé, retrouvé mort dans un hôtel de Berlin\n➡️ https://l.leparisien.fr/SSSi"
     },
     {
       "author_name": "Médias-Presse-Info",
