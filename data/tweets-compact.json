@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-07 00:29",
-  "period": "du 2026-11-06 00:29 au 2026-11-07 00:29",
-  "new_period": "du 2026-11-06 20:00 au 2026-11-07 00:29",
-  "context_period": "du 2026-11-06 00:29 au 2026-11-06 20:00",
+  "generated_at": "2026-11-07 00:54",
+  "period": "du 2026-11-06 00:54 au 2026-11-07 00:54",
+  "new_period": "du 2026-11-06 20:00 au 2026-11-07 00:54",
+  "context_period": "du 2026-11-06 00:54 au 2026-11-06 20:00",
   "coverage_complete": true,
-  "new_count": 270,
-  "context_count": 1386,
-  "duplicates_merged": 96,
+  "new_count": 274,
+  "context_count": 1380,
+  "duplicates_merged": 98,
   "empty_removed": 8,
   "new": [
     {
@@ -1020,7 +1020,10 @@
     {
       "author_name": "Jordan Bardella",
       "published_at": "2026-11-06 22:13",
-      "text": "Il y a une frénésie accusatrice de la gauche, qui se traduit par des appels à fermer la première chaîne d'info de France, par des appels à censurer tout ce qui est à la droite de M. Mélenchon.\n\nLe Rassemblement National se tient du côté de la liberté, valeur évidemment française."
+      "text": "Il y a une frénésie accusatrice de la gauche, qui se traduit par des appels à fermer la première chaîne d'info de France, par des appels à censurer tout ce qui est à la droite de M. Mélenchon.\n\nLe Rassemblement National se tient du côté de la liberté, valeur évidemment française.",
+      "also_by": [
+        "Rassemblement National"
+      ]
     },
     {
       "author_name": "Le Point",
@@ -1280,7 +1283,10 @@
     {
       "author_name": "Le Parisien | politique",
       "published_at": "2026-11-06 23:18",
-      "text": "Comprimés d’iode et consignes de survie : comment l’Iran se prépare à une attaque américaine sur un site nucléaire enfoui\n➡️ https://l.leparisien.fr/aCzw"
+      "text": "Comprimés d’iode et consignes de survie : comment l’Iran se prépare à une attaque américaine sur un site nucléaire enfoui\n➡️ https://l.leparisien.fr/aCzw",
+      "also_by": [
+        "Le Parisien"
+      ]
     },
     {
       "author_name": "Cerfia",
@@ -1391,51 +1397,41 @@
       "author_name": "Le Parisien",
       "published_at": "2026-11-07 00:24",
       "text": "Plusieurs passants ont été victimes de jets de bocaux en verre depuis l'intérieur du RER A...\n\n➡️ https://l.leparisien.fr/nDIB"
-    }
-  ],
-  "context": [
+    },
     {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-06 00:30",
-      "text": "L’accusé s’en était pris à trois jeunes femmes.→https://l.lefigaro.fr/QUYO"
+      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
+      "published_at": "2026-11-07 00:32",
+      "text": "Les pro-Lisnard ont quelque chose de comique.\nIls te tapent dans le dos, en 2026, tu te retournes et ils te rient au nez : \"ah ah ah, t'as pas encore compris qu'il fallait voter pour le centre droit, parce que le système est contre les extrêmes, que le RN pourra rien faire, et"
     },
     {
       "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-06 00:34",
-      "text": "Mobilisation du 5 novembre : bloqué par des militants place de la République, Raphaël Glucksmann a quitté la manifestation https://l.leparisien.fr/43AU"
-    },
-    {
-      "author_name": "Samuel Lafont",
-      "published_at": "2026-11-06 00:34",
-      "text": "Le setup des anciens"
-    },
-    {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-06 00:40",
-      "text": "« CNews », « RN », « Fascisme » derrière des barreaux peints sur la vitrine : la permanence RN d’Agen encore vandalisée. Sixième dégradation en moins de deux ans, dénonce Sébastien Delbosq, qui annonce une plainte.\n\n https://www.fdesouche.com/2026/11/06/agen-permanence-rn-vandalisee-cnews-fascisme-barreaux/"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-06 00:40",
-      "text": "« La cote de confiance la plus basse jamais mesurée » : Emmanuel Macron bat le record d’impopularité de Hollande à l’Élysée, selon un sondage\n➡️ https://l.leparisien.fr/IHm0"
-    },
-    {
-      "author_name": "AFP News Agency",
-      "published_at": "2026-11-06 00:45",
-      "text": "California Governor Gavin Newsom said Thursday he was commuting all death sentences across the state to life imprisonment, in a move that will affect over 500 prisoners.\n\nhttps://u.afp.com/SyKH"
-    },
-    {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-06 00:48",
-      "text": "L’IA fait vaciller les Bourses mondiales après les élections de mi-mandat\n➡️ https://l.leparisien.fr/Osb3",
+      "published_at": "2026-11-07 00:33",
+      "text": "Donald Trump nomme le radical Stephen Miller à la place de Susie Wiles au poste de chef de cabinet de la Maison Blanche\n➡️ https://l.leparisien.fr/bOhm",
       "also_by": [
         "Le Parisien"
       ]
     },
     {
+      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
+      "published_at": "2026-11-07 00:44",
+      "text": "[Retweet de @MartinSellner_] Next to the Iran war, the ethnic vote also decided the midterms. Trump's last win was already a small miracle. The Democrats' unique weakness & a unifying message that mobilized whites, but at the same time, could win over men from other ethnicities, thanks to Trump's unique"
+    },
+    {
+      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
+      "published_at": "2026-11-07 00:51",
+      "text": "[Retweet de @dannyconversano] @SenseiAveri @Tim_AveEuropa 100 000 non-White workers every year in Poland and Romania since 2021. \nYou will cry in ten years.\nAll European countrys are on the same boat."
+    }
+  ],
+  "context": [
+    {
       "author_name": "Fdesouche.com est une revue de presse",
       "published_at": "2026-11-06 00:55",
       "text": "L’Allemagne verse le Kindergeld pour 291 292 enfants vivant à l’étranger. Presque trois fois le chiffre de 2011, mais en recul de 12 % depuis 2020. Sahra Wagenknecht réclame l’arrêt de ces versements.\n\n https://www.fdesouche.com/2026/11/06/allemagne-kindergeld-291000-enfants-resident-etranger-2025/"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-06 00:56",
+      "text": "L’IA fait vaciller les Bourses mondiales après les élections de mi-mandat\n➡️ https://l.leparisien.fr/SSSV"
     },
     {
       "author_name": "Le Parisien | politique",
