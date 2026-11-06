@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-06 01:19",
-  "period": "du 2026-11-05 01:19 au 2026-11-06 01:19",
-  "new_period": "du 2026-11-05 20:00 au 2026-11-06 01:19",
-  "context_period": "du 2026-11-05 01:19 au 2026-11-05 20:00",
+  "generated_at": "2026-11-06 01:50",
+  "period": "du 2026-11-05 01:50 au 2026-11-06 01:50",
+  "new_period": "du 2026-11-05 20:00 au 2026-11-06 01:50",
+  "context_period": "du 2026-11-05 01:50 au 2026-11-05 20:00",
   "coverage_complete": false,
-  "new_count": 126,
-  "context_count": 188,
-  "duplicates_merged": 7,
+  "new_count": 130,
+  "context_count": 184,
+  "duplicates_merged": 8,
   "empty_removed": 0,
   "new": [
     {
@@ -655,29 +655,32 @@
       "also_by": [
         "Le Parisien"
       ]
-    }
-  ],
-  "context": [
+    },
+    {
+      "author_name": "AFP News Agency",
+      "published_at": "2026-11-06 01:20",
+      "text": "Bournemouth extended their perfect Europa League record on Thursday as they came from behind to win 3-1 at 10-man Sparta Prague, while Ruben Amorim's AC Milan suffered a third defeat in four matches.\n\nhttps://u.afp.com/SyKj"
+    },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-05 01:25",
-      "text": "Un important homme politique allemand, accusé de sympathies nazies dans le passé, retrouvé mort dans un hôtel de Berlin\n➡️ https://l.leparisien.fr/SSSi"
+      "published_at": "2026-11-06 01:29",
+      "text": "Pérou : des milliers de mygales saisies à l’aéroport de Lima, les animaux étaient destinés au trafic vers l’Allemagne\n➡️ https://l.leparisien.fr/bOh5",
+      "also_by": [
+        "Le Parisien | politique"
+      ]
     },
     {
       "author_name": "Médias-Presse-Info",
-      "published_at": "2026-11-05 01:35",
-      "text": "Jeudi 5 novembre - De la férie - Fête des saintes Reliques conservées dans le Diocèse - https://www.medias-presse.info/jeudi-5-novembre-de-la-ferie-fete-des-saintes-reliques-conservees-dans-le-diocese/252401/ - De la férie : messe du vingt-troisième dimanche après la Pentecôte..."
+      "published_at": "2026-11-06 01:35",
+      "text": "Vendredi 6 novembre - De la férie - Saint Léonard, Ermite, Patron des Prisonniers - Bienheureuse Marguerite de Lorraine, Clarisse - https://www.medias-presse.info/saint-leonard-prisonniers-vendredi-6-novembre-de-la-ferie/252655/ - De la férie : messe du vingt-troisième dimanch..."
     },
     {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-05 01:37",
-      "text": "Présidentielle 2027 : David Lisnard confirme son avance sur Bruno Retailleau au premier tour dans un nouveau sondage https://l.leparisien.fr/XouL"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-05 01:41",
-      "text": "« Ses organes vitaux ont lâché » : Marie-Lou, 27 ans, meurt d’une violente intoxication aux morilles, les lots rappelés en urgence\n➡️ https://l.leparisien.fr/5vx3"
-    },
+      "author_name": "Tanguy David",
+      "published_at": "2026-11-06 01:45",
+      "text": "[Retweet de @yona_faedda] N'hésitez pas à m'aider à retrouver ces deux danseuses étoiles, belle coordination sur leurs vélos vous remarquerez.\n\n (Toujours attendre d'être à 20/30m de la femme d'1m53 pour l'insulter 💪🏻)"
+    }
+  ],
+  "context": [
     {
       "author_name": "Le Parisien",
       "published_at": "2026-11-05 01:55",

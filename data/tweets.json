@@ -1,9 +1,9 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-06T00:19:55.187Z",
+  "updated_at": "2026-11-06T00:50:01.973Z",
   "window_hours": 24,
-  "window_start": "2026-11-05T00:19:55.187Z",
+  "window_start": "2026-11-05T00:50:01.973Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": false,
   "possible_gaps": [
@@ -23,8 +23,73 @@
       "minutes": 231
     }
   ],
-  "count": 321,
+  "count": 322,
   "tweets": [
+    {
+      "id": "2118504921167544761",
+      "created_at": "2026-11-06T00:45:07.000Z",
+      "author": "tanguy_france",
+      "author_name": "Tanguy David",
+      "type": "retweet",
+      "text": "N'hésitez pas à m'aider à retrouver ces deux danseuses étoiles, belle coordination sur leurs vélos vous remarquerez.\n\n (Toujours attendre d'être à 20/30m de la femme d'1m53 pour l'insulter 💪🏻)",
+      "retweeted_author": "yona_faedda",
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/tanguy_france/status/2118504921167544761"
+    },
+    {
+      "id": "2118502388759728565",
+      "created_at": "2026-11-06T00:35:04.000Z",
+      "author": "InfoMdia",
+      "author_name": "Médias-Presse-Info",
+      "type": "tweet",
+      "text": "Vendredi 6 novembre - De la férie - Saint Léonard, Ermite, Patron des Prisonniers - Bienheureuse Marguerite de Lorraine, Clarisse - https://www.medias-presse.info/saint-leonard-prisonniers-vendredi-6-novembre-de-la-ferie/252655/ - De la férie : messe du vingt-troisième dimanch...",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/InfoMdia/status/2118502388759728565"
+    },
+    {
+      "id": "2118501435482476710",
+      "created_at": "2026-11-06T00:31:16.000Z",
+      "author": "leparisien_pol",
+      "author_name": "Le Parisien | politique",
+      "type": "tweet",
+      "text": "Pérou : des milliers de mygales saisies à l’aéroport de Lima, les animaux étaient destinés au trafic vers l’Allemagne\n➡️ https://l.leparisien.fr/yI82",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/leparisien_pol/status/2118501435482476710"
+    },
+    {
+      "id": "2118500885865132436",
+      "created_at": "2026-11-06T00:29:05.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "Pérou : des milliers de mygales saisies à l’aéroport de Lima, les animaux étaient destinés au trafic vers l’Allemagne\n➡️ https://l.leparisien.fr/bOh5",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2118500885865132436"
+    },
+    {
+      "id": "2118498597935411203",
+      "created_at": "2026-11-06T00:20:00.000Z",
+      "author": "AFP",
+      "author_name": "AFP News Agency",
+      "type": "tweet",
+      "text": "Bournemouth extended their perfect Europa League record on Thursday as they came from behind to win 3-1 at 10-man Sparta Prague, while Ruben Amorim's AC Milan suffered a third defeat in four matches.\n\nhttps://u.afp.com/SyKj",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "en",
+      "url": "https://x.com/AFP/status/2118498597935411203"
+    },
     {
       "id": "2118498488212230532",
       "created_at": "2026-11-06T00:19:34.000Z",
@@ -4145,58 +4210,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/le_Parisien/status/2118145241614283051"
-    },
-    {
-      "id": "2118141723138216345",
-      "created_at": "2026-11-05T00:41:54.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "« Ses organes vitaux ont lâché » : Marie-Lou, 27 ans, meurt d’une violente intoxication aux morilles, les lots rappelés en urgence\n➡️ https://l.leparisien.fr/5vx3",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2118141723138216345"
-    },
-    {
-      "id": "2118140546451718228",
-      "created_at": "2026-11-05T00:37:14.000Z",
-      "author": "leparisien_pol",
-      "author_name": "Le Parisien | politique",
-      "type": "tweet",
-      "text": "Présidentielle 2027 : David Lisnard confirme son avance sur Bruno Retailleau au premier tour dans un nouveau sondage https://l.leparisien.fr/XouL",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/leparisien_pol/status/2118140546451718228"
-    },
-    {
-      "id": "2118139997450543156",
-      "created_at": "2026-11-05T00:35:03.000Z",
-      "author": "InfoMdia",
-      "author_name": "Médias-Presse-Info",
-      "type": "tweet",
-      "text": "Jeudi 5 novembre - De la férie - Fête des saintes Reliques conservées dans le Diocèse - https://www.medias-presse.info/jeudi-5-novembre-de-la-ferie-fete-des-saintes-reliques-conservees-dans-le-diocese/252401/ - De la férie : messe du vingt-troisième dimanche après la Pentecôte...",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/InfoMdia/status/2118139997450543156"
-    },
-    {
-      "id": "2118137596383805945",
-      "created_at": "2026-11-05T00:25:30.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "Un important homme politique allemand, accusé de sympathies nazies dans le passé, retrouvé mort dans un hôtel de Berlin\n➡️ https://l.leparisien.fr/SSSi",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2118137596383805945"
     }
   ]
 }
