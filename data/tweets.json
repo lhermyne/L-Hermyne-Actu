@@ -1,9 +1,9 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-06T02:50:23.412Z",
+  "updated_at": "2026-11-06T03:20:28.429Z",
   "window_hours": 24,
-  "window_start": "2026-11-05T02:50:23.412Z",
+  "window_start": "2026-11-05T03:20:28.429Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": false,
   "possible_gaps": [
@@ -23,8 +23,73 @@
       "minutes": 231
     }
   ],
-  "count": 332,
+  "count": 337,
   "tweets": [
+    {
+      "id": "2118543233764688028",
+      "created_at": "2026-11-06T03:17:22.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "🔵 Info Le Parisien | Le festival Rock en Seine annulé en 2027 à cause d’importants travaux à Saint-Cloud ➡️ https://l.leparisien.fr/z9DI",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2118543233764688028"
+    },
+    {
+      "id": "2118539115339890827",
+      "created_at": "2026-11-06T03:01:00.000Z",
+      "author": "AldoSterone111",
+      "author_name": "Aldo Sterone",
+      "type": "quote",
+      "text": "Royaume-Uni : 1000 diagnostics de cancer par jour. C'est un record historique. Les médecins ne savent pas pourquoi.\n\nDe plus, dans ce pays, tu peux avoir des mois de lutte pour obtenir un rendez-vous chez le généraliste. Il faut encore des mois pour passer dans un labo...",
+      "retweeted_author": null,
+      "quoted_author": "BRICSinfo",
+      "quoted_text": "JUST IN: 🇬🇧 England now records 1,000 new cancer diagnoses every day, the highest level in history.",
+      "lang": "fr",
+      "url": "https://x.com/AldoSterone111/status/2118539115339890827"
+    },
+    {
+      "id": "2118537254817997104",
+      "created_at": "2026-11-06T02:53:36.000Z",
+      "author": "milafique",
+      "author_name": "Mila ✨",
+      "type": "retweet",
+      "text": "En France, il est donc possible d’écrire les pires insanités racistes et antisemites sans jamais avoir de problème à l’instar de Bolema Bossio Wangi\n\nMais les dénoncer enfreint les règles de X ????",
+      "retweeted_author": "jsferjou",
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/milafique/status/2118537254817997104"
+    },
+    {
+      "id": "2118537169417670678",
+      "created_at": "2026-11-06T02:53:16.000Z",
+      "author": "milafique",
+      "author_name": "Mila ✨",
+      "type": "retweet",
+      "text": "Ah mais y'en a d'autres mdrrr ce rituel d'humiliation d'être un Blanc de gauche",
+      "retweeted_author": "lelapindufutur",
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/milafique/status/2118537169417670678"
+    },
+    {
+      "id": "2118536548639715535",
+      "created_at": "2026-11-06T02:50:48.000Z",
+      "author": "milafique",
+      "author_name": "Mila ✨",
+      "type": "retweet",
+      "text": "🔴🇫🇷 𝗙𝗟𝗔𝗦𝗛 𝗜𝗡𝗙𝗢 — Des manifestants ont INCENDIÉ une voiture à Lyon appartenant à un sans-abri, qui s’en servait probablement pour s’y réfugier.",
+      "retweeted_author": "BastionMediaFR",
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/milafique/status/2118536548639715535"
+    },
     {
       "id": "2118535644930769153",
       "created_at": "2026-11-06T02:47:12.000Z",
