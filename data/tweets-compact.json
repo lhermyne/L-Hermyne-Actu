@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-07 23:30",
-  "period": "du 2026-11-06 23:30 au 2026-11-07 23:30",
-  "new_period": "du 2026-11-07 20:00 au 2026-11-07 23:30",
-  "context_period": "du 2026-11-06 23:30 au 2026-11-07 20:00",
+  "generated_at": "2026-11-08 00:01",
+  "period": "du 2026-11-07 00:01 au 2026-11-08 00:01",
+  "new_period": "du 2026-11-07 20:00 au 2026-11-08 00:01",
+  "context_period": "du 2026-11-07 00:01 au 2026-11-07 20:00",
   "coverage_complete": true,
-  "new_count": 217,
-  "context_count": 1092,
-  "duplicates_merged": 69,
+  "new_count": 232,
+  "context_count": 1079,
+  "duplicates_merged": 71,
   "empty_removed": 5,
   "new": [
     {
@@ -555,7 +555,10 @@
     {
       "author_name": "ISSEP",
       "published_at": "2026-11-07 21:35",
-      "text": "Sociologue et essayiste, @mbockcote nous fait l’honneur d’intervenir lors du 6ème Grand Gala de l’ISSEP."
+      "text": "Sociologue et essayiste, @mbockcote nous fait l’honneur d’intervenir lors du 6ème Grand Gala de l’ISSEP.",
+      "also_by": [
+        "Radio Courtoisie"
+      ]
     },
     {
       "author_name": "Samuel Lafont",
@@ -1114,7 +1117,10 @@
     {
       "author_name": "Le Parisien",
       "published_at": "2026-11-07 23:23",
-      "text": "« Fasciné » par l’extrême droite, trois corps aussi retrouvés à son domicile… Ce que l’on sait du tireur qui a abattu six personnes à Cracovie\n➡️ https://l.leparisien.fr/gy7N"
+      "text": "« Fasciné » par l’extrême droite, trois corps aussi retrouvés à son domicile… Ce que l’on sait du tireur qui a abattu six personnes à Cracovie\n➡️ https://l.leparisien.fr/gy7N",
+      "also_by": [
+        "Le Parisien | politique"
+      ]
     },
     {
       "author_name": "Fdesouche.com est une revue de presse",
@@ -1125,74 +1131,84 @@
       "author_name": "Le Figaro",
       "published_at": "2026-11-07 23:30",
       "text": "EXCLUSIF – Présidentielle 2027 : quelles sont les véritables chances de victoire de Jean-Luc Mélenchon ?"
-    }
-  ],
-  "context": [
+    },
     {
-      "author_name": "Alain Weber",
-      "published_at": "2026-11-06 23:34",
-      "text": "Et pendant ce temps, les amis de ce repris de justice empêchent Sarah Knafo de dédicacer son livre…\n[Cite @jean_bexon] Vidéo Le Progrès | Les CRS ont privatisé la rue pour assurer la sécurité de Raphaël Arnault, député LFI dont deux collaborateurs sont inculpés pour meurtre et incarcérés."
+      "author_name": "Marine Le Pen",
+      "published_at": "2026-11-07 23:31",
+      "text": "J’apprends avec émotion la terrible attaque survenue à Cracovie, en Pologne, qui a coûté la vie à six personnes et fait de nombreux blessés.\n\nMes premières pensées vont aux victimes, à leurs familles et à leurs proches. \n\nJ’adresse également mes vœux de rétablissement aux blessés"
+    },
+    {
+      "author_name": "Radio Courtoisie",
+      "published_at": "2026-11-07 23:35",
+      "text": "[Retweet de @MatthiasRN] 🔵🎙️ Streameur d’extrême gauche menaçant de BRÛLER et SACCAGER des médias \n\nJ’étais sur Europe 1 pour dénoncer ces appels à la violence.\n\nJ’ai saisi le procureur de la République au titre de l’article 40 du Code de procédure pénale.\n\n#CNews #BFM #RTL #Rav4chol"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-06 23:35",
-      "text": "« Nos pertes financières sont considérables » : les commerçants désespérés face aux caravanes des gens du voyage qui envahissent leur parking\n➡️ https://l.leparisien.fr/Wdpj"
+      "published_at": "2026-11-07 23:37",
+      "text": "«Kraken» devient le film d’horreur français le plus vu depuis 25 ans\n\n➡️ https://l.leparisien.fr/xXiE"
     },
     {
-      "author_name": "Marc Vanguard",
-      "published_at": "2026-11-06 23:37",
-      "text": "[Retweet de @marc_vanguard] 🔴 Personne n'en parle : le Ministère de l'Intérieur vient de publier les dernières données des violences conjugales enregistrées.\n\n👉 Les étrangers sont une fois de plus nettement surreprésentés parmi les mis en cause.\n\nThread de 5 graphiques importants sur le sujet 🧵⬇️"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-06 23:38",
-      "text": "«Le lourd dispositif vise à éviter les scènes de chaos et de pillage», souligne Axel Ronde, président CFTC Police, dans #SoirInfo\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Jean-Yves Le Gallou",
-      "published_at": "2026-11-06 23:40",
-      "text": "[Retweet de @grm_off] ✍️ Tribune | Immigration : le logiciel de Lisnard se dévoile\n\nIl suffit parfois de quelques phrases pour révéler tout un logiciel politique. David Lisnard vient de nous offrir une démonstration assez édifiante de la naïveté qui persiste dans une partie de la droite française."
-    },
-    {
-      "author_name": "Jean-Yves Le Gallou",
-      "published_at": "2026-11-06 23:41",
-      "text": "[Retweet de @MartinSellner_] À demain.\n@CordierAlice2 et moi répondrons aux questions concernant la censure et l'interdiction d'entrée en France.\n\nEn direct à 15h30 sur @Ligne__Droite on X & YouTube."
-    },
-    {
-      "author_name": "Jean-Yves Le Gallou",
-      "published_at": "2026-11-06 23:43",
-      "text": "[Retweet de @F_Desouche] Espagne : Vox fait campagne sur la « remigration » ; Buxadé appelle à « expulser comme s’il n’y avait pas de lendemain »\n\n https://www.fdesouche.com/2026/11/06/espagne-vox-remigration-buxade-abascal-campagne-novembre-2026/"
-    },
-    {
-      "author_name": "AFP News Agency",
-      "published_at": "2026-11-06 23:45",
-      "text": "Olympic boxing champion Imane Khelif of Algeria, who was engulfed in a gender row at the Paris Games, will make her professional debut next month https://u.afp.com/Syjz"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-06 23:45",
-      "text": "«Nous sommes face à une tyrannie de la jeunesse», dénonce Myriam Djabali Larak, professeure d'économie et présidente de l'association «Regard lycéen», dans #SoirInfo\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Le Point",
-      "published_at": "2026-11-06 23:47",
-      "text": "300 PÉPITES DE L’HISTOIRE 8/16. Avant de rendre leur dernier soupir, les 22 personnages, dont vous allez (re)découvrir les circonstances de la mort, ont enduré les pires souffrances.\n➡️ https://l.lepoint.fr/zHs"
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-07 23:43",
+      "text": "Déjà interdit de territoire et condamné sept fois, un Algérien frappe son hébergeur à Cahors avec une table en fer. Neuf jours d’ITT pour la victime, 18 mois ferme pour l’auteur. \n https://www.fdesouche.com/2026/11/07/cahors-46-algerien-deja-interdit-territoire-sept-condamnations-agression-hebergeur-table-fer/"
     },
     {
       "author_name": "Alain Weber",
-      "published_at": "2026-11-06 23:50",
-      "text": "La folie politique n’a-t-elle donc plus aucune limite ?\n\nÀ Strasbourg, le streamer Rav4chol, qui affiche son soutien à Jean-Luc Mélenchon, appelle à saccager les sièges de CNews et BFMTV, à briser leurs vitres et à y mettre le feu !\n\nMais jusqu’où ira cette haine ?\n\nEst-ce la"
+      "published_at": "2026-11-07 23:43",
+      "text": "😂😂😂🤣🤣🤣 Ils sont haineux, agressifs mais incroyablement fragiles, ces 2 pitres…\n\nBin, si à chaque interview elle nous met les journalistes en dépression nerveuse, on ne va pas tarder à être débarrassé des gauchistes…\n\nBientôt dans les rédactions ils devront faire appel à\n[Cite @DestinationTele] Le directeur de la rédaction de France Info informe avoir mis en place un accompagnement… médical pour les 2 journalistes qui ont interviewé Sarah Knafo :\n\"je ne veux pas surjouer la chose mais ce sont des moments compliqués à vivre…\" https://www.franceinfo.fr/replay-radio/le-rendez-vous-du-mediateur/l-interview-de-sarah-knafo-dans-la-matinale-de-franceinfo_8251666.html"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-06 23:59",
-      "text": "«L'assoupissement est tristement fréquent dans les accidents», affirme Christophe Huchet, expert en accidentologie, dans #SoirInfo\n\nToute l'info est à retrouver sur https://cnews.fr"
+      "published_at": "2026-11-07 23:47",
+      "text": "«Je suis effaré par l'inconséquence de la ministre de la Culture», évoque Raphaël Stainville, journaliste, dans #100PolitiqueWE\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Le JDD",
+      "published_at": "2026-11-07 23:48",
+      "text": "Présidentielle 2027 : au Bourget, Mélenchon prône une «libération culturelle» https://ow.ly/VSOi106I5ZR"
+    },
+    {
+      "author_name": "Le JDD",
+      "published_at": "2026-11-07 23:54",
+      "text": "Présidentielle 2027 : tout ce qui n’est pas Mélenchon n’est pas la gauche https://ow.ly/A0bz106I60G"
+    },
+    {
+      "author_name": "Le JDD",
+      "published_at": "2026-11-07 23:54",
+      "text": "Manifestations : comment LFI fait de la rue un tremplin pour Mélenchon en 2027 https://ow.ly/LoWB106I60I"
+    },
+    {
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-07 23:55",
+      "text": "En Catalogne, les Mossos ont arrêté 50 personnes, dont 43 chefs d’entreprise, dans une enquête sur de faux contrats de travail vendus à des migrants pakistanais. \n https://www.fdesouche.com/2026/11/07/barcelone-50-interpellations-43-patrons-fraude-migratoire-3-millions-euros/"
+    },
+    {
+      "author_name": "Bruno Attal",
+      "published_at": "2026-11-07 23:55",
+      "text": "On ne mélange pas les Melenchon et les serviettes"
+    },
+    {
+      "author_name": "Alain Weber",
+      "published_at": "2026-11-07 23:56",
+      "text": "🚨🚨 Syndrome post-traumatique à Franceinfo : les rescapés du front @knafo_sarah bientôt décorés de la Croix de guerre !\n\nOn connaissait les soldats revenant traumatisés du front, les grands reporters rescapés des bombardements et les victimes d’attentats.\n\nMais voici une"
+    },
+    {
+      "author_name": "Le JDD",
+      "published_at": "2026-11-08 00:00",
+      "text": "Rugby : les Bleus surclassent les Fidji (54-17), Ntamack blessé avant les Boks https://ow.ly/FRNs106I615"
     },
     {
       "author_name": "Le Point",
-      "published_at": "2026-11-07 00:00",
-      "text": "En faisant tomber le Bayer Leverkusen sur sa pelouse, l’entraîneur de 60 ans a signé un nouvel exploit européen. Sans argent ni recrues, l’entraîneur français est en train de réaliser un petit miracle à Marseille.\n\nPar @Mth_Adrien\n➡️ https://l.lepoint.fr/aaf"
+      "published_at": "2026-11-08 00:00",
+      "text": "Le grand pianiste anglo-américain s’est éteint à 86 ans après une vie à chercher le sens profond des œuvres et à les jouer comme s’il en était le dédicataire.\n\n🖊 La CHRONIQUE d'Olivier Bellamy\n➡️ https://l.lepoint.fr/bUK"
     },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-08 00:00",
+      "text": "Sud-Ouest : notre palmarès des villes et villages où couler des jours paisibles → https://l.lefigaro.fr/OCiq\nhttps://l.lefigaro.fr/OCiq"
+    }
+  ],
+  "context": [
     {
       "author_name": "Étienne Chouard",
       "published_at": "2026-11-07 00:01",
