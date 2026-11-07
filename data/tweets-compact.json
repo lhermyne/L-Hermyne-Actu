@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-07 21:00",
-  "period": "du 2026-11-06 21:00 au 2026-11-07 21:00",
-  "new_period": "du 2026-11-07 08:00 au 2026-11-07 21:00",
-  "context_period": "du 2026-11-06 21:00 au 2026-11-07 08:00",
+  "generated_at": "2026-11-07 21:30",
+  "period": "du 2026-11-06 21:30 au 2026-11-07 21:30",
+  "new_period": "du 2026-11-07 08:00 au 2026-11-07 21:30",
+  "context_period": "du 2026-11-06 21:30 au 2026-11-07 08:00",
   "coverage_complete": true,
-  "new_count": 1063,
-  "context_count": 236,
-  "duplicates_merged": 67,
+  "new_count": 1094,
+  "context_count": 199,
+  "duplicates_merged": 68,
   "empty_removed": 5,
   "new": [
     {
@@ -5407,194 +5407,167 @@
       "author_name": "Causeur.fr",
       "published_at": "2026-11-07 21:00",
       "text": "Il ne faut pas savoir danser sur TikTok pour être président @causeur https://www.causeur.fr/il-ne-faut-pas-savoir-danser-sur-tiktok-pour-etre-president-336838"
-    }
-  ],
-  "context": [
+    },
+    {
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-07 21:00",
+      "text": "https://www.fdesouche.com/2026/11/07/mayotte-976-filiere-passeurs-tanzanie-comores-74-migrants-20-enfants-huit-ans-prison/ \n\nUne filière reliant Zanzibar, Dar es-Salaam, les Comores et Mayotte a été jugée. Les passeurs ont transporté 74 migrants, dont une vingtaine d'enfants, sans gilets de sauvetage."
+    },
     {
       "author_name": "Le Figaro",
-      "published_at": "2026-11-06 21:00",
-      "text": "Dans une lettre aux salariés de BFMTV, Camille Andrieu réaffirme son soutien à la présentatrice, critiquée en interne. →https://l.lefigaro.fr/0cII"
+      "published_at": "2026-11-07 21:00",
+      "text": "Israël : Benyamin Netanyahou affirme qu'un gouvernement avec les partis arabes « démantèlerait » l'État hébreu → https://l.lefigaro.fr/iFxG"
     },
     {
-      "author_name": "Clément Macchi",
-      "published_at": "2026-11-06 21:00",
-      "text": "Allégorie du prochain sondage"
-    },
-    {
-      "author_name": "Jordan Bardella",
-      "published_at": "2026-11-06 21:00",
-      "text": "Il y a aujourd'hui en Europe une nouvelle générations de dirigeants qui veulent une Europe des Nations.\n\nLa France peut impulser un changement en Europe et cesser de se soumettre à des textes qui sont contraires à ses intérêts."
-    },
-    {
-      "author_name": "Causeur.fr",
-      "published_at": "2026-11-06 21:00",
-      "text": "🌡️ « Le premier qui allume le chauffage a perdu » : ces Français qui attendent décembre pour se chauffer...\n\nhttps://www.causeur.fr/hausse-du-gaz-chauffage-france-sobriete-subie-336865"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-06 21:01",
-      "text": "«Quand on veut fermer une chaîne de télévision comme CNEWS, on est habité d'une tentation totalitaire», assène Jordan Bardella, dans #HDPros2WE \n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-06 21:03",
-      "text": "\"Malgré toutes les souffrances, je suis convaincu que la France a, au fond de ses tripes, toute la force pour se relever et pour renaître\", soutient @J_Bardella, président du Rassemblement national, dans #DeVilliersFaceaBardella sur #Europe1"
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-06 21:04",
-      "text": "La France est asphyxiée de normes et d’impôts.\n\nIl est temps de libérer notre économie."
-    },
-    {
-      "author_name": "Frontières",
-      "published_at": "2026-11-06 21:05",
-      "text": "« Quand on veut fermer une chaîne de télévision comme CNEWS, on est habité d'une tentation totalitaire »\n\n👉 Jordan Bardella sur CNEWS."
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-06 21:06",
-      "text": "«Lors de la présidentielle, nous allons assister au face-à-face de deux France», analyse Philippe de Villiers, ancien ministre, face à Jordan Bardella \n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-06 21:09",
-      "text": ".@PhdeVilliers, ancien ministre : \"Pendant que des jeunes brûlent des écoles, il y a des jeunes qui brûlent des cierges\", dans #DeVilliersFaceaBardella sur #Europe1"
-    },
-    {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-06 21:10",
-      "text": "Raphaël Arnault scande « Siamo tutti antifascisti » avec la foule à Villeurbanne\n\n(à l’issue de sa conférence au Biéristan, malgré l’interdiction préfectorale rejetée)"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-06 21:11",
-      "text": "«Il y a une frénésie accusatrice qui se traduit par un appel à fermer une chaîne», déplore le président du Rassemblement national, Jordan Bardella, dans #HDPros2WE\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-06 21:11",
-      "text": "«J'appelle les Français à garder leur liberté de conscience», exprime Jordan Bardella, président du Rassemblement national\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-06 21:12",
-      "text": "🎾 Le Français Luca Van Assche se qualifie pour les demi-finales du Masters 1000 de Paris, une première dans sa carrière !\nhttps://www.sudradio.fr/sport-rugby/sport/tennis-van-assche-qualifie-a-paris-pour-sa-1re-demi-finale-de-masters-1000"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-06 21:14",
-      "text": ".@J_Bardella, président du Rassemblement national : \"La France insoumise n'aime pas la France. C'est un mouvement habité par une tentation totalitaire\", dans #DeVilliersFaceaBardella sur #Europe1"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-06 21:14",
-      "text": "Le président du Rassemblement national était l'invité de L'Heure des Pros 2 Week-End ➡️ https://mrf.lu/2_xqb"
-    },
-    {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-06 21:15",
-      "text": "Le Mans (72) : « Devant la gravité de la situation », une proviseure ferme son lycée pour une semaine après les blocages\n\n https://www.fdesouche.com/2026/11/06/le-mans-72-lycee-bellevue-ferme-semaine-blocages-cours-distanciel/"
-    },
-    {
-      "author_name": "AFP News Agency",
-      "published_at": "2026-11-06 21:15",
-      "text": "International news agency AFP denounces apparent police brutality against its journalists covering France protests https://u.afp.com/Syj7"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-06 21:15",
-      "text": "« Les narcotrafiquants s’approprient nos rues » : un jeune homme abattu en plein jour à Villeurbanne près d’un point de deal\n➡️ https://l.leparisien.fr/BN0q"
+      "author_name": "Le Point",
+      "published_at": "2026-11-07 21:00",
+      "text": "Et si l’on se trompait de procès ? Dix ans après l’entrée en vigueur de l’accord de Paris, le 4 novembre 2016, le politologue François Gemenne met en garde : l’action internationale est certes insuffisante, mais affirmer qu’elle ne sert à rien est une lourde erreur.\n\n➡️"
     },
     {
       "author_name": "Boulevard Voltaire",
-      "published_at": "2026-11-06 21:16",
-      "text": "« Depuis trois semaines, on a une atmosphère quasiment de guerre civile à Rouen. »\n@gregoirehoudan, conseiller municipal RN de Rouen, a témoigné auprès d’@alienordep ⤵️\nhttps://www.bvoltaire.fr/entretien-racisme-anti-blanc-il-y-a-ceux-qui-pointent-du-doigt-et-ceux-qui-executent/"
+      "published_at": "2026-11-07 21:01",
+      "text": "[Retweet de @jean_bexon] Dans \"fachos qui veulent interdire sa conférence\", Raphaël Arnault intègre les jeunes femmes étranglées par les antifas le 12 février."
+    },
+    {
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-07 21:01",
+      "text": "[Retweet de @jean_bexon] Une dizaine de cars de CRS (Police nationale) pour assurer la sécurité de Raphaël Arnault à Villeurbanne (agglo Lyonnaise). \n\nLa plupart des 14 inculpés pour meurtre et violences aggravés sont ses militants."
+    },
+    {
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-07 21:01",
+      "text": "[Retweet de @jean_bexon] Les antifas ont ce slogan : « la police nous protège, mais qui nous protège de la police ? ». \n\nOn peut désormais proposer une version ajournée : \n« la police protège la Jeune garde antifa, mais qui nous protège de la Jeune garde »."
+    },
+    {
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-07 21:01",
+      "text": "[Retweet de @YannMontero] J’ai reçu @EricNaulleau pour la sortie de son livre, évoquer sa vision de la société et de ses fractures. Le parti du foutuisme !\n@BVoltaire"
+    },
+    {
+      "author_name": "Alain Weber",
+      "published_at": "2026-11-07 21:01",
+      "text": "Mélenchon : la révolution n’est plus un fantasme, c’est un avertissement !\n\nJe suis profondément inquiet. Et ce n’est pas une inquiétude électorale ordinaire. \n\nC’est quelque chose de beaucoup plus grave.\n\nJ’ai écouté Jean-Luc Mélenchon au Bourget. \n\nSon discours est radical,"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-06 21:18",
-      "text": "«La gauche a besoin de l'immigration», analyse l'ancien ministre Philippe de Villiers, dans #HDPros2WE\n\nToute l'info est à retrouver sur https://cnews.fr"
+      "published_at": "2026-11-07 21:02",
+      "text": "C’était l’une des promesses de campagne du Premier ministre britannique Andy Burnham ➡️ https://mrf.lu/2_6nd"
     },
     {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-06 21:18",
-      "text": "«En faisant de la politique, j'ai le sentiment d'être utile à mon pays», exprime Jordan Bardella, président du Rassemblement national \n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Le Point",
-      "published_at": "2026-11-06 21:19",
-      "text": "Omniprésent dans les médias, l’historien Jean-Baptiste Fressoz affirme que la transition énergétique est une illusion. Mais sa lecture de l’histoire résiste-t-elle vraiment à l’examen ?\n\n🖋️ LA CHRONIQUE de Thomas Lepeltier\n➡️ https://l.lepoint.fr/N2E"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-06 21:19",
-      "text": "\"Jean-Luc Mélenchon est dangereux. Il a inventé le racisme d'Etat\", remarque @PhdeVilliers, ancien ministre, dans #DeVilliersFaceaBardella sur #Europe1"
-    },
-    {
-      "author_name": "Jon De Lorraine",
-      "published_at": "2026-11-06 21:19",
-      "text": "🔴🇭🇹🇸🇻 ALERTE INFO - Les Haïtiens sortent dans la rue POUR SOUTENIR L’ACTION DE NAYIB BUKELE, le président du Salvador.\nLa population en a marre de la mafia locale."
-    },
-    {
-      "author_name": "Frontières",
-      "published_at": "2026-11-06 21:20",
-      "text": "« L’ultragauche est devenue le bras armé de la France insoumise »\n\n👉 Jordan Bardella sur CNEWS."
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-06 21:20",
-      "text": "Jordan Bardella souhaite «baisser la contribution» de la France à l'Union européenne https://ow.ly/upe3106I3eV"
-    },
-    {
-      "author_name": "Ni Oubli Ni Pardon",
-      "published_at": "2026-11-06 21:20",
-      "text": "🔴 RAPPEL"
-    },
-    {
-      "author_name": "Cercle Aristote",
-      "published_at": "2026-11-06 21:21",
-      "text": "Rudy ne dit jamais non pour un petit billet.\n[Cite @ojim_france] 🔴Après leur site en ligne, leurs vidéos sur YouTube, leurs ouvrages édités chez Grasset, leur podcast sur Franceinfo... Rudy Reichstadt et Tristan Mendès-France lancent \"Complorama\", un magazine anti-complotiste. La marque est déposée... par RADIO FRANCE."
-    },
-    {
-      "author_name": "Tribune Populaire🌐",
-      "published_at": "2026-11-06 21:21",
-      "text": "📂🇺🇦🇷🇺FLASH INFO - Le secrétaire général de l’OTAN, Mark Rutte, a déclaré à la télévision néerlandaise qu’une fois le conflit terminé, Volodymyr Zelensky et lui iraient « se saouler grave » au sommet d’une montagne suisse.\n\n« Nous allons nous saouler sur une montagne suisse. Nous"
-    },
-    {
-      "author_name": "Marion Maréchal",
-      "published_at": "2026-11-06 21:22",
-      "text": "Cette célébration à laquelle @BallyBagayoko a assisté, c’est celle de la « Toussaint rouge », un massacre. \n\nLa nuit du 1er novembre 1954 marque l’acte de naissance du FLN avec une série d’attentats et d’assassinats. \n\nParmi les morts, des pieds-noirs, comme le chauffeur de taxi\n[Cite @BallyBagayoko] Ce soir, j'étais à Stains, invité par le Consulat d'Algérie, pour le 72e anniversaire du 1er novembre 1954. 🇩🇿\n\nOn a célébré la mémoire, la dignité et l'amitié entre nos peuples."
-    },
-    {
-      "author_name": "Tanguy David",
-      "published_at": "2026-11-06 21:25",
-      "text": "[Retweet de @JulienOdoul] Vouloir interdire @CNEWS, c'est vouloir faire taire des millions de Français : @J_Bardella a mille fois raison de démasquer les petits dictateurs de la censure !"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-06 21:27",
-      "text": "\"Les représentants de la gauche sont en train de devenir totalement fous. Ils appellent à combattre et à censurer tout ce qui est à droite de Jean-Luc Mélenchon\", souligne @J_Bardella, président du Rassemblement national, dans #DeVilliersFaceaBardella sur #Europe1"
-    },
-    {
-      "author_name": "Le Point",
-      "published_at": "2026-11-06 21:28",
-      "text": "Plus spacieux, modulable et moins gourmand en énergie, le train du futur conçu par Alstom va effectuer ses premiers trajets entre Paris et Marseille. Une montée en gamme séduisante, mais livrée au compte-gouttes jusqu’en 2030.\n\nPar @TVigoureux\n➡️ https://l.lepoint.fr/U1U"
-    },
-    {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-06 21:29",
-      "text": "Présidentielle 2027 : la volte-face stratégique de Bruno Retailleau https://l.leparisien.fr/kKr4"
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-07 21:02",
+      "text": "[Retweet de @le_Parisien_PSG] DIRECT. PSG - Troyes : suivez la rencontre de la dixième journée de la Ligue 1\n➡️ https://l.leparisien.fr/VzE8"
     },
     {
       "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-06 21:30",
-      "text": "Saint-Nazaire (44) : intrusion au lycée Aristide-Briand, élèves confinés, extincteurs vidés et tirs de mortiers\n\n https://www.fdesouche.com/2026/11/06/saint-nazaire-44-intrusion-lycee-aristide-briand-eleves-confines-mortiers/"
+      "published_at": "2026-11-07 21:02",
+      "text": "https://www.fdesouche.com/2026/11/07/saint-gaudens-jose-capela-deces-agression-cinquante-octobre-2026/ \n\nAprès la mort de José Capela, plusieurs commerçants de Saint-Gaudens ont annoncé fermer le 7 novembre. Un dispositif policier renforcé a été confirmé face aux tensions."
+    },
+    {
+      "author_name": "Le JDD",
+      "published_at": "2026-11-07 21:05",
+      "text": "Aquilino Morelle : «Mélenchon joue de cet antiracisme radicalisé, racialiste et extrémiste» https://ow.ly/CQ1M106I5AY"
+    },
+    {
+      "author_name": "Frontières",
+      "published_at": "2026-11-07 21:05",
+      "text": "💥 L’arrivée de @MarionMarechal au Gala de l’ @ISSEP_France.\n\nDe nombreuses personnalités sont présentes comme Matthieu Bock-Coté."
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-07 21:08",
+      "text": "Après l'agression d'une journaliste de CNEWS sur le terrain, la ministre de la Culture semble faire preuve d'une indignation sélective.\n\nToute l'info est à retrouver sur https://cnews.fr"
     },
     {
       "author_name": "Le Figaro",
-      "published_at": "2026-11-06 21:30",
-      "text": "Alberto Núñez Feijóo envisage de retirer son pays de l'organisation du Mondial s’il devient premier ministre et que la finale est finalement attribuée au Maroc. →https://l.lefigaro.fr/FPqD"
+      "published_at": "2026-11-07 21:10",
+      "text": "Israël: le président de la république charge Gadi Eisenkot, principal opposant de Benyamin Netanyahou, de former un gouvernement de coalition → https://l.lefigaro.fr/4eXx"
     },
+    {
+      "author_name": "Rassemblement National",
+      "published_at": "2026-11-07 21:12",
+      "text": "Ce dimanche 8 novembre, retrouvez @J_Bardella à La Grande-Motte (34) pour une nouvelle séance de dédicaces de « GOUVERNER » !\n\nRendez-vous au 477 quai Charles de Gaulle, à partir de 14h !\n\n📖 Commandez le livre : https://www.amazon.fr/dp/2213736499"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-07 21:12",
+      "text": "« Ici est la force ! » : depuis Le Bourget, Jean-Luc Mélenchon prêt à décoller pour le second tour de la présidentielle\n➡️ https://l.leparisien.fr/XouS",
+      "also_by": [
+        "Le Parisien | politique"
+      ]
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-07 21:15",
+      "text": "Manifestation du 7 novembre : le défilé s'est déroulé sans heurts à Toulouse pour le plus grand soulagement des commerçants https://ow.ly/et3s106I5Ce"
+    },
+    {
+      "author_name": "Jon De Lorraine",
+      "published_at": "2026-11-07 21:16",
+      "text": "🔞🇵🇱 La vidéo HALLUCINANTE du policier qui a tiré sur l'assaillant qui a tué et blessé des polonais à Cracovie.\nAlors que son collègue se fait tirer dessus, lui aussi est touché. Il se relève pour NEUTRALISER le tireur. \n\nQuel HÉROS."
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-07 21:16",
+      "text": "Jean-Luc Mélenchon revendique 20 000 participants à son meeting ce samedi. Grisé par sa dynamique à gauche, il y a détaillé son programme en vue de 2027.\n\n➡️ https://l.lepoint.fr/nSV"
+    },
+    {
+      "author_name": "Jean MESSIHA",
+      "published_at": "2026-11-07 21:18",
+      "text": "[Retweet de @AmauryBucco] 🔎 Deux agressions similaires, avec des victimes qui dénoncent des propos et un mobile racistes. Mais deux façons bien différentes de les traiter journalistiquement.\n\nD’un côté, l’agression raciste est présentée comme un fait. De l’autre, (parce qu'il s'agit de racisme anti blanc"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-07 21:20",
+      "text": "Dans la Drôme, 40 armes à feu et 25 bâtons de dynamite trouvés au domicile d’un « collectionneur compulsif »\n➡️ https://l.leparisien.fr/qu1P"
+    },
+    {
+      "author_name": "Ni Oubli Ni Pardon",
+      "published_at": "2026-11-07 21:20",
+      "text": "🔴 RAPPEL"
+    },
+    {
+      "author_name": "Marion Maréchal",
+      "published_at": "2026-11-07 21:22",
+      "text": "Merci à tous pour votre présence au 6ème Grand Gala de l’@ISSEP_France !"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-07 21:23",
+      "text": "«Le but de ces petits groupes est de se disperser et de déjouer le dispositif de sécurité en place», explique Yoann Maras, délégué national Alliance Police, dans #HDPros2WE\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-07 21:26",
+      "text": "La Fondation Napoléon se sépare chez Millon d’un ensemble d’objets d’art et de vertu.\n\n➡️ https://l.lepoint.fr/yLa"
+    },
+    {
+      "author_name": "Alain Weber",
+      "published_at": "2026-11-07 21:26",
+      "text": "J’étais certain qu’il avait un programme révolutionnaire et qu’il attendait le bon moment, pour nous en faire part.  🙄🙄😢\n[Cite @BFMTV] Édouard Philippe, candidat \"Horizons\" à la présidentielle, veut \"faire en sorte que la France soit un peu plus forte plutôt qu'un peu trop faible\" pour répondre à la colère"
+    },
+    {
+      "author_name": "Frontières",
+      "published_at": "2026-11-07 21:29",
+      "text": "« Comment l’université en est-elle venue à produire de jeunes individus névrosés aux cheveux bleus en crise permanente de leur propre existence »\n\n👉 Mathieu Bock-Coté au Gala de l’ @ISSEP_France"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-07 21:30",
+      "text": "🚩 S’engager contre les prédateurs\n\n📱 Réseaux sociaux, intelligence artificielle, cyberharcèlement, pédocriminalité… Comment protéger nos enfants face aux nouveaux dangers du numérique ?\n\n🎙️ Demain, Muriel Réus reçoit @sarahelhairy, haute-commissaire à l’Enfance et autrice du"
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-07 21:30",
+      "text": "Déconnexion https://l.leparisien.fr/9FWt"
+    },
+    {
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-07 21:30",
+      "text": "https://www.fdesouche.com/2026/11/07/nancy-54-detenu-agression-surveillante-prison-maxeville-fo-justice-5-novembre/ \n\nFO Justice dénonce l'agression d'une surveillante à la prison de Nancy-Maxéville : insultes sexuelles, exhibition, jet d'un récipient en verre et coup au visage."
+    }
+  ],
+  "context": [
     {
       "author_name": "Le Parisien",
       "published_at": "2026-11-06 21:31",
