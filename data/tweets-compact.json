@@ -1,15 +1,15 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-07 22:30",
-  "period": "du 2026-11-06 22:30 au 2026-11-07 22:30",
-  "new_period": "du 2026-11-07 20:00 au 2026-11-07 22:30",
-  "context_period": "du 2026-11-06 22:30 au 2026-11-07 20:00",
+  "generated_at": "2026-11-07 23:00",
+  "period": "du 2026-11-06 23:00 au 2026-11-07 23:00",
+  "new_period": "du 2026-11-07 20:00 au 2026-11-07 23:00",
+  "context_period": "du 2026-11-06 23:00 au 2026-11-07 20:00",
   "coverage_complete": true,
-  "new_count": 155,
-  "context_count": 1131,
-  "duplicates_merged": 66,
-  "empty_removed": 4,
+  "new_count": 191,
+  "context_count": 1107,
+  "duplicates_merged": 68,
+  "empty_removed": 5,
   "new": [
     {
       "author_name": "Sud Radio",
@@ -433,7 +433,10 @@
     {
       "author_name": "Frontières",
       "published_at": "2026-11-07 21:05",
-      "text": "💥 L’arrivée de @MarionMarechal au Gala de l’ @ISSEP_France.\n\nDe nombreuses personnalités sont présentes comme Matthieu Bock-Coté."
+      "text": "💥 L’arrivée de @MarionMarechal au Gala de l’ @ISSEP_France.\n\nDe nombreuses personnalités sont présentes comme Matthieu Bock-Coté.",
+      "also_by": [
+        "Identité Libertés"
+      ]
     },
     {
       "author_name": "CNEWS",
@@ -491,7 +494,10 @@
     {
       "author_name": "Marion Maréchal",
       "published_at": "2026-11-07 21:22",
-      "text": "Merci à tous pour votre présence au 6ème Grand Gala de l’@ISSEP_France !"
+      "text": "Merci à tous pour votre présence au 6ème Grand Gala de l’@ISSEP_France !",
+      "also_by": [
+        "Damien Rieu"
+      ]
     },
     {
       "author_name": "CNEWS",
@@ -511,7 +517,10 @@
     {
       "author_name": "Frontières",
       "published_at": "2026-11-07 21:29",
-      "text": "« Comment l’université en est-elle venue à produire de jeunes individus névrosés aux cheveux bleus en crise permanente de leur propre existence »\n\n👉 Mathieu Bock-Coté au Gala de l’ @ISSEP_France"
+      "text": "« Comment l’université en est-elle venue à produire de jeunes individus névrosés aux cheveux bleus en crise permanente de leur propre existence »\n\n👉 Mathieu Bock-Coté au Gala de l’ @ISSEP_France",
+      "also_by": [
+        "Identité Libertés"
+      ]
     },
     {
       "author_name": "Sud Radio",
@@ -800,134 +809,189 @@
       "author_name": "Fdesouche.com est une revue de presse",
       "published_at": "2026-11-07 22:30",
       "text": "À Caen, Paris-Normandie affirme le caractère raciste d’insultes filmées. À Rouen, il attend des confirmations sur le racisme anti-Blancs. Dura lex compare les deux traitements.\n\n https://www.fdesouche.com/2026/11/07/paris-normandie-deux-poids-deux-mesures-racisme-anti-blancs-rouen/"
-    }
-  ],
-  "context": [
+    },
     {
-      "author_name": "Pierre Sautarel",
-      "published_at": "2026-11-06 22:32",
-      "text": "[Retweet de @F_Desouche] Hénin-Beaumont (62) : « Raciste », « facho », « nazi »… une quarantaine de manifestants conspuent les visiteurs venus rencontrer Jordan Bardella\n\n📹 @Observatoire_VP\nhttps://www.fdesouche.com/2026/11/06/henin-beaumont-62-manifestants-dedicaces-jordan-bardella-5-novembre-2026/"
+      "author_name": "CNEWS",
+      "published_at": "2026-11-07 22:31",
+      "text": "«C'est une fin de pouvoir crépusculaire», analyse Raphaël Stainville, journaliste, dans #100PolitiqueWE\n\nToute l'info est à retrouver sur https://cnews.fr"
     },
     {
       "author_name": "Jon De Lorraine",
-      "published_at": "2026-11-06 22:32",
-      "text": "\"Nous allons donner une leçon à ces gangs qui font souffrir le peuple haïtien, qui tuent ses proches et qui l’empêchent de mener une vie normale, libre et sans peur\".\n\nAprès avoir fait chuter la criminalité au Salvador, Nayib Bukele intervient désormais en Haïti pour combattre"
+      "published_at": "2026-11-07 22:31",
+      "text": "🇵🇱 La Police a découvert 3 corps, 2 femmes et 1 homme, dans la maison de l'auteur de l'attentat terroriste de Cracovie. Probablement sa famille.\n[Cite @jon_delorraine] 🔴🇵🇱 Selon le ministre polonais de l’Intérieur, Marcin Kierwinski, tout indique que l’auteur présumé de l’attaque à Cracovie était \"fasciné par les idéologies d’extrême droite\".\n(Vidéo @visegrad24 traduite)"
     },
     {
-      "author_name": "Pierre Sautarel",
-      "published_at": "2026-11-06 22:32",
-      "text": "[Retweet de @F_Desouche] Les vidéos de Fdesouche se regardent désormais dans un fil à faire défiler. Choisissez une rubrique, explorez les mots-clés et partagez vos séquences. Testez la Fdescope sur téléphone ou tablette.\n\nhttps://www.fdesouche.com/fdescope/"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-06 22:34",
-      "text": "«Ces juges viennent d'envoyer ces gamins dans le mur», déplore Joseph Thouvenel, journaliste, après que trois suspects aient été relâchés après le lynchage d'une policière\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-06 22:36",
-      "text": "Crise bancaire : le Paraguay commence à rendre leurs fonds aux épargnants lésés https://ow.ly/PnIi106I3oe"
-    },
-    {
-      "author_name": "Régis Le Sommier",
-      "published_at": "2026-11-06 22:36",
-      "text": "[Retweet de @Omerta_officiel] 🇺🇸 ÉLECTIONS US : UNE LOURDE DÉFAITE POUR LES RÉPUBLICAINS !\n\nComment expliquer ce revers ? Quelles conséquences pour Donald Trump et la suite de son mandat ?\n\nDécryptage avec @LeSommierRgis @radiocourtoisie \n\nhttps://youtu.be/2Y-myBKOM-c"
-    },
-    {
-      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
-      "published_at": "2026-11-06 22:37",
-      "text": "Ces fdp dépressifs de droite ont esthétisé le dooming. Ils en ont fait un spleen post-moderne, on dirait presque un film de Wonk kar-wai. Complètement tarés. Prenez un valium, allez aux putes de temps en temps, et arrêtez de nous empêcher de militer sérieusement. \nEvidemment,\n[Cite @WearForbidden] FORBIDDEN STUDIOS PRESENTS: DOOM STROLL"
-    },
-    {
-      "author_name": "Régis Le Sommier",
-      "published_at": "2026-11-06 22:37",
-      "text": "[Retweet de @MarioNawfal] 🇺🇸🇷🇺🇺🇦 Trump says a major agreement could go far beyond Ukraine.\n\n“I could even say it might involve all of Europe.”\n\nHe believes a big agreement is coming and says everyone will be thrilled with the outcome.\n\nThat's a lot of optimism. Let's hope it actually leads to peace after"
+      "author_name": "Frontières",
+      "published_at": "2026-11-07 22:31",
+      "text": "« L’Éducation Nationale ne transmet plus. Tous les thermomètres de l’exigence ont été brisés. La condition de l’effort, quant à elle, a été occultée. »\n\n👉 Marion Maréchal au Gala de l’ @ISSEP_France"
     },
     {
       "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-06 22:40",
-      "text": "Dax (40) : condamné pour une agression sexuelle sur son beau-fils de 9 ans, il devient président d’un club consacré à l’aide aux enfants\n\n https://www.fdesouche.com/2026/11/06/dax-40-kiwanis-president-condamne-agression-sexuelle-beau-fils-enfant/"
+      "published_at": "2026-11-07 22:32",
+      "text": "LA TÉLÉCOMMANDE EST MORTE.\nVIVE LE POUCE. 📱\n\nVoici FDESCOPE : le fil vidéo de Fdesouche. Zappez les séquences, explorez les dernières 24 h et les archives. Et si une vidéo vous interpelle, retrouvez l’article pour le contexte.\n\n👉 https://www.fdesouche.com/fdescope/"
     },
     {
-      "author_name": "Régis Le Sommier",
-      "published_at": "2026-11-06 22:40",
-      "text": "[Retweet de @rybar_en] Kamyshevakha and Orikhiv\n\nNo changes on the Zaporizhia front\n\nOn the frontline of the Zaporizhia direction, where a resonant strike on Kamyshevakha took place, the situation remains without significant changes. Fierce fighting continues for Orikhiv, where the enemy conducts local"
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-07 22:32",
+      "text": "146 000 personnes ont manifesté dans le calme en France, avant quelques tensions en fin de cortège.\nhttps://www.sudradio.fr/sud-radio/en-direct-lacte-4-des-gilets-jaunes-avec-90-mobilisations-dans-toute-la-france"
+    },
+    {
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-07 22:33",
+      "text": "Dura lex compare deux articles de Paris-Normandie : des « insultes racistes » à Caen, une « rixe » à Rouen, où le journal réserve la qualification de racisme anti-Blancs.\n\n https://www.fdesouche.com/2026/11/07/paris-normandie-deux-poids-deux-mesures-racisme-anti-blancs-rouen/"
+    },
+    {
+      "author_name": "Gilbert Collard",
+      "published_at": "2026-11-07 22:34",
+      "text": "Ce policier polonais qui, malgré ses blessures et son armement disproportionné, a défendu d'autres citoyens mérite notre admiration !"
+    },
+    {
+      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
+      "published_at": "2026-11-07 22:34",
+      "text": "[Retweet de @wdesaintjust] M. @BallyBagayoko, vous et vos amis, comptez-vous recommencer en France une Toussaint rouge ? Je ne suis pas éloigné de le croire"
+    },
+    {
+      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
+      "published_at": "2026-11-07 22:35",
+      "text": "[Retweet de @MTower990429] @RenaudCamus @ViolaineG69002 Il menace surtout La ligne traditionnelle de LFI à mon avis.\nLes Panot Bompard et compagnie seront les premières victimes de ce racialiste, et ça viendra très vite."
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-06 22:41",
-      "text": "🎧 PODCAST | C’est une alerte de santé publique qui fait de plus en plus de bruit. La pose d’une prothèse de hernie est une opération extrêmement courante. Mais de nombreux de patients alertent des complications dont ils souffrent depuis la pose d’un tel implant... \n\nOn fait le"
+      "published_at": "2026-11-07 22:36",
+      "text": "Camille, tombée amoureuse de l’ex d’une amie : « Chouette, il est libre maintenant »\n➡️ https://l.leparisien.fr/uUwC"
     },
     {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-06 22:44",
-      "text": "Un rebondissement dans cette affaire qui avait provoqué la stupeur ➡️ https://mrf.lu/2_k4J"
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-07 22:36",
+      "text": "Une adolescente de 16 ans dit avoir reçu une centaine de clients en neuf jours. Deux hommes soupçonnés d'avoir voulu extorquer le trio ont été mis en examen et écroués. \n https://www.fdesouche.com/2026/11/07/vanves-92-deux-mineures-prostituees-fusil-braqueurs-centaine-clients/"
     },
     {
-      "author_name": "AFP News Agency",
-      "published_at": "2026-11-06 22:45",
-      "text": "Meghan Markle's estranged father has been arrested in Florida over alleged possession of child sexual abuse images https://u.afp.com/SyjB"
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-07 22:37",
+      "text": "Après l’entretien tendu avec Sarah Knafo, la direction de franceinfo indique avoir proposé un soutien médical et juridique à ses journalistes, visés selon elle par des menaces en ligne. \n https://www.fdesouche.com/2026/11/07/franceinfo-interview-sarah-knafo-accompagnement-medical-juridique-journalistes/"
+    },
+    {
+      "author_name": "Bouli ☃️",
+      "published_at": "2026-11-07 22:39",
+      "text": "[Retweet de @bouliboulibouli] @francoisedegois @Qofficiel @salhiabrakhlia @jmaphatie @polgasnier Le dernier sketch de Booder est excellent."
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-07 22:40",
+      "text": "[Retweet de @LesPatriotes_06] ♦️Hommage au général de Gaulle ce lundi 9/11 avec @f_philippot à Colombey-Les-Deux-Églises\n\nUltimes places pour le déjeuner et l’hommage ici : https://les-patriotes.fr/dejeunercolombey/"
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-07 22:40",
+      "text": "[Retweet de @LesPatriotes_06] Le retour du Kit d'urgence 72h ! Ne nous laissons pas impressionner par cette gouvernance par la peur et pour cela écouter l'analyse complète de @f_philippot sur ce sujet ⤵️\n#StopPeur\n#FrexitVite\nhttps://youtu.be/ZITHtN6HQuA?si=4RUxSU2Y8_I2ug11"
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-07 22:40",
+      "text": "[Retweet de @f_philippot] J-7.\n\nMacron dehors\nFREXIT\n\nSoyons une marée humaine.\n\n🇫🇷🇫🇷🇫🇷"
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-07 22:40",
+      "text": "[Retweet de @vetopatriote] ‼️IL N'Y A ABSOLUMENT AUCUNE RAISON \nde  refuser  la  Primaire des Souverainistes‼️\n\n[Retrouvez l’intégralité du DIRECT de Florian PHILIPPOT (06/11/26) : https://youtu.be/O6g9dE_nK3Q]\n\nVia @FrancoisDESCAM7"
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-07 22:40",
+      "text": "[Retweet de @Chr63391Chris] Censure des réseaux sociaux : Macron démasqué ! https://youtube.com/shorts/Weh5lGs70eg?is=XBZdXI5rPG7DINfS via @YouTube"
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-07 22:40",
+      "text": "[Retweet de @vetopatriote] 🧐⚠️Un SMS de Macron au sujet de Marine Le Pen et son inéligibilité pose question …🤔\n\n[Retrouvez l’intégralité du DIRECT de Florian PHILIPPOT (06/11/26) : https://youtu.be/O6g9dE_nK3Q]\nVia @FrancoisDESCAM7"
+    },
+    {
+      "author_name": "Frontières",
+      "published_at": "2026-11-07 22:44",
+      "text": "« Faute d’offrir à la jeunesse un idéal positif de dépassement de soi, les mouvements politiques comme LFI captent la détresse de la jeune génération pour lui transmettre le virus de la rancoeur »\n\n👉 @MarionMarechal au Gala de l’ @ISSEP_France"
+    },
+    {
+      "author_name": "Jean MESSIHA",
+      "published_at": "2026-11-07 22:45",
+      "text": "[Retweet de @JeanMessiha] ⚠️LA FRANCE FACE À LA DÉRIVE FASCISTE DE L’ANTIFASCISME\n\nIls se prétendent antifascistes.\nIls insultent, menacent, censurent et parfois tuent au nom d’un fascisme qui n’existe que dans leurs esprits putréfiés.\n\nLeur méthode est terrifiante : on ne vous tue pas parce que vous êtes"
+    },
+    {
+      "author_name": "Gilbert Collard",
+      "published_at": "2026-11-07 22:45",
+      "text": "Auch : le domicile d’un policier détruit par un incendie volontaire. Laurent Nuñez dénonce un acte criminel et promet que les auteurs seront identifiés ... toute guerre civile commence comme ça !"
+    },
+    {
+      "author_name": "Collectif Némésis",
+      "published_at": "2026-11-07 22:46",
+      "text": "Le lien pour vous inscrire à notre prochaine manifestation : https://forms.gle/pRmswhmfCErmjz…\n😁"
+    },
+    {
+      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
+      "published_at": "2026-11-07 22:50",
+      "text": "[Retweet de @TradBritGroup] Charlie Downes outlines Restore Britain’s radical plan to overhaul Britain’s immigration, asylum, deportation and citizenship system.\n\nThe plan goes beyond illegal immigration.\n\nSpeaking at a conference in France, Charlie sets out Restore Britain’s proposals for mass"
+    },
+    {
+      "author_name": "Jean-Yves Le Gallou",
+      "published_at": "2026-11-07 22:50",
+      "text": "[Retweet de @MartinSellner_] Last weekend, I was banned for life from entering France. Today, I held a press conference with @CordierAlice2 and @ObjectifRemi at the Hôtel Arbez in La Cure, a Swiss mountain village. The French–Swiss border runs straight through the hotel.\n\nThe border went right across our"
+    },
+    {
+      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
+      "published_at": "2026-11-07 22:53",
+      "text": "[Retweet de @NicholasMorto11] (2/2) The landlord then charged an extortionate amount for the chicken causing Louis to intervene and say:\n\n\"Are chickens so rare in these parts?\"\n\nThe landlord replied \"No but kings are\"\n\nLouis laughed and paid the man in full."
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-07 22:53",
+      "text": "Trump propose le poste de porte-parole de la Maison Blanche à Dana White, patron de la principale fédération de MMA\n➡️ https://l.leparisien.fr/QtfJ"
     },
     {
       "author_name": "Le Point",
-      "published_at": "2026-11-06 22:48",
-      "text": "Toilettes insalubres, plafonds effondrés...Ce lundi, le gouvernement a publié une liste des établissements considérés comme prioritaires à la rénovation, malgré une méthodologie contestée. Votre lycée est-il concerné ?\n➡️ https://l.lepoint.fr/680"
+      "published_at": "2026-11-07 22:54",
+      "text": "Un hackeur a découvert que sa Smart TV Samsung l’épiait à des fins ­de profilage publicitaire en utilisant le micro et des captures d’écran.\n\n➡️ https://l.lepoint.fr/FNR\nPar @guerricp"
     },
     {
-      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
-      "published_at": "2026-11-06 22:50",
-      "text": "[Retweet de @VaubanBooks] Perhaps the best interview I've seen with Renaud Camus. If you have the French, I very much encourage you to watch it👇"
-    },
-    {
-      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
-      "published_at": "2026-11-06 22:50",
-      "text": "[Retweet de @cg59300] Le Discours de Grenelle \n\nRenaud Camus\n\nLe 15 novembre 2014"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-06 22:53",
-      "text": "«À partir du moment où l'immigration est assimilée, il n'y a plus de problème», expose Léna Rey, journaliste suisse, dans #100PolitiqueWE\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
-      "published_at": "2026-11-06 22:54",
-      "text": "[Retweet de @BenjaminRandow] 6 novembre 1836, mort de Charles X, dernier roi de France.\n\"Il est mort. Rien de plus.\" \nVictor Hugo"
-    },
-    {
-      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
-      "published_at": "2026-11-06 22:55",
-      "text": "[Retweet de @SabineShenerman] @EmmanuelMacron \nUne dame âgée autochtone, assassinée.\nVictime de votre politique de grand remplacement.\nAllez vous recevoir sa famille à l'Elysée ?"
+      "author_name": "Jean-Yves Le Gallou",
+      "published_at": "2026-11-07 22:55",
+      "text": "[Retweet de @DamienRieu] Interdit de séjour en France, l’activiste identitaire et promoteur de la remigration @MartinSellner_ organise une conférence de presse dans un restaurant situé sur la frontière Franco-Suisse : il est du côté Suisse d’une table, à côté d’@CordierAlice2 qui est coté français. 😂"
     },
     {
       "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-06 22:55",
-      "text": "Italie : Rome continue de refuser des transferts de demandeurs d’asile depuis d’autres pays de l’UE, selon la Commission européenne\n\n https://www.fdesouche.com/2026/11/06/italie-rome-refuse-transferts-demandeurs-asile-ue-commission-europeenne/"
+      "published_at": "2026-11-07 22:55",
+      "text": "Un mois après la fermeture administrative de l'établissement privé Al Ghazali à Creil, le tribunal administratif suspend la mesure. Le retour des élèves est annoncé pour le 9 novembre. \n https://www.fdesouche.com/2026/11/07/creil-60-ecole-musulmane-al-ghazali-fermeture-suspendue-reouverture-9-novembre-2026/"
     },
     {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-06 22:55",
-      "text": "Procès des parents d’Inass : « Je la giflais, je savais pas pourquoi je tapais ma fille »\n➡️ https://l.leparisien.fr/38Zi"
-    },
-    {
-      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
-      "published_at": "2026-11-06 22:55",
-      "text": "[Retweet de @gabriellecluzel] Horrible. Il célèbre la Toussaint rouge. Une pensée pour le pauvre Guy Monnerot, jeune instituteur de 23 ans exécuté ce jour-là. Comment un maire, un élu représentant l’État français peut-il fêter cela ?"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-06 22:56",
-      "text": "XV de France : le Championnat des nations a une «saveur différente», estime Antoine Dupont https://ow.ly/r2cY106I3qH"
+      "author_name": "CNEWS",
+      "published_at": "2026-11-07 22:56",
+      "text": "«Aujourd'hui, les colères s'additionnent dans le pays», souligne Aurélie Taquillain, vice-présidente de la région Île-de-France, dans #100PolitiqueWE\n\nToute l'info est à retrouver sur https://cnews.fr"
     },
     {
       "author_name": "Jon De Lorraine",
-      "published_at": "2026-11-06 22:56",
-      "text": "Mais qu’est ce que je viens de voir ????"
+      "published_at": "2026-11-07 22:57",
+      "text": "🇵🇱 PATRIOTA."
     },
     {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-06 23:00",
-      "text": "La mobilisation contre la vie chère entend franchir les frontières.→https://l.lefigaro.fr/aoDV"
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-07 22:57",
+      "text": "En Louisiane, des voix enregistrées en 1935 ressurgissent : les plus anciens témoignages parlés connus du français louisianais et du créole. Un patrimoine exceptionnel.\n\nhttps://x.com/Phil_Lewis_/status/2118877863604531315/video/1\n\nhttps://www.fdesouche.com/2026/11/07/louisiane-plus-anciens-enregistrements-parles-francais-creole-1935-archives/"
     },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-07 22:57",
+      "text": "Raphaël Glucksmann ne croit pas à une alliance allant de la gauche à la droite ➡️ https://mrf.lu/2_bwD"
+    },
+    {
+      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
+      "published_at": "2026-11-07 22:59",
+      "text": "[Retweet de @dannyconversano] On ne peut plus juste."
+    },
+    {
+      "author_name": "Frontières",
+      "published_at": "2026-11-07 22:59",
+      "text": "« L’université est devenue un tribunal de l’Histoire, un tribunal de l’Européen, un TRIBUNAL DU BLANC ! »\n\n👉 @MarionMarechal au Gala de l’ @ISSEP_France"
+    }
+  ],
+  "context": [
     {
       "author_name": "Tribune Populaire🌐",
       "published_at": "2026-11-06 23:04",
@@ -4871,6 +4935,11 @@
       "author_name": "Dreuz",
       "published_at": "2026-11-07 16:12",
       "text": "Un tireur a ouvert le feu depuis un véhicule en marche sur la place principale de Cracovie, en Pologne, faisant plusieurs morts et blessés.\n[Cite @AZ_Intel_] BREAKING: Shooter opens fire from moving vehicle in main square of Krakow, Poland, killing and injuring multiple people."
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-07 16:13",
+      "text": "Procès des parents d’Inass : « Je la giflais, je savais pas pourquoi je tapais ma fille »\n➡️ https://l.leparisien.fr/uUwp"
     },
     {
       "author_name": "Europe 1",
