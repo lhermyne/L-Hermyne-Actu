@@ -1,14 +1,40 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-07T04:25:16.220Z",
+  "updated_at": "2026-11-07T04:55:21.722Z",
   "window_hours": 24,
-  "window_start": "2026-11-06T04:25:16.220Z",
+  "window_start": "2026-11-06T04:55:21.722Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1747,
+  "count": 1743,
   "tweets": [
+    {
+      "id": "2118929014559531243",
+      "created_at": "2026-11-07T04:50:19.000Z",
+      "author": "NiONiPardon",
+      "author_name": "Ni Oubli Ni Pardon",
+      "type": "tweet",
+      "text": "03/2021 Sharon Stone, actrice : « Venez à #coreresponse / Carbon Health. Il a été facile d'obtenir un rendez-vous. », a-t-elle écrit sur son compte Instagram. #SpécialUS🇺🇸",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/NiONiPardon/status/2118929014559531243"
+    },
+    {
+      "id": "2118928307161022713",
+      "created_at": "2026-11-07T04:47:30.000Z",
+      "author": "LePoint",
+      "author_name": "Le Point",
+      "type": "tweet",
+      "text": "Comment les violences ont évolué en marge des manifestations https://l.lepoint.fr/8Py",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/LePoint/status/2118928307161022713"
+    },
     {
       "id": "2118921926156394567",
       "created_at": "2026-11-07T04:22:09.000Z",
@@ -22641,84 +22667,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/SudRadio/status/2118568889558917287"
-    },
-    {
-      "id": "2118567705519268164",
-      "created_at": "2026-11-06T04:54:36.000Z",
-      "author": "SudRadio",
-      "author_name": "Sud Radio",
-      "type": "tweet",
-      "text": "🏛️ Grigny : Yacine A. condamné à 28 ans de prison pour le meurtre de sa compagne\n\nhttps://www.sudradio.fr/societe/feminicide-dans-lessonne-28-ans-de-reclusion-pour-une-these-de-laccident-qui-ne-convainc-pas",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/SudRadio/status/2118567705519268164"
-    },
-    {
-      "id": "2118567132762112366",
-      "created_at": "2026-11-06T04:52:20.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "Présidentielle 2027 : la volte-face stratégique de Bruno Retailleau\n➡️ https://l.leparisien.fr/rBRD",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2118567132762112366"
-    },
-    {
-      "id": "2118566734164566354",
-      "created_at": "2026-11-06T04:50:45.000Z",
-      "author": "NiONiPardon",
-      "author_name": "Ni Oubli Ni Pardon",
-      "type": "tweet",
-      "text": "05/2020 Les gestes barrières par l’acteur Kev Adams, dans une vidéo sponsorisée par l’UNICEF et la ville de Paris : « Aujourd'hui, je voulais vous parler d’un geste barrière très important, qui est celui de porter un masque. Toujours porter un masque, toujours porter des gants",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/NiONiPardon/status/2118566734164566354"
-    },
-    {
-      "id": "2118565647445549292",
-      "created_at": "2026-11-06T04:46:26.000Z",
-      "author": "AFP",
-      "author_name": "AFP News Agency",
-      "type": "tweet",
-      "text": "Trump lashes out at \"crooked\" elections as the Democrats' midterm steamroller powers ahead\n\nAnother potential Senate upset in Mississippi is threatening to deepen Republicans' historic defeat\n\nhttps://u.afp.com/Syro",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "en",
-      "url": "https://x.com/AFP/status/2118565647445549292"
-    },
-    {
-      "id": "2118563387084873998",
-      "created_at": "2026-11-06T04:37:27.000Z",
-      "author": "leparisien_pol",
-      "author_name": "Le Parisien | politique",
-      "type": "tweet",
-      "text": "Le Japon en colère après la saisie par la Russie d’actifs de la société Tobacco International\n➡️ https://l.leparisien.fr/PcH1",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/leparisien_pol/status/2118563387084873998"
-    },
-    {
-      "id": "2118560622623506480",
-      "created_at": "2026-11-06T04:26:28.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "Le Japon en colère après la saisie par la Russie d’actifs de la société Tobacco International\n➡️ https://l.leparisien.fr/8mTM",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2118560622623506480"
     }
   ]
 }

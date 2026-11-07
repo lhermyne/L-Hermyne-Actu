@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-07 05:25",
-  "period": "du 2026-11-06 05:25 au 2026-11-07 05:25",
-  "new_period": "du 2026-11-06 20:00 au 2026-11-07 05:25",
-  "context_period": "du 2026-11-06 05:25 au 2026-11-06 20:00",
+  "generated_at": "2026-11-07 05:55",
+  "period": "du 2026-11-06 05:55 au 2026-11-07 05:55",
+  "new_period": "du 2026-11-06 20:00 au 2026-11-07 05:55",
+  "context_period": "du 2026-11-06 05:55 au 2026-11-06 20:00",
   "coverage_complete": true,
-  "new_count": 294,
-  "context_count": 1353,
-  "duplicates_merged": 92,
+  "new_count": 296,
+  "context_count": 1349,
+  "duplicates_merged": 90,
   "empty_removed": 8,
   "new": [
     {
@@ -1532,37 +1532,19 @@
       "author_name": "Le Parisien",
       "published_at": "2026-11-07 05:22",
       "text": "Présidentielle 2027 : les sondages ont-ils toujours vu juste à six mois des élections ?\n➡️ https://l.leparisien.fr/lhsQ"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-06 05:26",
-      "text": "Le Japon en colère après la saisie par la Russie d’actifs de la société Tobacco International\n➡️ https://l.leparisien.fr/8mTM",
-      "also_by": [
-        "Le Parisien | politique"
-      ]
     },
     {
-      "author_name": "AFP News Agency",
-      "published_at": "2026-11-06 05:46",
-      "text": "Trump lashes out at \"crooked\" elections as the Democrats' midterm steamroller powers ahead\n\nAnother potential Senate upset in Mississippi is threatening to deepen Republicans' historic defeat\n\nhttps://u.afp.com/Syro"
+      "author_name": "Le Point",
+      "published_at": "2026-11-07 05:47",
+      "text": "Comment les violences ont évolué en marge des manifestations https://l.lepoint.fr/8Py"
     },
     {
       "author_name": "Ni Oubli Ni Pardon",
-      "published_at": "2026-11-06 05:50",
-      "text": "05/2020 Les gestes barrières par l’acteur Kev Adams, dans une vidéo sponsorisée par l’UNICEF et la ville de Paris : « Aujourd'hui, je voulais vous parler d’un geste barrière très important, qui est celui de porter un masque. Toujours porter un masque, toujours porter des gants"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-06 05:52",
-      "text": "Présidentielle 2027 : la volte-face stratégique de Bruno Retailleau\n➡️ https://l.leparisien.fr/rBRD"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-06 05:54",
-      "text": "🏛️ Grigny : Yacine A. condamné à 28 ans de prison pour le meurtre de sa compagne\n\nhttps://www.sudradio.fr/societe/feminicide-dans-lessonne-28-ans-de-reclusion-pour-une-these-de-laccident-qui-ne-convainc-pas"
-    },
+      "published_at": "2026-11-07 05:50",
+      "text": "03/2021 Sharon Stone, actrice : « Venez à #coreresponse / Carbon Health. Il a été facile d'obtenir un rendez-vous. », a-t-elle écrit sur son compte Instagram. #SpécialUS🇺🇸"
+    }
+  ],
+  "context": [
     {
       "author_name": "Sud Radio",
       "published_at": "2026-11-06 05:59",
@@ -5009,6 +4991,11 @@
       "author_name": "Fdesouche.com est une revue de presse",
       "published_at": "2026-11-06 13:08",
       "text": "Caen : un premier mineur avait reconnu avoir porté le maillot « Ben Laden » et outragé un proviseur et des policiers. Deux autres suspects interpellés après la mobilisation lycéenne du 8 octobre. Audience prévue le 15 décembre.\n https://www.fdesouche.com/2026/11/06/caen-14-enquete-ouverte-pour-apologie-du-terrorisme-et-de-crimes-contre-lhumanite-en-marge-dune-mobilisation-lyceenne-des-jeunes-portaient-des-maillots-aux-noms-de-merah-ben-laden-ou/"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-06 13:09",
+      "text": "Présidentielle 2027 : la volte-face stratégique de Bruno Retailleau\n➡️ https://l.leparisien.fr/yI8z"
     },
     {
       "author_name": "Cercle Aristote",
