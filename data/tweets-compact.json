@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-07 04:24",
-  "period": "du 2026-11-06 04:24 au 2026-11-07 04:24",
-  "new_period": "du 2026-11-06 20:00 au 2026-11-07 04:24",
-  "context_period": "du 2026-11-06 04:24 au 2026-11-06 20:00",
+  "generated_at": "2026-11-07 04:54",
+  "period": "du 2026-11-06 04:54 au 2026-11-07 04:54",
+  "new_period": "du 2026-11-06 20:00 au 2026-11-07 04:54",
+  "context_period": "du 2026-11-06 04:54 au 2026-11-06 20:00",
   "coverage_complete": true,
   "new_count": 288,
-  "context_count": 1357,
-  "duplicates_merged": 94,
+  "context_count": 1355,
+  "duplicates_merged": 92,
   "empty_removed": 8,
   "new": [
     {
@@ -1505,24 +1505,6 @@
     }
   ],
   "context": [
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-06 04:30",
-      "text": "Moins de pétrole, plus d’énergies renouvelables : en Chine, les émissions de CO2 n’avaient pas baissé autant depuis le Covid\n➡️ https://l.leparisien.fr/N0cJ"
-    },
-    {
-      "author_name": "AFP News Agency",
-      "published_at": "2026-11-06 04:37",
-      "text": "Plot to smuggle 3,000 tarantulas in dirty socks thwarted at Peru airport.\n\nThe spiders, found in varying stages of development, from eggs and hatchlings to adults, were headed to Germany. Just one tarantula can sell for around 500 euros in Europe\n\nhttps://u.afp.com/SyKy"
-    },
-    {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-06 04:43",
-      "text": "À l’aéroport de Palm Beach, la compagnie American Airlines a discrètement retiré le nom de Trump après les midterms\n➡️ https://l.leparisien.fr/AAVd",
-      "also_by": [
-        "Le Parisien"
-      ]
-    },
     {
       "author_name": "AFP News Agency",
       "published_at": "2026-11-06 05:03",
@@ -6252,6 +6234,11 @@
       "author_name": "Le Point",
       "published_at": "2026-11-06 15:43",
       "text": "« La tronçonneuse, c’est petit bras » : Bruno Retailleau sort le bulldozer à Saint-Raphaël\n\nPar @kevinbadeau https://l.lepoint.fr/Lop"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-06 15:44",
+      "text": "À l’aéroport de Palm Beach, la compagnie American Airlines a discrètement retiré le nom de Trump après les midterms\n➡️ https://l.leparisien.fr/Rbjp"
     },
     {
       "author_name": "Boulevard Voltaire",
