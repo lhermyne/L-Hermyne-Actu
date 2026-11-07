@@ -1,14 +1,53 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-07T03:54:51.048Z",
+  "updated_at": "2026-11-07T04:25:16.220Z",
   "window_hours": 24,
-  "window_start": "2026-11-06T03:54:51.048Z",
+  "window_start": "2026-11-06T04:25:16.220Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1743,
+  "count": 1747,
   "tweets": [
+    {
+      "id": "2118921926156394567",
+      "created_at": "2026-11-07T04:22:09.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "Présidentielle 2027 : les sondages ont-ils toujours vu juste à six mois des élections ?\n➡️ https://l.leparisien.fr/lhsQ",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2118921926156394567"
+    },
+    {
+      "id": "2118919079633285569",
+      "created_at": "2026-11-07T04:10:50.000Z",
+      "author": "NiONiPardon",
+      "author_name": "Ni Oubli Ni Pardon",
+      "type": "tweet",
+      "text": "02/2021 Jeff Goldblum, acteur, a posté sur Instagram : « Je tiens à remercier chaleureusement tous les professionnels de santé de première ligne qui continuent de travailler sans relâche pour assurer notre sécurité à tous. En tant que citoyen bien avancé dans mes années de",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/NiONiPardon/status/2118919079633285569"
+    },
+    {
+      "id": "2118917523265429812",
+      "created_at": "2026-11-07T04:04:39.000Z",
+      "author": "leparisien_pol",
+      "author_name": "Le Parisien | politique",
+      "type": "tweet",
+      "text": "Présidentielle 2027 : les sondages ont-ils toujours vu juste à six mois des élections ? https://l.leparisien.fr/AAVx",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/leparisien_pol/status/2118917523265429812"
+    },
     {
       "id": "2118899117824848316",
       "created_at": "2026-11-07T02:51:31.000Z",
@@ -270,6 +309,19 @@
       "url": "https://x.com/AFP/status/2118845019872223430"
     },
     {
+      "id": "2118843028341223898",
+      "created_at": "2026-11-06T23:08:38.000Z",
+      "author": "alainpaulweber",
+      "author_name": "Alain Weber",
+      "type": "tweet",
+      "text": "Mélenchon contre les médias : à force de voir du racisme partout, que cherche-t-il exactement ?\n\nCNews, BFMTV, LCI, TF1, Franceinfo, Radio France, l’AFP, Libération…\n\nRuth Elkrief, Anne-Claire Coudray, Apolline de Malherbe…\n\nLa liste des médias et des journalistes pris à partie",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/alainpaulweber/status/2118843028341223898"
+    },
+    {
       "id": "2118842253926096960",
       "created_at": "2026-11-06T23:05:34.000Z",
       "author": "le_Parisien",
@@ -320,6 +372,19 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/CNEWS/status/2118840617933459926"
+    },
+    {
+      "id": "2118838550581924182",
+      "created_at": "2026-11-06T22:50:51.000Z",
+      "author": "alainpaulweber",
+      "author_name": "Alain Weber",
+      "type": "tweet",
+      "text": "La folie politique n’a-t-elle donc plus aucune limite ?\n\nÀ Strasbourg, le streamer Rav4chol, qui affiche son soutien à Jean-Luc Mélenchon, appelle à saccager les sièges de CNews et BFMTV, à briser leurs vitres et à y mettre le feu !\n\nMais jusqu’où ira cette haine ?\n\nEst-ce la",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/alainpaulweber/status/2118838550581924182"
     },
     {
       "id": "2118837666472919418",
@@ -437,6 +502,19 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/le_Parisien/status/2118834724454236521"
+    },
+    {
+      "id": "2118834344240501045",
+      "created_at": "2026-11-06T22:34:08.000Z",
+      "author": "alainpaulweber",
+      "author_name": "Alain Weber",
+      "type": "quote",
+      "text": "Et pendant ce temps, les amis de ce repris de justice empêchent Sarah Knafo de dédicacer son livre…",
+      "retweeted_author": null,
+      "quoted_author": "jean_bexon",
+      "quoted_text": "Vidéo Le Progrès | Les CRS ont privatisé la rue pour assurer la sécurité de Raphaël Arnault, député LFI dont deux collaborateurs sont inculpés pour meurtre et incarcérés.",
+      "lang": "fr",
+      "url": "https://x.com/alainpaulweber/status/2118834344240501045"
     },
     {
       "id": "2118833487759438097",
@@ -22641,32 +22719,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/le_Parisien/status/2118560622623506480"
-    },
-    {
-      "id": "2118556741520466153",
-      "created_at": "2026-11-06T04:11:02.000Z",
-      "author": "NiONiPardon",
-      "author_name": "Ni Oubli Ni Pardon",
-      "type": "tweet",
-      "text": "05/2020 Les gestes barrières par la chanteuse Clara Luciani, dans une vidéo sponsorisée par l’UNICEF et la ville de Paris : « Salut, c'est Clara Luciani. Pendant le Covid, tu arrêtes de faire la bise et de baver sur les gens que tu aimes et tu fais comme la Reine d’Angleterre, tu",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/NiONiPardon/status/2118556741520466153"
-    },
-    {
-      "id": "2118554763738402955",
-      "created_at": "2026-11-06T04:03:11.000Z",
-      "author": "AFP",
-      "author_name": "AFP News Agency",
-      "type": "tweet",
-      "text": "Silicon Valley bosses who spent two years cozying up to Trump now face a Democratic Congress already threatening subpoenas.\n\nTech executives will need to \"plant new forests for all of the subpoenas we'll be printing\", says Senator Ed Markey\n\nhttps://u.afp.com/Syr4",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "en",
-      "url": "https://x.com/AFP/status/2118554763738402955"
     }
   ]
 }
