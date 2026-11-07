@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-07 10:57",
-  "period": "du 2026-11-06 10:57 au 2026-11-07 10:57",
-  "new_period": "du 2026-11-07 08:00 au 2026-11-07 10:57",
-  "context_period": "du 2026-11-06 10:57 au 2026-11-07 08:00",
+  "generated_at": "2026-11-07 11:27",
+  "period": "du 2026-11-06 11:27 au 2026-11-07 11:27",
+  "new_period": "du 2026-11-07 08:00 au 2026-11-07 11:27",
+  "context_period": "du 2026-11-06 11:27 au 2026-11-07 08:00",
   "coverage_complete": true,
-  "new_count": 229,
-  "context_count": 1284,
-  "duplicates_merged": 106,
+  "new_count": 262,
+  "context_count": 1229,
+  "duplicates_merged": 105,
   "empty_removed": 7,
   "new": [
     {
@@ -516,7 +516,10 @@
     {
       "author_name": "Institut ILIADE",
       "published_at": "2026-11-07 09:18",
-      "text": "🇩🇪 L'Institut Iliade est présent de nouveau cette année au salon du livre alternatif SeitenWechsel en Allemagne de l'est. \n\n📚L'occasion d'avoir des échanges fructueux avec de nombreux auteurs et éditeurs allemands et européens. \n\nhttps://www.messe-seitenwechsel.de/"
+      "text": "🇩🇪 L'Institut Iliade est présent de nouveau cette année au salon du livre alternatif SeitenWechsel en Allemagne de l'est. \n\n📚L'occasion d'avoir des échanges fructueux avec de nombreux auteurs et éditeurs allemands et européens. \n\nhttps://www.messe-seitenwechsel.de/",
+      "also_by": [
+        "Jean-Yves Le Gallou"
+      ]
     },
     {
       "author_name": "Europe 1",
@@ -1167,296 +1170,178 @@
       "author_name": "Valeurs actuelles",
       "published_at": "2026-11-07 10:56",
       "text": "Les majors de l’énergie ont brillé en Bourse depuis le début de l’année. Mais leur rente vient désormais plus des raffineries que des puits. Qu’en restera-t-il après le conflit ?\nhttps://l.valeursactuelles.com/V2M"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-07 10:57",
+      "text": "⛵️ Tom Laperche en route pour sa première victoire à la Route du Rhum\n\nhttps://www.sudradio.fr/sport-rugby/sport/route-du-rhum-tom-laperche-file-vers-la-victoire"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-07 10:59",
+      "text": "Hyperprotéiné… et hyperbon ?\n➡️ https://l.leparisien.fr/Kx4I"
+    },
+    {
+      "author_name": "Causeur.fr",
+      "published_at": "2026-11-07 11:00",
+      "text": "\"Pour échapper à la justice occidentale, Alain Soral s’est choisi la Russie, la patrie rêvée de l’ordre et de l’autorité : las, le séjour a tourné court...\"\n\nhttps://www.causeur.fr/soral-l-antijuif-errant-russie-tunisie-336876"
+    },
+    {
+      "author_name": "Alain Weber",
+      "published_at": "2026-11-07 11:00",
+      "text": "On sauve d’abord, la paperasse de l’ONU ensuite.\n\nPendant que les gens crèvent sous les gangs, les experts en costume nous parlent de cadre, de procédure, de mandat. \n\nUn homme a compris : quand un pays meurt, on ne convoque pas une commission. On bouge. On frappe. On sauve.\n\nÇa\n[Cite @ONUinfo] « On n’est jamais bien que chez soi » : le cri du coeur des déplacés en Haïti @OCHAHaiti\n\n« Sans cette aide, nous ne survivrions pas ...Mais nous devons aussi trouver un moyen de gagner à nouveau de l'argent. »\n\nhttps://news.un.org/fr/story/2026/11/1159784"
+    },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-07 11:00",
+      "text": "Les États-Unis offrent 20 millions de dollars et «un possible déménagement» contre des informations sur le programme nucléaire iranien → https://l.lefigaro.fr/TVT1"
+    },
+    {
+      "author_name": "Agence France-Presse",
+      "published_at": "2026-11-07 11:01",
+      "text": "🇵🇾 À l'issue d'une crise bancaire majeure, le Paraguay a investi vendredi un nouveau président, Pedro Alliana. Son prédécesseur Santiago Peña, à peine destitué, doit comparaître samedi devant le parquet pour s'expliquer sur ce scandale. \n\n➡️ https://u.afp.com/Sy9i"
+    },
+    {
+      "author_name": "L'Express",
+      "published_at": "2026-11-07 11:01",
+      "text": "La réforme des retraites est suspendue depuis le 1er septembre 2026. Mais de nouvelles règles entrent néanmoins en vigueur à partir de l’an prochain.\n\n➡️ https://l.lexpress.fr/NKJ"
+    },
+    {
+      "author_name": "Gendarmerie nationale",
+      "published_at": "2026-11-07 11:01",
+      "text": "#BellesAffaires ⛴️ Après de nombreuses investigations , la gendarmerie maritime de St Malo a saisi lors d'un contrôle, 869 kg de coquilles Saint-Jacques auxquels s’ajoutent 39 kg de noix !\nÀ la vue des gendarmes, les pêcheurs ciblés, au nombre de quatre, ont tenté de dissimuler"
+    },
+    {
+      "author_name": "Jon De Lorraine",
+      "published_at": "2026-11-07 11:02",
+      "text": "🔴🇫🇷 CHRISTINE LAGARDE EN TÊTE CHEZ LES MACRONISTES !\n\nSelon le baromètre Elabe pour Les Échos, 62 % des électeurs d'Emmanuel Macron ont une image positive de la présidente de la BCE, dont 17 % une image « très positive ».\n\nElle devance Édouard Philippe (62 %, ex æquo au total"
+    },
+    {
+      "author_name": "Observatoire du journalisme (Ojim)",
+      "published_at": "2026-11-07 11:03",
+      "text": "[Retweet de @ojim_france] 🔴Charles Alloncle ALERTE sur les dérives liberticides de la gauche : \"Aujourd'hui CNews, demain BFMTV, après-demain TF1. AUCUN média n'échappera à cette gauche qui, INCAPABLE de gagner la bataille des idées, tente d'imposer son idéologie par la censure.\" (Le Figaro)"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-07 11:06",
+      "text": "«Il faut renouer avec l’assimilation» : Naïma M’Faddel appelle à «remettre au centre la France» https://ow.ly/wBUe106I4SG"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-07 11:09",
+      "text": "Et si vous parliez d’argent à table ?\n\nPar @kevinbadeau https://l.lepoint.fr/u7z"
+    },
+    {
+      "author_name": "Gabrielle Cluzel",
+      "published_at": "2026-11-07 11:10",
+      "text": "[Retweet de @IrisBridier] Avec cette table ronde que j'ai eu plaisir à animer aux côtés de @Maaroufi9 et @JRochedy."
+    },
+    {
+      "author_name": "Ministère de l'Intérieur",
+      "published_at": "2026-11-07 11:10",
+      "text": "[Retweet de @Prefet01] Hier matin, à Lent, un accident de car s’est produit, impliquant 49 personnes. Deux d’entre eux ont perdu la vie. Mes pensées vont à leurs proches, ainsi qu'aux blessés et à leurs familles, à qui je veux dire toute ma solidarité.\n\nDès les premières minutes, les secours se sont"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-07 11:10",
+      "text": "Son intervention complète ➡️ https://mrf.lu/2_3wG"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-07 11:11",
+      "text": "🎙️ @bcohenhadad : « Les commerçants et les indépendants sont devenus les nouveaux pauvres »\n\nhttps://www.sudradio.fr/sud-radio/bernard-cohen-hadad-les-commercants-et-les-independants-sont-devenus-les-nouveaux-pauvres"
+    },
+    {
+      "author_name": "Tocsin",
+      "published_at": "2026-11-07 11:14",
+      "text": "🗯️ « Notre pensée serait capable de modifier l'univers ! »\n\n🔬 « Ce qui m’a amené là, ce sont deux expériences. La première étant le travail de laboratoire, car je suis un opératif et je n’ai pas seulement lu les textes. J’ai monté mon laboratoire et j’y ai travaillé pendant un"
+    },
+    {
+      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
+      "published_at": "2026-11-07 11:15",
+      "text": "https://x.com/i/article/2119010367472889856"
+    },
+    {
+      "author_name": "Damien Rieu",
+      "published_at": "2026-11-07 11:15",
+      "text": "[Retweet de @nypost] Dem candidate gets elected to the House in surprise win - and has a court appearance for car theft next week https://trib.al/QHqSQ1r"
+    },
+    {
+      "author_name": "Tribune Populaire🌐",
+      "published_at": "2026-11-07 11:15",
+      "text": "📂🇫🇷FLASH INFO - Périscolaire : des plannings « truffés d’erreurs » auraient permis à des animateurs d’échapper aux poursuites !\n\nLa Ville de Paris reconnaît que les emplois du temps de ses animateurs étaient faux !\n\nLe 3 novembre, lors d’une réunion consacrée aux écoles"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-07 11:16",
+      "text": "🚗 La France peut-elle enlever les ZFE vis-à-vis des prérogatives européennes ? #OnParleAuto\n\n🗣️ Alexandra Legendre, de la Ligue de Défense des Conducteurs : \"Y'a d'autres moyens que les ZFE pour arriver à nos fins\"\n\n☎️ 0 826 300 300\n📻 https://sudradio.fr"
+    },
+    {
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-07 11:17",
+      "text": "Rouen : après deux agressions anti-Blanc, le maire préfère dénoncer l’extrême droite | Par  @alienordep\nAprès le lynchage de catholiques aux cris de « sales Blancs », Nicolas Mayer-Rossignol met en cause les identitaires. \n \nhttps://www.bvoltaire.fr/rouen-agressions-anti-blanc-le-maire-prefere-denoncer-lextreme-droite/?fsp_sid=26085"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-07 11:19",
+      "text": "Les sondages ont-ils toujours vu juste à six mois des élections ?\n\nAlors que Marine Le Pen domine tous les sondages électoraux, l’historique des cinq dernières présidentielles rappelle que les projections à six mois ne reflètent pas toujours la réalité des urnes\n\n➡️"
+    },
+    {
+      "author_name": "Eric Ciotti",
+      "published_at": "2026-11-07 11:20",
+      "text": "Importante découverte de protoxyde d’azote cette nuit, boulevard du Mercantour à Nice !\n\nLa Police nationale a appréhendé deux individus à proximité d’un conteneur renfermant une quantité estimée à plusieurs tonnes.\n\nJe félicite nos policiers pour cette intervention !"
+    },
+    {
+      "author_name": "Ni Oubli Ni Pardon",
+      "published_at": "2026-11-07 11:20",
+      "text": "🔴 CoronaCircus\n\n04/2020 Les élus et les commerçants de Zahara de los Atunes, près de Cadix, ont fait désinfecter 2 kilomètres de plage et de dunes avec une solution contenant 2 % d'eau de Javel, avant la première sortie des enfants après le confinement. Maria Dolores Iglesias,"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-07 11:21",
+      "text": "Une semaine pluvieuse en prévision ➡️ https://mrf.lu/2_34P"
+    },
+    {
+      "author_name": "Tribune Populaire🌐",
+      "published_at": "2026-11-07 11:21",
+      "text": "Mdrrr, Tiktok n’était pas aussi explicite quand ils ont fait disparaitre sans aucune explication notre compte à presque 20k abonnés 😂😭\n\nLe monde est méchant.\n[Cite @Poulin2012] Dis moi que ton gouvernement ensure les réseaux sociaux sans dire que ton gouvernement censure les réseaux sociaux. \n👍🤣🤡"
+    },
+    {
+      "author_name": "Reprenons le contrôle !",
+      "published_at": "2026-11-07 11:22",
+      "text": "😂\n[Cite @LesEchos] Christine Lagarde : un style qui s'affirme parmi les costumes gris du pouvoir 👉 https://ebx.sh/6VAjMq"
+    },
+    {
+      "author_name": "LCP",
+      "published_at": "2026-11-07 11:22",
+      "text": "Manifestations du 17 octobre: Emmanuel Grégoire et Gérald Darmanin au programme des prochaines auditions de la commission d'enquête https://lcp.fr/actualites/manifestations-du-17-octobre-emmanuel-gregoire-et-gerald-darmanin-au-programme-des"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-07 11:24",
+      "text": "« Avec les taxes, on se trompe de combat » : le plaidoyer d’Éric Larchevêque pour l’entreprise https://l.lepoint.fr/RMo"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-07 11:26",
+      "text": "🚗 Combien de temps dure un pneu et quels sont les dangers de rouler avec un pneu abimé ? #OnParleAuto \n\n🗣️Pierre Emmanuel Moutenet, dirigeant de https://pneucollection.com : \"Vous allez perdre en adhérence ou le pneu peut se déformer, exploser et vous conduire dans le décor\"  \n\n☎️"
+    },
+    {
+      "author_name": "Frontières",
+      "published_at": "2026-11-07 11:26",
+      "text": "154 interpellations ont eu lieu et 16 policiers et gendarmes ont été blessés hier lors des blocages lycéens\n\nhttps://www.frontieresmedia.fr/societe/154-interpellations-et-16-policiers-et-gendarmes-blesses-hier-lors-des-blocages-lyceens---20725"
+    },
+    {
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-07 11:27",
+      "text": "[BRÈVE] Policiers blessés devant un lycée à Pau : ouverture d'une information judiciaire | Par Boulevard Voltaire\nLe parquet réclame le placement en détention du mineur de 16 ans accusé d’avoir allumé l'engin pyrotechnique. \n \nhttps://www.bvoltaire.fr/breve-policiers-blesses-devant-un-lycee-a-pau-ouverture-dune-information-judiciaire/?fsp_sid=26137"
     }
   ],
   "context": [
     {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-06 10:58",
-      "text": "🔴 DOCUMENT SUD RADIO \n\n« Nous avons donné le top départ côté Castres : le premier véhicule est entré sur l’autoroute A69 » \n\n🗣️ David Chemla, directeur d’exploitation de l’A69, ne boude pas son plaisir"
-    },
-    {
-      "author_name": "Thaïs d’Escufon",
-      "published_at": "2026-11-06 10:59",
-      "text": "[Retweet de @hayasaka_aryan] Remember when Christmas songs were actually about Jesus and not about being a whore"
-    },
-    {
-      "author_name": "Le Point",
-      "published_at": "2026-11-06 11:00",
-      "text": "En invitant des amies à se baigner cet été à la Madrague, le veuf de Brigitte Bardot a provoqué l’ire de la Fondation. \n➡️ https://l.lepoint.fr/XQJ #ARelire"
-    },
-    {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-06 11:00",
-      "text": "Après le vote contre l’entrisme islamiste, Céline Imart dénonce une campagne « Wanted » de l’ENAR et saisit la présidente du Parlement européen avec d’autres élus. Le réseau conteste les accusations de liens avec les Frères musulmans.  https://www.fdesouche.com/2026/11/06/celine-imart-enar-campagne-wanted-entrisme-islamiste-parlement-europeen/"
-    },
-    {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-06 11:00",
-      "text": "28 ans après, les fans de la saga Zelda se ruent sur le remake d’«Ocarina of Time», le jeu culte de la Nintendo 64, considéré comme l'un des meilleurs de l'histoire.\n\nCet opus détient d'ailleurs toujours la meilleure note jamais attribuée sur le site Metacritic ➡️"
-    },
-    {
-      "author_name": "Institut ILIADE",
-      "published_at": "2026-11-06 11:02",
-      "text": "[Retweet de @baptiste_rappin] [Ravi de vous annoncer la prochaine parution de la seconde édition de \"Heidegger et la question du Management]"
-    },
-    {
-      "author_name": "Causeur.fr",
-      "published_at": "2026-11-06 11:02",
-      "text": "\"47 %. C’est le taux moyen de prélèvement obligatoire sur les revenus du travail dans notre pays. Quand un employeur décaisse 100 euros, le salarié touche seulement 53 euros. Or, la moyenne de tous les pays développés s’élève à seulement 35 %. En France, nous célébrons le travail"
-    },
-    {
-      "author_name": "LCP",
-      "published_at": "2026-11-06 11:03",
-      "text": "Budget 2027 : « Tout le monde a rejeté ce budget à l’unanimité », rappelle le député RN @MathiasRN. « C’est le gouvernement qui tient la plume, du début à la fin », insiste-t-il.\n#PLF2027"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-06 11:04",
-      "text": "🇫🇷 Immigration et identité française : faut-il dépasser les questions d'origine ? @stephdemuru \n\n🗣️ @PatrickVignal  : «Mon problème, c'est pas sa couleur de peau, c'est pas sa religion. Moi, j'ai envie que les gens aiment leur pays !»\n\n📺 https://SudRadio.fr"
-    },
-    {
-      "author_name": "CourrierDesStratèges",
-      "published_at": "2026-11-06 11:04",
-      "text": "⚠️Le 4/10, Lula obtenait 45,16 % au 1er tour, 2 points derrière Flávio Bolsonaro. Le 25/10, il était élu avec 51,79 %. #Mélenchon est à 18 % et a 3,3 millions d'abonnés sur TikTok, contre 1,7 million pour M. Le Pen..\nhttps://www.lecourrierdesstrateges.fr/pourquoi-melenchon-pourrait-battre-marine-le-pen/"
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-06 11:05",
-      "text": "[Retweet de @LeFigaroTV] «Qui vote quoi ?» : le dernier épisode de La France de Fourquet.\nLes électeurs RN, peu confrontés à l’immigration, la pauvreté et l’insécurité ? La carte qui démontre le contraire. Macron en tête sur la façade Atlantique mais Le Pen le dépasse à 29 km des côtes, elle-même"
-    },
-    {
-      "author_name": "Frontières",
-      "published_at": "2026-11-06 11:05",
-      "text": "« Sur place, il y avait nos confrères de L’Humanité. Je ne les ai pas vus venir nous demander si tout allait bien. Ils filmaient de leur côté ! »\n\n👉🏻 @JordanFlorentin revient sur la manifestation du 5 novembre."
-    },
-    {
-      "author_name": "CourrierDesStratèges",
-      "published_at": "2026-11-06 11:06",
-      "text": "🚨📊Jeudi à New York, vendredi en Asie : les valeurs de l'intelligence artificielle s'effondrent. Tokyo a perdu 6 %, Séoul a dû interrompre les échanges. Pourtant, mercredi, les mêmes marchés montaient pour la même raison... ‼️\nhttps://www.lecourrierdesstrateges.fr/tokyo-perd-6-seoul-sarrete-en-pleine-seance-ce-qui-a-vraiment-fait-chuter-les-bourses/"
-    },
-    {
-      "author_name": "LCP",
-      "published_at": "2026-11-06 11:06",
-      "text": "« Ce gouvernement est illégitime et incapable de faire voter le budget par son propre groupe », dénonce le sénateur communiste @IanBrossat. Il y voit la conséquence du « non-respect du suffrage universel » après la dissolution et la défaite du camp macroniste aux législatives."
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-06 11:07",
-      "text": "Jordan Bardella sera l’invité de l’#HDPros2WE sur @CNEWS ce soir à 20h, face à Philippe de Villiers.\n\nSuivez l'émission en direct sur ses comptes X, Facebook, YouTube et TikTok."
-    },
-    {
-      "author_name": "Thaïs d’Escufon",
-      "published_at": "2026-11-06 11:07",
-      "text": "[Retweet de @kangminleeshow] What Exactly Is \"Feminism\"?\n\n\"Feminism is an ideology. It's a branch of egalitarianism that created communism.\"\n\n@ThaisEscufon | @kangminlee"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-06 11:07",
-      "text": "🔴 Deux mineurs sont décédés dans l'accident de car dans l'Ain, qui a également fait 16 blessés dont trois graves.\n\nNotre DIRECT sur ce drame ➡️ https://l.leparisien.fr/IHmb"
-    },
-    {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-06 11:08",
-      "text": "Lyon 6ᵉ arrt. : le lycée Édouard-Herriot est en feu. Une partie des élèves exhultent, tandis que les autres sont en classe (source : compte Instagram de Samuel Soulier, maire d'arrondissement)"
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-06 11:08",
-      "text": "Il est fait état de deux personnes en arrêt cardio-vasculaire et de nombreux blessés.→https://l.lefigaro.fr/rbA9"
-    },
-    {
-      "author_name": "Médias-Presse-Info",
-      "published_at": "2026-11-06 11:10",
-      "text": "PRIX SAINT EXUPERY JEUNESSE 2026 – deux auteurs amies à l’honneur ! le bon coup d’œil de 123 Loisirs ! - https://www.medias-presse.info/prix-saint-exuperey-jeunesse-2026-deux-auteurs-amies-a-lhonneur-le-bon-coup-doeil-de-123-loisirs/253653/ - Cette année deux auteurs amies ont..."
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-06 11:10",
-      "text": "🇫🇷 Immigration et racisme : faut-il remettre l'assimilation au cœur du débat ? @stephdemuru \n\n🗣️ @Gillesplatret  : «Oui, le racisme existe, c'est une évidence, et d'ailleurs il est capable de tuer. Il n'y a pas de problème d'origine dès lors qu'il y a de l'assimilation»\n\n📺"
-    },
-    {
-      "author_name": "LCP",
-      "published_at": "2026-11-06 11:10",
-      "text": "Budget de la Sécurité sociale : « Si on suspend une année et qu’on désuspend l’année d’après, plus personne ne va rien y comprendre », estime le député RN @MathiasRN. « Qui va comprendre, parmi les concernés, à quelle sauce il va être mangé ? » Le RN défend une réforme « juste »."
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-06 11:11",
-      "text": "«On a un stade de France de policiers pour gérer les manifestations en France, c'est pas tenable», réagit Jérôme Jimenez, porte-parole Alliance Police nationale, dans #100Frontieres\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-06 11:11",
-      "text": "⚖️ Nantes : deux élèves de 16 ans mis en examen pour avoir mis le feu à leur lycée\n\n👉🏻 Les infos juste ici https://www.sudradio.fr/?p=926684"
-    },
-    {
-      "author_name": "Le Point",
-      "published_at": "2026-11-06 11:12",
-      "text": "« Ce pape, c’est notre fierté nationale » : comment le Pérou a façonné Léon XIV\n\nPar @Jeromecordelier https://l.lepoint.fr/KzA"
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-06 11:12",
-      "text": "[Retweet de @PaulineLdB] #TGVM Parmi les nouvelles innovations du TGV Nouvelle Génération, 20% de capacité en plus, et jusqu’à 8 emplacements vélo par rame"
-    },
-    {
-      "author_name": "Le JDD",
-      "published_at": "2026-11-06 11:12",
-      "text": "Bande dessinée : six albums à ne pas rater cet automne https://ow.ly/xVa5106I27A"
-    },
-    {
-      "author_name": "Tocsin",
-      "published_at": "2026-11-06 11:13",
-      "text": "🍫 Épinards, amandes, chocolat noir : ces aliments réputés sains peuvent aussi poser problème !\n\n🥬 « On vous dit que les épinards sont bourrés de polyphénols, il y a de la lutéine, plein de bonnes choses pour les yeux… On en mange tous ! Sauf que j’ai un compagnon qui est très"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-06 11:14",
-      "text": "Sondage présidentielle 2027 : 74 % des sympathisants de la droite et du centre favorables à l’organisation d’une primaire https://l.leparisien.fr/1RLK"
-    },
-    {
-      "author_name": "Ni Oubli Ni Pardon",
-      "published_at": "2026-11-06 11:14",
-      "text": "📌 CrowdBunker — mémoire brute.\n\nhttps://crowdbunker.com/@NiONiP"
-    },
-    {
-      "author_name": "Comité Trump France",
-      "published_at": "2026-11-06 11:14",
-      "text": "L'avortement est un meurtre, c'est une réalité scientifique. Vos bricolages avec la constitution ne changent pas la science.\n[Cite @denis_Masseglia] J'ai longtemps admiré le joueur Perkz, son talent, sa carrière.\nMais je ne peux pas laisser passer ces propos : qualifier l'avortement de « meurtre », c'est détestable.\nEn France, l'IVG est une liberté garantie par la Constitution, et j'ai eu l'honneur de voter pour son"
-    },
-    {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-06 11:15",
-      "text": "48 heures de garde à vue, puis un contrôle judiciaire. Après Béthune, un second suspect a été interpellé à Orléans pour des menaces contre Louise Montangon, annonce son avocat. Le procès est attendu dans quelques mois.\n\n https://www.fdesouche.com/2026/11/06/orleans-menaces-louise-montangon-second-suspect-interpelle/"
-    },
-    {
-      "author_name": "LCP",
-      "published_at": "2026-11-06 11:15",
-      "text": "Budget de la Sécurité sociale : « Chaque travailleur produit à lui seul beaucoup plus de richesses qu'avant », souligne le sénateur communiste @IanBrossat. Pour financer les retraites, il défend une autre piste : « Il faut taxer davantage le capital. » #PLHE"
-    },
-    {
-      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
-      "published_at": "2026-11-06 11:16",
-      "text": "Consternant de voir que certains pensent qu'une défaite électorale donne une \"leçon\" au camp qui perd.\nVous croyez que les politiques sont des philosophes ? Qu'ils se remettent en question comme des humanistes au grand coeur ?\nTrump est revenu en 2024 avec les mêmes\n[Cite @Eddy_St_Germain] @dannyconversano @FrathsLaF Car c'est une excellente nouvelle.\n\nÇa permettra peut-être de briser la droite sioniste après avoir brisé la droite baboucholâtre soralienne.\n\nOn va peut-être enfin avoir une vraie droite non soumise au Moyen-Orient."
-    },
-    {
-      "author_name": "Nicolas Dupont-Aignan",
-      "published_at": "2026-11-06 11:16",
-      "text": "On n’est pas capable de rétablir l’ordre à Marseille, Strasbourg, Nantes… Et on déverse en Ukraine des dizaines de milliards d’euros qui manquent au Français."
-    },
-    {
-      "author_name": "Agence France-Presse",
-      "published_at": "2026-11-06 11:17",
-      "text": "🇵🇹⚽️ Cristiano Ronaldo a mis fin jeudi à sa carrière internationale, un parcours de 23 ans sous les couleurs du Portugal marqué par de multiples records individuels et un sacre à l'Euro-2016. Le natif de Madère reste pour l'heure joueur du club saoudien d'Al-Nassr ⤵️"
-    },
-    {
-      "author_name": "Reprenons le contrôle !",
-      "published_at": "2026-11-06 11:17",
-      "text": "[Retweet de @CH_Gallois] La seule mesure de sortie du nucléaire suffit à discréditer ce programme."
-    },
-    {
-      "author_name": "Ligne Droite • La matinale de RC",
-      "published_at": "2026-11-06 11:17",
-      "text": "💥 \"Quand on dissout un groupe d’extrême gauche, il vit encore. La Jeune Garde a encore une activité [...] LFI monte tout en étant soutenue par des groupes dissous et ultraviolents.\"\n\n🗣️ @ofrerejacques, journaliste pour @tvlofficiel et rédacteur en chef de @LiberTPolitique\n\n👉"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-06 11:18",
-      "text": "Dans les manifestations, les slogans anti-police semblent se multiplier. «CRS SS depuis les années 60, on entend ce slogan», réagit Mathias Leboeuf, journaliste et philosophe, dans #100Frontieres\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
-      "published_at": "2026-11-06 11:18",
-      "text": "[Retweet de @Mikacro1543] L'homme le plus RADICAL de France ? Très belle conversation entre @dannyconversano  et @ThaisEscufon  #INFRÉQUENTABLE4 https://youtu.be/SuHT5t903IE?si=bSPbKhkeH4o-qJOb via @YouTube"
-    },
-    {
-      "author_name": "TVL",
-      "published_at": "2026-11-06 11:20",
-      "text": "🎥 [Le JT] Trump terrassé : les États-Unis paralysés ?\n\n➡️ Après la défaite de Trump, la suite se complique pour le président 🇺🇸\n\nLe JT sur TVL 🔻\nhttps://youtu.be/LyK-z8HhlZU"
-    },
-    {
-      "author_name": "Samuel Lafont",
-      "published_at": "2026-11-06 11:20",
-      "text": "On peut discuter sans fin de bouger tel ou tel curseur économique.\n\nMais la réalité c’est que l’insécurité, en plus de pourrir la vie des Français, a des conséquences économiques beaucoup plus vastes que ces petits curseurs.\n[Cite @F_Desouche] Paris (75) : après les violences, des professionnels annoncent −30 % de réservations hôtelières et jusqu’à −50 % en restauration\n\n https://www.fdesouche.com/2026/11/05/paris-violences-tourisme-reservations-hotels-restaurants-france-3/"
-    },
-    {
-      "author_name": "AFP News Agency",
-      "published_at": "2026-11-06 11:20",
-      "text": "🇵🇸 Displaced Gazan generates electricity with makeshift wind tribunes\n\nAbove rows of displacement tents in Khan Yunis, in the southern Gaza Strip, a makeshift wind turbine spins, generating electricity amid chronic power shortages."
-    },
-    {
-      "author_name": "Frontières",
-      "published_at": "2026-11-06 11:20",
-      "text": "🚨 100%Frontières LEADER ce jeudi 05 novembre avec 430 000 téléspectateurs.\n\n💥 RECORD entre 12h et 13h avec 493 000 téléspectateurs !\n\n@GauthierBret 🤝 @tegnererik"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-06 11:22",
-      "text": "«Dans notre pays, on a accepté que nos policiers soient agressés», affirme Naima M'faddel, essayiste dans #100Frontieres\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Observatoire du journalisme (Ojim)",
-      "published_at": "2026-11-06 11:22",
-      "text": "🔴Jérôme Fourquet sommé de s'expliquer sur Quotidien après avoir révélé que 75 % des prénoms sont arabo-musulmans ou africains chez les prévenus du 17 octobre.\n\nAlors qu'il explique avoir utilisé la même méthodologie que Libération, Yann Barthès le coupe net : \"Oui mais eux,"
-    },
-    {
-      "author_name": "Le JDD",
-      "published_at": "2026-11-06 11:22",
-      "text": "Avec seulement 13 % de confiance, Emmanuel Macron atteint un plus bas historique dans le baromètre Elabe, sous le record de François Hollande.\n\nLe chef de l’État a perdu onze points depuis août, tandis que Sébastien Lecornu tombe lui aussi à son plus bas niveau, avec 17 % de"
-    },
-    {
-      "author_name": "Reprenons le contrôle !",
-      "published_at": "2026-11-06 11:23",
-      "text": "[Retweet de @AndreRougeOff] Injustice et inégalités pour nos compatriotes ultramarins, qui subissent déjà de plein fouet la vie chère.\nVoilà ce que représente, réellement, l’octroi de mer !\n\nIl aura fallu se battre contre le système technocratique de Bruxelles, les partis de gauche et centristes afin de"
-    },
-    {
-      "author_name": "Le Point",
-      "published_at": "2026-11-06 11:23",
-      "text": "Laurent Alexandre : « Nous sommes en train de laisser à nos enfants un pays sous-développé. » https://l.lepoint.fr/B5u"
-    },
-    {
-      "author_name": "Reprenons le contrôle !",
-      "published_at": "2026-11-06 11:23",
-      "text": "[Retweet de @AlexandreLoubet] 🚨 Assez des budgets qui endettent toujours plus la France !\nAprès le rejet du budget 2027, @J_Bardella demande en urgence l’inscription dans la Constitution de la règle d’or défendue par @MLP_officiel : ainsi, aucun budget ne pourra être voté s’il aggrave l’endettement du pays."
-    },
-    {
-      "author_name": "Jon De Lorraine",
-      "published_at": "2026-11-06 11:23",
-      "text": "🔴🇫🇷 ALERTE INFO - Le collège Edouard Herriot a été incendié avec des élèves à l'intérieur. Les pompiers sont intervenus pour éteindre le feu. (Vidéo : du 6e arrondissement de Lyon)"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-06 11:24",
-      "text": "🛣️ A69 : une autoroute trop chère pour les automobilistes ? @stephdemuru \n\n🗣️ @lucas_plana : «Beaucoup de gens risquent de contourner et on verra l'utilité d'un projet qui a mis des dizaines d'années à être concrétisé»\n\n📺 https://SudRadio.fr"
-    },
-    {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-06 11:24",
-      "text": "Midterms 2026 : un démocrate élu dans l’Iowa alors qu’il s’était retiré de sa propre campagne il y a deux mois\n➡️ https://l.leparisien.fr/DjGW",
-      "also_by": [
-        "Le Parisien"
-      ]
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-06 11:24",
-      "text": "\"La prime de risque des policiers, je crois qu'on ne l'a pas volée celle-là\" déclare @Stan_apn #EliotDevalEtVous @deval_eliot #Europe1"
-    },
-    {
-      "author_name": "Médias-Presse-Info",
-      "published_at": "2026-11-06 11:25",
-      "text": "L'Elysée se préoccupe des conséquences du développement de l'IA sur des questions de sécurité - https://www.medias-presse.info/lelysee-se-preoccupe-des-consequences-du-developpement-de-lia-sur-des-questions-de-securite/253652/ - Emmanuel Macron a placé l'intelligence artificie..."
-    },
-    {
-      "author_name": "Eric Zemmour",
       "published_at": "2026-11-06 11:27",
-      "text": "Quotidien est devenu le tribunal politique.\n\nUn tribunal de la pensée où de petits procureurs jugent tous ceux qui osent dire le réel. Ce réel, que tous les Français voient et que les chiffres confirment, n’a le droit d’exister que s’il donne raison à leur idéologie. Sinon, il"
-    },
-    {
-      "author_name": "Reprenons le contrôle !",
-      "published_at": "2026-11-06 11:27",
-      "text": "[Retweet de @MacLesggy] Petit rappel : la centrale ☢️ de Nogent-sur-Seine produit à elle seule autant d'électricité que 4500 (!) de nos éoliennes, avec une énorme différence : \n✅ elle ne produit pas cette électricité quand elle peut,  au gré des vents, mais quand nous en avons besoin.\n#énergie"
+      "text": "Midterms 2026 : un démocrate élu dans l’Iowa alors qu’il s’était retiré de sa propre campagne il y a deux mois\n➡️ https://l.leparisien.fr/Qtft"
     },
     {
       "author_name": "Reprenons le contrôle !",
@@ -7458,6 +7343,11 @@
       "author_name": "AFP News Agency",
       "published_at": "2026-11-07 01:45",
       "text": "Rail staff in the heart of Tokyo have deployed an unusual team to trim an overgrown lot -- a pair of goats. Nagi and Pokke are now social media stars"
+    },
+    {
+      "author_name": "Observatoire du journalisme (Ojim)",
+      "published_at": "2026-11-07 02:43",
+      "text": "[Retweet de @ojim_france] 🔴Jérôme Fourquet sommé de s'expliquer sur Quotidien après avoir révélé que 75 % des prénoms sont arabo-musulmans ou africains chez les prévenus du 17 octobre.\n\nAlors qu'il explique avoir utilisé la même méthodologie que Libération, Yann Barthès le coupe net : \"Oui mais eux,"
     },
     {
       "author_name": "Le Parisien | politique",
