@@ -1,15 +1,15 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-07 20:30",
-  "period": "du 2026-11-06 20:30 au 2026-11-07 20:30",
-  "new_period": "du 2026-11-07 08:00 au 2026-11-07 20:30",
-  "context_period": "du 2026-11-06 20:30 au 2026-11-07 08:00",
+  "generated_at": "2026-11-07 21:00",
+  "period": "du 2026-11-06 21:00 au 2026-11-07 21:00",
+  "new_period": "du 2026-11-07 08:00 au 2026-11-07 21:00",
+  "context_period": "du 2026-11-06 21:00 au 2026-11-07 08:00",
   "coverage_complete": true,
-  "new_count": 1032,
-  "context_count": 302,
-  "duplicates_merged": 69,
-  "empty_removed": 4,
+  "new_count": 1063,
+  "context_count": 236,
+  "duplicates_merged": 67,
+  "empty_removed": 5,
   "new": [
     {
       "author_name": "Nicolas Dupont-Aignan",
@@ -4983,7 +4983,10 @@
     {
       "author_name": "Jordan Bardella",
       "published_at": "2026-11-07 19:47",
-      "text": "Du monde à perte de vue sur les plages de La-Seyne-sur-Mer pour la séance de dédicaces de mon livre « Gouverner » 💪🏻\n\nMerci de votre accueil : on continue !"
+      "text": "Du monde à perte de vue sur les plages de La-Seyne-sur-Mer pour la séance de dédicaces de mon livre « Gouverner » 💪🏻\n\nMerci de votre accueil : on continue !",
+      "also_by": [
+        "Rassemblement National"
+      ]
     },
     {
       "author_name": "CNEWS",
@@ -5249,362 +5252,164 @@
       "author_name": "Europe 1",
       "published_at": "2026-11-07 20:30",
       "text": "Route du Rhum : Tom Laperche fonce vers la Guadeloupe et, sauf accident, devrait s'imposer dans la nuit https://ow.ly/ot5A106I5x3"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "LCP",
-      "published_at": "2026-11-06 20:30",
-      "text": "\"Il n'y a pas de désengagement pour la chose publique dans le pays (...) si une partie de la population ne s'engage pas, c'est parce qu'il y a des freins comme les inégalités sociales\", estime Mathis"
     },
     {
       "author_name": "Le Figaro",
-      "published_at": "2026-11-06 20:30",
-      "text": "Le proviseur adjoint du lycée Henri-Poincaré de Nancy, qui n’a pas été blessé mais se dit «surpris et choqué», a déposé plainte. →https://l.lefigaro.fr/OCiP"
-    },
-    {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-06 20:30",
-      "text": "Cugnaux (31) : un piano et une poubelle incendiés au lycée Henri-Matisse, 600 élèves évacués après des tirs de mortiers\n\n https://www.fdesouche.com/2026/11/06/cugnaux-31-incendies-volontaires-piano-fumigenes-lycee-henri-matisse-evacue/"
-    },
-    {
-      "author_name": "Institut ILIADE",
-      "published_at": "2026-11-06 20:30",
-      "text": "[Retweet de @TheEUCitizen] Transmettre une culture, faire vivre une mémoire, former des esprits : le travail de l’Institut Iliade mérite mieux qu’une suspension de page et un soupçon pour l'expliquer.\n\nLe motif avancé par Facebook mérite qu’on s’y arrête : la page « peut contenir » des signes de soutien à"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-06 20:31",
-      "text": "«Il y a en Europe une nouvelle génération de dirigeants qui souhaitent une Europe des nations», souligne Jordan Bardella, président du Rassemblement national\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-06 20:31",
-      "text": "«Cette élection présidentielle est très certainement la plus importante de la Ve République», affirme Jordan Bardella, dans #HDPros2 \n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Pierre Sautarel",
-      "published_at": "2026-11-06 20:31",
-      "text": "[Retweet de @F_Desouche] Un jeune homme plaque un policier au sol et le maintient immobilisé : la vidéo diffusée sur X"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-06 20:31",
-      "text": "Jeune fille bosniaque, étudiant à Lyon… Que sait-on des deux victimes décédées dans l’accident de car dans l’Ain ?\n➡️ https://l.leparisien.fr/6aN8"
-    },
-    {
-      "author_name": "Jordan Bardella",
-      "published_at": "2026-11-06 20:32",
-      "text": "Pour gouverner la France différemment, il faut commencer par ressentir les souffrances des Français comme autant de souffrances personnelles, et il faut respecter les Français.\n\nNous avons la passion de la France en nous."
-    },
-    {
-      "author_name": "LCP",
-      "published_at": "2026-11-06 20:33",
-      "text": "\"Notre pays a oublié sa jeunesse\": @erwanbalanant veut permettre aux jeunes d'expérimenter la démocratie \"dès le plus jeune âge\""
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-06 20:33",
-      "text": "\"Il faut changer radicalement les politiques européennes. Nous voulons que la France retrouve son indépendance et sa liberté\", déclare @J_Bardella, président du Rassemblement national, dans #DeVilliersFaceaBardella sur #Europe1"
-    },
-    {
-      "author_name": "L'HERMYNE ⚜️",
-      "published_at": "2026-11-06 20:34",
-      "text": "[Retweet de @MLP_officiel] 😉 #UMPS"
-    },
-    {
-      "author_name": "Valeurs actuelles",
-      "published_at": "2026-11-06 20:34",
-      "text": "En qualifiant la bataille de Poitiers de « mythe » et de « folklore », le maire LFI de Saint-Denis, Bally Bagayoko, remet en cause la portée historique, pourtant largement attestée de cet affrontement de 732. https://l.valeursactuelles.com/L0c"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-06 20:35",
-      "text": "«Il faut quitter l'Union européenne et l'Otan», préconise l'ancien ministre Philippe de Villiers, lors d'un échange avec le président du Rassemblement national, Jordan Bardella, dans #HDPros2WE\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-06 20:35",
-      "text": "Le président du Rassemblement national est l'invité de l'Heure des Pros 2 Week-End ➡️ https://mrf.lu/2_1f_"
-    },
-    {
-      "author_name": "Cerfia",
-      "published_at": "2026-11-06 20:35",
-      "text": "🇫🇷🎙️ FLASH | « On essaie de décrire le réel. » Jérôme Fourquet affirme que 75 % des personnes de l’échantillon étudié, déférées lors des émeutes, portent des prénoms arabo-musulmans ou d’origine africaine. Il défend ses conclusions contestées dans l'émission Quotidien."
-    },
-    {
-      "author_name": "Frontières",
-      "published_at": "2026-11-06 20:36",
-      "text": "« J’ai beaucoup d’estime pour Philippe de Villiers ! »\n\n💥  Jordan Bardella et Phillipe de Villiers sur CNEWS chez @deval_eliot."
+      "published_at": "2026-11-07 20:30",
+      "text": "INFO LE FIGARO - Mini Moke, pièces d’or et bijoux de famille… Ce qui a disparu chez Brigitte Bardot à la Madrague → https://l.lefigaro.fr/RpKN"
     },
     {
       "author_name": "Jon De Lorraine",
-      "published_at": "2026-11-06 20:36",
-      "text": "Le CNC Talent ouvre les vannes pour 6 millions d’euros de financement pour des projets, pile au moment de la campagne présidentielle.\nComme par hasard."
+      "published_at": "2026-11-07 20:33",
+      "text": "🔴🇫🇷 ALERTE INFO - Jean-Luc Mélenchon veut SORTIR DU NUCLÉAIRE et passer à 100 % d'énergies renouvelables d'ici 2060 !\n\nDans son programme pour 2027, La France insoumise prévoit :\n\n- La fermeture progressive des centrales nucléaires.\n- L'ABANDON du programme de nouveaux réacteurs"
     },
     {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-06 20:37",
-      "text": "À Lyon, la porte du lycée Édouard-Herriot incendiée lors d’un blocus\n\nAlors que des élèves étaient toujours à l’intérieur, des poubelles et la porte d’un lycée du 6e arrondissement lyonnais ont été incendiées par des bloqueurs.\nhttps://www.lefigaro.fr/actualite-france/les-flammes-montaient-jusqu-au-1er-etage-a-lyon-la-porte-du-lycee-edouard-herriot-incendiee-lors-d-un-blocus-20261106"
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-07 20:33",
+      "text": "Présidentielle 2027 : des militants du collectif « Nous Vivrons » ont perturbé le meeting de Jean-Luc Mélenchon au Bourget https://l.leparisien.fr/Up9N"
     },
     {
-      "author_name": "Philippe de Villiers",
-      "published_at": "2026-11-06 20:37",
-      "text": "La France Insoumise est un parti révolutionnaire, un parti séditieux, un parti violent, un parti de guerre civile.\nLes sans-culottes de Mélenchon, les tricoteuses d’Attal et les muscadins de Macron…\nTout le monde est là.\nLa pièce peut commencer !\n\n#FaceAPhilippeDeVilliers #FADV"
+      "author_name": "Le JDD",
+      "published_at": "2026-11-07 20:34",
+      "text": "Assassinats, enlèvements… Le rapport confidentiel sur la brutalité du crime organisé https://ow.ly/z27E106I5xg"
     },
     {
-      "author_name": "AFP News Agency",
-      "published_at": "2026-11-06 20:37",
-      "text": "US President Donald Trump has named Stephen Miller as his new chief of staff, promoting the architect of his hardline migration policy after the Republican Party's brutal midterms defeat https://u.afp.com/Syjh"
-    },
-    {
-      "author_name": "Florian Philippot",
-      "published_at": "2026-11-06 20:37",
-      "text": "Frexit, sortie de l’OTAN, de la CEDH, Ukraine : Philippe de Villiers est en train de donner une sacrée leçon à Bardella !\n\nEt Bardella confirme même qu’il refuse un référendum sur la sortie de l’UE !",
-      "also_by": [
-        "Les Patriotes"
-      ]
-    },
-    {
-      "author_name": "LCP",
-      "published_at": "2026-11-06 20:38",
-      "text": "\"C'est difficile sur le plan psychique, c'est difficile humainement\": @Youss_Badr témoigne des difficultés d'exercer au Tribunal judiciaire de Bobigny"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-06 20:39",
-      "text": ".@PhdeVilliers, ancien ministre : \"Je considère que la guerre en Ukraine n'est pas notre guerre [...] On n'a pas le choix, il faudra réintégrer la Russie\", dans #DeVilliersFaceaBardella sur #Europe1"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-06 20:40",
-      "text": "«L'Union européenne a utilisé toutes les crises pour s'octroyer des compétences nouvelles», analyse Jordan Bardella, président du Rassemblement national\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-06 20:40",
-      "text": "« C’était le calme avant la tempête » : à Kherson, six jours de répit avant le retour des drones russes\n➡️ https://l.leparisien.fr/cGea",
-      "also_by": [
-        "Le Parisien | politique"
-      ]
-    },
-    {
-      "author_name": "LCP",
-      "published_at": "2026-11-06 20:42",
-      "text": "\"Mes stagiaires, quand ils sont noirs de peau, on les prend pour des prévenus. C'est un réflexe\", regrette le juge @Youss_Badr"
-    },
-    {
-      "author_name": "Ni Oubli Ni Pardon",
-      "published_at": "2026-11-06 20:42",
-      "text": "05/2020 Corinne Fritsch, adjointe déléguée de la mairie de Lacanau en Gironde et ambassadrice, pour faire respecter les gestes barrières sur les plages dynamiques. Attention, interdit de s’asseoir."
-    },
-    {
-      "author_name": "Le Média en 4⃣-4⃣-2⃣",
-      "published_at": "2026-11-06 20:44",
-      "text": "« La police a laissé faire les pilleurs ! » : témoignages glaçants de plusieurs commerçants \nhttps://lemediaen442.fr/la-police-a-laisse-faire-les-pilleurs-temoignages-glacants-de-plusieurs-commercants/ \n\n« Nous n'avons pas ordre d'intervenir. » Cette réponse, attribuée à des CRS par une commerçante lyonnaise, résume le fiasco sécuritaire du 17 octobre."
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-06 20:45",
-      "text": "Attentat de Trappes : les obsèques de Pengo Bossio Wangi se dérouleront samedi https://ow.ly/ZwAq106I38q"
-    },
-    {
-      "author_name": "Ni Oubli Ni Pardon",
-      "published_at": "2026-11-06 20:45",
-      "text": "Une archive citoyenne, construite récit après récit.\nÀ lire et à transmettre :\n👉 https://nonp.fr/\n\n#NiOubliNiPardon #Témoignage"
-    },
-    {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-06 20:45",
-      "text": "Lyon (69) : un commandant de police roué de coups devant le lycée Lumière après des tirs de mortiers\n\n https://www.fdesouche.com/2026/11/06/lyon-69-commandant-police-roue-coups-lycee-lumiere-mortiers/"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-06 20:46",
-      "text": "«Dans un monde de plus en plus dangereux, il faut retrouver les moyens de notre défense», souhaite Jordan Bardella, président du Rassemblement national\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-06 20:46",
-      "text": "« C’est plus confortable, plus cocooning » : on est monté à bord du tout nouveau TGV de la SNCF\n➡️ https://l.leparisien.fr/YiBV"
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-06 20:46",
-      "text": "La dangereuse expérience collectiviste proposée par Jean-Luc Mélenchon pour la présidentielle 2027\n\nLe programme du candidat LFI propose un projet irréaliste d’économie administrée affranchi de toute contrainte extérieure.\nhttps://www.lefigaro.fr/elections/presidentielles/programmes/choc-fiscal-massif-envolee-des-depenses-publiques-la-dangereuse-experience-collectiviste-proposee-par-melenchon-pour-la-presidentielle-20261106"
-    },
-    {
-      "author_name": "Nicolas Dupont-Aignan",
-      "published_at": "2026-11-06 20:46",
-      "text": "Assez de ce climat de haine ! Il n’y a pas de démocratie sans tolérance et bienveillance…",
-      "also_by": [
-        "Debout La France"
-      ]
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-06 20:47",
-      "text": "\"Ce qui m'est insupportable, c'est de voir les dirigeants français accepter ces transferts de souveraineté\", déplore @J_Bardella, au sujet de l'Union européenne, dans #DeVilliersFaceaBardella sur #Europe1"
-    },
-    {
-      "author_name": "Tanguy David",
-      "published_at": "2026-11-06 20:47",
-      "text": "[Retweet de @gabriellecluzel] Horrible. Il célèbre la Toussaint rouge. Une pensée pour le pauvre Guy Monnerot, jeune instituteur de 23 ans exécuté ce jour-là. Comment un maire, un élu représentant l’État français peut-il fêter cela ?",
-      "also_by": [
-        "Boulevard Voltaire",
-        "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱"
-      ]
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-06 20:47",
-      "text": "«Nos dirigeants politiques sont consentants à brader la souveraineté de la France à l'Union européenne», lance Jordan Bardella, dans  #HDPros2WE\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-06 20:47",
-      "text": "«La France ne doit pas être dupe quant aux ambitions de Vladimir Poutine», affirme Jordan Bardella, lors d'un échange avec l'ancien ministre Philippe de Villiers, dans #HDPros2WE \n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "LCP",
-      "published_at": "2026-11-06 20:48",
-      "text": "\"Juge rouge\", \"membre du Hamas\", proximité avec les Frères musulmans: @Youss_Badr revient sur la campagne de cyberharcèlement dont il a été victime après avoir rendu son jugement contre le patron du média Frontières. Il critique notamment la \"remise en cause de l'impartialité\"."
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-06 20:49",
-      "text": "«Il y a encore une France civilisée et bienveillante qui existe», lance Jordan Bardella, président du Rassemblement national\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Frontières",
-      "published_at": "2026-11-06 20:49",
-      "text": "« Je ne veux pas que mon pays meurt. Vous résistez aux quolibets avec une force d’âme d’un Français qui toise l’adversité »\n\n💥 Philippe de Villiers à Jordan Bardella chez @deval_eliot sur CNEWS."
+      "author_name": "Le JDD",
+      "published_at": "2026-11-07 20:34",
+      "text": "Émeutes : comment Beauvau mobilise l’arsenal antiterroriste contre l’ultragauche https://ow.ly/mnXt106I5xh"
     },
     {
       "author_name": "Jordan Bardella",
-      "published_at": "2026-11-06 20:49",
-      "text": "Notre priorité, c'est la relance de l'économie et, pour cela, il faut sortir du socialisme : la France est aujourd'hui asphyxiée de normes et d'impôts.\n\nNous supprimerons des dizaines de normes inutiles et insupportables, et nous supprimerons les impôts de production."
+      "published_at": "2026-11-07 20:34",
+      "text": "L’attaque perpétrée à Cracovie par un homme armé qui a tué au hasard au moins six personnes et fait de nombreux blessés choque ce soir l’Europe. Rendons hommage aux policiers qui ont héroïquement neutralisé l’assaillant.\n\nLa France apporte son entier soutien à la Pologne et à"
     },
     {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-06 20:50",
-      "text": "Route du Rhum : carnets de bord d'un favori, Tom Laperche, épisode 6 https://ow.ly/4sJc106I395"
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-07 20:35",
+      "text": "https://www.fdesouche.com/2026/11/07/albi-81-patron-cafe-du-lude-poignarde-clients-altercation-suspect/ \n\nHakim A., suspect dans l'agression du patron du Café du Lude, avait été condamné à 17 ans pour une tentative d'assassinat en 2009. La justice enquête sur les faits récents."
     },
     {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-06 20:50",
-      "text": "«Une nation qui dépend des autres est une nation finie», affirme Jordan Bardella https://ow.ly/qUBZ106I396"
+      "author_name": "Frontières",
+      "published_at": "2026-11-07 20:39",
+      "text": "Ce samedi soir se déroule le 6ème gala de l’@ISSEP_France.\n\n💥 Arrivée de Mathieu Bock-Côté."
     },
     {
-      "author_name": "Cerfia",
-      "published_at": "2026-11-06 20:50",
-      "text": "🇫🇷🎙️ FLASH | « C’est 70 prénoms sur 1 000 personnes interpellées le 17 octobre », « Oui, mais c’est représentatif ». Jérôme Fouquet avait été interpellé chez Quotidien sur l’étude menée après la manifestation.\n[Cite @CerfiaFR] 🇫🇷🎙️ FLASH | « On essaie de décrire le réel. » Jérôme Fourquet affirme que 75 % des personnes de l’échantillon étudié, déférées lors des émeutes, portent des prénoms arabo-musulmans ou d’origine africaine. Il défend ses conclusions contestées dans l'émission Quotidien."
-    },
-    {
-      "author_name": "Comité Trump France",
-      "published_at": "2026-11-06 20:52",
-      "text": "75 % des personnes de l’échantillon étudié, déférées lors des émeutes, portent des prénoms arabo-musulmans ou d’origine africaine."
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-06 20:53",
-      "text": "La police révèle les causes de la mort de RJ Mitte, acteur star de «Breaking Bad», disparu à 34 ans ➡️ https://l.leparisien.fr/yI8o"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-06 20:53",
-      "text": "«Je suis convaincu que la France a, au fond de son âme, la force de se relever», affirme Jordan Bardella, président du Rassemblement national \n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-06 20:53",
-      "text": ".@PhdeVilliers, ancien ministre : \"La France doit réfléchir pour redevenir une puissance mondiale, elle doit sortir de l'euro-attentisme et ne plus être soumise à l'oncle Sam \", dans #DeVilliersFaceaBardella sur #Europe1"
+      "author_name": "Ni Oubli Ni Pardon",
+      "published_at": "2026-11-07 20:41",
+      "text": "07/2021 Au Touquet, où le masque en extérieur a fait son retour, des volontaires rappellent les passants à l'ordre en sillonnant quotidiennement le centre-ville."
     },
     {
       "author_name": "Le Point",
-      "published_at": "2026-11-06 20:53",
-      "text": "💬 Le droniste portugais ambitionne de devenir le leader européen du secteur des drones de surveillance et d’observation. La France est au cœur de sa stratégie après un contrat décroché avec l’armée de terre et l’inauguration d’une usine à Cahors.\n\nPar @ClementMchrt\n➡️"
+      "published_at": "2026-11-07 20:41",
+      "text": "À Euronaval, le conteneur s’impose comme base d’armement modulaire des marines\n\nPar @ClementMchrt https://l.lepoint.fr/Dyi"
     },
     {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-06 20:55",
-      "text": "«Il y a les jeunes qui brûlent des écoles et les jeunes qui brûlent des cierges», lance l'ancien ministre Philippe de Villiers, dans #HDPros2WE \n\nToute l'info est à retrouver sur https://cnews.fr"
+      "author_name": "Le Figaro Culture",
+      "published_at": "2026-11-07 20:41",
+      "text": "Éric Neuhoff de l’Académie française : « Cinquante ans après sa mort, le sortilège Malraux n’a pas cessé » https://l.lefigaro.fr/wY2s"
     },
     {
-      "author_name": "Jordan Bardella",
-      "published_at": "2026-11-06 20:55",
-      "text": "On parle beaucoup de répartition de richesses, mais avant de les répartir, il faut les créer !\n\nOr aujourd'hui la France a enregistré un nombre de record de faillites d'entreprises.\n\nNous souhaitons donc relancer la production et soutenir les entreprises françaises."
+      "author_name": "Marion Maréchal",
+      "published_at": "2026-11-07 20:43",
+      "text": "Le Gala de l’@ISSEP_France 2026 commence !"
     },
     {
-      "author_name": "Comité Trump France",
-      "published_at": "2026-11-06 20:55",
-      "text": "[Retweet de @PeteHegseth] Patriots in control."
+      "author_name": "Le JDD",
+      "published_at": "2026-11-07 20:44",
+      "text": "États-Unis : vainqueurs des midterms, les démocrates face au casse-tête de 2028 https://ow.ly/3xKh106I5y6"
     },
     {
-      "author_name": "LCP",
-      "published_at": "2026-11-06 20:56",
-      "text": "\"Qu'est-ce que vous dites aux prévenus qui, tous les jours, sont condamnés ?\": @Youss_Badr dénonce une \"justice à deux vitesses\", entre les prévenus qui ont la capacité de parler de leurs affaires \"médiatiquement\" et ceux qui ne disposent pas d'une telle \"caisse de résonance\""
-    },
-    {
-      "author_name": "Les Patriotes",
-      "published_at": "2026-11-06 20:56",
-      "text": "[Retweet de @JBollee] Vous voulez savoir pourquoi le RN a donné consigne depuis des années à ses élus de ne jamais débattre avec Florian Philippot ? \n\nEh bien écoutez le débat Villiers / Bardella sur Cnews ce soir et vous comprendrez. Jordan se fait anéantir sur le fond. \n\nSans colonne souverainiste,"
-    },
-    {
-      "author_name": "Jordan Bardella",
-      "published_at": "2026-11-06 20:56",
-      "text": "Nous voulons un pays sûr. \n\nIl faut casser l'alliance mortelle entre l'ultra gauche, qui veut la destruction de l’État, et les prédateurs de banlieue, qui veulent prendre une revanche contre la France."
-    },
-    {
-      "author_name": "Les Patriotes",
-      "published_at": "2026-11-06 20:56",
-      "text": "[Retweet de @UbahWaberi] ♦️ Huit dernières places pour l’hommage au Général de Gaulle à Colombey-Les-Deux-Églises ce lundi 9 novembre 2026 en compagnie de @f_philippot Président @_LesPatriotes🇲🇫\n\n➡️https://les-patriotes.fr/dejeunercolombey/\n\nComme chaque année, déjeuner sur place \nHommage ensemble au cimetière \nAvec notre"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-06 20:56",
-      "text": "«Pour Jean-Luc Mélenchon, le second tour se jouera dans la rue», pointe Jordan Bardella, président du Rassemblement national\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Frontières",
-      "published_at": "2026-11-06 20:57",
-      "text": "« Il y a les jeunes qui brûlent des écoles et les jeunes qui brûlent des cierges »\n\n💥 Philippe de Villiers et Jordan Bardella sur CNEWS."
-    },
-    {
-      "author_name": "Observatoire de l'immigration et de la démographie",
-      "published_at": "2026-11-06 20:57",
-      "text": "[Retweet de @ObservatoireID] 🤰 Désir d'enfant et fécondité\n\nLes Français ont moins d'enfants qu'ils ne le souhaiteraient.\n\nFécondité en France : 1,56 enfant / femme.\nDésir d'enfants chez les 18-39 ans ≈ 1,95 enfant.\n\n➡️ Cet écart représente ~150 000 naissances « perdues » l'an dernier."
-    },
-    {
-      "author_name": "François Asselineau 🇫🇷",
-      "published_at": "2026-11-06 20:57",
-      "text": "C’est maintenant, je réponds en direct, jusqu’à 23h00, aux questions de Daniel sur BABEL-TV. \nhttps://www.youtube.com/live/EAq0eo1k29I"
-    },
-    {
-      "author_name": "Gilbert Collard",
-      "published_at": "2026-11-06 20:58",
-      "text": "Aujourd’hui, des militants d’extrême gauche ont attaqué un Relay à Montparnasse car Vincent Bolloré en est l’actionnaire . Ces gens sont très dangereux, ils veulent la haine sociale et le mépris de toutes les formes de propriété ."
+      "author_name": "Valeurs actuelles",
+      "published_at": "2026-11-07 20:44",
+      "text": "TRIBUNE. Huit ans après les Gilets jaunes, la colère sociale d’octobre a remis la vie chère au centre du débat. Serge Papin, ministre du Commerce et du Pouvoir d’achat, semble pourtant davantage préoccupé par les habitudes de consommation des Français qu… https://l.valeursactuelles.com/GnK"
     },
     {
       "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-06 21:00",
-      "text": "Albi (81) : le patron du Café du Lude poignardé devant ses clients après avoir tenté de calmer une altercation\n\n https://www.fdesouche.com/2026/11/06/albi-81-patron-cafe-du-lude-poignarde-clients-altercation-suspect/"
+      "published_at": "2026-11-07 20:45",
+      "text": "https://www.fdesouche.com/2026/11/07/rennes-35-7-novembre-manifestants-interpelles-pierres-bouteilles-excrements-prefecture/ \n\nSamedi à Rennes, des individus ont été interpellés avec des pierres et des bouteilles remplies d'excréments. Des jets de projectiles ont suivi la dispersion du cortège."
     },
     {
-      "author_name": "Frontières",
-      "published_at": "2026-11-06 21:00",
-      "text": "« Pour gouverner la France, il faut commencer par aimer les Français, les respecter et les considérer »\n\n💥 Jordan Bardella et Philippe de Villiers sur CNEWS."
+      "author_name": "ISSEP",
+      "published_at": "2026-11-07 20:46",
+      "text": "✨ Le 6ème Grand Gala de l’ISSEP est lancé ! Bienvenue à tous !"
     },
     {
-      "author_name": "Les Braves",
-      "published_at": "2026-11-06 21:00",
-      "text": "🏰 Retour sur notre tournage à Plieux en compagnie de Renaud Camus ! https://x.com/i/broadcasts/2lgyXqmKqPBqYz"
+      "author_name": "Le Point",
+      "published_at": "2026-11-07 20:49",
+      "text": "Tour d’horizon des débats de la semaine, avec les arguments qu’il faut sortir pour briller en société. Au menu : l’épargne, le smic et les repas étudiant à 1 euro.\n\n➡️ https://l.lepoint.fr/9JU"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-07 20:50",
+      "text": "Manifestations du 7 novembre : 146.000 personnes ont défilé en France samedi, 360 interpellations, selon le ministère de l'Intérieur https://ow.ly/myZm106I5yX"
+    },
+    {
+      "author_name": "Tribune Populaire🌐",
+      "published_at": "2026-11-07 20:50",
+      "text": "[Retweet de @Dart0as] Raphael Glucksmann répond à VOS questions!\n\nSauf que ces comptes n'existent pas, sont absents de son tchat, ou ont été créée dans la journée.\n\nElle est là ma gauche de rupture atlantiste ✊\nhttps://www.twitch.tv/raphaelglucksmann"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-06 21:00",
-      "text": "«L'ultragauche est devenue le bras armé de la France insoumise», affirme Jordan Bardella, président du Rassemblement national\n\nToute l'info est à retrouver sur https://cnews.fr"
+      "published_at": "2026-11-07 20:51",
+      "text": "«Les scènes auxquelles on assiste sont le résultat d'années de laxisme judiciaire», affirme Amine El Khatmi, essayiste, dans #HDPros2WE\n\nToute l'info est à retrouver sur https://cnews.fr"
     },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-07 20:53",
+      "text": "La mobilisation des Gilets jaunes a été marquée par plusieurs interpellations ➡️ https://mrf.lu/2_6PN"
+    },
+    {
+      "author_name": "Jon De Lorraine",
+      "published_at": "2026-11-07 20:54",
+      "text": "Les tièdes et les mous du centre et de la \"droite\" qui croient une seconde qu’ils vont tenir face à Melenchon.\nLFI est en train de vous balayer de par votre paresse et opulence.\n\nVivement la fin de cette fausse droite. On reprendra les places quand vous dégagerez."
+    },
+    {
+      "author_name": "Marc Vanguard",
+      "published_at": "2026-11-07 20:54",
+      "text": "[Retweet de @Nicolasexaspere] 🚨 L'extrême-droite veut vous faire peur avec des graphiques, la réalité est tout autre.\n\nOn débunk ça ensemble (1/6)👇:"
+    },
+    {
+      "author_name": "Actu & Politique",
+      "published_at": "2026-11-07 20:55",
+      "text": "🚨‼️🇮🇱 ALERTE INFO - Le président israélien Isaac Herzog annonce qu’il va charger Gadi Eisenkot, l’un des principaux opposants à Benjamin Netanyahu, de former un gouvernement. (Direct)"
+    },
+    {
+      "author_name": "Ni Oubli Ni Pardon",
+      "published_at": "2026-11-07 20:55",
+      "text": "Ce soir encore, quelqu'un raconte ce qu'il a vécu.\nUne voix chaque jour :\n👉 https://nonp.fr/\n\n#NiOubliNiPardon #Témoignage"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-07 20:55",
+      "text": "« Un smic à 1 500 euros, sérieusement ? Ça va changer quoi ? » : à Paris, les manifestants exigent bien plus du gouvernement\n➡️ https://l.leparisien.fr/wZYl"
+    },
+    {
+      "author_name": "Jordan Bardella",
+      "published_at": "2026-11-07 20:58",
+      "text": "Avec ce livre, j'indique aux Français comme nous restaurerons la fierté de notre pays : l'école française redeviendra une école de la France, et nous refuserons ce qu'Albert Camus a très justement nommé la \"pénitence perpétuelle\".\n\nLa France n'a pas à être mise constamment sur le"
+    },
+    {
+      "author_name": "Bouli ☃️",
+      "published_at": "2026-11-07 20:59",
+      "text": "Selma a pris note :\n[Cite @JLMelenchon] L'attentat de Trappes se dessinait de longue main. Il est le résultat d'un martèlement médiatique raciste décomplexé.\n\nIl est le résultat de complaisances affichées à tous les niveaux de l'État.\n\nUne fois au pouvoir, nous poursuivrons au peigne fin le racisme, par tous les moyens"
+    },
+    {
+      "author_name": "Nicolas Dupont-Aignan",
+      "published_at": "2026-11-07 21:00",
+      "text": "📺 Retrouvez-moi demain, dimanche 8 novembre à 18h00, dans \"18H Darius Rochebin\" sur @LCI, au micro de @DariusRochebin 🎙️"
+    },
+    {
+      "author_name": "Rassemblement National",
+      "published_at": "2026-11-07 21:00",
+      "text": "Ce samedi, plus de 1 200 patriotes varois étaient présents aux côtés de @J_Bardella à La Seyne-sur-Mer !\n\nUn accueil qui témoigne de l’intérêt porté à notre projet politique et aux propositions que nous défendons pour redresser la France. Dans six mois, notre pays pourra prendre"
+    },
+    {
+      "author_name": "Causeur.fr",
+      "published_at": "2026-11-07 21:00",
+      "text": "Il ne faut pas savoir danser sur TikTok pour être président @causeur https://www.causeur.fr/il-ne-faut-pas-savoir-danser-sur-tiktok-pour-etre-president-336838"
+    }
+  ],
+  "context": [
     {
       "author_name": "Le Figaro",
       "published_at": "2026-11-06 21:00",
@@ -5831,6 +5636,14 @@
     {
       "author_name": "Boulevard Voltaire",
       "published_at": "2026-11-06 21:34",
+      "text": "[Retweet de @gabriellecluzel] Horrible. Il célèbre la Toussaint rouge. Une pensée pour le pauvre Guy Monnerot, jeune instituteur de 23 ans exécuté ce jour-là. Comment un maire, un élu représentant l’État français peut-il fêter cela ?",
+      "also_by": [
+        "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱"
+      ]
+    },
+    {
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-06 21:34",
       "text": "[Retweet de @jean_bexon] 🔴 DIRECT | BV | Les CRS privatisent la rue pour la conférence de Raphaël Arnault au Bieristan de Villeurbanne. \n\nUne source police confie à BV : « on craint la présence de groupes d’ultra droite identifié ». \n\nIl y a quelques mois, Quentin était lynché par des membres de la"
     },
     {
@@ -6013,6 +5826,11 @@
       "author_name": "Le Parisien",
       "published_at": "2026-11-06 22:18",
       "text": "« On a vu le bus dériver puis le choc » : scène de cauchemar dans l’Ain après l’accident mortel d’un car\n➡️ https://l.leparisien.fr/kKrE"
+    },
+    {
+      "author_name": "Debout La France",
+      "published_at": "2026-11-06 22:19",
+      "text": "[Retweet de @dupontaignan] Assez de ce climat de haine ! Il n’y a pas de démocratie sans tolérance et bienveillance…"
     },
     {
       "author_name": "Debout La France",
