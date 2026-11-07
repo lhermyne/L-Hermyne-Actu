@@ -1,14 +1,27 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-07T01:24:24.433Z",
+  "updated_at": "2026-11-07T01:54:29.468Z",
   "window_hours": 24,
-  "window_start": "2026-11-06T01:24:24.433Z",
+  "window_start": "2026-11-06T01:54:29.468Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
   "count": 1755,
   "tweets": [
+    {
+      "id": "2118882026027671825",
+      "created_at": "2026-11-07T01:43:36.000Z",
+      "author": "ojim_france",
+      "author_name": "Observatoire du journalisme (Ojim)",
+      "type": "retweet",
+      "text": "🔴Jérôme Fourquet sommé de s'expliquer sur Quotidien après avoir révélé que 75 % des prénoms sont arabo-musulmans ou africains chez les prévenus du 17 octobre.\n\nAlors qu'il explique avoir utilisé la même méthodologie que Libération, Yann Barthès le coupe net : \"Oui mais eux,",
+      "retweeted_author": "ojim_france",
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/ojim_france/status/2118882026027671825"
+    },
     {
       "id": "2118876578700493014",
       "created_at": "2026-11-07T01:21:57.000Z",
@@ -22810,19 +22823,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/le_Parisien/status/2118522683344462304"
-    },
-    {
-      "id": "2118520894687490507",
-      "created_at": "2026-11-06T01:48:36.000Z",
-      "author": "AFP",
-      "author_name": "AFP News Agency",
-      "type": "tweet",
-      "text": "Paraguay president resigns after takeover of a bank linked to him blocked almost half the population from accessing their money.\n\nThe Central Bank's seizure of Ueno Bank froze the deposits of some three million people, including pensioners, and sparked angry demonstrations across",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "en",
-      "url": "https://x.com/AFP/status/2118520894687490507"
     }
   ]
 }
