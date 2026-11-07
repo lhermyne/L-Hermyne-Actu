@@ -1,15 +1,15 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-07 07:25",
-  "period": "du 2026-11-06 07:25 au 2026-11-07 07:25",
-  "new_period": "du 2026-11-06 20:00 au 2026-11-07 07:25",
-  "context_period": "du 2026-11-06 07:25 au 2026-11-06 20:00",
+  "generated_at": "2026-11-07 07:55",
+  "period": "du 2026-11-06 07:55 au 2026-11-07 07:55",
+  "new_period": "du 2026-11-06 20:00 au 2026-11-07 07:55",
+  "context_period": "du 2026-11-06 07:55 au 2026-11-06 20:00",
   "coverage_complete": true,
-  "new_count": 331,
-  "context_count": 1305,
-  "duplicates_merged": 89,
-  "empty_removed": 8,
+  "new_count": 356,
+  "context_count": 1267,
+  "duplicates_merged": 90,
+  "empty_removed": 7,
   "new": [
     {
       "author_name": "MARSAULT",
@@ -1720,199 +1720,134 @@
       "author_name": "Le Parisien",
       "published_at": "2026-11-07 07:22",
       "text": "Le fiasco des plannings erronés du périscolaire désespère les parents à Paris\n➡️ https://l.leparisien.fr/uUwF"
+    },
+    {
+      "author_name": "L'Express",
+      "published_at": "2026-11-07 07:25",
+      "text": "Ce petit pays balte, frontalier de la Russie, a investi très tôt dans sa sécurité numérique. Il est devenu l'une des références européennes face à la multiplication des attaques.\n\n➡️ https://l.lexpress.fr/JYp"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-07 07:26",
+      "text": "🛣️ L'A69 enfin ouverte aux automobilistes après quatre ans de contestation !#GrandMatinWeekEnd\n\n🗣️ @philippefolliot : \"Ça fait plus de 25 ans que je me bats pour cette réalisation. On entend des gens se plaindre, mais beaucoup sont satisfaits\"\n\n📻https://sudradio.fr\n☎️0 826"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-07 07:30",
+      "text": "🔴De nouvelles manifestations prévues ce samedi pour «l’acte IV» de la mobilisation contre la vie chère\n\nSuivez notre direct ➡️ https://l.leparisien.fr/5vxe"
+    },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-07 07:30",
+      "text": "La présentatrice de la matinale de BFMTV s’est exprimée sur les nombreuses critiques reçues par sa collègue, ciblée par les syndicats du groupe BFM-RMC. →https://l.lefigaro.fr/A1bl"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-07 07:30",
+      "text": "Un moment de grande émotion ➡️ https://mrf.lu/2_L9n"
+    },
+    {
+      "author_name": "Damien Rieu",
+      "published_at": "2026-11-07 07:31",
+      "text": "Une gynécologue du 93 explique qu’elle délivre des « certificats de virginité » pour sauver des femmes de « familles traditionnelles ». \n\nCe que notre pays est devenu…"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-07 07:33",
+      "text": "La chronique internationale d'Harold Hyman du 07/11/2026 dans #LaMatinale"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-07 07:40",
+      "text": "Pour patienter jusqu’à Noël ou simplement se plonger dans l'ambiance chaleureuse de l’hiver, voici cinq histoires à découvrir en famille, bien au chaud ➡️ https://mrf.lu/2_DNh"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-07 07:41",
+      "text": "Recrutement dans le périscolaire : l’amateurisme perdure\n➡️ https://l.leparisien.fr/Kx40"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-07 07:43",
+      "text": "Comment Gabriel Attal veut rebooster sa campagne https://l.lepoint.fr/68P"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-07 07:44",
+      "text": "L'édito de Quentin Gérard : «Le gouvernement va-t-il augmenter le SMIC ?»"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-07 07:45",
+      "text": "🧠 Santé mentale : genre et troubles dépressifs, pourquoi les femmes sont-elles plus à risque ? #GrandMatinWeekEnd\n\n🗣️ @MicheleVianes  (@regardsdefemmes) : \"18,2% des femmes en souffrent contre 12,8% des hommes. Cet écart, c'est le fruit de rapports sociaux : elles sont plus"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-07 07:45",
+      "text": "Dans le périscolaire, décrocher un poste d’animateur n’est quand même plus si simple\n➡️ https://l.leparisien.fr/1RLI"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-07 07:46",
+      "text": "🍷4e éditions du Salon du vin et de la gastronomie de la Vallée d'Ossau à Laruns  #GrandMatinWeekEnd\n\n🗣️ Fabien Coucourron, Créateur du Salon : \"À chaque fois que je rencontre des vignerons, je suis toujours hyper bien accueilli, je voulais leur rendre la pareille !\""
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-07 07:46",
+      "text": "[Retweet de @LesPatriotes24] Aujourd'hui les Patriotes affichaient dans le secteur de Siorac, St Cyprien et Le Bugue. Toutes les communes n'ont hélas pas de panneaux d'affichage libre... \nUn grand merci à Claudie pour son efficacité, sa bonne humeur et pour nos échanges passionnants !"
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-07 07:47",
+      "text": "[Retweet de @PauletteRoure] Bravo à ces belles Patriotes qui narguent le froid pour que leurs idées vivent."
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-07 07:47",
+      "text": "[Retweet de @vetopatriote] Sans quitter l’Union Européenne Jordan Bardella, il n’est PAS POSSIBLE de restaurer la souveraineté de la France !\n\nEt vous le savez !\nOn ne change pas l’UE, on la détruit pour ressusciter le pays."
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-07 07:47",
+      "text": "[Retweet de @LesPatriotes21] https://youtube.com/watch?v=R_NSb0s_HGk&is=cy6jCoRL680jdx3V"
+    },
+    {
+      "author_name": "MARSAULT",
+      "published_at": "2026-11-07 07:47",
+      "text": "[Retweet de @EstelleMidi] 🌆 Notre société est-elle devenue laide ?\n\n🎙️ Elise Goldfarb : \"Ce sujet est boomer ! Le \"c'était mieux avant\", je ne peux plus me le blairer ! La France a toujours été moche... Tu t'es déjà baladée dans les petits villages avec des bâtiments construits en 1700, ils sont"
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-07 07:47",
+      "text": "[Retweet de @LesPatriotes21] 🔶 Hommage au général De Gaulle ce lundi 9 novembre, avec Florian Philippot à Colombey-Les-Deux-Églises.\n\nDernières places pour le déjeuner et l’hommage ici : https://les-patriotes.fr/dejeunercolombey/ 🇨🇵"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-07 07:48",
+      "text": "En direct - Acte IV contre la vie chère : nouvelle journée de mobilisation partout en France https://ow.ly/V8i7106I4C8"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-07 07:49",
+      "text": "Matthieu Langlois au sujet de l'accompagnement des victimes de l'accident de car dans l'Ain dans #LaMatinaleWE : «C'est un très long combat»\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-07 07:50",
+      "text": "« C’est le premier jeune tué sur la route de l’Angleterre » : l’hommage à Mamadou près de Rouen\n➡️ https://l.leparisien.fr/v2tA"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-07 07:50",
+      "text": "Voici les temps forts de ce rendez-vous incontournable du genre ➡️ https://mrf.lu/2_DZs"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-07 07:55",
+      "text": "💹  Quand les patients renoncent aux soins à cause du prix des mutuelles #GrandMatinWeekEnd\n\n🗣️ Docteur Oualid Daoudi : \"Beaucoup préfèrent ne pas consulter leur médecin à cause des fins de mois difficiles. Ça concerne parfois des cas d’insuffisance cardiaque, avec de graves"
     }
   ],
   "context": [
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-06 07:25",
-      "text": "«Les manifestations ont commencé le 17 octobre, à la moitié du mois, donc on a perdu la moitié du chiffre d'affaires», déplore Nicole Richard-Verspieren, caviste à Marseille et présidente de l'association Commerce 13 dans #LaMatinale"
-    },
-    {
-      "author_name": "Tocsin",
-      "published_at": "2026-11-06 07:27",
-      "text": "Matinale 6/11 : La démocratie, cauchemar des mondialistes ! Présentée par @nicolasputsch / Avec @cab2626  @CanonFrancais  @Magelya777 @Olivier_Bault  @mmtchi https://x.com/i/broadcasts/2AMWLMadqRdoql"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-06 07:29",
-      "text": "🚆 Ce vendredi, depuis la gare de Lyon à Paris, est inauguré le TGV M, nouveau train à grande vitesse de la SNCF, que le groupe et Alstom qualifient de «révolutionnaire». Une rame peut contenir 9 voitures et compter 740 places.\n\nAlors, ça donne quoi ? ➡️ https://l.leparisien.fr/J6qJ"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-06 07:29",
-      "text": "🇫🇷 France-Fidji « peut être un match tout à fait pétillant »\n\n🗣️ Daniel Herrero, consultant @SudRadioRugby : « On s’attend à un match équilibré. Les Fidji sont dans une forme rayonnante »\n\n📻 https://SudRadio.fr"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-06 07:29",
-      "text": "La chronique économique d'Éric de Riedmatten  du 06/11/2026 dans #LaMatinale"
-    },
-    {
-      "author_name": "Kontre Kulture",
-      "published_at": "2026-11-06 07:30",
-      "text": "⛔ Faites barrage à l'ignorance : LISEZ !"
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-06 07:30",
-      "text": "«D’abord c’est la pizza, ensuite c’est Halloween».→https://l.lefigaro.fr/15aJ"
-    },
-    {
-      "author_name": "Les Patriotes",
-      "published_at": "2026-11-06 07:32",
-      "text": "[Retweet de @JBollee] Mais à quoi joue Bardella ?! 🤔\n\nPourquoi s’attribue-t-il la paternité d’une règle d’or à mettre « immédiatement » dans la Constitution, alors que Thierry Breton a formulé cette exigence, mot pour mot, il y a deux jours maintenant ? \n\nLe démarche est ridicule, mais le fond"
-    },
-    {
-      "author_name": "Les Patriotes",
-      "published_at": "2026-11-06 07:32",
-      "text": "[Retweet de @LesPatriotes21] 🔶 GRAND DIRECT 🔶\n\n- Élections américaines : le séisme !\n- Pologne : la révolution anti-UE !\n- Les soldats français en Ukraine !\n- Présidentielle 2027 : ça secoue fort !\n…+ toute l’actualité et vos questions EN DIRECT\n\nCe vendredi 6 novembre, à 19 heures, grand direct Youtube"
-    },
-    {
-      "author_name": "Les Patriotes",
-      "published_at": "2026-11-06 07:32",
-      "text": "[Retweet de @Chr63391Chris] https://les-patriotes.fr/kintzheim"
-    },
-    {
-      "author_name": "Les Patriotes",
-      "published_at": "2026-11-06 07:32",
-      "text": "[Retweet de @62PATRIOTES] ✊On ne se couchera pas !"
-    },
-    {
-      "author_name": "Les Patriotes",
-      "published_at": "2026-11-06 07:32",
-      "text": "[Retweet de @LIreLand1984] Fière des Patriotes, ces Assises de la Souveraineté d'Arras était incroyable et de voir les coulisses on comprend encore mieux pourquoi c'est une réussite ! Un immense BRAVO et MERCI à tous 👏🏻🇨🇵🕊️🙏🏻🧡\n#FrexitVite\n#souverainete\nhttps://youtu.be/wso5ifo3AY8?si=Fx-uEPAwvXbavE1Y"
-    },
-    {
-      "author_name": "Les Patriotes",
-      "published_at": "2026-11-06 07:32",
-      "text": "[Retweet de @LesPatriotes21] https://youtube.com/watch?v=_9MHbQz0Ys4&is=NiHxjBkU2uIfukRZ"
-    },
-    {
-      "author_name": "Les Patriotes",
-      "published_at": "2026-11-06 07:32",
-      "text": "[Retweet de @LesPatriotes21] https://youtube.com/watch?v=wso5ifo3AY8&is=7ngWx0vysAsoR6-o"
-    },
-    {
-      "author_name": "L'HERMYNE ⚜️",
-      "published_at": "2026-11-06 07:37",
-      "text": "\"si a 20 ans tu n'est pas de gauche c'est que tu n'a pas de coeur, mais si tu l'est toujours a 40 c'est que tu n'a pas de tête \"\n[Cite @Mad_Westerner_2] Dommage que les gauchistes sont incapables de comprendre cette vidéo enfantine."
-    },
-    {
-      "author_name": "Marc Vanguard",
-      "published_at": "2026-11-06 07:38",
-      "text": "[Retweet de @Sonic_urticant] @RV_Joly Mesdames et Messieurs, sous vos applaudissements :\nun enseignant-chercheur qui n'hésite plus à faire un lien automatique non-pas de corrélation mais de causalité entre pauvreté et délinquance.\nLes pauvres, hein, vous le savez, maintenant : bande de délinquants !"
-    },
-    {
-      "author_name": "Damien Rieu",
-      "published_at": "2026-11-06 07:39",
-      "text": "[Retweet de @solrenette] Donc la mairie de Paris a recruté des pedophiles (un sacré grand nombre qd même 🤔), les a muté, couvert, et mtn on découvre qu’elle leur a offert une carte « sortez de prison » en fournissant des FAUX permettants aux accusés d’obtenir des vice de procédure ?\nÇa commence à"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-06 07:39",
-      "text": "«Il est revenu vers moi et m’a étranglé» : prison avec sursis pour l’automobiliste qui avait poignardé un cycliste à Paris\n➡️ https://l.leparisien.fr/h1nj"
-    },
-    {
-      "author_name": "Damien Rieu",
-      "published_at": "2026-11-06 07:40",
-      "text": "[Retweet de @ElCrackitoDuNet] Des mots forts et puissants. Il a des énormes couilles pour sortir ça sur un plateau TV."
-    },
-    {
-      "author_name": "Aldo Sterone",
-      "published_at": "2026-11-06 07:41",
-      "text": "Brutal comme sport"
-    },
-    {
-      "author_name": "L'Express",
-      "published_at": "2026-11-06 07:42",
-      "text": "[Retweet de @ericmandonnet] \"Ils vont tous se faire empaler. Tous !\"\nMacron et son grand rassemblement, les explications @LEXPRESS @ErwanBruckert \nhttps://www.lexpress.fr/politique/un-rassemblement-de-glucksmann-a-lisnard-pourquoi-emmanuel-macron-sest-il-mis-dans-cette-galere-SMJUFMOH5JD6HK25AJUXBEPACA/"
-    },
-    {
-      "author_name": "L'Express",
-      "published_at": "2026-11-06 07:42",
-      "text": "[Retweet de @yohanblavignat] \"Deux menaces pourraient mener à notre extinction\" : le monde en 2100 vu par le chercheur Christopher Murray\n\nA lire dans @LEXPRESS\n\nhttps://www.lexpress.fr/sciences-sante/deux-menaces-pourraient-mener-a-notre-extinction-le-monde-en-2100-vu-par-le-chercheur-christopher-4XFFNLVGPJB2PNB3BFPYCFOBDE/"
-    },
-    {
-      "author_name": "Cercle Aristote",
-      "published_at": "2026-11-06 07:44",
-      "text": "[Retweet de @Cercle_Aristote] Une preuve de plus que \"protéger les enfants\" est le cadet de leur soucis.\n\nIls protègent les criminels."
-    },
-    {
-      "author_name": "Union Populaire Républicaine",
-      "published_at": "2026-11-06 07:44",
-      "text": "[Retweet de @f_asselineau] 📉 𝗠𝗔𝗖𝗥𝗢𝗡 𝗕𝗔𝗧 𝗟𝗘 𝗥𝗘𝗖𝗢𝗥𝗗 𝗗'𝗜𝗠𝗣𝗢𝗣𝗨𝗟𝗔𝗥𝗜𝗧𝗘 𝗗𝗘 𝗛𝗢𝗟𝗟𝗔𝗡𝗗𝗘 !\nLa cote de confiance dans Macron est tombée à 13%, un record historique pour un Président de la République depuis que ce sondage Elabe existe.\nCet imposteur n'a plus aucune légitimité."
-    },
-    {
-      "author_name": "Cercle Aristote",
-      "published_at": "2026-11-06 07:45",
-      "text": "[Retweet de @Cercle_Aristote] La dame Sophie confirme : elle fera encore le castor en 2027 (après 2017 et 2022).\n\n(Mais promis, elle demandera ensuite aux gens de perdre des journées de salaire pour \"lutter\" contre le grand gouvernement central 🤡)"
-    },
-    {
-      "author_name": "Damien Rieu",
-      "published_at": "2026-11-06 07:45",
-      "text": "[Retweet de @PaulFortune1975] Il a suffit de 3000 soldats salvadoriens pour ramener à la raison une île de 11M d'habitants grande comme la Bretagne."
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-06 07:45",
-      "text": "🇵🇹 « Si Ronaldo quitte la sélection, c’est parce que la confiance a été rompue »\n\n🗣️ Emmanuel Galasso, consultant : « Ce n’est pas une question de niveau, ni un caprice. Il y a un manque de reconnaissance incroyable ! »\n\n📻 https://SudRadio.fr"
-    },
-    {
-      "author_name": "Union Populaire Républicaine",
-      "published_at": "2026-11-06 07:45",
-      "text": "[Retweet de @Pascal_Laurent_] 🇨🇵 ET SI POUR UNE FOIS LES FRANÇAIS FAISAIENT PREUVE DE BON SENS AU PREMIER TOUR ?"
-    },
-    {
-      "author_name": "AFP News Agency",
-      "published_at": "2026-11-06 07:45",
-      "text": "Israel faces new era of sinking US support.\n\nNetanyahu's brash campaign posters with Trump and soaring jets are still up, but the US and Israeli elections look to many observers like a turning point, with Israel no longer able to take for granted the cover of the world's most"
-    },
-    {
-      "author_name": "Cercle Aristote",
-      "published_at": "2026-11-06 07:45",
-      "text": "[Retweet de @Cercle_Aristote] C’est aussi un des marqueurs qui distinguent les salauds et les autres.\n\nLe fait que le père de la victime soit potentiellement un antisémite, fasse l’apologie du 13 novembre, etc., ne justifie en rien l’attaque raciste.\n\nEn revanche, Mélenchon et sa bande n’ont pas arrêté de"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-06 07:47",
-      "text": "La chronique économique de Marc Touati du 06/11/2026 dans #LaMatinale"
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-06 07:49",
-      "text": "Trump affirme qu'un accord entre l'Ukraine est la Russie «qui pourrait concerner l'Europe» est sur le point d'être signé\nDonald Trump a prédit le 6 novembre, en termes mystérieux, un prochain «très grand» accord avec la Russie sur l’Ukraine et ajouté que l’entente en question"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-06 07:51",
-      "text": "«Donner la mort est incompatible avec les valeurs de la Californie» https://mrf.lu/2VWX0"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-06 07:53",
-      "text": "La chronique santé du Dr Milhau du 06/11/2026"
-    },
-    {
-      "author_name": "Les Patriotes",
-      "published_at": "2026-11-06 07:54",
-      "text": "[Retweet de @SZYCH1] https://youtu.be/_9MHbQz0Ys4?is=jINyLMWrzQFADZdS"
-    },
-    {
-      "author_name": "Les Patriotes",
-      "published_at": "2026-11-06 07:54",
-      "text": "[Retweet de @Patriotes71] https://youtu.be/_9MHbQz0Ys4?is=jINyLMWrzQFADZdS"
-    },
-    {
-      "author_name": "Les Patriotes",
-      "published_at": "2026-11-06 07:54",
-      "text": "[Retweet de @Patriotes71] https://youtube.com/post/Ugkx2jLgElc9-qt1QTHgqt3g1cxTf5_BzYKB?si=Nwvh2wTOIL4DkZ_w"
-    },
-    {
-      "author_name": "Les Patriotes",
-      "published_at": "2026-11-06 07:54",
-      "text": "[Retweet de @Patriotes71] https://youtu.be/wso5ifo3AY8?is=nPPFxkw4YMdvsNsn"
-    },
     {
       "author_name": "Europe 1",
       "published_at": "2026-11-06 07:56",
