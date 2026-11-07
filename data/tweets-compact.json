@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-07 01:24",
-  "period": "du 2026-11-06 01:24 au 2026-11-07 01:24",
-  "new_period": "du 2026-11-06 20:00 au 2026-11-07 01:24",
-  "context_period": "du 2026-11-06 01:24 au 2026-11-06 20:00",
+  "generated_at": "2026-11-07 01:54",
+  "period": "du 2026-11-06 01:54 au 2026-11-07 01:54",
+  "new_period": "du 2026-11-06 20:00 au 2026-11-07 01:54",
+  "context_period": "du 2026-11-06 01:54 au 2026-11-06 20:00",
   "coverage_complete": true,
-  "new_count": 279,
-  "context_count": 1375,
-  "duplicates_merged": 99,
+  "new_count": 282,
+  "context_count": 1371,
+  "duplicates_merged": 97,
   "empty_removed": 8,
   "new": [
     {
@@ -1454,39 +1454,28 @@
       "author_name": "François Asselineau 🇫🇷",
       "published_at": "2026-11-07 01:20",
       "text": "📺 𝗡𝗼𝘂𝘃𝗲𝗹𝗹𝗲 𝘃𝗶𝗱𝗲𝗼 𝘀𝘂𝗿 𝗕𝗔𝗕𝗘𝗟-𝗧𝗩\nJ'ai répondu en direct aux questions de Daniel sur BABEL-TV, ce vendredi 6 novembre 2026. ⤵️\nhttps://www.youtube.com/live/EAq0eo1k29I?is=1ZM7GcEknGdFTebI\n-----\nBabel TV se définit comme un média engagé en faveur des causes sociales, libre et totalement"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-07 01:32",
+      "text": "📺 C'est officiel : «Stranger Things» va avoir une suite. Le préquel vient d’être commandé par Netflix Et s'intitulera «Les Autres mondes»\n\n➡️ https://l.leparisien.fr/Hfy3"
+    },
+    {
+      "author_name": "Médias-Presse-Info",
+      "published_at": "2026-11-07 01:35",
+      "text": "Samedi 7 novembre - De la Sainte Vierge au samedi - Saint Willibrord, Évêque - Bienheureux Raynier d'Arezzo, Premier Ordre Franciscain - https://www.medias-presse.info/samedi-7-novembre-de-la-sainte-vierge-au-samedi-saint-willibrord-eveque-bienheureux-raynier-darezzo-premier-o..."
+    },
+    {
+      "author_name": "AFP News Agency",
+      "published_at": "2026-11-07 01:45",
+      "text": "Rail staff in the heart of Tokyo have deployed an unusual team to trim an overgrown lot -- a pair of goats. Nagi and Pokke are now social media stars"
     }
   ],
   "context": [
     {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-06 01:29",
-      "text": "Pérou : des milliers de mygales saisies à l’aéroport de Lima, les animaux étaient destinés au trafic vers l’Allemagne\n➡️ https://l.leparisien.fr/bOh5",
-      "also_by": [
-        "Le Parisien | politique"
-      ]
-    },
-    {
-      "author_name": "Médias-Presse-Info",
-      "published_at": "2026-11-06 01:35",
-      "text": "Vendredi 6 novembre - De la férie - Saint Léonard, Ermite, Patron des Prisonniers - Bienheureuse Marguerite de Lorraine, Clarisse - https://www.medias-presse.info/saint-leonard-prisonniers-vendredi-6-novembre-de-la-ferie/252655/ - De la férie : messe du vingt-troisième dimanch..."
-    },
-    {
-      "author_name": "Tanguy David",
-      "published_at": "2026-11-06 01:45",
-      "text": "[Retweet de @yona_faedda] N'hésitez pas à m'aider à retrouver ces deux danseuses étoiles, belle coordination sur leurs vélos vous remarquerez.\n\n (Toujours attendre d'être à 20/30m de la femme d'1m53 pour l'insulter 💪🏻)"
-    },
-    {
-      "author_name": "L'HERMYNE ⚜️",
-      "published_at": "2026-11-06 01:50",
-      "text": "Présidentielle 2027, second tour le plus probable : Le Pen 64,3 %, Mélenchon 35,7 %. Projection expérimentale. https://lhermyne.github.io/Presidentielle-2027/\n\nMise a jours quotidienne automatique en fonction des derniers sondages, et prise en compte de polymarket, le baromètre des réseaux,etc..."
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-06 01:51",
-      "text": "« Vous n’avez pas idée » : Donald Trump revient à ses accusations « d’élections truquées » aux États-Unis\n➡️ https://l.leparisien.fr/5vxS",
-      "also_by": [
-        "Le Parisien | politique"
-      ]
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-06 01:54",
+      "text": "« Vous n’avez pas idée » : Donald Trump revient à ses accusations « d’élections truquées » aux États-Unis\n➡️ https://l.leparisien.fr/tQgZ"
     },
     {
       "author_name": "AFP News Agency",
