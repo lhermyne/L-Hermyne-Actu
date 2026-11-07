@@ -1,13 +1,13 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-07T02:54:40.724Z",
+  "updated_at": "2026-11-07T03:10:47.465Z",
   "window_hours": 24,
-  "window_start": "2026-11-06T02:54:40.724Z",
+  "window_start": "2026-11-06T03:10:47.465Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1747,
+  "count": 1746,
   "tweets": [
     {
       "id": "2118899117824848316",
@@ -22706,19 +22706,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/le_Parisien/status/2118543233764688028"
-    },
-    {
-      "id": "2118539115339890827",
-      "created_at": "2026-11-06T03:01:00.000Z",
-      "author": "AldoSterone111",
-      "author_name": "Aldo Sterone",
-      "type": "quote",
-      "text": "Royaume-Uni : 1000 diagnostics de cancer par jour. C'est un record historique. Les médecins ne savent pas pourquoi.\n\nDe plus, dans ce pays, tu peux avoir des mois de lutte pour obtenir un rendez-vous chez le généraliste. Il faut encore des mois pour passer dans un labo...",
-      "retweeted_author": null,
-      "quoted_author": "BRICSinfo",
-      "quoted_text": "JUST IN: 🇬🇧 England now records 1,000 new cancer diagnoses every day, the highest level in history.",
-      "lang": "fr",
-      "url": "https://x.com/AldoSterone111/status/2118539115339890827"
     }
   ]
 }

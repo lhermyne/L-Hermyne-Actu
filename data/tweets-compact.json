@@ -1,13 +1,13 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-07 03:54",
-  "period": "du 2026-11-06 03:54 au 2026-11-07 03:54",
-  "new_period": "du 2026-11-06 20:00 au 2026-11-07 03:54",
-  "context_period": "du 2026-11-06 03:54 au 2026-11-06 20:00",
+  "generated_at": "2026-11-07 04:10",
+  "period": "du 2026-11-06 04:10 au 2026-11-07 04:10",
+  "new_period": "du 2026-11-06 20:00 au 2026-11-07 04:10",
+  "context_period": "du 2026-11-06 04:10 au 2026-11-06 20:00",
   "coverage_complete": true,
   "new_count": 285,
-  "context_count": 1359,
+  "context_count": 1358,
   "duplicates_merged": 95,
   "empty_removed": 8,
   "new": [
@@ -1490,11 +1490,6 @@
     }
   ],
   "context": [
-    {
-      "author_name": "Aldo Sterone",
-      "published_at": "2026-11-06 04:01",
-      "text": "Royaume-Uni : 1000 diagnostics de cancer par jour. C'est un record historique. Les médecins ne savent pas pourquoi.\n\nDe plus, dans ce pays, tu peux avoir des mois de lutte pour obtenir un rendez-vous chez le généraliste. Il faut encore des mois pour passer dans un labo...\n[Cite @BRICSinfo] JUST IN: 🇬🇧 England now records 1,000 new cancer diagnoses every day, the highest level in history."
-    },
     {
       "author_name": "Le Parisien",
       "published_at": "2026-11-06 04:17",
