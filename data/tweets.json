@@ -1,14 +1,27 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-07T00:54:19.329Z",
+  "updated_at": "2026-11-07T01:24:24.433Z",
   "window_hours": 24,
-  "window_start": "2026-11-06T00:54:19.329Z",
+  "window_start": "2026-11-06T01:24:24.433Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1758,
+  "count": 1755,
   "tweets": [
+    {
+      "id": "2118876578700493014",
+      "created_at": "2026-11-07T01:21:57.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "« Ça ne peut plus durer, les élèves les plus fragiles décrochent » : pourquoi les présidents d’université ont défilé dans Paris\n➡️ https://l.leparisien.fr/YiBf",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2118876578700493014"
+    },
     {
       "id": "2118867349931446512",
       "created_at": "2026-11-07T00:45:17.000Z",
@@ -22810,58 +22823,6 @@
       "quoted_text": null,
       "lang": "en",
       "url": "https://x.com/AFP/status/2118520894687490507"
-    },
-    {
-      "id": "2118512745804976612",
-      "created_at": "2026-11-06T01:16:13.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "Il était porté disparu depuis deux ans : le corps d’un père de famille découvert par un promeneur dans une forêt du Jura\n➡️ https://l.leparisien.fr/2lJg",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2118512745804976612"
-    },
-    {
-      "id": "2118510036754596265",
-      "created_at": "2026-11-06T01:05:27.000Z",
-      "author": "LePoint",
-      "author_name": "Le Point",
-      "type": "tweet",
-      "text": "Fantasy épique, braquage spectaculaire, escroquerie historique, espionnage à la britannique ou androïdes en cavale : les séries de novembre promettent du grand spectacle.\n➡️ https://l.lepoint.fr/Kzr",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/LePoint/status/2118510036754596265"
-    },
-    {
-      "id": "2118508666689085604",
-      "created_at": "2026-11-06T01:00:00.000Z",
-      "author": "AFP",
-      "author_name": "AFP News Agency",
-      "type": "tweet",
-      "text": "The makers of an Indian blockbuster based on the Ramayana, one of Hinduism's most revered epics, have hailed the new film as an unprecedented fusion of homegrown and Hollywood talent, calling it India's first truly global release.\n\nhttps://u.afp.com/SyK6",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "en",
-      "url": "https://x.com/AFP/status/2118508666689085604"
-    },
-    {
-      "id": "2118507285060493759",
-      "created_at": "2026-11-06T00:54:31.000Z",
-      "author": "leparisien_pol",
-      "author_name": "Le Parisien | politique",
-      "type": "tweet",
-      "text": "« Vous n’avez pas idée » : Donald Trump revient à ses accusations « d’élections truquées » aux États-Unis\n➡️ https://l.leparisien.fr/tQgZ",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/leparisien_pol/status/2118507285060493759"
     }
   ]
 }
