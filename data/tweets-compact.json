@@ -1,13 +1,13 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-08 02:32",
-  "period": "du 2026-11-07 02:32 au 2026-11-08 02:32",
-  "new_period": "du 2026-11-07 20:00 au 2026-11-08 02:32",
-  "context_period": "du 2026-11-07 02:32 au 2026-11-07 20:00",
+  "generated_at": "2026-11-08 03:03",
+  "period": "du 2026-11-07 03:03 au 2026-11-08 03:03",
+  "new_period": "du 2026-11-07 20:00 au 2026-11-08 03:03",
+  "context_period": "du 2026-11-07 03:03 au 2026-11-07 20:00",
   "coverage_complete": true,
   "new_count": 252,
-  "context_count": 1061,
+  "context_count": 1059,
   "duplicates_merged": 71,
   "empty_removed": 5,
   "new": [
@@ -1315,16 +1315,6 @@
     }
   ],
   "context": [
-    {
-      "author_name": "Observatoire du journalisme (Ojim)",
-      "published_at": "2026-11-07 02:43",
-      "text": "[Retweet de @ojim_france] 🔴Jérôme Fourquet sommé de s'expliquer sur Quotidien après avoir révélé que 75 % des prénoms sont arabo-musulmans ou africains chez les prévenus du 17 octobre.\n\nAlors qu'il explique avoir utilisé la même méthodologie que Libération, Yann Barthès le coupe net : \"Oui mais eux,"
-    },
-    {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-07 02:57",
-      "text": "David Lisnard, « candidat de l’automne » ? Ces anciens prétendants à l’Élysée très populaires dans les sondages, qui ont fini loin du podium lors du scrutin https://l.leparisien.fr/Qtfp"
-    },
     {
       "author_name": "Le Parisien",
       "published_at": "2026-11-07 03:51",

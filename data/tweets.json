@@ -1,13 +1,13 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-08T01:32:47.329Z",
+  "updated_at": "2026-11-08T02:03:17.094Z",
   "window_hours": 24,
-  "window_start": "2026-11-07T01:32:47.329Z",
+  "window_start": "2026-11-07T02:03:17.094Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1389,
+  "count": 1387,
   "tweets": [
     {
       "id": "2119238967711449349",
@@ -18039,32 +18039,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/le_Parisien/status/2118899117824848316"
-    },
-    {
-      "id": "2118885427306504658",
-      "created_at": "2026-11-07T01:57:07.000Z",
-      "author": "leparisien_pol",
-      "author_name": "Le Parisien | politique",
-      "type": "tweet",
-      "text": "David Lisnard, « candidat de l’automne » ? Ces anciens prétendants à l’Élysée très populaires dans les sondages, qui ont fini loin du podium lors du scrutin https://l.leparisien.fr/Qtfp",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/leparisien_pol/status/2118885427306504658"
-    },
-    {
-      "id": "2118882026027671825",
-      "created_at": "2026-11-07T01:43:36.000Z",
-      "author": "ojim_france",
-      "author_name": "Observatoire du journalisme (Ojim)",
-      "type": "retweet",
-      "text": "🔴Jérôme Fourquet sommé de s'expliquer sur Quotidien après avoir révélé que 75 % des prénoms sont arabo-musulmans ou africains chez les prévenus du 17 octobre.\n\nAlors qu'il explique avoir utilisé la même méthodologie que Libération, Yann Barthès le coupe net : \"Oui mais eux,",
-      "retweeted_author": "ojim_france",
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/ojim_france/status/2118882026027671825"
     }
   ]
 }
