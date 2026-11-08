@@ -1,13 +1,13 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-08T04:05:02.786Z",
+  "updated_at": "2026-11-08T04:35:07.740Z",
   "window_hours": 24,
-  "window_start": "2026-11-07T04:05:02.786Z",
+  "window_start": "2026-11-07T04:35:07.740Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1388,
+  "count": 1386,
   "tweets": [
     {
       "id": "2119266125108203849",
@@ -18026,32 +18026,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/LePoint/status/2118928307161022713"
-    },
-    {
-      "id": "2118921926156394567",
-      "created_at": "2026-11-07T04:22:09.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "Présidentielle 2027 : les sondages ont-ils toujours vu juste à six mois des élections ?\n➡️ https://l.leparisien.fr/lhsQ",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2118921926156394567"
-    },
-    {
-      "id": "2118919079633285569",
-      "created_at": "2026-11-07T04:10:50.000Z",
-      "author": "NiONiPardon",
-      "author_name": "Ni Oubli Ni Pardon",
-      "type": "tweet",
-      "text": "02/2021 Jeff Goldblum, acteur, a posté sur Instagram : « Je tiens à remercier chaleureusement tous les professionnels de santé de première ligne qui continuent de travailler sans relâche pour assurer notre sécurité à tous. En tant que citoyen bien avancé dans mes années de",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/NiONiPardon/status/2118919079633285569"
     }
   ]
 }

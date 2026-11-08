@@ -1,13 +1,13 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-08 05:05",
-  "period": "du 2026-11-07 05:05 au 2026-11-08 05:05",
-  "new_period": "du 2026-11-07 20:00 au 2026-11-08 05:05",
-  "context_period": "du 2026-11-07 05:05 au 2026-11-07 20:00",
+  "generated_at": "2026-11-08 05:35",
+  "period": "du 2026-11-07 05:35 au 2026-11-08 05:35",
+  "new_period": "du 2026-11-07 20:00 au 2026-11-08 05:35",
+  "context_period": "du 2026-11-07 05:35 au 2026-11-07 20:00",
   "coverage_complete": true,
   "new_count": 255,
-  "context_count": 1058,
+  "context_count": 1056,
   "duplicates_merged": 70,
   "empty_removed": 5,
   "new": [
@@ -1330,16 +1330,6 @@
     }
   ],
   "context": [
-    {
-      "author_name": "Ni Oubli Ni Pardon",
-      "published_at": "2026-11-07 05:10",
-      "text": "02/2021 Jeff Goldblum, acteur, a posté sur Instagram : « Je tiens à remercier chaleureusement tous les professionnels de santé de première ligne qui continuent de travailler sans relâche pour assurer notre sécurité à tous. En tant que citoyen bien avancé dans mes années de"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-07 05:22",
-      "text": "Présidentielle 2027 : les sondages ont-ils toujours vu juste à six mois des élections ?\n➡️ https://l.leparisien.fr/lhsQ"
-    },
     {
       "author_name": "Le Point",
       "published_at": "2026-11-07 05:47",
