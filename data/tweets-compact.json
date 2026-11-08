@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-08 15:38",
-  "period": "du 2026-11-07 15:38 au 2026-11-08 15:38",
-  "new_period": "du 2026-11-08 08:00 au 2026-11-08 15:38",
-  "context_period": "du 2026-11-07 15:38 au 2026-11-08 08:00",
+  "generated_at": "2026-11-08 16:08",
+  "period": "du 2026-11-07 16:08 au 2026-11-08 16:08",
+  "new_period": "du 2026-11-08 08:00 au 2026-11-08 16:08",
+  "context_period": "du 2026-11-07 16:08 au 2026-11-08 08:00",
   "coverage_complete": true,
-  "new_count": 504,
-  "context_count": 719,
-  "duplicates_merged": 47,
+  "new_count": 531,
+  "context_count": 683,
+  "duplicates_merged": 49,
   "empty_removed": 6,
   "new": [
     {
@@ -2482,7 +2482,10 @@
     {
       "author_name": "Le Parisien",
       "published_at": "2026-11-08 15:29",
-      "text": "Guerre en Ukraine : Jean-Luc Mélenchon est le « porte-parole du Kremlin », selon le ministre des Affaires étrangères https://l.leparisien.fr/TE25"
+      "text": "Guerre en Ukraine : Jean-Luc Mélenchon est le « porte-parole du Kremlin », selon le ministre des Affaires étrangères https://l.leparisien.fr/TE25",
+      "also_by": [
+        "Le Parisien | politique"
+      ]
     },
     {
       "author_name": "Le Figaro",
@@ -2527,7 +2530,10 @@
     {
       "author_name": "Daniel Conversano ⏩ e/acc 🚀",
       "published_at": "2026-11-08 15:33",
-      "text": "[Retweet de @VivrEuropeen] ✈️ Le week-end dernier devait se tenir à Paris le colloque “Remigration : Ouvrons le débat !”. Après plusieurs interdictions, menaces et réorganisations successives, une rencontre a finalement été organisée…\n\nLa Remigration aura-t-elle lieu ?\n👉 https://youtu.be/K8Zl83tt2hk"
+      "text": "[Retweet de @VivrEuropeen] ✈️ Le week-end dernier devait se tenir à Paris le colloque “Remigration : Ouvrons le débat !”. Après plusieurs interdictions, menaces et réorganisations successives, une rencontre a finalement été organisée…\n\nLa Remigration aura-t-elle lieu ?\n👉 https://youtu.be/K8Zl83tt2hk",
+      "also_by": [
+        "Les Braves"
+      ]
     },
     {
       "author_name": "Fdesouche.com est une revue de presse",
@@ -2548,189 +2554,144 @@
       "author_name": "Boulevard Voltaire",
       "published_at": "2026-11-08 15:37",
       "text": "Lucky Luke fête ses 80 ans ! | Par Nicolas Gauthier\nMorris et Goscinny ont réinventé le Far West avec un humour des plus ravageurs. Et aujourd'hui, l'aventure continue ! \n \nhttps://www.bvoltaire.fr/lucky-luke-fete-ses-80-ans/?fsp_sid=26173"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Alain Weber",
-      "published_at": "2026-11-07 15:40",
-      "text": "[Retweet de @MarieThereseBa9] @alainpaulweber"
     },
     {
-      "author_name": "Sarah Knafo",
-      "published_at": "2026-11-07 15:40",
-      "text": "Bien arrivée à Saint-Raphaël ! \n\nMerci pour votre accueil ❤️"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-07 15:41",
-      "text": "Après la déroute des élections de mi-mandat ➡️ https://mrf.lu/2_dC9"
-    },
-    {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-07 15:41",
-      "text": "Pont-de-Chéruy (38) : un mariage communautaire donne lieu à un important convoi de voitures de luxe. Des participants descendent sur la chaussée, provoquant une privatisation de fait de la route et perturbant la circulation."
-    },
-    {
-      "author_name": "Le Jarl",
-      "published_at": "2026-11-07 15:43",
-      "text": "Là, la faute est volontaire hein.  Il l’a cherché @davidlisnard  !"
-    },
-    {
-      "author_name": "Frontières",
-      "published_at": "2026-11-07 15:43",
-      "text": "Emmanuel Macron tombe à 14% de confiance, Sébastien Lecornu à 19 % et David Lisnard gagne huit points de cote d’avenir.\n\nhttps://www.frontieresmedia.fr/politique/sebastien-lecornu-tombe-a-19-de-confiance-lisnard-gagne-huit-points-de-cote-davenir---20731"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-07 15:44",
-      "text": "Ukraine : le bilan d’une frappe russe sur une distribution d’aide humanitaire grimpe à 50 morts\n➡️ https://l.leparisien.fr/IHmF"
-    },
-    {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-07 15:45",
-      "text": "Rennes (35) : « Si vous collaborez avec la police, on le saura et on vous tuera » — des commerçants menacés\n\n https://www.fdesouche.com/2026/11/07/rennes-35-bellangerais-commercants-menaces-mort-collaborez-police-narcotrafic/"
-    },
-    {
-      "author_name": "Eric Ciotti",
-      "published_at": "2026-11-07 15:45",
-      "text": "Incontestablement, le niveau de la dette est le principal problèmes de nos finances publiques : un taux d'endettement qui menace notre souveraineté, mais même le fonctionnement de l’Etat. Aujourd'hui, dans le projet de loi de finance, on compte 91 milliards d'euros de"
-    },
-    {
-      "author_name": "Valeurs actuelles",
-      "published_at": "2026-11-07 15:45",
-      "text": "L'EXCELLENCE FRANÇAISE. La maison Savary, boulangerie-pâtisserie réputée pour son flan traditionnel ouvre une boutique au Mexique. Une initiative rare qui témoigne de son succès en France. Entre tradition, chrétienté et produits locaux, l’excellence fran… https://l.valeursactuelles.com/OxF"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-07 15:45",
-      "text": "«Je suis sur de l'incompréhension et du dégoût, je n'ai pas encore avalé la pilule» : le témoignage d'un commerçant, pillé le 17 octobre https://www.cnews.fr/videos/france/2026-11-07/je-suis-sur-de-lincomprehension-et-du-degout-je-nai-pas-encore-avale-la"
-    },
-    {
-      "author_name": "Le Média en 4⃣-4⃣-2⃣",
-      "published_at": "2026-11-07 15:48",
-      "text": "Iran : Trump annonce de nouvelles frappes américaines tout en poursuivant les négociations \nhttps://lemediaen442.fr/iran-trump-annonce-de-nouvelles-frappes-americaines-tout-en-poursuivant-les-negociations/ \n\nSur l’île iranienne de Qeshm, les explosions rappellent que la diplomatie américaine s’accompagne toujours de frappes militaires."
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-07 15:49",
-      "text": "[Retweet de @celestineghm] Salle pleine ce samedi au Bourget. Les Insoumis y présentent la version réactualisée de leur programme L’Avenir en commun (et ses 1069 mesures), avant le discours de clôture de Jean-Luc Mélenchon @Le_Figaro"
-    },
-    {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-07 15:49",
-      "text": "Mérignac (33) : 45 jours d’ITT pour un CRS blessé, six mois avec sursis pour le jeune condamné\n\n https://www.fdesouche.com/2026/11/07/merignac-crs-45-jours-itt-six-mois-sursis-blocus-lycee/"
-    },
-    {
-      "author_name": "Pierre Sautarel",
-      "published_at": "2026-11-07 15:49",
-      "text": "https://www.fdesouche.com/fdescope"
-    },
-    {
-      "author_name": "Ni Oubli Ni Pardon",
-      "published_at": "2026-11-07 15:50",
-      "text": "07/2022 John Lenertz, médecin et responsable du centre de vaccination de Sélestat, ajoute un jour d’ouverture supplémentaire par semaine et envisage d’étendre davantage les horaires si la demande continue de croître."
-    },
-    {
-      "author_name": "Damien Rieu",
-      "published_at": "2026-11-07 15:51",
-      "text": "Le racisme anti blanc jusqu’au berceau. Voilà où mène la propagande de haine contre les descendants de gaulois dans ce pays.\n[Cite @F_Desouche] Selma Babbar, la baby-sitter, avait filmé les violences répétées contre Louis, un nourrisson à qui elle demandait s'il n'était pas raciste pendant les violences : trois ans de prison ferme (MàJ)\n\n https://www.fdesouche.com/2026/11/07/selma-babbar-la-baby-sitter-avait-filme-les-violences-repetees-contre-louis-un-nourrisson-a-qui-elle-demandait-sil-netait-pas-raciste-pendant-les-violences-trois-ans-de-prison-ferme-maj/"
-    },
-    {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-07 15:53",
-      "text": "En 2015, Mazarine Pingeot, la fille de Mitterrand, rappelait à Nabil Ennasri : « Il y a 50 ans, au Maghreb, les femmes ne portaient pas le voile. »\n\nDepuis, il a été mis en examen pour corruption, abus de confiance et blanchiment, et incarcéré 15 mois."
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-07 15:56",
-      "text": "Reda Belhaj, porte-parole UN1TE Île-de-France, dans #100Actu : «On ne pourra pas tenir tous les deux jours à 70.000 personnes en effectif»\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Agence France-Presse",
-      "published_at": "2026-11-07 15:57",
-      "text": "🇫🇷 Dans le centre de Marseille, un orchestre joue \"L'Internationale\", accompagné par les chants des manifestants rassemblés lors de la nouvelle journée de mobilisation sociale du 7 novembre en France ⤵️"
-    },
-    {
-      "author_name": "Cercle Aristote",
-      "published_at": "2026-11-07 15:58",
-      "text": "[Retweet de @PhilConte007] Ne jamais oublier que les macronards sont des pervers impunis.\n\nhttps://www.gala.fr/l_actu/news_de_stars/olivier-duhamel-son-autre-fils-simon-vit-tres-mal-laffaire_467117"
-    },
-    {
-      "author_name": "Jon De Lorraine",
-      "published_at": "2026-11-07 15:59",
-      "text": "Pourquoi le drapeau Français est esquinté ????\n(Vidéo @lola_baille)"
-    },
-    {
-      "author_name": "Pierre Sautarel",
-      "published_at": "2026-11-07 16:00",
-      "text": "[Retweet de @marc_vanguard] 🔴 Je viens de voir que le blog de gauche radicale \"Blast\" m'a consacré un portrait.\n\nExtraits choisis 👇\n\n\"Marc Vanguard n’a pas d’émotion : il publie des chiffres bruts, froids.\n\nIl n’a pas de style, pas d’humour, ne s’énerve jamais. Il n’est que la raison froide,"
-    },
-    {
-      "author_name": "Tocsin",
-      "published_at": "2026-11-07 16:00",
-      "text": "« Il y en a qui font chou blanc, lui il a fait chouchen. Ce n'est plus Pierre-Yves, c'est Pierrot ! » \n\n« Je pense que c’est une tentative de séduire la droite ! »\n\n@chicandier, Mathou Cann et le JTTTV analysent en profondeur la séquence exceptionnelle du député LFI @pycadalen,"
-    },
-    {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-07 16:00",
-      "text": "Pau (64) : quatre policiers blessés par des tirs de mortiers devant un lycée, quatre mineurs mis en examen\n\n https://www.fdesouche.com/2026/11/07/pau-64-quatre-policiers-blesses-mortiers-lycee-quatre-mineurs-mis-examen/"
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-07 16:00",
-      "text": "«Il s’est replié sur lui-même» : une députée de Seine-Saint-Denis quitte le Parti socialiste, qu’elle accuse d’abandonner les «classes populaires» → https://l.lefigaro.fr/IrCH"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-07 16:01",
-      "text": "Manifestations du 7 novembre : la tête de cortège arrive Place de la Nation à Paris\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-07 16:02",
-      "text": "Faire perdre du temps à la justice ➡️ https://mrf.lu/2_d8F"
-    },
-    {
-      "author_name": "Causeur.fr",
-      "published_at": "2026-11-07 16:05",
-      "text": "« Nous vivions dans un kibboutz, en communauté, avec un rythme de travail particulièrement intense. Après Paris et New York, j’avais envie de partir dans une autre direction, au sens propre comme au figuré. Cette expérience a profondément modifié mon rapport à la danse. »"
-    },
-    {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-07 16:05",
-      "text": "Fort-de-France (972) : une jeune femme de 20 ans tuée par balles dans un bar, sa mère de 54 ans grièvement blessée\n\n https://www.fdesouche.com/2026/11/07/fort-de-france-terres-sainville-femme-20-ans-tuee-mere-blessee-fusillade/"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-07 16:05",
-      "text": "Commissaire Grappe, présent place de la Nation : «On s'attend à quelques heurts de la part de quelques centaines de personnes qui seraient venus pour dégrader» \n\nToute l'info est à retrouver sur https://cnews.fr"
+      "author_name": "Le JDD",
+      "published_at": "2026-11-08 15:39",
+      "text": "Agressions dans l’agglomération de Rouen : quand le racisme anti-Blancs est invisibilisé https://ow.ly/YOsp106I7Om"
     },
     {
       "author_name": "Le Point",
-      "published_at": "2026-11-07 16:06",
-      "text": "En difficulté dans les sondages, Gabriel Attal mise sur une grande primaire pour relancer sa campagne.\n\n➡️ https://l.lepoint.fr/Onk\nPar @NathalieSchuck"
+      "published_at": "2026-11-08 15:39",
+      "text": "Partis arabes, ultraorthodoxes… Le casse-tête de Gadi Eisenkot pour tourner la page Netanyahou https://l.lepoint.fr/gYp"
     },
     {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-07 16:06",
-      "text": "Villeneuve-la-Comptal (11) : après 36 ans d’oubli, les 14 stations du chemin de croix retrouvent leurs couleurs\n\n https://www.fdesouche.com/2026/11/07/villeneuve-la-comptal-11-chemin-de-croix-restaure-36-ans-oubli/"
+      "author_name": "Valeurs actuelles",
+      "published_at": "2026-11-08 15:40",
+      "text": "Immigration, retraites, nucléaire… Le site MonVote2027 confronte vos opinions aux positions de 22 personnalités en lice ou pressenties pour l’Élysée. Nous avons essayé son questionnaire. https://l.valeursactuelles.com/Kkg"
     },
     {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-07 16:07",
-      "text": "🔴 EN DIRECT - Mobilisation du 7 novembre : partout en France la situation est « globalement calme et maîtrisée »\nhttps://www.sudradio.fr/sud-radio/en-direct-lacte-4-des-gilets-jaunes-avec-90-mobilisations-dans-toute-la-france"
+      "author_name": "Actu & Politique",
+      "published_at": "2026-11-08 15:44",
+      "text": "🚨‼️🇫🇷 URGENT - La députée LFI Farida Amrani a été victime d’un tir de mortier samedi matin alors qu’elle était chez le coiffeur, selon Le Parisien."
     },
     {
-      "author_name": "Frontières",
-      "published_at": "2026-11-07 16:07",
-      "text": "Arrivée de Jordan Bardella à La-Seyne-sur-Mer dans le Var pour la séance de dédicaces de son troisième livre « Gouverner »"
+      "author_name": "Le Point",
+      "published_at": "2026-11-08 15:44",
+      "text": "Une journée à la Foire du livre de Brive https://l.lepoint.fr/cRe"
     },
     {
       "author_name": "Jon De Lorraine",
-      "published_at": "2026-11-07 16:08",
-      "text": "Marcel 8 ans, détruit Macron sur le service public."
+      "published_at": "2026-11-08 15:45",
+      "text": "HAHAHAHAHAHAHAHAHAHA\n[Cite @Insoumisdu69] Ça se concrétise bientôt… Tic-tac, tic-tac ! ⏳"
     },
+    {
+      "author_name": "Le JDD",
+      "published_at": "2026-11-08 15:45",
+      "text": "«On a cru mourir» : une députée LFI blessée par un tir de mortier dans l'Essonne https://ow.ly/qf5T106I7OV"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-08 15:46",
+      "text": "Ces quatre leviers fiscaux à activer avant le 31 décembre pour payer moins d’impôts\n➡️ https://l.leparisien.fr/5vxj"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-08 15:47",
+      "text": "Guerre au Moyen-Orient : les États-Unis veulent bloquer les routes terrestres vers l'Iran https://ow.ly/kLnU106I7OW"
+    },
+    {
+      "author_name": "Rassemblement National",
+      "published_at": "2026-11-08 15:47",
+      "text": "Vous êtes la France debout ! 🇫🇷"
+    },
+    {
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-08 15:48",
+      "text": "À Stains (93), un homme né en 1998 a été mortellement poignardé lors d’une soirée dans une salle des fêtes. Selon une source policière, une altercation aurait suivi des attouchements présumés. Plusieurs personnes sont en garde à vue.\n\nhttps://www.fdesouche.com/?p=1965170"
+    },
+    {
+      "author_name": "Ni Oubli Ni Pardon",
+      "published_at": "2026-11-08 15:50",
+      "text": "07/2024 Sabine, alias Kréatura, citoyenne et soignante : « Le 12 juillet, clairement, Macron est entré dans notre vie. Il a pris sa blouse de médecin et il nous a dit : « Tu vas te faire vacciner, sinon tu bosses plus ». Mais là, vous imaginez, en fait, j'ai 50 ans et on me dit,"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-08 15:52",
+      "text": "Il a dû le regretter... ➡️ https://mrf.lu/2_BRG"
+    },
+    {
+      "author_name": "Le Crapaud",
+      "published_at": "2026-11-08 15:53",
+      "text": "Best-of de la semaine 🐸 :"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-08 15:54",
+      "text": "«Il faut baisser la CSG pour redonner du pouvoir d'achat aux Français», propose l'économiste Marc Touati #100Actu\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-08 15:55",
+      "text": "De Philippe Jaenada, fraîchement Prix Goncourt pour « L'inconnu du quai de Javel » à François-Henri Déserable, Prix Renaudot pour « Le palais », tout les plus grands auteurs se ruent, chaque année à Brive, pour le grand salon littéraire du pays. \n\nLe Point y était."
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-08 15:55",
+      "text": "« Papa, ils tirent sur les gens ! » : comment deux chirurgiens, présents par hasard, ont sauvé la vie d’un policier et de l’assaillant à Cracovie\n➡️ https://l.leparisien.fr/rBRT"
+    },
+    {
+      "author_name": "Tocsin",
+      "published_at": "2026-11-08 15:58",
+      "text": "🔔🔔 DEMANDEZ LE PROGRAMME 🔔🔔\n\nDemain matin dès 7H30, retrouvez Clémence @Houdiakova  et toute son équipe pour une matinale sans concession sur l’actualité !\n\n🔗 https://www.youtube.com/watch?v=UB-Xqp-_Go4\n\nAu menu :\n\n🚀 Plateforme MEHA : ne laissez plus vos élus décider sans vous !\n🔸 Louis"
+    },
+    {
+      "author_name": "Agence France-Presse",
+      "published_at": "2026-11-08 16:00",
+      "text": "📱 Avec des réseaux sociaux saturés de contenus, comment sortir du lot ? Le clipping, qui consiste à publier en masse des courts extraits vidéo pour doper leur visibilité, s'impose comme une solution et aiguise l'appétit du monde politique avant la présidentielle ⤵️"
+    },
+    {
+      "author_name": "Le Crayon",
+      "published_at": "2026-11-08 16:00",
+      "text": "« On n'imaginait pas la profondeur de la blessure. »\n\nOn a fait se rencontrer Klara (lycéenne de 17 ans, victime de h*rcèlement au collège), Zacharie (ancien auteur de h*rcèlement pendant sa scolarité) et Hervé (55 ans, père d’un garçon h*rcelé en primaire)."
+    },
+    {
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-08 16:00",
+      "text": "[Retweet de @BVoltaire] Macron fait pire que Hollande et devient le Président le plus impopulaire | Par  @FredericSirgant\nC'était attendu, et c'est spectaculaire et historique. Mais c'est surtout inquiétant, à court et moyen terme, pour le pays. \n \nhttps://www.bvoltaire.fr/macron-fait-pire-que-hollande-et-devient-le-president-le-plus-impopulaire/?fsp_sid=26099"
+    },
+    {
+      "author_name": "Jordan Bardella",
+      "published_at": "2026-11-08 16:00",
+      "text": "J'ai voulu avec ce livre emmener les Français sur le chemin qui nous amène au pouvoir, leur permettre de mieux nous connaître.\n\nC'est toujours un plaisir de venir à la rencontre des lecteurs ! #LaGrandeMotte"
+    },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-08 16:00",
+      "text": "Guerre en Ukraine : «Jean-Luc Mélenchon s'est fait porte-parole du Kremlin» sur le Donbass, dénonce Jean-Noël Barrot → https://l.lefigaro.fr/5OkX"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-08 16:02",
+      "text": "Deux ans d'échanges. ➡️ https://mrf.lu/2_BjB"
+    },
+    {
+      "author_name": "L'Express",
+      "published_at": "2026-11-08 16:03",
+      "text": "Le Français a développé un savoir-faire de pointe dans le calcul haute performance. Avec le boom de l'IA, cette niche devient un marché très lucratif.\n\n➡️ https://l.lexpress.fr/nHT"
+    },
+    {
+      "author_name": "Tribune Populaire🌐",
+      "published_at": "2026-11-08 16:06",
+      "text": "📂🇺🇸FLASH INFO - Le républicain Thomas Massie affirme qu’au retour de la Chambre la semaine prochaine, il obtiendra les 218 signatures nécessaires pour forcer un vote sur l’Epstein Files Transparency Act II.  \n\nCe texte, coécrit avec le démocrate Ro Khanna, permettrait aux"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-08 16:06",
+      "text": "« Une continuité de générations dans la lutte » : les étudiants donnent un second souffle au mouvement lycéen\n➡️ https://l.leparisien.fr/Hfyz"
+    }
+  ],
+  "context": [
     {
       "author_name": "Fdesouche.com est une revue de presse",
       "published_at": "2026-11-07 16:08",
