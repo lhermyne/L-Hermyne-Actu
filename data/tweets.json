@@ -1,14 +1,40 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-08T22:47:26.062Z",
+  "updated_at": "2026-11-08T22:51:19.085Z",
   "window_hours": 24,
-  "window_start": "2026-11-07T22:47:26.062Z",
+  "window_start": "2026-11-07T22:51:19.085Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1193,
+  "count": 1194,
   "tweets": [
+    {
+      "id": "2119563263805399197",
+      "created_at": "2026-11-08T22:50:36.000Z",
+      "author": "leparisien_pol",
+      "author_name": "Le Parisien | politique",
+      "type": "tweet",
+      "text": "Guerre en Iran : Donald Trump juge « très improbable » une reprise de la guerre à ce stade, Téhéran évoque des négociations à l’arrêt\n➡️ https://l.leparisien.fr/jTl0",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/leparisien_pol/status/2119563263805399197"
+    },
+    {
+      "id": "2119562689777180905",
+      "created_at": "2026-11-08T22:48:19.000Z",
+      "author": "CNEWS",
+      "author_name": "CNEWS",
+      "type": "tweet",
+      "text": "«Les policiers sont impactés physiquement et moralement», témoigne Éric Couvrat, secrétaire départemental adjoint Unité en Seine-Saint-Denis, dans #100PolitiqueDimanche \n\nToute l'info est à retrouver sur https://cnews.fr",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/CNEWS/status/2119562689777180905"
+    },
     {
       "id": "2119562047394312483",
       "created_at": "2026-11-08T22:45:46.000Z",
@@ -15504,19 +15530,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/leJDD/status/2119201969709387924"
-    },
-    {
-      "id": "2119200230268637304",
-      "created_at": "2026-11-07T22:48:02.000Z",
-      "author": "leJDD",
-      "author_name": "Le JDD",
-      "type": "tweet",
-      "text": "Présidentielle 2027 : au Bourget, Mélenchon prône une «libération culturelle» https://ow.ly/VSOi106I5ZR",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/leJDD/status/2119200230268637304"
     }
   ]
 }
