@@ -1,13 +1,13 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-08 15:07",
-  "period": "du 2026-11-07 15:07 au 2026-11-08 15:07",
-  "new_period": "du 2026-11-08 08:00 au 2026-11-08 15:07",
-  "context_period": "du 2026-11-07 15:07 au 2026-11-08 08:00",
+  "generated_at": "2026-11-08 15:15",
+  "period": "du 2026-11-07 15:15 au 2026-11-08 15:15",
+  "new_period": "du 2026-11-08 08:00 au 2026-11-08 15:15",
+  "context_period": "du 2026-11-07 15:15 au 2026-11-08 08:00",
   "coverage_complete": true,
-  "new_count": 472,
-  "context_count": 774,
+  "new_count": 481,
+  "context_count": 760,
   "duplicates_merged": 50,
   "empty_removed": 6,
   "new": [
@@ -2388,79 +2388,54 @@
       "author_name": "Jean-Yves Le Gallou",
       "published_at": "2026-11-08 15:05",
       "text": "[Retweet de @RenaudCamus] Il faut dire que ce colloque sur la remigration avait mis d’emblée toutes les chances contre lui : il ne menaçait en rien l’ordre public, il ne projetait l’assassinat de personne, il n’avait pas l’intention de casser quoi que ce soit, il n’incitait pas le moins du monde au"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Le Point",
-      "published_at": "2026-11-07 15:08",
-      "text": "Le député Place Publique fustige le « chahut très organisé » qui a visé Raphaël Glucksmann jeudi. Et veut croire que son candidat peut rassembler des électeurs déçus de Jean-Luc Mélenchon comme d’Emmanuel Macron. Mission impossible ?\n\n➡️ https://l.lepoint.fr/mkH"
     },
     {
-      "author_name": "Frontières",
-      "published_at": "2026-11-07 15:08",
-      "text": "Une heure avant la séance de dédicace de Jordan Bardella, pour son nouveau livre « Gouverner », des centaines de lecteurs sont déjà présents à la Seyne-sur-Mer dans le Var !"
-    },
-    {
-      "author_name": "Valeurs actuelles",
-      "published_at": "2026-11-07 15:08",
-      "text": "[Retweet de @wdeguerpel] 🔴Présidentielle 2027 : Marine Le Pen, Bruno Retailleau, David Lisnard… les Français font plus confiance à des candidats de droite, selon un sondage - @Valeurs \nhttps://valeursactuelles.com/politique/presidentielle-2027-marine-le-pen-bruno-retailleau-david-lisnard-les-francais-font-plus-confiance-a-des-candidats-de-droite-selon-un-sondage"
-    },
-    {
-      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
-      "published_at": "2026-11-07 15:09",
-      "text": "[Retweet de @solsenois] @dannyconversano Ces vidéos sont souvent produites par le même compte qui est un Mohammed sous pseudo\n\nLes mecs s'amusent à consacrer leur vie à s'auto-dénigrer et valoriser gratuitement la propagande de leurs ennemis vitaux\n\nhttps://x.com/GibbyTurismo207/status/2096006143218725018"
-    },
-    {
-      "author_name": "Vincent Lapierre",
-      "published_at": "2026-11-07 15:09",
-      "text": "La haine de la France."
-    },
-    {
-      "author_name": "L'Express",
-      "published_at": "2026-11-07 15:10",
-      "text": "Un demi-milliard de dollars disparaîtrait chaque année dans le cadre des marchés publics de médicaments importés par le pays. La corruption frappe les traitements contre le cancer, les plus onéreux.\n\n➡️ https://l.lexpress.fr/IA8"
+      "author_name": "Jean-Yves Le Gallou",
+      "published_at": "2026-11-08 15:08",
+      "text": "[Retweet de @F_Desouche] Une étude parue dans Nature analyse 4 587 génomes anciens et propose un nouveau scénario sur la diffusion des langues celtiques à travers l’Europe. \n https://www.fdesouche.com/2026/11/08/origines-langues-celtiques-adn-4587-europeens-anciens-etude-nature-2026/"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-07 15:10",
-      "text": "[Retweet de @leparisiensport] Gaël Monfils capitaine de Coupe Davis, le reconversion qu’on n’avait pas vu venir : « On va le découvrir sous un visage différent »\n➡️ https://l.leparisien.fr/dY68"
+      "published_at": "2026-11-08 15:08",
+      "text": "Déplacements courts, camping ou logement écoresponsable, déconnexion numérique... Le tourisme se met au vert https://l.leparisien.fr/qu1n"
+    },
+    {
+      "author_name": "Nicolas Dupont-Aignan",
+      "published_at": "2026-11-08 15:09",
+      "text": "« L’Europe veut s’imposer aux nations. Certains résistent ! »\n\nRetrouvez mon passage sur Omerta👇https://youtu.be/n0LpERcwhCQ?is=ySQC9TXTmZpUDczo"
+    },
+    {
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-08 15:09",
+      "text": "[Retweet de @BVoltaire] Rouen : après deux agressions anti-Blanc, le maire préfère dénoncer l’extrême droite | Par  @alienordep\nAprès le lynchage de catholiques aux cris de « sales Blancs », Nicolas Mayer-Rossignol met en cause les identitaires. \n \nhttps://www.bvoltaire.fr/rouen-agressions-anti-blanc-le-maire-prefere-denoncer-lextreme-droite/?fsp_sid=26085"
+    },
+    {
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-08 15:10",
+      "text": "[Retweet de @BVoltaire] « On a l’extrême gauche, les élus, qui sont les commanditaires, et vous avez les exécutants qui sont les racailles de cité. »\n@gregoirehoudan, conseiller municipal RN de Rouen, a témoigné auprès d’@alienordep ⤵️\nhttps://www.bvoltaire.fr/entretien-racisme-anti-blanc-il-y-a-ceux-qui-pointent-du-doigt-et-ceux-qui-executent/"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-08 15:10",
+      "text": "[Retweet de @lp_ecrans] « Les Anneaux de pouvoir » : décors gigantesques, dépaysement total… Nous étions sur le tournage de la série événement\n➡️ https://l.leparisien.fr/AAVS"
     },
     {
       "author_name": "Ni Oubli Ni Pardon",
-      "published_at": "2026-11-07 15:10",
-      "text": "12/2021 Serge : « Il serait peut être temps de retirer les enfants aux parents complotistes et antivax, les enfants vivraient mieux en famille d’accueil »."
+      "published_at": "2026-11-08 15:11",
+      "text": "03/2021 Une série de vidéos de rap lancée par Hip Hop Santé publique, une organisation de sensibilisation communautaire fondée par le neurologue de Columbia Olajide Williams, vise à augmenter la couverture vaccinale contre la COVID-19 dans les communautés de couleur. A Rap"
     },
     {
-      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
-      "published_at": "2026-11-07 15:11",
-      "text": "Oui alors votre accélérationnisme, hein... Une preuve parmi tant d'autres qu'il ne conduira nulle part.\n[Cite @BaronGrenouille] @Jonas__Joestar @dannyconversano 83% des Blancs en Afrique du Sud votent pour Democratic Alliance, un parti de centre droit libéral favorable au multiculturalisme.\n\nSeuls 13% votent pour Freedom Front Plus, qui est le parti qui défend les intérêts des Afrikaners/Blancs."
+      "author_name": "ISSEP",
+      "published_at": "2026-11-08 15:13",
+      "text": "Remise des prix : Engagement, enracinement, excellence mis à l’honneur hier soir à l’ISSEP ! ✨"
     },
     {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-07 15:11",
-      "text": "[Retweet de @phwallet] @Le_Figaro Les voitures continuent de circuler normalement et les abords de l’obélisque sont toujours peuplés de touristes. Des dizaines de fourgons de CRS stationnent dans les rues alentours et la police patrouille sur l’ensemble de la place. @Le_Figaro"
-    },
-    {
-      "author_name": "Tocsin",
-      "published_at": "2026-11-07 15:14",
-      "text": "📚 Avez-vous précommandé le nouveau livre d’Éric Branca, « Ingérences américaines ! 1942-2026 » ?\n\nSortie le 10/11 aux Éditions Tocsin !\n\nCommandez dès aujourd’hui pour le recevoir au plus vite.\n21,50 € TTC + frais de port.\n👉 https://boutique.tocsin-media.fr/shop/ingerences-americaines-3"
-    },
-    {
-      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
-      "published_at": "2026-11-07 15:14",
-      "text": "[Retweet de @DragonNational] @ApollodoreLive @dannyconversano Lisnard va gouverner avec Xavier Bertrand et Laurent Wauquiez.... Super ton candidat. \nOn veut mettre FIN aux LR tu comprends ça ? On ne veut pas les garder en vie en votant pour Lisnard !"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-07 15:14",
-      "text": "Mobilisation du 7 novembre : 15.600 contrôles préventifs, 18 interpellations... Les chiffres de la mobilisation à 14h\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-07 15:14",
-      "text": "🚗 98 % de ralentisseurs illégaux : Thierry Modolo dénonce une tentative de « sécuriser l'illégalité »\nhttps://www.sudradio.fr/societe/98-de-ralentisseurs-illegaux-thierry-modolo-denonce-une-tentative-de-securiser-lillegalite"
-    },
+      "author_name": "MARSAULT",
+      "published_at": "2026-11-08 15:14",
+      "text": "Ce genre de vidéo est un régal de tous les instants.\n[Cite @LBleuBlancRouge] ⚠️💥 ACCIDENT EN COURS au carrefour de la convergence des luttes."
+    }
+  ],
+  "context": [
     {
       "author_name": "Alain Weber",
       "published_at": "2026-11-07 15:15",
