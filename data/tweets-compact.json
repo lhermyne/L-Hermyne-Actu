@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-08 07:05",
-  "period": "du 2026-11-07 07:05 au 2026-11-08 07:05",
-  "new_period": "du 2026-11-07 20:00 au 2026-11-08 07:05",
-  "context_period": "du 2026-11-07 07:05 au 2026-11-07 20:00",
+  "generated_at": "2026-11-08 07:35",
+  "period": "du 2026-11-07 07:35 au 2026-11-08 07:35",
+  "new_period": "du 2026-11-07 20:00 au 2026-11-08 07:35",
+  "context_period": "du 2026-11-07 07:35 au 2026-11-07 20:00",
   "coverage_complete": true,
-  "new_count": 292,
-  "context_count": 1032,
-  "duplicates_merged": 70,
+  "new_count": 310,
+  "context_count": 1013,
+  "duplicates_merged": 73,
   "empty_removed": 5,
   "new": [
     {
@@ -1454,7 +1454,10 @@
     {
       "author_name": "Le Parisien",
       "published_at": "2026-11-08 06:57",
-      "text": "Israël : comment Gadi Eisenkot, principal opposant à Benyamin Netanyahou, pourrait réussir à former un gouvernement\n➡️ https://l.leparisien.fr/m7ka"
+      "text": "Israël : comment Gadi Eisenkot, principal opposant à Benyamin Netanyahou, pourrait réussir à former un gouvernement\n➡️ https://l.leparisien.fr/m7ka",
+      "also_by": [
+        "Le Parisien | politique"
+      ]
     },
     {
       "author_name": "CNEWS",
@@ -1515,104 +1518,102 @@
       "author_name": "Ni Oubli Ni Pardon",
       "published_at": "2026-11-08 07:01",
       "text": "🔴 CoronaCircus\n\n02/2024 Changer de bras pour les vaccins pourrait aider à renforcer votre immunité, selon une étude. Les chercheurs affirment que le changement de bras pour les doses initiales et de rappel des vaccins à ARNm contre la COVID-19 a contribué à améliorer la réponse"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-07 07:07",
-      "text": "Nelson Monfort au sujet des commerçants qui ont tout perdu à cause des pilleurs et des casseurs durant les manifestations dans #LaMatinaleWE : «Je suis ému par ce genre de choses»\n\nToute l'info est à retrouver sur https://cnews.fr"
     },
     {
-      "author_name": "Bruno Attal",
-      "published_at": "2026-11-07 07:07",
-      "text": "Ça va être compliqué pour l’extrême gauche de Jean-Luc Melenchon, de leur expliquer la théorie du genre."
+      "author_name": "Valeurs actuelles",
+      "published_at": "2026-11-08 07:06",
+      "text": "La mise au jour exceptionnelle de près de 260 cadavres de nouveau-nés à Auxerre (Yonne) datant des des premiers siècles après Jésus-Christ par des chercheurs de l'INRAP ont permis de comprendre davantage les rites funéraires qui entouraient les nourrisso… https://l.valeursactuelles.com/AT0"
     },
     {
-      "author_name": "Le Point",
-      "published_at": "2026-11-07 07:07",
-      "text": "Même les Suisses sont maintenant en colère ! https://l.lepoint.fr/TDQ"
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-08 07:07",
+      "text": "Le pronostic de Sarkozy, Mélenchon en replay, Gougler des rails aux planches… Nos indiscrétions de la semaine https://l.leparisien.fr/J6qO",
+      "also_by": [
+        "Le Parisien | politique"
+      ]
     },
     {
       "author_name": "Europe 1",
-      "published_at": "2026-11-07 07:08",
-      "text": "Accident de car près de Bourg-en-Bresse : le conducteur explique s'être «assoupi» et affirme qu'il n'était pas en excès de vitesse https://ow.ly/EpiA106I4u9"
+      "published_at": "2026-11-08 07:10",
+      "text": "Violences : les chiffres des agressions contre les pompiers et les policiers en forte augmentation en France https://ow.ly/G0GZ106I6KO"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-07 07:10",
-      "text": "Mobilisation en vue ➡️https://mrf.lu/2_LV_"
+      "published_at": "2026-11-08 07:10",
+      "text": "Mathieu Raël revient sur les manifestations du 7 novembre dans #LaMatinaleWE : «Il y a une désescalade au niveau de la violence et des saccages» \n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-08 07:16",
+      "text": "Karim Maloum revient sur les manifestations du 7 novembre et les violences commises envers la police dans #LaMatinaleWE : «Il n'y a plus de différence entre la gauche et l'ultragauche, ils veulent s'attaquer aux policiers»\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-08 07:16",
+      "text": "Profondément modernisé, l’hôpital Pasteur 2 abrite des équipements de pointe, dont une salle d’intervention hybride, dopée à l’IA. Visite guidée.\n\n➡️ https://l.lepoint.fr/Kzu"
     },
     {
       "author_name": "Sud Radio",
-      "published_at": "2026-11-07 07:12",
-      "text": "🚩 Manifestations : les restaurateurs aussi ont leur mot à dire ! #GrandMatinWeekEnd\n\n🗣️ Céline Viale (UMIH 49) : \"Chez nos professionnels, il y a une vraie colère qui monte contre les manifestants. Les gens ne viennent plus en ville, on est désemparés\"\n\n📻https://sudradio.fr"
+      "published_at": "2026-11-08 07:16",
+      "text": "💥 Manifestations : Bordeaux à nouveau marqué par des affrontements avec les forces de l'ordre #GrandMatinWeekEnd\n\n🗣️ L'alerte de Cyril Jeannin (@UN1TE_policenat) : \"La BRI et le RAID sont déployés, ça tient vraiment à peu de chose\"\n\n📻https://sudradio.fr\n☎️0 826 300 300"
+    },
+    {
+      "author_name": "Le JDD",
+      "published_at": "2026-11-08 07:25",
+      "text": "Jean-Luc Mélenchon : la tyrannie en marche https://ow.ly/jNos106I6Rq"
+    },
+    {
+      "author_name": "Le JDD",
+      "published_at": "2026-11-08 07:25",
+      "text": "Économie, écologie, sécurité : le programme rouge qui tâche de LFI https://ow.ly/aQKN106I6Rr"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-08 07:26",
+      "text": "Pour lutter contre les déserts médicaux, l’État propose aux étudiants en médecine, mais aussi aux futurs dentistes, sages-femmes et pharmaciens, de percevoir 1 200 € par mois pendant leurs études\n➡️Ai-je le droit ?  avec Roland Perez sur #Europe1 #Europe1Matin"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-07 07:12",
-      "text": "« J’ai déjà dû gérer un groupe de 40 enfants tout seul » : plongée au cœur de la grande misère du périscolaire\n➡️ https://l.leparisien.fr/AAVQ"
+      "published_at": "2026-11-08 07:26",
+      "text": "« Vendeurs de roses », liasses de billets et promesses de vie de rêve : plongée glaçante dans le TikTok des proxénètes\n➡️ https://l.leparisien.fr/pMOT"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-07 07:14",
-      "text": "Axel Ronde au sujet des policiers qui commencent à fatiguer après plus de trois semaines consécutives de manifestations dans #LaMatinaleWE : «On doit continuer malgré la fatigue et les contraintes»\n\nToute l'info est à retrouver sur https://cnews.fr"
+      "published_at": "2026-11-08 07:27",
+      "text": "La chronique internationale d'Harold Hyman du 08/11/2026 dans #LaMatinale"
     },
     {
-      "author_name": "Ni Oubli Ni Pardon",
-      "published_at": "2026-11-07 07:16",
-      "text": "🔴 CoronaCircus\n\n03/2020 À Cannes, sous l’autorité de David Lisnard, les agents municipaux procèdent à la désinfection des rues, quartier par quartier, ainsi que du mobilier urbain, pour tenter de freiner la propagation du Covid-19."
+      "author_name": "Le Point",
+      "published_at": "2026-11-08 07:28",
+      "text": "La réforme LMNP de 2025 change la donne fiscale des différents modes de location (vide, meublée). Loyers, impôts, travaux : découvrez quel régime est le plus avantageux pour votre investissement locatif.\n\n➡️ https://l.lepoint.fr/i9R"
     },
     {
-      "author_name": "Alain Weber",
-      "published_at": "2026-11-07 07:19",
-      "text": "Je viens de tomber de ma chaise : la CAF vous offre un lave-vaisselle !\n\nEt bien entendu c’est nous qui le payons…\n\nLe montant change selon les régions, mais Paris, par exemple :\n\n3 enfants : 900 €\n2 enfants : 800 €\n1 enfant : 600 €\n\n🚨 😳 Des enfants de moins de 25 ans !"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-07 07:21",
-      "text": "Jean-Luc Mélenchon entame une nouvelle étape dans sa campagne ➡️ https://mrf.lu/2_LMv"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-07 07:22",
-      "text": "Le fiasco des plannings erronés du périscolaire désespère les parents à Paris\n➡️ https://l.leparisien.fr/uUwF"
-    },
-    {
-      "author_name": "L'Express",
-      "published_at": "2026-11-07 07:25",
-      "text": "Ce petit pays balte, frontalier de la Russie, a investi très tôt dans sa sécurité numérique. Il est devenu l'une des références européennes face à la multiplication des attaques.\n\n➡️ https://l.lexpress.fr/JYp"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-07 07:26",
-      "text": "🛣️ L'A69 enfin ouverte aux automobilistes après quatre ans de contestation !#GrandMatinWeekEnd\n\n🗣️ @philippefolliot : \"Ça fait plus de 25 ans que je me bats pour cette réalisation. On entend des gens se plaindre, mais beaucoup sont satisfaits\"\n\n📻https://sudradio.fr\n☎️0 826"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-07 07:30",
-      "text": "🔴De nouvelles manifestations prévues ce samedi pour «l’acte IV» de la mobilisation contre la vie chère\n\nSuivez notre direct ➡️ https://l.leparisien.fr/5vxe"
+      "author_name": "Kontre Kulture",
+      "published_at": "2026-11-08 07:30",
+      "text": "⛔ Faites barrage à l'ignorance : LISEZ !"
     },
     {
       "author_name": "Le Figaro",
-      "published_at": "2026-11-07 07:30",
-      "text": "La présentatrice de la matinale de BFMTV s’est exprimée sur les nombreuses critiques reçues par sa collègue, ciblée par les syndicats du groupe BFM-RMC. →https://l.lefigaro.fr/A1bl"
+      "published_at": "2026-11-08 07:30",
+      "text": "Le club de Tenerife s’engage à soutenir financièrement la fille de Jesús de Miguel jusqu’à ses 18 ans → https://l.lefigaro.fr/UvZg"
     },
     {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-07 07:30",
-      "text": "Un moment de grande émotion ➡️ https://mrf.lu/2_L9n"
+      "author_name": "Le JDD",
+      "published_at": "2026-11-08 07:31",
+      "text": "Pierre Lellouche : après les midterms, Trump garde la main sur la politique étrangère https://ow.ly/81x1106I6Ss"
     },
     {
-      "author_name": "Damien Rieu",
-      "published_at": "2026-11-07 07:31",
-      "text": "Une gynécologue du 93 explique qu’elle délivre des « certificats de virginité » pour sauver des femmes de « familles traditionnelles ». \n\nCe que notre pays est devenu…"
+      "author_name": "Le JDD",
+      "published_at": "2026-11-08 07:31",
+      "text": "Présidentielle 2027 : Macron maintient les dates malgré les craintes de violences https://ow.ly/EWW0106I6St"
     },
     {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-07 07:33",
-      "text": "La chronique internationale d'Harold Hyman du 07/11/2026 dans #LaMatinale"
-    },
+      "author_name": "Ni Oubli Ni Pardon",
+      "published_at": "2026-11-08 07:35",
+      "text": "📌 Ces phrases ne sont pas des slogans.\n\nCe sont des témoignages réels.\nDes vécus bruts, parfois encore douloureux.\n\nCe livre rassemble des centaines de voix pour préserver une mémoire collective que beaucoup préféreraient voir disparaître.\n\n📘 👉 https://contrepropagande.fr/ni-oubli-ni-pardon"
+    }
+  ],
+  "context": [
     {
       "author_name": "CNEWS",
       "published_at": "2026-11-07 07:40",
