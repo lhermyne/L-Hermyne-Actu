@@ -1,13 +1,13 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-08T03:34:18.191Z",
+  "updated_at": "2026-11-08T04:05:02.786Z",
   "window_hours": 24,
-  "window_start": "2026-11-07T03:34:18.191Z",
+  "window_start": "2026-11-07T04:05:02.786Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1389,
+  "count": 1388,
   "tweets": [
     {
       "id": "2119266125108203849",
@@ -18052,19 +18052,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/NiONiPardon/status/2118919079633285569"
-    },
-    {
-      "id": "2118917523265429812",
-      "created_at": "2026-11-07T04:04:39.000Z",
-      "author": "leparisien_pol",
-      "author_name": "Le Parisien | politique",
-      "type": "tweet",
-      "text": "Présidentielle 2027 : les sondages ont-ils toujours vu juste à six mois des élections ? https://l.leparisien.fr/AAVx",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/leparisien_pol/status/2118917523265429812"
     }
   ]
 }

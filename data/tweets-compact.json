@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-08 04:34",
-  "period": "du 2026-11-07 04:34 au 2026-11-08 04:34",
-  "new_period": "du 2026-11-07 20:00 au 2026-11-08 04:34",
-  "context_period": "du 2026-11-07 04:34 au 2026-11-07 20:00",
+  "generated_at": "2026-11-08 05:05",
+  "period": "du 2026-11-07 05:05 au 2026-11-08 05:05",
+  "new_period": "du 2026-11-07 20:00 au 2026-11-08 05:05",
+  "context_period": "du 2026-11-07 05:05 au 2026-11-07 20:00",
   "coverage_complete": true,
   "new_count": 255,
   "context_count": 1058,
-  "duplicates_merged": 71,
+  "duplicates_merged": 70,
   "empty_removed": 5,
   "new": [
     {
@@ -1330,11 +1330,6 @@
     }
   ],
   "context": [
-    {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-07 05:04",
-      "text": "Présidentielle 2027 : les sondages ont-ils toujours vu juste à six mois des élections ? https://l.leparisien.fr/AAVx"
-    },
     {
       "author_name": "Ni Oubli Ni Pardon",
       "published_at": "2026-11-07 05:10",
@@ -4051,6 +4046,11 @@
       "author_name": "Agence France-Presse",
       "published_at": "2026-11-07 14:00",
       "text": "🚁🎮 Face à la menace des drones, l'industrie navale de défense se met au Lego : au salon mondial Euronaval, les industriels ont présenté des solutions modulaires conçues pour répondre aux enseignements des conflits en Ukraine et au Moyen-Orient.\n\n➡️ https://u.afp.com/Sy9Y"
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-07 14:00",
+      "text": "Présidentielle 2027 : les sondages ont-ils toujours vu juste à six mois des élections ? https://l.leparisien.fr/rBRA"
     },
     {
       "author_name": "CNEWS",
