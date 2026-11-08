@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-08 05:35",
-  "period": "du 2026-11-07 05:35 au 2026-11-08 05:35",
-  "new_period": "du 2026-11-07 20:00 au 2026-11-08 05:35",
-  "context_period": "du 2026-11-07 05:35 au 2026-11-07 20:00",
+  "generated_at": "2026-11-08 06:05",
+  "period": "du 2026-11-07 06:05 au 2026-11-08 06:05",
+  "new_period": "du 2026-11-07 20:00 au 2026-11-08 06:05",
+  "context_period": "du 2026-11-07 06:05 au 2026-11-07 20:00",
   "coverage_complete": true,
-  "new_count": 255,
-  "context_count": 1056,
-  "duplicates_merged": 70,
+  "new_count": 259,
+  "context_count": 1051,
+  "duplicates_merged": 71,
   "empty_removed": 5,
   "new": [
     {
@@ -1327,34 +1327,29 @@
       "author_name": "Le Point",
       "published_at": "2026-11-08 04:09",
       "text": "Sorti le 30 octobre, le 13e album studio de la chanteuse est d’ores et déjà un succès foudroyant. François Hanss, réalisateur/auteur des captations des concerts de la star depuis 30 ans, décrypte les racines du triomphe.\n➡️ https://l.lepoint.fr/GIV"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Le Point",
-      "published_at": "2026-11-07 05:47",
-      "text": "Comment les violences ont évolué en marge des manifestations https://l.lepoint.fr/8Py"
     },
     {
-      "author_name": "Ni Oubli Ni Pardon",
-      "published_at": "2026-11-07 05:50",
-      "text": "03/2021 Sharon Stone, actrice : « Venez à #coreresponse / Carbon Health. Il a été facile d'obtenir un rendez-vous. », a-t-elle écrit sur son compte Instagram. #SpécialUS🇺🇸"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-07 06:03",
-      "text": "SONDAGE - 82% des Français sont pour l'emprisonnement systématique des étrangers sous OQTF auteurs de crimes et de délits, en attendant leur expulsion https://ow.ly/niUy106I48I"
+      "author_name": "Le JDD",
+      "published_at": "2026-11-08 05:50",
+      "text": "De CNews à TF1, comment Mélenchon et LFI intensifient leur guerre contre les médias https://ow.ly/RckQ106I6BP"
     },
     {
       "author_name": "Causeur.fr",
-      "published_at": "2026-11-07 06:04",
-      "text": "\"Le macronisme a été une opération massive pour essayer d’en finir avec le débat politique. Ce camp autoproclamé de la raison ne s’est pas contenté de très mal se comporter vis-à-vis du peuple, il a aussi essayé de lui faire croire que les alternatives à sa politique n’existaient"
+      "published_at": "2026-11-08 06:00",
+      "text": "\"« J’espère qu’il y aura un Nuremberg climatique », a déclaré Dominique Bourg sur France Culture le 29 septembre...\"\n\nhttps://www.causeur.fr/dominique-bourg-france-culture-pollueurs-des-nazis-comme-tout-le-monde-336847"
     },
     {
-      "author_name": "Aldo Sterone",
-      "published_at": "2026-11-07 06:04",
-      "text": "Les gens ne savent plus faire de la conversation.\n\nCette semaine, j'ai accepté de rencontrer une personne qui me suit sur les réseaux sociaux. Le gars a passé 2 heures à me poser des questions de plus en plus indiscrètes. Pour lui, une conversation, c'est un interrogatoire.\n\nAu"
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-08 06:00",
+      "text": "Héritage des baby-boomers : ces villes où le choc démographique va faire chuter les prix immobiliers → https://l.lefigaro.fr/WnJl\nhttps://l.lefigaro.fr/WnJl"
     },
+    {
+      "author_name": "Le JDD",
+      "published_at": "2026-11-08 06:01",
+      "text": "Michel Barnier au JDD : «Je plaide pour une primaire ouverte, populaire, la plus large possible» https://ow.ly/huZ3106I6Ch"
+    }
+  ],
+  "context": [
     {
       "author_name": "Le Parisien | politique",
       "published_at": "2026-11-07 06:06",
