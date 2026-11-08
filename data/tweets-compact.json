@@ -1,13 +1,13 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-08 01:01",
-  "period": "du 2026-11-07 01:01 au 2026-11-08 01:01",
-  "new_period": "du 2026-11-07 20:00 au 2026-11-08 01:01",
-  "context_period": "du 2026-11-07 01:01 au 2026-11-07 20:00",
+  "generated_at": "2026-11-08 01:28",
+  "period": "du 2026-11-07 01:28 au 2026-11-08 01:28",
+  "new_period": "du 2026-11-07 20:00 au 2026-11-08 01:28",
+  "context_period": "du 2026-11-07 01:28 au 2026-11-07 20:00",
   "coverage_complete": true,
-  "new_count": 246,
-  "context_count": 1067,
+  "new_count": 249,
+  "context_count": 1065,
   "duplicates_merged": 71,
   "empty_removed": 5,
   "new": [
@@ -1253,7 +1253,10 @@
     {
       "author_name": "Le Parisien",
       "published_at": "2026-11-08 00:43",
-      "text": "« Une insulte à tous les Américains » : pourquoi la nomination de Stephen Miller comme directeur de cabinet de la Maison-Blanche inquiète\n➡️ https://l.leparisien.fr/43A7"
+      "text": "« Une insulte à tous les Américains » : pourquoi la nomination de Stephen Miller comme directeur de cabinet de la Maison-Blanche inquiète\n➡️ https://l.leparisien.fr/43A7",
+      "also_by": [
+        "Le Parisien | politique"
+      ]
     },
     {
       "author_name": "CNEWS",
@@ -1279,27 +1282,24 @@
       "author_name": "Fdesouche.com est une revue de presse",
       "published_at": "2026-11-08 01:00",
       "text": "Près de Senden, en Bavière, une sépulture celte datant du IIIe siècle avant notre ère livre de riches bijoux et une surprenante offrande animale. \n https://www.fdesouche.com/2026/11/08/senden-allemagne-tombe-femme-celte-2300-ans-agneau-chevreau-anneaux-bronze/"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-08 01:08",
+      "text": "«Nous sommes face à un Etat en situation de liquéfaction symbolique», exprime Mathieu Bock-Côté, dans #FaceaBockCote\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-08 01:21",
+      "text": "«Tout l'imaginaire politique de la gauche est fécondé par cet appel à la violence nécessaire», analyse Mathieu Bock-Côté, dans #FaceaBockCote\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-08 01:24",
+      "text": "« Il a toujours défendu le président » : Mathieu Lefèvre, nouveau porte-parole du gouvernement « par intérim »\n➡️ https://l.leparisien.fr/IHme"
     }
   ],
   "context": [
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-07 01:12",
-      "text": "David Lisnard, « candidat de l’automne » ? Ces anciens prétendants à l’Élysée très populaires dans les sondages, qui ont fini loin du podium lors du scrutin https://l.leparisien.fr/FnvJ",
-      "also_by": [
-        "Le Parisien | politique"
-      ]
-    },
-    {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-07 01:16",
-      "text": "Raphaël Glucksmann exfiltré de la manifestation du 5 novembre : l’Insoumise Clémence Guetté y voit « une réponse politique »\n➡️ https://l.leparisien.fr/SSSS"
-    },
-    {
-      "author_name": "François Asselineau 🇫🇷",
-      "published_at": "2026-11-07 01:20",
-      "text": "📺 𝗡𝗼𝘂𝘃𝗲𝗹𝗹𝗲 𝘃𝗶𝗱𝗲𝗼 𝘀𝘂𝗿 𝗕𝗔𝗕𝗘𝗟-𝗧𝗩\nJ'ai répondu en direct aux questions de Daniel sur BABEL-TV, ce vendredi 6 novembre 2026. ⤵️\nhttps://www.youtube.com/live/EAq0eo1k29I?is=1ZM7GcEknGdFTebI\n-----\nBabel TV se définit comme un média engagé en faveur des causes sociales, libre et totalement"
-    },
     {
       "author_name": "Le Parisien",
       "published_at": "2026-11-07 01:32",
@@ -1324,6 +1324,11 @@
       "author_name": "Observatoire du journalisme (Ojim)",
       "published_at": "2026-11-07 02:43",
       "text": "[Retweet de @ojim_france] 🔴Jérôme Fourquet sommé de s'expliquer sur Quotidien après avoir révélé que 75 % des prénoms sont arabo-musulmans ou africains chez les prévenus du 17 octobre.\n\nAlors qu'il explique avoir utilisé la même méthodologie que Libération, Yann Barthès le coupe net : \"Oui mais eux,"
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-07 02:57",
+      "text": "David Lisnard, « candidat de l’automne » ? Ces anciens prétendants à l’Élysée très populaires dans les sondages, qui ont fini loin du podium lors du scrutin https://l.leparisien.fr/Qtfp"
     },
     {
       "author_name": "Le Parisien",
