@@ -1,14 +1,27 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-08T00:31:33.176Z",
+  "updated_at": "2026-11-08T01:02:42.281Z",
   "window_hours": 24,
-  "window_start": "2026-11-07T00:31:33.176Z",
+  "window_start": "2026-11-07T01:02:42.281Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1390,
+  "count": 1388,
   "tweets": [
+    {
+      "id": "2119227161647128950",
+      "created_at": "2026-11-08T00:35:03.000Z",
+      "author": "InfoMdia",
+      "author_name": "Médias-Presse-Info",
+      "type": "tweet",
+      "text": "Dimanche 8 novembre - Vingt-quatrième dimanche après la Pentecôte - Les Quatre saints Couronnés, Martyrs - Saint Geoffroy ou Godefroy, Évêque d'Amiens - Bienheureux Jean Duns Scot, Théologien, Premier Ordre Franciscain - https://www.medias-presse.info/dimanche-8-novembre-vingt...",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/InfoMdia/status/2119227161647128950"
+    },
     {
       "id": "2119224391527514552",
       "created_at": "2026-11-08T00:24:02.000Z",
@@ -18039,45 +18052,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/le_Parisien/status/2118876578700493014"
-    },
-    {
-      "id": "2118867349931446512",
-      "created_at": "2026-11-07T00:45:17.000Z",
-      "author": "AFP",
-      "author_name": "AFP News Agency",
-      "type": "tweet",
-      "text": "Rail staff in the heart of Tokyo have deployed an unusual team to trim an overgrown lot -- a pair of goats. Nagi and Pokke are now social media stars",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "en",
-      "url": "https://x.com/AFP/status/2118867349931446512"
-    },
-    {
-      "id": "2118864775299920178",
-      "created_at": "2026-11-07T00:35:03.000Z",
-      "author": "InfoMdia",
-      "author_name": "Médias-Presse-Info",
-      "type": "tweet",
-      "text": "Samedi 7 novembre - De la Sainte Vierge au samedi - Saint Willibrord, Évêque - Bienheureux Raynier d'Arezzo, Premier Ordre Franciscain - https://www.medias-presse.info/samedi-7-novembre-de-la-sainte-vierge-au-samedi-saint-willibrord-eveque-bienheureux-raynier-darezzo-premier-o...",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/InfoMdia/status/2118864775299920178"
-    },
-    {
-      "id": "2118864172033425502",
-      "created_at": "2026-11-07T00:32:39.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "📺 C'est officiel : «Stranger Things» va avoir une suite. Le préquel vient d’être commandé par Netflix Et s'intitulera «Les Autres mondes»\n\n➡️ https://l.leparisien.fr/Hfy3",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2118864172033425502"
     }
   ]
 }

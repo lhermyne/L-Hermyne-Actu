@@ -1,13 +1,13 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-08 01:31",
-  "period": "du 2026-11-07 01:31 au 2026-11-08 01:31",
-  "new_period": "du 2026-11-07 20:00 au 2026-11-08 01:31",
-  "context_period": "du 2026-11-07 01:31 au 2026-11-07 20:00",
+  "generated_at": "2026-11-08 02:02",
+  "period": "du 2026-11-07 02:02 au 2026-11-08 02:02",
+  "new_period": "du 2026-11-07 20:00 au 2026-11-08 02:02",
+  "context_period": "du 2026-11-07 02:02 au 2026-11-07 20:00",
   "coverage_complete": true,
-  "new_count": 249,
-  "context_count": 1065,
+  "new_count": 250,
+  "context_count": 1062,
   "duplicates_merged": 71,
   "empty_removed": 5,
   "new": [
@@ -1297,24 +1297,14 @@
       "author_name": "Le Parisien",
       "published_at": "2026-11-08 01:24",
       "text": "« Il a toujours défendu le président » : Mathieu Lefèvre, nouveau porte-parole du gouvernement « par intérim »\n➡️ https://l.leparisien.fr/IHme"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-07 01:32",
-      "text": "📺 C'est officiel : «Stranger Things» va avoir une suite. Le préquel vient d’être commandé par Netflix Et s'intitulera «Les Autres mondes»\n\n➡️ https://l.leparisien.fr/Hfy3"
     },
     {
       "author_name": "Médias-Presse-Info",
-      "published_at": "2026-11-07 01:35",
-      "text": "Samedi 7 novembre - De la Sainte Vierge au samedi - Saint Willibrord, Évêque - Bienheureux Raynier d'Arezzo, Premier Ordre Franciscain - https://www.medias-presse.info/samedi-7-novembre-de-la-sainte-vierge-au-samedi-saint-willibrord-eveque-bienheureux-raynier-darezzo-premier-o..."
-    },
-    {
-      "author_name": "AFP News Agency",
-      "published_at": "2026-11-07 01:45",
-      "text": "Rail staff in the heart of Tokyo have deployed an unusual team to trim an overgrown lot -- a pair of goats. Nagi and Pokke are now social media stars"
-    },
+      "published_at": "2026-11-08 01:35",
+      "text": "Dimanche 8 novembre - Vingt-quatrième dimanche après la Pentecôte - Les Quatre saints Couronnés, Martyrs - Saint Geoffroy ou Godefroy, Évêque d'Amiens - Bienheureux Jean Duns Scot, Théologien, Premier Ordre Franciscain - https://www.medias-presse.info/dimanche-8-novembre-vingt..."
+    }
+  ],
+  "context": [
     {
       "author_name": "Le Parisien",
       "published_at": "2026-11-07 02:21",
