@@ -1,15 +1,15 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-08 16:38",
-  "period": "du 2026-11-07 16:38 au 2026-11-08 16:38",
-  "new_period": "du 2026-11-08 08:00 au 2026-11-08 16:38",
-  "context_period": "du 2026-11-07 16:38 au 2026-11-08 08:00",
+  "generated_at": "2026-11-08 17:08",
+  "period": "du 2026-11-07 17:08 au 2026-11-08 17:08",
+  "new_period": "du 2026-11-08 08:00 au 2026-11-08 17:08",
+  "context_period": "du 2026-11-07 17:08 au 2026-11-08 08:00",
   "coverage_complete": true,
-  "new_count": 574,
-  "context_count": 635,
-  "duplicates_merged": 50,
-  "empty_removed": 6,
+  "new_count": 607,
+  "context_count": 590,
+  "duplicates_merged": 52,
+  "empty_removed": 5,
   "new": [
     {
       "author_name": "Europe 1",
@@ -1669,7 +1669,10 @@
     {
       "author_name": "Le Parisien | politique",
       "published_at": "2026-11-08 12:43",
-      "text": "« Le sujet c’est lui, mais il n’arrive pas à le reconnaître » : Macron, l’autodéfense inaudible du président https://l.leparisien.fr/VzEd"
+      "text": "« Le sujet c’est lui, mais il n’arrive pas à le reconnaître » : Macron, l’autodéfense inaudible du président https://l.leparisien.fr/VzEd",
+      "also_by": [
+        "Le Parisien"
+      ]
     },
     {
       "author_name": "Fdesouche.com est une revue de presse",
@@ -2532,7 +2535,8 @@
       "published_at": "2026-11-08 15:33",
       "text": "[Retweet de @VivrEuropeen] ✈️ Le week-end dernier devait se tenir à Paris le colloque “Remigration : Ouvrons le débat !”. Après plusieurs interdictions, menaces et réorganisations successives, une rencontre a finalement été organisée…\n\nLa Remigration aura-t-elle lieu ?\n👉 https://youtu.be/K8Zl83tt2hk",
       "also_by": [
-        "Les Braves"
+        "Les Braves",
+        "Jean-Yves Le Gallou"
       ]
     },
     {
@@ -2663,7 +2667,10 @@
     {
       "author_name": "Jordan Bardella",
       "published_at": "2026-11-08 16:00",
-      "text": "J'ai voulu avec ce livre emmener les Français sur le chemin qui nous amène au pouvoir, leur permettre de mieux nous connaître.\n\nC'est toujours un plaisir de venir à la rencontre des lecteurs ! #LaGrandeMotte"
+      "text": "J'ai voulu avec ce livre emmener les Français sur le chemin qui nous amène au pouvoir, leur permettre de mieux nous connaître.\n\nC'est toujours un plaisir de venir à la rencontre des lecteurs ! #LaGrandeMotte",
+      "also_by": [
+        "Rassemblement National"
+      ]
     },
     {
       "author_name": "Le Figaro",
@@ -2904,242 +2911,174 @@
       "author_name": "Occidentis",
       "published_at": "2026-11-08 16:38",
       "text": "⚡️ « Si Christine Lagarde se présente, je voterai pour elle ! » a indiqué Michel Sardou. (La Tribune)"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-07 16:40",
-      "text": "DIRECT. Présidentielle 2027 : suivez le meeting du candidat LFI Jean-Luc Mélenchon au Bourget https://l.leparisien.fr/PcHZ"
-    },
-    {
-      "author_name": "Boulevard Voltaire",
-      "published_at": "2026-11-07 16:42",
-      "text": "[VOTRE AVIS] Destitution du président du Paraguay : cela pourrait-il arriver en France ? | Par Boulevard Voltaire\nEn France, la destitution du président de la République constitue une sanction politique et non pénale. \n \nhttps://www.bvoltaire.fr/votre-avis-destitution-du-president-du-paraguay-cela-pourrait-il-arriver-en-france/?fsp_sid=26115"
-    },
-    {
-      "author_name": "Valeurs actuelles",
-      "published_at": "2026-11-07 16:42",
-      "text": "SONDAGE. Avec 36 % de confiance, Marine Le Pen distance les autres prétendants à l’Élysée dans une enquête Ifop rapportée par Le Point. Derrière elle, les écarts se resserrent, sur fond de pessimisme massif des Français.\nhttps://l.valeursactuelles.com/v9v"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-07 16:43",
-      "text": "Alertes à la bombe visant des avions : ouverture d'une enquête sur un «lien éventuel avec des puissances étrangères» https://ow.ly/A67p106I58g"
-    },
-    {
-      "author_name": "Le Point",
-      "published_at": "2026-11-07 16:44",
-      "text": "Au bout du fil, un médecin tente de guider un fils vers les gestes qui pourraient sauver son père. Récit d’un appel où tout semblait réuni pour sauver une vie.\n\n➡️ https://l.lepoint.fr/7bf"
-    },
-    {
-      "author_name": "Dreuz",
-      "published_at": "2026-11-07 16:44",
-      "text": "Israël en première ligne – le Live de la confrontation Israël-Iran – 7 novembre 2026 https://www.dreuz.com/2026/11/israel-en-premiere-ligne-le-live-de-la-confrontation-israel-iran-7-novembre-2026-333519.html"
-    },
-    {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-07 16:45",
-      "text": "Six suspects roumains ont été mis en examen et écroués après treize vols présumés de câbles de cuivre dans des centrales photovoltaïques du Sud-Ouest.\n\n  https://www.fdesouche.com/2026/11/07/gironde-six-roumains-mis-examen-vol-500-km-cables-cuivre-centrales-photovoltaiques/"
-    },
-    {
-      "author_name": "Occidentis",
-      "published_at": "2026-11-07 16:45",
-      "text": "🫠  Problèmes de son, récupération politique… \n\n⚡️ L’entrée complètement ratée des élus LFI au meeting de Jean-Luc Mélenchon au Bourget, avec Danièle Obono en tête de cortège."
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-07 16:46",
-      "text": "Une dépression orageuse devrait s'installer sur le territoire ➡️ https://mrf.lu/2_0d3"
+      "published_at": "2026-11-08 16:38",
+      "text": "La victime est heureusement saine et sauve. ➡️ https://mrf.lu/2_PT2"
     },
     {
-      "author_name": "Revue éléments",
-      "published_at": "2026-11-07 16:47",
-      "text": "[Retweet de @Livr_arbitres] 🗓️ A vos agendas !\nLe prochain numéro arrive !⤵️"
-    },
-    {
-      "author_name": "Nicolas Dupont-Aignan",
-      "published_at": "2026-11-07 16:47",
-      "text": "ASSEZ D’IMPUNITÉ !  Toujours les mêmes délinquants sont arrêtés et ressortent libres.  Retrouvez mon projet présidentiel 2027 pour garantir la sécurité.\nhttps://www.debout-la-france.fr/wp-content/uploads/2025/10/Securite-2025_10-31_Livret.pdf"
-    },
-    {
-      "author_name": "Revue éléments",
-      "published_at": "2026-11-07 16:47",
-      "text": "[Retweet de @LaNouvelleLibr1] ⏳7 novembre 1903, naissance du père fondateur de l’éthologie et Prix Nobel de médecine, Konrad Lorenz.\n\nCe biologiste et éthologue-zoologiste autrichien a laissé un legs immense non seulement dans sa discipline, mais comme témoin inquiet des dérives de notre civilisation.",
-      "also_by": [
-        "Jean-Yves Le Gallou"
-      ]
-    },
-    {
-      "author_name": "Jon De Lorraine",
-      "published_at": "2026-11-07 16:48",
-      "text": "🔴🇵🇱 URGENT- Un homme a ouvert le feu sur des passants depuis sa voiture ce samedi 7 novembre vers 15h, sur la place du Marché de Cracovie, en Pologne. La police annonce un bilan provisoire de 5 morts et de plus d’une dizaine de blessés, dont des policiers.\n\nSelon le quotidien"
+      "author_name": "Sarah Knafo",
+      "published_at": "2026-11-08 16:38",
+      "text": "« Pourquoi la France resterait le seul pays du monde à ouvrir son modèle social ainsi au reste du monde ? »\n\nAu Maroc, en Algérie ou en Tunisie, un étranger n’obtiendra jamais l’équivalent du RSA.\n\nÀ Dubaï, après un mois de chômage, vous êtes expulsé.\n\nRéservons les prestations"
     },
     {
       "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-07 16:50",
-      "text": "Stefanie Hubig propose d'examiner des courriels divulgués de l'AfD pour déterminer si une procédure d'interdiction pourrait être engagée. La coalition allemande n'a pas de position commune sur cette hypothèse.\n\n  https://www.fdesouche.com/2026/11/07/allemagne-ministre-justice-hubig-420000-courriels-afd-interdiction-parti/"
+      "published_at": "2026-11-08 16:41",
+      "text": "Après les émeutes de Francfort, le chef du BDK soutient Dobrindt, évoque de jeunes hommes issus de milieux marqués par l’immigration et demande d’examiner les conséquences en droit des étrangers. Plus de 180 policiers ont été blessés. \n https://www.fdesouche.com/2026/11/08/allemagne-100-policiers-blesses-et-54-interpellations-lors-des-emeutes-de/"
     },
     {
-      "author_name": "Jon De Lorraine",
-      "published_at": "2026-11-07 16:50",
-      "text": "Elle s’en prend à une policière. \n(Ça tourne mal)"
+      "author_name": "Marion Maréchal",
+      "published_at": "2026-11-08 16:45",
+      "text": "« À force de vouloir inclure tout le monde sans exiger suffisamment de chacun, nous avons fini par ne plus élever personne. »"
     },
     {
-      "author_name": "Bouli ☃️",
-      "published_at": "2026-11-07 16:51",
-      "text": "Il sait parler à son public.\n[Cite @JLMelenchon] 🔴️️️️️️ ÉVÉNEMENT - Ce samedi 7 novembre, rendez-vous à 15h30 pour suivre en direct le grand meeting de présentation de notre programme de gouvernement !\n\n👉️️️️️️ Le direct sur Youtube : https://youtube.com/live/vPZdCClg92c\n\nRetrouvez toutes les informations :"
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-08 16:46",
+      "text": "[Retweet de @62PATRIOTES] 😠C’EST FACILE DE FAIRE LA LEÇON AUX FRANÇAIS !\n🫵Que ceux qui vous disent qu’on n’a pas besoin d’augmenter le SMIC soient rémunérés au SMIC et on reparlera‼️"
     },
     {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-07 16:51",
-      "text": "La plus grande villa de luxe de Guernesey à vendre pour 78 millions d’euros\n➡️ https://l.leparisien.fr/Fnvi"
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-08 16:46",
+      "text": "[Retweet de @62PATRIOTES] #DétraîtrisationDuPays\n➡️ https://les-patriotes.fr/soutien2027/ ✊"
     },
     {
-      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
-      "published_at": "2026-11-07 16:51",
-      "text": "[Retweet de @PARA_BELLUM_OF] Elle le frappait en lui demandant s'il etait raciste... a un bebe de 8 mois. \nC’est elle la putain de raciste anti blanc. \nNous ne sommes pas assez en colère"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-07 16:53",
-      "text": "⚖️ Cambriolage au Plaza Athénée : deux hommes seront jugés en janvier\nhttps://www.sudradio.fr/societe/cambriolage-au-palace-parisien-plaza-athenee-deux-hommes-seront-juges-en-janvier"
+      "author_name": "Yann Vallerie (Breizh-Info)",
+      "published_at": "2026-11-08 16:47",
+      "text": "À 7 min de la fin @RugbyClubVannes mène 18-9 dans un stade de la Beaujoire en ébullition . Contre @UBBrugby"
     },
     {
       "author_name": "Europe 1",
-      "published_at": "2026-11-07 16:53",
-      "text": "Pologne : une fusillade à Cracovie a fait cinq morts et «plusieurs blessés» https://ow.ly/QpVY106I594"
+      "published_at": "2026-11-08 16:48",
+      "text": "Le pape Léon XIV exprime sa «proximité spirituelle» avec les victimes de la fusillade en Pologne https://ow.ly/Vfii106I816"
     },
     {
-      "author_name": "Frontières",
-      "published_at": "2026-11-07 16:54",
-      "text": "La séance de dédicaces de Jordan Bardella débute à La Seyne-sur-Mer et ses lecteurs ne partent pas sans leur photo !"
+      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
+      "published_at": "2026-11-08 16:48",
+      "text": "[Retweet de @TanguyMaleve] @RenaudCamus Islamisation et assimilation sont des anagrammes…"
+    },
+    {
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-08 16:51",
+      "text": "À La Courneuve, le suspect de 20 ans a été mis en examen pour tentative d’homicide après l’agression au couteau d’un élève de 16 ans. Le parquet réclamait sa détention, mais il a été placé sous contrôle judiciaire. \n https://www.fdesouche.com/2026/11/08/la-courneuve-93-eleve-poignarde-lycee-denis-papin-suspect-garde-a-vue/"
     },
     {
       "author_name": "Damien Rieu",
-      "published_at": "2026-11-07 16:55",
-      "text": "[Retweet de @grok] @Ariopol_eu @FBrahimi Oui, les études d’ADN ancien confirment une continuité génétique solide.\n\nLes Gaulois de l’âge du Fer (études iScience 2022, PNAS 2020) se placent dans la variabilité génomique des Français modernes. Aucun grand remplacement de population n’a eu lieu entre l’âge du Bronze et"
-    },
-    {
-      "author_name": "Médias-Presse-Info",
-      "published_at": "2026-11-07 16:55",
-      "text": "Ignace - 82 % des Français pour l'emprisonnement des OQTF - https://www.medias-presse.info/ignace-82-des-francais-pour-lemprisonnement-des-oqtf/253717/ -"
-    },
-    {
-      "author_name": "Jon De Lorraine",
-      "published_at": "2026-11-07 16:57",
-      "text": "L'assaillant a été neutralisé par un policier Polonais.\n[Cite @jon_delorraine] 🔴🇵🇱 URGENT- Un homme a ouvert le feu sur des passants depuis sa voiture ce samedi 7 novembre vers 15h, sur la place du Marché de Cracovie, en Pologne. La police annonce un bilan provisoire de 5 morts et de plus d’une dizaine de blessés, dont des policiers.\n\nSelon le quotidien"
+      "published_at": "2026-11-08 16:52",
+      "text": "« Vous faites un lien entre immigration et Bataclan ? » : Hamon tétanisé face à un \njoli retournement de situation de @laurentwauquiez."
     },
     {
       "author_name": "Tribune Populaire🌐",
-      "published_at": "2026-11-07 16:57",
-      "text": "📂🇺🇸FLASH INFO - Peter Thiel présente Nashville, « capitale du protestantisme », comme rempart face à une Église catholique jugée peu fiable !\n\nLe 19 octobre, lors de la quatrième et dernière de ses conférences sur l’Antéchrist, organisées dans le Temple maçonnique de Nashville"
+      "published_at": "2026-11-08 16:52",
+      "text": "📂🇺🇦🇺🇸🇷🇺🇪🇺 ANALYSE – Pourquoi la guerre en Ukraine pourrait survivre au mandat de Trump ?\n\nSous Biden, les armes envoyées à Kiev étaient des dons financés par le contribuable américain. Trump a inversé le circuit : le mécanisme PURL, lancé avec Mark Rutte en juillet 2025, fait"
     },
     {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-07 16:57",
-      "text": "Un nombre jamais atteint sur le tableau de bord d'une voiture ➡️ https://mrf.lu/2_06C"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-07 17:00",
-      "text": "🏅Magda Wiet-Hénin, championne de taekwondo lance son association « A force d’ailes » à destination des femmes en souffrance\n\n👉🏻 Elle est l'invitée de Champions ! de 19h00 à 19h30 au micro de @BrindelleFrdric et Thomas Binet"
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-07 17:00",
-      "text": "Chute très importante de la mobilisation par rapport aux semaines passées → https://l.lefigaro.fr/ZzeX"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-07 17:00",
-      "text": "🔴 EN DIRECT - Mobilisation du 7 novembre : fin des manifestations et dispersions en cours\nhttps://www.sudradio.fr/sud-radio/en-direct-lacte-4-des-gilets-jaunes-avec-90-mobilisations-dans-toute-la-france"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-07 17:01",
-      "text": "🔴 Des tirs ont fait plusieurs morts à Cracovie, dans le sud de la Pologne. Le tireur a été interpellé.\n\n➡️ https://l.leparisien.fr/uUwv"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-07 17:01",
-      "text": "Entre courriels et directives professionnelles, les messages se sont succédés ➡️ https://mrf.lu/2_0bX"
-    },
-    {
-      "author_name": "Bruno Attal",
-      "published_at": "2026-11-07 17:01",
-      "text": "Foutez moi cette racaille au trou !\n\nSoutien au Fdo !\n\n#7novembre"
+      "author_name": "Yann Vallerie (Breizh-Info)",
+      "published_at": "2026-11-08 16:56",
+      "text": "Énorme victoire de @RugbyClubVannes après un combat de titans contre @UBBrugby dans une ambiance folle à Nantes, capitale historique de la Bretagne . 23-14 et deuxième victoire de la saison. . Pour croire au maintien"
     },
     {
       "author_name": "Boulevard Voltaire",
-      "published_at": "2026-11-07 17:02",
-      "text": "[BRÈVE] Mérignac (33) : du sursis pour un manifestant ayant sérieusement blessé un CRS | Par Boulevard Voltaire\nLe CRS a été sérieusement blessé à une main lors de l’interpellation du jeune homme, muni de mortiers d’artifice. \n \nhttps://www.bvoltaire.fr/breve-merignac-33-du-sursis-pour-un-manifestant-ayant-serieusement-blesse-un-crs/?fsp_sid=26161"
+      "published_at": "2026-11-08 16:57",
+      "text": "[PROFS EN FRANCE] Désastre de l'école française : mais comment en est-on arrivé là ? | Par Jean Boer\nTyrannie des désirs individuels, esclavage des utopies collectives... \n \nhttps://www.bvoltaire.fr/profs-en-france-desastre-de-lecole-francaise-mais-comment-en-est-on-arrive-la/?fsp_sid=25557"
     },
     {
-      "author_name": "Florian Philippot",
-      "published_at": "2026-11-07 17:02",
-      "text": "En plein coup d’État, un terrible attentat meurtrier en Pologne ! \n\nQue se passe-t-il donc ?!\n[Cite @donaldtusk] Jestem na bieżąco informowany przez ministra spraw wewnętrznych o sytuacji w Krakowie po tragicznej strzelaninie. Policja bada tło i wszystkie okoliczności zamachu."
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-07 17:02",
-      "text": "«Je trouve dommage que le mouvement utilise les lycéens», exprime Reda Belhaj, porte-parole UN1TE Île-de-France, dans #100actu\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Causeur.fr",
-      "published_at": "2026-11-07 17:04",
-      "text": "\"Zurbarán a le génie de lier la matière la plus brute au mysticisme le plus pur. Chez lui, la grâce se loge dans une étoffe, un panier d’osier ou l’écorce d’un citron. Un art du sensible qui conduit au divin conjugué à une attachante foi dans le monde des hommes, typique de la"
-    },
-    {
-      "author_name": "Occidentis",
-      "published_at": "2026-11-07 17:04",
-      "text": "🚨 Jean-Luc Mélenchon accuse l’État d’avoir laissé des « bandes racistes violentes » agresser des passants dans près de 20 villes."
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-08 16:57",
+      "text": "Charente : un incendie se déclare dans les locaux du conseil départemental, la piste criminelle privilégiée\n➡️ https://l.leparisien.fr/ew3Y"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-07 17:04",
-      "text": "Prudence dans le nord-ouest ➡️ https://mrf.lu/2_075"
+      "published_at": "2026-11-08 16:58",
+      "text": "«Avoir un débat sur le pluralisme dans les médias n'est pas une mauvaise idée», pointe Olivier Benkemoun, dans #100Actu\n\nToute l'info est à retrouver sur https://cnews.fr"
     },
     {
-      "author_name": "Frontières",
-      "published_at": "2026-11-07 17:05",
-      "text": "« Vous dormez la nuit ? »\n\nLes familles au complet sont aussi présentes pour accueillir Jordan Bardella à La Seyne-sur-Mer !"
+      "author_name": "Rassemblement National",
+      "published_at": "2026-11-08 16:58",
+      "text": "La jeunesse française est une force essentielle pour la Renaissance de notre pays !\n\nSon énergie, ses ambitions et son engagement seront indispensables pour relever les défis qui attendent la France ! 🇫🇷\n\n📖 Commandez « Gouverner » : https://www.amazon.fr/dp/2213736499"
     },
     {
-      "author_name": "Agence France-Presse",
-      "published_at": "2026-11-07 17:06",
-      "text": "🔴 LIVE - Jean-Luc Mélenchon et ses troupes présentent leur programme présidentiel au cours d'un nouveau gros meeting au Bourget près de Paris ⤵️\n\nhttps://www.youtube.com/live/oXCtnAMSP3I"
+      "author_name": "Valeurs actuelles",
+      "published_at": "2026-11-08 16:59",
+      "text": "[Retweet de @csapin] Immigration facilitée, héritages plafonnés, propriété privée subordonnée, BAC supprimées… \n\nDerrière la promesse de Jean-Luc Mélenchon de « tout changer », se cache une déconstruction méthodique de la France. \n\nDécryptage de @Eynaud_Marc dans @Valeurs\nhttps://www.valeursactuelles.com/clubvaleurs/politique/presidentielle-2027-le-plan-de-jean-luc-melenchon-pour-deconstruire-la-france"
+    },
+    {
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-08 17:00",
+      "text": "Après une enquête de presse sur une publication Instagram évoquant l'attaque du Hamas du 7 octobre 2023, les vêtements Bokitta ont disparu du site de John Lewis. La marque condamne les attaques contre les civils. \n https://www.fdesouche.com/2026/11/08/royaume-uni-john-lewis-hijabs-bokitta-image-attaque-hamas-7-octobre/"
+    },
+    {
+      "author_name": "Actu & Politique",
+      "published_at": "2026-11-08 17:00",
+      "text": "📊🚨 PRÉSIDENTIELLE 2027 — Que disent les sondages ?\n\nNous avons rassemblé les derniers sondages réalisés par 8 instituts et analysé les 30 hypothèses testées. Voici les principaux enseignements :\n\n🔹 Marine Le Pen recueille en moyenne 34,53 % des intentions de vote. Elle arrive"
+    },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-08 17:01",
+      "text": "Un boxeur français passé à tabac par le public en Turquie ➡️ https://l.lefigaro.fr/JM4I"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-08 17:01",
+      "text": "L’ex-Premier ministre et la numéro 2 de Reconquête ! ont défendu hier soir, aux Rencontres de l’avenir, deux recettes pour les finances publiques.\n\n➡️ https://l.lepoint.fr/vVs\nPar @kevinbadeau"
+    },
+    {
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-08 17:02",
+      "text": "[Retweet de @BVoltaire] « Il y a eu une déferlante sur le bar, ils se sont attaqués aux supporters avec une violence inouïe, le visage dissimulé, au cri de \"sales blancs\", \"tuez-les tous\". »\n@gregoirehoudan, conseiller municipal RN de Rouen, a témoigné auprès d’@alienordep ⤵️\nhttps://www.bvoltaire.fr/entretien-racisme-anti-blanc-il-y-a-ceux-qui-pointent-du-doigt-et-ceux-qui-executent/"
+    },
+    {
+      "author_name": "Jordan Bardella",
+      "published_at": "2026-11-08 17:03",
+      "text": "🇫🇷 Dans ce livre, tous les Français pourront savoir quels grands principes nous défendons, comme la propriété privée, l'identité de la France, la sécurité ou le retour de l'autorité, et savoir concrètement notre méthode pour restaurer et protéger ces grands principes au"
+    },
+    {
+      "author_name": "Sarah Knafo",
+      "published_at": "2026-11-08 17:03",
+      "text": "« Inemployables dans le privé » ? Quel mépris pour les fonctionnaires !\n\nSi on suit votre logique, vous pensez donc qu'embaucher près d'un million de personnes « inemployables dans le privé », avec nos impôts, aidera le pays ?\n\nPS : vous devriez écouter les vidéos avant de les\n[Cite @OMondieuu] Oui voilà, mettons près d'un million de personnes au chômage, (souvent inemployables dans le privé)\n\nÇa devrait aider le pays"
+    },
+    {
+      "author_name": "Tribune Populaire🌐",
+      "published_at": "2026-11-08 17:03",
+      "text": "📂🇫🇷FLASH INFO - Les services secrets ont un plan pour exfiltrer Macron de l’Élysée en cas d’assaut et l’État se prépare au chaos de 2027 !\n\nÀ cinq mois de la présidentielle, un livre-enquête montre comment les services de renseignement français se préparent au pire, c’est ce que"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-08 17:04",
+      "text": "Masters 1000 de Paris : les Français Quentin Halys et Pierre-Hugues Herbert vainqueurs en double https://ow.ly/pUop106I82H"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-08 17:04",
+      "text": "Metz offre des arbres à ses habitants pour l’été : « Avant, on nous demandait d’en couper, maintenant c’est l’inverse ! »\n➡️ https://l.leparisien.fr/BN0E"
+    },
+    {
+      "author_name": "François Asselineau 🇫🇷",
+      "published_at": "2026-11-08 17:05",
+      "text": "𝗔𝗨𝗧𝗢𝗖𝗢𝗟𝗟𝗔𝗡𝗧 𝗩𝗨 𝗦𝗨𝗥 𝗨𝗡 𝗠𝗨𝗥 𝗣𝗔𝗥𝗜𝗦𝗜𝗘𝗡\nSans commentaire."
+    },
+    {
+      "author_name": "Le Crapaud",
+      "published_at": "2026-11-08 17:05",
+      "text": "Je serai ce soir en Space sur le compte de @TimVorgens que je remercie pour l'invitation 🐸\n[Cite @TimVorgens] ⚠️ Alerte ⚠️\n\nDemain, la terre s'arrête de tourner à 19h.\n\nDes volcans sortiront de terre,  des moussaka géantes en jailliront et attaqueront l’Élysée, des hommes de gauche se mettront à dire la vérité (pas garanti), et le monde entier fera silence pour écouter la sainte messe"
     },
     {
       "author_name": "Les Patriotes",
-      "published_at": "2026-11-07 17:07",
-      "text": "[Retweet de @f_philippot] En plein coup d’État, un terrible attentat meurtrier en Pologne ! \n\nQue se passe-t-il donc ?!"
+      "published_at": "2026-11-08 17:06",
+      "text": "[Retweet de @LaureAngeOrange] Mon choix est fait, à moi aussi!\nCe sera le FREXIT!\nLe RN anti FREXIT de BARDELLA, LE PEN, TANGUY, THIONNET etc ne résoudra rien! En devenant une fausse opposition européiste, il est devenu une partie du problème!\nVotez FREXIT, votez PHILIPPOT!"
     },
     {
       "author_name": "Les Patriotes",
-      "published_at": "2026-11-07 17:07",
-      "text": "[Retweet de @vetopatriote] ⚠️Marine Le Pen refuse d'augmenter le SMIC‼️\nEst-ce que les électeurs #RN réalisent ce que cela signifie ?\n🛑Arrêtons-nous un moment sur les conséquences d'une telle position👇\n[Florian PHILIPPOT (06/11/26) : https://youtu.be/O6g9dE_nK3Q]\nvia @FrancoisDESCAM7"
+      "published_at": "2026-11-08 17:06",
+      "text": "[Retweet de @LesPatriotes_77] 🇫🇷 FREXIT : LIBÉRER LA FRANCE ET SORTIR DE L’AUSTÉRITÉ\nDevons-nous accepter des services publics fragilisés, des usines qui ferment et des agriculteurs qui peinent à vivre de leur travail ?\n @reslp77 https://www.instagram.com/reel/DffHPvNJ0Lt/?utm_source=ig_web_button_share_sheet&xtok=MzJiMzQ5ZWQ2Mw=="
     },
     {
-      "author_name": "Les Patriotes",
-      "published_at": "2026-11-07 17:07",
-      "text": "[Retweet de @62PATRIOTES] ♦️ÉVÉNEMENT MERCREDI 25/11 à 19h\n➡️ INSCRIPTION ICI : https://les-patriotes.fr/kintzheim/\nFlorian Philippot en Alsace pour une grande réunion publique !\nÀ Kintzheim (67) Entrée gratuite. Ouvert à tous !"
-    },
-    {
-      "author_name": "Les Patriotes",
-      "published_at": "2026-11-07 17:07",
-      "text": "[Retweet de @62PATRIOTES] LA VRAIE RUPTURE\nhttps://les-patriotes.fr/projetpourlafrance/ ✊"
-    },
-    {
-      "author_name": "Les Patriotes",
-      "published_at": "2026-11-07 17:07",
-      "text": "[Retweet de @FrancoisDESCAM7] J-7 !"
-    },
-    {
-      "author_name": "Les Patriotes",
-      "published_at": "2026-11-07 17:07",
-      "text": "[Retweet de @theodorici_th] https://youtu.be/ZITHtN6HQuA?is=UejXkmtaG2C0Khvj"
-    },
+      "author_name": "Le JDD",
+      "published_at": "2026-11-08 17:08",
+      "text": "«Macron est un connard comme tous ces flics de merde» : franceinfo embarrassée après avoir tendu le micro à un enfant https://ow.ly/noZX106I838"
+    }
+  ],
+  "context": [
     {
       "author_name": "Le Figaro",
       "published_at": "2026-11-07 17:09",
@@ -3723,6 +3662,11 @@
       "author_name": "Valeurs actuelles",
       "published_at": "2026-11-07 18:13",
       "text": "McDonald’s poursuit sa conquête des campagnes françaises, multipliant les ouvertures dans les petites communes. Une stratégie qui témoigne de l’enracinement du géant américain dans l’Hexagone, mais qui suscite cependant toujours de vives oppositions loca… https://l.valeursactuelles.com/bRN"
+    },
+    {
+      "author_name": "Jean-Yves Le Gallou",
+      "published_at": "2026-11-07 18:13",
+      "text": "[Retweet de @LaNouvelleLibr1] ⏳7 novembre 1903, naissance du père fondateur de l’éthologie et Prix Nobel de médecine, Konrad Lorenz.\n\nCe biologiste et éthologue-zoologiste autrichien a laissé un legs immense non seulement dans sa discipline, mais comme témoin inquiet des dérives de notre civilisation."
     },
     {
       "author_name": "Occidentis",
