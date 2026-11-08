@@ -1,14 +1,40 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-08T02:33:22.204Z",
+  "updated_at": "2026-11-08T03:04:13.063Z",
   "window_hours": 24,
-  "window_start": "2026-11-07T02:33:22.204Z",
+  "window_start": "2026-11-07T03:04:13.063Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1387,
+  "count": 1388,
   "tweets": [
+    {
+      "id": "2119263481958711324",
+      "created_at": "2026-11-08T02:59:22.000Z",
+      "author": "ThaisEscufon",
+      "author_name": "Thaïs d’Escufon",
+      "type": "retweet",
+      "text": "This is the price you pay for being a patriot in France.🚨\n\nThis week alone, I received two police summonses because I DARED to describe who the rioters were.\n\nBut the justice system and the censors have been after me for a long time.\n\nWatch the video on my new English-language",
+      "retweeted_author": "ThaisEscufon",
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "en",
+      "url": "https://x.com/ThaisEscufon/status/2119263481958711324"
+    },
+    {
+      "id": "2119259466302419146",
+      "created_at": "2026-11-08T02:43:25.000Z",
+      "author": "leparisien_pol",
+      "author_name": "Le Parisien | politique",
+      "type": "tweet",
+      "text": "« Il faut une réflexion sur les incidences sur la société et la sécurité » : Emmanuel Macron veut accélérer sur la régulation de l’IA https://l.leparisien.fr/GgXR",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/leparisien_pol/status/2119259466302419146"
+    },
     {
       "id": "2119238967711449349",
       "created_at": "2026-11-08T01:21:58.000Z",
@@ -18026,19 +18052,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/leparisien_pol/status/2118917523265429812"
-    },
-    {
-      "id": "2118899117824848316",
-      "created_at": "2026-11-07T02:51:31.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "« Je ne suis pas Batman moi » : au procès du triple narchomicide de Marseille, Amine Oualane continue de nier\n➡️ https://l.leparisien.fr/7Wat",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2118899117824848316"
     }
   ]
 }
