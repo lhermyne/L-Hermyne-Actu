@@ -1,14 +1,27 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-08T03:04:13.063Z",
+  "updated_at": "2026-11-08T03:34:18.191Z",
   "window_hours": 24,
-  "window_start": "2026-11-07T03:04:13.063Z",
+  "window_start": "2026-11-07T03:34:18.191Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1388,
+  "count": 1389,
   "tweets": [
+    {
+      "id": "2119266125108203849",
+      "created_at": "2026-11-08T03:09:52.000Z",
+      "author": "LePoint",
+      "author_name": "Le Point",
+      "type": "tweet",
+      "text": "Sorti le 30 octobre, le 13e album studio de la chanteuse est d’ores et déjà un succès foudroyant. François Hanss, réalisateur/auteur des captations des concerts de la star depuis 30 ans, décrypte les racines du triomphe.\n➡️ https://l.lepoint.fr/GIV",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/LePoint/status/2119266125108203849"
+    },
     {
       "id": "2119263481958711324",
       "created_at": "2026-11-08T02:59:22.000Z",
