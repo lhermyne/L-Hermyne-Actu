@@ -1,15 +1,15 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-08 09:05",
-  "period": "du 2026-11-07 09:05 au 2026-11-08 09:05",
-  "new_period": "du 2026-11-07 20:00 au 2026-11-08 09:05",
-  "context_period": "du 2026-11-07 09:05 au 2026-11-07 20:00",
+  "generated_at": "2026-11-08 09:36",
+  "period": "du 2026-11-07 09:36 au 2026-11-08 09:36",
+  "new_period": "du 2026-11-07 20:00 au 2026-11-08 09:36",
+  "context_period": "du 2026-11-07 09:36 au 2026-11-07 20:00",
   "coverage_complete": true,
-  "new_count": 408,
-  "context_count": 931,
-  "duplicates_merged": 65,
-  "empty_removed": 7,
+  "new_count": 441,
+  "context_count": 887,
+  "duplicates_merged": 58,
+  "empty_removed": 6,
   "new": [
     {
       "author_name": "Sud Radio",
@@ -2101,274 +2101,174 @@
       "author_name": "Sud Radio",
       "published_at": "2026-11-08 09:06",
       "text": "💥 LFI a-t-elle des difficultés à dénoncer les violences ? #GrandMatinWeekEnd\n\n🗣️ @FraPiquemal : \"Il n’y a pas plus de casse qu’avant. Par contre, les policiers ont des armes mutilantes, il y a des vies brisées ! Il y a une doctrine policière autoritaire\""
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Le Média en 4⃣-4⃣-2⃣",
-      "published_at": "2026-11-07 09:05",
-      "text": "Scandale du périscolaire parisien : la mairie reconnaît des erreurs dans des plannings utilisés pour défendre des animateurs \nhttps://lemediaen442.fr/scandale-du-periscolaire-parisien-la-mairie-reconnait-des-erreurs-dans-des-plannings-utilises-pour-defendre-des-animateurs/ \n\nLors d'une réunion organisée le 3 novembre avec des parents d'élèves des écoles Saint-Dominique et Rapp, dans le VIIe"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-07 09:06",
-      "text": "💸 Faut-il augmenter le SMIC ? #GrandMatinWeekEnd\n\n🗣️ @bcohenhadad : \"Augmenter le SMIC de 100 euros, ça coûte jusqu'à 250 euros pour l'entreprise ! Pour beaucoup, c'est la mort annoncée\"\n\n📻https://sudradio.fr\n☎️0 826 300 300"
-    },
-    {
-      "author_name": "Dreuz",
-      "published_at": "2026-11-07 09:06",
-      "text": "Espoir malgré la défaite au Texas: Ted Cruz refuse de baisser les bras https://www.dreuz.com/2026/11/espoir-malgre-la-defaite-au-texas-ted-cruz-refuse-de-baisser-les-bras-333489.html"
-    },
-    {
-      "author_name": "Une Bonne Droite 👊🏻",
-      "published_at": "2026-11-07 09:07",
-      "text": "[Retweet de @DamienRieu] On croit au socialisme comme on croit au Père Noël. \nEnvoyez cette vidéo à votre ami socialiste qui n’est pas encore sorti de l’enfance."
-    },
-    {
-      "author_name": "Cercle Aristote",
-      "published_at": "2026-11-07 09:08",
-      "text": "[Retweet de @Cercle_Aristote] Oui."
-    },
-    {
-      "author_name": "Cercle Aristote",
-      "published_at": "2026-11-07 09:08",
-      "text": "[Retweet de @Cercle_Aristote] Rudy ne dit jamais non pour un petit billet."
-    },
-    {
-      "author_name": "Cercle Aristote",
-      "published_at": "2026-11-07 09:08",
-      "text": "[Retweet de @Cercle_Aristote] Pas de dévaluation possible, car aucun candidat ne veut sortir de l’euro, une dévaluation interne plus ou moins importante sera au menu.\n\nCe qui risque d’aggraver encore plus la situation.\n\nLe système est à bout de souffle. \nTout cela pour préserver une monnaie qui n’a pas de"
-    },
-    {
-      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
-      "published_at": "2026-11-07 09:08",
-      "text": "[Retweet de @GenevieveRuelle] « J'aime l'étranger, je l'ai dit, j'ai même un préjugé en sa faveur. J'aime les musiques du monde, la musique arabe, la musique arabo-andalouse, la musique turque, les chants et les danses soufis, le ney, les musiques juives traditionnelles, les chants de la synagogue, la musique"
-    },
-    {
-      "author_name": "Le Crapaud",
-      "published_at": "2026-11-07 09:08",
-      "text": "[Retweet de @Le_Crapaud47] L’avenir de la Chine \n                 VS\nL’avenir de l’Occident"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-07 09:08",
-      "text": "Abus sexuels dans l’Église : avec une saisine par jour, la nouvelle instance d’aide aux victimes déjà sur le pont\n➡️ https://l.leparisien.fr/C5QQ"
-    },
-    {
-      "author_name": "Le Point",
-      "published_at": "2026-11-07 09:09",
-      "text": "💬 Matteo Renzi : « Le Pen ou Mélenchon à l’Élysée, c’est la fin de l’Europe »\n\nPar @oubertalli https://l.lepoint.fr/cRH"
-    },
-    {
-      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
-      "published_at": "2026-11-07 09:09",
-      "text": "[Retweet de @cg59300] « Ce pouvoir remplaciste(...)fort qu'il est de ses journalistes-juges, de ses juges-censeurs, de ses censeurs-éditeurs, de ses éditeurs-industriels, de ses industriels-patrons de presse, de ses intellectuels organiques, de ses officines de contrôle et de ses sociologues de cour »"
     },
     {
       "author_name": "L'Express",
-      "published_at": "2026-11-07 09:10",
-      "text": "Dans \"Une diplomatie sans diplomates\", l'ex-haut-fonctionnaire livre ses souvenirs d'une carrière de quarante ans. Avec une embardée inattendue vers le monde de l'espionnage, à Alger.\n\n➡️ https://l.lexpress.fr/LZC"
+      "published_at": "2026-11-08 09:06",
+      "text": "Si Donald Trump lui a tout accordé ou presque, le secteur pétrolier se dit très optimiste à l'idée de travailler avec les démocrates, explique le journaliste et auteur de \"Petroleum Club\".\n\n➡️ https://l.lexpress.fr/jQs"
     },
     {
-      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
-      "published_at": "2026-11-07 09:10",
-      "text": "[Retweet de @cg59300] « (...) la remigration est la seule réplique possible (...) »\n\n#Remigration \n#GreatReplacement \n\nLe Discours de Grenelle \nRenaud Camus \n15 novembre 2014"
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-08 09:08",
+      "text": "«Macron est un énorme c***d»… Marcel, 8 ans, met franceinfo dans l’embarras\n➡️ https://l.leparisien.fr/VzEr"
     },
     {
-      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
-      "published_at": "2026-11-07 09:10",
-      "text": "[Retweet de @cg59300] « Le Grand Remplacement est la crise la plus grave qu'ait connue la France depuis quinze siècles ».\n\n#GrandRemplacement\n#Remigration \n\nLe Discours de Grenelle \nRenaud Camus \n15 novembre 2014"
+      "author_name": "Europe 1",
+      "published_at": "2026-11-08 09:10",
+      "text": "« Je plaide pour des centres de redressement des délinquants par le travail encadré par des militaires. Ça permet d’apprendre la discipline […] et de casser la spirale incessante de la délinquance et du casse. » @becht_olivier, député,  candidat à l’élection avec @adelaflechere"
     },
     {
-      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
-      "published_at": "2026-11-07 09:12",
-      "text": "[Retweet de @notgonnalie75] Je ne l’ai pas encore finie mais j’ai adoré cette interview."
-    },
-    {
-      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
-      "published_at": "2026-11-07 09:13",
-      "text": "[Retweet de @RealJarTaylor] For French speakers only, I'm afraid. The great Renaud Camus will be speaking on YouTube in 48 minutes."
-    },
-    {
-      "author_name": "Alain Weber",
-      "published_at": "2026-11-07 09:13",
-      "text": "Mélenchon, il y a en réalité moins de racisme en France que d’antisémitisme. \n\nVous avez besoin de cet antisémitisme pour fédérer votre électorat arabo-musulman. \n\nMais comme cette stratégie devenait de plus en plus problématique, vous avez mobilisé vos relais pour combattre un"
+      "author_name": "Dreuz",
+      "published_at": "2026-11-08 09:10",
+      "text": "La nomination de Stephen Miller au poste de Chef de Cabinet cause la panique chez les Démocrates https://www.dreuz.com/2026/11/la-nomination-de-stephen-miller-au-poste-de-chef-de-cabinet-cause-la-panique-chez-les-democrates-333532.html"
     },
     {
       "author_name": "Tribune Populaire🌐",
-      "published_at": "2026-11-07 09:13",
-      "text": "[Retweet de @NhuBretagne] ✅ Présidentielle 2027 : et si tout était déjà écrit ?\n\nEt si la prochaine élection présidentielle française nous réservait un scénario totalement inattendu ?\n\nUne crise économique majeure, des marchés financiers sous tension, des candidats qui s'effacent… et une personnalité"
+      "published_at": "2026-11-08 09:11",
+      "text": "📂🇵🇱FLASH INFO - Les corps de trois proches du suspect (deux femmes et un homme) ont été retrouvés chez le terroriste polonais à Ostrowiec Świętokrzyski, à environ 150 km au nord-est de Cracovie .\n\nLes informations complémentaires sur le suspect et le mobile : c’est un Polonais"
     },
     {
-      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
-      "published_at": "2026-11-07 09:13",
-      "text": "[Retweet de @cfdownes_] It is the honour of my life to be standing as Restore Britain's parliamentary candidate for Sittingbourne and Sheppey.\n\nThese towns were once at the heart of the British Empire. Under the leadership of Restore Britain, that greatness and prosperity will return.",
-      "also_by": [
-        "Jean-Yves Le Gallou"
-      ]
-    },
-    {
-      "author_name": "Comité Trump France",
-      "published_at": "2026-11-07 09:14",
-      "text": "[Retweet de @jdoedoe101101] Para los que no conocen a Stephen Miller, nuevo Jefe de Gabinete de Trump, tiene una de las historias más interesantes del gobierno.\n\nMiller arrancó haciendo quilombo en universidades durante la era de Obama, organizando movimientos estudiantiles de derecha y protestando contra"
-    },
-    {
-      "author_name": "Marine Le Pen",
-      "published_at": "2026-11-07 09:14",
-      "text": "Le programme de La France insoumise n’est pas un projet pour redresser le pays. C’est un projet de démantèlement de la France. Il pousse jusqu’à son terme la logique de déconstruction engagée par Emmanuel Macron depuis son arrivée au pouvoir.\n\nRétablissement du droit du sol",
-      "also_by": [
-        "Rassemblement National"
-      ]
-    },
-    {
-      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
-      "published_at": "2026-11-07 09:14",
-      "text": "Le Jour ni l’Heure 0056 : Gustave Fayet, 1865-1925, Madeleine Fayet en kimono avec sa fille, Yseult, 1901, coll. part., Paris, Fondation Vuitton, exp. Gustave Fayet, dimanche 1er novembre 2026, 15:23:25"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-07 09:14",
-      "text": "De nombreux commerces sont fermés et/ou barricadés sur le boulevard Voltaire, en prévision des manifestations à Paris. \n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Les Patriotes",
-      "published_at": "2026-11-07 09:15",
-      "text": "[Retweet de @DENTDOURS1] https://les-patriotes.fr\n🇫🇷🇫🇷🇫🇷🇫🇷🇫🇷🇫🇷🇫🇷🇫🇷🇫🇷🇫🇷🇫🇷🇫🇷🇫🇷🇫🇷"
-    },
-    {
-      "author_name": "Les Patriotes",
-      "published_at": "2026-11-07 09:15",
-      "text": "[Retweet de @LesPatriotes21] 🔶 L’Assemblée nationale reconnaît l’amateurisme de la facturation électronique : obligation lancée sans portail public gratuit, après des centaines de millions d’€ publics, un piratage de la DGFiP et un démarrage chaotique (rejets, interopérabilité pourrie). \n\nLes TPE/PME qui"
-    },
-    {
-      "author_name": "Marc Vanguard",
-      "published_at": "2026-11-07 09:16",
-      "text": "[Retweet de @marc_vanguard] 🔴 Je viens de voir que le blog de gauche radicale \"Blast\" m'a consacré un portrait.\n\nExtraits choisis 👇\n\n\"Marc Vanguard n’a pas d’émotion : il publie des chiffres bruts, froids.\n\nIl n’a pas de style, pas d’humour, ne s’énerve jamais. Il n’est que la raison froide,",
-      "also_by": [
-        "Pierre Sautarel"
-      ]
-    },
-    {
-      "author_name": "Institut ILIADE",
-      "published_at": "2026-11-07 09:16",
-      "text": "[Retweet de @remi_soulie] Après les trois volumineux Dictionnaires du conservatisme, du progressisme et des populismes, le Dictionnaire de la nation vient de paraître aux Éditions du Cerf. J’ai eu la joie d’y collaborer et de rédiger les entrées « Exil », « Philia », « Universalisme »."
-    },
-    {
-      "author_name": "Aldo Sterone",
-      "published_at": "2026-11-07 09:18",
-      "text": "Nayib Bukele, le président du Salvador, a nettoyé les gangs dans son pays. Comme il n'en trouve plus au Salvador, il a lancé une opération à Haiti. Ce matin, beaucoup de grands criminels haïtiens sont déjà morts. \n\nIl demande des coordonnées sur X pour des frappes. \n\nSa tournée"
-    },
-    {
-      "author_name": "Institut ILIADE",
-      "published_at": "2026-11-07 09:18",
-      "text": "🇩🇪 L'Institut Iliade est présent de nouveau cette année au salon du livre alternatif SeitenWechsel en Allemagne de l'est. \n\n📚L'occasion d'avoir des échanges fructueux avec de nombreux auteurs et éditeurs allemands et européens. \n\nhttps://www.messe-seitenwechsel.de/",
-      "also_by": [
-        "Jean-Yves Le Gallou"
-      ]
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-07 09:20",
-      "text": "Crise bancaire au Paraguay : Pedro Alliana investi président après la destitution de Santiago Peña https://ow.ly/9HPw106I4PA"
-    },
-    {
-      "author_name": "Ni Oubli Ni Pardon",
-      "published_at": "2026-11-07 09:21",
-      "text": "07/2023 Le rappeur et acteur Ice Cube a refusé un rôle à cause de l’obligation vaccinale, qui lui aurait rapporté 9 millions de dollars en 2021 : « Pour moi, c'était un médicament expérimental et ils n'avaient pas eu le temps de voir les effets à long terme. Comme la plupart des"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-07 09:22",
-      "text": "D'après Julien Odoul, le gouvernement refuse de rétablir l'ordre et se montre impuissant face aux manifestations violentes dans #HDProsWE : «Le gouvernement banalise des scènes hallucinantes, nous sommes en état de siège»\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Jean-Yves Le Gallou",
-      "published_at": "2026-11-07 09:24",
-      "text": "[Retweet de @CordierAlice2] Je serai cet aprèm avec @MartinSellner_ activiste identitaire, exclu de la France car il comptait tenir une conférence.\n\nOn vit dans un monde où des violeurs entrent et sont pris en charge par des asso subventionnées, mais où un militant européen voit une OQTF appliquée dès qu’il",
-      "also_by": [
-        "Damien Rieu"
-      ]
-    },
-    {
-      "author_name": "Jean-Yves Le Gallou",
-      "published_at": "2026-11-07 09:26",
-      "text": "[Retweet de @grm_off] Même ceux qui prétendent avoir compris la révolution de l'intelligence artificielle semblent parfois raisonner avec deux ans de retard.\n\nDavid Lisnard veut former les jeunes \"à la maîtrise du prompt, à l'orchestration des IA\".\n\nLe prompting, c'était le grand sujet de 2023."
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-07 09:27",
-      "text": "Son édito complet ➡️ https://mrf.lu/2_j3H"
-    },
-    {
-      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
-      "published_at": "2026-11-07 09:27",
-      "text": "La mauvaise langue pense bête.\n(Sur une écoute de “Répliques”)"
-    },
-    {
-      "author_name": "Jean-Yves Le Gallou",
-      "published_at": "2026-11-07 09:28",
-      "text": "[Retweet de @LaurentObertone] Sous Staline, les ouvrages jugés antisoviétiques étaient systématiquement retirés des bibliothèques et détruits. Toutes les maisons d'édition appartenaient à l'État, et un organisme officiel devait approuver chaque manuscrit avant impression."
-    },
-    {
-      "author_name": "Gilbert Collard",
-      "published_at": "2026-11-07 09:29",
-      "text": "S’il le pouvait, le petit Fogiel mettrait en garde à vue médiatique le procureur pour lui faire dire que le tueur de Trappes avait des liens avec le RN, ce qu’il ne veut pas dire..."
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-07 09:30",
-      "text": "Scandale du périscolaire à Paris : des emplois du temps d'animateurs accusés auraient été trafiqués https://ow.ly/qxuA106I4PH"
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-07 09:30",
-      "text": "Jordan Bardella accuse LFI de «tentation totalitaire» en souhaitant «fermer» CNews → https://l.lefigaro.fr/9Rhw"
-    },
-    {
-      "author_name": "Sénat",
-      "published_at": "2026-11-07 09:30",
-      "text": "“Éduquons nos garçons pour qu’ils ne deviennent pas des agresseurs.”\n\n🎥Comment lutter contre la diffusion des discours masculinistes ? Le comédien @BrunoSolo a reçu le Prix de la délégation aux droits des femmes (@verienparent) pour son engagement dans la lutte contre les"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-07 09:31",
-      "text": "Le cabaret ouvre ses portes le 19 novembre, en Corrèze ➡️https://mrf.lu/2_jSc"
-    },
-    {
-      "author_name": "L'Express",
-      "published_at": "2026-11-07 09:33",
-      "text": "Deux jeunes entreprises européennes affirment avoir réduit les anomalies chromosomiques des ovocytes, principale cause de l’effondrement de la fertilité après 35 ans. Une promesse spectaculaire...\n\n➡️ https://l.lexpress.fr/rO4"
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-08 09:12",
+      "text": "🕊️ Comment parvenir à une paix mondiale ? #GrandMatinWeekEnd\n\n🗣️ @FraPiquemal : \"Nous devons renouer avec une politique de non-alignement. Aujourd'hui, je crois plus en Lula qu'en Trump\"\n\n📻https://sudradio.fr\n☎️0 826 300 300"
     },
     {
       "author_name": "Dreuz",
-      "published_at": "2026-11-07 09:34",
-      "text": "Que signifie la fête du Christ-Roi https://www.dreuz.com/2026/11/que-signifie-la-fete-du-christ-roi-333505.html"
+      "published_at": "2026-11-08 09:14",
+      "text": "Israël : Sacrifier le sionisme pour évincer Bibi ? https://www.dreuz.com/2026/11/israel-sacrifier-le-sionisme-pour-evincer-bibi-333540.html"
+    },
+    {
+      "author_name": "Damien Rieu",
+      "published_at": "2026-11-08 09:14",
+      "text": "Le sentiment d’impunité est tel que ce MNA algérien se filme en train de taper une voiture et poste la vidéo sur son Instagram. \n\nJe vous pari qu’il ne sera jamais arrêté."
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-08 09:14",
+      "text": "Conversation privée\n➡️ https://l.leparisien.fr/Wdpu"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-08 09:15",
+      "text": "🇺🇸  Trump envisage le patron de l’UFC, Dana White, comme porte-parole de la Maison Blanche\n\nhttps://www.sudradio.fr/sport-rugby/sport/un-trump-pugnace-veut-dana-white-patron-de-federation-de-mma-comme-porte-parole-de-la-maison-blanche"
+    },
+    {
+      "author_name": "Parti National Breton | Strollad Broadel Breizh",
+      "published_at": "2026-11-08 09:16",
+      "text": "[Retweet de @RootsReturn] Breton woman."
+    },
+    {
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-08 09:18",
+      "text": "À Auch (Gers), la maison d’un policier a été détruite par un incendie. Laurent Nuñez soupçonne un acte visant sa profession ; le syndicat UN1TÉ évoque de possibles représailles après une opération antidrogue.\n\nhttps://www.fdesouche.com/2026/11/08/auch-32-maison-policier-incendie-nunez-acte-profession-7-novembre-2026/"
+    },
+    {
+      "author_name": "Tribune Populaire🌐",
+      "published_at": "2026-11-08 09:19",
+      "text": "📂🇫🇷FLASH INFO - Brest : la police fiche 4 500 lycéens grâce à leurs photos de classe !\n\nMercredi 4 novembre, des policiers en civil se sont présentés dans les vies scolaires des lycées Vauban, Lesven et La Pérouse, à Brest, sans prévenir les proviseurs selon plusieurs"
+    },
+    {
+      "author_name": "Ni Oubli Ni Pardon",
+      "published_at": "2026-11-08 09:20",
+      "text": "04/2020 Bill Gates s’entretient avec Roula Khalaf, rédactrice en chef du Financial Times : « La normalité ne reviendra à la normale que lorsque nous aurons largement vacciné l’ensemble de la population mondiale. »"
     },
     {
       "author_name": "Europe 1",
-      "published_at": "2026-11-07 09:34",
-      "text": "“Mes parents ne sont pas venus en conquérants, ni en victimes” \n“On a été sacrifié sur l’autel de l’idéologie mortifère de la gauche. Ils ont déboulonné toute l’histoire de la France” @naimamfaddel pour son livre “Le peuple sacrifié” aux éditions @Fayard"
+      "published_at": "2026-11-08 09:21",
+      "text": "« Il y a un essoufflement, mais ça va durer encore 5 mois de manifestations ou de lourdeurs sociales. Ce ne sont pas les lycées ou la mairie de Limoges qui brûlent, mais la société qui se consume. » Bernard Vivier, directeur de l’Institut supérieur du travail avec @adelaflechere"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-08 09:22",
+      "text": "🇫🇷  #Présidentielle2027 : la gauche doit-elle s'unir derrière Jean-Luc Mélenchon ?  #GrandMatinWeekEnd\n\n🗣️ Nicolas Corato : \"Poser la question, c'est déjà y répondre. Glucksmann est en train de s'effondrer et Marine Le Pen ne baisse pas\"\n\n📻https://sudradio.fr\n☎️0 826 300 300"
+    },
+    {
+      "author_name": "L'Express",
+      "published_at": "2026-11-08 09:24",
+      "text": "Quatre jours avant d'être soupçonné d'avoir écrit son livre avec l'intelligence artificielle, Thélyson Orélien est la vedette du bal du prix Méduse. Une nuit vertigineuse.\n\n➡️ https://l.lexpress.fr/yVl par @emilie_lanez https://l.lexpress.fr/yVl"
     },
     {
       "author_name": "Europe 1",
-      "published_at": "2026-11-07 09:35",
-      "text": "États-Unis : plus de 5.000 cas de rougeole recensés, une première en 35 ans https://ow.ly/WSOM106I4PU"
-    },
-    {
-      "author_name": "Institut ILIADE",
-      "published_at": "2026-11-07 09:35",
-      "text": "[Retweet de @dedriestromen] Present! @AlleNachHalle"
+      "published_at": "2026-11-08 09:26",
+      "text": "«Ils sont en train de tuer ma commune» : la colère des maires face à l'idée de réduire les dotations aux collectivités https://ow.ly/BpLJ106I7AF"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-07 09:35",
-      "text": "Guerre en Ukraine : la Russie frappe à nouveau un pont et des infrastructures énergétiques à Kiev et dans sa région\n➡️ https://l.leparisien.fr/1RL5"
+      "published_at": "2026-11-08 09:26",
+      "text": "Conversation privée\n➡️ https://l.leparisien.fr/6aNK"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-08 09:29",
+      "text": "« Les frontières poreuses entre la CGT et LFI sont apparues comme les frontières poreuses entre LFI, l’antisémitisme et les pilleurs. » Bernard Vivier, directeur de l’Institut supérieur du travail avec @adelaflechere"
+    },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-08 09:30",
+      "text": "Donald Trump propose le poste de porte-parole de la Maison Blanche à Dana White, patron d'une fédération de MMA → https://l.lefigaro.fr/oJfH"
+    },
+    {
+      "author_name": "Sénat",
+      "published_at": "2026-11-08 09:31",
+      "text": "🔨Une charpente et une couverture sur mesure pour le dôme Tournon\n\nAprès quelques mois de travaux, le dôme Tournon a retrouvé une nouvelle charpente, réalisée sur place et sur mesure. Les artisans ont également taillé et posé à la main les ardoises qui recouvrent le dôme, et les"
+    },
+    {
+      "author_name": "Aldo Sterone",
+      "published_at": "2026-11-08 09:31",
+      "text": "En Inde, le train est le prédateur naturel de l'humain. Les scientifiques cherchent à comprendre."
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-07 09:36",
-      "text": "D'après Stanislas Gaudon, les manifestations vont à la dérive à cause de la violence venant de la part des émeutiers dans #HDProsWE : «On est dans l'émeute urbaine qui se veut révolutionnaire»\n\nToute l'info est à retrouver sur https://cnews.fr"
+      "published_at": "2026-11-08 09:31",
+      "text": "Mathias Leboeuf réagit aux propos du petit Marcel, 8 ans, qui a insulté Emmanuel Macron dans #HDPros : «Ça montre à quel point les enfants sont exposés à la violence du monde» \n\nToute l'info est à retrouver sur https://cnews.fr"
     },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-08 09:31",
+      "text": "Après «Star Academy», l’entourage d’Élodie Frégé donne de ses nouvelles\n➡️ https://l.leparisien.fr/LeKO"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-08 09:32",
+      "text": "29 points en 24 minutes, 7 rebonds et 9 tirs réussis sur 13 : Victor Wembanyama a encore frappé. Les Spurs dominent Portland (125-103) et enchaînent une 8e victoire. ➡️ https://mrf.lu/2__zF"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-08 09:33",
+      "text": "«Marcel aujourd'hui, Hamza \"La Douane\" hier, notre jeunesse a du talent» : l'édito d'Eliot Deval, ce dimanche sur CNEWS. ➡️ https://mrf.lu/2__h5"
+    },
+    {
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-08 09:33",
+      "text": "Kemi Badenoch raconte avoir vu, enfant au Nigeria, une foule battre un homme à mort après une tentative de vol. La cheffe des conservateurs britanniques explique à The Independent comment cette scène a façonné sa priorité donnée à la sécurité.\n\nhttps://www.fdesouche.com/?p=1964814"
+    },
+    {
+      "author_name": "Tribune Populaire🌐",
+      "published_at": "2026-11-08 09:33",
+      "text": "Cela fait pas mal d’années que je sensibilise à la surveillance de masse, et avec cette info, une nouvelle étape vient d’être franchie dans le domaine..\n[Cite @TribunePop23] 📂🇫🇷FLASH INFO - Brest : la police fiche 4 500 lycéens grâce à leurs photos de classe !\n\nMercredi 4 novembre, des policiers en civil se sont présentés dans les vies scolaires des lycées Vauban, Lesven et La Pérouse, à Brest, sans prévenir les proviseurs selon plusieurs"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-08 09:34",
+      "text": "🇫🇷 #Présidentielle2027 : la gauche doit-elle s'unir derrière Jean-Luc Mélenchon ?  #GrandMatinWeekEnd\n\n🗣️ @hocque_matthieu : \"C'est le seul candidat à gauche qui amène des idées nouvelles. Personne d'autre à gauche ne peut enclencher une dynamique de vote utile\""
+    },
+    {
+      "author_name": "Eric Ciotti",
+      "published_at": "2026-11-08 09:35",
+      "text": "42,195 km, 25 000 coureurs, 113 nations et la plus belle ligne de départ du monde : la Promenade des Anglais.\n\nBravo à tous les participants du marathon Nice-Cannes, et merci aux bénévoles et aux équipes mobilisées. Allez, on lâche rien jusqu'à la Croisette !"
+    },
+    {
+      "author_name": "Le Média en 4⃣-4⃣-2⃣",
+      "published_at": "2026-11-08 09:35",
+      "text": "SMIC à 1 700 euros : le gouvernement annonce déjà 230 000 emplois sacrifiés \nhttps://lemediaen442.fr/smic-a-1-700-euros-le-gouvernement-annonce-deja-230-000-emplois-sacrifies/ \n\nÀ Matignon, les négociations salariales n'ont pas encore commencé que Jean-Pierre Farandou a déjà sorti sa calculette. \n\nD'après le ministre du Travail, porter le SMIC à 1 700"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-08 09:35",
+      "text": "Quarante-trois ans après son assassinat, le prêtre guatémaltèque Augusto Ramírez a été béatifié. Il avait été torturé pour avoir refusé de révéler la confession d’un guérillero. ➡️ https://mrf.lu/2__m5"
+    }
+  ],
+  "context": [
     {
       "author_name": "Bruno Attal",
       "published_at": "2026-11-07 09:37",
@@ -2401,6 +2301,11 @@
       "author_name": "Europe 1",
       "published_at": "2026-11-07 09:40",
       "text": "\"Il faut remettre au centre la France, les français, l’histoire de France. L’assimilation n’est pas un gros mot !\" \n@naimamfaddel pour son livre “Le peuple sacrifié” aux éditions @Fayard avec @adelaflechere"
+    },
+    {
+      "author_name": "Rassemblement National",
+      "published_at": "2026-11-07 09:40",
+      "text": "[Retweet de @MLP_officiel] Le programme de La France insoumise n’est pas un projet pour redresser le pays. C’est un projet de démantèlement de la France. Il pousse jusqu’à son terme la logique de déconstruction engagée par Emmanuel Macron depuis son arrivée au pouvoir.\n\nRétablissement du droit du sol"
     },
     {
       "author_name": "Jon De Lorraine",
@@ -2759,6 +2664,11 @@
       "text": "Ah il veut s’auto-censurer alors ?…\n[Cite @TVMAG] «Des médecins qui sont complètement dingues et qui disent n'importe quoi sur les réseaux» : Michel Cymes dénonce la désinformation en ligne #BuzzTV"
     },
     {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-07 10:29",
+      "text": "[Retweet de @DENTDOURS1] https://les-patriotes.fr\n🇫🇷🇫🇷🇫🇷🇫🇷🇫🇷🇫🇷🇫🇷🇫🇷🇫🇷🇫🇷🇫🇷🇫🇷🇫🇷🇫🇷"
+    },
+    {
       "author_name": "Le Parisien",
       "published_at": "2026-11-07 10:29",
       "text": "« Quelque chose cloche dans ma tête » : plongée dans une Maison des adolescents, où les jeunes se reconstruisent\n➡️ https://l.leparisien.fr/dY6g"
@@ -2990,6 +2900,11 @@
       "author_name": "Observatoire du journalisme (Ojim)",
       "published_at": "2026-11-07 11:03",
       "text": "[Retweet de @ojim_france] 🔴Charles Alloncle ALERTE sur les dérives liberticides de la gauche : \"Aujourd'hui CNews, demain BFMTV, après-demain TF1. AUCUN média n'échappera à cette gauche qui, INCAPABLE de gagner la bataille des idées, tente d'imposer son idéologie par la censure.\" (Le Figaro)"
+    },
+    {
+      "author_name": "Jean-Yves Le Gallou",
+      "published_at": "2026-11-07 11:04",
+      "text": "[Retweet de @InstitutILIADE] 🇩🇪 L'Institut Iliade est présent de nouveau cette année au salon du livre alternatif SeitenWechsel en Allemagne de l'est. \n\n📚L'occasion d'avoir des échanges fructueux avec de nombreux auteurs et éditeurs allemands et européens. \n\nhttps://www.messe-seitenwechsel.de/"
     },
     {
       "author_name": "Europe 1",
@@ -3271,6 +3186,11 @@
       "author_name": "Le JDD",
       "published_at": "2026-11-07 11:53",
       "text": "Marseille : une greffière et compagne d'un trafiquant condamnée pour avoir fouillé des fichiers judiciaires https://ow.ly/37w2106I4Ts"
+    },
+    {
+      "author_name": "Damien Rieu",
+      "published_at": "2026-11-07 11:54",
+      "text": "[Retweet de @CordierAlice2] Je serai cet aprèm avec @MartinSellner_ activiste identitaire, exclu de la France car il comptait tenir une conférence.\n\nOn vit dans un monde où des violeurs entrent et sont pris en charge par des asso subventionnées, mais où un militant européen voit une OQTF appliquée dès qu’il"
     },
     {
       "author_name": "Régis Le Sommier",
@@ -5012,6 +4932,11 @@
       "text": "Pourquoi le drapeau Français est esquinté ????\n(Vidéo @lola_baille)"
     },
     {
+      "author_name": "Pierre Sautarel",
+      "published_at": "2026-11-07 16:00",
+      "text": "[Retweet de @marc_vanguard] 🔴 Je viens de voir que le blog de gauche radicale \"Blast\" m'a consacré un portrait.\n\nExtraits choisis 👇\n\n\"Marc Vanguard n’a pas d’émotion : il publie des chiffres bruts, froids.\n\nIl n’a pas de style, pas d’humour, ne s’énerve jamais. Il n’est que la raison froide,"
+    },
+    {
       "author_name": "Tocsin",
       "published_at": "2026-11-07 16:00",
       "text": "« Il y en a qui font chou blanc, lui il a fait chouchen. Ce n'est plus Pierre-Yves, c'est Pierrot ! » \n\n« Je pense que c’est une tentative de séduire la droite ! »\n\n@chicandier, Mathou Cann et le JTTTV analysent en profondeur la séquence exceptionnelle du député LFI @pycadalen,"
@@ -5275,6 +5200,11 @@
       "author_name": "CNEWS",
       "published_at": "2026-11-07 16:33",
       "text": "À Bordeaux, les forces de l'ordre prises à partie\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Jean-Yves Le Gallou",
+      "published_at": "2026-11-07 16:33",
+      "text": "[Retweet de @cfdownes_] It is the honour of my life to be standing as Restore Britain's parliamentary candidate for Sittingbourne and Sheppey.\n\nThese towns were once at the heart of the British Empire. Under the leadership of Restore Britain, that greatness and prosperity will return."
     },
     {
       "author_name": "Fdesouche.com est une revue de presse",
