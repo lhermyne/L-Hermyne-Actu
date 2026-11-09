@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-09 05:45",
-  "period": "du 2026-11-08 05:45 au 2026-11-09 05:45",
-  "new_period": "du 2026-11-08 20:00 au 2026-11-09 05:45",
-  "context_period": "du 2026-11-08 05:45 au 2026-11-08 20:00",
+  "generated_at": "2026-11-09 06:16",
+  "period": "du 2026-11-08 06:16 au 2026-11-09 06:16",
+  "new_period": "du 2026-11-08 20:00 au 2026-11-09 06:16",
+  "context_period": "du 2026-11-08 06:16 au 2026-11-08 20:00",
   "coverage_complete": true,
-  "new_count": 250,
-  "context_count": 893,
-  "duplicates_merged": 58,
+  "new_count": 267,
+  "context_count": 885,
+  "duplicates_merged": 59,
   "empty_removed": 3,
   "new": [
     {
@@ -1299,56 +1299,107 @@
       "author_name": "Le Parisien",
       "published_at": "2026-11-09 05:30",
       "text": "Présidentielle 2027 : Le Pen et Mélenchon toujours favoris, Philippe et Glucksmann en baisse, affirme un nouveau sondage https://l.leparisien.fr/bOhN"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-09 05:48",
+      "text": "Localisé grâce aux États-Unis, le Mexique arrête « R2 », le responsable d’une branche du cartel Jalisco Nueva Generacion\n➡️ https://l.leparisien.fr/OsbY",
+      "also_by": [
+        "Le Parisien | politique"
+      ]
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-09 05:48",
+      "text": "⚖️ L'ancien maire de Toulon Hubert Falco renvoyé devant la justice pour détournement de fonds publics\n\nhttps://www.sudradio.fr/societe/lex-maire-de-toulon-hubert-falco-juge-en-decembre-pour-detournement-de-fonds-publics"
+    },
+    {
+      "author_name": "Ni Oubli Ni Pardon",
+      "published_at": "2026-11-09 05:50",
+      "text": "08/2021 La préfecture du Haut-Rhin (Louis Laugier, Préfet du Haut-Rhin de 2020-2023) avait prévenu : il y aurait des contrôles dès le premier jour de mise en application du pass sanitaire pour les restaurants et bars, dès le 9 août.\n\nhttps://www.lalsace.fr/sante/2021/08/09/premiers-controles-en-terrasses-a-mulhouse"
+    },
+    {
+      "author_name": "Marc Vanguard",
+      "published_at": "2026-11-09 05:59",
+      "text": "🔴 ALERTE INFO : Édouard Philippe S'EFFONDRE dans le dernier sondage Harris.\n\n👉 Marine Le Pen a 16 pts d'avance sur lui au 2d tour !\n\n👉 Il est de toute manière distancé par MLP et JLM dès le 1er tour.\n\nPeut-il continuer sa campagne comme si de rien n'était ?"
+    },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-09 06:00",
+      "text": "«Bloquer une autoroute pendant neuf mois, il n’y a qu’en France que l’on voit cela !» : à Marnes-la-Coquette, la fermeture de l’A13 coupe la commune en deux. \nhttps://l.lefigaro.fr/5Okr"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-09 06:01",
+      "text": "📰 La une du Parisien du 9 novembre\n\n➡️ https://l.leparisien.fr/43AS"
+    },
+    {
+      "author_name": "Causeur.fr",
+      "published_at": "2026-11-09 06:02",
+      "text": "Pour des quotas dans les prix littéraires: le dernier projet féministe \n\nhttps://www.causeur.fr/pour-des-quotas-dans-les-prix-litteraires-le-dernier-projet-feministe-336908"
+    },
+    {
+      "author_name": "Régis Le Sommier",
+      "published_at": "2026-11-09 06:05",
+      "text": "[Retweet de @MarioNawfal] 🚨🇺🇸 🇮🇷 Vance tried to stop the Iran war before it began by using data: in January he had a pollster test how many dead Americans the public would accept... the answer was under 100\n\nThe Journal has the texts. As Trump weighed the operation, the vice president, the one voice in"
+    },
+    {
+      "author_name": "Le JDD",
+      "published_at": "2026-11-09 06:06",
+      "text": "Ingérences étrangères : comment nos fractures deviennent des armes contre la France https://ow.ly/S16j106I9qT"
+    },
+    {
+      "author_name": "Le JDD",
+      "published_at": "2026-11-09 06:06",
+      "text": "Éducation : «Le rôle des parents n’est pas d’être les copains de leurs enfants» https://ow.ly/PgRk106I9qU"
+    },
+    {
+      "author_name": "Aldo Sterone",
+      "published_at": "2026-11-09 06:10",
+      "text": "La dernière chose que tu vois avant de révéler des secrets industriels aux espions chinois"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-09 06:11",
+      "text": "La question du jour : Insécurité, inflation, perte des valeurs… Êtes-vous inquiet pour l'avenir de la France ? Votez ici ➡️ https://mrf.lu/2YNJW"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-09 06:13",
+      "text": "11-Novembre : refusant une glorification de la guerre, des enseignants appellent à boycotter les commémorations https://ow.ly/xp14106I9xr"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-09 06:14",
+      "text": "« Il n’y a pas de discrimination en France » : à la télé américaine, Marine Le Pen étonne par sa vision de la société française https://l.leparisien.fr/38ZQ",
+      "also_by": [
+        "Le Parisien | politique"
+      ]
+    },
+    {
+      "author_name": "Régis Le Sommier",
+      "published_at": "2026-11-09 06:14",
+      "text": "Entre temps, il y a eu 2014 et le Maidan.  C’est là que la situation a changé pour le Donbass. \nVous le savez en plus  @GuillaumeAuda\n[Cite @GuillaumeAuda] “Les droits de population du Donbass, qui a le droit de savoir si elle veut être ukrainienne ou russe, si la Q° est posée d'un accord entre les 2 nations” proclame Mélenchon. \n\nEn 1991, les régions de Donestk et Louhansk avaient approuvé à ≈ 84% ... l'indépendance de l'Ukraine."
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-09 06:15",
+      "text": "❓Combien faut-il gagner pour vivre décemment en France ?\n\n📻 Vos réactions seront reprises dans le #GrandMatin de 7h à 10h avec Benjamin Glaise"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-09 06:15",
+      "text": "Le capitaine Marc Rollang revient sur le blocage de la circulation par un cortège de mariage. #LaMatinale\n\nToute l'info est à retrouver sur https://cnews.fr"
     }
   ],
   "context": [
     {
-      "author_name": "Le JDD",
-      "published_at": "2026-11-08 05:50",
-      "text": "De CNews à TF1, comment Mélenchon et LFI intensifient leur guerre contre les médias https://ow.ly/RckQ106I6BP"
-    },
-    {
-      "author_name": "Causeur.fr",
-      "published_at": "2026-11-08 06:00",
-      "text": "\"« J’espère qu’il y aura un Nuremberg climatique », a déclaré Dominique Bourg sur France Culture le 29 septembre...\"\n\nhttps://www.causeur.fr/dominique-bourg-france-culture-pollueurs-des-nazis-comme-tout-le-monde-336847"
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-08 06:00",
-      "text": "Héritage des baby-boomers : ces villes où le choc démographique va faire chuter les prix immobiliers → https://l.lefigaro.fr/WnJl\nhttps://l.lefigaro.fr/WnJl"
-    },
-    {
-      "author_name": "Le JDD",
-      "published_at": "2026-11-08 06:01",
-      "text": "Michel Barnier au JDD : «Je plaide pour une primaire ouverte, populaire, la plus large possible» https://ow.ly/huZ3106I6Ch"
-    },
-    {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-08 06:05",
-      "text": "📰 La une du Parisien du 8 novembre\n\n➡️ https://l.leparisien.fr/kKrr"
-    },
-    {
-      "author_name": "Bruno Attal",
-      "published_at": "2026-11-08 06:06",
-      "text": "Bravo la BAC de Marseille que Melenchon veut dissoudre.\n\ninfiltrer la racaille islamogauchiste puis l’interpeller !\n\n#7novembre"
-    },
-    {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-08 06:07",
-      "text": "« Le sujet c’est lui, mais il n’arrive pas à le reconnaître » : Macron, l’autodéfense inaudible du président https://l.leparisien.fr/Fnvs",
+      "published_at": "2026-11-08 06:21",
+      "text": "« Le sujet c’est lui, mais il n’arrive pas à le reconnaître » : Macron, l’autodéfense inaudible du président https://l.leparisien.fr/ZkMl",
       "also_by": [
-        "Le Parisien"
+        "Le Parisien | politique"
       ]
-    },
-    {
-      "author_name": "Ni Oubli Ni Pardon",
-      "published_at": "2026-11-08 06:11",
-      "text": "02/2023 Le chanteur Charlie Puth recruté par Big Pharma. Pfizer a fait appel à une autre célébrité pour promouvoir son vaccin COVID en déclin. #SpécialUS🇺🇸"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-08 06:12",
-      "text": "Et si on retournait au cirque ?  \n➡️ Écoutez La pop culture avec Mathieu Alterman sur #Europe1 #Europe1Matin"
     },
     {
       "author_name": "Sud Radio",
