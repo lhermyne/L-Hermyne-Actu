@@ -1,15 +1,15 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-09 22:53",
-  "period": "du 2026-11-08 22:53 au 2026-11-09 22:53",
-  "new_period": "du 2026-11-09 20:00 au 2026-11-09 22:53",
-  "context_period": "du 2026-11-08 22:53 au 2026-11-09 20:00",
+  "generated_at": "2026-11-09 23:23",
+  "period": "du 2026-11-08 23:23 au 2026-11-09 23:23",
+  "new_period": "du 2026-11-09 20:00 au 2026-11-09 23:23",
+  "context_period": "du 2026-11-08 23:23 au 2026-11-09 20:00",
   "coverage_complete": true,
-  "new_count": 220,
-  "context_count": 1446,
-  "duplicates_merged": 102,
-  "empty_removed": 7,
+  "new_count": 249,
+  "context_count": 1430,
+  "duplicates_merged": 103,
+  "empty_removed": 8,
   "new": [
     {
       "author_name": "Sud Radio",
@@ -630,7 +630,10 @@
     {
       "author_name": "Le Parisien",
       "published_at": "2026-11-09 21:26",
-      "text": "Guerre en Ukraine : « Les Ukrainiens ont déjà voté », Kiev répond sèchement aux propos de Jean-Luc Mélenchon sur le Donbass\n➡️ https://l.leparisien.fr/8mTk"
+      "text": "Guerre en Ukraine : « Les Ukrainiens ont déjà voté », Kiev répond sèchement aux propos de Jean-Luc Mélenchon sur le Donbass\n➡️ https://l.leparisien.fr/8mTk",
+      "also_by": [
+        "Le Parisien | politique"
+      ]
     },
     {
       "author_name": "Bouli ☃️",
@@ -665,7 +668,10 @@
     {
       "author_name": "Fdesouche.com est une revue de presse",
       "published_at": "2026-11-09 21:30",
-      "text": "Armé d’un pistolet non létal chargé, un homme de 29 ans a visé un enfant de sept ans sur une aire de jeux du quartier Balichon. Le tribunal de Bayonne l’a condamné à un an ferme. \n https://www.fdesouche.com/2026/11/09/bayonne-pistolet-enfant-sept-ans-recidiviste-un-an-prison/"
+      "text": "Armé d’un pistolet non létal chargé, un homme de 29 ans a visé un enfant de sept ans sur une aire de jeux du quartier Balichon. Le tribunal de Bayonne l’a condamné à un an ferme. \n https://www.fdesouche.com/2026/11/09/bayonne-pistolet-enfant-sept-ans-recidiviste-un-an-prison/",
+      "also_by": [
+        "Pierre Sautarel"
+      ]
     },
     {
       "author_name": "Comité Trump France",
@@ -695,7 +701,10 @@
     {
       "author_name": "Polémia",
       "published_at": "2026-11-09 21:35",
-      "text": "🇧🇪 La Chambre belge a adopté le 6 novembre une loi qui permet à la police d’entrer dans un domicile privé pour arrêter un étranger sous ordre de quitter le territoire.\n\nLe texte, porté par la ministre de l’Asile et de la Migration Anneleen Van Bossuyt (N-VA), a été voté après un"
+      "text": "🇧🇪 La Chambre belge a adopté le 6 novembre une loi qui permet à la police d’entrer dans un domicile privé pour arrêter un étranger sous ordre de quitter le territoire.\n\nLe texte, porté par la ministre de l’Asile et de la Migration Anneleen Van Bossuyt (N-VA), a été voté après un",
+      "also_by": [
+        "Jean-Yves Le Gallou"
+      ]
     },
     {
       "author_name": "LCP",
@@ -1119,97 +1128,154 @@
       "author_name": "CNEWS",
       "published_at": "2026-11-09 22:52",
       "text": "Jules Torres, journaliste du JDD, sur le dernier discours de Jean-Luc Mélenchon : «Jean-Luc Mélenchon veut restreindre toutes les libertés et souiller toutes les institutions», dans #100Politique\n\nToute l'info est à retrouver sur https://cnews.fr"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-08 22:54",
-      "text": "🏍 Bezzecchi prend sa revanche au Qatar\nhttps://www.sudradio.fr/sport-rugby/sport/motogp-bezzecchi-prend-sa-revanche-au-qatar-marquez-tout-proche-du-titre"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-08 22:58",
-      "text": "États-Unis : Donald Trump reconnaît une politique d’expulsions d’immigrés « trop dure »\n➡️ https://l.leparisien.fr/MPCa",
-      "also_by": [
-        "Le Parisien | politique"
-      ]
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-08 22:59",
-      "text": "Un vaste coup de filet. ➡️ https://mrf.lu/2_KN9"
-    },
-    {
-      "author_name": "Causeur.fr",
-      "published_at": "2026-11-08 23:00",
-      "text": "Pollueurs: des nazis comme tout le monde? @causeur https://www.causeur.fr/dominique-bourg-france-culture-pollueurs-des-nazis-comme-tout-le-monde-336847"
     },
     {
       "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-08 23:00",
-      "text": "Près de la moitié du personnel de Paul-Éluard a voté une grève reconductible. Le maire LFI Bally Bagayoko juge « quasi irresponsable » l’intervention policière du 15 octobre. \n https://www.fdesouche.com/2026/11/08/saint-denis-lycee-paul-eluard-proviseur-police-greve/"
+      "published_at": "2026-11-09 22:53",
+      "text": "David Lisnard embarrassé par ses élus ? À Alençon, une maire de Nouvelle Énergie défend La Cimade ; à Agde, un élu du mouvement accusé de s'associer aux communistes contre le RN\n\nhttps://www.fdesouche.com/2026/11/09/david-lisnard-nouvelle-energie-alencon-cimade-agde-communistes-rn/"
     },
     {
-      "author_name": "Frontières",
-      "published_at": "2026-11-08 23:00",
-      "text": "🚨 ALERTE - Louise Montangon RÉVÈLE que seulement 2 INDIVIDUS qui la MENACENT de MORT ont été RETROUVÉS, sur des dizaines d’appels anonymes reçus depuis 3 semaines."
+      "author_name": "CourrierDesStratèges",
+      "published_at": "2026-11-09 22:55",
+      "text": "🔴Cinq semaines de cortèges, des lycées bloqués, des mairies incendiées, près de 600 000 manifestants le 5 novembre selon l'Intérieur. Le 9/11, Matignon a trouvé la réponse : 24 € nets de plus sur le Smic au 1er décembre ... Payés par les employeurs ❗️\nhttps://www.lecourrierdesstrateges.fr/lecornu-met-le-pays-dans-la-rue-et-le-fait-payer-aux-patrons/"
     },
     {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-08 23:00",
-      "text": "«Nous n’avions jamais connu d’actes de terrorisme aussi brutaux» : la Pologne sous le choc après une fusillade meurtrière à Cracovie. \nhttps://l.lefigaro.fr/c2ub"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-08 23:01",
-      "text": "«Il y a un permis de lyncher les militants de droite dans ce pays», lance Jules Torres, journaliste, dans #100PolitiqueDimanche\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Alain Weber",
-      "published_at": "2026-11-08 23:03",
-      "text": "Menaces de mort : où est la volonté de l’État ?\n\nLouise Montangon et sa famille recevraient des dizaines de menaces de mort. Et que fait l’État ?\n\nIdentifier les auteurs de menaces sur Internet n’est pas toujours simple, mais beaucoup laissent des traces numériques, même derrière"
-    },
-    {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-08 23:06",
-      "text": "À Trudaine, des riverains interrogent Emmanuel Grégoire sur la sécurité, les nuisances et l’absence d’information autour du futur centre de 334 places.\n\nhttps://www.fdesouche.com/2026/11/08/paris-75-900000-euros-centre-hebergement-urgence-334-places-avenue-trudaine/"
-    },
-    {
-      "author_name": "Frontières",
-      "published_at": "2026-11-08 23:10",
-      "text": "« J’avais peur de sortir dans la rue. Je m’habillais en jogging avec des lunettes de soleil pour aller au travail. On m’a menacé de m’égorger et de me violer »\n\n👉 Louise Montangon revient sur les MENACES de MORT qu’elle reçoit."
-    },
-    {
-      "author_name": "La Cocarde Étudiante",
-      "published_at": "2026-11-08 23:13",
-      "text": "[Retweet de @luc_lhl] 🏛️ L’Université traverse une crise profonde. Elle ne remplit plus sa mission première : transmettre les savoirs, former les esprits et viser l’excellence.\n\nIl est urgent de repenser notre modèle universitaire en profondeur !\n\nBravo la @CocardeEtud pour ce colloque."
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-08 23:14",
-      "text": "C’est un clash qui a de quoi surprendre 😅\n\nRécemment, Orelsan s'est moqué des «fachos» qui «veulent manger du porc et chanter du Sardou». Une sortie à laquelle a répondu sans fard le chanteur français de bientôt 80 ans... \n\nAmbiance \n\n➡️ https://l.leparisien.fr/yI8j"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-08 23:14",
-      "text": "«Le petit Marcel est révélateur du niveau de la gauche et de l'extrême gauche», exprime Maxime Thiébaut, avocat, dans #100PolitiqueDimanche\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "François Asselineau 🇫🇷",
-      "published_at": "2026-11-08 23:20",
-      "text": "📺 📈  𝟮𝟬𝟬.𝟬𝟬𝟬 𝘃𝘂𝗲𝘀 𝘀𝘂𝗿 𝗢𝗠𝗘𝗥𝗧𝗔\npour mon émission avec Régis Le Sommier sur l’état de la France, la situation internationale, et les perspectives à 6 mois de l’élection présidentielle.\n-----\n⚠️ L'émission est en ligne ⤵️\nhttps://youtu.be/J_uKxY5ghtY?is=PbFRLooZQQ1bfOra\n-----"
+      "author_name": "Le Point",
+      "published_at": "2026-11-09 22:56",
+      "text": "En 1938, le réalisateur signe un film d’une grande noirceur, avec Jean Gabin en déserteur qui s’éprend d’une gamine de 17 ans (Michèle Morgan). Il racontera son tournage avec une drôlerie féroce. À (re)voir le 11 novembre sur Arte.\n➡️ https://l.lepoint.fr/mke"
     },
     {
       "author_name": "Le Crapaud",
-      "published_at": "2026-11-08 23:20",
-      "text": "Les médias français sont très silencieux sur l'attentat de Cracovie. Cela veut donc dire que le tueur n'était pas d'extrême droite. \nCroyez-moi, les médias de mon pays ne passent jamais à côté d'une occasion d'accuser la droite."
+      "published_at": "2026-11-09 22:56",
+      "text": "[Retweet de @elonmusk] @Le_Crapaud47 😂"
     },
     {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-08 23:22",
-      "text": "⛵ Thomas Coville prend la deuxième place de la Route du Rhum https://www.sudradio.fr/sport-rugby/sport/route-du-rhum-avec-un-bateau-diminue-coville-deuxieme-a-pointe-a-pitre"
+      "author_name": "Tribune Populaire🌐",
+      "published_at": "2026-11-09 22:59",
+      "text": "📂🇫🇷 ANALYSE (suite) – Teddy Riner, le visage du gouvernement technique ?\n\nQuatrième étape : le visage. Ce lundi 9 novembre, Teddy Riner s’est déclaré candidat à l’élection présidentielle de 2027. Il se dit candidat de l’unité, ni de gauche ni de droite, et ne veut pas d’un\n[Cite @TribunePop23] 📂🇫🇷 ANALYSE – Comment les médias vont lancer une grande campagne de propagande pour installer un « gouvernement technique » à la tête de l’État\n\nPremière étape : d’ici l’élection présidentielle de 2027, un événement économique fournira tous les éléments pour imposer l’idée qu’il"
     },
+    {
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-09 23:00",
+      "text": "Après la nomination de Geoffroy Roux de Bézieux à la tête d’Alpes 2030, L’Équipe s’interroge sur l’âge, le sexe et l’origine des dirigeants sportifs français. \n https://www.fdesouche.com/2026/11/09/jo-2030-lequipe-hommes-blancs-50-ans-dirigeants-sport-francais/"
+    },
+    {
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-09 23:00",
+      "text": "Un détenu de Poitiers-Vivonne condamné à six ans à Guéret : il dirigeait un trafic de stupéfiants depuis sa cellule, avec des collégiens parmi les clients. \n https://www.fdesouche.com/2026/11/09/gueret-trafic-drogue-dirige-depuis-cellule-collegiens-six-ans-prison/"
+    },
+    {
+      "author_name": "Causeur.fr",
+      "published_at": "2026-11-09 23:00",
+      "text": "Un collectif de deux cents écrivaines, explique Libé, toujours à la pointe des combats ubuesques célébrant la nullité au nom de l’égalitarisme, « exprime sa colère face au palmarès masculin de 2026. Une invisibilisation qui a des conséquences concrètes sur la création et sur la"
+    },
+    {
+      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
+      "published_at": "2026-11-09 23:00",
+      "text": "[Retweet de @Mikacro1543] L'homme dont on devait taire le nom | Très bel entretien de @RenaudCamus  face à son siècle par @LesBraves_  Je ne suis pas d'accord avec tout probablement de petites différences de positionnement ainsi que de génération mais à écouter https://youtu.be/z31Mw0Y-pSo?si=SmKuCH6B8B-n2PbF via @YouTube"
+    },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-09 23:00",
+      "text": "Les rumeurs la disaient sur le départ.→https://l.lefigaro.fr/A1bF"
+    },
+    {
+      "author_name": "Causeur.fr",
+      "published_at": "2026-11-09 23:00",
+      "text": "Le Tegnér de la guerre @causeur https://www.causeur.fr/entretien-erik-tegner-frontieres-causeur-336656"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-09 23:01",
+      "text": "Guerre au Moyen-Orient : Donald Trump  dit voir «un élan positif» vers un accord avec l'Iran après avoir rencontré le Premier ministre du Qatar https://ow.ly/abkS106IbOL"
+    },
+    {
+      "author_name": "Damien Rieu",
+      "published_at": "2026-11-09 23:03",
+      "text": "Bravo @CharlesAslangul !\n[Cite @CharlesAslangul] Logo de Bry-sur-Marne. \nAvant/Après."
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-09 23:04",
+      "text": "💸 Des milliers d’euros jamais versés et un sentiment de trahison. De plus en plus influenceurs se disent victimes de leur agence, qui les laisse sur la paille après avoir fait faillite.\n\n💬 «J’ai perdu 72 000 euros» raconte par exemple Charlotte Vidal, créatrice de contenu"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-09 23:07",
+      "text": "L'édito de Mickaël Dorian : «11-Novembre : des profs appellent au boycott», dans #SoirInfo"
+    },
+    {
+      "author_name": "Valeurs actuelles",
+      "published_at": "2026-11-09 23:08",
+      "text": "Ancienne journaliste, Iliana Iotova est devenue, le 1er novembre, la première femme élue à la présidence bulgare. Un parcours singulier, entre engagement européen, patriotisme et volonté de renouer le dialogue avec la Russie.\nhttps://l.valeursactuelles.com/WhB"
+    },
+    {
+      "author_name": "Jean-Yves Le Gallou",
+      "published_at": "2026-11-09 23:09",
+      "text": "[Retweet de @cfdownes_] We are not conservatives.\n\nWe do not believe in the system. We want to tear it down, and in its place build one that puts our people first.\n\nWe are revolutionaries."
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-09 23:09",
+      "text": "Donald Trump fait-il son mea culpa ? Pour le politologue Romuald Sciora, c’est plutôt une stratégie de combat.\n➡️ https://l.lepoint.fr/9Jd"
+    },
+    {
+      "author_name": "Jean-Yves Le Gallou",
+      "published_at": "2026-11-09 23:12",
+      "text": "[Retweet de @ObjectifRemi] En 2023, l’État français a versé 188 millions d’€ à la croix rouge. \n\nIl est urgent de supprimer ces subventions."
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-09 23:12",
+      "text": "« Je n’ai pas pu faire une seule séance de ma préparation » : David Lisnard fait le marathon Nice-Cannes en binôme\n➡️ https://l.leparisien.fr/43JF"
+    },
+    {
+      "author_name": "Tribune Populaire🌐",
+      "published_at": "2026-11-09 23:14",
+      "text": "🗳️🇫🇷FLASH INFO - Pierre Gattaz dévoile la stratégie Teddy Riner en plein direct : \"Mon énorme préoccupation, comment 50% de nos jeunes peuvent voter pour Jean-Luc Mélenchon [..] C'est précisément la que Teddy Riner peut s'il trouve les mots justes, contribuer à leur faire\n[Cite @TribunePop23] 📂🇫🇷 ANALYSE (suite) – Teddy Riner, le visage du gouvernement technique ?\n\nQuatrième étape : le visage. Ce lundi 9 novembre, Teddy Riner s’est déclaré candidat à l’élection présidentielle de 2027. Il se dit candidat de l’unité, ni de gauche ni de droite, et ne veut pas d’un"
+    },
+    {
+      "author_name": "Jon De Lorraine",
+      "published_at": "2026-11-09 23:15",
+      "text": "Bravo @mbockcote.\nHonte à ceux qui rigolent quand ça parle de Crépol. Quelle honte."
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-09 23:15",
+      "text": "Carole Guillerm, députée MoDem des Hauts-de-Seine : «Se revendiquer ni de droite ni de gauche, je ne sais pas si ça donne un tampon immédiat pour le macronisme. Je ne crois pas. Il invite au dépassement des partis politiques», dans #SoirInfo"
+    },
+    {
+      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
+      "published_at": "2026-11-09 23:17",
+      "text": "Parcours Sup.pression. À la place on rétablit le baccalauréat, tel qu’il était vers 1960. Avec la remigration, le pays va avoir le plus grand besoin de non-diplômés. Après tout, c’est que tout le monde ait le bac qui a rendu la submersion migratoire inévitable. La société sans"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-09 23:18",
+      "text": "La police intervient à l’université Rennes 2 pour lever un blocage, 300 personnes évacuées\n➡️ https://l.leparisien.fr/cGcH"
+    },
+    {
+      "author_name": "Thaïs d’Escufon",
+      "published_at": "2026-11-09 23:19",
+      "text": "She’s right: there is no discrimination against African immigrants in France. What’s concerning is that it’s actually the opposite. They are welcomed, housed, and provided for, all at the expense of native French people.\n\nI don’t care if they want a better life when they’re\n[Cite @MartineMontreal] Cet extrait de Marine Le Pen, à 60 Minutes ce soir, doit être entendu pour être cru."
+    },
+    {
+      "author_name": "Jean-Yves Le Gallou",
+      "published_at": "2026-11-09 23:20",
+      "text": "[Retweet de @alexandreavril_] ⤵️ Retrouvez mon intervention au Conseil régional du Centre-Val de Loire. La culture ne doit pas devenir un outil de propagande politique ! Je m’y oppose clairement face à la majorité d’extrême-gauche."
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-09 23:21",
+      "text": "Karima Brikh : «Il y a cette idée de proximité en disant qu'on se rejoint, qu'on ne fait pas partie de ce système qui a conduit la France où elle est en ce moment», dans #SoirInfo\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
+      "published_at": "2026-11-09 23:22",
+      "text": "Oui.\n[Cite @velinart] @dannyconversano Le seul but de Riner avec cette candidature c'est de vendre ses voix à un parti contre un poste de député voire ministre.\nRien de plus, rien de moins."
+    }
+  ],
+  "context": [
     {
       "author_name": "Frontières",
       "published_at": "2026-11-08 23:23",
@@ -4949,6 +5015,11 @@
       "author_name": "Europe 1",
       "published_at": "2026-11-09 13:10",
       "text": "Fonction publique : une intersyndicale appelle à la grève le 17 novembre https://ow.ly/bsgZ106Ia16"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-09 13:10",
+      "text": "C’est un clash qui a de quoi surprendre 😅\n\nRécemment, Orelsan s'est moqué des «fachos» qui «veulent manger du porc et chanter du Sardou». Une sortie à laquelle a répondu sans fard le chanteur français de bientôt 80 ans... \n\nAmbiance \n\n➡️ https://l.leparisien.fr/OsbE"
     },
     {
       "author_name": "Le Parisien | politique",
