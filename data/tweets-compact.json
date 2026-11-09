@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-09 13:49",
-  "period": "du 2026-11-08 13:49 au 2026-11-09 13:49",
-  "new_period": "du 2026-11-09 08:00 au 2026-11-09 13:49",
-  "context_period": "du 2026-11-08 13:49 au 2026-11-09 08:00",
+  "generated_at": "2026-11-09 14:19",
+  "period": "du 2026-11-08 14:19 au 2026-11-09 14:19",
+  "new_period": "du 2026-11-09 08:00 au 2026-11-09 14:19",
+  "context_period": "du 2026-11-08 14:19 au 2026-11-09 08:00",
   "coverage_complete": true,
-  "new_count": 637,
-  "context_count": 768,
-  "duplicates_merged": 78,
+  "new_count": 673,
+  "context_count": 732,
+  "duplicates_merged": 77,
   "empty_removed": 3,
   "new": [
     {
@@ -2983,7 +2983,10 @@
     {
       "author_name": "Fdesouche.com est une revue de presse",
       "published_at": "2026-11-09 13:12",
-      "text": "Flash - Pologne :  rien ne relie le tueur à une idéologie particulière à ce stade (parquet) / AFP"
+      "text": "Flash - Pologne :  rien ne relie le tueur à une idéologie particulière à ce stade (parquet) / AFP",
+      "also_by": [
+        "Damien Rieu"
+      ]
     },
     {
       "author_name": "Bouli ☃️",
@@ -3270,197 +3273,189 @@
       "author_name": "Le Parisien | politique",
       "published_at": "2026-11-09 13:49",
       "text": "Augmentation du smic, prime carburant… Ce qu’il faut retenir des annonces du gouvernement après la conférence sociale https://l.leparisien.fr/dY6y"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-08 13:49",
-      "text": "Six morts et quinze blessés à Cracovie : Michal O., 24 ans, a tiré au hasard sur des passants. Sans antécédent judiciaire, il serait fasciné par l’extrême droite. ➡️ https://mrf.lu/2_w5y"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-08 13:53",
-      "text": "La Belgique autorise, sous conditions et avec l’accord d’un juge, la police à arrêter des sans-papiers à leur domicile. La France dispose déjà d’une mesure similaire. ➡️ https://mrf.lu/2_w18"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-08 13:53",
-      "text": "Policiers, cochers et touristes figurent parmi les victimes de la fusillade de Cracovie en Pologne\n\nDeux chirurgiens témoins ont porté secours aux blessés, dont un policier sauvé grâce à leur intervention rapide\n\nCe que l’on sait des victimes ➡️ https://l.leparisien.fr/HfyS"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-08 13:54",
-      "text": "🔪  Un homme retrouvé mort dans le 14e arrondissement de Paris\n\nhttps://www.sudradio.fr/societe/un-homme-retrouve-mort-dans-un-appartement-a-paris-la-gorge-en-partie-tranchee"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-08 13:54",
-      "text": "À 73 ans, Jean-Luc Lahaye s’apprête à devenir papa pour la troisième fois. Sa compagne Paola serait enceinte de quatre mois, selon France Dimanche. ➡️ https://mrf.lu/2_w1X"
-    },
-    {
-      "author_name": "Le JDD",
-      "published_at": "2026-11-08 13:54",
-      "text": "Guerre d’Algérie : Marion Maréchal accuse Bally Bagayoko de «célébrer la mort d'innocents» https://ow.ly/nhPI106I7JP"
-    },
-    {
-      "author_name": "L'Express",
-      "published_at": "2026-11-08 13:54",
-      "text": "Le président israélien, Isaac Herzog, a confié à Gadi Eisenkot la responsabilité de former un gouvernement. Une tâche complexe alors que les élections législatives n'ont fait émerger aucune...\n\n➡️ https://l.lexpress.fr/bXK https://l.lexpress.fr/bXK"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-08 13:54",
-      "text": "Une victoire nette du Real Madrid (3-0)… mais une mi-temps sous haute tension à Mestalla. Une altercation impliquant plusieurs joueurs aurait dégénéré, des coups auraient été échangés. ➡️ https://mrf.lu/2_w1Y"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-08 13:55",
-      "text": "Un «délit de pillage» pourrait voir le jour pour mieux sanctionner les casseurs. François de Canson propose une peine plancher pouvant aller jusqu’à 10 ans de prison. ➡️ https://mrf.lu/2_wxc"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-08 13:56",
-      "text": "Présidentielle 2027 : le second tour est prévu le 2 mai, mais Emmanuel Macron peut encore changer la date. Jusqu’au 31 janvier, tout reste possible. ➡️ https://mrf.lu/2_wxQ"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-08 13:57",
-      "text": "Carlos Alcaraz n’a encore jamais remporté le Masters 1000 de Paris. Face à Ben Shelton, l’Espagnol vise un premier titre ce dimanche, à 15h, sur France 3 et Eurosport. ➡️ https://mrf.lu/2_wxh"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-08 13:58",
-      "text": "À Cracovie, le policier Jakub Kulik a neutralisé le terroriste malgré ses blessures. Opéré, cet ancien militaire de 29 ans lutte toujours pour sa vie. ➡️ https://mrf.lu/2_wxX"
-    },
-    {
-      "author_name": "Eric Zemmour",
-      "published_at": "2026-11-08 13:58",
-      "text": "Bravo à @louiselzeu pour son combat et la défense des jeunes Français.",
-      "also_by": [
-        "RECONQUÊTE !"
-      ]
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-08 13:59",
-      "text": "Le domicile d’un policier d’Auch a été incendié samedi matin. La piste criminelle est privilégiée et le ministre de l’Intérieur estime que l’agent a été visé en raison de sa profession. ➡️ https://mrf.lu/2_wxF"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-08 13:59",
-      "text": "Un homme de 28 ans est mort après avoir reçu un coup de couteau lors d’une soirée dans une salle des fêtes à Stains. Plusieurs personnes sont en garde à vue. ➡️ https://mrf.lu/2_wx-"
-    },
-    {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-08 13:59",
-      "text": "Présidentielle 2027 : des militants du collectif « Nous Vivrons » ont perturbé le meeting de Jean-Luc Mélenchon au Bourget https://l.leparisien.fr/z9DE"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-08 14:00",
-      "text": "🎙️ Dans #CestExcellent, @judith_beller reçoit @YannickBestaven, vainqueur du Vendée Globe 2021 et auteur de « L’océan, ma source d’inspiration », et @AlexisLoizon, actuellement sur scène avec son seul-en-scène « Mon Skyblog » à l’Apollo Théâtre\n\n📻 À suivre sur"
-    },
-    {
-      "author_name": "Actu & Politique",
-      "published_at": "2026-11-08 14:00",
-      "text": "🚨‼️🇫🇷 URGENT - Interrogé sur un potentiel retrait en faveur d’Édouard Philippe, Gabriel Attal affirme que « se retirer pour un candidat donné troisième, voire quatrième, et largement battu au deuxième tour, ça n’a pas de sens ». Le candidat Renaissance à l’élection"
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-08 14:00",
-      "text": "Guerre d’Algérie : Bally Bagayoko critiqué par Marion Maréchal pour sa présence à une commémoration de la «Toussaint rouge» → https://l.lefigaro.fr/aoDm"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-08 14:01",
-      "text": "Guerre au Moyen-Orient : la tour Aramco à Riyad a été la cible d’une « tentative » d’attaque, annonce l’Arabie saoudite\n➡️ https://l.leparisien.fr/sVox"
-    },
-    {
-      "author_name": "Comité Trump France",
-      "published_at": "2026-11-08 14:01",
-      "text": "Il faut retirer le principe de proportionnalité dans la légitime défense. \n\nQuand quelqu'un vous agresse, il ne devrait pas y avoir un juge à la con qui décide c'est proportionnel ou non. \n\nQuelqu'un vous agresse, vous vous défendez, donc vous avez toujours raison. Point."
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-08 14:02",
-      "text": "«Ils ne m’ont pas appelé» : Bill Skarsgård écarté de la course à James Bond ? L’acteur de «Ça» n’a même pas passé d’audition… mais vise le rôle du méchant. ➡️ https://mrf.lu/2_wQ1"
-    },
-    {
-      "author_name": "Boulevard Voltaire",
-      "published_at": "2026-11-08 14:02",
-      "text": "[Retweet de @BVoltaire] [EXCLU BV] Raphaël Arnault protégé par les CRS : une habitante témoigne ! | Par Boulevard Voltaire\nLa famille de Quentin Deranque, mort sous les coups de proches de Raphaël Arnault, avait protesté contre sa venue. \n \nhttps://www.bvoltaire.fr/exclu-bv-raphael-arnault-protege-par-les-crs-une-habitante-temoigne/?fsp_sid=26129"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-08 14:03",
-      "text": "Après l’attentat de Cracovie, la police polonaise a appelé les donneurs AB Rh+ à donner leur sang pour Jakub Kulik, policier blessé en tentant d’arrêter le terroriste. ➡️ https://mrf.lu/2_wLV"
-    },
-    {
-      "author_name": "OMERTA",
-      "published_at": "2026-11-08 14:03",
-      "text": "Du Rwanda au Niger – L’Afrique francophobe ? \nRwanda, Burkina Faso, Mali, Niger, depuis plusieurs années le sentiment anti-français, grandit dans plusieurs pays d’Afrique.\nOmerta décrypte ce phénomène, les raisons profondes de cette haine mais aussi les erreurs et les fautes des"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-08 14:03",
-      "text": "Agression au couteau à La Courneuve : le suspect de 20 ans, mis en examen pour tentative d’homicide volontaire, a été placé sous contrôle judiciaire. ➡️ https://mrf.lu/2_wjd"
-    },
-    {
-      "author_name": "Causeur.fr",
-      "published_at": "2026-11-08 14:03",
-      "text": "📚 \"Monsieur Nostalgie nous parle ce dimanche du plaisir de retrouver des écrivains qui, de livre en livre, édifient une œuvre. On part à la découverte de l’Irlande, de Winnaretta Singer, d’un certain « Boutade » et d’un déroutant Plan de Vol…\"\n\nhttps://www.causeur.fr/des-retrouvailles-d-automne-david-gaillardon-pierre-joanon-francois-jonqueres-jean-francois-coulomb-336749"
-    },
-    {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-08 14:03",
-      "text": "À 83 ans, le réalisateur britannique Mike Leigh refuse de choisir les acteurs de ses films pour satisfaire des quotas de diversité. « Les gens sont des gens », répond-il à NIUS, sans regretter la distribution de son dernier film.\n\nhttps://www.fdesouche.com/?p=1964833"
-    },
-    {
-      "author_name": "Actu & Politique",
-      "published_at": "2026-11-08 14:07",
-      "text": "🚨🇫🇷 Interrogé sur son projet, Édouard Philippe affirme vouloir \"faire en sorte que la France soit un peu plus forte plutôt qu'un peu trop faible\". (BFMTV)"
-    },
-    {
-      "author_name": "Le Point",
-      "published_at": "2026-11-08 14:07",
-      "text": "« La France n’est pas la Grèce, mais elle doit agir rapidement »\n\n➡️ https://l.lepoint.fr/9Jj\nPar @oubertalli"
+      "published_at": "2026-11-09 13:50",
+      "text": "Un sujet qui divise la classe politique depuis plusieurs années. ➡️ https://mrf.lu/2YZcf"
     },
     {
       "author_name": "Valeurs actuelles",
-      "published_at": "2026-11-08 14:10",
-      "text": "Après avoir été surpris par les casseurs, le gouvernement italien a envoyé un signal de fermeté payant. Tout en augmentant les aides fiscales pour les ménages et les professionnels, frappés par la flambée du gazole.\nhttps://l.valeursactuelles.com/DGe"
+      "published_at": "2026-11-09 13:50",
+      "text": "🔴 Le maire d'Avignon Olivier Galzi a décidé de changer de logo et de slogan, renouant avec les symboles historiques de la cité des Papes."
     },
     {
-      "author_name": "Bruno Attal",
-      "published_at": "2026-11-08 14:12",
-      "text": "Total soutien à @TRobinsonNewEra agressé par un islamiste."
+      "author_name": "Europe 1",
+      "published_at": "2026-11-09 13:51",
+      "text": "Mouvement lycéen : des cours de rattrapage possibles en février ou à Pâques https://ow.ly/wCU6106Ia3B"
     },
     {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-08 14:15",
-      "text": "🚩 S’engager contre les prédateurs - La Force de l’engagement avec Muriel Reus\n\n🗣️ @sarahelhairy, haute-commissaire à l’Enfance et autrice du livre Les Prédateurs (@AlbinMichel) : « Les parents ne peuvent pas gagner seuls un bras de fer face à des plateformes algorithmiques"
+      "author_name": "Europe 1",
+      "published_at": "2026-11-09 13:51",
+      "text": "Smic : le salaire minimum porté à 1.502 euros net environ dès le 1er décembre, annonce le ministre du Travail https://ow.ly/vYh3106Ia3C"
     },
     {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-08 14:16",
-      "text": "Nouvelle rencontre pour @J_Bardella auprès des lecteurs de « GOUVERNER » : La Grande Motte !\n\nEt vous êtes déjà très nombreux présents sur place, MERCI ! 🙏🏼\n\n📖 Commandez « Gouverner » : https://www.amazon.fr/dp/2213736499"
+      "author_name": "AgoraVox",
+      "published_at": "2026-11-09 13:52",
+      "text": "[Retweet de @agoravox] « […] ce que font les casseurs, par rapport à ce que nous ont fait nos énarques, mais c'est pipeau en fait. […] qui doit passer en comparution immédiate ? Les mecs qui ont détruit l'industrie française, ou les gens qui ont cassé quelques magasins ? »\n ➡️ https://mobile.agoravox.tv/actualites/politique/article/emmanuel-todd-la-france-en-cours-d-111858"
     },
     {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-08 14:16",
-      "text": "Attaque à Cracovie : policiers, cochers, ressortissants étrangers… Ce que l’on sait des victimes de l’assaillant en Pologne\n➡️ https://l.leparisien.fr/AAVZ"
-    },
-    {
-      "author_name": "Boulevard Voltaire",
-      "published_at": "2026-11-08 14:17",
-      "text": "[THÉÂTRE] Quand Konass n’est pas une insulte, mais un gendre possiblement facho | Par Etienne Lombard\nIl faut aller voir cette critique aussi virulente que drôle de l’absurdité humaine au wokistan. \n \nhttps://www.bvoltaire.fr/theatre-quand-konass-nest-pas-une-insulte-mais-un-gendre-possiblement-facho/?fsp_sid=26175"
+      "author_name": "Frontières",
+      "published_at": "2026-11-09 13:53",
+      "text": "🚨 EN DIRECT - À El Hierro, aux Canaries, des migrants attendent d’être transférés à Tenerife.\n\n📍 Frontières est sur place."
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-08 14:17",
-      "text": "Qui est Michal O., l’assaillant soupçonné d’avoir fait six morts et quinze blessés à Cracovie ?\n➡️ https://l.leparisien.fr/tQgX"
+      "published_at": "2026-11-09 13:55",
+      "text": "Sophie Binet s’en prend à un journaliste de la chaîne CNews et interrompt son point presse\n➡️ https://l.leparisien.fr/ew3j"
     },
+    {
+      "author_name": "Quenel+",
+      "published_at": "2026-11-09 13:56",
+      "text": "Le glissage de quenelle un sport à haut risque ! retrouvez Dieudonné dans les Anecdotes de Dieudo, nouveau format dispo exclusivement sur Quenel+ ! lien en bio ! Dans l'épisode 2 Dieudo revient sur la science derrière la quenelle et les plus belles qui ont été glissées"
+    },
+    {
+      "author_name": "Agence France-Presse",
+      "published_at": "2026-11-09 13:57",
+      "text": "🇫🇷 Le ministre du Travail Jean-Pierre Farandou a annoncé lundi que le Smic allait être augmenté de 1,6 % dès le 1er décembre pour être porté à 1.502 euros net environ, soit une augmentation mensuelle d'environ 24 euros."
+    },
+    {
+      "author_name": "Collectif Némésis",
+      "published_at": "2026-11-09 13:57",
+      "text": "UN ANGOLAIS TRENTENAIRE CONDAMNÉ POUR DES AGRESSIONS SEXUELLES SUR DEUX AMIES À GUÉRANDE"
+    },
+    {
+      "author_name": "Samuel Lafont",
+      "published_at": "2026-11-09 13:57",
+      "text": "Bonjour @jnbarrot. Qu'est-ce ?\n[Cite @michelblancooff] Quand la France envoie ses talents au Brésil avec l’argent du contribuable pour « mettre en œuvre des politiques publiques féministes » pour « l’égalité de genre » dans le cadre de la « justice climatique ».\nCe doit être ça le rayonnement de la France…"
+    },
+    {
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-09 13:58",
+      "text": "[Retweet de @BVoltaire] Brasseries, UGC, Relay : l’extrême gauche traque les lieux associés à Bolloré | Par  @jeankastoff\nDes cinémas aux magasins Relay, les activistes veulent imposer leur croisade anti-Bolloré jusque dans les commerces. \n \nhttps://www.bvoltaire.fr/brasseries-ugc-relay-lextreme-gauche-traque-les-lieux-associes-a-bollore/?fsp_sid=26149"
+    },
+    {
+      "author_name": "Causeur.fr",
+      "published_at": "2026-11-09 13:59",
+      "text": "🇮🇱 \"Chargé de former un gouvernement, Gadi Eizenkot dispose d’une majorité de députés opposés à Netanyahou, mais divisés sur les alliances nécessaires pour le remplacer. Car ses partenaires préparent aussi la bataille suivante, celle de la succession de Bibi à la tête de la"
+    },
+    {
+      "author_name": "L'Express",
+      "published_at": "2026-11-09 13:59",
+      "text": "Prenons au sérieux ce que les insoumis nous montrent : leur manière de conquérir le pouvoir nous renseigne déjà sur la manière dont ils entendent l’exercer…\n\n➡️ https://l.lexpress.fr/38S"
+    },
+    {
+      "author_name": "TVL",
+      "published_at": "2026-11-09 14:00",
+      "text": "🇺🇦 Volodymyr Zelensky a dénoncé un vaste scandale de corruption impliquant plusieurs responsables des services de sécurité ukrainiens, de la police et du parquet, accusés d'avoir protégé un réseau criminel.\n\nSelon le NABU, le service spécialisé dans la lutte anticorruption, des"
+    },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-09 14:00",
+      "text": "La CGT, l'UNSA, FSU, Solidaires, CFE-CGC et FAFP seront dans la rue.→https://l.lefigaro.fr/ZzeP"
+    },
+    {
+      "author_name": "Le JDD",
+      "published_at": "2026-11-09 14:02",
+      "text": "Entouré des fidèles d’Alain Juppé, Édouard Philippe voit sa campagne s’enliser et les critiques gagner son camp.\n\nDix ans après la défaite de son mentor à la primaire de la droite, le candidat d’Horizons semble répéter les mêmes erreurs, tout en refusant de se soumettre au même"
+    },
+    {
+      "author_name": "Ligne Droite • La matinale de RC",
+      "published_at": "2026-11-09 14:03",
+      "text": "🤜 Mélenchon et la Nation, mariage impossible ?\n🗣️ Christophe Boutin, politologue et coauteur du Dictionnaire de la nation, aux éditions @EditionsduCERF\nEntretien complet :\n👉 https://youtu.be/0T0O1oD89nQ\n🎙️ Avec @RicharddeSeze sur @radiocourtoisie"
+    },
+    {
+      "author_name": "Le Figaro Culture",
+      "published_at": "2026-11-09 14:04",
+      "text": "Dans l’attente de mesures pour « apaiser le climat social » la ville de Marseille se retire du conseil d’administration du Mucem https://l.lefigaro.fr/Xf3Y"
+    },
+    {
+      "author_name": "Radio Courtoisie",
+      "published_at": "2026-11-09 14:07",
+      "text": "🎙️ POLITIQUE, MÉDIAS & RÉINFORMATION\n\n🔴 ÉMISSION SPÉCIALE EN DIRECT EN PARTENARIAT AVEC BOULEVARD VOLTAIRE, L’INCORRECT ET VALEURS ACTUELLES ! \n\nEnquêtes de terrain, affaires politiques et guerre culturelle : l'émission de Pierre-Alexandre Bouclay !\n\n🚨 📰 Au sommaire :\n\n•"
+    },
+    {
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-09 14:07",
+      "text": "L'acteur-star Omar Sy sera jugé le 30 novembre au tribunal judiciaire de Paris, suspecté de s'en être pris à des agents SNCF à la gare de Lyon à Paris en mai 2025 (MàJ) https://www.fdesouche.com/2026/11/09/lacteur-omar-sy-accuse-de-propos-menacants-envers-un-agent-sncf/"
+    },
+    {
+      "author_name": "Occidentis",
+      "published_at": "2026-11-09 14:08",
+      "text": "🚨 Sophie Binet, la patronne de la CGT demande à CNEWS de quitter le point presse à la sortie de Matignon."
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-09 14:09",
+      "text": "Orelsan en rollers à Caen s’en prend frontalement au Canon français\n➡️ https://l.leparisien.fr/J6qz"
+    },
+    {
+      "author_name": "Valeurs actuelles",
+      "published_at": "2026-11-09 14:10",
+      "text": "🗞️ La pétition demandant la suppression de CNews a dépassé le million de signatures. Alors que son examen est prévu mardi 10 novembre à l’Assemblée nationale, ce débat sur la liberté d'expression fracture la classe politico-médiatique.\n\n🔗 https://l.valeursactuelles.com/xHw"
+    },
+    {
+      "author_name": "Radio Courtoisie",
+      "published_at": "2026-11-09 14:12",
+      "text": "💥 « Il disait au téléphone : “Moi, je peux pas m’occuper de toi, mais tu vas voir, toutes tes données personnelles, je les ai envoyées à des charcleurs.” […] J’ai eu beaucoup plus peur pour mes proches, les gens de ma famille, que pour moi, parce qu’eux, ils ont rien demandé de"
+    },
+    {
+      "author_name": "Vincent Lapierre",
+      "published_at": "2026-11-09 14:12",
+      "text": "Ces gauchistes haineux et hurleurs sont une calamité. On est aujourd’hui pris en étau entre eux et les racailles. C’est très pénible.\n\nVoici un reportage tendu dans les rues de Rouen, une ville sublime qu’il faut avoir visité une fois dans sa vie.\n\n➡️ https://youtu.be/DF4KA39n3Us ⬅️"
+    },
+    {
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-09 14:12",
+      "text": "« Je veux être le Président qui réconcilie et qui fédère » : Teddy Riner annonce sa candidature à la présidentielle 2027"
+    },
+    {
+      "author_name": "La Cocarde Étudiante",
+      "published_at": "2026-11-09 14:14",
+      "text": "🏛️ Rencontre avec @ASabatou à l’Assemblée nationale. \n\nNous avons pu échanger sur les enjeux de l’enseignement supérieur et de la jeunesse. Merci à lui pour son accueil et pour tout son travail !"
+    },
+    {
+      "author_name": "Le Crapaud",
+      "published_at": "2026-11-09 14:14",
+      "text": "Jensen Huang est milliardaire, à la tête d’une des plus grosses entreprises de la planète, et pourtant, il reste un homme comme les autres."
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-09 14:15",
+      "text": "En Équateur, Donald Trump muscle son « Bouclier des Amériques » contre le narcotrafic\n➡️ https://l.leparisien.fr/LeKz"
+    },
+    {
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-09 14:17",
+      "text": "[CHRONIQUE] Est-ce la productivité qui a mis fin au travail des enfants ? | Par Joseph Thouvenel\nPetit retour sur notre histoire sociale, cette grande méconnue. \n \nhttps://www.bvoltaire.fr/chronique-est-ce-la-productivite-qui-a-mis-fin-au-travail-des-enfants/?fsp_sid=26217"
+    },
+    {
+      "author_name": "Reprenons le contrôle !",
+      "published_at": "2026-11-09 14:17",
+      "text": "[Retweet de @Memes_in_France] 👊🇫🇷"
+    },
+    {
+      "author_name": "Collectif Némésis",
+      "published_at": "2026-11-09 14:17",
+      "text": "Action pendant le marathon de Bordeaux, dimanche 8 novembre 🏃🏻‍♀️\n\nNos militantes ont tenu à rappeler que la liberté des femmes et des fillettes passe par l’abolition de la charia. \nPourtant, certains spectateurs ont préféré nous arracher nos pancartes !"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-09 14:18",
+      "text": "🥋🇫🇷  Qui est Teddy Riner, nouveau candidat à la présidentielle ?\n\nhttps://www.sudradio.fr/sport-rugby/sport/des-tatamis-a-lelysee-teddy-riner-annonce-sa-candidature-a-la-presidentielle"
+    },
+    {
+      "author_name": "Gilbert Collard",
+      "published_at": "2026-11-09 14:19",
+      "text": "Leur rêve, la Pravda !"
+    },
+    {
+      "author_name": "Cercle Aristote",
+      "published_at": "2026-11-09 14:19",
+      "text": "🔴 Neuf novembre : ayons une pensée pour le général De Gaulle.\n\nLe général s’est éteint le 9 novembre 1970.\n\nIl refusa les décorations et les funérailles nationales. Il souhaita être inhumé au cimetière de Colombey-les-Deux-Églises, où reposait déjà sa fille Anne."
+    }
+  ],
+  "context": [
     {
       "author_name": "Ni Oubli Ni Pardon",
       "published_at": "2026-11-08 14:20",
@@ -4985,6 +4980,11 @@
       "author_name": "Fdesouche.com est une revue de presse",
       "published_at": "2026-11-08 18:32",
       "text": "Benoît Hamon à Laurent Wauquiez : « Vous faites un lien entre immigration et Bataclan ? »"
+    },
+    {
+      "author_name": "RECONQUÊTE !",
+      "published_at": "2026-11-08 18:33",
+      "text": "[Retweet de @ZemmourEric] Bravo à @louiselzeu pour son combat et la défense des jeunes Français."
     },
     {
       "author_name": "Jordan Bardella",
