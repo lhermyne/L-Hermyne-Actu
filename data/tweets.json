@@ -1,14 +1,53 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-09T04:15:53.008Z",
+  "updated_at": "2026-11-09T04:45:58.934Z",
   "window_hours": 24,
-  "window_start": "2026-11-08T04:15:53.008Z",
+  "window_start": "2026-11-08T04:45:58.934Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1202,
+  "count": 1204,
   "tweets": [
+    {
+      "id": "2119648816093646888",
+      "created_at": "2026-11-09T04:30:33.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "Présidentielle 2027 : Le Pen et Mélenchon toujours favoris, Philippe et Glucksmann en baisse, affirme un nouveau sondage https://l.leparisien.fr/bOhN",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2119648816093646888"
+    },
+    {
+      "id": "2119647002958975012",
+      "created_at": "2026-11-09T04:23:21.000Z",
+      "author": "leparisien_pol",
+      "author_name": "Le Parisien | politique",
+      "type": "tweet",
+      "text": "Présidentielle 2027 : Le Pen et Mélenchon toujours favoris, Philippe et Glucksmann en baisse, affirme un nouveau sondage\n➡️ https://l.leparisien.fr/z9Dg",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/leparisien_pol/status/2119647002958975012"
+    },
+    {
+      "id": "2119645165862228075",
+      "created_at": "2026-11-09T04:16:03.000Z",
+      "author": "NiONiPardon",
+      "author_name": "Ni Oubli Ni Pardon",
+      "type": "tweet",
+      "text": "11/2021 Valérie Pécresse : « Je ne veux pas reconfiner la population, parce qu'il n'y a aucune raison de traiter de la même façon des personnes qui ont fait cet effort de se vacciner, de se protéger, et celles qui ont décidé librement de ne pas se vacciner. »",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/NiONiPardon/status/2119645165862228075"
+    },
     {
       "id": "2119638724728512958",
       "created_at": "2026-11-09T03:50:27.000Z",
@@ -15621,19 +15660,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/leJDD/status/2119291329737793600"
-    },
-    {
-      "id": "2119288775196983515",
-      "created_at": "2026-11-08T04:39:53.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "« Fasciné » par l’extrême droite, trois corps aussi retrouvés à son domicile… Ce que l’on sait du tireur qui a abattu six personnes à Cracovie\n➡️ https://l.leparisien.fr/8mT6",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2119288775196983515"
     }
   ]
 }

@@ -1,13 +1,13 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-09 05:15",
-  "period": "du 2026-11-08 05:15 au 2026-11-09 05:15",
-  "new_period": "du 2026-11-08 20:00 au 2026-11-09 05:15",
-  "context_period": "du 2026-11-08 05:15 au 2026-11-08 20:00",
+  "generated_at": "2026-11-09 05:45",
+  "period": "du 2026-11-08 05:45 au 2026-11-09 05:45",
+  "new_period": "du 2026-11-08 20:00 au 2026-11-09 05:45",
+  "context_period": "du 2026-11-08 05:45 au 2026-11-08 20:00",
   "coverage_complete": true,
-  "new_count": 247,
-  "context_count": 894,
+  "new_count": 250,
+  "context_count": 893,
   "duplicates_merged": 58,
   "empty_removed": 3,
   "new": [
@@ -1284,14 +1284,24 @@
       "also_by": [
         "Le Parisien | politique"
       ]
+    },
+    {
+      "author_name": "Ni Oubli Ni Pardon",
+      "published_at": "2026-11-09 05:16",
+      "text": "11/2021 Valérie Pécresse : « Je ne veux pas reconfiner la population, parce qu'il n'y a aucune raison de traiter de la même façon des personnes qui ont fait cet effort de se vacciner, de se protéger, et celles qui ont décidé librement de ne pas se vacciner. »"
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-09 05:23",
+      "text": "Présidentielle 2027 : Le Pen et Mélenchon toujours favoris, Philippe et Glucksmann en baisse, affirme un nouveau sondage\n➡️ https://l.leparisien.fr/z9Dg"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-09 05:30",
+      "text": "Présidentielle 2027 : Le Pen et Mélenchon toujours favoris, Philippe et Glucksmann en baisse, affirme un nouveau sondage https://l.leparisien.fr/bOhN"
     }
   ],
   "context": [
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-08 05:39",
-      "text": "« Fasciné » par l’extrême droite, trois corps aussi retrouvés à son domicile… Ce que l’on sait du tireur qui a abattu six personnes à Cracovie\n➡️ https://l.leparisien.fr/8mT6"
-    },
     {
       "author_name": "Le JDD",
       "published_at": "2026-11-08 05:50",
