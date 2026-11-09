@@ -1,14 +1,27 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-09T02:15:28.013Z",
+  "updated_at": "2026-11-09T02:36:46.927Z",
   "window_hours": 24,
-  "window_start": "2026-11-08T02:15:28.013Z",
+  "window_start": "2026-11-08T02:36:46.927Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1202,
+  "count": 1203,
   "tweets": [
+    {
+      "id": "2119616125575315896",
+      "created_at": "2026-11-09T02:20:39.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "« Je me doutais qu’il y aurait des remarques homophobes » : l’ancien élu parisien Jean-Luc Romero-Michel révèle être atteint d’un cancer de l’anus\n➡️ https://l.leparisien.fr/LeKI",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2119616125575315896"
+    },
     {
       "id": "2119612162993729669",
       "created_at": "2026-11-09T02:04:54.000Z",
