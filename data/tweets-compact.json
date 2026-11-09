@@ -1,15 +1,15 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-09 08:16",
-  "period": "du 2026-11-08 08:16 au 2026-11-09 08:16",
-  "new_period": "du 2026-11-08 20:00 au 2026-11-09 08:16",
-  "context_period": "du 2026-11-08 08:16 au 2026-11-08 20:00",
+  "generated_at": "2026-11-09 08:46",
+  "period": "du 2026-11-08 08:46 au 2026-11-09 08:46",
+  "new_period": "du 2026-11-08 20:00 au 2026-11-09 08:46",
+  "context_period": "du 2026-11-08 08:46 au 2026-11-08 20:00",
   "coverage_complete": true,
-  "new_count": 373,
-  "context_count": 795,
-  "duplicates_merged": 55,
-  "empty_removed": 2,
+  "new_count": 421,
+  "context_count": 773,
+  "duplicates_merged": 56,
+  "empty_removed": 1,
   "new": [
     {
       "author_name": "Frontières",
@@ -1923,119 +1923,252 @@
       "author_name": "L'Express",
       "published_at": "2026-11-09 08:16",
       "text": "Avec 17 millions de Français concernés et 55 000 morts par an, l'hypertension artérielle est un fléau aussi redoutable que méconnu, et encore trop mal combattu, alerte notre chroniqueur.\n\n➡️ https://l.lexpress.fr/TaP"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-08 08:18",
-      "text": "🇫🇷 🏉 🇫🇯  France - Fidji : les Bleus en état de grâce ? #GrandMatinWeekEnd\n\n🗣️ L'analyse de Daniel Herrero au micro de @julesboscherini : \"L'équipe est arrivée suffisamment  en place et appliquée. Le rendu est porteur d'espérance ! Mais face à l'Afrique du Sud, ce sera une autre"
     },
     {
-      "author_name": "Causeur.fr",
-      "published_at": "2026-11-08 08:22",
-      "text": "La campagne ne profite pas aux migrants @causeur https://www.causeur.fr/les-yeux-verts-un-film-de-fanny-liatard-et-jeremy-troulh-la-campagne-ne-profite-pas-aux-migrants-336652"
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-09 08:16",
+      "text": "Donald Trump ne « pardonnera pas à ses ennemis » démocrates, mais « espère » qu’il « ira au paradis »\n➡️ https://l.leparisien.fr/7WaJ",
+      "also_by": [
+        "Le Parisien"
+      ]
     },
     {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-08 08:22",
-      "text": "82 % des Français interrogés sont favorables à l’emprisonnement systématique des auteurs de crimes ou délits sous OQTF, dans l’attente de leur expulsion. Le soutien atteint 71 % chez les sympathisants LFI, selon un sondage CSA.\n\nhttps://www.fdesouche.com/?p=1964811"
+      "author_name": "CNEWS",
+      "published_at": "2026-11-09 08:17",
+      "text": "Selon François-Xavier Bellamy, eurodéputé et vice-président du parti Les Républicains «la violence progresse partout». \n\nToute l'info est à retrouver sur https://cnews.fr"
     },
     {
-      "author_name": "Samuel Lafont",
-      "published_at": "2026-11-08 08:25",
-      "text": "[Retweet de @enjoyjp34] A Link to the Past."
+      "author_name": "LCP",
+      "published_at": "2026-11-09 08:17",
+      "text": "\"Il faut sortir de l'hypocrisie\" : les députés PS défendent un texte pour régulariser 300.000 travailleurs sans-papiers ⤵️\nhttps://lcp.fr/actualites/il-faut-sortir-de-l-hypocrisie-les-deputes-ps-defendent-un-texte-pour-regulariser-300000"
     },
     {
-      "author_name": "Les Patriotes",
-      "published_at": "2026-11-08 08:25",
-      "text": "[Retweet de @SZYCH1] https://youtu.be/ZITHtN6HQuA?is=h5ZfMC7mHxW_ve-B"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-08 08:26",
-      "text": "🚩 Meeting réussi pour Jean-Luc Mélenchon au Bourget ? #GrandMatinWeekEnd\n\n🗣️ @lucas_plana, journaliste du JDD sur place : \"C'était un spectacle. Le mot d'ordre était 'révolution', qu'elle soit fiscale, citoyenne, écologiste... Le public était remonté à bloc\""
-    },
-    {
-      "author_name": "Valeurs actuelles",
-      "published_at": "2026-11-08 08:28",
-      "text": "Dans Le Bal des foudroyés, un roman historique passionnant, Camille Pascal nous décrit par le détail ce moment clé où Louis XIV a décidé de prendre en main les affaires de son royaume.\nhttps://l.valeursactuelles.com/mUn"
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-08 08:30",
-      "text": "Thélyson Orélien, le crash après vingt ans de vies parallèles → https://l.lefigaro.fr/uq6D"
+      "author_name": "CNEWS",
+      "published_at": "2026-11-09 08:18",
+      "text": "François-Xavier Bellamy, vice-président du parti Les Républicains sur les violences en manifestation : «LFI a choisi de légitimer la violence».\n\nToute l'info est à retrouver sur https://cnews.fr"
     },
     {
       "author_name": "Europe 1",
-      "published_at": "2026-11-08 08:30",
-      "text": "Les Français donnent moins cette année, est-ce qu'ils sont devenus radins ?\n\n➡️ Écoutez \"Votre argent vos placements\" avec @jjmanceau, journaliste chez @MagazineCapital tous les samedis et dimanches à 8h24 dans #Europe1Matin #Europe1"
-    },
-    {
-      "author_name": "TVL",
-      "published_at": "2026-11-08 08:31",
-      "text": "🎙️ « Cette présidentielle sera le moment de tous les dangers parce que la fragmentation de la géopolitique interne de la France va rencontrer la fragmentation géopolitique internationale sur le territoire français. »\n\nPierre-Emmanuel Thomann sur TVL🔻\nhttps://youtu.be/QgZ4S4Q1Jvs"
-    },
-    {
-      "author_name": "Le JDD",
-      "published_at": "2026-11-08 08:32",
-      "text": "Économie, écologie, sécurité : le programme rouge qui tache de LFI\nhttps://www.lejdd.fr/politique/economie-ecologie-securite-le-programme-rouge-qui-tache-de-lfi-188088"
-    },
-    {
-      "author_name": "Le Point",
-      "published_at": "2026-11-08 08:32",
-      "text": "La « sueur » contre le big bang : Philippe et Knafo croisent le fer sur la dette\n\nPar @kevinbadeau https://l.lepoint.fr/HAj"
-    },
-    {
-      "author_name": "Le Média en 4⃣-4⃣-2⃣",
-      "published_at": "2026-11-08 08:33",
-      "text": "Baignade dans la Seine : après 1,3 milliard englouti, encore 850 millions prévus pour faire trempette \nhttps://lemediaen442.fr/baignade-dans-la-seine-apres-13-milliard-englouti-encore-850-millions-prevus-pour-faire-trempette/ \n\nÀ Paris, le grand plongeon dans les finances publiques continue. Après 1,3 milliard d'euros investis depuis 2016 pour améliorer la qualité de l'eau de"
+      "published_at": "2026-11-09 08:19",
+      "text": "\"LFI a choisi de légitimer la violence\" déclare @fxbellamy #LaGrandeInterview #Europe1"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-08 08:37",
-      "text": "Tom Laperche, l’envol du prodige sur la Route du Rhum, sa « course de rêve »\n➡️ https://l.leparisien.fr/z9DC"
+      "published_at": "2026-11-09 08:20",
+      "text": "« C’est retour à l’envoyeur » : la méthode sans concession du maire de Laigneville contre les décharges sauvages https://l.leparisien.fr/aCz9"
     },
     {
-      "author_name": "Étienne Chouard",
-      "published_at": "2026-11-08 08:43",
-      "text": "CONTAGION DÉMOCRATIQUE DANS LES PETITES COMMUNES : actualité, ressources, méthodes, conseils, enjeux – Conversation constituante chez Nexus #3\nhttps://www.chouard.org/2026/11/07/ccn03-contagion-democratique-dans-les-petites-communes-actualite-ressources-methodes-conseils-enjeux-conversation-constituante-chez-nexus-3/"
+      "author_name": "Agence France-Presse",
+      "published_at": "2026-11-09 08:21",
+      "text": "🇵🇱 Pologne : l'auteur de la tuerie qui a fait six morts et quinze blessés samedi à Cracovie, un jeune Polonais de 24 ans grièvement blessé par des policiers, est mort lundi à l'hôpital, a annoncé la police."
     },
     {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-08 08:44",
-      "text": "Bertrand Deckers partage des anecdotes sur le film Marie-Antoinette de Sofia Coppola dans #LaMatinaleWE :«On parle d'une Marie-Antoinette influenceuse, bien avant l'heure des réseaux sociaux» \n\nToute l'info est à retrouver sur https://cnews.fr"
+      "author_name": "Europe 1",
+      "published_at": "2026-11-09 08:21",
+      "text": "Émeutes : \"L'État d'urgence serait la bonne solution\" estime @fxbellamy #LaGrandeInterview #Europe1"
     },
     {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-08 08:44",
-      "text": "Retraite : enfants, congé parental, engagement comme pompier volontaire… Certains trimestres peuvent manquer sur votre relevé sans que vos droits soient perdus. ➡️ https://mrf.lu/2_Vw_"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-08 08:45",
-      "text": "Grand Prix du Brésil : Lando Norris s’élancera en pole position devant Kimi Antonelli. Isack Hadjar partira 5e, Max Verstappen 21e. ➡️ https://mrf.lu/2_VwP"
-    },
-    {
-      "author_name": "Dreuz",
-      "published_at": "2026-11-08 08:45",
-      "text": "Israel has lived through the hell of Iranian missiles. America, that of the rise in gasoline prices https://www.dreuz.com/2026/11/israel-has-lived-through-the-hell-of-iranian-missiles-america-that-of-the-rise-in-gasoline-prices-333545.html"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-08 08:46",
-      "text": "🚩 Meeting réussi pour Jean-Luc Mélenchon au Bourget ? #GrandMatinWeekEnd\n\n🗣️ @FraPiquemal : \"C'était exceptionnel ! Aucun candidat n'est capable de mobiliser autant, toute la presse est dithyrambique\"\n\n📻https://sudradio.fr\n☎️0 826 300 300"
+      "author_name": "Causeur.fr",
+      "published_at": "2026-11-09 08:22",
+      "text": "Soral, l’antijuif errant @causeur https://www.causeur.fr/soral-l-antijuif-errant-russie-tunisie-336876"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-08 08:46",
-      "text": "«Porter le Smic à 1.700 euros nets détruirait plus de 230.000 emplois» : l’avertissement du ministre du Travail Jean-Pierre Farandou. ➡️ https://mrf.lu/2_VMP"
+      "published_at": "2026-11-09 08:22",
+      "text": "Selon François-Xavier Bellamy, vice-président du parti Les Républicains «Jean-Luc Mélenchon est dangereux pour l'économie».\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Jean-Yves Le Gallou",
+      "published_at": "2026-11-09 08:23",
+      "text": "Tant que les frontières resteront  ouvertes à une main d’œuvre étrangère abondante qui entre à flots continus ( régulièrement, sous statut bidon d’étudiant ou clandestinement ) la hausse des bas salaires restera une illusion. Cela s’appelle simplement la loi de l’offre et de la"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-09 08:23",
+      "text": "«LFI a choisi de légitimer la violence», dénonce François-Xavier Bellamy https://www.cnews.fr/france/2026-11-09/lfi-choisi-de-legitimer-la-violence-denonce-francois-xavier-bellamy-1950550"
     },
     {
       "author_name": "Le Média en 4⃣-4⃣-2⃣",
-      "published_at": "2026-11-08 08:46",
-      "text": "David Lisnard, patron des maires et candidat à l'Élysée : qui surveille le jeu des parrainages ? \nhttps://lemediaen442.fr/david-lisnard-patron-des-maires-et-candidat-a-lelysee-qui-surveille-le-jeu-des-parrainages/ \n\nAvant de laisser les Français choisir leur président, le système charge quelques milliers d’élus de sélectionner les prétendants."
+      "published_at": "2026-11-09 08:24",
+      "text": "Brest : la police met la main sur les trombinoscopes des lycéens, 4 500 élèves potentiellement fichés \nhttps://lemediaen442.fr/brest-la-police-met-la-main-sur-les-trombinoscopes-des-lyceens-4-500-eleves-potentiellement-fiches/ \n\nLa photo de classe était autrefois destinée aux parents, aux grands-parents et aux albums souvenirs. À Brest, elle intéresse désormais les enquêteurs."
     },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-09 08:24",
+      "text": "💶 Smic à 1 500 € nets : « On est en train de débattre de 5 balles »\n\n🗣️ Julien Leclercq, patron d’une agence de presse : « Je ne connais aucun patron qui n’a pas envie d’augmenter le Smic. »\n\n📻 https://SudRadio.fr"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-09 08:25",
+      "text": "«L'assistanat alimente l'appauvrissement du pays» selon François-Xavier Bellamy, vice-président du parti Les Républicains. #LaGrandeInterview\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "LCP",
+      "published_at": "2026-11-09 08:25",
+      "text": "Cybersécurité : les secteurs \"hautement critiques\" bientôt inscrits dans la loi ⤵️\nhttps://lcp.fr/actualites/cybersecurite-les-secteurs-hautement-critiques-bientot-inscrits-dans-la-loi-444844"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-09 08:27",
+      "text": "François-Xavier Bellamy, vice-président du parti Les Républicains est revenu sur la revalorisation du Smic voulue par Jean-Luc Mélenchon. #LaGrandeInterview\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-09 08:27",
+      "text": "À quelques jours de la date limite de dépôt des candidatures pour la présidence de la Fifa, le dirigeant suisse n’a pas (encore) d’adversaire de poids à l’horizon. Cela pourrait changer.\n\nPar @Mth_Adrien\n➡️ https://l.lepoint.fr/rKU"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-09 08:29",
+      "text": "«Sophie Binet trahit les jeunes» d'après François-Xavier Bellamy, vice-président du parti Les Républicains. #LaGrandeInterview\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-09 08:29",
+      "text": "Techniciens, chaudronniers, magasiniers... HOP ! investit 4 millions d’euros et recrute 60 salariés à Clermont-Ferrand\n➡️ https://l.leparisien.fr/iLdE"
+    },
+    {
+      "author_name": "Police nationale",
+      "published_at": "2026-11-09 08:30",
+      "text": "Nouvelle semaine, nouveau récap de l’actualité police nationale de la semaine !"
+    },
+    {
+      "author_name": "Observatoire de l'immigration et de la démographie",
+      "published_at": "2026-11-09 08:30",
+      "text": "📺 « L’immigration récente en France est l’une des moins en emploi de toute l’UE, avec 46% des immigrés arrivés depuis moins de 5 ans en emploi, soit 23 points de moins que la population générale. » \n\n@NPM_OID sur Pour tout dire @T18 ⬇️"
+    },
+    {
+      "author_name": "Médias-Presse-Info",
+      "published_at": "2026-11-09 08:30",
+      "text": "Qu’est-ce, au fond, que Mélenchon ? - https://www.medias-presse.info/quest-ce-au-fond-que-melenchon/253743/ - Je ne parle pas de l’homme, de l’idéologue, du carriériste. Je parle du candidat à la présidentielle. Eh bien Mélenchon,..."
+    },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-09 08:31",
+      "text": "Il fait Paris-Jérusalem à pied pour lutter contre ses addictions. \nSans grande expérience de la marche, Martin Jubert a parcouru 5000 kilomètres, à pied, jusqu’à Jérusalem. Sur ces routes, il a mené un combat intérieur contre son alcoolisme, qu’il raconte dans «Journal d’un jeune"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-09 08:31",
+      "text": "🔴 L’invité du #GrandMatin\n\n🎙️Toute de suite @karim_bouamrane est en direct, au micro de Jacques Cardoze\n\n➡️ Le direct sur https://sudradio.fr"
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-09 08:34",
+      "text": "« Papa, ils tirent sur les gens ! » : comment deux chirurgiens, présents par hasard, ont sauvé la vie d’un policier et de l’assaillant à Cracovie\n➡️ https://l.leparisien.fr/ew3L"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-09 08:34",
+      "text": "François-Xavier Bellamy s'exprime dans #LaGrandeInterview sur les menaces de fermeture contre CNEWS.\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-09 08:34",
+      "text": "«La CGT de Madame Binet trahit les jeunes», juge François-Xavier Bellamy https://www.cnews.fr/france/2026-11-09/la-cgt-de-madame-binet-trahit-les-jeunes-juge-francois-xavier-bellamy-1950571"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-09 08:35",
+      "text": "🚩Blocus de lycées : Une cinquantaine de proviseurs jettent l’éponge\n\nhttps://www.sudradio.fr/societe/blocus-de-lycees-une-cinquantaine-de-proviseurs-jettent-leponge"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-09 08:35",
+      "text": "\"Le mal de l'assistanat alimente l'immigration\" déclare @fxbellamy #LaGrandeInterview #Europe1"
+    },
+    {
+      "author_name": "Sarah Knafo",
+      "published_at": "2026-11-09 08:36",
+      "text": "📺 À tout de suite chez Apolline de Malherbe sur BFMTV !"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-09 08:36",
+      "text": "🇫🇷 Karim Bouamrane fait-il campagne pour @rglucks1 ?\n\n🗣️ @karim_bouamrane : « Ou il fait campagne pour moi ! Je suis candidat, je fais campagne et on verra dans les sondages. »\n\n➡️ https://sudradio.fr"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-09 08:36",
+      "text": "Des premières semaines de vie éprouvantes. ➡️ https://mrf.lu/2YGmR"
+    },
+    {
+      "author_name": "Burdigala Presse",
+      "published_at": "2026-11-09 08:37",
+      "text": "[Retweet de @LaurentObertone] Dans un pays normal, de tels faits seraient jugés comme une entreprise d'intimidation relevant du terrorisme politique. Dix ans de cabane sans remise.\nMais nous sommes en France."
+    },
+    {
+      "author_name": "Le Média en 4⃣-4⃣-2⃣",
+      "published_at": "2026-11-09 08:37",
+      "text": "TikTok accusé de faire la publicité déguisée d’OnlyFans auprès des mineures \nhttps://lemediaen442.fr/tiktok-accuse-de-faire-la-publicite-deguisee-donlyfans-aupres-des-mineures/ \n\nL’industrie pornographique a compris qu’un sac de luxe pouvait parfois attirer davantage qu’une publicité explicite."
+    },
+    {
+      "author_name": "Comité Trump France",
+      "published_at": "2026-11-09 08:37",
+      "text": "Le président Trump annonce qu’il va rencontrer Poutine et Xi Jinping au sujet de la DÉNUCLÉARISATION, en plus de ses efforts pour mettre fin à la guerre en Iran et en Ukraine"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-09 08:39",
+      "text": "❌ Conférence sociale : « Il ne faut pas s’attendre à un miracle »\n\n🗣️ @karim_bouamrane : « Le gouvernement a une obligation de résultat. 25 € de plus par mois, ce n’est pas suffisant. »\n\n➡️ https://sudradio.fr"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-09 08:39",
+      "text": "SMIC : \"Une revalorisation est un mensonge\" lance @fxbellamy #LaGrandeInterview #Europe1"
+    },
+    {
+      "author_name": "Agence France-Presse",
+      "published_at": "2026-11-09 08:40",
+      "text": "🇬🇷 Grèce : huit migrants sont morts au large de l'île grecque de Crète dans le naufrage de leur embarcation, ont annoncé lundi les garde-côtes grecs."
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-09 08:41",
+      "text": "« On fait tout pour avoir un village agréable et on tombe sur ça » : le combat des élus contre les dépôts sauvages de déchets https://l.leparisien.fr/iLd4"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-09 08:41",
+      "text": "❌ « Le gouvernement ne pourra pas répondre à cette colère en une semaine »\n\n🗣️ @karim_bouamrane : « Il faut trouver un accord pour éviter qu’il y ait des millions de gens dans la rue chaque semaine »\n\n➡️ https://sudradio.fr"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-09 08:42",
+      "text": "[Retweet de @leparisiensport] « J’étais debout sur un bateau entièrement sous l’eau » : l’incroyable sauvetage de Benoît Sineau sur la Route du Rhum\n➡️ https://l.leparisien.fr/2lJ6"
+    },
+    {
+      "author_name": "Marc Vanguard",
+      "published_at": "2026-11-09 08:44",
+      "text": "[Retweet de @marc_vanguard] @RV_Joly Les facteurs sociaux que j'évoque et ignore en même temps."
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-09 08:44",
+      "text": "Cinquante-huit ans après les accords de Grenelle, menés par Georges Pompidou, qui avaient ramené la paix sociale dans le pays, après Mai 68, l’actuel locataire de Matignon, peut-il rééditer l’exploit ? On peut toujours rêver…\n➡️ https://l.lepoint.fr/68S"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-09 08:45",
+      "text": "Un profil qui se dessine. ➡️ https://mrf.lu/2YG8L"
+    },
+    {
+      "author_name": "Burdigala Presse",
+      "published_at": "2026-11-09 08:45",
+      "text": "[Retweet de @PoliceRealites] Incroyable !"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-09 08:45",
+      "text": "❌ « Il faut arrêter de regarder Mélenchon comme le Superman de la gauche »\n\n🗣️ @karim_bouamrane : « Non, le meeting de @JLMelenchon ne m’a pas impressionné ! Il ne peut pas gagner. »\n\n➡️ https://sudradio.fr"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-09 08:46",
+      "text": "Attachée dans son fauteuil roulant, Yvette avait péri noyée : un centre de rééducation jugé pour la mort d’une patiente de 85 ans\n➡️ https://l.leparisien.fr/bOh8"
+    }
+  ],
+  "context": [
     {
       "author_name": "CNEWS",
       "published_at": "2026-11-08 08:46",
