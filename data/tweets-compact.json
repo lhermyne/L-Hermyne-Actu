@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-09 07:16",
-  "period": "du 2026-11-08 07:16 au 2026-11-09 07:16",
-  "new_period": "du 2026-11-08 20:00 au 2026-11-09 07:16",
-  "context_period": "du 2026-11-08 07:16 au 2026-11-08 20:00",
+  "generated_at": "2026-11-09 07:46",
+  "period": "du 2026-11-08 07:46 au 2026-11-09 07:46",
+  "new_period": "du 2026-11-08 20:00 au 2026-11-09 07:46",
+  "context_period": "du 2026-11-08 07:46 au 2026-11-08 20:00",
   "coverage_complete": true,
-  "new_count": 307,
-  "context_count": 854,
-  "duplicates_merged": 56,
+  "new_count": 333,
+  "context_count": 825,
+  "duplicates_merged": 55,
   "empty_removed": 3,
   "new": [
     {
@@ -1590,162 +1590,139 @@
       "author_name": "Fdesouche.com est une revue de presse",
       "published_at": "2026-11-09 07:15",
       "text": "Après avoir eux-mêmes appelé le 112 depuis la mer du Nord, une trentaine de migrants ont refusé de quitter leur embarcation. Les garde-côtes français ont finalement pris le relais. \n https://www.fdesouche.com/2026/11/09/belgique-appel-112-migrants-refus-secours-eaux-francaises/"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Le Point",
-      "published_at": "2026-11-08 07:16",
-      "text": "Profondément modernisé, l’hôpital Pasteur 2 abrite des équipements de pointe, dont une salle d’intervention hybride, dopée à l’IA. Visite guidée.\n\n➡️ https://l.lepoint.fr/Kzu"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-08 07:16",
-      "text": "💥 Manifestations : Bordeaux à nouveau marqué par des affrontements avec les forces de l'ordre #GrandMatinWeekEnd\n\n🗣️ L'alerte de Cyril Jeannin (@UN1TE_policenat) : \"La BRI et le RAID sont déployés, ça tient vraiment à peu de chose\"\n\n📻https://sudradio.fr\n☎️0 826 300 300"
-    },
-    {
-      "author_name": "Le JDD",
-      "published_at": "2026-11-08 07:25",
-      "text": "Jean-Luc Mélenchon : la tyrannie en marche https://ow.ly/jNos106I6Rq"
-    },
-    {
-      "author_name": "Le JDD",
-      "published_at": "2026-11-08 07:25",
-      "text": "Économie, écologie, sécurité : le programme rouge qui tâche de LFI https://ow.ly/aQKN106I6Rr"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-08 07:25",
-      "text": "La chronique économique de Sandy Prenois du 08/11/2026 dans #LaMatinale"
     },
     {
       "author_name": "Europe 1",
-      "published_at": "2026-11-08 07:26",
-      "text": "Pour lutter contre les déserts médicaux, l’État propose aux étudiants en médecine, mais aussi aux futurs dentistes, sages-femmes et pharmaciens, de percevoir 1 200 € par mois pendant leurs études\n➡️Ai-je le droit ?  avec Roland Perez sur #Europe1 #Europe1Matin"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-08 07:26",
-      "text": "« Vendeurs de roses », liasses de billets et promesses de vie de rêve : plongée glaçante dans le TikTok des proxénètes\n➡️ https://l.leparisien.fr/pMOT"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-08 07:27",
-      "text": "La chronique internationale d'Harold Hyman du 08/11/2026 dans #LaMatinale"
-    },
-    {
-      "author_name": "Le Point",
-      "published_at": "2026-11-08 07:28",
-      "text": "La réforme LMNP de 2025 change la donne fiscale des différents modes de location (vide, meublée). Loyers, impôts, travaux : découvrez quel régime est le plus avantageux pour votre investissement locatif.\n\n➡️ https://l.lepoint.fr/i9R"
-    },
-    {
-      "author_name": "Kontre Kulture",
-      "published_at": "2026-11-08 07:30",
-      "text": "⛔ Faites barrage à l'ignorance : LISEZ !"
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-08 07:30",
-      "text": "Le club de Tenerife s’engage à soutenir financièrement la fille de Jesús de Miguel jusqu’à ses 18 ans → https://l.lefigaro.fr/UvZg"
-    },
-    {
-      "author_name": "Le JDD",
-      "published_at": "2026-11-08 07:31",
-      "text": "Pierre Lellouche : après les midterms, Trump garde la main sur la politique étrangère https://ow.ly/81x1106I6Ss"
-    },
-    {
-      "author_name": "Le JDD",
-      "published_at": "2026-11-08 07:31",
-      "text": "Présidentielle 2027 : Macron maintient les dates malgré les craintes de violences https://ow.ly/EWW0106I6St"
-    },
-    {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-08 07:31",
-      "text": "Le pronostic de Sarkozy, Mélenchon en replay, Gougler des rails aux planches… Nos indiscrétions de la semaine https://l.leparisien.fr/LeKy",
-      "also_by": [
-        "Le Parisien"
-      ]
-    },
-    {
-      "author_name": "Ni Oubli Ni Pardon",
-      "published_at": "2026-11-08 07:35",
-      "text": "📌 Ces phrases ne sont pas des slogans.\n\nCe sont des témoignages réels.\nDes vécus bruts, parfois encore douloureux.\n\nCe livre rassemble des centaines de voix pour préserver une mémoire collective que beaucoup préféreraient voir disparaître.\n\n📘 👉 https://contrepropagande.fr/ni-oubli-ni-pardon"
-    },
-    {
-      "author_name": "Le JDD",
-      "published_at": "2026-11-08 07:37",
-      "text": "Présidentielle 2027 : Édouard Philippe peut-il échapper au syndrome Juppé ? https://ow.ly/xwN8106I72m"
-    },
-    {
-      "author_name": "Le JDD",
-      "published_at": "2026-11-08 07:37",
-      "text": "Immobilier ancien : Marc Touati prévoit une nouvelle baisse des prix d’au moins 10 % https://ow.ly/Tufx106I72o"
-    },
-    {
-      "author_name": "Le JDD",
-      "published_at": "2026-11-08 07:37",
-      "text": "Route du Rhum : les Class40, la moitié de la flotte dans l’ombre des géants https://ow.ly/Hn42106I72s"
+      "published_at": "2026-11-09 07:18",
+      "text": "14 juillet : «Je vois chaque année des gens qui ne portent pas le bleuet, et ça m'énerve», regrette Franck Leboeuf https://ow.ly/2LuL106I9Bm"
     },
     {
       "author_name": "Sud Radio",
-      "published_at": "2026-11-08 07:41",
-      "text": "💊 Pourquoi prendre de la vitamine D à l'approche de l'hiver ?  #GrandMatinWeekEnd\n\n🗣️  Roger Rua, Médecin généraliste : \"Le manque de soleil conduit à un déficit de vitamine D. Elle est nécessaire, car elle augmente la puissance de notre défense immunitaire\""
+      "published_at": "2026-11-09 07:18",
+      "text": "❌ Déserts médicaux : « En 2024, 6 hôpitaux sur 10 fermaient régulièrement leurs services et rien ne se passe »\n\n🗣️ Michel Masset, sénateur de Lot-et-Garonne : « Un rendez-vous chez un spécialiste, c’est entre 4 et 8 mois d’attente »\n\n📻 https://SudRadio.fr"
+    },
+    {
+      "author_name": "EuroLibertés",
+      "published_at": "2026-11-09 07:20",
+      "text": "Lucky Luke fête ses 80 ans ! https://www.bvoltaire.fr/lucky-luke-fete-ses-80-ans/"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-08 07:42",
-      "text": "Quels grands magasins seront ouverts le 11 novembre à Paris et en Île-de-France ? Forum des Halles, Galeries Lafayette, BHV… voici les horaires. ➡️ https://mrf.lu/2_VcB"
+      "published_at": "2026-11-09 07:20",
+      "text": "Un moment de recueillement annuel ➡️ https://mrf.lu/2Y2H1"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-09 07:22",
+      "text": "« Canard boiteux » depuis sa désastreuse dissolution, comme désormais Donald Trump, le président ne peut même plus bouger, neutralisé par la polarisation triomphante qu’incarnent Le Pen et Mélenchon.\n\n🖋️ LA CHRONIQUE de @scoignard\n➡️ https://l.lepoint.fr/lgc"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-09 07:23",
+      "text": "Les ministres du G7 réunis à Paris sur fond de tensions avec l'Iran https://ow.ly/IEmi106I9Bv"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-09 07:23",
+      "text": "Tentez de gagner un séjour bien-être Thalazur à Cabourg https://ow.ly/eW3I106I9Bw"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-08 07:42",
-      "text": "À 39 ans, Lionel Messi continue d’écrire l’histoire : avec 26 buts, il devient le premier joueur à remporter deux Soulier d’or consécutifs en MLS. 🇦🇷⚽ ➡️ https://mrf.lu/2_V5m"
+      "published_at": "2026-11-09 07:24",
+      "text": "Notre journaliste revient sur l'incendie criminel qui a visé la maison d'un policier à Auch. #LaMatinale\n\nToute l'info est à retrouver sur https://cnews.fr"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-08 07:43",
-      "text": "Karim Maloum revient sur les pilleurs et casseurs lors des manifestations dans #LaMatinaleWE : «Il faut punir les pilleurs en frappant au portefeuille» \n\nToute l'info est à retrouver sur https://cnews.fr"
+      "published_at": "2026-11-09 07:26",
+      "text": "Il était hospitalisé dans un état critique depuis son interpellation ➡️ https://mrf.lu/2Y2pr"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-09 07:28",
+      "text": "Pologne : l'auteur de la tuerie de Cracovie est mort https://ow.ly/1ufH106I9BE"
+    },
+    {
+      "author_name": "L'Express",
+      "published_at": "2026-11-09 07:28",
+      "text": "Après une tentative de suicide de sa fille, Gaëlle Berbonde a décidé de rejoindre le collectif de familles Algos Victima, qui a porté plainte contre le réseau social chinois en novembre...\n\n➡️ https://l.lexpress.fr/M57"
+    },
+    {
+      "author_name": "Tocsin",
+      "published_at": "2026-11-09 07:28",
+      "text": "La Matinale 09/11 : Une nouvelle étape dans la marche forcée européiste ! https://x.com/i/broadcasts/2qVjQQNevgldmR"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-08 07:43",
-      "text": "Faillite bancaire : jusqu’à 100.000 euros garantis sur vos comptes et 100.000 euros supplémentaires sur les livrets réglementés. Voici ce qui est protégé. ➡️ https://mrf.lu/2_VZk"
+      "published_at": "2026-11-09 07:28",
+      "text": "Claude Moniquet est revenu sur l'enquête ouverte par Nvidia après que le patron du géant américain a reconnu une liaison extraconjugale avec une femme soupçonnée d'être une espionne chinoise. #LaMatinale\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-09 07:28",
+      "text": "🏛️ 66 parlementaires appellent à une primaire contre les « extrêmes »\n\n🗣️ @OlgaGivernet, députée Renaissance de l’Ain : « Aucun candidat de notre camp n’est en mesure de se qualifier au second tour. Nous courons le risque d’un duel Le Pen-Mélenchon »\n\n📻 https://SudRadio.fr"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-08 07:43",
-      "text": "Le Français Tom Laperche remporte la Route du Rhum 2026 dès sa première participation\n➡️ https://l.leparisien.fr/Kx4z"
+      "published_at": "2026-11-09 07:30",
+      "text": "🔴L’auteur de la tuerie à Cracovie a succombé à ses blessures, annonce la police \n➡️ https://l.leparisien.fr/rBRO"
+    },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-09 07:30",
+      "text": "Cernée par les rats, une habitante d’Albi vit retranchée dans sa chambre avec sa fille → https://l.lefigaro.fr/iFxv"
+    },
+    {
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-09 07:30",
+      "text": "Mike Tapp estime que le Royaume-Uni a trop dépendu de la main-d’œuvre étrangère. Selon lui, une personne sur 30 vivant dans le pays est arrivée depuis quatre ans. \n https://www.fdesouche.com/2026/11/09/royaume-uni-une-personne-sur-30-arrivee-quatre-ans-mike-tapp/"
+    },
+    {
+      "author_name": "Valeurs actuelles",
+      "published_at": "2026-11-09 07:31",
+      "text": "L'ENTRETIEN POLITIQUE. Nouveau président du groupe RN à l'Assemblée, Sébastien Chenu entend préparer les députés à l'exercice du pouvoir. Majorité parlementaire, campagne présidentielle, obstacles institutionnels : le député du Nord se confie à Valeurs a… https://l.valeursactuelles.com/sPq"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-09 07:32",
+      "text": "🇺🇦 🇮🇷G7 à Paris : l'Ukraine et l'Iran au cœur des discussions entre les chefs de la diplomatie\n\nhttps://www.sudradio.fr/societe/les-ministres-du-g7-reunis-a-paris-sur-fond-de-tensions-avec-liran"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-08 07:44",
-      "text": "RSA, AAH… Les minima sociaux pourraient être revalorisés d’environ 2,3% au 1er avril 2027. Une hausse encore à confirmer. ➡️ https://mrf.lu/2_VZ-"
+      "published_at": "2026-11-09 07:35",
+      "text": "Une soirée mémorable en famille ➡️ https://mrf.lu/2Y2-5"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-09 07:39",
+      "text": "🔴 Le trafic est très perturbé sur l’ensemble du RER B ce lundi matin après «un incident affectant les voies à Gare du Nord»\n➡️ https://l.leparisien.fr/AAVW"
+    },
+    {
+      "author_name": "Aldo Sterone",
+      "published_at": "2026-11-09 07:44",
+      "text": "Le terroriste polonais est mort ce matin"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-09 07:44",
+      "text": "« Je connaissais à peine l’existence du général » : les Américains découvrent « La Bataille de Gaulle »\n➡️ https://l.leparisien.fr/BN0U"
+    },
+    {
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-09 07:45",
+      "text": "À Podenzano, des enfants avaient travaillé deux mois sur une banderole « Qui nessuno è straniero ». La direction l’a fait retirer faute d’autorisation préalable. \n https://www.fdesouche.com/2026/11/09/italie-podenzano-banderole-qui-nessuno-e-straniero-retiree-ecole/"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-08 07:45",
-      "text": "Tom Laperche remporte la Route du Rhum dès sa première participation, en un temps record de 6 jours, 13 heures et 27 minutes. ➡️ https://mrf.lu/2_V1j"
-    },
-    {
-      "author_name": "Alain Weber",
-      "published_at": "2026-11-08 07:45",
-      "text": "Je suis, à titre personnel, opposé par principe à toute obligation de vaccination contre le papillomavirus. C’est une question de liberté individuelle et de consentement médical.\n\nMais au-delà de cette conviction, je m’intéresse aux arguments des docteurs Gérard et\n[Cite @NicoleDelepine] Arguments mensongers de la  proposition de loi visant à rendre le Gardasil obligatoire ! https://docteur.nicoledelepine.fr/?p=5861"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-08 07:45",
-      "text": "Trois soldats ont été tués et 16 blessés, dont huit grièvement, dans une attaque de drones chargés d’explosifs contre une base militaire à Bolívar, en Colombie. ➡️ https://mrf.lu/2_V1F"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-08 07:46",
-      "text": "Tom Laperche remporte la Route du Rhum 2026 en 6 jours, 13 heures et 27 minutes. Pour sa première participation, le Français bat le record de l’épreuve. ➡️ https://mrf.lu/2_Vxh"
+      "published_at": "2026-11-09 07:45",
+      "text": "Une révélation inattendue ➡️ https://mrf.lu/2Y2y4"
     },
     {
       "author_name": "Le JDD",
-      "published_at": "2026-11-08 07:46",
-      "text": "Alice Rufo, la diplomate devenue ministre qui a l’oreille de Lecornu https://ow.ly/Rb04106I78O"
-    },
+      "published_at": "2026-11-09 07:46",
+      "text": "Chute en bourse, départ de stars... Nike est-elle devenue une marque has been ? https://ow.ly/LzuI106I9Jb"
+    }
+  ],
+  "context": [
     {
       "author_name": "CNEWS",
       "published_at": "2026-11-08 07:46",
@@ -4084,6 +4061,11 @@
       "author_name": "Bruno Attal",
       "published_at": "2026-11-08 14:49",
       "text": "Après avoir jeté à la gueule sa valise à un taxi, Manon Aubry pousse un militant LFI qui lui fait de l’ombre.\n\nL’arrogance de l’oligarchie LFI @ManonAubryFr\n[Cite @Bruno_Attal_] Manon Aubry pourrait être poursuivie pour détournement d’argent public.\n\n@ManonAubryFr a-t-elle utilisé cette berline très polluante avec mon fric et donc illégalement ?"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-08 14:50",
+      "text": "Le pronostic de Sarkozy, Mélenchon en replay, Gougler des rails aux planches… Nos indiscrétions de la semaine https://l.leparisien.fr/MPCr"
     },
     {
       "author_name": "Valeurs actuelles",
