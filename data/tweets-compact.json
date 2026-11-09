@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-09 02:15",
-  "period": "du 2026-11-08 02:15 au 2026-11-09 02:15",
-  "new_period": "du 2026-11-08 20:00 au 2026-11-09 02:15",
-  "context_period": "du 2026-11-08 02:15 au 2026-11-08 20:00",
+  "generated_at": "2026-11-09 02:45",
+  "period": "du 2026-11-08 02:45 au 2026-11-09 02:45",
+  "new_period": "du 2026-11-08 20:00 au 2026-11-09 02:45",
+  "context_period": "du 2026-11-08 02:45 au 2026-11-08 20:00",
   "coverage_complete": true,
-  "new_count": 243,
-  "context_count": 898,
-  "duplicates_merged": 54,
+  "new_count": 244,
+  "context_count": 897,
+  "duplicates_merged": 55,
   "empty_removed": 3,
   "new": [
     {
@@ -1255,14 +1255,17 @@
       "author_name": "Alain Weber",
       "published_at": "2026-11-09 02:04",
       "text": "[Retweet de @j_bg] ⚠️ Attention aux listes sur X dans lesquelles vous avez été ajouté. Elles permettent à des militants de lancer des raids pour signaler vos contenus. Les noms ne sont pas nécessairement explicites il faut les contrôler une à une régulièrement 😩\n\nPour vérifier votre compte allez"
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-09 02:17",
+      "text": "L’ancien président colombien Gustavo Petro accusé d’avoir accordé des contrats en échange de relations sexuelles\n➡️ https://l.leparisien.fr/1RLG",
+      "also_by": [
+        "Le Parisien"
+      ]
     }
   ],
   "context": [
-    {
-      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
-      "published_at": "2026-11-08 02:21",
-      "text": "[Retweet de @david_parker] The person I feel the worst for today is Elon, because all he wants to do is build things and make humanity interplanetary; and now he's going to have to spend so much time and resources fighting bitter little Democrats. Like a lion having to swat at flies all day."
-    },
     {
       "author_name": "Le Parisien | politique",
       "published_at": "2026-11-08 03:43",
