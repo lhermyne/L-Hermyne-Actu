@@ -1,15 +1,15 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-09 22:02",
-  "period": "du 2026-11-08 22:02 au 2026-11-09 22:02",
-  "new_period": "du 2026-11-09 20:00 au 2026-11-09 22:02",
-  "context_period": "du 2026-11-08 22:02 au 2026-11-09 20:00",
+  "generated_at": "2026-11-09 22:22",
+  "period": "du 2026-11-08 22:22 au 2026-11-09 22:22",
+  "new_period": "du 2026-11-09 20:00 au 2026-11-09 22:22",
+  "context_period": "du 2026-11-08 22:22 au 2026-11-09 20:00",
   "coverage_complete": true,
-  "new_count": 169,
-  "context_count": 1494,
-  "duplicates_merged": 102,
-  "empty_removed": 6,
+  "new_count": 193,
+  "context_count": 1466,
+  "duplicates_merged": 101,
+  "empty_removed": 7,
   "new": [
     {
       "author_name": "Sud Radio",
@@ -525,6 +525,11 @@
       "text": "[Retweet de @Cercle_Aristote] Oui."
     },
     {
+      "author_name": "Cercle Aristote",
+      "published_at": "2026-11-09 21:07",
+      "text": "[Retweet de @Cercle_Aristote] La dame Sophie est un cas d’école :\n\n- Elle se prend pour Jean Moulin en affichant un pauvre pigiste de @CNEWS, qui ne doit pas gagner des masses.\n\n- Elle se prend pour Jean Moulin en appelant à voter Macron aux élections, et à faire barrrrage !\n\nSociale traître chimiquement pure"
+    },
+    {
       "author_name": "Le Parisien",
       "published_at": "2026-11-09 21:07",
       "text": "L’éditrice de Bardella, Knafo et Sarkozy nommée à la direction de Grasset\n➡️ https://l.leparisien.fr/43AB"
@@ -797,7 +802,10 @@
     {
       "author_name": "Le Parisien | politique",
       "published_at": "2026-11-09 21:49",
-      "text": "« Les conditions ne sont pas réunies » : sur Parcoursup, un premier round qui fait pschitt https://l.leparisien.fr/9FUj"
+      "text": "« Les conditions ne sont pas réunies » : sur Parcoursup, un premier round qui fait pschitt https://l.leparisien.fr/9FUj",
+      "also_by": [
+        "Le Parisien"
+      ]
     },
     {
       "author_name": "Le Figaro",
@@ -858,159 +866,124 @@
       "author_name": "Causeur.fr",
       "published_at": "2026-11-09 22:00",
       "text": "Israël: les deux fronts de Gadi Eizenkot ✍️ Gil Mihaely @causeur https://www.causeur.fr/israel-les-deux-fronts-de-gadi-eizenkot-336943"
-    }
-  ],
-  "context": [
+    },
     {
-      "author_name": "Observatoire du journalisme (Ojim)",
-      "published_at": "2026-11-08 22:02",
-      "text": "🚨ALERTE | La pétition réclamant la FERMETURE de CNews vient de dépasser le MILLION de signatures."
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-09 22:02",
+      "text": "Orelsan en rollers à Caen s’en prend frontalement au Canon français\n➡️ https://l.leparisien.fr/aCzk"
+    },
+    {
+      "author_name": "Causeur.fr",
+      "published_at": "2026-11-09 22:02",
+      "text": "🎙️ Podcast Atlanti’Causeur: cette semaine la jeunesse, ce naufrage / la liberté d’expression sous pression @causeur \n\nhttps://www.causeur.fr/podcast-ferjou-levy-lyceens-degois-macron-petition-cnews-336979"
+    },
+    {
+      "author_name": "Occidentis",
+      "published_at": "2026-11-09 22:02",
+      "text": "⚡️ « Il n'y a pas de violences contre les journalistes » estime Mathieu Kassovitz. \n\nLe réalisateur minimise également le slogan \"ACAB\" et diffame le RN."
+    },
+    {
+      "author_name": "Damien Rieu",
+      "published_at": "2026-11-09 22:02",
+      "text": "[Retweet de @JordanFlrtn] 🚨 Scène surréaliste en ce moment même au port de la Restinga (îles Canaries, Espagne) ou des BÉNÉVOLES FRANÇAIS de la Croix-Rouge accueillent joyeusement des migrants venus illégalement en majeure partie du Sénégal.\n\nPartagez ! @Frontieresmedia"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-09 22:03",
+      "text": "🗝️ Les Clefs d’une vie avec Jacques Pessis\n🗣️ @Elisa_Tovati : \"J’ai réussi à faire parler de leurs échecs à 16 personnalités\"\n\nhttps://youtu.be/ggco4z3fvNU\n\nhttps://youtu.be/ggco4z3fvNU"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-08 22:02",
-      "text": "«Le gouvernement pourrait baisser la TVA pour calmer la colère sociale», propose Andréa Kotarac, porte-parole du RN, sur le plateau de CNEWS\n\nToute l'info est à retrouver sur https://cnews.fr"
+      "published_at": "2026-11-09 22:03",
+      "text": "L’influenceur avait été tué lors d’un discours dans l’Utah. ➡️ https://mrf.lu/2YLwl"
     },
     {
-      "author_name": "Boulevard Voltaire",
-      "published_at": "2026-11-08 22:04",
-      "text": "[POINT DE VUE] « Macron est un connard » : belle image de notre jeunesse gauchiste | Par Arnaud Florac\nIl suffit de regarder de vieilles vidéos de l’INA pour se rendre compte que le problème n’est pas l’âge mais l’éducation. \n \nhttps://www.bvoltaire.fr/point-de-vue-macron-est-un-connard-belle-image-de-notre-jeunesse-gauchiste/?fsp_sid=26215"
+      "author_name": "Europe 1",
+      "published_at": "2026-11-09 22:04",
+      "text": "Le pape Léon XIV a rencontré en Argentine 5 victimes de violences sexuelles par des membres du clergé https://ow.ly/uosP106IbHV"
     },
     {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-08 22:04",
-      "text": "Contre Attaque accusait la police d’avoir « foncé sur une terrasse ». La police dit intervenir après des jets de projectiles. Un homme visible frappant un motard est depuis mis en examen pour violences aggravées.\n\nhttps://www.fdesouche.com/2026/11/08/nantes-video-virale-motard-terrasse-homme-mis-en-examen-violences-policier/\nhttps://x.com/ContreAttaque_/status/2118592819539656739\n[Cite @ContreAttaque_] NANTES : UNE MOTO DE POLICE FONCE SUR UNE TERRASSE\n\nUne bande de miliciens semant la terreur. C'est une fois de plus une scène choquante et révoltante commise par les forces de l'ordre. Elle a eu lieu sur une place nantaise, après la manifestation du 5 novembre.\n\n1/2 ⤵️"
+      "author_name": "Frontières",
+      "published_at": "2026-11-09 22:04",
+      "text": "🚨 ALERTE - Mathieu Kassovitz estime qu’« il n'y a pas de violences contre les journalistes »."
     },
     {
       "author_name": "Sarah Knafo",
-      "published_at": "2026-11-08 22:04",
-      "text": "[Retweet de @BFMTV_Inside] Ce lundi 9 novembre dans le #FaceAFace, @apollineWakeUp reçoit @knafo_sarah, députée européenne et secrétaire générale de Reconquête.\n\nRendez-vous demain dès 8h30 sur @RMCInfo et @BFMTV."
+      "published_at": "2026-11-09 22:06",
+      "text": "Bien arrivée à Limoges ! \n\nVous êtes plus de 800 ce soir à ma dédicace. Merci pour tout !"
     },
     {
-      "author_name": "Alain Weber",
-      "published_at": "2026-11-08 22:04",
-      "text": "Le HuffPost fait la manche. \n\nQuelle ironie !\n\nLe HuffPost sollicite des dons pour soutenir une presse qu’il qualifie lui-même de « qualité ». \n\nQuelle modestie !\n\nQuand je vois l’enthousiasme de certains de ses articles à l’idée de voir disparaître CNews, j’y vois moins du"
-    },
-    {
-      "author_name": "Frontières",
-      "published_at": "2026-11-08 22:08",
-      "text": "🚨 ALERTE - Notre journaliste @Guillaume_fcqt a été PRIS À PARTIE lors d’un rassemblement à Saint-Denis qui était organisé pour dénoncer la « RÉPRESSION POLICIÈRE » au lycée Paul Eluard."
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-08 22:09",
-      "text": "Président destitué, les comptes de 3 millions de clients gelés… Cinq minutes pour comprendre le scandale bancaire qui secoue le Paraguay\n➡️ https://l.leparisien.fr/z9DU"
-    },
-    {
-      "author_name": "Union Populaire Républicaine",
-      "published_at": "2026-11-08 22:09",
-      "text": "[Retweet de @PatriceCali] Le programme de Mélenchon est impossible sans Frexit.\nLFI écrit noir sur blanc dans L’Avenir en commun 2027 :\n« La France ne sortira ni de l’Union, ni de la zone euro ; elle appliquera, en revanche, sans aucune concession, le programme choisi démocratiquement par son peuple, même"
-    },
-    {
-      "author_name": "Union Populaire Républicaine",
-      "published_at": "2026-11-08 22:09",
-      "text": "[Retweet de @PatriceCali] Les GOPÉ (Grandes Orientations de Politique Économique 🇪🇺) de 2015 recommandaient explicitement à la France de poursuivre la réduction des dotations de l’État aux collectivités.\nElles demandaient aussi un meilleur contrôle des dépenses locales (notamment les dépenses de"
-    },
-    {
-      "author_name": "Union Populaire Républicaine",
-      "published_at": "2026-11-08 22:09",
-      "text": "[Retweet de @f_asselineau] 𝗔𝗨𝗧𝗢𝗖𝗢𝗟𝗟𝗔𝗡𝗧 𝗩𝗨 𝗦𝗨𝗥 𝗨𝗡 𝗠𝗨𝗥 𝗣𝗔𝗥𝗜𝗦𝗜𝗘𝗡\nSans commentaire."
-    },
-    {
-      "author_name": "Union Populaire Républicaine",
-      "published_at": "2026-11-08 22:09",
-      "text": "[Retweet de @f_asselineau] 📂 𝗣𝗘𝗧𝗜𝗧 \"𝗔𝗜𝗗𝗘-𝗠𝗘𝗠𝗢𝗜𝗥𝗘\" (style Bardella)\n𝗣𝗢𝗨𝗥 𝗧𝗢𝗨𝗦 𝗖𝗘𝗨𝗫 𝗤𝗨𝗜 𝗖𝗥𝗢𝗜𝗘𝗡𝗧 𝗤𝗨𝗘 𝗟'𝗢𝗡 𝗣𝗢𝗨𝗥𝗥𝗔𝗜𝗧 𝗣𝗥𝗜𝗩𝗜𝗟𝗘𝗚𝗜𝗘𝗥 𝗟'𝗜𝗡𝗗𝗨𝗦𝗧𝗥𝗜𝗘 𝗙𝗥𝗔𝗡𝗖𝗔𝗜𝗦𝗘 𝗧𝗢𝗨𝗧 𝗘𝗡 𝗥𝗘𝗦𝗧𝗔𝗡𝗧 𝗗𝗔𝗡𝗦 𝗟'𝗨𝗘\n===\nRéserver les marchés publics"
-    },
-    {
-      "author_name": "Union Populaire Républicaine",
-      "published_at": "2026-11-08 22:09",
-      "text": "[Retweet de @f_asselineau] 📹 𝘓𝘢 𝘤𝘢𝘱𝘴𝘶𝘭𝘦 𝘷𝘪𝘥𝘦𝘰 𝘥𝘶 𝘫𝘰𝘶𝘳📱\n𝗟𝗘 \"𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗠𝗘 𝗗𝗘 𝗥𝗘𝗜𝗡𝗗𝗨𝗦𝗧𝗥𝗜𝗔𝗟𝗜𝗦𝗔𝗧𝗜𝗢𝗡\" 𝗗𝗘 𝗣𝗢𝗟𝗢𝗡𝗬 𝗣𝗥𝗘𝗡𝗗 𝗟𝗘𝗦 𝗙𝗥𝗔𝗡𝗖𝗔𝗜𝗦 𝗣𝗢𝗨𝗥 𝗗𝗘𝗦 𝗜𝗠𝗕𝗘𝗖𝗜𝗟𝗘𝗦\nIncompétence ou tromperie délibérée ?\nCe qu'annonce Polony est"
-    },
-    {
-      "author_name": "Union Populaire Républicaine",
-      "published_at": "2026-11-08 22:09",
-      "text": "[Retweet de @f_asselineau] 📉🇪🇺𝗟'𝗜𝗡𝗘𝗫𝗢𝗥𝗔𝗕𝗟𝗘 𝗔𝗣𝗣𝗔𝗨𝗩𝗥𝗜𝗦𝗦𝗘𝗠𝗘𝗡𝗧\n𝗗𝗘𝗦 𝗙𝗥𝗔𝗡𝗖𝗔𝗜𝗦 𝗥𝗘𝗦𝗨𝗟𝗧𝗘 𝗗𝗘 𝗡𝗢𝗧𝗥𝗘 𝗔𝗣𝗣𝗔𝗥𝗧𝗘𝗡𝗔𝗡𝗖𝗘 𝗔 𝗟'𝗨𝗘 𝗘𝗧 𝗔 𝗟'𝗘𝗨𝗥𝗢\nInflation comprise, le salaire de base dans le secteur privé a encore baissé de -1,1% sur 1 an, selon les"
-    },
-    {
-      "author_name": "Union Populaire Républicaine",
-      "published_at": "2026-11-08 22:09",
-      "text": "[Retweet de @f_asselineau] 📺 𝗡𝗼𝘂𝘃𝗲𝗹𝗹𝗲 𝘃𝗶𝗱𝗲𝗼\n𝗙𝗥𝗔𝗡𝗖𝗢𝗜𝗦 𝗔𝗦𝗦𝗘𝗟𝗜𝗡𝗘𝗔𝗨-TV\nCette vidéo de 7 minutes reprend ma réponse à une question du Direct du 28 octobre 2026 :\n🗣 Qu'avez-vous pensé du comportement de Macron après la tuerie de Trappes ?\nhttps://youtu.be/Z0-RMDjMQiA?is=ArcDlV8V1IHHr5yE"
-    },
-    {
-      "author_name": "Union Populaire Républicaine",
-      "published_at": "2026-11-08 22:10",
-      "text": "[Retweet de @f_asselineau] 🤡 𝗘𝗡𝗖𝗢𝗥𝗘 𝗤𝗨𝗘𝗟𝗤𝗨𝗘𝗦 𝗘𝗙𝗙𝗢𝗥𝗧𝗦, 𝗠𝗢𝗡𝗦𝗜𝗘𝗨𝗥 𝗗𝗨𝗣𝗢𝗡𝗧-𝗔𝗜𝗚𝗡𝗔𝗡 !\nÀ l'instar de Philippe de Villiers, Dupont-Aignan plagie au mot près mes analyses, et même mes formules, sur les grands médias où il a table ouverte. La vidéo ci-dessous en fournit"
-    },
-    {
-      "author_name": "Union Populaire Républicaine",
-      "published_at": "2026-11-08 22:10",
-      "text": "[Retweet de @f_asselineau] 𝗣𝗔𝗧𝗛𝗘𝗧𝗜𝗤𝗨𝗘\nBardella est si nul qu'on lui a préparé un texte,banal et sans intérêt,pour l'émission tv.\nVu sa cervelle de moineau, il doit le lire.\nMais il lit tout les mots qu'il voit, y compris \"aide-mémoire\" en en-tête !\nPour un peu, il ânonnait aussi \"Parler lentement"
-    },
-    {
-      "author_name": "Union Populaire Républicaine",
-      "published_at": "2026-11-08 22:10",
-      "text": "[Retweet de @f_asselineau] 📺 𝗡𝗼𝘂𝘃𝗲𝗹𝗹𝗲 𝘃𝗶𝗱𝗲𝗼 𝘀𝘂𝗿 𝗕𝗔𝗕𝗘𝗟-𝗧𝗩\nJ'ai répondu en direct aux questions de Daniel sur BABEL-TV, ce vendredi 6 novembre 2026. ⤵️\nhttps://www.youtube.com/live/EAq0eo1k29I?is=1ZM7GcEknGdFTebI\n-----\nBabel TV se définit comme un média engagé en faveur des causes sociales, libre et totalement"
-    },
-    {
-      "author_name": "Jon De Lorraine",
-      "published_at": "2026-11-08 22:10",
-      "text": "C'EST UN SCANDALE. C'EST GRAVISSIME.\nCELA EST UNE ATTAQUE DIRECTE CONTRE LES CHRETIENS ET SPECIFIQUEMENT CONTRE LES LORRAINS\nCA NE FAIT PAS LES GROS TITRES CA ??? \n\n🔴🇫🇷 ALERTE INFO - Une relique de SAINT NICOLAS a été VOLÉE, puis BRÛLÉE et ÉCRASÉE après sa disparition de la"
-    },
-    {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-08 22:11",
-      "text": "Une fenêtre aurait été brisée au parpaing, un bidon de fioul retrouvé dans le salon et deux jerricans à l’entrée. Le policier avait déjà été menacé et son matricule tagué en ville. \n https://www.fdesouche.com/2026/11/08/auch-32-maison-policier-incendie-nunez-acte-profession-7-novembre-2026/"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-08 22:13",
-      "text": "L'ex-maire de Toulon Hubert Falco jugé en décembre pour détournement de fonds publics.\nhttps://www.sudradio.fr/societe/lex-maire-de-toulon-hubert-falco-juge-en-decembre-pour-detournement-de-fonds-publics"
+      "author_name": "Tanguy David",
+      "published_at": "2026-11-09 22:06",
+      "text": "[Retweet de @BastionMediaFR] 🔴🇫🇷 𝗙𝗟𝗔𝗦𝗛 𝗜𝗡𝗙𝗢 — « Wallah mortier ! Au nom d’Allah, mortier ! »\n\nScène surréaliste au lycée Jehan de Chelles, où des élèves ont tiré des mortiers en pleine salle de cours, sous les cris terrifiés de jeunes lycéennes.\n\nAu moins 6 personnes, des élèves et des membres du"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-08 22:14",
-      "text": "«L'heure est à la conflictualité et à la violence», déplore Olivier Dartigolles, chroniqueur politique et auteur de «Tout destin est cousu d’enfance», aux éditions Fayard \n\nToute l'info est à retrouver sur https://cnews.fr"
+      "published_at": "2026-11-09 22:08",
+      "text": "«Le programme de La France insoumise est-il réaliste ?» : l'édito de Mathieu Bock-Côté dans #Facealinfo"
+    },
+    {
+      "author_name": "Tribune Populaire🌐",
+      "published_at": "2026-11-09 22:11",
+      "text": "La situation des médias est tellement catastrophique qu’ils en sont réduits à organiser une table ronde pour faire le bilan…\n\nIls commencent visiblement à comprendre que faire la propagande pour Macron n’est pas une stratégie rentable sur le long terme."
     },
     {
       "author_name": "Le Point",
-      "published_at": "2026-11-08 22:14",
-      "text": "À l’occasion de ses 70 ans, La Maison du Whisky a réussi l’impossible : obtenir des Japonais de Nikka de lui confier des fûts tout à fait exceptionnels, afin de les embouteiller. Un succès à tous les égards.\n\n➡️ https://l.lepoint.fr/h6G"
+      "published_at": "2026-11-09 22:12",
+      "text": "Calmes, appréciés de leurs collègues, irréprochables dans leur travail… Les portraits des policiers accusés d’avoir passé à tabac Michel Zecler contrastent avec la violence des faits qui leur sont reprochés.\n\nPar @NicolasBastuck ➡️ https://l.lepoint.fr/JZL"
     },
     {
-      "author_name": "LCP",
-      "published_at": "2026-11-08 22:15",
-      "text": "La pétition appelant à fermer CNews atteint un million de signatures sur le site de l'Assemblée nationale https://lcp.fr/actualites/la-petition-appelant-a-fermer-cnews-atteint-un-million-de-signatures-sur-le-site-de-l"
+      "author_name": "Alain Weber",
+      "published_at": "2026-11-09 22:12",
+      "text": "Quand la Croix-Rouge française débarque aux Canaries…\n\nScène surréaliste au port de La Restinga, en Espagne. \n\nSelon le reportage de Jordan Florentin, des bénévoles françaises de la Croix-Rouge accueillent avec enthousiasme des migrants sénégalais arrivés clandestinement.\n\nMais\n[Cite @JordanFlrtn] 🚨 Scène surréaliste en ce moment même au port de la Restinga (îles Canaries, Espagne) ou des BÉNÉVOLES FRANÇAIS de la Croix-Rouge accueillent joyeusement des migrants venus illégalement en majeure partie du Sénégal.\n\nPartagez ! @Frontieresmedia"
     },
     {
-      "author_name": "Comité Trump France",
-      "published_at": "2026-11-08 22:16",
-      "text": "« Je suis toujours votre président\nMidterms perdus ? C’est hors sujet\nLe Bureau ovale est la pièce, et MOI je suis l’éléphant »"
+      "author_name": "Damien Rieu",
+      "published_at": "2026-11-09 22:13",
+      "text": "Racisme anti blanc à Décines (69)."
     },
     {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-08 22:17",
-      "text": "Braquages à Besançon : un butin de six millions d'euros retrouvé\nhttps://www.sudradio.fr/societe/braquages-dentreprises-de-joaillerie-a-besancon-8-mises-en-examen-le-butin-retrouve-4"
+      "author_name": "Occidentis",
+      "published_at": "2026-11-09 22:13",
+      "text": "« Vos méthodes sont staliniennes ! »\n\n💥 Laurent Jacobelli ATOMISE Sarah Legrain (LFI) puis PULVÉRISE dans la foulée Thomas Legrand sur LCI."
+    },
+    {
+      "author_name": "Valeurs actuelles",
+      "published_at": "2026-11-09 22:14",
+      "text": "Alors que la Région Centre-Val de Loire s'apprêtait à voter un texte qui faisait dépendre l'attribution des subventions culturelles au combat contre l'extrême droite, une alliance improbable de la droite et du centre a fait annuler le vote. Récit d'un ap… https://l.valeursactuelles.com/4aW"
+    },
+    {
+      "author_name": "Pierre Sautarel",
+      "published_at": "2026-11-09 22:15",
+      "text": "[Retweet de @OscarPiloquet] Au conseil municipal d’Alençon, la maire #NouvelleEnergie déclare ne pas considérer la Cimade et son festival Migrant’Scène qu’elle accueille comme militants.\n\nÀ Agde, un élu de ce parti manifeste avec les communistes contre le maire #RN.\n\nNon à cette droite des renoncements !"
     },
     {
       "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-08 22:18",
-      "text": "À Avignon, un boxeur de 29 ans a été condamné après l’agression d’un quinquagénaire homosexuel dans un bar. La victime a reçu 30 jours d’ITT. \n https://www.fdesouche.com/2026/11/08/avignon-84-les-pedes-faut-les-pendre-et-les-bruler-un-boxeur-condamne-a-3-ans-de-prison-apres-avoir-roue-de-coups-un-quinquagenaire-gay/"
+      "published_at": "2026-11-09 22:15",
+      "text": "Les cambrioleurs ont enfermé une octogénaire dans sa chambre, cassé ses téléphones et pris environ vingt euros. Le maire rassure les habitants de cette petite commune corrézienne. \n https://www.fdesouche.com/2026/11/09/sioniac-femme-87-ans-enfermee-cambriolage-vingt-euros/"
     },
     {
-      "author_name": "Frontières",
-      "published_at": "2026-11-08 22:20",
-      "text": "[Retweet de @JordanFlrtn] 🛩️ Je viens d’atterrir aux Îles Canaries pour @Frontieresmedia. \n\n🚨 6 500 migrants sont arrivés depuis le 30 octobre dans l’archipel. Rien que sur l’île d’El Hierro, on compte 8 000 migrants en 5 semaines sur une île de 11 500 habitants. \n\nNotre équipe s’est rendue ce soir au"
-    },
-    {
-      "author_name": "Ni Oubli Ni Pardon",
-      "published_at": "2026-11-08 22:21",
-      "text": "[Retweet de @BAM_PRESS] Traité \"pandémies\" de l'#OMS, le #PABS, une actualité brûlante, lire notre article⬇️\nhttps://bam.news/fr/liberte-democratie/traite-pandemies-de-l-oms-le-pabs-gagnant-gagnant-pour-les-labos"
+      "author_name": "Pierre Sautarel",
+      "published_at": "2026-11-09 22:16",
+      "text": "Euh @davidlisnard \n\nhttps://x.com/OscarPiloquet/status/2119886436543414559\n[Cite @OscarPiloquet] Au conseil municipal d’Alençon, la maire #NouvelleEnergie déclare ne pas considérer la Cimade et son festival Migrant’Scène qu’elle accueille comme militants.\n\nÀ Agde, un élu de ce parti manifeste avec les communistes contre le maire #RN.\n\nNon à cette droite des renoncements !"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-08 22:21",
-      "text": "Comment deux chirurgiens, présents par hasard, ont sauvé la vie d’un policier et de l’assaillant à Cracovie\n➡️ https://l.leparisien.fr/IHmk"
+      "published_at": "2026-11-09 22:17",
+      "text": "« GTA 6 » : le jeu désormais téléchargeable, mais seulement jouable à partir du 19 novembre\n\n➡️ https://l.leparisien.fr/Rbv2"
     },
+    {
+      "author_name": "Nicolas Dupont-Aignan",
+      "published_at": "2026-11-09 22:18",
+      "text": "Merz veut suicider l’Union européenne. LIBÉRONS NOUS !\n[Cite @jon_delorraine] 🔴🇩🇪🇪🇺 ALERTE INFO - Le chancelier allemand Friedrich Merz lance un ULTIMATUM à l'Union européenne.\n\nL'Allemagne menace de BLOQUER le prochain budget européen de sept ans si TOUS les États membres ne participent pas au financement de l'Ukraine.\n\nSelon la Commission européenne,"
+    },
+    {
+      "author_name": "Occidentis",
+      "published_at": "2026-11-09 22:22",
+      "text": "🚨 La députée LFI Sarah Legrain tente de JUSTIFIER les VIOLENCES contre les journalistes en citant des propos tenus par des intervenants de CNews ou par des élus RN."
+    }
+  ],
+  "context": [
     {
       "author_name": "Le Parisien | politique",
       "published_at": "2026-11-08 22:24",
@@ -2040,6 +2013,11 @@
       "author_name": "Le Point",
       "published_at": "2026-11-09 08:09",
       "text": "[Retweet de @WerlyCH] Chaque samedi dans @LePoint, un éclairage sur ce qui se passe ailleurs, dont les Français devraient (peut-être) avoir conscience. Merci @jpeyron @gernelle @valerietoranian pour leur confiance!"
+    },
+    {
+      "author_name": "Observatoire du journalisme (Ojim)",
+      "published_at": "2026-11-09 08:11",
+      "text": "[Retweet de @ojim_france] 🚨ALERTE | La pétition réclamant la FERMETURE de CNews vient de dépasser le MILLION de signatures."
     },
     {
       "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
@@ -7611,6 +7589,11 @@
       "author_name": "Le JDD",
       "published_at": "2026-11-09 18:28",
       "text": "Culte du chef, purges, pression sur les médias... Pourquoi le mélenchonisme est un autoritarisme https://ow.ly/g3WL106Ib97"
+    },
+    {
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-09 18:28",
+      "text": "[Retweet de @BVoltaire] [POINT DE VUE] « Macron est un connard » : belle image de notre jeunesse gauchiste | Par Arnaud Florac\nIl suffit de regarder de vieilles vidéos de l’INA pour se rendre compte que le problème n’est pas l’âge mais l’éducation. \n \nhttps://www.bvoltaire.fr/point-de-vue-macron-est-un-connard-belle-image-de-notre-jeunesse-gauchiste/?fsp_sid=26215"
     },
     {
       "author_name": "Le Parisien | politique",
