@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-09 06:16",
-  "period": "du 2026-11-08 06:16 au 2026-11-09 06:16",
-  "new_period": "du 2026-11-08 20:00 au 2026-11-09 06:16",
-  "context_period": "du 2026-11-08 06:16 au 2026-11-08 20:00",
+  "generated_at": "2026-11-09 06:46",
+  "period": "du 2026-11-08 06:46 au 2026-11-09 06:46",
+  "new_period": "du 2026-11-08 20:00 au 2026-11-09 06:46",
+  "context_period": "du 2026-11-08 06:46 au 2026-11-08 20:00",
   "coverage_complete": true,
-  "new_count": 267,
-  "context_count": 885,
-  "duplicates_merged": 59,
+  "new_count": 279,
+  "context_count": 878,
+  "duplicates_merged": 57,
   "empty_removed": 3,
   "new": [
     {
@@ -1390,57 +1390,69 @@
       "author_name": "CNEWS",
       "published_at": "2026-11-09 06:15",
       "text": "Le capitaine Marc Rollang revient sur le blocage de la circulation par un cortège de mariage. #LaMatinale\n\nToute l'info est à retrouver sur https://cnews.fr"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-08 06:21",
-      "text": "« Le sujet c’est lui, mais il n’arrive pas à le reconnaître » : Macron, l’autodéfense inaudible du président https://l.leparisien.fr/ZkMl",
-      "also_by": [
-        "Le Parisien | politique"
-      ]
     },
     {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-08 06:26",
-      "text": "🚩#Présidentielle2027 : la gauche doit-elle s'unir derrière Jean-Luc Mélenchon ? #GrandMatinWeekEnd\n\n🗨️ Votre avis nous intéresse dans le #GrandMatinWeekEnd avec @BrindelleFrdric ! Réagissez en commentaires\n\n📻https://sudradio.fr\n☎️0 826 300 300"
+      "author_name": "L'Express",
+      "published_at": "2026-11-09 06:18",
+      "text": "Le Kremlin recrute des centaines de milliers de soldats supplémentaires. Mais discrètement. Son objectif : ne pas affoler la population ni éveiller les soupçons des Occidentaux.\n\n➡️ https://l.lexpress.fr/dFO https://l.lexpress.fr/dFO"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-08 06:27",
-      "text": "Claude Moniquet au sujet de la fusillade qui a eu lieu à Cracovie, en Pologne dans #LaMatinaleWE : «Les crimes par arme à feu sont extrêmement rares en Pologne» \n\nToute l'info est à retrouver sur https://cnews.fr"
+      "published_at": "2026-11-09 06:20",
+      "text": "Une rencontre très attendue ➡️ https://mrf.lu/2Y2GD"
     },
     {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-08 06:29",
-      "text": "Route du Rhum : Tom Laperche triomphe, record à la clef https://ow.ly/Mqec106I6Gr"
+      "author_name": "Régis Le Sommier",
+      "published_at": "2026-11-09 06:21",
+      "text": "[Retweet de @Omerta_officiel] Joséphine d’Herbais reçoit Nicolas Delange, auteur de Découvrons-nous gaulois, pour revenir sur l’héritage gaulois et les racines de notre civilisation.\n\nAlors que la France traverse une crise identitaire, faut-il renouer avec notre héritage gaulois ?\n\n▶️ Retrouvez l’entretien :"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-09 06:25",
+      "text": "Un grand rendez-vous pour les jeunes s'orientant vers les études supérieures ➡️ https://mrf.lu/2Y2T9"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-09 06:30",
+      "text": "« Les filles, je ne vous lâche plus » : face au cancer, ces onze inconnues devenues amies s’entraident pour retrouver confiance\n➡️ https://l.leparisien.fr/VzEh"
     },
     {
       "author_name": "Le Figaro",
-      "published_at": "2026-11-08 06:30",
-      "text": "Fausses alertes à la bombe: le parquet de Paris ouvre une enquête sur le «lien éventuel avec des puissances étrangères» → https://l.lefigaro.fr/saVu"
+      "published_at": "2026-11-09 06:30",
+      "text": "En Israël, Gadi Eisenkot chargé de former un gouvernement avec une majorité encore introuvable ➡️ https://l.lefigaro.fr/6knx"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-08 06:30",
-      "text": "La chronique économique de Sandy Prenois du 08/11/2026 dans #LaMatinale"
+      "published_at": "2026-11-09 06:30",
+      "text": "Yoann Usaï, journaliste politique, explique que Raphaël Glucksmann a refusé un poste de Premier ministre. #LaMatinale\n\nToute l'info est à retrouver sur https://cnews.fr"
     },
     {
       "author_name": "Europe 1",
-      "published_at": "2026-11-08 06:34",
-      "text": "Présidentielle 2027 : les électeurs d'Emmanuel Macron de plus en plus tentés de voter pour... Marine Le Pen https://ow.ly/YAk1106I6GG"
+      "published_at": "2026-11-09 06:33",
+      "text": "Braquage dans une usine de joaillerie à Besançon : huit malfaiteurs mis en examen et un butin de plusieurs millions d'euros retrouvé https://ow.ly/T8G7106I9yN"
     },
     {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-08 06:37",
-      "text": "« Elles vous font croire qu’elles font du sport » : ces influenceuses qui détournent les médicaments anti-obésité\n➡️ https://l.leparisien.fr/z9DY"
+      "author_name": "CNEWS",
+      "published_at": "2026-11-09 06:35",
+      "text": "Une idée originale... ➡️ https://mrf.lu/2Y218"
     },
     {
-      "author_name": "Bruno Attal",
-      "published_at": "2026-11-08 06:41",
-      "text": "Jean-Luc Melenchon a tenu des propos racistes contre les lituaniens, les tchétchènes et les blonds aux yeux bleus.\n\nEt des propos antisémites à foison…\n[Cite @grm_off] L’engagement de Jean-Luc Mélenchon à la suite des révélations concernant les propos racistes publiés par Pengo Bossio Wangi, son père et sa fille est inestimable."
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-09 06:39",
+      "text": "🇫🇷 Cocorico : le pari du vêtement 100 % made in France à 100 millions d’euros\n\n🗣️ Arthur Charle, cofondateur et DG de @CocoricoVivezFr : « Contrairement à ce que les gens disent, fabriquer en France permet de faire des économies »\n\n📻 https://SudRadio.fr"
     },
+    {
+      "author_name": "Actu & Politique",
+      "published_at": "2026-11-09 06:45",
+      "text": "📊🚨 SONDAGE - Intentions de vote à l’élection présidentielle (J-161) :\n\n🔵 Marine Le Pen : 34 % (+1)\n🔴 Jean-Luc Mélenchon : 19 % (+2)\n🟡 Édouard Philippe : 12 % (-3)\n🟣 Raphaël Glucksmann : 11 % (-1)\n🔵 David Lisnard : 9 % (+2)\n🔵 Bruno Retailleau : 5 % (+1)\n⚫️ Éric Zemmour : 3"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-09 06:45",
+      "text": "Adrien Guihal a revendiqué les attentats de Nice et de Magnanville ➡️ https://mrf.lu/2Y2s0"
+    }
+  ],
+  "context": [
     {
       "author_name": "Europe 1",
       "published_at": "2026-11-08 06:47",
@@ -1591,6 +1603,11 @@
       "author_name": "Le JDD",
       "published_at": "2026-11-08 07:25",
       "text": "Économie, écologie, sécurité : le programme rouge qui tâche de LFI https://ow.ly/aQKN106I6Rr"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-08 07:25",
+      "text": "La chronique économique de Sandy Prenois du 08/11/2026 dans #LaMatinale"
     },
     {
       "author_name": "Europe 1",
@@ -3401,6 +3418,14 @@
       "author_name": "Le Parisien",
       "published_at": "2026-11-08 12:43",
       "text": "🔴Un homme décède d’un coup de couteau lors d’une soirée à Stains, plusieurs personnes en garde à vue\n➡️ https://l.leparisien.fr/Up9r"
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-08 12:43",
+      "text": "« Le sujet c’est lui, mais il n’arrive pas à le reconnaître » : Macron, l’autodéfense inaudible du président https://l.leparisien.fr/VzEd",
+      "also_by": [
+        "Le Parisien"
+      ]
     },
     {
       "author_name": "Fdesouche.com est une revue de presse",
