@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-09 01:45",
-  "period": "du 2026-11-08 01:45 au 2026-11-09 01:45",
-  "new_period": "du 2026-11-08 20:00 au 2026-11-09 01:45",
-  "context_period": "du 2026-11-08 01:45 au 2026-11-08 20:00",
+  "generated_at": "2026-11-09 02:15",
+  "period": "du 2026-11-08 02:15 au 2026-11-09 02:15",
+  "new_period": "du 2026-11-08 20:00 au 2026-11-09 02:15",
+  "context_period": "du 2026-11-08 02:15 au 2026-11-08 20:00",
   "coverage_complete": true,
-  "new_count": 240,
-  "context_count": 899,
-  "duplicates_merged": 53,
+  "new_count": 243,
+  "context_count": 898,
+  "duplicates_merged": 54,
   "empty_removed": 3,
   "new": [
     {
@@ -1237,14 +1237,27 @@
       "author_name": "Médias-Presse-Info",
       "published_at": "2026-11-09 01:35",
       "text": "Lundi 9 novembre -  Dédicace de l'Archibasilique du Très-Saint-Sauveur - Saint Théodore, Soldat, Martyr - Bienheureux Gabriel Ferretti, Premier Ordre Franciscain - https://www.medias-presse.info/dedicace-tres-saint-sauveur-lundi-9-novembre-de-larchibasilique/252686/ - Sanctora..."
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-09 01:46",
+      "text": "Tuée par son père : le lycée de Brest rend hommage ce lundi à Mounaissa, une élève de 17 ans\n➡️ https://l.leparisien.fr/dY61"
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-09 01:52",
+      "text": "Un homme poignardé au cou lors de la soirée Halloween organisée au domicile de l’acteur américain Jamie Foxx, à Los Angeles\n➡️ https://l.leparisien.fr/lhsq",
+      "also_by": [
+        "Le Parisien"
+      ]
+    },
+    {
+      "author_name": "Alain Weber",
+      "published_at": "2026-11-09 02:04",
+      "text": "[Retweet de @j_bg] ⚠️ Attention aux listes sur X dans lesquelles vous avez été ajouté. Elles permettent à des militants de lancer des raids pour signaler vos contenus. Les noms ne sont pas nécessairement explicites il faut les contrôler une à une régulièrement 😩\n\nPour vérifier votre compte allez"
     }
   ],
   "context": [
-    {
-      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
-      "published_at": "2026-11-08 02:05",
-      "text": "[Retweet de @gabriela21370] Bonjour @Chronopost  , c'est normal que votre employé livre les colis comme ça ?  Il ne sonne pas , il n'attend pas, il balance le colis par dessus le portail ? J'ai fait une réclamation .  C'est inadmissible !"
-    },
     {
       "author_name": "Daniel Conversano ⏩ e/acc 🚀",
       "published_at": "2026-11-08 02:21",
