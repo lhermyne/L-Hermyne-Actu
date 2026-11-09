@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-09 04:45",
-  "period": "du 2026-11-08 04:45 au 2026-11-09 04:45",
-  "new_period": "du 2026-11-08 20:00 au 2026-11-09 04:45",
-  "context_period": "du 2026-11-08 04:45 au 2026-11-08 20:00",
+  "generated_at": "2026-11-09 05:15",
+  "period": "du 2026-11-08 05:15 au 2026-11-09 05:15",
+  "new_period": "du 2026-11-08 20:00 au 2026-11-09 05:15",
+  "context_period": "du 2026-11-08 05:15 au 2026-11-08 20:00",
   "coverage_complete": true,
-  "new_count": 246,
+  "new_count": 247,
   "context_count": 894,
-  "duplicates_merged": 57,
+  "duplicates_merged": 58,
   "empty_removed": 3,
   "new": [
     {
@@ -1276,6 +1276,14 @@
       "author_name": "Alain Weber",
       "published_at": "2026-11-09 03:04",
       "text": "Bravo. @Menard_off a été impérial !\n\nQue l’on aime ou pas Sonia Mabrouk, qui peut ne pas avoir été écœuré par le comportement effroyablement minable d’un journaliste qui va déblatérer dans une émission concurrente, qui va dire « qu’elle cristallise les haines » ? \n\nJe n’arrive"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-09 04:50",
+      "text": "Après sa série de concerts à Paris, Céline Dion réapparaît à Las Vegas, s’amusant avec ses fils au concert de Metallica\n➡️ https://l.leparisien.fr/aCzF",
+      "also_by": [
+        "Le Parisien | politique"
+      ]
     }
   ],
   "context": [
