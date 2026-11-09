@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-09 11:17",
-  "period": "du 2026-11-08 11:17 au 2026-11-09 11:17",
-  "new_period": "du 2026-11-09 08:00 au 2026-11-09 11:17",
-  "context_period": "du 2026-11-08 11:17 au 2026-11-09 08:00",
+  "generated_at": "2026-11-09 11:21",
+  "period": "du 2026-11-08 11:21 au 2026-11-09 11:21",
+  "new_period": "du 2026-11-09 08:00 au 2026-11-09 11:21",
+  "context_period": "du 2026-11-08 11:21 au 2026-11-09 08:00",
   "coverage_complete": true,
-  "new_count": 334,
-  "context_count": 938,
-  "duplicates_merged": 70,
+  "new_count": 338,
+  "context_count": 936,
+  "duplicates_merged": 69,
   "empty_removed": 3,
   "new": [
     {
@@ -1713,27 +1713,29 @@
       "author_name": "CNEWS",
       "published_at": "2026-11-09 11:18",
       "text": "Erik Tegner s'indigne au sujet de l'agression de Guillaume Foucqueteau à Saint-Denis. #100Frontieres\n\nToute l'info est à retrouver sur https://cnews.fr"
-    }
-  ],
-  "context": [
+    },
     {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-08 11:17",
-      "text": "Henri Guaino au sujet de la montée en puissance de la violence lors des manifestations dans #LeGrandRDV : «Tous les gens qui cassent ne sont pas d'ultragauche» \n\nToute l'info est à retrouver sur https://cnews.fr"
+      "author_name": "Europe 1",
+      "published_at": "2026-11-09 11:20",
+      "text": "Présidentielle 2027 : «Jean-Luc Mélenchon achète le vote» des jeunes électeurs, s'inquiète Yoann Usaï https://ow.ly/lp6B106I9Ur"
     },
     {
       "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-08 11:18",
-      "text": "Paris 14eme. Un homme retrouvé mort dans un \"appartement en désordre\", la gorge en partie tranchée\n\nhttps://www.fdesouche.com/2026/11/08/paris-14eme-un-homme-retrouve-mort-dans-un-appartement-en-desordre-la-gorge-en-partie-tranchee/"
+      "published_at": "2026-11-09 11:20",
+      "text": "Dans 77 villes étudiées, la part des étrangers parmi les suspects de violences passe de 39,7 % à 48,8 % en dix ans. Plusieurs nationalités progressent fortement. \n https://www.fdesouche.com/2026/11/09/allemagne-21-villes-etrangers-majoritaires-suspects-violences-ukrainiens-x9/"
     },
     {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-08 11:21",
-      "text": "Guerre en Ukraine : 600 000 habitants sans électricité à l’est du pays, dans la région de Dnipropetrovsk\n➡️ https://l.leparisien.fr/tQgj",
-      "also_by": [
-        "Le Parisien"
-      ]
+      "author_name": "Cour de cassation",
+      "published_at": "2026-11-09 11:20",
+      "text": "📌[Colloque] \"Motivation et juridictions supranationales\" \n🕰️Rendez-vous lundi 23 novembre de 16h à 18h. \n📝Inscrivez-vous pour assister au colloque à la Cour >> https://www.courdecassation.fr/agenda-evenementiel/motivation-et-juridictions-supranationales"
     },
+    {
+      "author_name": "Damien Rieu",
+      "published_at": "2026-11-09 11:21",
+      "text": "Bonjour @Nouv_Energie, que faisait votre responsable local @SebEscalier à la manifestation communiste contre la stèle d’hommage aux millions de victimes du communisme prévues par le maire RN d’Agde @LopezLiguori ?"
+    }
+  ],
+  "context": [
     {
       "author_name": "CNEWS",
       "published_at": "2026-11-08 11:23",
@@ -1818,6 +1820,11 @@
       "author_name": "Tribune Populaire🌐",
       "published_at": "2026-11-08 11:36",
       "text": "Le service public fait la promotion de la voyance. \n\nMission du service public à la base : informer. \n\nRéalité : faire la pub d’une pratique qui ruine des gens."
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-08 11:36",
+      "text": "Guerre en Ukraine : 600 000 habitants sans électricité à l’est du pays, dans la région de Dnipropetrovsk\n➡️ https://l.leparisien.fr/5vxg"
     },
     {
       "author_name": "Boulevard Voltaire",

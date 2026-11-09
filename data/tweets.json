@@ -1,14 +1,66 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-09T10:17:33.279Z",
+  "updated_at": "2026-11-09T10:21:24.473Z",
   "window_hours": 24,
-  "window_start": "2026-11-08T10:17:33.279Z",
+  "window_start": "2026-11-08T10:21:24.473Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1345,
+  "count": 1346,
   "tweets": [
+    {
+      "id": "2119737022268969433",
+      "created_at": "2026-11-09T10:21:03.000Z",
+      "author": "DamienRieu",
+      "author_name": "Damien Rieu",
+      "type": "tweet",
+      "text": "Bonjour @Nouv_Energie, que faisait votre responsable local @SebEscalier à la manifestation communiste contre la stèle d’hommage aux millions de victimes du communisme prévues par le maire RN d’Agde @LopezLiguori ?",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/DamienRieu/status/2119737022268969433"
+    },
+    {
+      "id": "2119736978966983120",
+      "created_at": "2026-11-09T10:20:53.000Z",
+      "author": "Courdecassation",
+      "author_name": "Cour de cassation",
+      "type": "tweet",
+      "text": "📌[Colloque] \"Motivation et juridictions supranationales\" \n🕰️Rendez-vous lundi 23 novembre de 16h à 18h. \n📝Inscrivez-vous pour assister au colloque à la Cour >> https://www.courdecassation.fr/agenda-evenementiel/motivation-et-juridictions-supranationales",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/Courdecassation/status/2119736978966983120"
+    },
+    {
+      "id": "2119736852424925535",
+      "created_at": "2026-11-09T10:20:23.000Z",
+      "author": "F_Desouche",
+      "author_name": "Fdesouche.com est une revue de presse",
+      "type": "tweet",
+      "text": "Dans 77 villes étudiées, la part des étrangers parmi les suspects de violences passe de 39,7 % à 48,8 % en dix ans. Plusieurs nationalités progressent fortement. \n https://www.fdesouche.com/2026/11/09/allemagne-21-villes-etrangers-majoritaires-suspects-violences-ukrainiens-x9/",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/F_Desouche/status/2119736852424925535"
+    },
+    {
+      "id": "2119736851204333953",
+      "created_at": "2026-11-09T10:20:22.000Z",
+      "author": "Europe1",
+      "author_name": "Europe 1",
+      "type": "tweet",
+      "text": "Présidentielle 2027 : «Jean-Luc Mélenchon achète le vote» des jeunes électeurs, s'inquiète Yoann Usaï https://ow.ly/lp6B106I9Ur",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/Europe1/status/2119736851204333953"
+    },
     {
       "id": "2119736500845715786",
       "created_at": "2026-11-09T10:18:59.000Z",
@@ -17454,45 +17506,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/CNEWS/status/2119375372072386966"
-    },
-    {
-      "id": "2119374700480442606",
-      "created_at": "2026-11-08T10:21:19.000Z",
-      "author": "leparisien_pol",
-      "author_name": "Le Parisien | politique",
-      "type": "tweet",
-      "text": "Guerre en Ukraine : 600 000 habitants sans électricité à l’est du pays, dans la région de Dnipropetrovsk\n➡️ https://l.leparisien.fr/tQgj",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/leparisien_pol/status/2119374700480442606"
-    },
-    {
-      "id": "2119373954900979897",
-      "created_at": "2026-11-08T10:18:21.000Z",
-      "author": "F_Desouche",
-      "author_name": "Fdesouche.com est une revue de presse",
-      "type": "tweet",
-      "text": "Paris 14eme. Un homme retrouvé mort dans un \"appartement en désordre\", la gorge en partie tranchée\n\nhttps://www.fdesouche.com/2026/11/08/paris-14eme-un-homme-retrouve-mort-dans-un-appartement-en-desordre-la-gorge-en-partie-tranchee/",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/F_Desouche/status/2119373954900979897"
-    },
-    {
-      "id": "2119373805994786906",
-      "created_at": "2026-11-08T10:17:46.000Z",
-      "author": "CNEWS",
-      "author_name": "CNEWS",
-      "type": "tweet",
-      "text": "Henri Guaino au sujet de la montée en puissance de la violence lors des manifestations dans #LeGrandRDV : «Tous les gens qui cassent ne sont pas d'ultragauche» \n\nToute l'info est à retrouver sur https://cnews.fr",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/CNEWS/status/2119373805994786906"
     }
   ]
 }
