@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-09 14:50",
-  "period": "du 2026-11-08 14:50 au 2026-11-09 14:50",
-  "new_period": "du 2026-11-09 08:00 au 2026-11-09 14:50",
-  "context_period": "du 2026-11-08 14:50 au 2026-11-09 08:00",
+  "generated_at": "2026-11-09 15:20",
+  "period": "du 2026-11-08 15:20 au 2026-11-09 15:20",
+  "new_period": "du 2026-11-09 08:00 au 2026-11-09 15:20",
+  "context_period": "du 2026-11-08 15:20 au 2026-11-09 08:00",
   "coverage_complete": true,
-  "new_count": 714,
-  "context_count": 711,
-  "duplicates_merged": 81,
+  "new_count": 768,
+  "context_count": 684,
+  "duplicates_merged": 80,
   "empty_removed": 3,
   "new": [
     {
@@ -3670,157 +3670,282 @@
       "author_name": "Boulevard Voltaire",
       "published_at": "2026-11-09 14:50",
       "text": "En réunion publique à Brest le 30 octobre, le député LFI Pierre-Yves Cadalen a déclaré que « la seule France qui vaille » est « la France républicaine »."
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-08 14:50",
-      "text": "Le pronostic de Sarkozy, Mélenchon en replay, Gougler des rails aux planches… Nos indiscrétions de la semaine https://l.leparisien.fr/MPCr",
-      "also_by": [
-        "Le Parisien | politique"
-      ]
     },
     {
-      "author_name": "Valeurs actuelles",
-      "published_at": "2026-11-08 14:51",
-      "text": "À Meudon, une exposition met en lumière l’œuvre d’un impressionniste oublié : Albert Lebourg.\nhttps://l.valeursactuelles.com/jrE"
-    },
-    {
-      "author_name": "Jordan Bardella",
-      "published_at": "2026-11-08 14:51",
-      "text": "On se retrouve à #LaGrandeMotte, dans l'Hérault, pour une séance de dédicaces de mon livre \"Gouverner\" : à tout de suite pour échanger avec vous ! \n\n📖 https://amzn.eu/d/0e0jD01P"
-    },
-    {
-      "author_name": "MARSAULT",
-      "published_at": "2026-11-08 14:51",
-      "text": "L’ouverture des frontières va de paire avec l’ouverture des safes places.\n[Cite @le_Parisien] « Un endroit pour nous venir en aide en cas de harcèlement » : à Paris, des « safes places » pour protéger les runneuses\n➡️ https://l.leparisien.fr/xXig"
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-08 14:54",
-      "text": "En mai prochain, la Renaissance de la France sera possible grâce au soutien des millions de patriotes qui se rassemblent autour de notre projet pour le pays !\n\n📖 Commandez « Gouverner » : https://www.amazon.fr/dp/2213736499"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-08 14:56",
-      "text": "Les journalistes de BFMTV racontent leur travail dans les manifestations\n➡️ https://l.leparisien.fr/ZkM1"
-    },
-    {
-      "author_name": "Boulevard Voltaire",
-      "published_at": "2026-11-08 14:57",
-      "text": "[LE GÉNIE FRANÇAIS] TGV, le Très Grand Voyage | Par Antoine de Quelen\nDe centre-ville à centre-ville, l’avion ne peut rien contre lui. \n \nhttps://www.bvoltaire.fr/le-genie-francais-tgv-le-tres-grand-voyage/?fsp_sid=26169"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-08 15:00",
-      "text": "💋 High Love commercialise des produits de bien-être intime, de cosmétique sensuelle\n\n🗣️ Héléna Ruiz, dirigeante d’High Love sera l'invitée de #GraineDeBoss avec Thomas Binet de 20h00 à 20h30\n\n📻 Graine de Boss avec Thomas Binet\n🗓️ Tous les dimanches à 20h sur Sud Radio\n📩 Pour"
-    },
-    {
-      "author_name": "Le Point",
-      "published_at": "2026-11-08 15:00",
-      "text": "L’amitié « sans limites » liant Pékin à Moscou pousse la Chine à soutenir l’effort de guerre russe, tout en continuant d’équiper Kiev en composants. Décryptage d’une stratégie à double détente.\n\n➡️ https://l.lepoint.fr/jua\nPar @Francoismiguet"
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-08 15:00",
-      "text": "Sarah Knafo «mignonne», la sauveuse Christine Lagarde, «rien à foutre d’Orelsan»… Michel Sardou livre son humeur du moment → https://l.lefigaro.fr/UvZA"
-    },
-    {
-      "author_name": "Agence France-Presse",
-      "published_at": "2026-11-08 15:01",
-      "text": "⛵ Tom Laperche (SVR Lazartigue) a remporté dans la nuit de samedi à dimanche la prestigieuse Route du Rhum, et ce dès sa première participation et en pulvérisant le record de la transatlantique ⤵️"
-    },
-    {
-      "author_name": "Alain Weber",
-      "published_at": "2026-11-08 15:01",
-      "text": "Farida Amrani découvre les mortiers d’artifice. Bienvenue dans la réalité, Madame la députée !\n\n« On a cru mourir ! » 🤣🤣\n\nC’est le témoignage \"bouleversant\" de Farida Amrani, députée LFI, après qu’un individu cagoulé a tiré un mortier d’artifice dans le salon de coiffure où\n[Cite @ArdwenVincent] Quand une députée LFI rencontre ses électeurs :\n«On a cru mourir» : la députée LFI Farida Amrani touchée par un tir de mortier alors qu’elle était chez le coiffeur\nhttps://www.lefigaro.fr/faits-divers/on-a-cru-mourir-la-deputee-lfi-farida-amrani-touchee-par-un-tir-de-mortier-alors-qu-elle-etait-chez-le-coiffeur-20261108?utm_source=app&utm_medium=share&utm_campaign=android_Figaro"
-    },
-    {
-      "author_name": "Causeur.fr",
-      "published_at": "2026-11-08 15:03",
-      "text": "\"Chaque semaine, Philippe Lacoche nous donne des nouvelles de Picardie… \"\n\nhttps://www.causeur.fr/yakoub-abdellatif-laureat-du-prix-clara-lanzi-336811"
-    },
-    {
-      "author_name": "Tatiana Ventôse 🇫🇷🏹✨",
-      "published_at": "2026-11-08 15:04",
-      "text": "Saint-Nicolas, Saint Patron de la Lorraine... mais aussi des écoliers et des commerçants.\nCet acte est d'une violence inouïe, sa symbolique aussi.\nRien ne nous sera épargné tant que nous ne relèverons pas la tête ☨\n[Cite @lechochretien] 🔴🇫🇷 𝗔𝗟𝗘𝗥𝗧𝗘 — Des OSSEMENTS attribués à saint Nicolas, évêque de Myre, conservés depuis 1098 à Saint-Nicolas-de-Port, en Meurthe-et-Moselle, ont été VOLÉS dans leur reliquaire, au sein de la basilique, puis DÉTRUITS.\n\nLe suspect, interpellé à son domicile, a reconnu avoir"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-08 15:05",
-      "text": "Les Insoumis justifient les mesures juridiques voulues par Mélenchon en cas de victoire\n➡️ https://l.leparisien.fr/pMOy"
-    },
-    {
-      "author_name": "Jean-Yves Le Gallou",
-      "published_at": "2026-11-08 15:05",
-      "text": "[Retweet de @RenaudCamus] Il faut dire que ce colloque sur la remigration avait mis d’emblée toutes les chances contre lui : il ne menaçait en rien l’ordre public, il ne projetait l’assassinat de personne, il n’avait pas l’intention de casser quoi que ce soit, il n’incitait pas le moins du monde au"
-    },
-    {
-      "author_name": "Jean-Yves Le Gallou",
-      "published_at": "2026-11-08 15:08",
-      "text": "[Retweet de @F_Desouche] Une étude parue dans Nature analyse 4 587 génomes anciens et propose un nouveau scénario sur la diffusion des langues celtiques à travers l’Europe. \n https://www.fdesouche.com/2026/11/08/origines-langues-celtiques-adn-4587-europeens-anciens-etude-nature-2026/"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-08 15:08",
-      "text": "Déplacements courts, camping ou logement écoresponsable, déconnexion numérique... Le tourisme se met au vert https://l.leparisien.fr/qu1n"
-    },
-    {
-      "author_name": "Nicolas Dupont-Aignan",
-      "published_at": "2026-11-08 15:09",
-      "text": "« L’Europe veut s’imposer aux nations. Certains résistent ! »\n\nRetrouvez mon passage sur Omerta👇https://youtu.be/n0LpERcwhCQ?is=ySQC9TXTmZpUDczo"
-    },
-    {
-      "author_name": "Boulevard Voltaire",
-      "published_at": "2026-11-08 15:09",
-      "text": "[Retweet de @BVoltaire] Rouen : après deux agressions anti-Blanc, le maire préfère dénoncer l’extrême droite | Par  @alienordep\nAprès le lynchage de catholiques aux cris de « sales Blancs », Nicolas Mayer-Rossignol met en cause les identitaires. \n \nhttps://www.bvoltaire.fr/rouen-agressions-anti-blanc-le-maire-prefere-denoncer-lextreme-droite/?fsp_sid=26085"
-    },
-    {
-      "author_name": "Boulevard Voltaire",
-      "published_at": "2026-11-08 15:10",
-      "text": "[Retweet de @BVoltaire] « On a l’extrême gauche, les élus, qui sont les commanditaires, et vous avez les exécutants qui sont les racailles de cité. »\n@gregoirehoudan, conseiller municipal RN de Rouen, a témoigné auprès d’@alienordep ⤵️\nhttps://www.bvoltaire.fr/entretien-racisme-anti-blanc-il-y-a-ceux-qui-pointent-du-doigt-et-ceux-qui-executent/"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-08 15:10",
-      "text": "[Retweet de @lp_ecrans] « Les Anneaux de pouvoir » : décors gigantesques, dépaysement total… Nous étions sur le tournage de la série événement\n➡️ https://l.leparisien.fr/AAVS"
-    },
-    {
-      "author_name": "Ni Oubli Ni Pardon",
-      "published_at": "2026-11-08 15:11",
-      "text": "03/2021 Une série de vidéos de rap lancée par Hip Hop Santé publique, une organisation de sensibilisation communautaire fondée par le neurologue de Columbia Olajide Williams, vise à augmenter la couverture vaccinale contre la COVID-19 dans les communautés de couleur. A Rap"
-    },
-    {
-      "author_name": "ISSEP",
-      "published_at": "2026-11-08 15:13",
-      "text": "Remise des prix : Engagement, enracinement, excellence mis à l’honneur hier soir à l’ISSEP ! ✨"
-    },
-    {
-      "author_name": "MARSAULT",
-      "published_at": "2026-11-08 15:14",
-      "text": "Ce genre de vidéo est un régal de tous les instants.\n[Cite @LBleuBlancRouge] ⚠️💥 ACCIDENT EN COURS au carrefour de la convergence des luttes."
-    },
-    {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-08 15:16",
-      "text": "Présidentielle 2027 : « État d’urgence sociale »… les Insoumis justifient les mesures juridiques voulues par Mélenchon en cas de victoire https://l.leparisien.fr/sVoQ"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-08 15:17",
-      "text": "Le pape appelle les hommes à traiter leurs épouses «avec respect» https://ow.ly/HLVf106I7MN"
+      "author_name": "Tocsin",
+      "published_at": "2026-11-09 14:52",
+      "text": "📉 « On organise notre propre déclassement économique pour faire plaisir aux intérêts américains ! »\n\n🇺🇸 « C’est la manière dont ils ont joué sur l’énergie pour tuer économiquement l’Europe. Quand vous voyez que l’Europe, et la France en particulier, abandonnent leurs"
     },
     {
       "author_name": "Occidentis",
-      "published_at": "2026-11-08 15:18",
-      "text": "🙃 Quand Bally Bagayoko admet l’entrée raté du meeting LFI du Bourget, en likant notre post."
+      "published_at": "2026-11-09 14:52",
+      "text": "🚨 Des centaines de migrants débarquent sur l’île d’El Hierro aux Canaries. Les migrants vont être transportés à Tenerife en ferry."
     },
     {
-      "author_name": "Médias-Presse-Info",
-      "published_at": "2026-11-08 15:20",
-      "text": "Lettre ouverte de Mgr Carlo Maria Viganò, archevêque, aux fidèles, aux clercs et aux prêtres du XVème pèlerinage \"Ad Petri sedem\". - https://www.medias-presse.info/lettre-ouverte-de-mgr-carlo-maria-vigano-archeveque-aux-fideles-aux-clercs-et-aux-pretres-du-xveme-pelerinage-ad-..."
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-09 14:53",
+      "text": "Présidentielle 2027 : LFI veut mettre en place l’auto-déclaration des arrêts maladie de courte durée https://l.leparisien.fr/TE2t",
+      "also_by": [
+        "Le Parisien"
+      ]
     },
+    {
+      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
+      "published_at": "2026-11-09 14:53",
+      "text": "[Retweet de @KER_O_ZEN] L'Odyssée de Mel Gibson?🥹\n@dannyconversano @elonmusk \n#hollywood #cinéma #ia #grok #melgibson #elonmusk #christophernolan #odyssée"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-09 14:53",
+      "text": "Le «cash» ne semble pas près de disparaître. ➡️ https://mrf.lu/2Y1DS"
+    },
+    {
+      "author_name": "Frontières",
+      "published_at": "2026-11-09 14:53",
+      "text": "[Retweet de @JordanFlrtn] La Croix-Rouge espagnole (camion blanc sur la vidéo) pilote l’organisation et l’accueil des migrants arrivés ces dernières heures sur l’île d’El Hierro. Ils montent à bord du ferry en direction de Tenerife avec des caisses de nourriture."
+    },
+    {
+      "author_name": "Front Populaire",
+      "published_at": "2026-11-09 14:55",
+      "text": "Union européenne : le Rassemblement national joue Von der Leyen contre Kallas, sans épargner la première.\n\nOn en parle ici 👇\nhttps://frontpopulaire.fr/international/contents/union-europeenne-le-rassemblement-national-joue-von-der-leyen-contre-kallas_tco_31973269"
+    },
+    {
+      "author_name": "Nice Provence Info",
+      "published_at": "2026-11-09 14:55",
+      "text": "Immigration : l’autisme de la « Gauche »\nLa gauche NE PEUT PAS voir ce que tout le monde voit\nhttps://nice-provence.info/2026/11/09/immigration-autisme-gauche/"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-09 14:56",
+      "text": "Équipe de France : Pierre Kalulu forfait, première convocation pour Saël Kumbedi https://ow.ly/CUv9106Ia7O"
+    },
+    {
+      "author_name": "Sarah Knafo",
+      "published_at": "2026-11-09 14:56",
+      "text": "Jean-Luc Mélenchon dénonce la multipropriété, mais il a lui-même déclaré deux propriétés : un 110 m² à Paris et une maison. Je constate que la propriété ne lui est insupportable que chez les autres.\n\nIl est coupable du pire des crimes pour un bolchevique. C’est l’incohérence et"
+    },
+    {
+      "author_name": "Radio Courtoisie",
+      "published_at": "2026-11-09 14:59",
+      "text": "💥 « Aujourd’hui, pour que nos écoles restent ouvertes, il faut ouvrir des places de prison et il faudrait que ceux qui brûlent nos écoles dorment en prison ce soir. »\n\n🗣️@fxbellamy, député européen @lesRepublicains \n\n🎙️@SevilliaYves sur Radio Courtoisie\n\n👉 :"
+    },
+    {
+      "author_name": "Le Crayon",
+      "published_at": "2026-11-09 15:00",
+      "text": "Un enfant qui sourit peut-il être en train de sombrer ?\n\nOn a fait se rencontrer Klara (lycéenne de 17 ans, victime de h*rcèlement au collège), Zacharie (ancien auteur de h*rcèlement pendant sa scolarité) et Hervé (55 ans, père d’un garçon h*rcelé en primaire)."
+    },
+    {
+      "author_name": "Ligne Droite • La matinale de RC",
+      "published_at": "2026-11-09 15:00",
+      "text": "🤜 800 milliards aux USA, 2,5 pour la France : la guerre de l’IA est-elle déjà perdue ?\n🗣️ @SixtineDUPONTT, journaliste pour @Valeurs \nEntretien complet :\n👉 https://youtu.be/Qseq0w4P8cQ\n🎙️ Avec @RicharddeSeze sur @radiocourtoisie"
+    },
+    {
+      "author_name": "Causeur.fr",
+      "published_at": "2026-11-09 15:00",
+      "text": "\"Dans Revoir Paris, la cinéaste nous conte l'histoire de Mia (Virginie Efira interprète impeccable) blessée dans un attentat dans une brasserie parisienne un soir d'automne. Trois mois plus tard, elle ne se rappelle de l’événement que par bribes et n'arrive pas à reprendre le"
+    },
+    {
+      "author_name": "Agence France-Presse",
+      "published_at": "2026-11-09 15:00",
+      "text": "🇨🇦🇷🇺 G7 : le Canada a décidé d'imposer des sanctions supplémentaires contre la Russie \"pour alourdir encore davantage le coût économique de la guerre\" que Moscou mène contre l'Ukraine, a annoncé lundi la cheffe de la diplomatie canadienne, Anita Anand."
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-09 15:00",
+      "text": "La Cour des comptes a dressé pour les parlementaires la liste des mesures à prendre dès 2027. Retraites, santé, niches fiscales : les magistrats de la rue Cambon sortent de leur réserve pour imposer leurs arbitrages.\n\nPar @philippinerbt\n➡️ https://l.lepoint.fr/GIZ"
+    },
+    {
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-09 15:00",
+      "text": "[Retweet de @BVoltaire] « Remettre tout à plat » : quels leviers pour faire pression sur Alger ? | Par  @SevilliaYves\nÀ Saint Raphaël (83), le Cercle algérianiste se réunissait en présence de Boualem Sansal. \n \nhttps://www.bvoltaire.fr/remettre-tout-a-plat-quels-leviers-pour-faire-pression-sur-alger/?fsp_sid=26181"
+    },
+    {
+      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
+      "published_at": "2026-11-09 15:01",
+      "text": "Le Jour ni l’Heure 9724 : Édouard Vuillard, 1868-1940, Portrait de femme , 1906 (Madeleine d’Andoque de Sériège, Mme Gustave Fayet), 1873-1971, coll. Leibovic, exp. Gustave Fayet collectionneur, Fondation Vuitton, Paris, dimanche 1er novembre 2026, 13:28:24"
+    },
+    {
+      "author_name": "Sénat",
+      "published_at": "2026-11-09 15:01",
+      "text": "🔴 Projet de loi de financement de la sécurité sociale pour 2027 : discussion générale\n\nSuivez la discussion générale du projet de loi de financement de la sécurité sociale pour 2027, considéré comme rejeté par l’Assemblée nationale, en séance publique au Sénat #PLFSS #Budget2027"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-09 15:01",
+      "text": "Des JO de Paris à la présidentielle, les coulisses de la candidature de Teddy Riner\n\nChampion olympique à Paris à l’été 2024, le judoka de 37 ans s’est convaincu au fil des mois à l’idée de se présenter à l’élection présidentielle en 2027\n\n➡️ https://l.leparisien.fr/tQgK"
+    },
+    {
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-09 15:01",
+      "text": "[Retweet de @GabrielBendayan] En clair, l'accusation de racisme servira à persécuter les opposants politiques.\n\nIl annonce littéralement la mise en place d'une dictature."
+    },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-09 15:01",
+      "text": "Le 9 novembre 1970 disparaissait le général de Gaulle. →https://l.lefigaro.fr/yNj1"
+    },
+    {
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-09 15:01",
+      "text": "[Retweet de @jean_bexon] INFO BV | À Jonzac, le monuments au mort et le château ont été dégradés. Le logo utilisé par la Jeune garde de Raphaël Arnault a été notamment tagué avec « mort au roi »."
+    },
+    {
+      "author_name": "VA+",
+      "published_at": "2026-11-09 15:01",
+      "text": "🔴 Louise Montangon dénonce des menaces de mort et de viol depuis près de trois semaines, après la diffusion de ses données personnelles.\n\n« Je vais t'égorger et te violer dans ton sang », rapporte-t-elle.\n\nSa famille est également visée. Deux suspects auraient été interpellés."
+    },
+    {
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-09 15:02",
+      "text": "[Retweet de @GabrielBendayan] Qui se souvient de Sébastien Delogu ?"
+    },
+    {
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-09 15:03",
+      "text": "Espagne : alors que 3200 migrants clandestins ont atteint l’archipel des Canaries au cours des cinq premiers jours de novembre, Frontières est sur place aujourd’hui pour filmer l’arrivée de nouveaux clandestins qui seront pris en charge par la Croix-Rouge"
+    },
+    {
+      "author_name": "Occidentis",
+      "published_at": "2026-11-09 15:04",
+      "text": "⚡️ Milad Malak, un chrétien copte âgé de 20 ans, a été enlevé par Daech au début du mois d’octobre, torturé puis assassiné en Libye pour avoir refusé de renier sa foi chrétienne. (SOS Chrétiens d'Orient)"
+    },
+    {
+      "author_name": "Causeur.fr",
+      "published_at": "2026-11-09 15:04",
+      "text": "\"Dans toutes ses interviews, il place à un moment ou un autre son tube préféré : « Partout ailleurs c'est la nation qui a construit l'Etat. En France c'est l'Etat qui a construit la nation »...\"\n\nhttps://www.causeur.fr/alain-bauer-et-l-identite-francaise-336947"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-09 15:04",
+      "text": "Yaya perd une jambe dans une fusillade pour un point de deal, «V12» et «Ti mal» mis en examen et écroués\n➡️ https://l.leparisien.fr/VzEy"
+    },
+    {
+      "author_name": "TVL",
+      "published_at": "2026-11-09 15:05",
+      "text": "🎥 Olivier Piacentini, fondateur d’un cabinet de conseil en assistance financière et juridique, analyse le risque de krach financier, le pouvoir des marchés, les mécanismes de l’endettement et les moyens de redresser les finances publiques.\n\nPolitique & Eco sur TVL 🔻"
+    },
+    {
+      "author_name": "Alain Weber",
+      "published_at": "2026-11-09 15:05",
+      "text": "Macron aura décidément ouvert la porte à toutes les calamités présidentielles !\n\nVoilà maintenant Teddy Riner qui se verrait bien président de la République !\n\nImmense champion, sportif exceptionnel, homme probablement intelligent et sympathique. \n\nMais depuis quand une"
+    },
+    {
+      "author_name": "Alain Weber",
+      "published_at": "2026-11-09 15:05",
+      "text": "[Retweet de @Ciceron2100] @alainpaulweber MÉLENCHON : LE VIEUX SPECTRE DU BOLCHEVISME SOUS LES HABITS DE LA VIe RÉPUBLIQUE ?\n\nIl faut cesser d’oublier d’où vient Jean-Luc Mélenchon.\n\nAncien militant trotskiste lambertiste, héritier d’une tradition marxiste révolutionnaire issue de Trotski, compagnon de Lénine, il a rendu"
+    },
+    {
+      "author_name": "Occidentis",
+      "published_at": "2026-11-09 15:05",
+      "text": "⚡️ « C’est un candidat de poids » réagit Édouard Philippe suite à l’annonce de candidature de Teddy Riner pour la présidentielle."
+    },
+    {
+      "author_name": "Valeurs actuelles",
+      "published_at": "2026-11-09 15:06",
+      "text": "🗞️ [CHRONIQUE] La lourde défaite de Donald Trump aux élections de mi-mandat, sanction de promesses non tenues, n’a rien d’une exception. Le politologue Guillaume Bernard montre que le mensonge politique ruine la confiance des citoyens...\n\n🔗 https://l.valeursactuelles.com/cFZ"
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-09 15:06",
+      "text": "« Je n’ai pas pu faire une seule séance de ma préparation » : David Lisnard fait le marathon Nice-Cannes en binôme\n➡️ https://l.leparisien.fr/qu1G"
+    },
+    {
+      "author_name": "Ni Oubli Ni Pardon",
+      "published_at": "2026-11-09 15:06",
+      "text": "06/2021 Pourquoi vacciner mon enfant s’il a très peu de chances de tomber malade ? \nVincent Maréchal, professeur de virologie à La Sorbonne : « L'idée, c'est de vacciner les enfants ou les adolescents pour limiter la circulation du virus, qui est aussi un effet qu'on peut"
+    },
+    {
+      "author_name": "Samuel Lafont",
+      "published_at": "2026-11-09 15:07",
+      "text": "[Retweet de @NAS14793358] @PhdeVilliers , vous auriez dû avoir un débat avec @Samuel_Lafont sur son livre, pour que nous reprenions notre destin en main, ce qui est vital.\nLe populicide c'est aussi le vol d'élections"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-09 15:07",
+      "text": "Une première pour l'élection présidentielle mais pas en politique. ➡️ https://mrf.lu/2Y1Xb"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-09 15:09",
+      "text": "« Je n’ai pas pu faire une seule séance de ma préparation » : David Lisnard fait le marathon Nice-Cannes en binôme https://l.leparisien.fr/YiBm"
+    },
+    {
+      "author_name": "Tocsin",
+      "published_at": "2026-11-09 15:09",
+      "text": "💉 « Le Gardasil, c’est un scandale sanitaire encore plus gros que celui des vaccins à ARN messager ! »\n\n🔥 « Cette proposition de loi, qui a été déposée tout récemment, demande qu’il y ait une obligation vaccinale. C’est la proposition de loi n° 3413, déposée le 27 octobre 2026,"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-09 15:11",
+      "text": "🇫🇷 Et si la retraite à 40 ans était possible ? \n\nhttps://www.sudradio.fr/?p=928197"
+    },
+    {
+      "author_name": "L'Express",
+      "published_at": "2026-11-09 15:11",
+      "text": "Le gouvernement a annoncé une hausse de 1,6 % du Smic au 1er décembre, soit une augmentation de 24 euros net par mois. Une revalorisation jugée insuffisante par les syndicats.\n\n➡️ https://l.lexpress.fr/1iZ"
+    },
+    {
+      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
+      "published_at": "2026-11-09 15:11",
+      "text": "[Retweet de @whitenights_ro] 🇷🇴🏝️☪️ „Stai liniștit, nu rămâne niciunul aici!”\n\nNu doar că rămân; se înmulțesc. Etapa a doua - „reîntregirea familiilor” cu ajutorul vizei dedicate. Și chemarea prietenilor. \n\nSolaiman Hossain se plictisea și l-a chemat pe Islam Sharif. Care, evident, nu putea să-și lase acasă"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-09 15:11",
+      "text": "Narcotrafic : le « G7 des ports » hisse les voiles à Marseille\n\nPar @jpeyron https://l.lepoint.fr/JZE"
+    },
+    {
+      "author_name": "Alain Weber",
+      "published_at": "2026-11-09 15:13",
+      "text": "Il faudrait que tout le monde écoute le discours du Bourget, de Jean-Luc Mélenchon. \n\nIl devrait tous nous terroriser…\n\nIl annonce, sans même se cacher, une dictature bolchévique !\n\nPrenez le au sérieux, il a déjà annoncé très sérieusement, qu’il mettrait les préfets en prison.\n[Cite @alainpaulweber] \"État d’urgence sociale\", droit de regard et souveraineté : ce que le Bourget de Mélenchon révèle vraiment.\n\nLe 7/11, au Bourget, Jean-Luc Mélenchon a présenté la nouvelle édition de L’Avenir en commun. \n\nIl a notamment déclaré avoir « besoin d’instruments juridiques pour pouvoir"
+    },
+    {
+      "author_name": "Jean-Yves Le Gallou",
+      "published_at": "2026-11-09 15:13",
+      "text": "Vu de Paris la Saxe-Anhalt apparaît comme un petit paradis politique.\n1⃣Dans quelques semaines son ministre-président et son gouvernement seront issus de l’#AFD\n2⃣On peut y tenir à Halle un salon du livre dissident (les interdits de Francfort) avec des dizaines de stands et 10\n[Cite @InstitutILIADE] 🇩🇪 L’Institut Iliade, représenté par Jean-Yves Le Gallou, qui a répondu lors d’un entretien public aux questions du député européen Alexander Sell sur le rôle du combat culturel et métapolitique, Antoine Dresse, notre responsable éditoriale et Mathilde Caillot de la promotion"
+    },
+    {
+      "author_name": "Le JDD",
+      "published_at": "2026-11-09 15:13",
+      "text": "Bordeaux : la permanence RN incendiée en marge d'une manifestation https://ow.ly/QlG1106Ia9O"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-09 15:14",
+      "text": "Céline Géraud, ancienne judokate et porte-parole de Gabriel Attal : «La candidature de Teddy Riner ne m’a pas surprise», dans #LinfodeVilno \n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-09 15:17",
+      "text": "Omar Sy jugé en novembre pour «violences» sur des agents SNCF en 2025 https://ow.ly/PF4o106Iaab"
+    },
+    {
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-09 15:17",
+      "text": "100 millions d’euros pour le Maroc : la générosité française n’a pas de limites | Par  @sl_guil\nEndettée jusqu’au cou, la France accorde un prêt bonifié de 100 millions d’euros au Maroc. Une générosité qui interroge. \n \nhttps://www.bvoltaire.fr/100-millions-deuros-pour-le-maroc-la-generosite-francaise-na-pas-de-limites/?fsp_sid=26227"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-09 15:18",
+      "text": "« Les gens m’ont poussé à me présenter » : des JO de Paris à la présidentielle, les coulisses de la candidature de Teddy Riner https://l.leparisien.fr/ew38"
+    },
+    {
+      "author_name": "Le JDD",
+      "published_at": "2026-11-09 15:19",
+      "text": "«Sous couvert de bienveillance, beaucoup de parents n’effectuent pas leur travail d’éducateurs» : une mère coréenne installée en France depuis vingt ans dénonce les dérives de l’éducation positive\nhttps://www.lejdd.fr/Societe/education-le-role-des-parents-nest-pas-detre-les-copains-de-leurs-enfants-188055"
+    },
+    {
+      "author_name": "François Asselineau 🇫🇷",
+      "published_at": "2026-11-09 15:19",
+      "text": "𝟵/𝟭𝟭/𝟮𝟬𝟮𝟲 - 𝟲𝟲𝗲 𝗮𝗻𝗻𝗶𝘃𝗲𝗿𝘀𝗮𝗶𝗿𝗲 𝗱𝗲 𝘀𝗮 𝗺𝗼𝗿𝘁\n𝗟𝗘 𝗖𝗢𝗡𝗦𝗘𝗜𝗟 𝗗𝗘 𝗗𝗘 𝗚𝗔𝗨𝗟𝗟𝗘 𝗔𝗨 𝗦𝗨𝗝𝗘𝗧 𝗗𝗘 𝗟𝗔 𝗖𝗢𝗡𝗦𝗧𝗥𝗨𝗖𝗧𝗜𝗢𝗡 𝗘𝗨𝗥𝗢𝗣𝗘𝗘𝗡𝗡𝗘\n🇫🇷 L'un des plus beaux hommages que l'on peut rendre à l'extrême lucidité de l'Homme du 18 juin"
+    },
+    {
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-09 15:20",
+      "text": "L’information donnée par les médias, selon laquelle il serait « d’extrême droite », vient du ministre de l’Intérieur polonais, qui a totalement fait marche arrière après avoir annoncé aux médias traditionnels que le terroriste de Cracovie était « d’extrême droite ».\n\nPlusieurs\n[Cite @F_Desouche] Tuerie à Cracovie (Pologne) : le suspect, Michał O., un Polonais de 24 ans, a d’abord tué ses parents et sa sœur ; il est décédé (MàJ : selon le parquet, rien ne relie le tueur à une idéologie particulière)\n\n« La chambre de l'assaillant ne contenait aucun symbole généralement"
+    }
+  ],
+  "context": [
     {
       "author_name": "Alain Weber",
       "published_at": "2026-11-08 15:21",
@@ -5443,6 +5568,11 @@
       "text": "🇺🇸 Depuis la vague bleue qui a renversé le Congrès, une nostalgie s'est emparée de la jeune génération américaine qui veut voir dans cette victoire démocrate l'émergence d'un nouvel espoir et l'occasion d'enfin tourner la page du trumpisme. \n\n➡️ https://u.afp.com/Syyx"
     },
     {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-08 19:30",
+      "text": "Sarah Knafo «mignonne», la sauveuse Christine Lagarde, «rien à foutre d’Orelsan»… Michel Sardou livre son humeur du moment → https://l.lefigaro.fr/IrCJ"
+    },
+    {
       "author_name": "Le Point",
       "published_at": "2026-11-08 19:32",
       "text": "Comment la série « The Gentlemen » impose l’esthétique toxique chic\n\nPar @C_Ono_dit_Biot https://l.lepoint.fr/Oni"
@@ -6392,6 +6522,11 @@
       "author_name": "Ni Oubli Ni Pardon",
       "published_at": "2026-11-08 22:21",
       "text": "[Retweet de @BAM_PRESS] Traité \"pandémies\" de l'#OMS, le #PABS, une actualité brûlante, lire notre article⬇️\nhttps://bam.news/fr/liberte-democratie/traite-pandemies-de-l-oms-le-pabs-gagnant-gagnant-pour-les-labos"
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-08 22:24",
+      "text": "Le pronostic de Sarkozy, Mélenchon en replay, Gougler des rails aux planches… Nos indiscrétions de la semaine https://l.leparisien.fr/ew34"
     },
     {
       "author_name": "Europe 1",
