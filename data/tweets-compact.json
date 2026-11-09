@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-09 02:45",
-  "period": "du 2026-11-08 02:45 au 2026-11-09 02:45",
-  "new_period": "du 2026-11-08 20:00 au 2026-11-09 02:45",
-  "context_period": "du 2026-11-08 02:45 au 2026-11-08 20:00",
+  "generated_at": "2026-11-09 03:15",
+  "period": "du 2026-11-08 03:15 au 2026-11-09 03:15",
+  "new_period": "du 2026-11-08 20:00 au 2026-11-09 03:15",
+  "context_period": "du 2026-11-08 03:15 au 2026-11-08 20:00",
   "coverage_complete": true,
-  "new_count": 244,
+  "new_count": 246,
   "context_count": 897,
-  "duplicates_merged": 55,
+  "duplicates_merged": 56,
   "empty_removed": 3,
   "new": [
     {
@@ -1263,6 +1263,19 @@
       "also_by": [
         "Le Parisien"
       ]
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-09 02:52",
+      "text": "« Je plaisantais » : Donald Trump fait machine arrière sur la nomination de Dana White comme porte-parole de la Maison Blanche\n➡️ https://l.leparisien.fr/8mTm",
+      "also_by": [
+        "Le Parisien | politique"
+      ]
+    },
+    {
+      "author_name": "Alain Weber",
+      "published_at": "2026-11-09 03:04",
+      "text": "Bravo. @Menard_off a été impérial !\n\nQue l’on aime ou pas Sonia Mabrouk, qui peut ne pas avoir été écœuré par le comportement effroyablement minable d’un journaliste qui va déblatérer dans une émission concurrente, qui va dire « qu’elle cristallise les haines » ? \n\nJe n’arrive"
     }
   ],
   "context": [
