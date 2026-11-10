@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-10 05:55",
-  "period": "du 2026-11-09 05:55 au 2026-11-10 05:55",
-  "new_period": "du 2026-11-09 20:00 au 2026-11-10 05:55",
-  "context_period": "du 2026-11-09 05:55 au 2026-11-09 20:00",
+  "generated_at": "2026-11-10 06:25",
+  "period": "du 2026-11-09 06:25 au 2026-11-10 06:25",
+  "new_period": "du 2026-11-09 20:00 au 2026-11-10 06:25",
+  "context_period": "du 2026-11-09 06:25 au 2026-11-09 20:00",
   "coverage_complete": true,
-  "new_count": 339,
-  "context_count": 1381,
-  "duplicates_merged": 105,
+  "new_count": 352,
+  "context_count": 1365,
+  "duplicates_merged": 102,
   "empty_removed": 8,
   "new": [
     {
@@ -1756,102 +1756,74 @@
       "author_name": "Le Parisien",
       "published_at": "2026-11-10 05:54",
       "text": "Présidentielle 2027 : La France insoumise (LFI) relance son running club à Paris et pourrait l’étendre à d’autres villes de France\n➡️ https://l.leparisien.fr/fq0h"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Marc Vanguard",
-      "published_at": "2026-11-09 05:59",
-      "text": "🔴 ALERTE INFO : Édouard Philippe S'EFFONDRE dans le dernier sondage Harris.\n\n👉 Marine Le Pen a 16 pts d'avance sur lui au 2d tour !\n\n👉 Il est de toute manière distancé par MLP et JLM dès le 1er tour.\n\nPeut-il continuer sa campagne comme si de rien n'était ?"
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-09 06:00",
-      "text": "«Bloquer une autoroute pendant neuf mois, il n’y a qu’en France que l’on voit cela !» : à Marnes-la-Coquette, la fermeture de l’A13 coupe la commune en deux. \nhttps://l.lefigaro.fr/5Okr"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-09 06:01",
-      "text": "📰 La une du Parisien du 9 novembre\n\n➡️ https://l.leparisien.fr/43AS"
     },
     {
       "author_name": "Causeur.fr",
-      "published_at": "2026-11-09 06:02",
-      "text": "Pour des quotas dans les prix littéraires: le dernier projet féministe \n\nhttps://www.causeur.fr/pour-des-quotas-dans-les-prix-litteraires-le-dernier-projet-feministe-336908"
+      "published_at": "2026-11-10 06:00",
+      "text": "\"Il n’y a pas eu de surprise. La sanction est tombée. Lourde. Très lourde. Les Républicains ont été battus sur tous les fronts lors des élections de mi-mandat...\"\n\nhttps://www.causeur.fr/comment-les-republicains-peuvent-transformer-un-revers-electoral-historique-en-opportunite-strategique-pour-2028-336983"
     },
     {
-      "author_name": "Régis Le Sommier",
-      "published_at": "2026-11-09 06:05",
-      "text": "[Retweet de @MarioNawfal] 🚨🇺🇸 🇮🇷 Vance tried to stop the Iran war before it began by using data: in January he had a pollster test how many dead Americans the public would accept... the answer was under 100\n\nThe Journal has the texts. As Trump weighed the operation, the vice president, the one voice in"
+      "author_name": "Le Point",
+      "published_at": "2026-11-10 06:00",
+      "text": "Montres de bandits aux enchères : la justice brade le butin, ce 10 novembre\n\nPar @ArthurFryd \nhttps://l.lepoint.fr/cRv"
     },
     {
-      "author_name": "Le JDD",
-      "published_at": "2026-11-09 06:06",
-      "text": "Ingérences étrangères : comment nos fractures deviennent des armes contre la France https://ow.ly/S16j106I9qT"
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-10 06:00",
+      "text": "Le philosophe analyse en profondeur les dessous d’une société française «désorientée». →https://l.lefigaro.fr/4eXH"
     },
     {
-      "author_name": "Le JDD",
-      "published_at": "2026-11-09 06:06",
-      "text": "Éducation : «Le rôle des parents n’est pas d’être les copains de leurs enfants» https://ow.ly/PgRk106I9qU"
-    },
-    {
-      "author_name": "Aldo Sterone",
-      "published_at": "2026-11-09 06:10",
-      "text": "La dernière chose que tu vois avant de révéler des secrets industriels aux espions chinois"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-09 06:11",
-      "text": "La question du jour : Insécurité, inflation, perte des valeurs… Êtes-vous inquiet pour l'avenir de la France ? Votez ici ➡️ https://mrf.lu/2YNJW"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-09 06:13",
-      "text": "11-Novembre : refusant une glorification de la guerre, des enseignants appellent à boycotter les commémorations https://ow.ly/xp14106I9xr"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-09 06:14",
-      "text": "« Il n’y a pas de discrimination en France » : à la télé américaine, Marine Le Pen étonne par sa vision de la société française https://l.leparisien.fr/38ZQ",
-      "also_by": [
-        "Le Parisien | politique"
-      ]
-    },
-    {
-      "author_name": "Régis Le Sommier",
-      "published_at": "2026-11-09 06:14",
-      "text": "Entre temps, il y a eu 2014 et le Maidan.  C’est là que la situation a changé pour le Donbass. \nVous le savez en plus  @GuillaumeAuda\n[Cite @GuillaumeAuda] “Les droits de population du Donbass, qui a le droit de savoir si elle veut être ukrainienne ou russe, si la Q° est posée d'un accord entre les 2 nations” proclame Mélenchon. \n\nEn 1991, les régions de Donestk et Louhansk avaient approuvé à ≈ 84% ... l'indépendance de l'Ukraine."
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-09 06:15",
-      "text": "❓Combien faut-il gagner pour vivre décemment en France ?\n\n📻 Vos réactions seront reprises dans le #GrandMatin de 7h à 10h avec Benjamin Glaise"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-09 06:15",
-      "text": "Le capitaine Marc Rollang revient sur le blocage de la circulation par un cortège de mariage. #LaMatinale\n\nToute l'info est à retrouver sur https://cnews.fr"
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-10 06:01",
+      "text": "Présidentielle 2027 : la cote de popularité de David Lisnard au plus haut, celle d’Emmanuel Macron historiquement basse, selon un nouveau sondage https://l.leparisien.fr/Kxuk"
     },
     {
       "author_name": "L'Express",
-      "published_at": "2026-11-09 06:18",
-      "text": "Le Kremlin recrute des centaines de milliers de soldats supplémentaires. Mais discrètement. Son objectif : ne pas affoler la population ni éveiller les soupçons des Occidentaux.\n\n➡️ https://l.lexpress.fr/dFO https://l.lexpress.fr/dFO"
+      "published_at": "2026-11-10 06:03",
+      "text": "Selon une étude de l'institut indépendant Levada, les Russes considèrent désormais l'Europe \"décadente\" comme leur principal ennemi.\n\n➡️ https://l.lexpress.fr/oEG https://l.lexpress.fr/oEG"
     },
     {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-09 06:20",
-      "text": "Une rencontre très attendue ➡️ https://mrf.lu/2Y2GD"
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-10 06:04",
+      "text": "📰 La une du Parisien du 10 novembre\n\n➡️ https://l.leparisien.fr/iL5l"
     },
     {
-      "author_name": "Régis Le Sommier",
-      "published_at": "2026-11-09 06:21",
-      "text": "[Retweet de @Omerta_officiel] Joséphine d’Herbais reçoit Nicolas Delange, auteur de Découvrons-nous gaulois, pour revenir sur l’héritage gaulois et les racines de notre civilisation.\n\nAlors que la France traverse une crise identitaire, faut-il renouer avec notre héritage gaulois ?\n\n▶️ Retrouvez l’entretien :"
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-10 06:08",
+      "text": "⚖️ Deux ans de prison avec sursis requis contre le marin Kévin Escoffier, soupçonné d'agressions sexuelles\n\nhttps://www.sudradio.fr/sport-rugby/sport/le-marin-kevin-escoffier-juge-a-lorient-pour-quatre-agressions-sexuelles"
     },
     {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-09 06:25",
-      "text": "Un grand rendez-vous pour les jeunes s'orientant vers les études supérieures ➡️ https://mrf.lu/2Y2T9"
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-10 06:12",
+      "text": "Présidentielle 2027 : la cote de popularité de David Lisnard au plus haut, celle d’Emmanuel Macron historiquement basse, selon un nouveau sondage\n➡️ https://l.leparisien.fr/XoLJ"
     },
+    {
+      "author_name": "Aldo Sterone",
+      "published_at": "2026-11-10 06:14",
+      "text": "La retraite par capitalisation, il n’y a que ça de vrai ! Le Royaume-Uni montre l’exemple. 58 millions d’un fonds de retraites ont été versés à Bute Energy pour construire des éoliennes. 100% de l’argent a été distribué en bonus et dividendes. Rien n’a été construit."
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-10 06:16",
+      "text": "« À chaque fois, j’ai le cœur qui bat » : sauvés in extremis de la décharge, des objets rares et prestigieux vendus aux enchères\n➡️ https://l.leparisien.fr/6aZc"
+    },
+    {
+      "author_name": "L'HERMYNE ⚜️",
+      "published_at": "2026-11-10 06:18",
+      "text": "Quel est votre chois 😉"
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-10 06:20",
+      "text": "À Paris, certains se disent prêts à voter pour Teddy Riner : « Pourquoi pas lui ? On peut être agréablement surpris » https://l.leparisien.fr/04bA"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-10 06:23",
+      "text": "Grâce à des exportations en hausse, la Chine dépasse les 1000 milliards de dollars d’excédent commercial dès octobre\n➡️ https://l.leparisien.fr/pMtq"
+    }
+  ],
+  "context": [
     {
       "author_name": "Le Parisien",
       "published_at": "2026-11-09 06:30",
@@ -4096,6 +4068,11 @@
       "text": "700 000 € de plus pour l’accueil des « populations exilées » en Occitanie. Près de 9 millions d’euros déjà dépensés depuis 2017.\n\nPendant ce temps, les Occitans qui paient leurs impôts attendent des crèches, des EHPAD, des routes entretenues et davantage de sécurité.\n\nLa"
     },
     {
+      "author_name": "Marc Vanguard",
+      "published_at": "2026-11-09 11:29",
+      "text": "[Retweet de @marc_vanguard] 🔴 ALERTE INFO : Édouard Philippe S'EFFONDRE dans le dernier sondage Harris.\n\n👉 Marine Le Pen a 16 pts d'avance sur lui au 2d tour !\n\n👉 Il est de toute manière distancé par MLP et JLM dès le 1er tour.\n\nPeut-il continuer sa campagne comme si de rien n'était ?"
+    },
+    {
       "author_name": "Les Patriotes",
       "published_at": "2026-11-09 11:29",
       "text": "[Retweet de @LesPatriotes60] Les data-centers deviennent un problème national. \nIls cumulent un problème de ressources en électricité avec un problème de ressources en eau\nMalgré l'explosion de la production de données, nous ne pourrons pas tout sacrifier pour suivre le rythme. Il va falloir faire des choix"
@@ -5836,6 +5813,14 @@
       "author_name": "Boulevard Voltaire",
       "published_at": "2026-11-09 14:34",
       "text": "[Retweet de @BVoltaire] 11 novembre dans les écoles : les syndicats de gauche ne désarment pas | Par  @FredericSirgant\nIls y voient une \"militarisation de l’École\" ! Le ministre Jeffray, à l'origine de la mesure, a assumé. \n \nhttps://www.bvoltaire.fr/11-novembre-dans-les-ecoles-les-syndicats-de-gauche-ne-desarment-pas/?fsp_sid=26177"
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-09 14:36",
+      "text": "« Il n’y a pas de discrimination en France » : à la télé américaine, Marine Le Pen étonne par sa vision de la société française https://l.leparisien.fr/1RLD",
+      "also_by": [
+        "Le Parisien"
+      ]
     },
     {
       "author_name": "Fdesouche.com est une revue de presse",
