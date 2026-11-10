@@ -1,13 +1,13 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-10 05:25",
-  "period": "du 2026-11-09 05:25 au 2026-11-10 05:25",
-  "new_period": "du 2026-11-09 20:00 au 2026-11-10 05:25",
-  "context_period": "du 2026-11-09 05:25 au 2026-11-09 20:00",
+  "generated_at": "2026-11-10 05:55",
+  "period": "du 2026-11-09 05:55 au 2026-11-10 05:55",
+  "new_period": "du 2026-11-09 20:00 au 2026-11-10 05:55",
+  "context_period": "du 2026-11-09 05:55 au 2026-11-09 20:00",
   "coverage_complete": true,
-  "new_count": 335,
-  "context_count": 1384,
+  "new_count": 339,
+  "context_count": 1381,
   "duplicates_merged": 105,
   "empty_removed": 8,
   "new": [
@@ -1722,7 +1722,10 @@
     {
       "author_name": "Le Parisien",
       "published_at": "2026-11-10 04:58",
-      "text": "« On ne peut pas fermer les yeux » : l’Australie va imposer des garde-fous aux entreprises d’IA\n➡️ https://l.leparisien.fr/BNm1"
+      "text": "« On ne peut pas fermer les yeux » : l’Australie va imposer des garde-fous aux entreprises d’IA\n➡️ https://l.leparisien.fr/BNm1",
+      "also_by": [
+        "Le Parisien | politique"
+      ]
     },
     {
       "author_name": "Ni Oubli Ni Pardon",
@@ -1733,32 +1736,29 @@
       "author_name": "Sud Radio",
       "published_at": "2026-11-10 05:23",
       "text": "🇫🇷 J-2 avant le salon Made in France \n\n👉Le Made in France est-il un choix de patriote ou un luxe réservé à ceux qui en ont les moyens ? \n\n📻Votre avis nous intéresse dans #LeGrandMatin ! Réagissez en commentaires"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-09 05:30",
-      "text": "Présidentielle 2027 : Le Pen et Mélenchon toujours favoris, Philippe et Glucksmann en baisse, affirme un nouveau sondage https://l.leparisien.fr/bOhN"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-09 05:48",
-      "text": "Localisé grâce aux États-Unis, le Mexique arrête « R2 », le responsable d’une branche du cartel Jalisco Nueva Generacion\n➡️ https://l.leparisien.fr/OsbY",
-      "also_by": [
-        "Le Parisien | politique"
-      ]
+      "published_at": "2026-11-10 05:32",
+      "text": "« Une campagne d’humiliation internationale » : nouvelle plainte d’Emmanuel et Brigitte Macron contre l’influenceuse américaine Candace Owens\n➡️ https://l.leparisien.fr/xXxy"
     },
     {
       "author_name": "Sud Radio",
-      "published_at": "2026-11-09 05:48",
-      "text": "⚖️ L'ancien maire de Toulon Hubert Falco renvoyé devant la justice pour détournement de fonds publics\n\nhttps://www.sudradio.fr/societe/lex-maire-de-toulon-hubert-falco-juge-en-decembre-pour-detournement-de-fonds-publics"
+      "published_at": "2026-11-10 05:49",
+      "text": "✊ Mobilisation étudiante : nouvelle grève prévue aujourd'hui en France\n\nhttps://www.sudradio.fr/societe/crise-dans-leducation-etudiants-lyceens-et-enseignants-appellent-a-une-nouvelle-journee-daction-mardi"
     },
     {
       "author_name": "Ni Oubli Ni Pardon",
-      "published_at": "2026-11-09 05:50",
-      "text": "08/2021 La préfecture du Haut-Rhin (Louis Laugier, Préfet du Haut-Rhin de 2020-2023) avait prévenu : il y aurait des contrôles dès le premier jour de mise en application du pass sanitaire pour les restaurants et bars, dès le 9 août.\n\nhttps://www.lalsace.fr/sante/2021/08/09/premiers-controles-en-terrasses-a-mulhouse"
+      "published_at": "2026-11-10 05:50",
+      "text": "05/2021 Sylvie Tellier, Miss France en 2002, directrice générale de la société Miss France et de Miss Europe Organisation, a partagé une vidéo d’elle sur son compte Instagram se faisant vacciner avec le commentaire suivant : « Alors, ça fait pas mal du tout, il faut y aller,"
     },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-10 05:54",
+      "text": "Présidentielle 2027 : La France insoumise (LFI) relance son running club à Paris et pourrait l’étendre à d’autres villes de France\n➡️ https://l.leparisien.fr/fq0h"
+    }
+  ],
+  "context": [
     {
       "author_name": "Marc Vanguard",
       "published_at": "2026-11-09 05:59",
@@ -6728,6 +6728,11 @@
       "author_name": "Tocsin",
       "published_at": "2026-11-09 16:21",
       "text": "[Retweet de @louisfouch3] Ce matin sur Tocsin pour présenter: AGIR, la plateforme d'interpellation citoyenne autour de la proposition de loi sur l'obligation du Gardasil pour les jeunes de 11 à 26 ans... https://agir.meha-france.louisfouche.fr/"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-09 16:21",
+      "text": "Présidentielle 2027 : Le Pen et Mélenchon toujours favoris, Philippe et Glucksmann en baisse, affirme un nouveau sondage https://l.leparisien.fr/C5Qm"
     },
     {
       "author_name": "Le Média en 4⃣-4⃣-2⃣",
