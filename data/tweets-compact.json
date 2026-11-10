@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-10 04:28",
-  "period": "du 2026-11-09 04:28 au 2026-11-10 04:28",
-  "new_period": "du 2026-11-09 20:00 au 2026-11-10 04:28",
-  "context_period": "du 2026-11-09 04:28 au 2026-11-09 20:00",
+  "generated_at": "2026-11-10 04:54",
+  "period": "du 2026-11-09 04:54 au 2026-11-10 04:54",
+  "new_period": "du 2026-11-09 20:00 au 2026-11-10 04:54",
+  "context_period": "du 2026-11-09 04:54 au 2026-11-09 20:00",
   "coverage_complete": true,
-  "new_count": 331,
+  "new_count": 332,
   "context_count": 1385,
-  "duplicates_merged": 108,
+  "duplicates_merged": 106,
   "empty_removed": 8,
   "new": [
     {
@@ -1713,17 +1713,14 @@
       "author_name": "Thaïs d’Escufon",
       "published_at": "2026-11-10 03:55",
       "text": "[Retweet de @radiateur_2] Tu sais que Noël arrive quand les blocs de béton anti musulman arrivent"
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-10 04:53",
+      "text": "« Une campagne d’humiliation internationale » : nouvelle plainte d’Emmanuel et Brigitte Macron contre l’influenceuse américaine Candace Owens https://l.leparisien.fr/tQGQ"
     }
   ],
   "context": [
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-09 04:50",
-      "text": "Après sa série de concerts à Paris, Céline Dion réapparaît à Las Vegas, s’amusant avec ses fils au concert de Metallica\n➡️ https://l.leparisien.fr/aCzF",
-      "also_by": [
-        "Le Parisien | politique"
-      ]
-    },
     {
       "author_name": "Ni Oubli Ni Pardon",
       "published_at": "2026-11-09 05:16",
@@ -1889,6 +1886,11 @@
       "author_name": "CNEWS",
       "published_at": "2026-11-09 06:45",
       "text": "Adrien Guihal a revendiqué les attentats de Nice et de Magnanville ➡️ https://mrf.lu/2Y2s0"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-09 06:46",
+      "text": "Après sa série de concerts à Paris, Céline Dion réapparaît à Las Vegas, s’amusant avec ses fils au concert de Metallica\n➡️ https://l.leparisien.fr/EJUp"
     },
     {
       "author_name": "Europe 1",
