@@ -1,15 +1,15 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-10 07:25",
-  "period": "du 2026-11-09 07:25 au 2026-11-10 07:25",
-  "new_period": "du 2026-11-09 20:00 au 2026-11-10 07:25",
-  "context_period": "du 2026-11-09 07:25 au 2026-11-09 20:00",
+  "generated_at": "2026-11-10 07:55",
+  "period": "du 2026-11-09 07:55 au 2026-11-10 07:55",
+  "new_period": "du 2026-11-09 20:00 au 2026-11-10 07:55",
+  "context_period": "du 2026-11-09 07:55 au 2026-11-09 20:00",
   "coverage_complete": true,
-  "new_count": 388,
-  "context_count": 1320,
+  "new_count": 427,
+  "context_count": 1287,
   "duplicates_merged": 105,
-  "empty_removed": 8,
+  "empty_removed": 10,
   "new": [
     {
       "author_name": "Sud Radio",
@@ -87,7 +87,10 @@
     {
       "author_name": "Comité Trump France",
       "published_at": "2026-11-09 20:08",
-      "text": "ALLO LA DROITE. La gauche est en train de nous mettre une distance en terme d'implication, d'agressivité politique, elle tient le récit, les mobilisations, le front anti-Macron, renverse nos meilleurs victoires (Commission France TV) contre nous (fermeture de Cnews), réalloue"
+      "text": "ALLO LA DROITE. La gauche est en train de nous mettre une distance en terme d'implication, d'agressivité politique, elle tient le récit, les mobilisations, le front anti-Macron, renverse nos meilleurs victoires (Commission France TV) contre nous (fermeture de Cnews), réalloue",
+      "also_by": [
+        "Damien Rieu"
+      ]
     },
     {
       "author_name": "Le Parisien",
@@ -732,7 +735,10 @@
     {
       "author_name": "Radio Courtoisie",
       "published_at": "2026-11-09 21:36",
-      "text": "🚨 EXCLUSIF RADIO COURTOISIE | NOTRE ENQUÊTE SUR L’INSTITUT LA BOÉTIE ARRIVE À L’ASSEMBLÉE NATIONALE !\n\n🏛️ L’enquête de Radio Courtoisie sur les avantages fiscaux de l’Institut La Boétie, proche de La France insoumise, fait désormais l’objet d’une question écrite au Gouvernement"
+      "text": "🚨 EXCLUSIF RADIO COURTOISIE | NOTRE ENQUÊTE SUR L’INSTITUT LA BOÉTIE ARRIVE À L’ASSEMBLÉE NATIONALE !\n\n🏛️ L’enquête de Radio Courtoisie sur les avantages fiscaux de l’Institut La Boétie, proche de La France insoumise, fait désormais l’objet d’une question écrite au Gouvernement",
+      "also_by": [
+        "Ligne Droite • La matinale de RC"
+      ]
     },
     {
       "author_name": "Fdesouche.com est une revue de presse",
@@ -2010,182 +2016,204 @@
       "author_name": "Sud Radio",
       "published_at": "2026-11-10 07:19",
       "text": "💰SMIC à 1502€ : \"Ce n'est pas rien mais ça ne va pas être suffisant\"\n\n🗣️Christelle Thieffine (@CFECGC) : \"Les attentes c'est la négociation dans les branches professionnelles et les entreprises\" #GrandMatin\n\n📻 https://www.sudradio.fr/"
-    }
-  ],
-  "context": [
+    },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-09 07:26",
-      "text": "Il était hospitalisé dans un état critique depuis son interpellation ➡️ https://mrf.lu/2Y2pr"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-09 07:28",
-      "text": "Pologne : l'auteur de la tuerie de Cracovie est mort https://ow.ly/1ufH106I9BE"
-    },
-    {
-      "author_name": "L'Express",
-      "published_at": "2026-11-09 07:28",
-      "text": "Après une tentative de suicide de sa fille, Gaëlle Berbonde a décidé de rejoindre le collectif de familles Algos Victima, qui a porté plainte contre le réseau social chinois en novembre...\n\n➡️ https://l.lexpress.fr/M57"
+      "published_at": "2026-11-10 07:27",
+      "text": "Yves Carra, porte-parole Mobilité Club France, revient dans #LaMatinale sur la cyberattaque qui a touché 23 millions de conducteurs : «Quand on a la carte grise, l’adresse et le type de voiture, c’est un vrai risque.»\n\nToute l'info est à retrouver sur https://cnews.fr"
     },
     {
       "author_name": "Tocsin",
-      "published_at": "2026-11-09 07:28",
-      "text": "La Matinale 09/11 : Une nouvelle étape dans la marche forcée européiste ! https://x.com/i/broadcasts/2qVjQQNevgldmR"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-09 07:28",
-      "text": "Claude Moniquet est revenu sur l'enquête ouverte par Nvidia après que le patron du géant américain a reconnu une liaison extraconjugale avec une femme soupçonnée d'être une espionne chinoise. #LaMatinale\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-09 07:28",
-      "text": "🏛️ 66 parlementaires appellent à une primaire contre les « extrêmes »\n\n🗣️ @OlgaGivernet, députée Renaissance de l’Ain : « Aucun candidat de notre camp n’est en mesure de se qualifier au second tour. Nous courons le risque d’un duel Le Pen-Mélenchon »\n\n📻 https://SudRadio.fr"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-09 07:30",
-      "text": "🔴L’auteur de la tuerie à Cracovie a succombé à ses blessures, annonce la police \n➡️ https://l.leparisien.fr/rBRO"
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-09 07:30",
-      "text": "Cernée par les rats, une habitante d’Albi vit retranchée dans sa chambre avec sa fille → https://l.lefigaro.fr/iFxv"
-    },
-    {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-09 07:30",
-      "text": "Mike Tapp estime que le Royaume-Uni a trop dépendu de la main-d’œuvre étrangère. Selon lui, une personne sur 30 vivant dans le pays est arrivée depuis quatre ans. \n https://www.fdesouche.com/2026/11/09/royaume-uni-une-personne-sur-30-arrivee-quatre-ans-mike-tapp/"
-    },
-    {
-      "author_name": "Valeurs actuelles",
-      "published_at": "2026-11-09 07:31",
-      "text": "L'ENTRETIEN POLITIQUE. Nouveau président du groupe RN à l'Assemblée, Sébastien Chenu entend préparer les députés à l'exercice du pouvoir. Majorité parlementaire, campagne présidentielle, obstacles institutionnels : le député du Nord se confie à Valeurs a… https://l.valeursactuelles.com/sPq"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-09 07:32",
-      "text": "🇺🇦 🇮🇷G7 à Paris : l'Ukraine et l'Iran au cœur des discussions entre les chefs de la diplomatie\n\nhttps://www.sudradio.fr/societe/les-ministres-du-g7-reunis-a-paris-sur-fond-de-tensions-avec-liran"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-09 07:35",
-      "text": "Une soirée mémorable en famille ➡️ https://mrf.lu/2Y2-5"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-09 07:39",
-      "text": "🔴 Le trafic est très perturbé sur l’ensemble du RER B ce lundi matin après «un incident affectant les voies à Gare du Nord»\n➡️ https://l.leparisien.fr/AAVW"
-    },
-    {
-      "author_name": "Aldo Sterone",
-      "published_at": "2026-11-09 07:44",
-      "text": "Le terroriste polonais est mort ce matin"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-09 07:44",
-      "text": "« Je connaissais à peine l’existence du général » : les Américains découvrent « La Bataille de Gaulle »\n➡️ https://l.leparisien.fr/BN0U",
-      "also_by": [
-        "Le Parisien | politique"
-      ]
-    },
-    {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-09 07:45",
-      "text": "À Podenzano, des enfants avaient travaillé deux mois sur une banderole « Qui nessuno è straniero ». La direction l’a fait retirer faute d’autorisation préalable. \n https://www.fdesouche.com/2026/11/09/italie-podenzano-banderole-qui-nessuno-e-straniero-retiree-ecole/"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-09 07:45",
-      "text": "Une révélation inattendue ➡️ https://mrf.lu/2Y2y4"
-    },
-    {
-      "author_name": "Le JDD",
-      "published_at": "2026-11-09 07:46",
-      "text": "Chute en bourse, départ de stars... Nike est-elle devenue une marque has been ? https://ow.ly/LzuI106I9Jb"
-    },
-    {
-      "author_name": "Tribune Populaire🌐",
-      "published_at": "2026-11-09 07:47",
-      "text": "🇵🇾Les autorités ont trouvé un coffre-fort dans la résidence de l'ancien président Santiago Peña, à San Bernardino, selon les informations des procureurs intervenants.\n\nLe coffre-fort disposerait d'un système de sécurité israélien et de lecture de l'iris, d'une sécurité de niveau"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-09 07:48",
-      "text": "🏛️ Mobilisation lycéenne : « Au moins 50 proviseurs vont demander à quitter leur établissement »\n\n🗣️ Nicolas Bonnet, proviseur d’un lycée professionnel et secrétaire national du SNPDEN : « Dans quelques établissements, nos collègues sont des cibles. La semaine dernière, au moins"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-09 07:48",
-      "text": "La chronique économique de Marc Touati du 09/11/2026 dans #LaMatinale"
-    },
-    {
-      "author_name": "Le Point",
-      "published_at": "2026-11-09 07:48",
-      "text": "Attentat de Cracovie : l’acte d’un « nihiliste extrémiste violent » ?\n\nPar @briceculturier https://l.lepoint.fr/ovF"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-09 07:50",
-      "text": "« Dix fois plus en moins de dix ans » : le fléau des dépôts sauvages de déchets https://l.leparisien.fr/cGe2"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-09 07:51",
-      "text": "🔵 [LA QUESTION DU JOUR] Etes-vous choqués que certains enseignants refusent de commémorer le 11 novembre ?\n\nRépondez ici 👉 https://ow.ly/bCve50Ybq9T"
-    },
-    {
-      "author_name": "Cercle Aristote",
-      "published_at": "2026-11-09 07:51",
-      "text": "[Retweet de @Cercle_Aristote] Des « safes places » pour contrer le « sentiment d’insécurité »créé par Kevin et Mathéo."
-    },
-    {
-      "author_name": "Cercle Aristote",
-      "published_at": "2026-11-09 07:52",
-      "text": "[Retweet de @Cercle_Aristote] « Prends ça, Poutine ! »"
-    },
-    {
-      "author_name": "Cercle Aristote",
-      "published_at": "2026-11-09 07:52",
-      "text": "[Retweet de @Cercle_Aristote] Ceux qui sont pour lutter contre les déficits et la dette sans sortir de l’euro sont des escrocs.\n\nSimple.\n\nL’euro est une trappe à dettes. C’est aussi une des raisons d’en sortir."
-    },
-    {
-      "author_name": "Cercle Aristote",
-      "published_at": "2026-11-09 07:52",
-      "text": "[Retweet de @Cercle_Aristote] À demain !"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-09 07:53",
-      "text": "🇫🇷 « Tirer sur LFI, le bon moyen de rattraper Mélenchon ? Certainement pas ! »\n\n🗣️ @francoisedegois : « La campagne de Glucksmann est, pour le moment, inodore »\n\n📻 https://SudRadio.fr"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-09 07:54",
-      "text": "Cybersécurité : un projet de loi très attendu arrive à l'Assemblée https://ow.ly/Vz0t106I9Mg"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-09 07:54",
-      "text": "«Le Bleuet de France m'a aidée à me reconstruire» : le témoignage de Caroline, rescapée de l'attentat du Caire https://ow.ly/UALA106I9Mh"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-09 07:54",
-      "text": "France : des faillites en hausse pour un pouvoir d’achat en baisse\n\n➡️ Retrouvez l’édito éco de @MarcTouati chaque lundi et mercredi à 7h20 sur #Europe1"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-09 07:54",
-      "text": "La chronique santé du Dr Milhau du 09/11/2026"
+      "published_at": "2026-11-10 07:28",
+      "text": "La Matinale 10/11 : Midterms : Benjamin Netanyahu rendu responsable de la chute de Trump ! https://x.com/i/broadcasts/2ybAPzPAaQbBrQ"
     },
     {
       "author_name": "L'Express",
-      "published_at": "2026-11-09 07:55",
-      "text": "Boudée par les Etats-Unis, la COP31 donne l'occasion à Pékin de peser sur les négociations climatiques. Alors même que le régime bénéficie d'un statut spécial, moins contraignant.\n\n➡️ https://l.lexpress.fr/230"
+      "published_at": "2026-11-10 07:29",
+      "text": "Jonathan Lemire, journaliste au magazine \"The Atlantic\", raconte les coulisses de la nomination du fidèle et redouté conseiller de Donald Trump comme chef de cabinet à la Maison-Blanche....\n\n➡️ https://l.lexpress.fr/gjF"
     },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-10 07:29",
+      "text": "DIRECT. Crise lycéenne : journée de grève dans l’Éducation nationale, une manifestation prévue à 14 heures à Paris\n➡️ https://l.leparisien.fr/6aZt"
+    },
+    {
+      "author_name": "Kontre Kulture",
+      "published_at": "2026-11-10 07:30",
+      "text": "⛔ Faites barrage à l'ignorance : LISEZ !"
+    },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-10 07:31",
+      "text": "Candidat à la présidentielle, Teddy Riner peut-il transformer sa popularité en bulletins de vote ?\n\nBénéficiant d’un fort capital sympathie auprès des Français, le judoka peut-il convertir sa popularité en intentions de vote ? Les sondeurs sont prudents.\nhttps://www.lefigaro.fr/elections/presidentielles/ca-bouscule-un-peu-la-campagne-candidat-a-la-presidentielle-teddy-riner-peut-il-transformer-sa-popularite-en-bulletins-de-vote-20261109"
+    },
+    {
+      "author_name": "Damien Rieu",
+      "published_at": "2026-11-10 07:32",
+      "text": "[Retweet de @Hexagone_org] 🔴 [EXCLUSIF] Après sa mise en demeure par l'Arcom, France Inter conserve un biais politique en faveur de la gauche dans sa matinale, qui est par ailleurs la première matinale de France.\n\nEn juin, la radio généraliste du service public a été rappelée à l'ordre par l'Arcom pour"
+    },
+    {
+      "author_name": "Samuel Lafont",
+      "published_at": "2026-11-10 07:37",
+      "text": "[Retweet de @Ryo151] Capcom vs SNK2 世界大会\n\"Rollin’Pic Tokyo 2026\"\n\n2026/11/21 開幕\n\n【エントリー受付中】\nhttps://sakurai19830203-jpg.github.io/rollinpic_rai/rollinpic2026.html"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-10 07:37",
+      "text": "❌ Protection de l’enfance : « Macron est ridicule ! »\n\n🗣️ Anne, cofondatrice du collectif SOS Périscolaire : « La France veut donner des leçons au monde, mais qui protège nos enfants ici ? »\n\n📻 https://SudRadio.fr"
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-10 07:37",
+      "text": "[Retweet de @Patriotes71] Hommage @_LesPatriotes au général de Gaulle à Colombey Les deux Églises avec @f_philippot !"
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-10 07:37",
+      "text": "[Retweet de @LaureAngeOrange] Merci et bravo aux nombreux PATRIOTES qui se réunissent à l'appel de Florian PHILIPPOT, pour un hommage annuel au Général de Gaulle, le 9 novembre, à Colombey-Les-Deux-Eglises!"
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-10 07:37",
+      "text": "[Retweet de @cricricook] Aujourd'hui à Colombey les deux églises en hommage au Général de Gaulle, @f_philippot avec @_LesPatriotes au rendez-vous,  comme tous les ans et non tous les 5 ans comme certains ....\nVive la France 🇨🇵"
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-10 07:37",
+      "text": "[Retweet de @LesPatriotes_77] « Seuls les syndicats » auraient encore le droit de manifester nous a dit Macron…\nAllons donc, et de quel droit ?!\n➡️ « Macron démission !\nFREXIT ! » @reslp77 https://www.instagram.com/p/DfiK60jJ-5r/?utm_source=ig_web_button_share_sheet&srtk=MzJiMzQ5ZWQ2Mw=="
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-10 07:38",
+      "text": "[Retweet de @LesPatriotes21] 🔶 📣 Soyons tous au rendez-vous. 📣 🔶\n\nSamedi 14 novembre, Paris 14 heures, place du Palais Royal\n\n(Départ de la Marche à 15 heures) 🇫🇷🇫🇷🇫🇷"
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-10 07:38",
+      "text": "[Retweet de @LesPatriotes21] 🔶 Hier à Colombey-les-Deux-Églises, quel plaisir d’être là ! 🇫🇷\nUne vraie ferveur, une belle unité, et cette émotion particulière de se retrouver sur la tombe du Général.\n\nLes interventions étaient d’une grande qualité — et celle de Florian Philippot particulièrement forte,"
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-10 07:38",
+      "text": "[Retweet de @LesPatriotes21] https://youtu.be/ZK8OpCB0fqM?is=ZDijACob3mDkGV1A"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-10 07:39",
+      "text": "🧑‍🍳 Jérôme Banctel nommé cuisinier de l'année 2027 par Gault et Millau\n\nhttps://www.sudradio.fr/societe/gault-et-millau-couronne-le-chef-jerome-banctel-discret-devenu-incontournable"
+    },
+    {
+      "author_name": "Tribune Populaire🌐",
+      "published_at": "2026-11-10 07:40",
+      "text": "Tout ce que Teddy Riner propose depuis l’annonce de sa candidature relève exactement de la méthode Macron.\n\nSon équipe de communication semble ne pas en maîtriser toutes les subtilités.\n[Cite @TribunePop23] 📂🇫🇷 ANALYSE (suite) – Teddy Riner, le visage du gouvernement technique ?\n\nQuatrième étape : le visage. Ce lundi 9 novembre, Teddy Riner s’est déclaré candidat à l’élection présidentielle de 2027. Il se dit candidat de l’unité, ni de gauche ni de droite, et ne veut pas d’un"
+    },
+    {
+      "author_name": "LCP",
+      "published_at": "2026-11-10 07:42",
+      "text": "Retraites, salaires, sécurité: que propose Teddy Riner pour la présidentielle? \n\nhttps://lcp.fr/actualites/retraites-salaires-securite-que-propose-teddy-riner-pour-la-presidentielle-444935"
+    },
+    {
+      "author_name": "Florian Philippot",
+      "published_at": "2026-11-10 07:42",
+      "text": "Ah bah tiens !\n\n24 heures après ma vidéo sur l’étrange communication, dans tous les pays au même moment, sur les « kits d’urgence 72 heures », voilà que la Sécurité civile s’y met aussi sur X…\n\nVidéo sur cette nouvelle dinguerie du Système ➡️ https://youtu.be/ZITHtN6HQuA?is=NqDNrrLYeLakkdro\n[Cite @SecCivileFrance] #LundiRésilience | Votre kit d’urgence 72h : êtes-vous prêts ? \n\nEn cas de crise majeure, les premières 72 heures peuvent être déterminantes. Pour faire face à ces situations, préparez dès maintenant un kit d’urgence qui vous permettra de rester autonomes pendant 3 jours, dans"
+    },
+    {
+      "author_name": "L'Express",
+      "published_at": "2026-11-10 07:45",
+      "text": "Dans le deuxième épisode de notre série \"Les présidents et la Russie\", le biographe Eric Roussel raconte les relations entre l'Elysée et le Kremlin de 1958 à 1981.\n\n➡️ https://l.lexpress.fr/cv9 par @sebastienlefol https://l.lexpress.fr/cv9"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-10 07:46",
+      "text": "🔴La prime carburant \"sera prolongée l'année prochaine\"\n\n🗣️@RolandLescure : \"Il faut que chacun puisse contribuer autant qu'il peut, les employeurs doivent faire leur partie du boulot\" #GrandMatin\n\n📻 https://www.sudradio.fr/"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-10 07:46",
+      "text": "⛽️Prix du carburant : \"Le diesel est à 2.20€/litre aujourd'hui\"\n\n🗣️@RolandLescure : \"7500 stations sur 10 000 ont baissé les prix d'environ 20 centimes pour trois mois\" #GrandMatin \n\n📻 https://www.sudradio.fr/"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-10 07:47",
+      "text": "Mobilisation universitaire : la légende du « 10 améliorable » qui perdure sur les campus\n➡️ https://l.leparisien.fr/v2lo"
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-10 07:48",
+      "text": "Pourparlers d’Abou Dhabi : comment la Russie va tenter de piéger l’Ukraine, l’Europe et les États-Unis\n➡️ https://l.leparisien.fr/KxuJ"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-10 07:48",
+      "text": "Une nouvelle journée de grève et de manifestations est prévue ce mardi dans l’éducation nationale. Lycéens, étudiants et enseignants sont appelés à se mobiliser partout en France. https://mrf.lu/2YmH_"
+    },
+    {
+      "author_name": "Damien Rieu",
+      "published_at": "2026-11-10 07:48",
+      "text": "[Retweet de @AlerteMediasFR] ❗️SAISIE ARCOM\n\nEncore une grave désinformation du service public !\n\nCe dimanche à 2 reprises les 2 JT de France 2 à 13h et 20h ont affirmé que l’auteur de l’attentat terroriste de Cracovie était \"fasciné par les idées d’extrême droite\"\nCela s’est concrétisé par un bandeau"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-10 07:48",
+      "text": "C’est ce que l’on appelle collectionner les récompenses. \n\nDécoré d’une troisième étoile Michelin en 2024, sacré chef de l’année par ses pairs dans la foulée. Le chef Jérôme Banctel officie au Gabriel, la table triplement étoilée de l’hôtel La Réserve Paris.\n\nPar @hugo25phalle\n➡️"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-10 07:49",
+      "text": "🔵 [LA QUESTION DU JOUR] Présidentielle 2027 : Teddy Riner peut-il créer la surprise ?\n\nRépondez ici 👉 https://ow.ly/bCve50Ybq9T"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-10 07:49",
+      "text": "Paul McCartney entre dans le club des milliardaires : sa fortune est estimée à 1,4 milliard de dollars. L’ex-Beatle devient le troisième musicien le plus riche au monde. https://mrf.lu/2YmXC"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-10 07:50",
+      "text": "\"Il n'avait pas de copains, il ne s'intéressait qu'aux profs. Et puis il leur posait des colles, il voulait en savoir plus qu'eux, et montrer qu'il avait toujours raison\" explique Catherine Nay à propos d'Emmanuel Macron \n\n@dimitripavlenko #Europe1 #europe1matin @EditionsPlon"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-10 07:50",
+      "text": "Un pêcheur australien a décroché le jackpot après avoir capturé un barramundi exceptionnel lors d'un concours de pêche dans le Territoire du Nord. https://mrf.lu/2YmXY"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-10 07:50",
+      "text": "\"Il était toujours en train de draguer les professeurs (...) c'était un charmeur de puissant. Il a très vite compris que pour arriver quelque part, il ne fallait pas passer par le bas, il fallait passer par le haut\" Catherine Nay à propos d'E.Macron \n\n@dimitripavlenko #Europe1"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-10 07:51",
+      "text": "\"Brigitte le dit, mais il n'a besoin de personne, il est autosuffisant (...) Et d'ailleurs, il a une sorte d'inaptitude à travailler en collégialité, parce que sa trajectoire, c'est la solitude\" Catherine Nay à propos d'E.Macron \n\n@dimitripavlenko #Europe1 #europe1matin"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-10 07:51",
+      "text": "🔴@RolandLescure annonce \"un allègement de charges en cas d'augmentation des salaires\", avant Noël #GrandMatin\n\n📻 https://www.sudradio.fr/"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-10 07:52",
+      "text": "La chronique santé du Dr Milhau du 10/11/2026"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-10 07:53",
+      "text": "Le taux de chômage quasiment stable au troisième trimestre à 8,2 %, selon l'Insee https://ow.ly/vEb2106IfQK"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-10 07:54",
+      "text": "Sophie Binet défend la liberté de la presse… sauf pour CNews !\n\n➡️ Écoutez l'édito de @Laurent7Tessier dans #Europe1Matin #Europe1"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-10 07:54",
+      "text": "💰Défiscalisation des heures supplémentaires\n\n🗣️@RolandLescure : \"Si vous voulez travailler plus, vous gagnerez plus. Tous les salariés peuvent en bénéficier\" #GrandMatin\n\n📻 https://www.sudradio.fr/"
+    }
+  ],
+  "context": [
     {
       "author_name": "Le Parisien | politique",
       "published_at": "2026-11-09 07:56",
@@ -7548,6 +7576,11 @@
       "author_name": "Valeurs actuelles",
       "published_at": "2026-11-09 17:54",
       "text": "💬 [QUESTION DU JOUR] Faut-il changer les dates de l’élection présidentielle comme le propose Bruno Retailleau ?\n\nRépondez ici : https://l.valeursactuelles.com/jrk"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-09 17:56",
+      "text": "« Je connaissais à peine l’existence du général » : les Américains découvrent « La Bataille de Gaulle »\n➡️ https://l.leparisien.fr/tQgu"
     },
     {
       "author_name": "Le Point",
