@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-10 06:55",
-  "period": "du 2026-11-09 06:55 au 2026-11-10 06:55",
-  "new_period": "du 2026-11-09 20:00 au 2026-11-10 06:55",
-  "context_period": "du 2026-11-09 06:55 au 2026-11-09 20:00",
+  "generated_at": "2026-11-10 07:25",
+  "period": "du 2026-11-09 07:25 au 2026-11-10 07:25",
+  "new_period": "du 2026-11-09 20:00 au 2026-11-10 07:25",
+  "context_period": "du 2026-11-09 07:25 au 2026-11-09 20:00",
   "coverage_complete": true,
-  "new_count": 368,
-  "context_count": 1350,
-  "duplicates_merged": 103,
+  "new_count": 388,
+  "context_count": 1320,
+  "duplicates_merged": 105,
   "empty_removed": 8,
   "new": [
     {
@@ -24,7 +24,10 @@
     {
       "author_name": "François Asselineau 🇫🇷",
       "published_at": "2026-11-09 20:01",
-      "text": "Bientôt\n🎥 𝗗𝗜𝗥𝗘𝗖𝗧 𝗻°𝟭𝟯𝟰 du\n𝗠𝗘𝗥𝗖𝗥𝗘𝗗𝗜 𝟭𝟭 𝗡𝗢𝗩𝗘𝗠𝗕𝗥𝗘 𝟮𝟬𝟮𝟲\nde 20h30 à 22h30\n-\n🗣 Interrogez Asselineau\nsur l'actualité\n🇫🇷 nationale\n🇪🇺 européenne\n🌏 mondiale\n-\n⚠️en postant vos questions\ndès maintenant\nà 𝗱𝗶𝗿𝗲𝗰𝘁@𝘂𝗽𝗿.𝗳𝗿\n-"
+      "text": "Bientôt\n🎥 𝗗𝗜𝗥𝗘𝗖𝗧 𝗻°𝟭𝟯𝟰 du\n𝗠𝗘𝗥𝗖𝗥𝗘𝗗𝗜 𝟭𝟭 𝗡𝗢𝗩𝗘𝗠𝗕𝗥𝗘 𝟮𝟬𝟮𝟲\nde 20h30 à 22h30\n-\n🗣 Interrogez Asselineau\nsur l'actualité\n🇫🇷 nationale\n🇪🇺 européenne\n🌏 mondiale\n-\n⚠️en postant vos questions\ndès maintenant\nà 𝗱𝗶𝗿𝗲𝗰𝘁@𝘂𝗽𝗿.𝗳𝗿\n-",
+      "also_by": [
+        "Union Populaire Républicaine"
+      ]
     },
     {
       "author_name": "Le Figaro",
@@ -1823,7 +1826,10 @@
     {
       "author_name": "Le Parisien",
       "published_at": "2026-11-10 06:23",
-      "text": "Grâce à des exportations en hausse, la Chine dépasse les 1000 milliards de dollars d’excédent commercial dès octobre\n➡️ https://l.leparisien.fr/pMtq"
+      "text": "Grâce à des exportations en hausse, la Chine dépasse les 1000 milliards de dollars d’excédent commercial dès octobre\n➡️ https://l.leparisien.fr/pMtq",
+      "also_by": [
+        "Le Parisien | politique"
+      ]
     },
     {
       "author_name": "Europe 1",
@@ -1904,159 +1910,109 @@
       "author_name": "CNEWS",
       "published_at": "2026-11-10 06:55",
       "text": "L’Irlande, l’Allemagne et la Belgique en tête : voici les 8 pays de l’UE où l’électricité coûte le plus cher. Avec 25 centimes le kWh, la France reste sous la moyenne européenne. https://mrf.lu/2YSKJ"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-09 06:55",
-      "text": "Désert médical : à Limeil-Brévannes, les médecins généralistes recrutés bien avant la fin de leurs études\n➡️ https://l.leparisien.fr/h1nZ"
-    },
-    {
-      "author_name": "Le Crapaud",
-      "published_at": "2026-11-09 06:56",
-      "text": "Je crois que ça suffit. \n\nÇa fait 50 ans qu’on essaie la cohabitation et ça ne marche pas. C’est comme ça, on n’y peut rien. L’islam ne connaît pas la cohabitation, il ne connaît que la domination. \n\nEux comme nous serions plus heureux s’ils retournaient vivre dans un pays adapté"
-    },
-    {
-      "author_name": "L'Express",
-      "published_at": "2026-11-09 06:58",
-      "text": "Après l'échec des débats budgétaires à l'Assemblée nationale, le Premier ministre devra choisir entre deux maux.\n\n➡️ https://l.lexpress.fr/abx"
-    },
-    {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-09 06:58",
-      "text": "« Cracovie est un symbole fort » : la fusillade meurtrière en Pologne fracasse l’illusion de sécurité du pays\n➡️ https://l.leparisien.fr/Hfyc"
-    },
-    {
-      "author_name": "Actu & Politique",
-      "published_at": "2026-11-09 07:00",
-      "text": "📊🚨 SONDAGE - Intentions de vote au second tour de l’élection présidentielle (J-161) :\n\n🔵 Marine Le Pen : 68 % (-2) ☑️\n🔴 Jean-Luc Mélenchon : 32 % (+2)\n\n🔵 Marine Le Pen : 58 % (+1) ☑️\n🟡 Édouard Philippe : 42 % (-1)\n\n🔵 Marine Le Pen : 60 % (+1) ☑️\n🟣 Raphaël Glucksmann : 40"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-09 07:00",
-      "text": "L'édito de Yoann Usaï : «L'extrême gauche et le retour du bruit des bottes»."
+      "published_at": "2026-11-10 06:56",
+      "text": "La chronique économique d'Éric de Riedmatten du 10/11/2026 dans #LaMatinale"
     },
     {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-09 07:00",
-      "text": "Le 9 novembre 1799, le coup d'État du 18 Brumaire commence. Bonaparte fait transférer les assemblées à Saint-Cloud : le Directoire vit ses dernières heures. \n https://www.fdesouche.com/2026/11/09/9-novembre-1799-18-brumaire-bonaparte-coup-etat-directoire/"
+      "author_name": "CNEWS",
+      "published_at": "2026-11-10 06:56",
+      "text": "Un réseau d’hydrogène de 800 km entre les Bouches-du-Rhône et la frontière allemande : NaTran présente HY-FEN, avec une mise en service visée en 2032. https://mrf.lu/2YSJQ"
+    },
+    {
+      "author_name": "Union Populaire Républicaine",
+      "published_at": "2026-11-10 06:58",
+      "text": "[Retweet de @f_asselineau] 𝟵/𝟭𝟭/𝟮𝟬𝟮𝟲 - 𝟱𝟲𝗲 𝗮𝗻𝗻𝗶𝘃𝗲𝗿𝘀𝗮𝗶𝗿𝗲 𝗱𝗲 𝘀𝗮 𝗺𝗼𝗿𝘁\n𝗟𝗘 𝗖𝗢𝗡𝗦𝗘𝗜𝗟 𝗗𝗘 𝗗𝗘 𝗚𝗔𝗨𝗟𝗟𝗘 𝗔𝗨 𝗦𝗨𝗝𝗘𝗧 𝗗𝗘 𝗟𝗔 𝗖𝗢𝗡𝗦𝗧𝗥𝗨𝗖𝗧𝗜𝗢𝗡 𝗘𝗨𝗥𝗢𝗣𝗘𝗘𝗡𝗡𝗘\n🇫🇷 L'un des plus beaux hommages que l'on peut rendre à l'extrême lucidité de l'Homme du 18 juin"
+    },
+    {
+      "author_name": "Union Populaire Républicaine",
+      "published_at": "2026-11-10 06:58",
+      "text": "[Retweet de @f_asselineau] 📺 𝗡𝗼𝘂𝘃𝗲𝗹𝗹𝗲 𝘃𝗶𝗱𝗲𝗼\n𝗙𝗥𝗔𝗡𝗖𝗢𝗜𝗦 𝗔𝗦𝗦𝗘𝗟𝗜𝗡𝗘𝗔𝗨-TV\nCette vidéo de 11min reprend une question du Direct du 28 octobre 2026\n🗣Seriez-vous prêt à porter le chapeau de dictateur s'il faut destituer beaucoup de politiciens et fonctionnaires de leurs postes ?"
+    },
+    {
+      "author_name": "Union Populaire Républicaine",
+      "published_at": "2026-11-10 06:58",
+      "text": "[Retweet de @f_asselineau] 𝗤𝗨𝗘𝗟 𝗡𝗜𝗔𝗜𝗦 !\nPour répondre à tous ceux qui lui reprochent de «ne pas être de gauche», Glucksman a cru malin de révéler qu'il a refusé le poste de PM que Macron lui a proposé en 2024.\n🤡Mais il s'enfonce car il avoue ainsi que Macron le juge parfaitement macro-compatible!"
+    },
+    {
+      "author_name": "Union Populaire Républicaine",
+      "published_at": "2026-11-10 06:58",
+      "text": "[Retweet de @f_asselineau] 📺 𝗡𝗼𝘂𝘃𝗲𝗹𝗹𝗲 𝘃𝗶𝗱𝗲𝗼\n𝗙𝗥𝗔𝗡𝗖𝗢𝗜𝗦 𝗔𝗦𝗦𝗘𝗟𝗜𝗡𝗘𝗔𝗨-TV\nCette vidéo de 6 minutes reprend ma réponse à une question du Direct du 28 octobre 2026 :\n🗣 Si un mécène anonyme français ou étranger vous faisait un don de plusieurs millions d'euros pour la présidentielle,"
+    },
+    {
+      "author_name": "Union Populaire Républicaine",
+      "published_at": "2026-11-10 06:58",
+      "text": "[Retweet de @f_asselineau] 📺 📈  𝟮𝟬𝟬.𝟬𝟬𝟬 𝘃𝘂𝗲𝘀 𝘀𝘂𝗿 𝗢𝗠𝗘𝗥𝗧𝗔\npour mon émission avec Régis Le Sommier sur l’état de la France, la situation internationale, et les perspectives à 6 mois de l’élection présidentielle.\n-----\n⚠️ L'émission est en ligne ⤵️\nhttps://youtu.be/J_uKxY5ghtY?is=PbFRLooZQQ1bfOra\n-----"
+    },
+    {
+      "author_name": "Union Populaire Républicaine",
+      "published_at": "2026-11-10 06:58",
+      "text": "[Retweet de @f_asselineau] 📺 𝗡𝗼𝘂𝘃𝗲𝗹𝗹𝗲 𝘃𝗶𝗱𝗲𝗼\n𝗙𝗥𝗔𝗡𝗖𝗢𝗜𝗦 𝗔𝗦𝗦𝗘𝗟𝗜𝗡𝗘𝗔𝗨-TV\nCette vidéo de 9 minutes reprend ma réponse à une question du Direct du 28 octobre 2026 :\n🗣 Que pensez-vous de la réélection de Lula au Brésil ? Le Brésil est-il le dernier obstacle à l'hégémonie des"
     },
     {
       "author_name": "Le Figaro",
-      "published_at": "2026-11-09 07:00",
-      "text": "Midterms 2026 : pour Donald Trump, la victoire des démocrates est un «gigantesque pas en arrière dans l’Histoire» → https://l.lefigaro.fr/H3SR"
+      "published_at": "2026-11-10 07:00",
+      "text": "À Rumilly, l’inquiétude des habitants exposés aux Pfas. →https://l.lefigaro.fr/UvZO"
     },
     {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-09 07:01",
-      "text": "Son analyse complète ➡️ https://mrf.lu/2Y2L_"
+      "author_name": "Marc Vanguard",
+      "published_at": "2026-11-10 07:01",
+      "text": "[Retweet de @marc_vanguard] 🔴 Marine Le Pen est 13 points au-dessus de son niveau d'il y a 5 ans dans les sondages de 2nd tour face à Philippe.\n\n👉 Mais que s'est-il passé en 5 ans pour que le RN atteigne 58% face au candidat centriste ?\n\nÇa paraît fou."
+    },
+    {
+      "author_name": "Gendarmerie nationale",
+      "published_at": "2026-11-10 07:02",
+      "text": "#BellesAffaires 🔧 Après de nombreuses investigations, les #gendarmes du Maine-et-Loire mettent fin à une série de vols de matériel électroportatif constatés dans la région :\n➡️ 70 vols recensés pour 143 000€ de préjudice\n➡️ 4 individus interpellés ⚖️"
     },
     {
       "author_name": "Sud Radio",
-      "published_at": "2026-11-09 07:04",
-      "text": "🇺🇸 Donald Trump dément envisager de nommer le patron de l’UFC à la Maison Blanche\n\nhttps://www.sudradio.fr/sport-rugby/sport/le-patron-du-mma-porte-parole-de-la-maison-blanche-une-blague-dit-trump"
+      "published_at": "2026-11-10 07:02",
+      "text": "🏀NBA : Victor Wembanyama brille encore avec les Spurs face à Phoenix ! \n\nhttps://www.sudradio.fr/sport-rugby/sport/nba-wemby-plante-40-points-pour-une-large-victoire-des-spurs-2"
+    },
+    {
+      "author_name": "Le Crapaud",
+      "published_at": "2026-11-10 07:04",
+      "text": "Le tour de force des immigrationnistes a été de faire en sorte qu’être raciste soit considéré comme le pire des crimes.\n\nPuis, au fur et à mesure, ils n’ont eu qu’à étendre la définition du racisme à tout ce qui pouvait s’opposer à leur rêve de monde sans frontières.\n\nIl n’y a"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-09 07:04",
-      "text": "La fusillade meurtrière en Pologne fracasse l’illusion de sécurité du pays\n\nLa tuerie perpétrée à Cracovie par un jeune «fasciné» par les idées d’extrême droite ébranle la Pologne, pays jusqu’alors épargné par ce type de violence massive\n\n➡️ https://l.leparisien.fr/qu16"
-    },
-    {
-      "author_name": "Aldo Sterone",
-      "published_at": "2026-11-09 07:07",
-      "text": "Une nouvelle génération de pilotes arrive..."
+      "published_at": "2026-11-10 07:06",
+      "text": "« Ne m’enlevez pas mes rides » : à bientôt 60 ans, Sophie Marceau se confie sur sa jeunesse et sa carrière\n➡️ https://l.leparisien.fr/m7YZ"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-09 07:10",
-      "text": "Les semaines se suivent et se ressemblent ➡️ https://mrf.lu/2Y2rw"
+      "published_at": "2026-11-10 07:09",
+      "text": "Claude Moniquet, spécialiste terrorisme et renseignement, analyse dans #LaMatinale la reprise des négociations entre l’Ukraine et la Russie. Toute l'info est à retrouver sur https://cnews.fr"
     },
     {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-09 07:10",
-      "text": "L’élue a dénoncé une «attaque d’une extrême gravité» ➡️ https://mrf.lu/2Y2rB"
-    },
-    {
-      "author_name": "Les Patriotes",
-      "published_at": "2026-11-09 07:13",
-      "text": "[Retweet de @SZYCH1] https://youtu.be/c1Sf7G43-JU?is=Y_3YFWB1Nd_znlwK"
-    },
-    {
-      "author_name": "Les Patriotes",
-      "published_at": "2026-11-09 07:13",
-      "text": "[Retweet de @Patriotes71] https://youtu.be/c1Sf7G43-JU?is=Y_3YFWB1Nd_znlwK"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-09 07:13",
-      "text": ".@BleuetFrance : \"C'est quelque chose qui me tient à cœur parce que nous avons un devoir de mémoire. [...] Il y a des gens qui se sont mis sur le front pour nous protéger, pour que nous restions une démocratie.\" déclare Frank Lebœuf #Europe1Matin @dimitripavlenko #Europe1"
-    },
-    {
-      "author_name": "Les Patriotes",
-      "published_at": "2026-11-09 07:13",
-      "text": "[Retweet de @LesPatriotes21] 🔶 Aujourd'hui, comme tous les ans (quel que soit le calendrier électoral 😏), les Patriotes se retrouvent autour de Florian Philippot à Colombey-Les-Deux-Églises, afin de se recueillir sur la tombe du Général de Gaulle mort le 9 novembre 1970. 🙏 ☨ 🇨🇵"
-    },
-    {
-      "author_name": "Les Patriotes",
-      "published_at": "2026-11-09 07:13",
-      "text": "[Retweet de @LesPatriotes21] https://youtu.be/c1Sf7G43-JU?is=FvuVjCbUyZ3OFwlb"
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-10 07:13",
+      "text": "Une intersyndicale rassemblant organisations de jeunesse et enseignants a appelé ce mardi 10 novembre à une nouvelle journée de grève et de manifestations\n\nSuivez notre direct ➡️ https://l.leparisien.fr/jToG"
     },
     {
       "author_name": "L'Express",
-      "published_at": "2026-11-09 07:15",
-      "text": "OpenAI, Anthropic, Mistral et les laboratoires chinois courent après le même graal : un modèle capable de concevoir son successeur. Une nouvelle course aussi prometteuse que risquée.\n\n➡️ https://l.lexpress.fr/8dQ"
+      "published_at": "2026-11-10 07:14",
+      "text": "Au Portugal, en Espagne ou en Italie, des manifestants protestent contre les difficultés d'accès au logement et l'envolée des prix. Un phénomène qui concerne toute l'Europe et encourage...\n\n➡️ https://l.lexpress.fr/m6B par @Corentinpennar https://l.lexpress.fr/m6B"
+    },
+    {
+      "author_name": "Valeurs actuelles",
+      "published_at": "2026-11-10 07:17",
+      "text": "CHRONIQUE. Drones de surface, robots sous-marins, systèmes autonomes : la guerre navale entre dans une nouvelle ère. À l’occasion de la 30e édition d’Euronaval, les industriels de la défense ont dévoilé l’ampleur d’une révolution technologique portée par… https://l.valeursactuelles.com/Oxe"
     },
     {
       "author_name": "Europe 1",
-      "published_at": "2026-11-09 07:15",
-      "text": "\"Le 14 juillet, je vois chaque année dans les tribunes des gens qui ne portent pas le bleuet et c'est vrai que ça m'énerve passablement\" déclare Frank Lebœuf #Europe1Matin @dimitripavlenko @BleuetFrance #Europe1"
-    },
-    {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-09 07:15",
-      "text": "Après avoir eux-mêmes appelé le 112 depuis la mer du Nord, une trentaine de migrants ont refusé de quitter leur embarcation. Les garde-côtes français ont finalement pris le relais. \n https://www.fdesouche.com/2026/11/09/belgique-appel-112-migrants-refus-secours-eaux-francaises/"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-09 07:18",
-      "text": "14 juillet : «Je vois chaque année des gens qui ne portent pas le bleuet, et ça m'énerve», regrette Franck Leboeuf https://ow.ly/2LuL106I9Bm"
+      "published_at": "2026-11-10 07:18",
+      "text": "La Chine passe la marque des 1.000 milliards de dollars d'excédent commercial dès octobre https://ow.ly/wuT6106IfiH"
     },
     {
       "author_name": "Sud Radio",
-      "published_at": "2026-11-09 07:18",
-      "text": "❌ Déserts médicaux : « En 2024, 6 hôpitaux sur 10 fermaient régulièrement leurs services et rien ne se passe »\n\n🗣️ Michel Masset, sénateur de Lot-et-Garonne : « Un rendez-vous chez un spécialiste, c’est entre 4 et 8 mois d’attente »\n\n📻 https://SudRadio.fr"
-    },
-    {
-      "author_name": "EuroLibertés",
-      "published_at": "2026-11-09 07:20",
-      "text": "Lucky Luke fête ses 80 ans ! https://www.bvoltaire.fr/lucky-luke-fete-ses-80-ans/"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-09 07:20",
-      "text": "Un moment de recueillement annuel ➡️ https://mrf.lu/2Y2H1"
-    },
-    {
-      "author_name": "Le Point",
-      "published_at": "2026-11-09 07:22",
-      "text": "« Canard boiteux » depuis sa désastreuse dissolution, comme désormais Donald Trump, le président ne peut même plus bouger, neutralisé par la polarisation triomphante qu’incarnent Le Pen et Mélenchon.\n\n🖋️ LA CHRONIQUE de @scoignard\n➡️ https://l.lepoint.fr/lgc"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-09 07:23",
-      "text": "Les ministres du G7 réunis à Paris sur fond de tensions avec l'Iran https://ow.ly/IEmi106I9Bv"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-09 07:23",
-      "text": "Tentez de gagner un séjour bien-être Thalazur à Cabourg https://ow.ly/eW3I106I9Bw"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-09 07:24",
-      "text": "Notre journaliste revient sur l'incendie criminel qui a visé la maison d'un policier à Auch. #LaMatinale\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
+      "published_at": "2026-11-10 07:19",
+      "text": "💰SMIC à 1502€ : \"Ce n'est pas rien mais ça ne va pas être suffisant\"\n\n🗣️Christelle Thieffine (@CFECGC) : \"Les attentes c'est la négociation dans les branches professionnelles et les entreprises\" #GrandMatin\n\n📻 https://www.sudradio.fr/"
+    }
+  ],
+  "context": [
     {
       "author_name": "CNEWS",
       "published_at": "2026-11-09 07:26",
