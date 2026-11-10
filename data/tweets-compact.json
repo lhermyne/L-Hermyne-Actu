@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-10 04:54",
-  "period": "du 2026-11-09 04:54 au 2026-11-10 04:54",
-  "new_period": "du 2026-11-09 20:00 au 2026-11-10 04:54",
-  "context_period": "du 2026-11-09 04:54 au 2026-11-09 20:00",
+  "generated_at": "2026-11-10 05:25",
+  "period": "du 2026-11-09 05:25 au 2026-11-10 05:25",
+  "new_period": "du 2026-11-09 20:00 au 2026-11-10 05:25",
+  "context_period": "du 2026-11-09 05:25 au 2026-11-09 20:00",
   "coverage_complete": true,
-  "new_count": 332,
-  "context_count": 1385,
-  "duplicates_merged": 106,
+  "new_count": 335,
+  "context_count": 1384,
+  "duplicates_merged": 105,
   "empty_removed": 8,
   "new": [
     {
@@ -1718,19 +1718,24 @@
       "author_name": "Le Parisien | politique",
       "published_at": "2026-11-10 04:53",
       "text": "« Une campagne d’humiliation internationale » : nouvelle plainte d’Emmanuel et Brigitte Macron contre l’influenceuse américaine Candace Owens https://l.leparisien.fr/tQGQ"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-10 04:58",
+      "text": "« On ne peut pas fermer les yeux » : l’Australie va imposer des garde-fous aux entreprises d’IA\n➡️ https://l.leparisien.fr/BNm1"
+    },
+    {
+      "author_name": "Ni Oubli Ni Pardon",
+      "published_at": "2026-11-10 05:16",
+      "text": "07/2020 Des ambassadeurs de plages ont été recrutés par la mairie de Pornic afin de s'assurer que les gestes barrières soient bien respectés. « Le sentier est à sens unique pour éviter les croisements avec le Covid, du coup il ne faut pas repasser. »"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-10 05:23",
+      "text": "🇫🇷 J-2 avant le salon Made in France \n\n👉Le Made in France est-il un choix de patriote ou un luxe réservé à ceux qui en ont les moyens ? \n\n📻Votre avis nous intéresse dans #LeGrandMatin ! Réagissez en commentaires"
     }
   ],
   "context": [
-    {
-      "author_name": "Ni Oubli Ni Pardon",
-      "published_at": "2026-11-09 05:16",
-      "text": "11/2021 Valérie Pécresse : « Je ne veux pas reconfiner la population, parce qu'il n'y a aucune raison de traiter de la même façon des personnes qui ont fait cet effort de se vacciner, de se protéger, et celles qui ont décidé librement de ne pas se vacciner. »"
-    },
-    {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-09 05:23",
-      "text": "Présidentielle 2027 : Le Pen et Mélenchon toujours favoris, Philippe et Glucksmann en baisse, affirme un nouveau sondage\n➡️ https://l.leparisien.fr/z9Dg"
-    },
     {
       "author_name": "Le Parisien",
       "published_at": "2026-11-09 05:30",
@@ -4064,6 +4069,11 @@
       "author_name": "Le JDD",
       "published_at": "2026-11-09 11:27",
       "text": "Manifestations : Philippe Poutou applaudit les «beaux feux d'artifice» contre la police https://ow.ly/FXy0106I9UL"
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-09 11:27",
+      "text": "Présidentielle 2027 : Le Pen et Mélenchon toujours favoris, Philippe et Glucksmann en baisse, affirme un nouveau sondage\n➡️ https://l.leparisien.fr/fqPg"
     },
     {
       "author_name": "Le Point",

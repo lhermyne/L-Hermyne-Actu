@@ -1,14 +1,53 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-10T03:54:56.094Z",
+  "updated_at": "2026-11-10T04:25:11.416Z",
   "window_hours": 24,
-  "window_start": "2026-11-09T03:54:56.094Z",
+  "window_start": "2026-11-09T04:25:11.416Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1831,
+  "count": 1832,
   "tweets": [
+    {
+      "id": "2120009451176677819",
+      "created_at": "2026-11-10T04:23:35.000Z",
+      "author": "SudRadio",
+      "author_name": "Sud Radio",
+      "type": "tweet",
+      "text": "🇫🇷 J-2 avant le salon Made in France \n\n👉Le Made in France est-il un choix de patriote ou un luxe réservé à ceux qui en ont les moyens ? \n\n📻Votre avis nous intéresse dans #LeGrandMatin ! Réagissez en commentaires",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/SudRadio/status/2120009451176677819"
+    },
+    {
+      "id": "2120007641929765291",
+      "created_at": "2026-11-10T04:16:24.000Z",
+      "author": "NiONiPardon",
+      "author_name": "Ni Oubli Ni Pardon",
+      "type": "tweet",
+      "text": "07/2020 Des ambassadeurs de plages ont été recrutés par la mairie de Pornic afin de s'assurer que les gestes barrières soient bien respectés. « Le sentier est à sens unique pour éviter les croisements avec le Covid, du coup il ne faut pas repasser. »",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/NiONiPardon/status/2120007641929765291"
+    },
+    {
+      "id": "2120003031253360710",
+      "created_at": "2026-11-10T03:58:05.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "« On ne peut pas fermer les yeux » : l’Australie va imposer des garde-fous aux entreprises d’IA\n➡️ https://l.leparisien.fr/BNm1",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2120003031253360710"
+    },
     {
       "id": "2120001946991878549",
       "created_at": "2026-11-10T03:53:46.000Z",
@@ -23785,32 +23824,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/le_Parisien/status/2119648816093646888"
-    },
-    {
-      "id": "2119647002958975012",
-      "created_at": "2026-11-09T04:23:21.000Z",
-      "author": "leparisien_pol",
-      "author_name": "Le Parisien | politique",
-      "type": "tweet",
-      "text": "Présidentielle 2027 : Le Pen et Mélenchon toujours favoris, Philippe et Glucksmann en baisse, affirme un nouveau sondage\n➡️ https://l.leparisien.fr/z9Dg",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/leparisien_pol/status/2119647002958975012"
-    },
-    {
-      "id": "2119645165862228075",
-      "created_at": "2026-11-09T04:16:03.000Z",
-      "author": "NiONiPardon",
-      "author_name": "Ni Oubli Ni Pardon",
-      "type": "tweet",
-      "text": "11/2021 Valérie Pécresse : « Je ne veux pas reconfiner la population, parce qu'il n'y a aucune raison de traiter de la même façon des personnes qui ont fait cet effort de se vacciner, de se protéger, et celles qui ont décidé librement de ne pas se vacciner. »",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/NiONiPardon/status/2119645165862228075"
     }
   ]
 }
