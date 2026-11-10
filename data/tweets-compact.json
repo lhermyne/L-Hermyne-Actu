@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-10 06:25",
-  "period": "du 2026-11-09 06:25 au 2026-11-10 06:25",
-  "new_period": "du 2026-11-09 20:00 au 2026-11-10 06:25",
-  "context_period": "du 2026-11-09 06:25 au 2026-11-09 20:00",
+  "generated_at": "2026-11-10 06:55",
+  "period": "du 2026-11-09 06:55 au 2026-11-10 06:55",
+  "new_period": "du 2026-11-09 20:00 au 2026-11-10 06:55",
+  "context_period": "du 2026-11-09 06:55 au 2026-11-09 20:00",
   "coverage_complete": true,
-  "new_count": 352,
-  "context_count": 1365,
-  "duplicates_merged": 102,
+  "new_count": 368,
+  "context_count": 1350,
+  "duplicates_merged": 103,
   "empty_removed": 8,
   "new": [
     {
@@ -754,7 +754,10 @@
     {
       "author_name": "Occidentis",
       "published_at": "2026-11-09 21:39",
-      "text": "⚡️ « La courtoisie n’est pas également partagée » s’étonne Mathieu Bock-Côté face à la socialiste Audrey Pulvar qui l’interrompt à plusieurs reprises sur LCI."
+      "text": "⚡️ « La courtoisie n’est pas également partagée » s’étonne Mathieu Bock-Côté face à la socialiste Audrey Pulvar qui l’interrompt à plusieurs reprises sur LCI.",
+      "also_by": [
+        "Yann Vallerie (Breizh-Info)"
+      ]
     },
     {
       "author_name": "Europe 1",
@@ -1821,84 +1824,89 @@
       "author_name": "Le Parisien",
       "published_at": "2026-11-10 06:23",
       "text": "Grâce à des exportations en hausse, la Chine dépasse les 1000 milliards de dollars d’excédent commercial dès octobre\n➡️ https://l.leparisien.fr/pMtq"
-    }
-  ],
-  "context": [
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-10 06:28",
+      "text": "«C'est un peu tôt pour se lancer en politique» : ce que pensent les Français de la candidature de Teddy Riner à l'élection présidentielle https://ow.ly/Prh3106Ie6X"
+    },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-09 06:30",
-      "text": "« Les filles, je ne vous lâche plus » : face au cancer, ces onze inconnues devenues amies s’entraident pour retrouver confiance\n➡️ https://l.leparisien.fr/VzEh"
+      "published_at": "2026-11-10 06:30",
+      "text": "À Paris, certains se disent prêts à voter pour Teddy Riner : « Pourquoi pas lui ? On peut être agréablement surpris »\n➡️ https://l.leparisien.fr/Osds"
     },
     {
       "author_name": "Le Figaro",
-      "published_at": "2026-11-09 06:30",
-      "text": "En Israël, Gadi Eisenkot chargé de former un gouvernement avec une majorité encore introuvable ➡️ https://l.lefigaro.fr/6knx"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-09 06:30",
-      "text": "Yoann Usaï, journaliste politique, explique que Raphaël Glucksmann a refusé un poste de Premier ministre. #LaMatinale\n\nToute l'info est à retrouver sur https://cnews.fr"
+      "published_at": "2026-11-10 06:30",
+      "text": "L’acteur-star Omar Sy sera jugé le 30 novembre.→https://l.lefigaro.fr/zwEh"
     },
     {
       "author_name": "Europe 1",
-      "published_at": "2026-11-09 06:33",
-      "text": "Braquage dans une usine de joaillerie à Besançon : huit malfaiteurs mis en examen et un butin de plusieurs millions d'euros retrouvé https://ow.ly/T8G7106I9yN"
+      "published_at": "2026-11-10 06:33",
+      "text": "Frigos connectés, banques piratées… L’Assemblée nationale se penche sur le renforcement de la cybersécurité https://ow.ly/XJ5A106Ie7b"
     },
     {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-09 06:35",
-      "text": "Une idée originale... ➡️ https://mrf.lu/2Y218"
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-10 06:37",
+      "text": "Présidentielle 2027 : Teddy Riner, l’effet de surprise\n➡️ https://l.leparisien.fr/nDiy"
     },
     {
       "author_name": "Sud Radio",
-      "published_at": "2026-11-09 06:39",
-      "text": "🇫🇷 Cocorico : le pari du vêtement 100 % made in France à 100 millions d’euros\n\n🗣️ Arthur Charle, cofondateur et DG de @CocoricoVivezFr : « Contrairement à ce que les gens disent, fabriquer en France permet de faire des économies »\n\n📻 https://SudRadio.fr"
-    },
-    {
-      "author_name": "Actu & Politique",
-      "published_at": "2026-11-09 06:45",
-      "text": "📊🚨 SONDAGE - Intentions de vote à l’élection présidentielle (J-161) :\n\n🔵 Marine Le Pen : 34 % (+1)\n🔴 Jean-Luc Mélenchon : 19 % (+2)\n🟡 Édouard Philippe : 12 % (-3)\n🟣 Raphaël Glucksmann : 11 % (-1)\n🔵 David Lisnard : 9 % (+2)\n🔵 Bruno Retailleau : 5 % (+1)\n⚫️ Éric Zemmour : 3"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-09 06:45",
-      "text": "Adrien Guihal a revendiqué les attentats de Nice et de Magnanville ➡️ https://mrf.lu/2Y2s0"
+      "published_at": "2026-11-10 06:38",
+      "text": "💰\"C'est de la poudre aux yeux ! Je n'ai pas l'impression de gagner du pouvoir d'achat\"\n\n🗣️Mathieu, conducteur de car scolaire et payé au SMIC, n'est pas satisfait de la hausse annoncée par le Gouvernement\n\n📻 https://www.sudradio.fr/"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-09 06:46",
-      "text": "Après sa série de concerts à Paris, Céline Dion réapparaît à Las Vegas, s’amusant avec ses fils au concert de Metallica\n➡️ https://l.leparisien.fr/EJUp"
+      "published_at": "2026-11-10 06:39",
+      "text": "Présidentielle 2027 : Teddy Riner, l’effet de surprise https://l.leparisien.fr/xXxO"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-10 06:44",
+      "text": "Comment le «Pancake index» montre la chute du pouvoir d’achat\n\nEntre 2016 et 2026, le nombre de crêpes maison confectionnées avec le même revenu médian est passé de 12,35 à 11,13, selon une étude européenne pilotée par le réseau de journalistes CORRECTIV.Europe\n\n➡️"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-10 06:44",
+      "text": "Abou Dabi accueille les pourparlers entre Moscou, Kiev et Washington. En offrant un terrain jugé neutre, les Émirats renforcent leur rôle diplomatique, sans conduire la médiation américaine. https://mrf.lu/2YS95"
+    },
+    {
+      "author_name": "L'Express",
+      "published_at": "2026-11-10 06:44",
+      "text": "Partout en Europe, des groupes criminels recrutent des jeunes d'autres pays pour dealer, extorquer, voire assassiner. Enquête sur cette nouvelle pratique qui alerte les autorités européennes.\n\n➡️ https://l.lexpress.fr/Rrm https://l.lexpress.fr/Rrm"
     },
     {
       "author_name": "Europe 1",
-      "published_at": "2026-11-09 06:48",
-      "text": "Voitures d'occasion : les cas d'arnaques aux compteurs trafiqués en forte augmentation https://ow.ly/wJVR106I9zA"
-    },
-    {
-      "author_name": "Le JDD",
-      "published_at": "2026-11-09 06:48",
-      "text": "Déserts médicaux : près de 3 000 docteurs juniors en renfort, mais resteront-ils ? https://ow.ly/2UJv106I9zB"
+      "published_at": "2026-11-10 06:48",
+      "text": "«Je suis complet jusqu'au 11 décembre» : à Chartres, l'installation d'un médecin junior soulage les patients https://ow.ly/oCcK106Ie8l"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-09 06:51",
-      "text": "Vont-ils parvenir à trouver un point d'accord ? ➡️ https://mrf.lu/2Y2Q1"
+      "published_at": "2026-11-10 06:48",
+      "text": "🎙️ La question du jour : Etes-vous favorable à l'augmentation du Smic à 1.500 euros net par mois ?\nVotez ici ➡️ https://l.cnews.fr/zzgp"
     },
     {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-09 06:51",
-      "text": "Sébastien Lecornu réunit ce lundi matin syndicats et patronat autour d'une conférence sociale\n\nSuivez notre direct ➡️ https://l.leparisien.fr/1RLm"
+      "author_name": "Le Point",
+      "published_at": "2026-11-10 06:49",
+      "text": "« Qu’il vienne à Moscou » : l’improbable main tendue du Kremlin à Volodymyr Zelensky https://l.lepoint.fr/JZk"
     },
     {
       "author_name": "Sud Radio",
-      "published_at": "2026-11-09 06:53",
-      "text": "❌ Le chômage augmente considérablement le risque de dépression\n\n🗣️ Daniel Scimeca, médecin généraliste : « Les femmes et les jeunes sans emploi sont un public plus fragile »\n\n📻 https://SudRadio.fr"
+      "published_at": "2026-11-10 06:52",
+      "text": "🐔Ma poule ne s’alimente plus, que faire ? \n\n🗣️Les explications d'Anne-Laure Brami, vétérinaire. Posez lui toutes vos questions sur vos animaux de compagnie au 0826 300 300 #PetitMatin\n\n📻 https://www.sudradio.fr/"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-09 06:53",
-      "text": "La chronique économique d'Éric de Riedmatten du 09/11/2026 dans #LaMatinale"
+      "published_at": "2026-11-10 06:52",
+      "text": "Une nouvelle journée de grève et de manifestations est annoncée, ce mardi, à l’appel d’une intersyndicale. https://mrf.lu/2YSKb"
     },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-10 06:55",
+      "text": "L’Irlande, l’Allemagne et la Belgique en tête : voici les 8 pays de l’UE où l’électricité coûte le plus cher. Avec 25 centimes le kWh, la France reste sous la moyenne européenne. https://mrf.lu/2YSKJ"
+    }
+  ],
+  "context": [
     {
       "author_name": "Le Parisien",
       "published_at": "2026-11-09 06:55",
