@@ -1,14 +1,27 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-10T02:54:40.227Z",
+  "updated_at": "2026-11-10T03:24:50.583Z",
   "window_hours": 24,
-  "window_start": "2026-11-09T02:54:40.227Z",
+  "window_start": "2026-11-09T03:24:50.583Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1831,
+  "count": 1832,
   "tweets": [
+    {
+      "id": "2119987299253436583",
+      "created_at": "2026-11-10T02:55:34.000Z",
+      "author": "ThaisEscufon",
+      "author_name": "Thaïs d’Escufon",
+      "type": "retweet",
+      "text": "Tu sais que Noël arrive quand les blocs de béton anti musulman arrivent",
+      "retweeted_author": "radiateur_2",
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/ThaisEscufon/status/2119987299253436583"
+    },
     {
       "id": "2119985746287427741",
       "created_at": "2026-11-10T02:49:24.000Z",
