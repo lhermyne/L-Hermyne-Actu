@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-10 11:58",
-  "period": "du 2026-11-09 11:58 au 2026-11-10 11:58",
-  "new_period": "du 2026-11-10 08:00 au 2026-11-10 11:58",
-  "context_period": "du 2026-11-09 11:58 au 2026-11-10 08:00",
+  "generated_at": "2026-11-10 12:28",
+  "period": "du 2026-11-09 12:28 au 2026-11-10 12:28",
+  "new_period": "du 2026-11-10 08:00 au 2026-11-10 12:28",
+  "context_period": "du 2026-11-09 12:28 au 2026-11-10 08:00",
   "coverage_complete": true,
-  "new_count": 421,
-  "context_count": 1272,
-  "duplicates_merged": 122,
+  "new_count": 490,
+  "context_count": 1205,
+  "duplicates_merged": 117,
   "empty_removed": 10,
   "new": [
     {
@@ -2148,381 +2148,357 @@
       "author_name": "Jon De Lorraine",
       "published_at": "2026-11-10 11:57",
       "text": "🔴🇫🇷 ALERTE INFO | Chelles (77) : une conseillère régionale, adjointe au maire, aspergée d'essence devant le lycée Bachelard.\n\nElle s'est interposée alors que des individus « extérieurs au lycée » tentaient d'incendier des poubelles. Ils lui ont jeté une bouteille ouverte remplie"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Agence France-Presse",
-      "published_at": "2026-11-09 11:58",
-      "text": "🇫🇷 Le quintuple champion olympique de judo Teddy Riner, icône du sport français, a annoncé lundi sa candidature à l'élection présidentielle de 2027, dans une vidéo postée sur ses réseaux sociaux."
     },
     {
-      "author_name": "Boulevard Voltaire",
-      "published_at": "2026-11-09 11:58",
-      "text": "[Retweet de @Europe1] Prêt de l'AFD au Maroc : \"Ce que je vois, c'est que la France qui n'a plus un sou, prête aux autres.\" déclare @gabriellecluzel ChristineKellyEtVous @christine_kelly #Europe1"
+      "author_name": "Collectif Némésis",
+      "published_at": "2026-11-10 11:59",
+      "text": "DISPARITION DE SOLANGE ALEXANDRE : HOMMAGE À LA RÉSISTANTE ET CHEFFE DE MAQUIS À 18 ANS"
     },
     {
-      "author_name": "Le JDD",
-      "published_at": "2026-11-09 11:59",
-      "text": "Intelligence artificielle : Amin Maalouf au secours de notre humanité https://ow.ly/ZpWO106I9Ws"
-    },
-    {
-      "author_name": "Sarah Knafo",
-      "published_at": "2026-11-09 11:59",
-      "text": "Quand Édouard Philippe dit ce qu’Éric Zemmour disait il y a 15 ans, ça suscite un débat. Quand c’est Éric Zemmour, ça suscite un procès.\n\nIl ne faut absolument pas confondre quelqu’un qui voyait les maux venir avec quelqu’un qui les voudrait. Son combat, c’est d’éviter la guerre",
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-10 11:59",
+      "text": "Guerre en Ukraine : « Les stocks sont au minimum », la pénurie de missiles Patriot risque de durer encore au moins un an\n➡️ https://l.leparisien.fr/MPEn",
       "also_by": [
-        "RECONQUÊTE !"
+        "Le Parisien | politique"
       ]
     },
     {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-09 11:59",
-      "text": "RSF dresse dix priorités pour «le droit à l’information» et demande des «engagements concrets» aux candidats à la présidentielle \n➡️ https://l.leparisien.fr/dY6f"
-    },
-    {
-      "author_name": "TVL",
-      "published_at": "2026-11-09 12:00",
-      "text": "🇫🇷 La direction de franceinfo a proposé un accompagnement médical et juridique aux deux journalistes qui ont interviewé Sarah Knafo le 28 octobre dernier.\n\nSimon Le Baron et Audrey Tison avaient interrogé Sarah Knafo après l'attentat de Trappes et avaient fait preuve d'une rare"
-    },
-    {
-      "author_name": "Le Crayon",
-      "published_at": "2026-11-09 12:00",
-      "text": "Votre fil d'actualité a-t-il détruit votre libre arbitre ?\n\nPour @epelboin , entrepreneur et enseignant, l'information fonctionne comme l'alimentation : si vous ne consommez que des contenus qui flattent vos opinions, vous vous condamnez à une faillite intellectuelle.",
-      "also_by": [
-        "Étienne Chouard"
-      ]
-    },
-    {
-      "author_name": "Cercle Aristote",
-      "published_at": "2026-11-09 12:00",
-      "text": "[Retweet de @ame_ism] « Créer un organisme dédié à la lutte contre les complotismes (…) placé sous l’égide de l’Arcom ».\n\nDites @FranceInsoumise, vous êtes au courant que vous prévoyez donc de créer un organisme pour… vous censurer vous-même ?"
-    },
-    {
-      "author_name": "Causeur.fr",
-      "published_at": "2026-11-09 12:01",
-      "text": "Tulle, ville martyre (9 juin 1944)\nMaylis Besserie publie « Les Filles du 9 juin » (Grasset, 2026) \n\n@causeur https://www.causeur.fr/maylis-besserie-tulle-ville-martyre-9-juin-1944-336743"
-    },
-    {
-      "author_name": "Cercle Aristote",
-      "published_at": "2026-11-09 12:01",
-      "text": "[Retweet de @f_philippot] EURO-DICTATURE ! (cf vidéo ⤵️)\n\nEn plein coup d’État européiste, la Pologne vient de voter exactement l’équivalent de la loi sur « les ingérences intérieures » en préparation en France !\n\nTenez-vous bien :\n« Le projet de loi qui a été voté le 6/11 permet au ministre de"
-    },
-    {
-      "author_name": "Boulevard Voltaire",
-      "published_at": "2026-11-09 12:02",
-      "text": "[Retweet de @BVoltaire] [LE GÉNIE FRANÇAIS] TGV, le Très Grand Voyage | Par Antoine de Quelen\nDe centre-ville à centre-ville, l’avion ne peut rien contre lui. \n \nhttps://www.bvoltaire.fr/le-genie-francais-tgv-le-tres-grand-voyage/?fsp_sid=26169"
-    },
-    {
-      "author_name": "Polémia",
-      "published_at": "2026-11-09 12:02",
-      "text": "💶 Sarah Knafo préconise une politique de rupture à la Javier Milei\n\n« Ramenons l’Administration à ce qu’elle n’aurait jamais dû cesser d’être : un serviteur, et non un maître. »\n\nRecensant Le casse du siècle de Sarah Knafo (Fayard), Johan Hardoy détaille sur Polémia un manifeste"
-    },
-    {
-      "author_name": "Alain Weber",
-      "published_at": "2026-11-09 12:02",
-      "text": "Et hop, une nouvelle candidate à la présidentiel !\n\nElle est courageuse, elle lance une accusation lourde de sens !\n\nIllustration @grok IA"
-    },
-    {
-      "author_name": "Le JDD",
-      "published_at": "2026-11-09 12:02",
-      "text": "Le multiple champion du monde de judo a annoncé ce lundi se présenter à l'élection présidentielle de 2027.\n\n🔗 Article JDD : https://ow.ly/UwZi5104WeL"
-    },
-    {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-09 12:02",
-      "text": "Présidentielle 2027 : RSF dresse dix priorités pour « le droit à l’information » et demande des « engagements concrets » aux candidats https://l.leparisien.fr/rBR7"
-    },
-    {
-      "author_name": "Objectif Remigration",
-      "published_at": "2026-11-09 12:03",
-      "text": "Intéressant.\n[Cite @OccidentisMedia] 🚨 Teddy Riner annonce être CANDIDAT à la présidentielle de 2027. (AFP)"
-    },
-    {
       "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-09 12:03",
-      "text": "Dans 77 villes étudiées, la part des étrangers parmi les suspects de violences passe de 39,7 % à 48,8 % en dix ans. Plusieurs nationalités progressent fortement. \n https://www.fdesouche.com/2026/11/09/allemagne-21-villes-etrangers-majoritaires-suspects-violences-ukrainiens-x9/"
-    },
-    {
-      "author_name": "Gendarmerie nationale",
-      "published_at": "2026-11-09 12:03",
-      "text": "#CriminalitéOrganisée ❌ Les #gendarmes de #NouvelleAquitaine mettent fin à une série de vols de câbles de cuivre de centrales photovoltaïques\n➡️ 500 km de câbles volés 🔌\n➡️ Préjudice d'1 million d'euros 💶\n➡️ 6 individus interpellés ⚖️\n👏 Bravo à nos camarades !"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-09 12:03",
-      "text": "Dans l’épargne de Rebecca, 39 ans qui vient de récupérer 200 000 euros\n\nAprès sa séparation elle a touché près de 200 000 euros de la vente de l’appartement du couple\n\nUne somme qu’elle aimerait investir dans l’achat d’un bien immobilier à Paris pour elle et ses enfants. Pas si"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-09 12:03",
-      "text": "💬 «La France est un pays riche qui se raconte pauvre», estime Teddy Riner, pour qui nous ne «sommes pas condamnés à subir la dette».\n\nNotre interview exclusive du champion olympique, qui vient de se déclarer candidat à la présidentielle 2027 ➡️ https://l.leparisien.fr/tQgh"
-    },
-    {
-      "author_name": "L'Express",
-      "published_at": "2026-11-09 12:03",
-      "text": "L'intelligence n’est pas de craindre ce que le progrès nous retire, mais de découvrir ce qu’il nous permet. N'en déplaise à ceux qui préfèrent discréditer. Illustration sous forme de fable.\n\n➡️ https://l.lexpress.fr/GD2"
-    },
-    {
-      "author_name": "Occidentis",
-      "published_at": "2026-11-09 12:03",
-      "text": "🚨 Quand Teddy Riner était « angoissé » par « la montée de l’extrême droite »."
-    },
-    {
-      "author_name": "France Elects 🇫🇷",
-      "published_at": "2026-11-09 12:05",
-      "text": "Teddy Riner (three-time Olympic champion and 11-time world judo champion) has announced his candidacy for the presidential election."
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-09 12:05",
-      "text": "« Je ne pouvais pas m’effondrer devant les autres patients » : comment les étudiants en santé affrontent la mort de ceux qu’ils soignent\n➡️ https://l.leparisien.fr/tQgM"
-    },
-    {
-      "author_name": "Ligne Droite • La matinale de RC",
-      "published_at": "2026-11-09 12:06",
-      "text": "💥 \"La Chine compte dépenser 295 milliards en 5 ans [...] Sur les 54 milliards qui sont consacrés au plan France 2030, il n’y a que 2,5 milliards qui sont alloués à l’intelligence artificielle.\"\n\n🗣️ @SixtineDUPONTT, journaliste @Valeurs, détaille l’écart d’investissement entre la"
-    },
-    {
-      "author_name": "LCP",
-      "published_at": "2026-11-09 12:06",
-      "text": "Le judoka Teddy Riner annonce sa candidature à l'élection présidentielle de 2027 👇\nhttps://lcp.fr/actualites/le-judoka-teddy-riner-annonce-sa-candidature-a-l-election-presidentielle-de-2027-444920"
-    },
-    {
-      "author_name": "Frontières",
-      "published_at": "2026-11-09 12:07",
-      "text": "🚨 Quand Teddy Riner, CANDIDAT à la PRÉSIDENTIELLE “ni de droite ni de gauche”, était « ANGOISSÉ » par « la MONTÉE de L’EXTRÊME DROITE ». (@OccidentisMedia)"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-09 12:08",
-      "text": "Avant Teddy Riner, ces sportifs qui se sont lancés en politique\n\nCandidat à l’élection présidentielle en avril 2027, le judoka n’est pas le premier athlète à s’engager politiquement. \n\nTeddy Riner vise toutefois plus haut que le poste de ministre des Sports occupés par ses"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-09 12:08",
-      "text": "🇫🇷 Présidentielle 2027 : Jean-Luc Mélenchon accroît son avance (19 %, +2 points)\n\n🗣️ @pdoucet au micro de @stephdemuru : « Les gens ne sont pas dans la lecture du programme. Mélenchon est fort, car il a une vision et met de l’énergie politique »\n\n📺 https://SudRadio.fr"
-    },
-    {
-      "author_name": "Valeurs actuelles",
-      "published_at": "2026-11-09 12:09",
-      "text": "🗞️ L’un des pays les plus redistributifs au monde est rongé par un sentiment d’injustice. Tocqueville avait prévenu : plus l’égalité progresse, plus les inégalités qui subsistent sont insupportables.\n\n🔗 https://l.valeursactuelles.com/MqM"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-09 12:10",
-      "text": "🔴  « La résignation n'est pas une option » : Teddy Riner annonce sa candidature à la présidentielle de 2027 !\n\nhttps://www.sudradio.fr/sud-radio/la-resignation-nest-pas-une-option-teddy-riner-annonce-sa-candidature-a-la-presidentielle-de-2027"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-09 12:10",
-      "text": "😡 Périco Légasse :\"La violence verbale du petit Marcel préfigure la Nouvelle France\" #LaFranceDansTousSesEtats\n\n📻 Suivez le direct sur https://sudradio.fr et réagissez au 0 826 300 300"
-    },
-    {
-      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
-      "published_at": "2026-11-09 12:10",
-      "text": "Dans mon live d'hier, disponible ici : https://www.youtube.com/live/xwTPLXDx9bQ\n[Cite @Vatp8f] Daniel Conversano clashe Greg Tabibian sur son agression au Maroc.\n\nIl se fait agresser par des musulmans au Maroc, son pays d'origine à vécu un génocide par des musulmans.\n\nEt il n'est toujours pas islamophobe mais deteste les identitaires...\n\n #GregTabibian #Islamisation"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-09 12:10",
-      "text": "Gers : le domicile d'un policier incendié à Auch, la piste de représailles après une opération antidrogue https://ow.ly/GO3o106I9Xz"
-    },
-    {
-      "author_name": "Ni Oubli Ni Pardon",
-      "published_at": "2026-11-09 12:11",
-      "text": "03/2020 Marion Cotillard : « Le changement climatique aurait besoin d'engager l'attaché de presse du coronavirus. »"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-09 12:12",
-      "text": "Une nouvelle vie sous l’eau pour ce navire. ➡️ https://mrf.lu/2YcDJ"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-09 12:13",
-      "text": "🗣️⚡️Fonctionnaires exclus de Matignon : Enseignants et étudiants seront dans la rue mardi\nhttps://www.sudradio.fr/sud-radio/fonctionnaires-exclus-de-matignon-enseignants-et-etudiants-seront-dans-la-rue-mardi"
-    },
-    {
-      "author_name": "Tocsin",
-      "published_at": "2026-11-09 12:13",
-      "text": "📻 MK-Ultra : « les États-Unis ont avoué que la France était un champ d’expérimentation »\n\n🔗https://youtu.be/Yah2L0srn7c\n\n🗣️@eric_branca"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-09 12:13",
-      "text": "🔴Une intersyndicale dans la fonction publique appelle à la mobilisation et à la grève le mardi 17 novembre\n➡️ https://l.leparisien.fr/ZkMx"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-09 12:14",
-      "text": "Lara Tchekov, journaliste le JDD dans #100Frontieres : «Bruno Retailleau ou David Lisnard aurait pu avoir le même discours» que Teddy Riner.\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Ministère de la Justice",
-      "published_at": "2026-11-09 12:15",
-      "text": "#LaJusticeRecrute | Les inscriptions au concours de directeur #pénitentiaire d’#insertion et de probation sont ouvertes ! \nSoyez au cœur de la Justice, devenez un acteur essentiel de la #justice pénale ! ✅\nInscriptions jusqu’au 11 décembre 👉 https://swll.to/xbyHQ\n📸 Joachim"
-    },
-    {
-      "author_name": "OMERTA",
-      "published_at": "2026-11-09 12:15",
-      "text": "Défaite aux élections de mi-mandat, guerre en Iran, virage migratoire… Donald Trump est-il en train de perdre sa base MAGA ?\n\n@LeSommierRgis analyse les conséquences de ce revers et les prétendants à sa succession en 2028. \n\nhttps://youtu.be/pjxS5xc3IR8"
-    },
-    {
-      "author_name": "Le Média en 4⃣-4⃣-2⃣",
-      "published_at": "2026-11-09 12:15",
-      "text": "Macron découvre en pleine réunion qu'il a supprimé 10 000 places étudiantes : « Ah oui ? » \nhttps://lemediaen442.fr/macron-decouvre-en-pleine-reunion-quil-a-supprime-10-000-places-etudiantes-ah-oui/ \n\nSabrine Kharbach raconte une réunion surréaliste où les étudiants auraient dû expliquer au président les conséquences de sa  politique."
-    },
-    {
-      "author_name": "Frontières",
-      "published_at": "2026-11-09 12:15",
-      "text": "🚨 ALERTE - OMAR SY sera JUGÉ en NOVEMBRE pour \"violences\" sur des agents SNCF. (AFP)"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-09 12:15",
-      "text": "Midterms : Donald Trump reconnaît des erreurs sur l'immigration et écarte une reprise de la guerre en Iran https://ow.ly/rwep106I9XN"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-09 12:15",
-      "text": "Présidentielle 2027 : la pression s'accentue sur Édouard Philippe pour qu'il accepte une primaire https://ow.ly/FsCN106I9XO"
-    },
-    {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-09 12:15",
-      "text": "Amir E., surnommé « Pikachu », a été condamné à 20 ans de réclusion. Ses deux complices écopent de 12 ans après le home-jacking d’Akram Junior. \n https://www.fdesouche.com/2026/11/09/rueil-malmaison-pikachu-egyptien-20-ans-home-jacking-akram-junior/"
+      "published_at": "2026-11-10 11:59",
+      "text": "Chou, haricots, jambon et parfois confit de canard : dans le Béarn, la garbure raconte les repas des fermes et ces soupes qui mijotaient des heures. Son histoire et sa recette.  https://www.fdesouche.com/2026/11/10/bearn-64-garbure-soupe-paysanne-recette-novembre-2026/"
     },
     {
       "author_name": "Nicolas Dupont-Aignan",
-      "published_at": "2026-11-09 12:15",
-      "text": "Ému comme chaque année de rendre hommage au général de Gaulle.\n\nAu moment où la France est menacée dans son existence même, ce géant de notre histoire nous inspire et nous donne la force de rétablir notre indépendance nationale et notre souveraineté populaire. La survie, le"
+      "published_at": "2026-11-10 12:00",
+      "text": "Quel que soit l'immense talent sportif de Teddy Riner, qui a fait vibrer les Français aux Jeux olympiques, il suffit de lire son interview dans Le Parisien ce matin pour comprendre qu'il est le nouveau faux nez du macronisme agonisant.\nDécidément, l'Élysée ne manque pas\n[Cite @teddyriner] La résignation n'est pas une option. Face aux difficultés de notre pays, l'heure est venue de prendre ses responsabilités.  Je suis candidat à l'élection présidentielle de 2027.   #TeddyRiner2027 #Présidentielle2027 #LaFrancequonveut"
     },
     {
-      "author_name": "Boulevard Voltaire",
-      "published_at": "2026-11-09 12:16",
-      "text": "[BRÈVE] Teddy Riner candidat à la présidentielle | Par Boulevard Voltaire\nLe champion olympique se présente comme ni de droite, ni de gauche. \n \nhttps://www.bvoltaire.fr/breve-teddy-riner-candidat-a-la-presidentielle/?fsp_sid=26221"
+      "author_name": "LCP",
+      "published_at": "2026-11-10 12:00",
+      "text": "Conférence sociale : \"Malheureusement, le résultat est extrêmement décevant\", estime @stephane1peu. Le coup de pouce \"est une véritable aumône\", ajoute le député."
     },
     {
-      "author_name": "Artemis",
-      "published_at": "2026-11-09 12:16",
-      "text": "🌾 Après la sécheresse, le fisc allège la taxe du propriétaire des terres agricoles. Même lorsque c’est l’agriculteur qui les loue qui a subi les pertes de récoltes.\n\nDans le Finistère, la réduction annoncée est de 30 % pour les terres arables et de 50 % pour les prairies et les"
-    },
-    {
-      "author_name": "Institut ILIADE",
-      "published_at": "2026-11-09 12:17",
-      "text": "🇩🇪 L’Institut Iliade, représenté par Jean-Yves Le Gallou, qui a répondu lors d’un entretien public aux questions du député européen Alexander Sell sur le rôle du combat culturel et métapolitique, Antoine Dresse, notre responsable éditoriale et Mathilde Caillot de la promotion"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-09 12:18",
-      "text": "🗣️ Sophie de Menthon (@SdeMenthon), au sujet de la hausse du Smic :\"Mais on en rêve, d’augmenter nos salariés ! Qu’on nous foute la paix !\"\n\n📻 Suivez le direct sur https://sudradio.fr"
-    },
-    {
-      "author_name": "Le JDD",
-      "published_at": "2026-11-09 12:19",
-      "text": "Be With Legends : au PSG, le passé a de l’avenir https://ow.ly/gZsB106I9XY"
-    },
-    {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-09 12:19",
-      "text": "Laura Flessel, David Douillet, Bernard Laporte… Avant Teddy Riner, ces sportifs qui se sont lancés en politique https://l.leparisien.fr/kKrf"
-    },
-    {
-      "author_name": "TVL",
-      "published_at": "2026-11-09 12:20",
-      "text": "🇫🇷 À Rambouillet (78), un Libyen de 25 ans sous OQTF a été condamné à quatre ans de prison ferme pour avoir agressé sexuellement une jeune femme de 19 ans.\n\nLe 7 septembre dernier, le prévenu avait suivi sa victime jusque dans le hall de son immeuble. Comprenant qu'elle était"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-09 12:20",
-      "text": "Sophie Marceau revient sur son histoire d’amour avec le réalisateur Andrzej Żuławski\n➡️ https://l.leparisien.fr/43Ac"
-    },
-    {
-      "author_name": "Ligne Droite • La matinale de RC",
-      "published_at": "2026-11-09 12:22",
-      "text": "💥 \"Je n’hésite pas à dire que les bobos sont des salauds qui profitent de ce système absurde de Belleville et de l’Est parisien.\"\n\n🗣️ @EricNaulleau, auteur de \"Le jour où je suis devenu OQTF\" (@EditionsFayard), décrit la transformation radicale de son ancien quartier, que les"
-    },
-    {
-      "author_name": "Valeurs actuelles",
-      "published_at": "2026-11-09 12:22",
-      "text": "🎉 [60 ANS DE VA] Découvrez l'histoire de votre journal dans le dernier numéro !\n\nhttps://l.valeursactuelles.com/GnV"
-    },
-    {
-      "author_name": "Agence France-Presse",
-      "published_at": "2026-11-09 12:22",
-      "text": "🇫🇷⚖️ L'acteur-star Omar Sy sera jugé le 30 novembre au tribunal judiciaire de Paris, suspecté de s'en être pris à des agents SNCF à la gare de Lyon à Paris en mai 2025, a appris lundi l'AFP de source proche du dossier."
-    },
-    {
-      "author_name": "Gouvernement",
-      "published_at": "2026-11-09 12:22",
-      "text": "EN DIRECT | Conférence de Presse du Gouvernement. https://x.com/i/broadcasts/2dKLmavKpzQdkz"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-09 12:23",
-      "text": "📱 TikTok : l’UE ordonne à la plateforme de revoir son algorithme\n\nhttps://www.sudradio.fr/sud-radio/tiktok-lue-ordonne-a-la-plateforme-de-revoir-son-algorithme"
-    },
-    {
-      "author_name": "Boulevard Voltaire",
-      "published_at": "2026-11-09 12:24",
-      "text": "[Retweet de @BVoltaire] En Bretagne, la cupidité s'en prend à une chapelle vieille de 500 ans | Par Eric de Mascureau\nUn joyau du patrimoine breton a été vandalisé, entraînant le dépôt d’une plainte par le maire de la commune. \n \nhttps://www.bvoltaire.fr/en-bretagne-la-cupidite-sen-prend-a-une-chapelle-vieille-de-500-ans/?fsp_sid=25983"
+      "author_name": "Le Point",
+      "published_at": "2026-11-10 12:00",
+      "text": "« Je peux pas vivre loin de mon fils. Il faut que je sois là pour lui. » L'écrivain Marc Levy dévoile les coulisses de sa rencontre avec Steven Spielberg. \n\n➡️ https://l.lepoint.fr/rKg\n\nPar @CPetreault"
     },
     {
       "author_name": "Europe 1",
-      "published_at": "2026-11-09 12:24",
-      "text": "\"La violence physique, on l'a laissé prospérer\" affirme @gabriellecluzel sur #Europe1 @christine_kelly #ChristineKellyEtVous",
-      "also_by": [
-        "Gabrielle Cluzel"
-      ]
-    },
-    {
-      "author_name": "Comité Trump France",
-      "published_at": "2026-11-09 12:24",
-      "text": "[Retweet de @ConquerNicolas] Haie d’honneur de la Garde républicaine pour accueillir Marco Rubio (@SecRubio) en amont du G7 des ministres des Affaires étrangères. 🇫🇷🇺🇸"
-    },
-    {
-      "author_name": "L'Observatoire des violences politiques",
-      "published_at": "2026-11-09 12:25",
-      "text": "👁️ Le #31octobre dernier, à #Nancy, un homme accusé d'être un « facho » a été violemment lynché par une vingtaine de militants d'extrême gauche, en plein milieu de la manifestation. Une vidéo de cette agression a été publiée.\n\nAprès l'avoir contraint à présenter son téléphone",
-      "also_by": [
-        "Jean-Yves Le Gallou"
-      ]
+      "published_at": "2026-11-10 12:01",
+      "text": "Présidentielle 2027 : Florian Philippot veut remplacer les parrainages des élus par un «parrainage citoyen» https://ow.ly/IxIi106Ig1t"
     },
     {
       "author_name": "Causeur.fr",
-      "published_at": "2026-11-09 12:25",
-      "text": "Des retrouvailles d’automne ✍️  Thomas Morales @causeur https://www.causeur.fr/des-retrouvailles-d-automne-david-gaillardon-pierre-joanon-francois-jonqueres-jean-francois-coulomb-336749"
+      "published_at": "2026-11-10 12:01",
+      "text": "\"Récemment, elle apparaissait également au premier plan dans le clip du titre Japan du groupe de rock Fontaines D.C., aux côtés de l’acteur Charlie Heaton (Stranger Things)...\"\n\nhttps://www.causeur.fr/mort-de-l-actrice-angele-metzger-pavillons-sous-bois-336962"
     },
     {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-09 12:25",
-      "text": "«C’est pour moi un sacerdoce» : Frank Leboeuf raconte son engagement pour le Bleuet de France https://ow.ly/NI0H106I9Y9"
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-10 12:02",
+      "text": "[BRÈVE] Le Sénat supprime la baisse des retraites pour les familles nombreuses | Par Boulevard Voltaire\nLe vote de la commission des affaires sociales doit maintenant être confirmé en séance publique. \n \nhttps://www.bvoltaire.fr/breve-le-senat-supprime-la-baisse-des-retraites-pour-les-familles-nombreuses/?fsp_sid=26283"
+    },
+    {
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-10 12:02",
+      "text": "[Retweet de @BVoltaire] [MÉDIAS] Franceinfo : les journalistes traumatisés après la venue de Sarah Knafo | Par  @jeankastoff\nFranceinfo vole au secours de ses intervieweurs-militants et expose, une fois encore, ses biais politiques. \n \nhttps://www.bvoltaire.fr/medias-franceinfo-les-journalistes-traumatises-apres-la-venue-de-sarah-knafo/?fsp_sid=26251"
+    },
+    {
+      "author_name": "Étienne Chouard",
+      "published_at": "2026-11-10 12:02",
+      "text": "[Retweet de @cab2626] Voilà le Pays qui bénéficie de nos impôts ! Une magnifique démocratie qui met en œuvre des rafles pour envoyer les jeunes à l’abattoir !"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-09 12:27",
-      "text": "Conférence sociale, procès des policiers pour l’agression de Michel Zecler, rattrapage au lycée : les infos à retenir ce midi\n➡️ https://l.leparisien.fr/AAVm"
+      "published_at": "2026-11-10 12:03",
+      "text": "🔴 Angela Pascoa Dos Santos, conseillère régionale francilienne, a été agressée devant un lycée à Chelles : «J'ai reçu une bouteille contenant de l’essence en pleine poitrine».\n\nNotre DIRECT ➡️ https://l.leparisien.fr/m7Yt"
+    },
+    {
+      "author_name": "Ligne Droite • La matinale de RC",
+      "published_at": "2026-11-10 12:04",
+      "text": "💥 \"Avec @karlitozero, on a fait une pétition pour une loi contre la pédocriminalité : 325 000 signatures en quelques semaines.\"\n\n💥 \"Une pétition sort pour fermer CNews : 500 000 signatures en 3 jours. Les gens, ça les intéresse plus d’aller faire fermer ce média que d’arrêter"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-10 12:04",
+      "text": "«Ils ont banalisé l'usage des mortiers» : le plateau de 100% Frontières réagit aux tirs de mortiers à l'intérieur des salles de classe dans des lycées de Seine-et-Marne et Seine-Maritime\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-10 12:04",
+      "text": "Teddy Riner candidat : « Je ne crois pas à l’élan patriote soudain de Teddy Riner (…) Il va se brûler les ailes », estime Pascale, une auditrice, dans Christine Kelly & Vous sur #Europe1  @christine_kelly #ChristineKellyEtVous"
+    },
+    {
+      "author_name": "TVL",
+      "published_at": "2026-11-10 12:05",
+      "text": "🗣️ ​Florian Philippot : « Emmanuel Macron est un personnage extrêmement inquiétant, avec des traits psychopathiques. […] Il est en train de détruire méthodiquement la France, c’est ça, son bilan. Il faut être extrêmement sévère avec lui. »"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-10 12:05",
+      "text": "💬«Ce n’est pas pour l’adrénaline, c’est l’argent ma motivation»\n\nLe voleur de 69 ans comparaît devant la cour d’assises de Paris en compagnie de six complices pour l’attaque de la bijouterie Piaget\n\nCe lundi, il a porté un regard sans concession sur son existence\n\n➡️"
+    },
+    {
+      "author_name": "Valeurs actuelles",
+      "published_at": "2026-11-10 12:05",
+      "text": "🔴 Le président de Reconquête! sera ce soir sur TF1."
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-10 12:06",
+      "text": "Nouvelles poursuites des époux Macron contre une influenceuse américaine https://ow.ly/FGn0106Ig1J"
+    },
+    {
+      "author_name": "LCP",
+      "published_at": "2026-11-10 12:07",
+      "text": "\"Nous avons pris la décision, et nous nous imposons une discipline, de ne pas parler de l'élection présidentielle\" lors de \"toutes les conférences de presse du groupe GDR\", explique @stephane1peu. Car \"il y a au moins quatre positions différentes.\""
+    },
+    {
+      "author_name": "Artemis",
+      "published_at": "2026-11-10 12:07",
+      "text": "📺 À Saint-André, à La Réunion, la mairie a payé un magazine télé diffusé sur Antenne Réunion en pleine période électorale. Selon le tribunal administratif, six émissions s'apparentaient, du moins en partie, à de la propagande électorale.\n\nRésultat : le 1er octobre, l'élection"
+    },
+    {
+      "author_name": "Polémia",
+      "published_at": "2026-11-10 12:08",
+      "text": "📰 Des lycéens à Ceuta, les choix idéologiques des médias\n\n« Il devrait cependant avoir davantage peur du dégoût des forces de l’ordre, car, quand on soutient le désordre, on prend toujours des risques. »\n\nDans une chronique publiée sur Polémia, Pierre Boisguilbert dénonce des"
+    },
+    {
+      "author_name": "L'Express",
+      "published_at": "2026-11-10 12:08",
+      "text": "La délégation européenne à Abou Dhabi est pléthorique mais sans véritable porte-parole.\n\n➡️ https://l.lexpress.fr/4pY"
+    },
+    {
+      "author_name": "Le JDD",
+      "published_at": "2026-11-10 12:09",
+      "text": "INFO JDD. Menaces contre Louise Montangon : les députés Identité-Libertés demandent à Laurent Nuñez une protection d'urgence https://ow.ly/rUyO106Ig1Y"
+    },
+    {
+      "author_name": "Occidentis",
+      "published_at": "2026-11-10 12:09",
+      "text": "🚨 À Nîmes, quatre ÉLÈVES POLICIERS ont été pris à partie alors qu’ils rentraient à vélo à leur école de police. Deux d’entre eux ont été FRAPPÉS avant qu’un habitant ne s’interpose.\n\nNouvellement arrivés à Nîmes, les élèves auraient été guidés par erreur dans le quartier"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-10 12:09",
+      "text": "Elle ne «disparaîtra pas d’un coup» : Marine Tondelier indique qu’elle ne se désistera pas pour la présidentielle 2027.\n\nLa patronne des Écologistes explique néanmoins que son mouvement serait «prêt à rejoindre une coalition» ➡️ https://l.leparisien.fr/nDi7"
+    },
+    {
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-10 12:10",
+      "text": "[PEOPLE] Laurent Gerra met les pieds dans le plat | Par  @IrisBridier\nPour filer la métaphore culinaire, il n'y va pas avec le dos de la cuillère ! \n \nhttps://www.bvoltaire.fr/people-laurent-gerra-met-les-pieds-dans-le-plat/?fsp_sid=26279"
+    },
+    {
+      "author_name": "Ni Oubli Ni Pardon",
+      "published_at": "2026-11-10 12:10",
+      "text": "04/2022 Cette étude confirme l’existence d’un risque peu fréquent de myocardite et péricardite dans les 7 jours suivant une vaccination contre la Covid-19 avec un vaccin ARNm chez les personnes âgées de 12 à 50 ans, particulièrement chez les jeunes de 12 à 29 ans. Ce risque est"
+    },
+    {
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-10 12:10",
+      "text": "Le Mans : un homme de 48 ans condamné à huit mois de prison ferme après des tentatives de vol de cuivre et des violences sur un policier.\n\nhttps://www.fdesouche.com/2026/11/10/le-mans-72-il-tente-de-voler-du-cuivre-frappe-un-policier-et-ecope-de-huit-mois/"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-10 12:10",
+      "text": "🚨 Teddy Riner candidat à la présidentielle de 2027\n\n🗣️ @jeromedubus au micro de @stephdemuru : « Est-ce que c’est un poisson pilote lancé pour le compte de quelqu’un d’autre ? Est-ce une torpille destinée à éliminer un certain nombre de concurrents, comme Attal ou Glucksmann ?"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-10 12:11",
+      "text": "🚨 Teddy Riner candidat à la présidentielle de 2027 \n\n🗣️ Jean-Pierre, auditeur de Sud Radio au micro de @stephdemuru : « Ça peut être un électrochoc. Les politiques traditionnels n’ont pas su éviter la chute de la France. Ça me rappelle la candidature de Coluche »\n\n📺"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-10 12:11",
+      "text": "« Il faut avoir le cuir épais » : David Douillet met en garde Teddy Riner dans sa course à l’Élysée https://l.lepoint.fr/U1a"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-10 12:11",
+      "text": "💶 Augmentation du SMIC\n\n🗣️ @JuCourvoisier au micro de @stephdemuru : « Les jeunes avocats, avec 6 à 7 ans d’études, travaillent 50 heures par semaine, et vont gagner 3 600 € hors taxes, mais, en net, cela fait 1 500 à 1 600 € par mois »\n\n📺 https://SudRadio.fr"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-10 12:12",
+      "text": "😡 Périco Légasse :\"Si de Gaulle nous regardait, il aurait honte !\" #LaFranceDansTousSesEtats\n\n📻 Suivez le direct sur https://sudradio.fr et réagissez au 0 826 300 300"
+    },
+    {
+      "author_name": "Valeurs actuelles",
+      "published_at": "2026-11-10 12:12",
+      "text": "🔴 Selon Le Figaro, Michel Houellebecq était poursuivi après un entretien accordé à Front Populaire, la revue de Michel Onfray, en novembre 2022. Il vient d'être mis en examen."
+    },
+    {
+      "author_name": "Clément Macchi",
+      "published_at": "2026-11-10 12:12",
+      "text": "📊 A une vision claire pour l’avenir de la France \n@VerianGroup x @FigaroMagazine_ \n\n🥇 Le Pen : 46% +7 (record)\n🥈 Philippe : 28% +1\n🥉 Lisnard : 24% (nouv)\n🥉 Retailleau : 24% -1\n5️⃣ Attal : 22% +1\n6️⃣ Glucksmann : 19% = \n7️⃣ Hollande : 18% +2\n8️⃣ Mélenchon : 17% -1"
+    },
+    {
+      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
+      "published_at": "2026-11-10 12:12",
+      "text": "[Retweet de @2Noonian] Les personnes de race noire votent en fonction de leur race à toutes les élections systématiquement depuis 1865.\nLes liblairaux : mais comment expliquer que 22% des électeurs LFIs comptent voter pour Riner ?"
+    },
+    {
+      "author_name": "Alain Weber",
+      "published_at": "2026-11-10 12:13",
+      "text": "Teddy Riner : je conteste sa candidature, mais certaines attaques me révoltent !\n\nLa France est dans une situation catastrophique. \n\nDette abyssale, finances publiques délabrées, insécurité, fractures sociales, institutions affaiblies. \n\nNous n’avons plus le luxe de confier les"
+    },
+    {
+      "author_name": "Valeurs actuelles",
+      "published_at": "2026-11-10 12:13",
+      "text": "❌ Du 4 au 13 décembre, la coalition « Désarmer Bolloré » prévoit dix jours d’actions contre CNews, Relay et UGC, entre appels au boycott et opérations de perturbation.\n\n🔗 https://l.valeursactuelles.com/Gn3"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-10 12:14",
+      "text": "« Les chiffres sont catastrophiques ! » : le BTP tire le signal d’alarme dans le Puy-de-Dôme\n➡️ https://l.leparisien.fr/cGcp"
+    },
+    {
+      "author_name": "Marion Maréchal",
+      "published_at": "2026-11-10 12:14",
+      "text": "🎙️ Retrouvez-moi ce mercredi 11 novembre à 8h30 sur Sud Radio avec Jacques Cardoze."
+    },
+    {
+      "author_name": "OMERTA",
+      "published_at": "2026-11-10 12:15",
+      "text": "🇷🇺🇺🇦 Alors qu’un sommet Russie-Ukraine s’ouvre à Abou Dhabi sous l’égide des États-Unis, une question se pose : quel rôle reste-t-il à l’Europe dans la recherche de la paix ?\n\n@rlesommier @lesommierRgis ▶️ https://youtu.be/3McoAM6tIsw"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-10 12:15",
+      "text": "Après les missiles et les drones, la Corée du Nord accélère aussi sous les mers. ➡️ https://mrf.lu/2YfQS"
+    },
+    {
+      "author_name": "Tocsin",
+      "published_at": "2026-11-10 12:15",
+      "text": "🎙️Jared Kushner : l’empire d’influence caché du gendre de Trump\n\n🔗https://youtu.be/_DHqXWTCLz8\n\n🗣️@gabriel_draghi"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-10 12:16",
+      "text": "«Quand vous entendez Sophie Binet parler de démocratie…» : Joseph Macé-Scaron tacle la CGT https://ow.ly/RGjQ106Ig2t"
+    },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-10 12:16",
+      "text": "Michel Houellebecq était poursuivi après un entretien accordé à «Front Populaire», la revue de Michel Onfray, en novembre 2022. →https://l.lefigaro.fr/c2L4"
+    },
+    {
+      "author_name": "LCP",
+      "published_at": "2026-11-10 12:17",
+      "text": "Pétition contre CNews: \"Nous avons un profond respect pour la liberté de la presse. C'est avant tout à l'Arcom de faire son travail\", explique @naegelenchris, qui préfère \"voir si (cette dernière) fait bien son travail\"."
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-10 12:17",
+      "text": "Teddy Riner : \"Je ne peux pas concevoir un seul instant qu'il  n'ait pas demandé l'autorisation à Emmanuel Macron avant de se lancer.\" affirme @n_monfort sur #Europe1 dans #ChristineKellyEtVous @christine_kelly"
+    },
+    {
+      "author_name": "Ligne Droite • La matinale de RC",
+      "published_at": "2026-11-10 12:17",
+      "text": "💥 \"Si on poursuit tous ces gens, notre système judiciaire explose. Toutes les cours d’assises de France ne pourront pas éponger tous ceux qui ont des rapports sexuels payants avec des enfants.\"\n\n🗣️ @michel_amas, avocat au barreau de Marseille\n\n👉 Pour nous soutenir :"
+    },
+    {
+      "author_name": "Police nationale",
+      "published_at": "2026-11-10 12:18",
+      "text": "🏔️ Porté disparu en montagne, un skieur est sauvé par les CRS Montagne après 36 heures passées dans une crevasse.\n\n📍 En Haute-Maurienne (73), le 8 novembre, la CRS Alpes a été alertée de la disparition inquiétante d’un homme parti seul en randonnée à ski deux jours plus tôt et"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-10 12:19",
+      "text": "Teddy Riner : \"Tout le monde sait que c'est un garçon sympa. Ça ne veut pas dire du tout que ça peut être un politique.\" explique @christine_kelly sur #Europe1 dans #ChristineKellyEtVous"
+    },
+    {
+      "author_name": "Le Média en 4⃣-4⃣-2⃣",
+      "published_at": "2026-11-10 12:19",
+      "text": "Sophie Binet refuse le micro de CNews, Pascal Praud insulte les électeurs LFI : la France se déchire \nhttps://lemediaen442.fr/sophie-binet-refuse-le-micro-de-cnews-pascal-praud-insulte-les-electeurs-lfi-la-france-se-dechire/ \n\nPendant que Binet et Praud distribuent les mauvais points, le pouvoir central peut tranquillement compter les siens."
     },
     {
       "author_name": "Identité Libertés",
-      "published_at": "2026-11-09 12:28",
-      "text": "[Retweet de @AnneSicard1] L’Université n’est pas la propriété de l’extrême gauche.\n\nAvec @Maxime_Michelet, en présence de @MarionMarechal, nous avons défendu les réformes dont l’enseignement supérieur a besoin : excellence, mérite et liberté. \n\nBravo à la @CocardeEtud, qui tient bon sur les campus de"
+      "published_at": "2026-11-10 12:19",
+      "text": "[Retweet de @EddyCasterman] 🔴 « Je sais où t’habite, je vais t’égorger et te violer dans ton sang. »\n\nLouise Montangon, étudiante et responsable de la @droiteuniv de Bordeaux, est la cible de menaces de mort et de viol d’une extrême gravité. Sa famille est également menacée.\n\nTrois semaines après le dépôt"
     },
     {
-      "author_name": "Identité Libertés",
-      "published_at": "2026-11-09 12:28",
-      "text": "[Retweet de @MonnierThibaut] 🎓 Au sixième gala de l’@ISSEP_France, nous avons célébré la promotion Roland de Roncevaux, désormais diplômée !\n\nJe suis fier de voir ces jeunes diplômés prendre leur envol. Depuis sa création, notre école défend une conviction simple : on ne relève pas la France en abaissant"
+      "author_name": "TVL",
+      "published_at": "2026-11-10 12:20",
+      "text": "🇫🇷 Le prix du gaz va de nouveau augmenter de 5,8 % au 1er décembre, a annoncé lundi la Commission de régulation de l'énergie (CRE). Il s'agit de la quatrième hausse mensuelle consécutive, portant l'augmentation cumulée à environ 26,6 % depuis la fin du mois d'août.\n\n6 millions de"
     },
     {
-      "author_name": "Identité Libertés",
-      "published_at": "2026-11-09 12:28",
-      "text": "[Retweet de @leJDD] Guerre d’Algérie : Marion Maréchal accuse Bally Bagayoko de «célébrer la mort d'innocents» https://ow.ly/nhPI106I7JP"
+      "author_name": "LCP",
+      "published_at": "2026-11-10 12:20",
+      "text": "La hausse du Smic annoncée par le gouvernement n'est \"pas du tout à la hauteur du mouvement social formidable qui s'est exprimé dans la rue\", déplore @RomainEskenazi. Il défend une augmentation portée à 1.700 euros nets par mois."
     },
     {
-      "author_name": "Comité Trump France",
-      "published_at": "2026-11-09 12:28",
-      "text": "[Retweet de @VaubanPro2] Basée sur le dernier Harris, voici ma projection sur les prochaines législatives !\n\nPrécisions en thread"
+      "author_name": "Europe 1",
+      "published_at": "2026-11-10 12:20",
+      "text": "Teddy Riner : \"S'il peut prendre quelques pourcentages de voix à LFI, pour pas qu'il soit au deuxième tour, ça serait une belle prise de judo.\" ironise Jean-Yves, auditeur, sur #Europe1 dans #ChristineKellyEtVous @christine_kelly"
     },
+    {
+      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
+      "published_at": "2026-11-10 12:21",
+      "text": "[Retweet de @RonDeSantis] No amnesty!\n\nThat video is from several months ago, though.  It is a long-standing position of mine."
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-10 12:21",
+      "text": "🏫 Le malaise de l’école\n\n🗣️ @OphelieRoque :\"Quelque chose ne fonctionne plus structurellement dans l’école !\"\n\n📻 Suivez le direct sur https://sudradio.fr et réagissez au 0 826 300 300"
+    },
+    {
+      "author_name": "Agence France-Presse",
+      "published_at": "2026-11-10 12:22",
+      "text": "\"Personne n'a le droit de trier parmi les journalistes\", a affirmé mardi la ministre de la Culture Catherine Pégard, au lendemain de l'opposition de la secrétaire générale de la CGT à la présence de la chaîne CNews à un point presse."
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-10 12:22",
+      "text": "Le lycée Émile Zola d’Aix-en-Provence a été touché ce mardi matin tôt par un incendie.\n\nDes «bouteilles en plastique» ont été découvertes devant une classe, la piste volontaire est privilégiée ➡️ https://l.leparisien.fr/z9hO"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-10 12:23",
+      "text": "🎙️ Le journalisme n’est plus neutre ⁉️\n\n🗣️ @NaomiHalll au micro de @stephdemuru : « Je n’ai jamais cru à cette idée de la neutralité journalistique. À partir du moment où l’on choisit un sujet, la hiérarchisation de l’information, c’est déjà une ligne éditoriale »\n\n📺"
+    },
+    {
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-10 12:23",
+      "text": "2,6 milliards d’euros : l’attribution d’un marché de complémentaire santé à Alan, dirigé par un proche de Macron, suscite des questions sur la procédure. Mediapart enquête ; aucune intervention personnelle du président n’est établie.\nhttps://www.fdesouche.com/?p=1966636"
+    },
+    {
+      "author_name": "Élysée",
+      "published_at": "2026-11-10 12:23",
+      "text": "Compte rendu du Conseil des ministres du 10 novembre 2026."
+    },
+    {
+      "author_name": "Le Jarl",
+      "published_at": "2026-11-10 12:24",
+      "text": "Je regarde @CNEWS avec @Frontieresmedia. Guillaume est en direct du lycée où une élue a été aspergée d’essence. C’est lunaire.\n\nEntre les propos des gamins et les prises de position des adultes du cadre éducatif, je me demande où est passé le bon sens. Ils sont tous devenus fous."
+    },
+    {
+      "author_name": "Causeur.fr",
+      "published_at": "2026-11-10 12:25",
+      "text": "Alain Bauer et l’identité française ✍️ Alain Neurohr @causeur  https://www.causeur.fr/alain-bauer-et-l-identite-francaise-336947"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-10 12:25",
+      "text": "Teddy Riner : \"Je pense que cette candidature peut bousculer le jeu\" indique @gabriellecluzel sur #Europe1 dans #ChristineKellyEtVous @christine_kelly"
+    },
+    {
+      "author_name": "LCP",
+      "published_at": "2026-11-10 12:26",
+      "text": "Violences du 17 octobre: la doctrine de maintien de l'ordre mise en place a été \"inefficace et particulièrement dévastatrice\", pointe @BeatriceBellay. \"Des commerçants disent que des policiers étaient juste à côté de leur magasin, et qu'ils n'ont pas du tout œuvré.\""
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-10 12:27",
+      "text": "« J’ai très peur du vide ! » : les confidences du Suisse Caryl Cordt-Moller, star du premier Open de Parkour à Rouen\n➡️ https://l.leparisien.fr/h114"
+    },
+    {
+      "author_name": "Frontières",
+      "published_at": "2026-11-10 12:28",
+      "text": "« On n’est pas choqué ! » ; « On répond à la violence par la violence »\n\n🚨 ALERTE - Des LYCÉENS de Chelles LÉGITIMENT les violences contre une élue qui a été visée par une bouteille d’essence devant un lycée de la ville."
+    }
+  ],
+  "context": [
     {
       "author_name": "CNEWS",
       "published_at": "2026-11-09 12:28",
@@ -2669,6 +2645,11 @@
       "text": "🇫🇷 Le quintuple champion olympique de judo Teddy Riner, icône du sport français, a annoncé sa candidature à l'élection présidentielle de 2027, dans une vidéo postée sur ses réseaux sociaux ⤵️"
     },
     {
+      "author_name": "Gabrielle Cluzel",
+      "published_at": "2026-11-09 12:43",
+      "text": "[Retweet de @Europe1] \"La violence physique, on l'a laissé prospérer\" affirme @gabriellecluzel sur #Europe1 @christine_kelly #ChristineKellyEtVous"
+    },
+    {
       "author_name": "Radio Courtoisie",
       "published_at": "2026-11-09 12:44",
       "text": "https://x.com/i/broadcasts/2rJqVAnWokXyZd"
@@ -2767,6 +2748,11 @@
       "author_name": "Le Figaro",
       "published_at": "2026-11-09 12:52",
       "text": "Lecornu : «La hausse du SMIC ne suffit pas» →https://www.lefigaro.fr/politique/en-direct-colere-sociale-sebastien-lecornu-smic-parcoursup-conference-syndicats-lyceens-etudiants-20261109"
+    },
+    {
+      "author_name": "Nicolas Dupont-Aignan",
+      "published_at": "2026-11-09 12:52",
+      "text": "Ému comme chaque année de rendre hommage au général de Gaulle.\n\nAu moment où la France est menacée dans son existence même, ce géant de notre histoire nous inspire et nous donne la force de rétablir notre indépendance nationale et notre souveraineté populaire. La survie, le"
     },
     {
       "author_name": "Le Parisien",
@@ -4444,6 +4430,11 @@
     {
       "author_name": "RECONQUÊTE !",
       "published_at": "2026-11-09 16:16",
+      "text": "[Retweet de @knafo_sarah] Quand Édouard Philippe dit ce qu’Éric Zemmour disait il y a 15 ans, ça suscite un débat. Quand c’est Éric Zemmour, ça suscite un procès.\n\nIl ne faut absolument pas confondre quelqu’un qui voyait les maux venir avec quelqu’un qui les voudrait. Son combat, c’est d’éviter la guerre"
+    },
+    {
+      "author_name": "RECONQUÊTE !",
+      "published_at": "2026-11-09 16:16",
       "text": "[Retweet de @knafo_sarah] « Mélenchon est multipropriétaire et il veut réquisitionner votre logement ! »\n\nJ’étais l’invitée d’Apolline de Malherbe sur BFMTV.\n\nRegardez l’entretien en entier ⤵️\n\nhttps://youtu.be/F3avcFVMUTU?si=G_4Ir9MPD2RbXiDK"
     },
     {
@@ -4557,6 +4548,14 @@
       "text": "Présidentielle 2027 : Teddy Riner candidat à l’élection, à combien est-il dans les sondages ? https://l.leparisien.fr/OsbN",
       "also_by": [
         "Le Parisien | politique"
+      ]
+    },
+    {
+      "author_name": "Jean-Yves Le Gallou",
+      "published_at": "2026-11-09 16:28",
+      "text": "[Retweet de @Observatoire_VP] 👁️ Le #31octobre dernier, à #Nancy, un homme accusé d'être un « facho » a été violemment lynché par une vingtaine de militants d'extrême gauche, en plein milieu de la manifestation. Une vidéo de cette agression a été publiée.\n\nAprès l'avoir contraint à présenter son téléphone",
+      "also_by": [
+        "L'Observatoire des violences politiques"
       ]
     },
     {
@@ -6879,6 +6878,11 @@
       "author_name": "Le Parisien | politique",
       "published_at": "2026-11-09 20:33",
       "text": "Teddy Riner candidat à l’élection présidentielle : cela « ne peut qu’apporter au pays », se félicite Emmanuel Macron\n➡️ https://l.leparisien.fr/TE2H"
+    },
+    {
+      "author_name": "Étienne Chouard",
+      "published_at": "2026-11-09 20:33",
+      "text": "[Retweet de @lecrayonmedia] Votre fil d'actualité a-t-il détruit votre libre arbitre ?\n\nPour @epelboin , entrepreneur et enseignant, l'information fonctionne comme l'alimentation : si vous ne consommez que des contenus qui flattent vos opinions, vous vous condamnez à une faillite intellectuelle."
     },
     {
       "author_name": "Boulevard Voltaire",
