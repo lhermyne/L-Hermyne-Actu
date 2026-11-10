@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-10 02:54",
-  "period": "du 2026-11-09 02:54 au 2026-11-10 02:54",
-  "new_period": "du 2026-11-09 20:00 au 2026-11-10 02:54",
-  "context_period": "du 2026-11-09 02:54 au 2026-11-09 20:00",
+  "generated_at": "2026-11-10 03:24",
+  "period": "du 2026-11-09 03:24 au 2026-11-10 03:24",
+  "new_period": "du 2026-11-09 20:00 au 2026-11-10 03:24",
+  "context_period": "du 2026-11-09 03:24 au 2026-11-09 20:00",
   "coverage_complete": true,
-  "new_count": 316,
-  "context_count": 1388,
-  "duplicates_merged": 106,
+  "new_count": 322,
+  "context_count": 1385,
+  "duplicates_merged": 108,
   "empty_removed": 8,
   "new": [
     {
@@ -1249,7 +1249,10 @@
     {
       "author_name": "Jon De Lorraine",
       "published_at": "2026-11-09 23:15",
-      "text": "Bravo @mbockcote.\nHonte à ceux qui rigolent quand ça parle de Crépol. Quelle honte."
+      "text": "Bravo @mbockcote.\nHonte à ceux qui rigolent quand ça parle de Crépol. Quelle honte.",
+      "also_by": [
+        "Jean-Yves Le Gallou"
+      ]
     },
     {
       "author_name": "CNEWS",
@@ -1632,24 +1635,42 @@
       "author_name": "Le Parisien",
       "published_at": "2026-11-10 02:45",
       "text": "Sophie Binet s’en prend à un journaliste de la chaîne CNews et interrompt son point presse\n➡️ https://l.leparisien.fr/TEAF"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-09 03:00",
-      "text": "« Je plaisantais » : Donald Trump fait machine arrière sur la nomination de Dana White comme porte-parole de la Maison Blanche\n➡️ https://l.leparisien.fr/PcHB"
     },
     {
-      "author_name": "Alain Weber",
-      "published_at": "2026-11-09 03:04",
-      "text": "Bravo. @Menard_off a été impérial !\n\nQue l’on aime ou pas Sonia Mabrouk, qui peut ne pas avoir été écœuré par le comportement effroyablement minable d’un journaliste qui va déblatérer dans une émission concurrente, qui va dire « qu’elle cristallise les haines » ? \n\nJe n’arrive"
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-10 03:00",
+      "text": "« Nommer la réalité, c'est être fasciste. Si vous dites que l'agression de Rouen est cathophobe, que vous ne reconnaissez pas votre pays, vous êtes un fasciste. En fait, la réalité est fasciste. »\n\n@EricNaulleau répondait aux questions de @YannMontero ⤵️\nhttps://www.bvoltaire.fr/linvite-eric-naulleau-la-verite-leur-reviendra-a-la-gueule/"
+    },
+    {
+      "author_name": "Régis Le Sommier",
+      "published_at": "2026-11-10 03:04",
+      "text": "[Retweet de @1NikolaMirkovic] 🇷🇺🇺🇦Mykhaïlo Podoliak (photo de droite) est ukrainien, il est un des conseillers de V. Zelensky. Volodymyr Podoliak (photo de gauche) est un frère de Mykhailo. Il est ukrainien aussi mais il s'est battu avec l'armée russe et a été tué par l'armée de Zelensky. On ne peut rien"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-09 03:20",
-      "text": "« Je me doutais qu’il y aurait des remarques homophobes » : l’ancien élu parisien Jean-Luc Romero-Michel révèle être atteint d’un cancer de l’anus\n➡️ https://l.leparisien.fr/LeKI"
+      "published_at": "2026-11-10 03:05",
+      "text": "« Je crois qu’il souffre grandement » : Donald Trump vole au secours du patron de Nvidia, soupçonné d’une liaison avec une espionne chinoise\n➡️ https://l.leparisien.fr/or3l",
+      "also_by": [
+        "Le Parisien | politique"
+      ]
     },
+    {
+      "author_name": "Régis Le Sommier",
+      "published_at": "2026-11-10 03:05",
+      "text": "[Retweet de @Omerta_officiel] La chute d’Ueno Bank provoque une vague de colère au Paraguay. Quelles responsabilités politiques et quelles conséquences pour le pays ?\n\nAlain Ledoyen décrypte cette affaire explosive.\n\n▶️ https://youtu.be/UNA9GNRSXjo"
+    },
+    {
+      "author_name": "Thaïs d’Escufon",
+      "published_at": "2026-11-10 03:15",
+      "text": "[Retweet de @Welshlad73627] Europe was exclusively European for thousands of years, and it's taken less than 50 to fuck it all up"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-10 03:20",
+      "text": "Le patron du Medef réagit à la hausse du smic de 23 euros annoncée par le gouvernement\n➡️ https://l.leparisien.fr/43J9"
+    }
+  ],
+  "context": [
     {
       "author_name": "Le Parisien",
       "published_at": "2026-11-09 04:50",
