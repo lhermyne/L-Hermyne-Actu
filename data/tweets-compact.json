@@ -1,12 +1,12 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-10 02:24",
-  "period": "du 2026-11-09 02:24 au 2026-11-10 02:24",
-  "new_period": "du 2026-11-09 20:00 au 2026-11-10 02:24",
-  "context_period": "du 2026-11-09 02:24 au 2026-11-09 20:00",
+  "generated_at": "2026-11-10 02:54",
+  "period": "du 2026-11-09 02:54 au 2026-11-10 02:54",
+  "new_period": "du 2026-11-09 20:00 au 2026-11-10 02:54",
+  "context_period": "du 2026-11-09 02:54 au 2026-11-09 20:00",
   "coverage_complete": true,
-  "new_count": 313,
+  "new_count": 316,
   "context_count": 1388,
   "duplicates_merged": 106,
   "empty_removed": 8,
@@ -1614,16 +1614,31 @@
       "author_name": "Le Parisien | politique",
       "published_at": "2026-11-10 02:22",
       "text": "Présidentielle 2027 : La France insoumise (LFI) relance son running club à Paris et pourrait l’étendre à d’autres villes de France https://l.leparisien.fr/C5VC"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-10 02:25",
+      "text": "« Un élan positif » : convaincu par sa défaite aux midterms, Donald Trump prêt à trouver un accord avec l’Iran\n➡️ https://l.leparisien.fr/04bd",
+      "also_by": [
+        "Le Parisien | politique"
+      ]
+    },
+    {
+      "author_name": "Thaïs d’Escufon",
+      "published_at": "2026-11-10 02:28",
+      "text": "Wish you were this based all the time.\n\nBut what you’re describing is called remigration, you know, the very policy you called ‘racist’ and attacked us activists for advocating.\n[Cite @MLP_officiel] Si quelqu’un arrive en France et dit : je vous déteste, je méprise votre culture, je ne veux pas respecter vos lois, nous lui dirons : la porte est grande ouverte. Et nous pourrions même vous obliger à la prendre."
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-10 02:45",
+      "text": "Sophie Binet s’en prend à un journaliste de la chaîne CNews et interrompt son point presse\n➡️ https://l.leparisien.fr/TEAF"
     }
   ],
   "context": [
     {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-09 02:52",
-      "text": "« Je plaisantais » : Donald Trump fait machine arrière sur la nomination de Dana White comme porte-parole de la Maison Blanche\n➡️ https://l.leparisien.fr/8mTm",
-      "also_by": [
-        "Le Parisien | politique"
-      ]
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-09 03:00",
+      "text": "« Je plaisantais » : Donald Trump fait machine arrière sur la nomination de Dana White comme porte-parole de la Maison Blanche\n➡️ https://l.leparisien.fr/PcHB"
     },
     {
       "author_name": "Alain Weber",

@@ -1,14 +1,66 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-10T01:24:23.309Z",
+  "updated_at": "2026-11-10T01:54:29.738Z",
   "window_hours": 24,
-  "window_start": "2026-11-09T01:24:23.309Z",
+  "window_start": "2026-11-09T01:54:29.738Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1815,
+  "count": 1818,
   "tweets": [
+    {
+      "id": "2119969646124146755",
+      "created_at": "2026-11-10T01:45:25.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "Sophie Binet s’en prend à un journaliste de la chaîne CNews et interrompt son point presse\n➡️ https://l.leparisien.fr/TEAF",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2119969646124146755"
+    },
+    {
+      "id": "2119966825966367214",
+      "created_at": "2026-11-10T01:34:13.000Z",
+      "author": "leparisien_pol",
+      "author_name": "Le Parisien | politique",
+      "type": "tweet",
+      "text": "« Un élan positif » : convaincu par sa défaite aux midterms, Donald Trump prêt à trouver un accord avec l’Iran\n➡️ https://l.leparisien.fr/iL5s",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/leparisien_pol/status/2119966825966367214"
+    },
+    {
+      "id": "2119965463975530705",
+      "created_at": "2026-11-10T01:28:48.000Z",
+      "author": "ThaisEscufon",
+      "author_name": "Thaïs d’Escufon",
+      "type": "quote",
+      "text": "Wish you were this based all the time.\n\nBut what you’re describing is called remigration, you know, the very policy you called ‘racist’ and attacked us activists for advocating.",
+      "retweeted_author": null,
+      "quoted_author": "MLP_officiel",
+      "quoted_text": "Si quelqu’un arrive en France et dit : je vous déteste, je méprise votre culture, je ne veux pas respecter vos lois, nous lui dirons : la porte est grande ouverte. Et nous pourrions même vous obliger à la prendre.",
+      "lang": "en",
+      "url": "https://x.com/ThaisEscufon/status/2119965463975530705"
+    },
+    {
+      "id": "2119964724905533775",
+      "created_at": "2026-11-10T01:25:52.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "« Un élan positif » : convaincu par sa défaite aux midterms, Donald Trump prêt à trouver un accord avec l’Iran\n➡️ https://l.leparisien.fr/04bd",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2119964724905533775"
+    },
     {
       "id": "2119963940088414602",
       "created_at": "2026-11-10T01:22:44.000Z",
@@ -23590,19 +23642,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/leparisien_pol/status/2119610952849170784"
-    },
-    {
-      "id": "2119609002158182707",
-      "created_at": "2026-11-09T01:52:21.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "« Je plaisantais » : Donald Trump fait machine arrière sur la nomination de Dana White comme porte-parole de la Maison Blanche\n➡️ https://l.leparisien.fr/8mTm",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2119609002158182707"
     }
   ]
 }
