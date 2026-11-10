@@ -1,13 +1,13 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-10 20:31",
-  "period": "du 2026-11-09 20:31 au 2026-11-10 20:31",
-  "new_period": "du 2026-11-10 08:00 au 2026-11-10 20:31",
-  "context_period": "du 2026-11-09 20:31 au 2026-11-10 08:00",
+  "generated_at": "2026-11-10 20:39",
+  "period": "du 2026-11-09 20:39 au 2026-11-10 20:39",
+  "new_period": "du 2026-11-10 08:00 au 2026-11-10 20:39",
+  "context_period": "du 2026-11-09 20:39 au 2026-11-10 08:00",
   "coverage_complete": false,
-  "new_count": 1429,
-  "context_count": 394,
+  "new_count": 1442,
+  "context_count": 382,
   "duplicates_merged": 104,
   "empty_removed": 15,
   "new": [
@@ -7338,69 +7338,74 @@
       "author_name": "Le Parisien",
       "published_at": "2026-11-10 20:31",
       "text": "« Inacceptable de s’en prendre à des élus » : l’Assemblée nationale exprime sa solidarité envers Farida Amrani, touchée par des mortiers https://l.leparisien.fr/Yiy8"
-    }
-  ],
-  "context": [
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-10 20:33",
+      "text": "Ex-journaliste, ancienne banquière, acheteuse de puces à plusieurs milliards et espionne présumée de Pékin. La liaison d’Alice Huang avec le patron de Nvidia inquiète jusqu’à la Maison-Blanche.\n➡️ https://l.lepoint.fr/Q4V"
+    },
     {
       "author_name": "LCP",
-      "published_at": "2026-11-09 20:31",
-      "text": "Hausse du Smic à 1.502 euros: l'annonce du gouvernement \"ne satisfera personne\", réagit Sébastien Chenu (RN)\n⤵️\nhttps://lcp.fr/actualites/la-hausse-du-smic-ne-satisfera-personne-reagit-sebastien-chenu-444936"
+      "published_at": "2026-11-10 20:35",
+      "text": "Hausse du Smic: \"On va augmenter les salaires jusqu'à quand ? (...) il va falloir agir sur les prix et sur le coût de la vie qui devient insupportable\", estime Valentin Prudon, vice-président confédéral de l'UMIH"
     },
     {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-09 20:31",
-      "text": "Joseph Macé-Scaron, journaliste et essayiste : «Ce qu'a dit Teddy Riner, Emmanuel Macron pourrait très bien le dire. Puisque c'est un caméléon, ça ne lui pose aucun problème», dans #HDPros2\n\nToute l'info est à retrouver sur https://cnews.fr"
+      "author_name": "Eric Zemmour",
+      "published_at": "2026-11-10 20:36",
+      "text": "📺 À tout de suite sur TF1 ! \n\nPrêts ? 😉"
     },
     {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-09 20:32",
-      "text": "[Retweet de @F_Desouche] Un joueur lyonnais, insulté durant le match, a été frappé à la tête. Des jeunes extérieurs au GF38 ont ensuite menacé joueurs et staff avec armes blanches et pistolet. \n https://www.fdesouche.com/2026/11/09/grenoble-bagarre-menaces-mort-pistolet-u17-ol/"
+      "author_name": "Occidentis",
+      "published_at": "2026-11-10 20:36",
+      "text": "🚨 Éric Zemmour annonce sa candidature à la présidentielle de 2027. (TF1)"
     },
     {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-09 20:33",
-      "text": "Teddy Riner candidat à l’élection présidentielle : cela « ne peut qu’apporter au pays », se félicite Emmanuel Macron\n➡️ https://l.leparisien.fr/TE2H"
+      "author_name": "UNI",
+      "published_at": "2026-11-10 20:36",
+      "text": "[Retweet de @nantes_uni] 🔴 Après plus d’un mois de blocage. Des étudiants excédés osent voter CONTRE dans les AG de l’extrême gauche ? Ils sont insultés, menacés.\n\nLa présidente d’université a perdu le contrôle. L’extrême gauche impose sa loi !"
     },
     {
-      "author_name": "Étienne Chouard",
-      "published_at": "2026-11-09 20:33",
-      "text": "[Retweet de @lecrayonmedia] Votre fil d'actualité a-t-il détruit votre libre arbitre ?\n\nPour @epelboin , entrepreneur et enseignant, l'information fonctionne comme l'alimentation : si vous ne consommez que des contenus qui flattent vos opinions, vous vous condamnez à une faillite intellectuelle."
+      "author_name": "France Elects 🇫🇷",
+      "published_at": "2026-11-10 20:36",
+      "text": "Eric Zemmour (R!) has just announced his candidacy for the 2027 presidential election"
     },
     {
-      "author_name": "Boulevard Voltaire",
-      "published_at": "2026-11-09 20:35",
-      "text": "Au Parlement européen, la lutte contre la haine antichrétienne signe une victoire | Par  @SevilliaYves\nÀ l'initiative de l'eurodéputée IDL Laurence Trochu, une résolution sur la lutte contre la haine des chrétiens sera votée. \n \nhttps://www.bvoltaire.fr/au-parlement-europeen-la-lutte-contre-la-haine-antichretienne-signe-une-victoire/?fsp_sid=26273"
+      "author_name": "LCP",
+      "published_at": "2026-11-10 20:37",
+      "text": "Une tentative de \"faire taire\" une chaîne d'information ou un débat nécessaire sur la \"liberté ou non d'être raciste à la télévision\" ?\nL'examen de la pétition visant à supprimer CNews donne lieu à des échanges houleux en commission. À lire. >>https://bit.ly/4AowAAj"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-09 20:35",
-      "text": "En triant les affaires de sa mère décédée en Espagne, elle découvre le corps d’un bébé dans un congélateur\n➡️ https://l.leparisien.fr/8mTL"
+      "published_at": "2026-11-10 20:37",
+      "text": "Un collégien de 12 ans sanctionné pour avoir porté un tee-shirt aux couleurs de la Palestine : un rassemblement de soutien rassemble près de 300 personnes\n➡️ https://l.leparisien.fr/m7YH"
     },
     {
-      "author_name": "Michel Onfray",
-      "published_at": "2026-11-09 20:36",
-      "text": "L'instant Christine Kelly avec Michel Onfray (Philosophe, essayiste et p... https://youtu.be/7dmW9mDM3kg?si=PfHWxDX5ek5QyJo0 via @YouTube"
+      "author_name": "Le JDD",
+      "published_at": "2026-11-10 20:38",
+      "text": "Présidentielle 2027 : cinq ans après son «appel du 18 juin», Éric Zemmour se relance https://ow.ly/sicA106Ih8A"
     },
     {
-      "author_name": "L'Observatoire des violences politiques",
-      "published_at": "2026-11-09 20:37",
-      "text": "[Retweet de @Observatoire_VP] 👁️ Le #31octobre dernier, à #Nancy, un homme accusé d'être un « facho » a été violemment lynché par une vingtaine de militants d'extrême gauche, en plein milieu de la manifestation. Une vidéo de cette agression a été publiée.\n\nAprès l'avoir contraint à présenter son téléphone"
+      "author_name": "Europe 1",
+      "published_at": "2026-11-10 20:39",
+      "text": "« Tout est en ébullition » : récit d'une nouvelle mobilisation étudiante à Paris ce mardi https://ow.ly/UZGa106Ih8J"
     },
     {
-      "author_name": "Clément Macchi",
-      "published_at": "2026-11-09 20:38",
-      "text": "[Retweet de @cgtvoff] 🔵🔐 𝐍𝐎𝐔𝐕𝐄𝐋 𝐄́𝐏𝐈𝐒𝐎𝐃𝐄 𝐃𝐄 \"𝐋𝐄 𝐌𝐀𝐑𝐃𝐈 𝐂 𝐌𝐀𝐂𝐂𝐇𝐈\" 𝐄𝐍 𝐀𝐕𝐀𝐍𝐓-𝐏𝐑𝐄𝐌𝐈𝐄̀𝐑𝐄 𝐒𝐔𝐑 𝐂𝐆𝐓𝐕 !\n\nConfidences, révélations et déclarations inattendues… L’ancien ministre @CBeaune se livre sans détour face à @clement_mci.\n\nNos abonnés premium peuvent"
+      "author_name": "Actu & Politique",
+      "published_at": "2026-11-10 20:39",
+      "text": "🚨‼️🇫🇷 ALERTE INFO - Éric Zemmour est candidat à l'élection présidentielle. (TF1)"
     },
     {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-09 20:39",
-      "text": "🇫🇷 Ce 9 novembre, une délégation d’élus et de militants du Rassemblement National et de l’UDR a rendu hommage au général de Gaulle, à Colombey-les-Deux-Églises, à l’occasion de l’anniversaire de sa disparition.\n\nSouvenons-nous de son combat pour l’indépendance et la grandeur de"
+      "author_name": "Jon De Lorraine",
+      "published_at": "2026-11-10 20:39",
+      "text": "🔴🇫🇷 ALERTE INFO - Éric Zemmour est officiellement candidat pour l'élection présidentielle 2027."
     },
     {
-      "author_name": "Cercle Aristote",
-      "published_at": "2026-11-09 20:39",
-      "text": "[Retweet de @JeanMiSALMON] @Cercle_Aristote @CNEWS Dans la mesure où la question est posée, ma réponse.\nAprès 15 ans de Macron où la sphère sociale fut de plus en plus maltraitée, conformément à l'agenda de Davos que défend le gouv et tous ceux sur sa droite, ce n'est pas le moment de taper sur les syndicats de travailleurs."
-    },
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-10 20:39",
+      "text": "Neuf hommes de 19 à 32 ans comparaissent à Montauban : ils sont soupçonnés de 41 vols dans des chantiers, dépôts et exploitations agricoles, pour près de 9 000 litres de carburant."
+    }
+  ],
+  "context": [
     {
       "author_name": "Le Parisien",
       "published_at": "2026-11-09 20:40",
