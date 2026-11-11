@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-11 20:39",
-  "period": "du 2026-11-10 20:39 au 2026-11-11 20:39",
-  "new_period": "du 2026-11-11 08:00 au 2026-11-11 20:39",
-  "context_period": "du 2026-11-10 20:39 au 2026-11-11 08:00",
+  "generated_at": "2026-11-11 21:09",
+  "period": "du 2026-11-10 21:09 au 2026-11-11 21:09",
+  "new_period": "du 2026-11-11 08:00 au 2026-11-11 21:09",
+  "context_period": "du 2026-11-10 21:09 au 2026-11-11 08:00",
   "coverage_complete": false,
-  "new_count": 1157,
-  "context_count": 490,
-  "duplicates_merged": 147,
+  "new_count": 1187,
+  "context_count": 432,
+  "duplicates_merged": 146,
   "empty_removed": 5,
   "new": [
     {
@@ -2765,7 +2765,8 @@
       "published_at": "2026-11-11 13:11",
       "text": "Royaume-Uni : un élu de Reform UK interdit de parole au Parlement gallois après avoir évoqué le « remplacement démographique » des Britanniques blancs https://www.fdesouche.com/2026/11/11/royaume-uni-joe-martin-reform-uk-interdit-parole-parlement-gallois-remplacement-demographique/",
       "also_by": [
-        "Pierre Sautarel"
+        "Pierre Sautarel",
+        "Damien Rieu"
       ]
     },
     {
@@ -5571,7 +5572,10 @@
     {
       "author_name": "Le Figaro",
       "published_at": "2026-11-11 19:30",
-      "text": "L’amendement a été adopté par 292 voix pour et 51 contre.→https://l.lefigaro.fr/MttY"
+      "text": "L’amendement a été adopté par 292 voix pour et 51 contre.→https://l.lefigaro.fr/MttY",
+      "also_by": [
+        "Damien Rieu"
+      ]
     },
     {
       "author_name": "Institut ILIADE",
@@ -5969,327 +5973,162 @@
       "author_name": "CNEWS",
       "published_at": "2026-11-11 20:38",
       "text": "Laurence Trochu, députée Identité Libertés au Parlement européen, sur le vol de reliques de Saint-Nicolas : «Beaucoup traitent cela comme des faits divers», dans #Facealinfo \n\nToute l'info est à retrouver sur https://cnews.fr"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Actu & Politique",
-      "published_at": "2026-11-10 20:39",
-      "text": "🚨‼️🇫🇷 ALERTE INFO - Éric Zemmour est candidat à l'élection présidentielle. (TF1)"
-    },
-    {
-      "author_name": "Jon De Lorraine",
-      "published_at": "2026-11-10 20:39",
-      "text": "🔴🇫🇷 ALERTE INFO - Éric Zemmour est officiellement candidat pour l'élection présidentielle 2027."
-    },
-    {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-10 20:39",
-      "text": "Neuf hommes de 19 à 32 ans comparaissent à Montauban : ils sont soupçonnés de 41 vols dans des chantiers, dépôts et exploitations agricoles, pour près de 9 000 litres de carburant."
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-10 20:40",
-      "text": "C’était un secret de polichinelle.→https://l.lefigaro.fr/VQlm"
-    },
-    {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-10 20:40",
-      "text": "« Inacceptable de s’en prendre à des élus » : l’Assemblée nationale exprime sa solidarité envers Farida Amrani, touchée par des mortiers https://l.leparisien.fr/quBj"
-    },
-    {
-      "author_name": "Bouli ☃️",
-      "published_at": "2026-11-10 20:41",
-      "text": "De Karim en IA.\n[Cite @GolColar] Nous sommes désormais coincés entre une IA qui bénéficie de capacités extraordinaires et des racailles importées qui vous égorgent dans la rue.\n\nCe monde est étonnant."
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-10 20:41",
-      "text": "Gilles-William Goldnadel, avocat, sur les syndicats : «Ils ont tous compris la faiblesse insigne du pouvoir politique et du pouvoir judiciaire», dans #HDPros2\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Jean-Yves Le Gallou",
-      "published_at": "2026-11-10 20:41",
-      "text": "[Retweet de @Bousquet_FR] Pourquoi les journalistes ne veulent pas admettre la dimension ethnique des émeutes ? Parce qu'ils ne veulent PAS voir. Ils S'INTERDISENT de penser le réel. Ils vivent dans la post-réalité : celle d'une société du vivre-ensemble pacifié.\n\nMerci à @ojim_france pour l'invitation !"
-    },
-    {
-      "author_name": "UNI",
-      "published_at": "2026-11-10 20:41",
-      "text": "Alexis Corbière coupe la parole à @louiselzeu, la méprise et minimise les menaces de mort qu'elle reçoit.\n\nAssez de cette extrême gauche totalitaire, prête à voir sombrer la France pour ses intérêts politiciens.\n\nSoutien total à notre responsable UNI Bordeaux, restée digne. 💪\n[Cite @OccidentisMedia] 🚨 Louis Montangon QUITTE LE PLATEAU après les minimisations d’Alexis Corbière sur les MENACES de mort que reçoit la jeune étudiante."
-    },
-    {
-      "author_name": "Jean-Yves Le Gallou",
-      "published_at": "2026-11-10 20:41",
-      "text": "[Retweet de @_polemia] Le premier parti d'Allemagne, qui a gagné un Land récemment, parle ouvertement de remigration. \n\nPourquoi au RN cette question est-elle interdite ? Sans en faire la ligne officielle, avoir au moins quelques élus qui en seraient les promoteurs."
-    },
-    {
-      "author_name": "LCP",
-      "published_at": "2026-11-10 20:41",
-      "text": "Tentative de “faire taire\" une chaîne d’information ou “censure” d’un débat nécessaire ? L'examen de la pétition visant à supprimer CNews donne lieu à des échanges houleux en commission. À lire. >>https://bit.ly/4AowAAj"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-10 20:42",
-      "text": "« Des reculs catastrophiques » : 220 000 foyers de plus en situation de précarité énergétique, une hausse inquiétante\n➡️ https://l.leparisien.fr/38Op"
-    },
-    {
-      "author_name": "Bouli ☃️",
-      "published_at": "2026-11-10 20:43",
-      "text": "[Retweet de @NicolasQuiPaie] 73 posts supplémentaires depuis ce matin à 11h.\n\nNous en sommes à 318 publications de grand médias sur Teddy Riner depuis l'annonce de sa candidature.\n\nÇa me rappelle quelque chose…"
-    },
-    {
-      "author_name": "Samuel Lafont",
-      "published_at": "2026-11-10 20:43",
-      "text": "Découvrez le nouveau site d'Eric Zemmour, candidat à l'élection présidentielle de 2027.\n\nVous en pensez quoi ?\n\nhttps://www.ericzemmour.fr/"
-    },
-    {
-      "author_name": "Frontières",
-      "published_at": "2026-11-10 20:44",
-      "text": "🚨 ALERTE - Eric Zemmour ANNONCE être CANDIDAT à l’élection PRÉSIDENTIELLE."
-    },
-    {
-      "author_name": "Jean-Yves Le Gallou",
-      "published_at": "2026-11-10 20:44",
-      "text": "Les casseurs-pilleurs en liberté, les intellectuels poursuivis par les juges, cela s’appelle l’#AnarchoTyrannie , c’est le nom du régime en France \n#Houellebecq\n[Cite @bouliboulibouli] La France de Macron est si peu criminogène que ses magistrats ont le temps de traiter les délits d'opinion des intellectuels :"
-    },
-    {
-      "author_name": "Jean-Yves Le Gallou",
-      "published_at": "2026-11-10 20:44",
-      "text": "[Retweet de @radiocourtoisie] 💥 « Ce qui a retenu mon attention, c’est quand même une note des services de renseignement qui explique que le groupe qui a tué Quentin avait l’intention manifeste de tuer. Ce sont leurs mots. […] Ça manifeste à la fois la volonté de tuer, mais ça manifeste aussi le fait que ce"
-    },
-    {
-      "author_name": "Médias-Presse-Info",
-      "published_at": "2026-11-10 20:45",
-      "text": "Une ex-dauphine de Miss Suisse accuse Trump de viol en lien avec l'affaire Epstein - https://www.medias-presse.info/une-ex-dauphine-de-miss-suisse-accuse-trump-de-viol-en-lien-avec-laffaire-epstein/253895/ - Une nouvelle accusation sexuelle a émergé contre le président Donald ..."
-    },
-    {
-      "author_name": "Ni Oubli Ni Pardon",
-      "published_at": "2026-11-10 20:45",
-      "text": "Une voix, puis une autre, puis des centaines. Voilà ce qu'est la mémoire.\nAjoutez la vôtre :\n👉 https://nonp.fr/\n\n#NiOubliNiPardon #Témoignage"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-10 20:45",
-      "text": "Équipe de France : Éli Junior Kroupi, l’enfant de Lorient qui a toujours rêvé des Bleus\n➡️ https://l.leparisien.fr/pMte"
-    },
-    {
-      "author_name": "Jordan Bardella",
-      "published_at": "2026-11-10 20:46",
-      "text": "Jordan Bardella est l'invité de « Face à BFM » sur BFMTV ! https://x.com/i/broadcasts/2ZBjVVyrLnoNAg"
-    },
-    {
-      "author_name": "Frontières",
-      "published_at": "2026-11-10 20:46",
-      "text": "[Retweet de @tegnererik] 🔴 Matthieu Pigasse veut voir Jean-Luc Mélenchon incarner l’union des gauches en 2027. Un candidat du bloc central le voit prêt à « peser de tout son poids dans cette présidentielle » pour faire gagner l’Insoumis.\n\n👉 Pigasse, un joker de luxe pour Mélenchon, dans L’Infiltré :"
-    },
-    {
-      "author_name": "Le Point",
-      "published_at": "2026-11-10 20:47",
-      "text": "💬 Frédéric Rouvillois, professeur de droit public à l’université Paris Cité, analyse les ressorts de la montée des incivilités en politique et alerte sur leurs conséquences pour la démocratie et le vivre-ensemble.\n\nPar @SamuelDufay\n➡️ https://l.lepoint.fr/TD6"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-10 20:47",
-      "text": "Un lent basculement de l'opinion publique. ➡️ https://mrf.lu/2YVYN"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-10 20:47",
-      "text": "Georges Fenech, ancien magistrat : «Il faut rétablir l'autorité et la sanction. Il faut déjà exclure tous ceux qui sont mêlés de près ou de loin», dans #HDPros2\n\nToute l'info est à retrouver sur https://cnews.fr"
+      "published_at": "2026-11-11 20:41",
+      "text": "Une candidature qui changerait tout. ➡️ https://mrf.lu/275Lb"
     },
     {
       "author_name": "Europe 1",
-      "published_at": "2026-11-10 20:49",
-      "text": "Président de Reconquête, Eric Zemmour annonce sa candidature à la présidentielle 2027 https://ow.ly/VlIt106Ih9Z"
+      "published_at": "2026-11-11 20:42",
+      "text": "Cyberattaques : que sait-on de l'unité iranienne Shahid Kaveh, dans le viseur de la justice française ? https://ow.ly/88xV106Imp4"
     },
     {
-      "author_name": "Thaïs d’Escufon",
-      "published_at": "2026-11-10 20:49",
-      "text": "Merci de reconnaître enfin que vous n’êtes pas Français, même si on a toujours su que vous n’y croyiez pas vous-même.\n\nOn peut arrêter de tous faire semblant maintenant ?\n[Cite @F_Desouche] Boxe : Cédric Doumbè prévient Jake Paul qu’il est camerounais et non « un petit Français » qu’on peut tabasser facilement"
+      "author_name": "CNEWS",
+      "published_at": "2026-11-11 20:44",
+      "text": "Gilles-William Goldnadel, avocat, sur le devoir de mémoire : «Il y a un sens profond de vouloir interdire aux Français de défendre leur pays», dans #HDPros2 \n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Le Figaro Culture",
+      "published_at": "2026-11-11 20:44",
+      "text": "The Legend of Zelda Ocarina of Time : notre critique d’un monument du jeu vidéo prisonnier de son propre héritage https://l.lefigaro.fr/gXZv"
+    },
+    {
+      "author_name": "Ni Oubli Ni Pardon",
+      "published_at": "2026-11-11 20:45",
+      "text": "11 novembre. Le devoir de mémoire ne se limite pas aux monuments.\nUne voix chaque jour :\n👉 https://nonp.fr/\n\n#NiOubliNiPardon #Témoignage"
     },
     {
       "author_name": "Comité Trump France",
-      "published_at": "2026-11-10 20:51",
-      "text": "Heureusement qu'il donne des signes de vie de temps en temps, on pourrait avoir des doutes.\n[Cite @EmmanuelMacron] Tout mon soutien à Angela Avond, aspergée d’essence devant un lycée à Chelles, ainsi qu’à l’ensemble des personnels de l’Éducation nationale, en particulier les directions, qui font l’objet de violences.\n\nS’en prendre ainsi à une élue de la République ou à ceux qui sont à son"
-    },
-    {
-      "author_name": "Ligne Droite • La matinale de RC",
-      "published_at": "2026-11-10 20:51",
-      "text": "🔴 @ZemmourEric vient d'officialiser sa candidature à l'élection présidentielle de 2027 sur TF1 !\n\n🤜 Retrouvez sur la chaîne YouTube de Ligne Droite un direct exceptionnel avec le président de @Reconquete_off, qui répondra aux questions de différentes voix d'Internet, dont"
+      "published_at": "2026-11-11 20:45",
+      "text": "Écoutez oui Zemmour a de loin le meilleur programme, et c'est même a minima ce qu'il faut pour la France. \n\nOui son programme est meilleur que celui de Marine Le Pen. \n\nIl se fait plaisir, il nous fait plaisir. Mais c'est clairement compliqué de s'imposer avec ça dans la"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-10 20:52",
-      "text": "DIRECT. « Koh-Lanta All Stars » : suivez l’épreuve de l’orientation avant la finale\n➡️ https://l.leparisien.fr/ZkkH"
+      "published_at": "2026-11-11 20:47",
+      "text": "Le rappeur belge Frenetik annonce la fin de sa carrière à seulement 27 ans et annonce un ultime concert\n➡️ https://l.leparisien.fr/PczP"
     },
     {
-      "author_name": "Occidentis",
-      "published_at": "2026-11-10 20:52",
-      "text": "🚨 À peine annoncé candidat, Éric Zemmour est déjà la cible du Parti communiste qui demande son inéligibilité."
-    },
-    {
-      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
-      "published_at": "2026-11-10 20:53",
-      "text": "[Retweet de @euromaximal] Denmark has essentially stopped immigration. And they didn’t have to resort to violence to do it.\n\nDenmark’s economy is also booming, performing much better than the rest of Europe.\n\nEurope could save itself by simply copying what Denmark is doing."
-    },
-    {
-      "author_name": "L’Infiltré",
-      "published_at": "2026-11-10 20:54",
-      "text": "🔴 Au Défenseur des droits, un agent a touché l’intégralité de son salaire pendant des années. Il restait presque toujours chez lui et l’institution n’a fourni aucune pièce attestant son travail.\n\n👉 Défenseur des droits : la gabegie des donneurs de leçons, dans L’Infiltré :"
-    },
-    {
-      "author_name": "Nicolas Dupont-Aignan",
-      "published_at": "2026-11-10 20:55",
-      "text": "La gauche n’a pas réussi à museler CNEWS mais 25 députés étaient prêts à s’attaquer à la liberté d’expression.\n\nPlus que jamais besoin de votre aide pour résister !\nParticipez à la campagne présidentielle : https://dons.dupontaignan.fr"
-    },
-    {
-      "author_name": "Marion Maréchal",
-      "published_at": "2026-11-10 20:55",
-      "text": "Au cœur de la capitale, j’ai réuni le bureau politique d’@ID_Libertes.\n\nAvec nos coordinateurs régionaux, nos élus et nos experts, nous sommes pleinement mobilisés. Le chemin est encore long, les défis nombreux, mais nous sommes prêts à affronter ensemble cette année cruciale"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-10 20:55",
-      "text": "«Traces de farsi dans les lignes de code», opérations de reconnaissance...\n\nComment la France s’est décidée à attribuer la cyberattaque des frigos à l’Iran\n➡️ https://l.leparisien.fr/jToY"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-10 20:56",
-      "text": "Gilles-William Goldnadel, avocat : «C'est en raison de la popularité de CNEWS que la minorité intolérante essaierait de nous faire taire. Ça me fait énormément de peine pour la France», dans #HDPros2\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Le Point",
-      "published_at": "2026-11-10 20:57",
-      "text": "🔴 EXCLUSIF Mélenchon renforcé, mobilisation contestée, gouvernement désavoué… Notre sondage sur la colère lycéenne\n➡️ https://l.lepoint.fr/u7B"
-    },
-    {
-      "author_name": "Tribune Populaire🌐",
-      "published_at": "2026-11-10 20:57",
-      "text": "L’une des grandes techniques du système politico-médiatique, à l’approche d’une présidentielle, consiste à vous faire croire que vous avez le choix entre les 39 candidats déclarés, alors qu’en réalité, la plupart seront écartés avant même de pouvoir se présenter, faute d’avoir"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-10 20:57",
-      "text": "🔴 Alerte info. ➡️ https://mrf.lu/2YVMF"
+      "author_name": "Rassemblement National",
+      "published_at": "2026-11-11 20:49",
+      "text": "Le 11 novembre n’appartient pas au passé : il vit dans l’âme de notre peuple."
     },
     {
       "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-10 20:57",
-      "text": "Guerre en Ukraine : « Dur de traiter avec les Russes », Zelensky livre le bilan des premières négociations « constructives » à Abou Dhabi\n➡️ https://l.leparisien.fr/cGcL",
-      "also_by": [
-        "Le Parisien"
-      ]
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-10 21:00",
-      "text": "🗝️ Les Clefs d'une vie - Olivier Dartigolles\n🗣  @Dartigolles  : l’homme politique est désormais chroniqueur dans les médias . Dans un livre il raconte l’enfance des candidats à la prochaine élection présidentielle\n\n💻 L'émission : https://youtu.be/xr2LWYvFs5k"
-    },
-    {
-      "author_name": "Les Braves",
-      "published_at": "2026-11-10 21:00",
-      "text": "💔Zemmour GHOST Les BRAVES💔 On Réac à son LIVE FAF https://x.com/i/broadcasts/2gqkPJmyybVnMq"
-    },
-    {
-      "author_name": "Sarah Knafo",
-      "published_at": "2026-11-10 21:00",
-      "text": "En avant ! 🔥\n[Cite @ZemmourEric] 🇫🇷 Je suis candidat à l’élection présidentielle de 2027."
-    },
-    {
-      "author_name": "Sarah Knafo",
-      "published_at": "2026-11-10 21:00",
-      "text": "À tout de suite sur TF1 avec @ZemmourEric !",
-      "also_by": [
-        "RECONQUÊTE !"
-      ]
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-10 21:00",
-      "text": "Éric Zemmour officialise sa candidature à la présidentielle.→https://l.lefigaro.fr/37B4"
-    },
-    {
-      "author_name": "Causeur.fr",
-      "published_at": "2026-11-10 21:01",
-      "text": "France–Iran: guerre dans la chaîne du froid! ✍️  Gil Mihaely @causeur https://www.causeur.fr/france-iran-guerre-dans-la-chaine-du-froid-337024"
-    },
-    {
-      "author_name": "Eric Ciotti",
-      "published_at": "2026-11-10 21:01",
-      "text": "[Retweet de @Maxime_Michelet] Face à la violence et à la crise, nos proviseurs sont en première ligne.\n\nNous voulons leur dire : tenez bon !\n\nL'école de la République a besoin de ses chefs d'établissement.\n\nEn 2027, avec @MLP_officiel, nous protégerons et nous revaloriserons cette profession essentielle.",
-      "also_by": [
-        "Marine Le Pen"
-      ]
-    },
-    {
-      "author_name": "Damien Rieu",
-      "published_at": "2026-11-10 21:01",
-      "text": "Quelle déception d’entendre @davidlisnard reprendre la théorie de la « ghettoïsation » des immigrés alors que : \n\n👉Rien ne les oblige à rester dans les logements sociaux gracieusement payés par les Français. La liberté d’installation est totale dans tout le pays et pour tous.",
-      "also_by": [
-        "Jean-Yves Le Gallou",
-        "Daniel Conversano ⏩ e/acc 🚀"
-      ]
-    },
-    {
-      "author_name": "Observatoire du journalisme (Ojim)",
-      "published_at": "2026-11-10 21:02",
-      "text": "🚨80 % des députés qui ont voté pour « Supprimer CNews de l’audiovisuel français » sont de GAUCHE. Les 20 % restants sont les élus du CENTRE."
-    },
-    {
-      "author_name": "Alain Weber",
-      "published_at": "2026-11-10 21:04",
-      "text": "Jean-Noël Barrot : quand la diplomatie française touche le fond\n\nComment a-t-on pu confier le Quai d’Orsay à un homme qui donne si souvent l’impression de découvrir la diplomatie en même temps qu’il l’exerce ?\n\nJean-Noël Barrot est peut-être un homme diplômé. \n\nMais les diplômes"
-    },
-    {
-      "author_name": "Une Bonne Droite 👊🏻",
-      "published_at": "2026-11-10 21:05",
-      "text": "« Au moins en Arabie Saoudite tout le monde se tient à carreau... »\n\nJustement : il n'y a que l'autoritarisme qui marche sur les peuples arabes.\nLa démocratie et les libertés leur sont des concepts globalement étrangers. @acormierd"
-    },
-    {
-      "author_name": "Polémia",
-      "published_at": "2026-11-10 21:05",
-      "text": "Charlie Downes nous apprend cette terrible vérité : la moitié des naissances au Royaume-Uni ne sont déjà plus du fait des autochtones. \n\nDans certaines zones du pays, les Blancs ne représentent plus qu'1% du total des enfants scolarisés. \n\nQui oserait faire le même constat en"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-10 21:06",
-      "text": "En plein arrêt maladie, il soulève 80 kg à la salle de sport et se fait licencier\n➡️ https://l.leparisien.fr/AAsr"
-    },
-    {
-      "author_name": "RECONQUÊTE !",
-      "published_at": "2026-11-10 21:06",
-      "text": "[Retweet de @ZemmourEric] 🇫🇷 Je suis candidat à l’élection présidentielle de 2027."
-    },
-    {
-      "author_name": "RECONQUÊTE !",
-      "published_at": "2026-11-10 21:06",
-      "text": "[Retweet de @knafo_sarah] En avant ! 🔥"
-    },
-    {
-      "author_name": "RECONQUÊTE !",
-      "published_at": "2026-11-10 21:06",
-      "text": "[Retweet de @ZemmourEric] 📺 À tout de suite sur TF1 ! \n\nPrêts ? 😉"
+      "published_at": "2026-11-11 20:53",
+      "text": "« Il y aura une saison 2 » : à droite et au centre, la course au sauveur pour 2027 https://l.leparisien.fr/7WPR"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-10 21:06",
-      "text": "«Une majorité de Français est favorable à CNEWS, cela fâche l'extrême gauche intolérante», constate Gilles-William Goldnadel https://www.cnews.fr/france/2026-11-10/une-majorite-de-francais-est-favorable-cnews-cela-fache-lextreme-gauche"
+      "published_at": "2026-11-11 20:54",
+      "text": "Pascal-Pierre Garbarini, avocat, sur Louise Montangon : «C'est très difficile, à son âge, de prendre parti comme elle l'a fait pendant les manifestations», dans #HDPros2 \n\nToute l'info est à retrouver sur https://cnews.fr"
     },
     {
       "author_name": "Le Point",
-      "published_at": "2026-11-10 21:07",
-      "text": "Prêts à céder le Donbass à Moscou, Jean-Luc Mélenchon et Marine Le Pen cèdent à la tentation de la lâcheté. \n\n✒️ La chronique d'@arthurchevallie ➡️ https://l.lepoint.fr/68q"
+      "published_at": "2026-11-11 20:54",
+      "text": "🔬 Nos labos inventent, les Etats-Unis encaissent : à Boston une découverte rapporte souvent 100 fois plus qu'en France\n\nPourquoi ? Des liens encore trop faibles entre recherche et industrie. Résultat : l'innovation et les emplois partent ailleurs.\nL'ambition du Paris-Saclay"
     },
     {
-      "author_name": "Occidentis",
-      "published_at": "2026-11-10 21:08",
-      "text": "🚨 « J’ai été relaxé 30 FOIS depuis 10 ans » \n\n⚡️ Passe d’armes entre Éric Zemmour et Gilles Bouleau."
+      "author_name": "Polémia",
+      "published_at": "2026-11-11 20:55",
+      "text": "Est-ce que nos \"valeurs\" sont un obstacle au projet de remigration ? \n\nPour Charlie Downes, les valeurs changent avec le temps, mais le peuple demeure. Les Anglais ont été catholiques, anglicans, protestants, païens, athée, ils ont été royalistes, républicains, peu importe. Ils"
     },
     {
-      "author_name": "Bouli ☃️",
-      "published_at": "2026-11-10 21:09",
-      "text": "[Retweet de @FrDesouche] Vous vous souvenez quand les sommités de la sociologie française nous expliquaient doctement que la violence n’augmentait pas en France"
+      "author_name": "CNEWS",
+      "published_at": "2026-11-11 20:55",
+      "text": "«Depuis dix ans, il y a en moyenne deux actes antichrétiens par jour en France», dénonce l'eurodéputée Laurence Trochu https://www.cnews.fr/france/2026-11-11/depuis-dix-ans-il-y-en-moyenne-deux-actes-antichretiens-par-jour-en-france"
     },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-11 20:58",
+      "text": "À bientôt 80 ans, Patrick et Isabelle Balkany risquent l’expulsion du moulin de Giverny, confisqué par la justice\n➡️ https://l.leparisien.fr/EJSw"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-11 20:58",
+      "text": "Parole de libraire\n\n🖋️ LA CHRONIQUE de Patrick Besson https://l.lepoint.fr/qcM"
+    },
+    {
+      "author_name": "Nicolas Dupont-Aignan",
+      "published_at": "2026-11-11 21:00",
+      "text": "🇫🇷 Après avoir présenté à la presse mon projet économique présidentiel, je me rendrai avec @PhilippeMurer et @AlexVilp au Salon du Made in France à Paris pour rencontrer les entrepreneurs, artisans et industriels qui font rayonner nos savoir-faire et portent l’économie du pays !"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-11 21:00",
+      "text": "🗝️ Les Clefs d'une vie - Léa Deleau\n🗣  Léa Deleau : France Gall lui avait confié le rôle principal de « Résiste », une comédie musicale hommage à Michel Berger. Léa récidive dans « Michel et France »\n\n💻 L'émission : https://youtu.be/fE3z5qmrgCI"
+    },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-11 21:00",
+      "text": "Le Kremlin n’a pas donné davantage de précisions.→https://l.lefigaro.fr/sasA"
+    },
+    {
+      "author_name": "CourrierDesStratèges",
+      "published_at": "2026-11-11 21:02",
+      "text": "↘️↘️\nhttps://x.com/GlobeEyeNews/status/2120432192765702620?a=IAz54Fsi6FxaMmNzk-8&s=20\n[Cite @GlobeEyeNews] BREAKING:\n\n78% of Britons believe Israel is a serious threat to world peace, according to a new survey."
+    },
+    {
+      "author_name": "Causeur.fr",
+      "published_at": "2026-11-11 21:02",
+      "text": "Quand De Gaulle ferait passer Le Pen, Bardella, Zemmour et consorts pour des gauchistes @causeur https://www.causeur.fr/quand-de-gaulle-ferait-passer-le-pen-bardella-zemmour-et-consorts-pour-des-gauchistes-337029"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-11 21:03",
+      "text": "La transmission, priorité absolue dans les métiers du verre, pointe la directrice générale de La Rochère https://ow.ly/JYjo106ImrO"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-11 21:03",
+      "text": "A peine candidat, un dossier compromettant. ➡️ https://mrf.lu/275V7"
+    },
+    {
+      "author_name": "TVL",
+      "published_at": "2026-11-11 21:04",
+      "text": "🎥 Après la tentative d’interdire les réseaux sociaux au moins de 15 ans, des personnalités de gauche réclament la fermeture de CNews, à commencer par @thomas_guenole.\n\nBistro Libertés sur TVL 🔻\nhttps://youtu.be/ofanio1qklA"
+    },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-11 21:05",
+      "text": "[Retweet de @LouisHausalter] « C’est la crucifixion » : à six mois de sa fin de mandat, le violent crépuscule d’Emmanuel Macron\n\nÀ lire dans @Le_Figaro 👇\nhttps://www.lefigaro.fr/politique/c-est-la-crucifixion-a-six-mois-de-sa-fin-de-mandat-le-violent-crepuscule-d-emmanuel-macron-20261111"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-11 21:05",
+      "text": "Laure Adler, la mémoire en question\n\nPar @LepineEl https://l.lepoint.fr/N2h"
+    },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-11 21:05",
+      "text": "[Retweet de @steve_tenre] Un chef-d’œuvre intemporel, pour un remake qui fait le minimum. J’ai testé pour @Le_Figaro le remake de The Legend of Zelda : Ocarina of Time sur Switch 2.\n\nDerrière ses visuels d’exception, et son rythme parfait dont l’industrie du jeu vidéo ferait bien de s’inspirer, cette"
+    },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-11 21:06",
+      "text": "[Retweet de @Batdesprez] Un ticket France-Allemagne-Pays-Bas ? Pourquoi la France rêve d’organiser la Coupe du monde de football en 2038… mais en est encore (très) loin @Le_Figaro \n\nhttps://www.lefigaro.fr/sports/football/coupe-du-monde/pourquoi-la-france-reve-d-organiser-la-coupe-du-monde-de-football-en-2038-mais-en-est-encore-tres-loin-20261111"
+    },
+    {
+      "author_name": "Alain Weber",
+      "published_at": "2026-11-11 21:06",
+      "text": "Neuf septembre 2025, 9 têtes de cochon : scandale national. \n\nLe 31 octobre, une relique de Saint-Nicolas est brûlée et écrasée : circulez, il n’y a presque rien à voir !\n\nJ’en ai assez. \n\nJ’en ai même par-dessus la tête de cette hypocrisie nationale qui consiste à s’indigner à"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-11 21:06",
+      "text": "« De sérieuses questions quant à l’égalité devant la loi » : la Suède révise sa Constitution pour pouvoir révoquer la citoyenneté de binationaux\n➡️ https://l.leparisien.fr/SSFn",
+      "also_by": [
+        "Le Parisien | politique"
+      ]
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-11 21:06",
+      "text": "Gilles-William Goldnadel, avocat, sur la détention de Christophe Gleizes en Algérie : «Même sur le plan médiatique, il n'est pas soutenu», dans #HDPros2 \n\nToute l'info est à retrouver sur https://cnews.fr"
+    }
+  ],
+  "context": [
     {
       "author_name": "Comité Trump France",
       "published_at": "2026-11-10 21:09",
@@ -6927,6 +6766,11 @@
       "author_name": "Rassemblement National",
       "published_at": "2026-11-10 21:56",
       "text": "Non, la France n’est pas un pays raciste. Si c’était le cas, pourquoi plus de 500 000 personnes voudraient-elles s’y installer chaque année ?\n\nJ’en ai assez qu’on place sans cesse notre pays sur le banc des accusés. Aimer la France, défendre son identité et son mode de vie n’a"
+    },
+    {
+      "author_name": "Marine Le Pen",
+      "published_at": "2026-11-10 21:57",
+      "text": "[Retweet de @Maxime_Michelet] Face à la violence et à la crise, nos proviseurs sont en première ligne.\n\nNous voulons leur dire : tenez bon !\n\nL'école de la République a besoin de ses chefs d'établissement.\n\nEn 2027, avec @MLP_officiel, nous protégerons et nous revaloriserons cette profession essentielle."
     },
     {
       "author_name": "Alain Weber",
@@ -7860,6 +7704,14 @@
     },
     {
       "author_name": "Jean-Yves Le Gallou",
+      "published_at": "2026-11-11 00:12",
+      "text": "[Retweet de @DamienRieu] Quelle déception d’entendre @davidlisnard reprendre la théorie de la « ghettoïsation » des immigrés alors que : \n\n👉Rien ne les oblige à rester dans les logements sociaux gracieusement payés par les Français. La liberté d’installation est totale dans tout le pays et pour tous.",
+      "also_by": [
+        "Daniel Conversano ⏩ e/acc 🚀"
+      ]
+    },
+    {
+      "author_name": "Jean-Yves Le Gallou",
       "published_at": "2026-11-11 00:13",
       "text": "[Retweet de @radiocourtoisie] 💥 « La Jeune Garde avait des liens quasi institutionnels avec la mairie écolo de Lyon. […] Un partenariat dont la publicité a été faite sur les comptes officiels de la mairie de Lyon. »\n\n🗣️@jean_bexon, journaliste @BVoltaire\n\n🎙️ Avec @bouclay1 sur Radio Courtoisie\n\n👉 :"
     },
@@ -8049,6 +7901,11 @@
       "also_by": [
         "Le Parisien | politique"
       ]
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-11 04:11",
+      "text": "En plein arrêt maladie, il soulève 80 kg à la salle de sport et se fait licencier\n➡️ https://l.leparisien.fr/8mXh"
     },
     {
       "author_name": "Le Parisien",
