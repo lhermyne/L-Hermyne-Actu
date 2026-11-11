@@ -1,13 +1,13 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-11 12:37",
-  "period": "du 2026-11-10 12:37 au 2026-11-11 12:37",
-  "new_period": "du 2026-11-11 08:00 au 2026-11-11 12:37",
-  "context_period": "du 2026-11-10 12:37 au 2026-11-11 08:00",
+  "generated_at": "2026-11-11 13:07",
+  "period": "du 2026-11-10 13:07 au 2026-11-11 13:07",
+  "new_period": "du 2026-11-11 08:00 au 2026-11-11 13:07",
+  "context_period": "du 2026-11-10 13:07 au 2026-11-11 08:00",
   "coverage_complete": false,
-  "new_count": 485,
-  "context_count": 1418,
+  "new_count": 530,
+  "context_count": 1371,
   "duplicates_merged": 174,
   "empty_removed": 10,
   "new": [
@@ -1097,7 +1097,10 @@
     {
       "author_name": "OMERTA",
       "published_at": "2026-11-11 10:12",
-      "text": "🇫🇷 Disponible partout en France !"
+      "text": "🇫🇷 Disponible partout en France !",
+      "also_by": [
+        "Régis Le Sommier"
+      ]
     },
     {
       "author_name": "Le Point",
@@ -2471,269 +2474,246 @@
     {
       "author_name": "JDNews",
       "published_at": "2026-11-11 12:36",
-      "text": "Géopolitique : l’Algérie prend-elle la place de la France au Sahel ? https://ow.ly/HHAs106IkPX"
+      "text": "Géopolitique : l’Algérie prend-elle la place de la France au Sahel ? https://ow.ly/HHAs106IkPX",
+      "also_by": [
+        "Le JDD"
+      ]
     },
     {
       "author_name": "Sud Radio",
       "published_at": "2026-11-11 12:36",
       "text": "🔴 #11 novembre : Faut-il sanctionner les profs qui s’opposent à l’hommage pour les morts pour la patrie ?\n\nDonnez votre avis et revivez les débats du jour avec @PHILIPPECOY, @fredfougerat, @ScarlettSzpiner autour de @stephdemuru dans #ÀVousDeLeDire\n\nhttps://youtu.be/gHFoKnkwmGQ?si=g0iOjm_lkOMY-zVn"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Actu & Politique",
-      "published_at": "2026-11-10 12:37",
-      "text": "🚨‼️🇫🇷 ALERTE INFO - Le RN obtient finalement un prêt de 10,6 millions d’euros pour la campagne présidentielle de Marine Le Pen auprès de deux banques européennes. (Direct)",
-      "also_by": [
-        "Tanguy David"
-      ]
     },
     {
-      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
-      "published_at": "2026-11-10 12:39",
-      "text": "[Retweet de @BenjaminRandow] \"Nous prenons la rue Bonaparte, nous arrêtons un instant devant la boutique du marchand de photos qui faisait jadis commerce de garçons. Une photo de Michel-Ange à la devanture. Éric la guigne. Nous entrons et je lui dis presque aussitôt : « Sortons », car j'ai aperçu Malraux et"
+      "author_name": "Europe 1",
+      "published_at": "2026-11-11 12:38",
+      "text": "Lycées sous tension : «Il y a vraiment urgence de mettre un coup d'arrêt pour infliger un retour au réel», pointe Vincent Hervouët https://ow.ly/jWHO106IkQb"
     },
     {
-      "author_name": "Frontières",
-      "published_at": "2026-11-10 12:39",
-      "text": "🚨 ALERTE - Le RN obtient un PRÉACCORD pour un PRÊT de 10,6 MILLIONS d'€ auprès de deux banques européennes pour la présidentielle de 2027. (BFM TV)"
+      "author_name": "Europe 1",
+      "published_at": "2026-11-11 12:38",
+      "text": "\"Eric Zemmour est une personnalité essentielle de cette campagne.\" signale @gabriellecluzel sur #Europe1 dans #ChristineKellyEtVous @christine_kelly"
     },
     {
-      "author_name": "TVL",
-      "published_at": "2026-11-10 12:40",
-      "text": "🇮🇱 Treize hommes comparaissent depuis lundi devant le tribunal correctionnel de Nanterre pour une vaste fraude au dispositif MaPrimeRénov', qui a permis de détourner près de 5 millions d'euros.\n\nEntre 2021 et 2024, les suspects auraient constitué de faux dossiers de rénovation"
+      "author_name": "Cercle Aristote",
+      "published_at": "2026-11-11 12:38",
+      "text": "Une fois de plus, il n’y a que des policiers en faction, tellement il est impopulaire.\n\nQuel spectacle navrant.\n[Cite @BFMTV] 11 novembre: Emmanuel Macron remonte les Champs-Élysées à bord du véhicule présidentiel"
     },
     {
-      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
-      "published_at": "2026-11-10 12:40",
-      "text": "[Retweet de @NiohBerg] I've reached a point where I believe Rupert Lowe is the only right wing leader in the entire Western world who will actually do what he promises.\n\nEveryone else has been a disappointment."
+      "author_name": "L'Observatoire des violences politiques",
+      "published_at": "2026-11-11 12:39",
+      "text": "👁️ À Chelles (Seine-et-Marne), Angela Avond, conseillère régionale d'Île-de-France appartenant aux Républicains, a été aspergée d'essence devant le lycée Gaston-Bachelard, en marge des mobilisations dites lycéennes.\n\nL'élue LR accompagnait des parents d'élèves qui réclamaient la"
     },
     {
-      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
-      "published_at": "2026-11-10 12:40",
-      "text": "[Retweet de @AfonsoJFG] ⚠️ A esquerda queixa-se dos preços da habitação enquanto quer inundar Portugal de imigrantes que vem ocupar as casas que seriam para os jovens Portuguezes.\n\n👉🏻 Quem quer falar de habitação sem falar de imigração não passa de um vigarista. \n\n🇵🇹 Junta-te ao próximo passo do"
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-11 12:40",
+      "text": "💦 Vers des coupures d’eau dans toute la France ?\n\n🗣️ Frédéric Denhez :\"La facture de l’eau va encore devoir augmenter pour que tout le monde ait de l’eau, en dépit des canicules\" #LaFranceDansTousSesEtats\n\n📻 Suivez le direct sur https://sudradio.fr"
     },
     {
-      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
-      "published_at": "2026-11-10 12:40",
-      "text": "[Retweet de @lucyjaynewhite1] Suella says she is an ethnic minority…\n\nThis is deceitful and dishonest.\n\nThere are over 1.5 billion Indians on the planet.\n\nIndians have the audacity to come here and claim they are ethnic minorities, outrageous.\n\nNative Britons are being replaced in our own homeland by this."
-    },
-    {
-      "author_name": "Florian Philippot",
-      "published_at": "2026-11-10 12:40",
-      "text": "Depuis Colombey-Les-Deux-Églises : « Seul le message d’indépendance nationale du Général de Gaulle, le message de la France éternelle, sauvera la France ! »\n\nVidéo ⤵️",
-      "also_by": [
-        "Les Patriotes"
-      ]
+      "author_name": "CNEWS",
+      "published_at": "2026-11-11 12:41",
+      "text": "Les véhicules électriqueschinois sont de véritables concentrés de technologies. ➡️ https://mrf.lu/2Yndv"
     },
     {
       "author_name": "Eric Ciotti",
-      "published_at": "2026-11-10 12:41",
-      "text": "La proposition de David Lisnard d’instaurer une taxe foncière à la valeur vénale du bien va ruiner des millions de propriétaires.\n\nLes taxes foncières risquent d’exploser pour de nombreux propriétaires. \n\nUne mesure anti pouvoir d’achat.\n[Cite @iFRAP] Instaurer une taxe foncière à la valeur vénale du bien ?\n\n➡️ Pour beaucoup de propriétaires, ça va faire une grosse augmentation !\n\n🔗Retrouvez l'interview de David Lisnard par Agnès Verdier-Molinié dans l'émission Objectif Elysée 2027 @CNEWS https://urls.fr/yEyXkM"
-    },
-    {
-      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
-      "published_at": "2026-11-10 12:41",
-      "text": "[Retweet de @GilbertCollard] Cathédrale de Strasbourg fermée ce dimanche : des effractions commises, quatre portes endommagées et forcées. C'est la première fois qu'il y a une telle intrusion. Les lieux de la foi chrétienne sont des cibles, attention... le mal est là !"
-    },
-    {
-      "author_name": "LCP",
-      "published_at": "2026-11-10 12:41",
-      "text": "Budget: \"Se dire que ce texte pourrait finir en ordonnances nous pose de vraies interrogations\", assure @erwanbalanant. \"On est dans une période compliquée\", dit-il, estimant que les concitoyens ont le ressenti \"que quelque chose ne marche plus dans notre régime politique\"."
-    },
-    {
-      "author_name": "Kroc Blanc",
-      "published_at": "2026-11-10 12:42",
-      "text": "[Retweet de @dictavenir] 🔴 ALERTE - Bally Bagayoko lâche Jean-Luc Mélenchon et apporte son soutien à Teddy Riner : \"Enfin un candidat qui nous ressemble.\""
-    },
-    {
-      "author_name": "Frontières",
-      "published_at": "2026-11-10 12:43",
-      "text": "« Je fais le choix personnel de ne pas répondre à CNEWS ! »\n\n🚨 ALERTE - La présidente de la FCPE 77 REFUSE et EMPÊCHE des LYCÉENS de Chelles de RÉPONDRE à notre équipe."
-    },
-    {
-      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
-      "published_at": "2026-11-10 12:44",
-      "text": "[Retweet de @dannyconversano] Dans mon live d'hier, disponible ici : https://www.youtube.com/live/xwTPLXDx9bQ"
+      "published_at": "2026-11-11 12:42",
+      "text": "« Ce n’est pas la guerre que nous regrettons, mais nos morts. »\n\nCeux qui refusent de célébrer nos héros dans nos écoles, aveuglés par leur idéologie, se couvrent de honte !\n\nHonorer nos soldats n’est pas glorifier la guerre. C’est transmettre aux jeunes générations l’amour de la"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-10 12:44",
-      "text": "Une société propose à ses clients d’expérimenter une inondation ou encore un typhon. ➡️ https://mrf.lu/2Yf_b"
-    },
-    {
-      "author_name": "Jordan Bardella",
-      "published_at": "2026-11-10 12:44",
-      "text": "Je serai ce soir à 21h sur @BFMTV."
-    },
-    {
-      "author_name": "UDR",
-      "published_at": "2026-11-10 12:45",
-      "text": "📚 Lycées et universités, l’emprise islamo-gauchistes est-elle réversible ?\n\n🎙️Louise Montangon, Maxime Michelet et Thaddée le Men sont venus parler d’éducation !\n\n🎥 Retrouvez l’intégralité de cette conférence sur YouTube\nhttps://www.youtube.com/watch?v=dDtT-LjyOtg",
-      "also_by": [
-        "Eric Ciotti"
-      ]
-    },
-    {
-      "author_name": "Damien Rieu",
-      "published_at": "2026-11-10 12:45",
-      "text": "[Retweet de @EddyCasterman] 🔴 « Je sais où t’habite, je vais t’égorger et te violer dans ton sang. »\n\nLouise Montangon, étudiante et responsable de la @droiteuniv de Bordeaux, est la cible de menaces de mort et de viol d’une extrême gravité. Sa famille est également menacée.\n\nTrois semaines après le dépôt"
-    },
-    {
-      "author_name": "Actu & Politique",
-      "published_at": "2026-11-10 12:45",
-      "text": "🚨‼️🇫🇷 URGENT - L’accord pour le prêt devrait être finalisé avant la fin du mois. (Parti)\n[Cite @actuetpolitique] 🚨‼️🇫🇷 ALERTE INFO - Le RN obtient finalement un prêt de 10,6 millions d’euros pour la campagne présidentielle de Marine Le Pen auprès de deux banques européennes. (Direct)"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-10 12:46",
-      "text": "🏫 L'école française en pleine souffrance \n\n🗣️ @OphelieRoque :\"J’ai déjà reçu des coups de la part d’élèves et je n’ai reçu aucun soutien de ma direction… C’est ça, la réalité !\" #LaFranceDansTousSesEtats"
-    },
-    {
-      "author_name": "Le Crayon",
-      "published_at": "2026-11-10 12:47",
-      "text": "Sommes-nous vraiment attachés à la démocratie ?\n\nPour @PierreValentin , fondateur du podcast \"Transmission\" et auteur de « Malaise dans la génération Z », la réponse est loin d'être évidente."
-    },
-    {
-      "author_name": "LCP",
-      "published_at": "2026-11-10 12:47",
-      "text": "Départ de représentants lycéens et étudiants d'une réunion sur Parcoursup à Matignon: \"C'est dommage que les représentations syndicales ne veulent pas dialoguer avec l'ensemble des forces vives d'un pays pour trouver des solutions\", commente @erwanbalanant"
-    },
-    {
-      "author_name": "Ligne Droite • La matinale de RC",
-      "published_at": "2026-11-10 12:48",
-      "text": "💥 \"Le résultat des législatives, c’est aucune majorité ni pour le sortant Bibi, ni pour son principal opposant […] Les Israéliens se sont agrippés à leur loyauté tribale.\"\n\n🗣️ @MeriadecRaffray, rédacteur en chef des pages Monde de @Valeurs, cite l'historien Youssef Mouawad et"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-10 12:48",
-      "text": "[Retweet de @JCONSTANTFD] « Je fais ce que je sais faire, braquer » : du 93 à la place Vendôme, la vie hors-la-loi du « braqueur au borsalino » https://www.leparisien.fr/faits-divers/je-fais-ce-que-je-sais-faire-braquer-du-93-a-la-place-vendome-la-vie-hors-la-loi-du-braqueur-au-borsalino-10-11-2026-OBQ3GFQJ45AQLC2RH6BAYSN4CM.php?at_campaign=Partage%20Twitter%20articles&at_medium=Social%20media via @le_Parisien"
-    },
-    {
-      "author_name": "L'Express",
-      "published_at": "2026-11-10 12:50",
-      "text": "L’IA promet de révolutionner le recrutement en accélérant la gestion des candidatures. Mais la dimension relationnelle demeure primordiale, sous peine de voir le \"ghosting\" se généraliser, prévient...\n\n➡️ https://l.lexpress.fr/sNC https://l.lexpress.fr/sNC"
+      "published_at": "2026-11-11 12:42",
+      "text": "Marine Le Pen : «Le 11-Novembre n'est pas une date qui appartient à l'histoire mais à l'âme de tout notre peuple»\n\nToute l'info est à retrouver sur https://cnews.fr"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-10 12:50",
-      "text": "Le fruit de plusieurs années de réflexion et de travail. ➡️ https://mrf.lu/2YfMh"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-10 12:50",
-      "text": "🧑‍🍳 Hachés de bœuf, bouillons cubes, produits végans… Les aliments ultra-transformés sont partout❗️\n\nDonnez votre avis et revivez les débats du jour avec @jeromedubus, @NaomiHalll, @JuCourvoisier autour de @stephdemuru dans #ÀVousDeLeDire\n\nhttps://youtu.be/qQjlQF-CgvU?si=EdCcx-RViML87BK6"
-    },
-    {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-10 12:50",
-      "text": "Soupçonné d'avoir tiré des mortiers sur deux policiers à Toulouse, Léo, 21 ans, évite la détention malgré les réquisitions du parquet. Procès renvoyé au 5 janvier. \n https://www.fdesouche.com/2026/11/10/toulouse-31-deodat-severac-mortiers-policiers-etudiant-21-ans-controle-judiciaire/"
-    },
-    {
-      "author_name": "Ni Oubli Ni Pardon",
-      "published_at": "2026-11-10 12:50",
-      "text": "05/2021 La vaccination doit-elle être imposée à tous? L’Académie nationale de médecine le préconise dans un communiqué publié le mardi 25 mai 2021 où elle estime qu’il est indispensable de rendre le vaccin contre le Covid-19 obligatoire pour de nombreuses professions et de"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-10 12:50",
-      "text": "« Jets de pavés, tentatives d’intrusion »… Les proviseurs appellent à un rassemblement vendredi face aux « violences » dont ils sont victimes\n➡️ https://l.leparisien.fr/MPEb"
-    },
-    {
-      "author_name": "Assemblée nationale",
-      "published_at": "2026-11-10 12:51",
-      "text": "1⃣ Vote solennel sur le PJL relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité, le 17 novembre \n2⃣ Ordre du jour de la semaine de l'Assemblée du 30 novembre ;\n3⃣ Ordre du jour de la journée réservée du @Gpe_EcoloSocial du 3 décembre."
-    },
-    {
-      "author_name": "Le Média en 4⃣-4⃣-2⃣",
-      "published_at": "2026-11-10 12:52",
-      "text": "Les Macron poursuivent Candace Owens concernant sa poupée « Brigitte-Doll » caricaturant Brigitte \nhttps://lemediaen442.fr/les-macron-poursuivent-candace-owens-concernant-sa-poupee-brigitte-doll-caricaturant-brigitte/ \n\nLa nouvelle plainte d’Emmanuel et Brigitte Macron contre Candace Owens qui évoque sa « Brigitte-Doll », une poupée aux airs d’E.T. \n\nLa podcasteuse a saisi"
+      "published_at": "2026-11-11 12:42",
+      "text": "Marine Le Pen : «On ne construit pas la paix, ni le sentiment d'appartenance nationale sur l'oubli»\n\nToute l'info est à retrouver sur https://cnews.fr"
     },
     {
       "author_name": "Europe 1",
-      "published_at": "2026-11-10 12:54",
-      "text": "\"Je suis persuadé qu'il y a une majorité de Français qui écoute CNews, mais qui en sont maintenant réduits à dire qu'ils ne regardent pas ou qu'ils n'écoutent pas Europe 1, par peur du qu'en-dira-t-on\" signale Edgard, auditeur, #Europe1 #ChristineKellyEtVous @christine_kelly"
+      "published_at": "2026-11-11 12:45",
+      "text": "\"Reconquête veulent la grandeur de la France et ils apportent des solutions concrètes et chiffrées. Je ne vote plus Rassemblement National, je vote pour Eric Zemmour désormais.\" explique Sandra, auditrice, sur #Europe1 dans #ChristineKellyEtVous @christine_kelly"
     },
     {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-10 12:55",
-      "text": "📈 Le SMIC augmente de 1,6 % au 1er décembre et dépasse le cap des 1 500 euros\nhttps://www.sudradio.fr/economie/le-smic-augmente-de-16-au-1er-decembre-et-depasse-le-cap-des-1-500-euros"
+      "author_name": "Clément Macchi",
+      "published_at": "2026-11-11 12:46",
+      "text": "[Retweet de @cgtvoff] 🎬🇫🇷 𝐋𝐄 𝐌𝐀𝐑𝐃𝐈 𝐂 𝐌𝐀𝐂𝐂𝐇𝐈 - 𝟎𝟏𝐱𝟎𝟐\n \nAvec un petit peu de retard (@YouTube a fait des caprices hier), #MardiCMacchi est de retour !\n\nCette semaine, @clement_mci reçoit @CBeaune, actuel haut-commissaire à la Stratégie et au Plan et ancien ministre de l'Europe et des"
     },
     {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-10 12:55",
-      "text": "\"J'essaie d'être le plus objectif possible et de prendre des informations de manière générale.\" affirme Edgard, auditeur et téléspectateur de CNews, sur #Europe1 dans #ChristineKellyEtVous @christine_kelly"
+      "author_name": "Pierre Sautarel",
+      "published_at": "2026-11-11 12:47",
+      "text": "La journaliste @mchantrait raconte systématiquement n’importe quoi, avec l’assurance de ceux qui savent.\n\nEncore ce midi, au sujet de la 'Creuse pacifiste\" pendant la guerre de 14-18.\n\nLe pacifisme symbolisé par le monument de Gentioux s’est affirmé après l’hécatombe, qui a coûté"
     },
     {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-10 12:56",
-      "text": "«On ne souhaite pas communiquer face à CNEWS» : devant un lycée de Chelles, les professeurs refusent de parler aux équipes de 100% Frontières\n\nToute l'info est à retrouver sur https://cnews.fr"
+      "author_name": "Conflits - Revue de Géopolitique",
+      "published_at": "2026-11-11 12:48",
+      "text": "[Retweet de @FYP_editions] Merci à @revueconflits pour sa recension du livre « Guerre en mer » d’Hugo Dufrane, officier marinier entré à l’École des mousses à 16 ans, qui veut « faire ce que les anciens font avec les jeunes à bord : transmettre ». https://www.revueconflits.com/livres-du-10-novembre/ https://fypeditions.com/guerre-en-mer-des-voiles-aux-drones-les-revolutions-du-combat-naval/?utm_source=x&utm_medium=social&utm_campaign=zoho"
     },
     {
-      "author_name": "Alain Weber",
-      "published_at": "2026-11-10 12:57",
-      "text": "Haïti : La villa de luxe de Wilson Joseph, alias « Lanmò San Jou », chef du gang 400 Mawozo, a été détruite dans la nuit du 7 au 8 novembre 2026 à Croix-des-Bouquets par une frappes de drone. \n\nIl n’était pas sur place."
+      "author_name": "Franc-Tireur",
+      "published_at": "2026-11-11 12:48",
+      "text": "🎬 Au sommaire de Franc-Tireur n°261 :\n\n👉Tout le monde déteste LFI\n👉RN, le Frexit caché\n👉Jérôme Sainte-Marie : l’éminence grisée"
     },
     {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-10 12:58",
-      "text": "❌ Sophie Binet refuse de répondre à CNews\n\n🗣️ Frédéric, auditeur de Sud Radio :\"J’attends une réaction de l’intégralité de la presse ! Un geste fort en signe de protestation !\" #LaFranceDansTousSesEtats\n\n📻 Suivez le direct sur https://sudradio.fr et réagissez au 0 826 300"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-10 12:59",
-      "text": "Création d’un « Beauce Express », nouveaux horaires : le Centre-Val de Loire renforce son offre ferroviaire\n➡️ https://l.leparisien.fr/AAsg"
-    },
-    {
-      "author_name": "Observatoire de l'immigration et de la démographie",
-      "published_at": "2026-11-10 13:00",
-      "text": "📺 « A la deuxième génération, 77% des descendants de deux immigrés turcs sont en couple avec un conjoint de la même origine contre 14% pour ceux issus de deux parents vietnamiens ou cambodgiens. » \n\n@NPM_OID sur Pour tout dire @T18 ⬇️"
-    },
-    {
-      "author_name": "TVL",
-      "published_at": "2026-11-10 13:00",
-      "text": "🇫🇷 L’acteur Omar Sy comparaîtra le 30 novembre prochain devant le tribunal judiciaire de Paris. Il est poursuivi pour violences sur personne chargée de missions de service public, menaces et outrages envers des agents de la SNCF.\n\nLes faits remontent au 22 mai 2025, vers 7h du"
-    },
-    {
-      "author_name": "Ligne Droite • La matinale de RC",
-      "published_at": "2026-11-10 13:00",
-      "text": "🤜 L'Institut La Boétie sous le coup d'un signalement au titre de l'article 40 !\n🗣️ @bouclay1, président de Radio Courtoisie\nEntretien complet :\n👉 https://youtu.be/3uYdl7X52PA\n🎙️ Avec @RicharddeSeze sur @radiocourtoisie"
-    },
-    {
-      "author_name": "Assemblée nationale",
-      "published_at": "2026-11-10 13:00",
-      "text": "🔴 Présentation de la pétition « Supprimer CNews de l’audiovisuel français », suivie d'un vote sur son classement ou son examen.\n#DirectAN https://x.com/i/broadcasts/2ybojrzQlnYlmR"
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-10 13:01",
-      "text": "Des mortiers d’artifice tirés dans les couloirs d’un lycée à Chelles →https://l.lefigaro.fr/OCxV"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-10 13:01",
-      "text": "Teddy Riner «profite d'un effondrement des partis traditionnels», selon John-Christoper Rolland https://ow.ly/9xFx106Ig58"
+      "author_name": "Franc-Tireur",
+      "published_at": "2026-11-11 12:49",
+      "text": "Tout le monde déteste LFI, le franc-parler de @CarolineFourest 🗣️\n\n🔗 : https://urls.fr/tApT6d"
     },
     {
       "author_name": "Boulevard Voltaire",
-      "published_at": "2026-11-10 13:03",
-      "text": "[Retweet de @BVoltaire] Une relique de saint Nicolas volée, brûlée et écrasée en Lorraine | Par Eric de Mascureau\nL'auteur de cette profanation justifie son geste par un « désir de destruction ». \n \nhttps://www.bvoltaire.fr/une-relique-de-saint-nicolas-volee-brulee-et-ecrasee-en-lorraine/?fsp_sid=26235"
+      "published_at": "2026-11-11 12:49",
+      "text": "[Retweet de @jean_bexon] En ce 11 novembre, rappel que le journaliste de Médiapart Antton Rouget a été placé en GAV puis condamné à 3 mois de prison avec sursis en 2009. \n\nSelon cet article de presse locale (berria = gauche), Antton Rouget a brûlé un drapeau français du monument au mort le 11 novembre"
+    },
+    {
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-11 12:49",
+      "text": "[Retweet de @jean_bexon] Femmes en danger."
+    },
+    {
+      "author_name": "Tanguy David",
+      "published_at": "2026-11-11 12:49",
+      "text": "[Retweet de @BFMTV] 11-Novembre: \"On ne construit pas la paix, ni le sentiment d'appartenance nationale, si nécessaire à la cohésion sociale, sur l'oubli\", affirme Marine Le Pen, candidate RN à la présidentielle"
+    },
+    {
+      "author_name": "Jon De Lorraine",
+      "published_at": "2026-11-11 12:49",
+      "text": "🎄 Le Sapin de Noël des Galeries Lafayette 2026.\n(On est d'accord que c'est horrible ?)"
+    },
+    {
+      "author_name": "Bruno Attal",
+      "published_at": "2026-11-11 12:49",
+      "text": "Raymond Domenech vous avez été agressé au moins 2 fois et vous avez tout mon soutien.\nMais comment pouvez-vous demander la fermeture de @CNEWS alors que vous répondez :\n«  Va te faire enculer. » à vos agresseurs.\nCette insulte homophobe ne relève pas de la liberté d’expression.\n[Cite @RaymondDomenech] On veut les noms des 28 députés qui ont voté contre le débat à l’assemblée nationale de la possible suppression de Cnews de l’antenne . C’était juste un débat , malgré le million de français qui ont signé la pétition … c’est de la dictature ."
+    },
+    {
+      "author_name": "JDNews",
+      "published_at": "2026-11-11 12:50",
+      "text": "Présidentielle : ce que les entrepreneurs chrétiens attendent des candidats https://ow.ly/2ckT106IkQM",
+      "also_by": [
+        "Le JDD"
+      ]
+    },
+    {
+      "author_name": "Le Média en 4⃣-4⃣-2⃣",
+      "published_at": "2026-11-11 12:50",
+      "text": "Louise Montangon quitte BFMTV face à Corbière : elle pensait être « toute seule » \nhttps://lemediaen442.fr/louise-montangon-quitte-bfmtv-face-a-corbiere-elle-pensait-etre-toute-seule/ \n\nAprès un échange tendu avec Alexis Corbière sur BFMTV, la responsable de l’UNI à Bordeaux a quitté le plateau. Sur CNEWS, elle explique qu’on lui avait promis un entretien"
+    },
+    {
+      "author_name": "Ni Oubli Ni Pardon",
+      "published_at": "2026-11-11 12:50",
+      "text": "03/2020 Camille Lellouche en chanson : « Celui qui sort, j’le monte en l’air. Vous n’avez toujours rien compris, bande d'égoïstes. Restez chez vous, sinon on va rallonger le délai de confinement. On vous a dit de rester chez vous… »"
+    },
+    {
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-11 12:51",
+      "text": "[Retweet de @BVoltaire] Immigration : la facture cachée de la Sécurité sociale | Par  @YannMontero\nL’administration ne croise pas les fichiers de l’Assurance maladie et des titres de séjour. \n \nhttps://www.bvoltaire.fr/immigration-la-facture-cachee-de-la-securite-sociale/?fsp_sid=26327"
+    },
+    {
+      "author_name": "Nicolas Dupont-Aignan",
+      "published_at": "2026-11-11 12:52",
+      "text": "Aujourd’hui rassemblés pour honorer la mémoire des 73 Yerrois qui ont donné leur vie pour la France. \nAux morts pour que nous vivions libres : reconnaissance éternelle."
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-11 12:53",
+      "text": "Les circonstances restent à préciser. ➡️ https://mrf.lu/2YnHD"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-11 12:54",
+      "text": "Présidentielle 2027 : \"Je préférerais qu'il y ait une primaire avec quelqu'un qui sorte du lot.\" affirme Pierre, auditeur, sur #Europe1 dans #ChristineKellyEtVous @christine_kelly"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-11 12:55",
+      "text": "«C'est un tournant» : la députée européenne Céline Imart revient sur l'adoption de la résolution contre l'entrisme islamiste https://ow.ly/uqw7106IkRc"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-11 12:55",
+      "text": "Suisse : une nouvelle méthode permet de détecter le GHB jusqu'à 72 heures après son ingestion https://ow.ly/CAHu106IkRe"
+    },
+    {
+      "author_name": "Eric Ciotti",
+      "published_at": "2026-11-11 12:56",
+      "text": "En ce 11 Novembre, notre hommage va aux poilus de 1918 comme aux soldats français tombés plus récemment pour notre pays.\n\nUn siècle les sépare, mais ils partagent le même drapeau et la même devise : « Honneur et Patrie ».\n\nGloire à ceux qui sont morts pour la France !"
+    },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-11 12:56",
+      "text": "[Retweet de @LeFigaroTV] «Le défilé du 14 juillet est une démonstration de force de la cohérence des liens entre l'armée et la population. C'est une réussite politique et militaire», analyse @BenedicteCheron dans Points de Vue."
+    },
+    {
+      "author_name": "Le Crapaud",
+      "published_at": "2026-11-11 12:57",
+      "text": "Alexandre le Grand, Gengis Khan, Jules César et Napoléon sortent un morceau de rap 🎤\n\n\"COLD GOLD\"\n\nEn tant que Français, j'ai forcément toujours admiré Napoléon, mais je dois avouer que Gengis Khan me fascine avec son parcours de petit gars parti de rien.\n\nEt vous, quel est"
+    },
+    {
+      "author_name": "Police nationale",
+      "published_at": "2026-11-11 12:58",
+      "text": "🚨 Manifestation du 17 octobre : un suspect écroué après le pillage d’une bijouterie à Marseille (13)\n\nEn marge de la manifestation du 17 octobre, une bijouterie de marque était pillée et de nombreux bijoux dérobés. Quelques jours plus tard, un bijoutier signalait aux policiers"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-11 12:58",
+      "text": "\"Eric Zemmour est la pire des candidatures !\" s'exclame René, auditeur, sur #Europe1 dans #ChristineKellyEtVous @christine_kelly"
+    },
+    {
+      "author_name": "Alain Weber",
+      "published_at": "2026-11-11 12:59",
+      "text": "Teddy Riner, le centre atomisé et le fantôme de Lagarde…\n\nL’annonce de Teddy Riner a jeté un caillou dans une mare déjà trouble. \n\n\"Ni de droite ni de gauche\", slogan \"La France qu’on veut\", vidéo présidentielle, entretien au Parisien, soutien immédiat d’Emmanuel Macron. \n\nEn\n[Cite @francoisedegois] En résume , sur #TeddyRiner , ça affaiblit  tout le centre gauche / centre droit  , de @rglucks1 à @GabrielAttal et @EPhilippe_LH , sans piquer de voix réellement à #Melenchon car l’idée que les jeunes de banlieues voteraient plus pour lui est erronée … il faut juste qu’ils"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-11 13:00",
+      "text": "L'hiver pointe déjà le bout de son nez. ➡️ https://mrf.lu/2Ynpk"
+    },
+    {
+      "author_name": "Jon De Lorraine",
+      "published_at": "2026-11-11 13:01",
+      "text": "Les images parlent d'elles-mêmes."
     },
     {
       "author_name": "Sud Radio",
-      "published_at": "2026-11-10 13:06",
-      "text": "🕵️‍♂️📲Cyberattaque de supermarchés français : L'Iran est-elle responsable ?\nhttps://www.sudradio.fr/sud-radio/cyberattaque-de-supermarches-francais-liran-est-elle-responsable"
+      "published_at": "2026-11-11 13:02",
+      "text": "🩺 Médecins juniors : « À quoi bon avoir les contraintes d’un médecin généraliste sans avoir le salaire qui va avec ? »\nhttps://www.sudradio.fr/societe/medecins-juniors-a-quoi-bon-avoir-les-contraintes-dun-medecin-generaliste-sans-avoir-le-salaire-qui-va-avec"
     },
     {
-      "author_name": "L'Express",
-      "published_at": "2026-11-10 13:07",
-      "text": "Le court cessez-le-feu, présenté comme le fruit d’une médiation de Melania Trump, a sauvé des centaines de civils, mais a également servi la communication du Kremlin et ses intérêts militaires.\n\n➡️ https://l.lexpress.fr/LZ4 https://l.lexpress.fr/LZ4"
+      "author_name": "CNEWS",
+      "published_at": "2026-11-11 13:03",
+      "text": "Le nouveau film suivra une histoire inédite. ➡️ https://mrf.lu/2YnB6"
+    },
+    {
+      "author_name": "Jordan Bardella",
+      "published_at": "2026-11-11 13:04",
+      "text": "À #Amilly, dans le Loiret, nous nous inclinons devant la mémoire de ceux qui, en 1914, ont tout sacrifié pour que la France demeure. \n\nNos soldats avaient vingt ans. Ils avaient une famille, des amours, des rêves et un avenir. Ils ont quitté leur foyer pour affronter l’enfer des"
+    },
+    {
+      "author_name": "Régis Le Sommier",
+      "published_at": "2026-11-11 13:04",
+      "text": "[Retweet de @MarioNawfal] 🚨🇺🇸🇦🇪🇷🇺 Jared Kushner, speaking in Abu Dhabi:\n\n\"Steve Witkoff and I are going to travel to Moscow tomorrow to meet with Putin to go over what was discussed today.\n\nWe see some openings and some opportunities.\"\n\nIf Trump's administration can ACTUALLY put an end to the Ukraine"
+    },
+    {
+      "author_name": "Eric Zemmour",
+      "published_at": "2026-11-11 13:04",
+      "text": "🇫🇷\n\nhttps://ericzemmour.fr"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-11 13:06",
+      "text": "La justice brésilienne serre la vis à Meta. ➡️ https://mrf.lu/2YnWg"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-10 13:07",
-      "text": "Emporté par une avalanche en Savoie, puis précipité au fond d’une crevasse, un skieur de randonnée de 39 ans a survécu malgré de graves blessures.\n\nIl a passé plus de 36 heures, piégé dans les entrailles de la montagne ➡️ https://l.leparisien.fr/cGcv"
+      "published_at": "2026-11-11 13:06",
+      "text": "Commémorations du 11 Novembre, primaire de la droite et du centre, pourparlers entre Kiev et Moscou : les infos à retenir ce midi\n➡️ https://l.leparisien.fr/m7YC"
     },
+    {
+      "author_name": "Sarah Knafo",
+      "published_at": "2026-11-11 13:06",
+      "text": "Il y a 108 ans, à 11 heures du matin, les cloches ont sonné dans toute la France. Dans chaque village, il y a un monument avec des noms, et souvent plusieurs fois le même nom de famille. \n\nCes hommes avaient 20 ans. Ils avaient une ferme, un atelier, une fiancée, et ils ont tout"
+    }
+  ],
+  "context": [
     {
       "author_name": "Le Figaro Culture",
       "published_at": "2026-11-10 13:09",
@@ -2783,6 +2763,11 @@
       "author_name": "Les Patriotes",
       "published_at": "2026-11-10 13:11",
       "text": "[Retweet de @LaureAngeOrange] Un vrai candidat anti-système est un candidat hors-système... qui n'a JAMAIS fait partie du système...qui sait CLAQUER LA PORTE d'un parti anti-système quand ce dernier intègre le système en renonçant au FREXIT!\nPHILIPPOT est ce candidat.\nPatriote, droit, cohérent.\nSoutien TOTAL!"
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-10 13:11",
+      "text": "[Retweet de @f_philippot] Depuis Colombey-Les-Deux-Églises : « Seul le message d’indépendance nationale du Général de Gaulle, le message de la France éternelle, sauvera la France ! »\n\nVidéo ⤵️"
     },
     {
       "author_name": "Les Patriotes",
@@ -6871,6 +6856,11 @@
       "author_name": "Europe 1",
       "published_at": "2026-11-10 19:47",
       "text": "Teddy Riner : \"C'est pas les JO, mais on est quelques-uns à être rentrés en étant de la société civile, à avoir vu que c'était compliqué, difficile, qu'il fallait être préparé, mais certains s'en sont très bien sortis.\" atteste @AgnesRunacher #Europe1 #Europe1Soir @pierredevilno"
+    },
+    {
+      "author_name": "Eric Ciotti",
+      "published_at": "2026-11-10 19:47",
+      "text": "[Retweet de @partiudr] 📚 Lycées et universités, l’emprise islamo-gauchistes est-elle réversible ?\n\n🎙️Louise Montangon, Maxime Michelet et Thaddée le Men sont venus parler d’éducation !\n\n🎥 Retrouvez l’intégralité de cette conférence sur YouTube\nhttps://www.youtube.com/watch?v=dDtT-LjyOtg"
     },
     {
       "author_name": "Eric Ciotti",
