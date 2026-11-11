@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-11 22:40",
-  "period": "du 2026-11-10 22:40 au 2026-11-11 22:40",
-  "new_period": "du 2026-11-11 20:00 au 2026-11-11 22:40",
-  "context_period": "du 2026-11-10 22:40 au 2026-11-11 20:00",
+  "generated_at": "2026-11-11 23:10",
+  "period": "du 2026-11-10 23:10 au 2026-11-11 23:10",
+  "new_period": "du 2026-11-11 20:00 au 2026-11-11 23:10",
+  "context_period": "du 2026-11-10 23:10 au 2026-11-11 20:00",
   "coverage_complete": true,
-  "new_count": 158,
-  "context_count": 1329,
-  "duplicates_merged": 103,
+  "new_count": 177,
+  "context_count": 1294,
+  "duplicates_merged": 106,
   "empty_removed": 4,
   "new": [
     {
@@ -79,7 +79,10 @@
     {
       "author_name": "Polémia",
       "published_at": "2026-11-11 20:05",
-      "text": "🇩🇪 La marche de l’AfD vers le pouvoir – Entretien avec Benedikt Kaiser\n\n« Dans ce contexte, l’AfD apparaît à un nombre croissant d’électeurs, notamment à d’anciens abstentionnistes, comme la seule force qui ne porte aucune responsabilité dans ce grand malaise, puisqu’elle n’a"
+      "text": "🇩🇪 La marche de l’AfD vers le pouvoir – Entretien avec Benedikt Kaiser\n\n« Dans ce contexte, l’AfD apparaît à un nombre croissant d’électeurs, notamment à d’anciens abstentionnistes, comme la seule force qui ne porte aucune responsabilité dans ce grand malaise, puisqu’elle n’a",
+      "also_by": [
+        "Jean-Yves Le Gallou"
+      ]
     },
     {
       "author_name": "Jean-Yves Le Gallou",
@@ -127,7 +130,10 @@
     {
       "author_name": "OMERTA",
       "published_at": "2026-11-11 20:15",
-      "text": "RWANDA, FRANCE : QUAND LA MÉMOIRE DICTE LA DIPLOMATIE \nJoséphine d’Herbais reçoit Pierre Conesa pour un grand entretien consacré à la géopolitique mémorielle. Ancien haut fonctionnaire du ministère des Armées, il revient sur son expérience du dossier rwandais, ainsi que sur la"
+      "text": "RWANDA, FRANCE : QUAND LA MÉMOIRE DICTE LA DIPLOMATIE \nJoséphine d’Herbais reçoit Pierre Conesa pour un grand entretien consacré à la géopolitique mémorielle. Ancien haut fonctionnaire du ministère des Armées, il revient sur son expérience du dossier rwandais, ainsi que sur la",
+      "also_by": [
+        "Régis Le Sommier"
+      ]
     },
     {
       "author_name": "Objectif Remigration",
@@ -225,7 +231,10 @@
     {
       "author_name": "Le Parisien | politique",
       "published_at": "2026-11-11 20:39",
-      "text": "Présidentielle 2027 : la députée de Martinique Béatrice Bellay « rétropédale » sur son parrainage évoqué à Teddy Riner https://l.leparisien.fr/jTor"
+      "text": "Présidentielle 2027 : la députée de Martinique Béatrice Bellay « rétropédale » sur son parrainage évoqué à Teddy Riner https://l.leparisien.fr/jTor",
+      "also_by": [
+        "Le Parisien"
+      ]
     },
     {
       "author_name": "CNEWS",
@@ -423,7 +432,10 @@
     {
       "author_name": "Marion Maréchal",
       "published_at": "2026-11-11 21:20",
-      "text": "Aux poilus tombés pour la France, à nos héros connus et inconnus : honneur, gratitude et fidélité."
+      "text": "Aux poilus tombés pour la France, à nos héros connus et inconnus : honneur, gratitude et fidélité.",
+      "also_by": [
+        "La Cocarde Étudiante"
+      ]
     },
     {
       "author_name": "Fdesouche.com est une revue de presse",
@@ -812,189 +824,104 @@
       "author_name": "CNEWS",
       "published_at": "2026-11-11 22:37",
       "text": "«Pour que Jean-Luc Mélenchon qualifie Teddy Riner de \"mec de droite\", c'est qu'il sent le danger», estime le député Modem Richard Ramos https://www.cnews.fr/france/2026-11-11/pour-que-jean-luc-melenchon-qualifie-teddy-riner-de-mec-de-droite-cest-quil-sent"
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-11 22:42",
+      "text": "Teddy Riner candidat à la présidentielle : entrepreneur ultralibéral, ancien ministre d’Emmanuel Macron… qui sont les soutiens du judoka ? https://l.leparisien.fr/rBpN"
+    },
+    {
+      "author_name": "Tribune Populaire🌐",
+      "published_at": "2026-11-11 22:43",
+      "text": "🗳️🇫🇷ANALYSE - Christine Lagarde testée pour la première fois dans un sondage, et elle fait déjà jeu égal avec Édouard Philippe\n\nLe Pen en tête avec 27 %, Mélenchon derrière à 19 %. Ensuite, quatre candidats à égalité à 8 % : Glucksmann, Philippe, Lisnard… et Christine Lagarde."
+    },
+    {
+      "author_name": "Régis Le Sommier",
+      "published_at": "2026-11-11 22:43",
+      "text": "[Retweet de @FrancoisCocq] 🗳️📈 Merci à @Cluster_17 d’avoir eu la bonne idée d’un tel sondage à 18 candidats, sans filtre, qui permet à chacun d’exprimer une adhésion plutôt que s’auto-corseter dans le vote sacrificiel.\n\nEt des vérités politiques apparaissent crûment :\n\n1) Attal n’existe pas auprès des"
+    },
+    {
+      "author_name": "Régis Le Sommier",
+      "published_at": "2026-11-11 22:44",
+      "text": "[Retweet de @MarioNawfal] 🇷🇺🇺🇦 Russia says swapping territory with Ukraine is totally OFF the table...\n\nMoscow's chief negotiator Vladimir Medinsky made that clear after 2 days of peace talks in Abu Dhabi.\n\nBoth sides reported some progress, but U.S. mediators said there's still little trust between them"
+    },
+    {
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-11 22:46",
+      "text": "Créteil (94) : Guillaume, converti à l'islam et qui serait fiché S, soupçonné d'avoir tué et éviscéré sa propre mère âgée de 69 ans. La piste des troubles psys privilégiée par les enquêteurs (MàJ)\n\nhttps://www.fdesouche.com/2026/11/11/creteil-94-femme-69-ans-retrouvee-evisceree-fils-interpelle/"
+    },
+    {
+      "author_name": "Samuel Lafont",
+      "published_at": "2026-11-11 22:49",
+      "text": "Des photos d’Edouard Philippe seront-elles distribuées sur place pour obtenir une dédicace, @NinaBouffet ?\n[Cite @NinaBouffet] Nous vous attendons nombreux pour rencontrer @EPhilippe_LH à Rilleux La Pape ! \n\n➡️ https://action.edouardphilippe.fr/online-form/52e03745-reunion-publique-avec-edouard-philippe-a-rillieux-la-pape"
+    },
+    {
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-11 22:51",
+      "text": "On ignorait ce mercredi soir l’état de santé des fonctionnaires. Le suspect, interpellé peu de temps après les faits, a été placé en garde à vue pour tentative d’homicide volontaire.\n\nL’état de santé des deux victimes est pour l’heure incertain. Le suspect a finalement été ..."
+    },
+    {
+      "author_name": "La Cocarde Étudiante",
+      "published_at": "2026-11-11 22:51",
+      "text": "[Retweet de @Frontieresmedia] 🚨 ALERTE - Marion Maréchal, Anne Sicard et une centaine de militants du RNJ, IDL, UDR et la Cocarde se rassemblent à Paris pour un hommage du 11-Novembre."
+    },
+    {
+      "author_name": "La Cocarde Étudiante",
+      "published_at": "2026-11-11 22:51",
+      "text": "[Retweet de @Frontieresmedia] 11-Novembre - Marseillaise pour clôturer l’hommage à Paris avec @MarionMarechal , Anne Sicard, le RNJ, IDL, UDR et La Cocarde Étudiante."
+    },
+    {
+      "author_name": "La Cocarde Étudiante",
+      "published_at": "2026-11-11 22:51",
+      "text": "[Retweet de @Frontieresmedia] 🚨 11-Novembre - Dépôt de gerbes de Marion Maréchal et Anne Sicard devant un monument aux morts à Paris."
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-11 22:52",
+      "text": "Ski extrême, spas d’exception, restaurants d’altitude… Les nouvelles expériences à découvrir absolument cet hiver https://l.lepoint.fr/d36"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-11 22:53",
+      "text": "Jules Torres, journaliste, sur une potentielle primaire de la droite et du centre : «Leur seul objectif est d'être au second tour de l'élection présidentielle», dans #100Politique \n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
+      "published_at": "2026-11-11 22:53",
+      "text": "[Retweet de @dannyconversano] Voilà, c'est officiel : Eric Zemmour est candidat à la présidentielle 2027.\nSon affiche de campagne a un côté archéo-futuriste qui ne me déplaît pas !\nOn reviendra sur cette annonce et sur les dynamiques actuelles dans un format spécial qui arrive bientôt sur la chaîne. Le temps"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-11 22:54",
+      "text": "Richard Ramos, député MoDem du Loiret, sur les différentes figures politiques : «Il n'y a plus de lien charnel avec le peuple», dans #100Politique\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-11 22:54",
+      "text": "Najwa El Haïté, avocate, sur la vidéo polémique du youtubeur Tibo InShape : «On ne sait plus ce que veut dire le drapeau français», dans #100Politique \n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Damien Rieu",
+      "published_at": "2026-11-11 22:55",
+      "text": "Ok mais pour les centaines de milliers d’individus qui se comportent comme des colons ici, chez nous, rien ?\n[Cite @Malbrunot] La France passe à l'action contre les colons israéliens. Elle a interdit d'entrer sur son territoire Yossi Dagan, qui \"fait l'objet d'une interdiction administrative du territoire en raison de son rôle actif dans la mise en oeuvre de la politique de colonisation de la"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-11 22:56",
+      "text": "[Retweet de @CNEWS_Sport] Des idées qui risquent de faire réagir. ➡️ https://mrf.lu/271YJ"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-11 23:03",
+      "text": "« Je n’avais jamais vu ça auparavant » : l’affreuse blessure du boxeur Zak Miller, méconnaissable avec le front gonflé\n➡️ https://l.leparisien.fr/quBT"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-11 23:04",
+      "text": "L'édito de Mickaël Dorian : «Paris : plus d'argent… Ça dépend pour qui ?»"
     }
   ],
   "context": [
-    {
-      "author_name": "Le Point",
-      "published_at": "2026-11-10 22:40",
-      "text": "Esprit d’équipe, atouts de la capitale ou encore pratiques managériales : le dernier baromètre Paris Workplace, dévoilé le 4 novembre, s’est intéressé à ce qui fait la « French touch » au travail.\n➡️ https://l.lepoint.fr/IBM"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-10 22:40",
-      "text": "La Chine, un exemple à suivre ? ➡️ https://mrf.lu/2YYKH"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-10 22:41",
-      "text": "Au Portugal, écoles et services publics fermés face à l'arrivée de la tempête Charles https://ow.ly/GBNj106IhpV"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-10 22:44",
-      "text": "💬 «Mais c’est quoi ce plateau»\n\nAprès une séquence tendue avec le député L’Après Alexis Corbière, Louise Montangon, étudiante et responsable de l’UNI, quitte le plateau de BFMTV\n➡️ https://l.leparisien.fr/FnMH"
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-10 22:44",
-      "text": "Une OQTF prononcée doit être une OQTF exécutée !\n\nAvec Marine et Jordan, l'État se donnera les moyens de faire appliquer ses décisions et de garantir le respect de la loi.\n\n🚀 Rejoignez la campagne : https://marinelepen.com/\n\n#FaceABFM"
-    },
-    {
-      "author_name": "Le Jarl",
-      "published_at": "2026-11-10 22:44",
-      "text": "Donc c’est bien toute l’équipe Macron qui est derrière cette dinguerie. C’est hallucinant ! Ils ne s’arrêteront jamais. Ils ont foutu la France en l’air mais ils veulent continuer le travail."
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-10 22:46",
-      "text": "Nous ne pouvons plus hypothéquer l’avenir de nos enfants en laissant filer la dette. Maîtriser nos finances, c’est défendre notre souveraineté.\n\nNous inscrirons la règle d’or dans la Constitution : plus aucun budget ne pourra aggraver la dette.\n\n📖 Commandez « Gouverner » :"
-    },
-    {
-      "author_name": "Tribune Populaire🌐",
-      "published_at": "2026-11-10 22:47",
-      "text": "📁🇫🇷FLASH INFO - Séquence completement dingue ou Macron déclare : \"Faire des enfants une priorité n'est pas seulement un devoir moral, mais aussi un investissement pertinent. De nombreux experts ont avancé des chiffres démontrant que lorsqu'on investit 1 € dans l'enfance, le"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-10 22:51",
-      "text": "Le pape, modèle d'abnégation. ➡️ https://mrf.lu/2Y7Zp"
-    },
-    {
-      "author_name": "Bouli ☃️",
-      "published_at": "2026-11-10 22:51",
-      "text": "[Retweet de @Historionome] La France de la fin du règne de Macron, à six semaines de Noël, c'est quand même quelque chose : on arrive au moment où les panneaux en bois sont là à demeure. Après les contrôles de sécurité dans les aéroports, les blocs de béton partout pour éviter que les foules soient"
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-10 22:52",
-      "text": "Trop de propriétaires n’osent plus louer leur logement, de peur qu’il soit squatté ou dégradé. Le droit de propriété est aujourd’hui menacé.\n\nChef du gouvernement, je demanderai aux préfets de recourir à la force publique dans les 24 heures pour chaque logement squatté.\n\n📖"
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-10 22:52",
-      "text": "[Retweet de @JulienOdoul] Pour en finir avec la ruine du « quoi qu'il en coûte », @MLP_officiel inscrira la règle d'or dans la Constitution. L'État doit redevenir responsable : nous refusons de léguer des milliards de dette à nos enfants.\n\n#FACEABFM"
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-10 22:52",
-      "text": "[Retweet de @JulienGabarron] \"Pour La France Insoumise, l'objectif est de disloquer la France. \n\nQuand on explique que \"la violence est légitime\" et qu'on souffle sur les braises, alors on a une responsabilité immense.\" #FaceaBFM"
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-10 22:53",
-      "text": "[Retweet de @Flo_Joubert] « Nous engagerons une révision de fond en comble de notre politique sécuritaire et pénale. \n\nIl faut des peines minimales et que l’atteinte à l’intégrité physique retrouve un caractère sacré dans le droit français. »  \n\n#FaceABFM"
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-10 22:53",
-      "text": "[Retweet de @Meurin_P] \"J'en ai ras-le-bol que l'on mettre systématiquement la France sur le banc des accusés, que l'on demande aux Français de s'excuser d'être patriotes.\"\n\nCela fait du bien : marre de la repentance !\n\n #FACEABFM"
-    },
-    {
-      "author_name": "Tribune Populaire🌐",
-      "published_at": "2026-11-10 22:54",
-      "text": "📂🇫🇷 FLASH INFO – Cyril Hanouna dévoile les coulisses de l’opération Teddy Riner, poussé par des proches de Macron !\n\nProchaine étape pour le clan Macron : publier un sondage plaçant Teddy Riner à 10 %, devant Attal et Philippe !"
-    },
-    {
-      "author_name": "Jordan Bardella",
-      "published_at": "2026-11-10 22:54",
-      "text": "Nous voulons instaurer une règle d'or et opérer la plus grande opération de nettoyage des finances publiques depuis le plan Pinay-Rueff sous le Général de Gaulle : il faut lutter contre les gaspillages considérables d'argent public !"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-10 22:55",
-      "text": "Driss Ghali, essayiste, sur les dernières violences à Chelles : «Si Laurent Nuñez et Emmanuel Macron ne font pas le boulot, ils sont complices. Je ne veux pas entendre parler d'explications sociologiques», dans #100Politique"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-10 22:55",
-      "text": "⚫L’influenceur jeux vidéo Retro Jake emporté par une grave insuffisance cardiaque à seulement 29 ans\n➡️ https://l.leparisien.fr/9FU1"
-    },
-    {
-      "author_name": "Jordan Bardella",
-      "published_at": "2026-11-10 22:56",
-      "text": "Nous voulons réparer le système des retraites : nous voulons que les jeunes rentrent plus tôt sur le marché du travail, et nous souhaitons que les salaires des seniors bénéficient d'une exonération de cotisations."
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-10 23:00",
-      "text": "Un décret attendu de longue date.→https://l.lefigaro.fr/dyKG"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-10 23:00",
-      "text": "Une nouvelle affaire. ➡️ https://mrf.lu/2Y7RH"
-    },
-    {
-      "author_name": "Causeur.fr",
-      "published_at": "2026-11-10 23:00",
-      "text": "À l’approche de 2027, un « Appel aux juifs·ves de France » invite les Juifs français à rejoindre une « gauche de rupture » @causeur https://www.causeur.fr/2027-appel-aux-juifsves-de-france-en-tant-que-juifs-de-gauche-337004"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-10 23:02",
-      "text": "Entre film d’horreur et récit familial pour Noël, que vaut le «Scrooge» avec Johnny Depp ?\n\nNotre critique ➡️ https://l.leparisien.fr/v2lC"
-    },
-    {
-      "author_name": "Bouli ☃️",
-      "published_at": "2026-11-10 23:02",
-      "text": "On se croirait en France.\n[Cite @m6info] En Allemagne, l'ouverture d'un restaurant a dégénéré ce dimanche. Le propriétaire proposait une offre à un euro le kebab pour célébrer le lancement. Plus de 300 personnes se sont réunies sur place. Très vite, la situation a dégénéré. La police envoyée en renfort a été prise à"
-    },
-    {
-      "author_name": "Bouli ☃️",
-      "published_at": "2026-11-10 23:03",
-      "text": "[Retweet de @realJeremyCarl] Houellebecq is one of the most highly-regarded European writers of the 21st century.\n\nThe fact that he is being formally investigated for his comments on Muslims and The Great Replacement is a further sign of the collapse of free speech in Europe."
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-10 23:03",
-      "text": "L’âge d’or de la France n’est pas derrière nous. Nos entrepreneurs, nos PME, nos industriels et nos grands groupes ont tous les atouts pour réussir : il ne manque à notre pays que la fierté de lui-même.\n\nNous libérerons nos entreprises des normes, des contraintes et d’une"
-    },
-    {
-      "author_name": "Observatoire du journalisme (Ojim)",
-      "published_at": "2026-11-10 23:03",
-      "text": "[Retweet de @ojim_france] 🚨Léa Salamé est issue d’une très grosse famille de diamantaires. Dès son plus jeune âge, elle a été inscrite dans des écoles réservées à l’élite.\n\nGrâce à de puissants appuis familiaux, elle est lancée à la télévision par Jean-Pierre Elkabbach.\n\nDécouvrez son portrait ⤵️"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-10 23:04",
-      "text": "L'édito de Mickaël Dorian : «Censure de CNEWS : déplaire n'est pas un délit», dans #SoirInfo"
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-10 23:04",
-      "text": "« Le destin de la jeunesse française n’est pas d’agiter le drapeau palestinien, d’insulter la police ou de répéter que l’État tue. Une immense majorité de nos jeunes aime la France et souffre de la voir abîmée. »\n\nC’est à cette jeunesse que nous voulons redonner confiance, fierté"
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-10 23:04",
-      "text": "Le programme de Jean-Luc Mélenchon tient du livre pour enfants : nationaliser des entreprises, confisquer le patrimoine des familles, abolir la loi anti-squat, désarmer la police…\n\nLes Français méritent mieux que des fables.\n\n📖 Commandez « Gouverner » : https://www.amazon.fr/dp/2213736499"
-    },
-    {
-      "author_name": "Tribune Populaire🌐",
-      "published_at": "2026-11-10 23:05",
-      "text": "On comprend rapidement, à travers cette séquence, quelles sont les forces qui se cachent derrière Teddy Riner.\n\n« Le programme est bouclé par des chefs d’entreprise. »\n\n« Il y a d’anciens ministres de Macron. »\n\n« Libéral, mais pas trop. »\n\nBref, c’est Macron qui fait du judo.\n[Cite @TribunePop23] 📂🇫🇷 FLASH INFO – Cyril Hanouna dévoile les coulisses de l’opération Teddy Riner, poussé par des proches de Macron !\n\nProchaine étape pour le clan Macron : publier un sondage plaçant Teddy Riner à 10 %, devant Attal et Philippe !"
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-10 23:06",
-      "text": "Notre histoire est belle et glorieuse : d’épreuve en épreuve, la France n’a jamais cessé d’étonner le monde. \n\nNous n’avons pas à avoir honte de transmettre ses héros à notre jeunesse.\n\n📖 Commandez « Gouverner » : https://www.amazon.fr/dp/2213736499\n\n#FaceABFM"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-10 23:07",
-      "text": "⚫ «Une personne si incroyable, si belle, si lumineuse»\n\nL'autrice de bande dessinée Louisa Lesage est décédée\n➡️ https://l.leparisien.fr/cGcJ"
-    },
-    {
-      "author_name": "Bouli ☃️",
-      "published_at": "2026-11-10 23:08",
-      "text": "Elle a raison : les pilotes auront une vie de famille quand ils auront été remplacés par une IA.\n[Cite @LeFigaroTV] «Notre combat, c’est de féminiser certains métiers. Il faut absolument qu’il y ait plus de femmes dans les filières scientifiques ! Il faut expliquer, dans les écoles, que ce sont des métiers qui n’empêchent pas d’avoir une vie de famille», fait valoir Anne Rigail, directrice"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-10 23:09",
-      "text": "Blocus des lycées : «Si Laurent Nuñez et Emmanuel Macron ne font pas le boulot, ils sont complices», tranche Driss Ghali https://www.cnews.fr/france/2026-11-10/blocus-des-lycees-si-laurent-nunez-et-emmanuel-macron-ne-font-pas-le-boulot-ils"
-    },
     {
       "author_name": "Jordan Bardella",
       "published_at": "2026-11-10 23:11",
@@ -6624,6 +6551,11 @@
       "author_name": "Comité Trump France",
       "published_at": "2026-11-11 17:39",
       "text": "Qu'est-ce que c'est que cette horreur encore aux Galeries Lafayette ? \n\nQuand va-t-on stopper cet enlaidissement du monde ? \n\nPourquoi ces \"artistes\" ont-ils une particulière jouissance à saccager ce que leurs ancêtres ont fait de beau ?"
+    },
+    {
+      "author_name": "Tribune Populaire🌐",
+      "published_at": "2026-11-11 17:40",
+      "text": "[Retweet de @TribunePop23] 📁🇫🇷FLASH INFO - Séquence completement dingue ou Macron déclare : \"Faire des enfants une priorité n'est pas seulement un devoir moral, mais aussi un investissement pertinent. De nombreux experts ont avancé des chiffres démontrant que lorsqu'on investit 1 € dans l'enfance, le"
     },
     {
       "author_name": "Europe 1",
