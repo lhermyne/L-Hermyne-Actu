@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-11 01:04",
-  "period": "du 2026-11-10 01:04 au 2026-11-11 01:04",
-  "new_period": "du 2026-11-10 20:00 au 2026-11-11 01:04",
-  "context_period": "du 2026-11-10 01:04 au 2026-11-10 20:00",
+  "generated_at": "2026-11-11 01:34",
+  "period": "du 2026-11-10 01:34 au 2026-11-11 01:34",
+  "new_period": "du 2026-11-10 20:00 au 2026-11-11 01:34",
+  "context_period": "du 2026-11-10 01:34 au 2026-11-10 20:00",
   "coverage_complete": false,
-  "new_count": 458,
-  "context_count": 1505,
-  "duplicates_merged": 149,
+  "new_count": 461,
+  "context_count": 1499,
+  "duplicates_merged": 152,
   "empty_removed": 12,
   "new": [
     {
@@ -954,7 +954,10 @@
     {
       "author_name": "Jordan Bardella",
       "published_at": "2026-11-10 21:24",
-      "text": "On achète la paix sociale depuis des années dans notre pays. \n\nNous ne serons pas de ceux qui ferment les yeux, parce que si on ne reprend pas le contrôle maintenant, on le perdra définitivement !"
+      "text": "On achète la paix sociale depuis des années dans notre pays. \n\nNous ne serons pas de ceux qui ferment les yeux, parce que si on ne reprend pas le contrôle maintenant, on le perdra définitivement !",
+      "also_by": [
+        "Reprenons le contrôle !"
+      ]
     },
     {
       "author_name": "Le Parisien | politique",
@@ -1156,7 +1159,8 @@
       "published_at": "2026-11-10 21:46",
       "text": "La France insoumise ne veut pas continuer la France, mais la disloquer. \n\nQuand on explique, comme le maire de Saint-Denis, que \"la violence peut être légitime\", on a une responsabilité très lourde dans la dégradation du climat public.",
       "also_by": [
-        "Rassemblement National"
+        "Rassemblement National",
+        "Reprenons le contrôle !"
       ]
     },
     {
@@ -2360,52 +2364,40 @@
     {
       "author_name": "Le Parisien",
       "published_at": "2026-11-11 00:59",
-      "text": "Pete Hegseth, le ministre de la Défense de Donald Trump, sauvé par un vote des députés du parti républicain\n➡️ https://l.leparisien.fr/GgH1"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-10 01:06",
-      "text": "Le calendrier de l’Avent 2026 à 130 euros de Kim Kardashian très critiqué\n\nPlusieurs consommateurs dénoncent à la fois le prix élevé et la piètre qualité des produits cosmétiques contenus dans l'objet. La marque de la star a réagi aux critiques\n\n➡️ https://l.leparisien.fr/v2lt"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-10 01:17",
-      "text": "« Les vrais soldats l’adorent » : le ministre de la Défense américain visé par une procédure de destitution mais soutenu par Trump\n➡️ https://l.leparisien.fr/AAs4",
+      "text": "Pete Hegseth, le ministre de la Défense de Donald Trump, sauvé par un vote des députés du parti républicain\n➡️ https://l.leparisien.fr/GgH1",
       "also_by": [
         "Le Parisien | politique"
       ]
     },
     {
+      "author_name": "Valeurs actuelles",
+      "published_at": "2026-11-11 01:17",
+      "text": "🗞️ TRIBUNE. En affichant son soutien à Mistral, Gabriel Attal défend la souveraineté technologique française. Mais comment concilier cette ambition avec la protection des auteurs et des créateurs, alors que son groupe parlementaire a contribué à bloquer… https://l.valeursactuelles.com/Fdq"
+    },
+    {
       "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-10 01:18",
-      "text": "Augmentation du smic, prime carburant… Ce qu’il faut retenir des annonces du gouvernement après la conférence sociale https://l.leparisien.fr/h11p"
+      "published_at": "2026-11-11 01:22",
+      "text": "« Ils sont devenus un handicap » : après les élections américaines de mi-mandat, le lobby pro-Israël en détresse\n➡️ https://l.leparisien.fr/SSF3",
+      "also_by": [
+        "Le Parisien"
+      ]
     },
     {
-      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
-      "published_at": "2026-11-10 01:23",
-      "text": "[Retweet de @VALENSIAGA_XL] @dannyconversano J’ai regardé votre interview avec Thaïs d’Escufon et je vous ai trouvé particulièrement pertinent. \n\nJe vous ai découvert il y a environ deux ans, lors de votre passage sur Frontières, et je regrette sincèrement qu’on ne vous entende pas davantage. \n\nVotre parole mérite plus de"
-    },
-    {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-10 01:24",
-      "text": "[Retweet de @F_Desouche] Cinq autres hommes mis en examen, un groupe Telegram privé et des enfants confiés à un assistant familial : les révélations du Parisien sur l’affaire Cottineau. \n https://www.fdesouche.com/2026/11/09/reseau-butterfly-cottineau-ex-candidat-lfi-cinq-mis-en-examen/"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-10 01:29",
-      "text": "Amélie Nothomb confirme quitter Albin Michel pour suivre chez Gallimard son attachée de presse licenciée pour faute grave\n➡️ https://l.leparisien.fr/bOwK"
-    },
-    {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-10 01:30",
-      "text": "Lors de son synode à Wurtzbourg, la présidente du Conseil de l'Église protestante allemande Kirsten Fehrs a réaffirmé son opposition aux thèses de l'AfD. \n https://www.fdesouche.com/2026/11/10/allemagne-eglise-protestante-synode-ekd-distances-afd-kirsten-fehrs/"
-    },
+      "author_name": "Clément Macchi",
+      "published_at": "2026-11-11 01:31",
+      "text": "[Retweet de @cgtvoff] 🩵 𝐋𝐚 𝐟𝐚𝐦𝐢𝐥𝐥𝐞 𝐂𝐆𝐓𝐕 𝐬'𝐚𝐠𝐫𝐚𝐧𝐝𝐢𝐭 𝐝𝐞́𝐣𝐚̀ !\n\nNous sommes heureux de (déjà) agrandir la famille #CGTV\n\nSi tu es passionné(e) par les marques, qu'elles n'ont aucun secret pour toi, que tu sais cibler LA MARQUE PARTENAIRE idéale pour chaque cas précis\n\nAlors ce"
+    }
+  ],
+  "context": [
     {
       "author_name": "Médias-Presse-Info",
       "published_at": "2026-11-10 01:35",
       "text": "Mardi 10 novembre - Saint André Avellin, Confesseur - Saints Tryphon, Respice, Martyrs et Sainte Nymphe, Vierge et Martyre - https://www.medias-presse.info/mardi-10-novembre-saint-andre-avellin-confesseur-saints-tryphon-respice-martyrs-et-sainte-nymphe-vierge-et-martyre/252689..."
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-10 01:39",
+      "text": "« Les vrais soldats l’adorent » : le ministre de la Défense américain visé par une procédure de destitution mais soutenu par Trump\n➡️ https://l.leparisien.fr/KxuL"
     },
     {
       "author_name": "Le Parisien",
