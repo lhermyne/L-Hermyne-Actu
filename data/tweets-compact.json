@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-11 05:35",
-  "period": "du 2026-11-10 05:35 au 2026-11-11 05:35",
-  "new_period": "du 2026-11-10 20:00 au 2026-11-11 05:35",
-  "context_period": "du 2026-11-10 05:35 au 2026-11-10 20:00",
+  "generated_at": "2026-11-11 06:05",
+  "period": "du 2026-11-10 06:05 au 2026-11-11 06:05",
+  "new_period": "du 2026-11-10 20:00 au 2026-11-11 06:05",
+  "context_period": "du 2026-11-10 06:05 au 2026-11-10 20:00",
   "coverage_complete": false,
-  "new_count": 482,
-  "context_count": 1469,
-  "duplicates_merged": 155,
+  "new_count": 487,
+  "context_count": 1461,
+  "duplicates_merged": 157,
   "empty_removed": 12,
   "new": [
     {
@@ -2501,7 +2501,10 @@
     {
       "author_name": "Le Parisien | politique",
       "published_at": "2026-11-11 05:25",
-      "text": "« J’ai prouvé que tout le monde avait tort » : un militant fait dépénaliser l’homosexualité à Trinité-et-Tobago\n➡️ https://l.leparisien.fr/6aZv"
+      "text": "« J’ai prouvé que tout le monde avait tort » : un militant fait dépénaliser l’homosexualité à Trinité-et-Tobago\n➡️ https://l.leparisien.fr/6aZv",
+      "also_by": [
+        "Le Parisien"
+      ]
     },
     {
       "author_name": "Gilbert Collard",
@@ -2512,54 +2515,40 @@
       "author_name": "Sud Radio",
       "published_at": "2026-11-11 05:29",
       "text": "🇫🇷 Un siècle après la Grande Guerre, si la France était attaquée demain :\n\n🪖Seriez-vous prêts à la défendre ?\n\n📻Votre avis nous intéresse dans #LeGrandMatin ! Réagissez en commentaires."
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-10 05:49",
-      "text": "✊ Mobilisation étudiante : nouvelle grève prévue aujourd'hui en France\n\nhttps://www.sudradio.fr/societe/crise-dans-leducation-etudiants-lyceens-et-enseignants-appellent-a-une-nouvelle-journee-daction-mardi"
-    },
-    {
-      "author_name": "Ni Oubli Ni Pardon",
-      "published_at": "2026-11-10 05:50",
-      "text": "05/2021 Sylvie Tellier, Miss France en 2002, directrice générale de la société Miss France et de Miss Europe Organisation, a partagé une vidéo d’elle sur son compte Instagram se faisant vacciner avec le commentaire suivant : « Alors, ça fait pas mal du tout, il faut y aller,"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-10 05:54",
-      "text": "Présidentielle 2027 : La France insoumise (LFI) relance son running club à Paris et pourrait l’étendre à d’autres villes de France\n➡️ https://l.leparisien.fr/fq0h"
-    },
-    {
-      "author_name": "Causeur.fr",
-      "published_at": "2026-11-10 06:00",
-      "text": "\"Il n’y a pas eu de surprise. La sanction est tombée. Lourde. Très lourde. Les Républicains ont été battus sur tous les fronts lors des élections de mi-mandat...\"\n\nhttps://www.causeur.fr/comment-les-republicains-peuvent-transformer-un-revers-electoral-historique-en-opportunite-strategique-pour-2028-336983"
-    },
-    {
-      "author_name": "Le Point",
-      "published_at": "2026-11-10 06:00",
-      "text": "Montres de bandits aux enchères : la justice brade le butin, ce 10 novembre\n\nPar @ArthurFryd \nhttps://l.lepoint.fr/cRv"
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-10 06:00",
-      "text": "Le philosophe analyse en profondeur les dessous d’une société française «désorientée». →https://l.lefigaro.fr/4eXH"
     },
     {
       "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-10 06:01",
-      "text": "Présidentielle 2027 : la cote de popularité de David Lisnard au plus haut, celle d’Emmanuel Macron historiquement basse, selon un nouveau sondage https://l.leparisien.fr/Kxuk"
+      "published_at": "2026-11-11 05:48",
+      "text": "Guerre en Ukraine : une arme encore plus dangereuse que la précédente, Moscou a développé une nouvelle mine antipersonnelle\n➡️ https://l.leparisien.fr/sVKL",
+      "also_by": [
+        "Le Parisien"
+      ]
     },
     {
-      "author_name": "L'Express",
-      "published_at": "2026-11-10 06:03",
-      "text": "Selon une étude de l'institut indépendant Levada, les Russes considèrent désormais l'Europe \"décadente\" comme leur principal ennemi.\n\n➡️ https://l.lexpress.fr/oEG https://l.lexpress.fr/oEG"
+      "author_name": "Ni Oubli Ni Pardon",
+      "published_at": "2026-11-11 05:50",
+      "text": "07/2021 Ils sont serveurs, cuisiniers ou barmans et sont obligés de se faire vacciner afin de compléter leur pass sanitaire s'ils veulent poursuivre leur activité professionnelle. Pourtant, ces professions n'étaient pas prioritaires au début de la campagne de vaccination. À"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-11 05:51",
+      "text": "🗳️#Presidentielle2027 : Éric Zemmour officialise sa candidature !\n\nhttps://www.sudradio.fr/societe/eric-zemmour-annonce-sa-candidature-a-la-presidentielle-pour-conserver-une-france-francaise"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-10 06:04",
-      "text": "📰 La une du Parisien du 10 novembre\n\n➡️ https://l.leparisien.fr/iL5l"
+      "published_at": "2026-11-11 05:53",
+      "text": "Proust, le foot… Le cardinal Vesco raconte les conditions d’emprisonnement de Christophe Gleizes en Algérie\n➡️ https://l.leparisien.fr/pMtC",
+      "also_by": [
+        "Le Parisien | politique"
+      ]
     },
+    {
+      "author_name": "Causeur.fr",
+      "published_at": "2026-11-11 06:01",
+      "text": "\"LFI et bien d’autres rêvent de mettre CNews au pas. Mais la commission des affaires culturelles et de l’éducation de l’Assemblée nationale a rejeté, mardi 10 novembre, un examen de la pétition «Supprimer CNews de l’audiovisuel français»...\"\n\nhttps://www.causeur.fr/paf-les-censeurs-petition-cnews-commission-des-affaires-culturelles-337046"
+    }
+  ],
+  "context": [
     {
       "author_name": "Sud Radio",
       "published_at": "2026-11-10 06:08",
@@ -4435,6 +4424,11 @@
       "author_name": "CNEWS",
       "published_at": "2026-11-10 10:47",
       "text": "Le Général de Gaulle était-il nationaliste ? L'historien Olivier Dard livre son analyse sur le plateau de #HDPros. \n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-10 10:47",
+      "text": "Présidentielle 2027 : la cote de popularité de David Lisnard au plus haut, celle d’Emmanuel Macron historiquement basse, selon un nouveau sondage https://l.leparisien.fr/or3h"
     },
     {
       "author_name": "Europe 1",
