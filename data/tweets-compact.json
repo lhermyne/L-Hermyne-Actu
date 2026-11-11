@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-11 14:07",
-  "period": "du 2026-11-10 14:07 au 2026-11-11 14:07",
-  "new_period": "du 2026-11-11 08:00 au 2026-11-11 14:07",
-  "context_period": "du 2026-11-10 14:07 au 2026-11-11 08:00",
+  "generated_at": "2026-11-11 14:37",
+  "period": "du 2026-11-10 14:37 au 2026-11-11 14:37",
+  "new_period": "du 2026-11-11 08:00 au 2026-11-11 14:37",
+  "context_period": "du 2026-11-10 14:37 au 2026-11-11 08:00",
   "coverage_complete": false,
-  "new_count": 610,
-  "context_count": 1261,
-  "duplicates_merged": 166,
+  "new_count": 646,
+  "context_count": 1195,
+  "duplicates_merged": 163,
   "empty_removed": 10,
   "new": [
     {
@@ -2685,7 +2685,10 @@
     {
       "author_name": "Jordan Bardella",
       "published_at": "2026-11-11 13:04",
-      "text": "À #Amilly, dans le Loiret, nous nous inclinons devant la mémoire de ceux qui, en 1914, ont tout sacrifié pour que la France demeure. \n\nNos soldats avaient vingt ans. Ils avaient une famille, des amours, des rêves et un avenir. Ils ont quitté leur foyer pour affronter l’enfer des"
+      "text": "À #Amilly, dans le Loiret, nous nous inclinons devant la mémoire de ceux qui, en 1914, ont tout sacrifié pour que la France demeure. \n\nNos soldats avaient vingt ans. Ils avaient une famille, des amours, des rêves et un avenir. Ils ont quitté leur foyer pour affronter l’enfer des",
+      "also_by": [
+        "Rassemblement National"
+      ]
     },
     {
       "author_name": "Régis Le Sommier",
@@ -3058,7 +3061,10 @@
     {
       "author_name": "Le Parisien | politique",
       "published_at": "2026-11-11 14:00",
-      "text": "« Il n’a jamais quitté Chiclayo » : le Pérou s’enflamme pour le retour du pape Léon XIV\n➡️ https://l.leparisien.fr/HfQh"
+      "text": "« Il n’a jamais quitté Chiclayo » : le Pérou s’enflamme pour le retour du pape Léon XIV\n➡️ https://l.leparisien.fr/HfQh",
+      "also_by": [
+        "Le Parisien"
+      ]
     },
     {
       "author_name": "Le Point",
@@ -3114,384 +3120,195 @@
       "author_name": "CNEWS",
       "published_at": "2026-11-11 14:06",
       "text": "Une découverte bouleversante. ➡️ https://mrf.lu/2YJ5K"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
-      "published_at": "2026-11-10 14:08",
-      "text": "Le Jour ni l’Heure : En Lomagne — La Bourdette, Plieux, vallée de l’Auroue, samedi 12 décembre 2015, 18:00:58"
     },
     {
-      "author_name": "Pierre Sautarel",
-      "published_at": "2026-11-10 14:08",
-      "text": "[Retweet de @bbntr] @FrDesouche Et les mortiers d'artifice sont les nouvelles boules puantes et clac-doigt."
-    },
-    {
-      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
-      "published_at": "2026-11-10 14:09",
-      "text": "[Retweet de @NordRants] Norwegians are worried about English infesting the Norwegian language  while everyone around them is speaking arabic and urdu. Idiots."
-    },
-    {
-      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
-      "published_at": "2026-11-10 14:09",
-      "text": "Le Jour ni l’Heure 0061 : Gustave Fayet, 1865-1925, lanterne aux buvards, s. d. (c. 1900-1905 ?), exp. Gustave Fayet, Fondation Vuitton, Paris, dimanche 1er novembre 2026, 16:25:55"
-    },
-    {
-      "author_name": "Frontières",
-      "published_at": "2026-11-10 14:09",
-      "text": "« Le président de l’Arcom m’a rappelé qu’un million de personnes s’étaient aussi mobilisées contre la fermeture de C8. »\n\nFace aux députés LFI qui brandissent le nombre de signatures de la pétition visant CNews, le président de la commission rappelle ce précédent."
-    },
-    {
-      "author_name": "Les Braves",
-      "published_at": "2026-11-10 14:10",
-      "text": "« Il n'était pas possible de procéder au Grand Remplacement sans ce que j'appelle la proclamation du dogme, à la fois criminel et imbécile, de l'inexistence des races, vers le milieu des années 70, qui permettait la submersion migratoire et, du même coup, rendait impossible toute",
-      "also_by": [
-        "Jean-Yves Le Gallou"
-      ]
-    },
-    {
-      "author_name": "Le Crapaud",
-      "published_at": "2026-11-10 14:10",
-      "text": "Si vous connaissez quelqu’un qui croit qu’il suffit que le gouvernement decrète une augmentation massive du salaire minimum pour améliorer le pouvoir d’achat, montrez-lui cette vidéo.\n\nEt si, après l’avoir regardée, cette personne n’a toujours pas changé d’avis, coupez les ponts."
+      "author_name": "CNEWS",
+      "published_at": "2026-11-11 14:08",
+      "text": "Traque des pilleurs : «L'IA pourrait nous aider, il faudrait la généraliser et mettre les moyens sur le matériel informatique», plaide Axel Ronde, président du syndicat de police CFTC, dans #PoliceJustice24H\n\nToute l'info est à retrouver sur https://cnews.fr"
     },
     {
       "author_name": "Le Point",
-      "published_at": "2026-11-10 14:11",
-      "text": "Guerre des ego, primaire cache-misère : le grand naufrage de la droite et du centre\n\n🖋️ LA CHRONIQUE de Sylvie Pierre-Brossolette https://l.lepoint.fr/xje"
+      "published_at": "2026-11-11 14:11",
+      "text": "Alain Souchon : ce que ses chansons disent de notre époque https://l.lepoint.fr/gYU"
     },
     {
-      "author_name": "Observatoire du journalisme (Ojim)",
-      "published_at": "2026-11-10 14:12",
-      "text": "🚨Charles Alloncle PREND LA DÉFENSE DE CNEWS lors de l’examen de la pétition réclamant sa fermeture : \"Ce n’est pas CNEWS que la gauche veut faire disparaître, mais LE RÉEL que cette chaîne expose\"."
-    },
-    {
-      "author_name": "Observatoire de l'immigration et de la démographie",
-      "published_at": "2026-11-10 14:12",
-      "text": "[Retweet de @INIR_net] 🇫🇷🇪🇺 We are pleased to welcome @NPM_OID, Director General of the French @ObservatoireID, as a speaker at our upcoming INIR conference, New Trends, Dynamics and Policies in Immigration – A Transatlantic Perspective.\n\n🎤 November 17, 2026 | Panel I: 10:05–11:15 | @uni_nke"
-    },
-    {
-      "author_name": "Tocsin",
-      "published_at": "2026-11-10 14:12",
-      "text": "💥 « Les dossiers Epstein ont été une épine dans le pied de Donald Trump tout au long de la campagne ! »\n\n📁 « Les dossiers Epstein ont été une épine dans le pied tout au long de la campagne. Il a été plusieurs fois humilié dans certains meetings de son propre camp. Une grande"
-    },
-    {
-      "author_name": "Occidentis",
-      "published_at": "2026-11-10 14:13",
-      "text": "🚨 « DÉGAGE ! » \n\n⚡️ Vives tensions à la commission sur la pétition visant à supprimer CNEWS. Alors que le président annonce le début du vote, le député LFI Aymeric Caron tente de l’interrompre et réclame un « débat »."
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-11 14:11",
+      "text": "[Retweet de @BVoltaire] Minute de silence : l’histoire méconnue d’un rituel né dans les tranchées | Par Eric de Mascureau\nChaque 11-Novembre, la France observe une minute de silence. Mais connaissez-vous l'histoire de ce rituel centenaire ? \n \nhttps://www.bvoltaire.fr/minute-de-silence-lhistoire-meconnue-dun-rituel-ne-dans-les-tranchees/?fsp_sid=26323"
     },
     {
       "author_name": "Reprenons le contrôle !",
-      "published_at": "2026-11-10 14:13",
-      "text": "[Retweet de @ojim_france] 🔴Bertrand Saint-Germain (docteur en Droit) : \"Si l'ARCOM est officiellement présentée comme une autorité publique indépendante, son fonctionnement démontre qu’elle est surtout une instance ÉMINEMMENT POLITIQUE.\" (@FrontPopOff)"
+      "published_at": "2026-11-11 14:11",
+      "text": "Bien vu.\n[Cite @jeromegodefroy] Comme le dit la @FranceInsoumise, il est urgent de donner le droit de vote à 16 ans afin d’offrir à Mélenchon et à sa clique un supplément de cerveaux à lobotomiser. \nEcoutez ça ⤵️"
     },
     {
-      "author_name": "Florian Philippot",
-      "published_at": "2026-11-10 14:13",
-      "text": "➡️ Procès « Candace Owens » : les Macron doivent payer !\n\nEt nous donner la preuve…\n\nD’autant qu’ils viennent de lancer un 2è procès ! 🤦🏻‍♂️\n\nPour signer la PÉTITION NATIONALE ➡️ https://les-patriotes.fr/candace-owens-les-macron-doivent-payer/\n\n« Le 27 octobre 2026, le couple Macron, qui avait décidé de porter plainte",
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-11 14:12",
+      "text": "Selon Marianne, les familles pourraient payer jusqu’à 235 € de plus en assurances en 2027. Ce total cumule plusieurs hausses de primes et taxes : la « taxe émeutes » n’en est qu’une partie.\nhttps://www.fdesouche.com/2026/11/11/assurances-avec-la-taxe-emeutes-une-hausse-totale-de-235-euros-par-famille/"
+    },
+    {
+      "author_name": "Eric Ciotti",
+      "published_at": "2026-11-11 14:13",
+      "text": "C'est précisément ce que j'ai toujours combattu lorsque je présidais LR.\n\nBruno Retailleau, comme David Lisnard, appellent désormais à une primaire avec Édouard Philippe et Gabriel Attal, deux anciens Premiers ministres d'Emmanuel Macron. Or une primaire n'est pas un débat :\n[Cite @actuetpolitique] 🚨‼️🇫🇷 ALERTE INFO - Bruno Retailleau a adressé aujourd'hui un courrier à David Lisnard, Gabriel Attal et Édouard Philippe et propose de fixer les dates d'une primaire de la droite et du centre les 31 janvier et 7 février 2027. \n\nLe candidat LR estime dans cette lettre qu'aucun"
+    },
+    {
+      "author_name": "Reprenons le contrôle !",
+      "published_at": "2026-11-11 14:14",
+      "text": "[Retweet de @Guigz75116] Ah, le grand reporter de BFM qui sort sa calculatrice Insee pour nous expliquer que « ce n’est que 1,6 million »… \n\nOn va gentiment remettre les chiffres du ministère de l’Intérieur au milieu du village, sans le filtre « solde magique » qui fait disparaître les gens.\n\nLe"
+    },
+    {
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-11 14:15",
+      "text": "📺 « Voilà comment le ministre des Affaires étrangères veut parler de la France à l’étranger : il faut la dénigrer, dire qu’elle est moche et méchante. Il est vrai qu’avec Emmanuel Macron, il est à bonne école… »\n@gabriellecluzel sur Face à l’Info (@CNEWS)"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-11 14:15",
+      "text": "Menace de mort à l'encontre de Louise Montangon : «Où sont nos si brillantes féministes ?», s'interroge Maître Florence Rouas, avocate pénaliste, dans #PoliceJustice24H\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-11 14:15",
+      "text": "Elle débarque en France : l'organisation islamique communautaire Nujum, connue au Royaume-Uni pour la mise en place de salles de prière ou la rupture du jeûne du Ramadan lors des matchs, va chercher à collaborer avec des joueurs, associations et clubs\n\nhttps://www.fdesouche.com/2026/11/11/elle-debarque-en-france-lorganisation-islamique-communautaire-nujum-connue-au-royaume-uni-pour-la-mise-en-place-de-salles-de-priere-ou-encore-du-rupture-du-jeune-lors-des-matchs-va-chercher-a-s/"
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-11 14:16",
+      "text": "[Retweet de @f_philippot] C’est désespérément vide !…"
+    },
+    {
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-11 14:16",
+      "text": "L’Union européenne et le Nigeria ont conclu un nouvel accord de réadmission visant à accélérer l’identification et le retour des personnes en situation irrégulière qui n’ont pas le droit de séjourner ni sur le territoire communautaire ni dans le pays africain, avec l’intentio..."
+    },
+    {
+      "author_name": "UDR",
+      "published_at": "2026-11-11 14:17",
+      "text": "Les combattants de 14-18 ont laissé derrière eux des familles, des enfants, des parents, des vies entières à bâtir. Arrachés à leurs foyers et à ceux qu’ils aimaient, ils ont tout sacrifié pour défendre la France.\n\nDans la boue des tranchées, sous le feu et dans le froid, nos"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-11 14:17",
+      "text": "🔵 INFO LP | Scène d'horreur à Créteil ce mercredi matin\n\nLe corps sans vie d’une femme de 69 ans, en partie éviscéré, a été découvert chez elle ce mercredi en fin de matinée, dans le quartier de la Pointe du Lac.\n\nSon fils a été interpellé ➡️ https://l.leparisien.fr/6aZJ"
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-11 14:17",
+      "text": "Pourparlers entre l’Ukraine et la Russie : Kiev demande la fin des hostilités avant des discussions sur la sécurité en Europe\n➡️ https://l.leparisien.fr/lh4K",
       "also_by": [
-        "Les Patriotes"
+        "Le Parisien"
+      ]
+    },
+    {
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-11 14:17",
+      "text": "Un surveillant du centre de détention d’Eysses (47) affirme avoir été menacé de mort devant chez lui. Son épouse et ses enfants ont aussi été visés. Une plainte a été déposée. \n https://www.fdesouche.com/2026/11/11/villeneuve-sur-lot-47-surveillant-prison-eysses-menaces-de-mort-domicile-famille/"
+    },
+    {
+      "author_name": "Marine Le Pen",
+      "published_at": "2026-11-11 14:20",
+      "text": "À Beaumont, puis à Hénin, nous avons rendu hommage aux combattants de la Grande Guerre.\n\nMerci aux élus, porte-drapeaux, citoyens et enfants des écoles de tenir ainsi, comme dans toutes les communes de France, ce magnifique flambeau."
+    },
+    {
+      "author_name": "Alain Weber",
+      "published_at": "2026-11-11 14:21",
+      "text": "L’Espagne n’est malheureusement pas mieux lotie que la France.\n\nAprès presque 10 années de Pedro Sanchez, de corruption instutionnalisée, d’immigration incontrôlée et d’un laxisme épouvantable, une partie de la jeunesse de ce pays, essentiellement dans les villes, a perdu autant\n[Cite @RescueYou247TW] Manifestantes acosan y expulsan a un anciano de una cafetería.\n\nHa ocurrido a las 11 de la mañana en Lesseps, Barcelona, me lo acaba de pasar una seguidora."
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-11 14:21",
+      "text": "Axel Ronde : «Les mortiers d’artifice sont clairement des armes», dans #PoliceJustice24H\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-11 14:23",
+      "text": "« J’ai le cœur brisé » : une voiture fonce sur des piétons à Los Angeles, au moins trois morts et plusieurs blessés\n➡️ https://l.leparisien.fr/XoLV",
+      "also_by": [
+        "Le Parisien | politique"
       ]
     },
     {
       "author_name": "Sud Radio",
-      "published_at": "2026-11-10 14:14",
-      "text": "🏛️ Proposition de loi visant à régulariser les travailleurs sans papier\n\n🎙️ @PhDavidMtb : \"Le PS et Glucksmann sont des idiots utiles\"  https://www.sudradio.fr/editorialistez/philippe-david-le-ps-et-glucksmann-sont-des-idiots-utiles"
-    },
-    {
-      "author_name": "Assemblée nationale",
-      "published_at": "2026-11-10 14:14",
-      "text": "🗂️ Du fait de ce classement, la pétition est fermée à la signature. Elle ne sera pas examinée par la commission des affaires culturelles.\n💡Dans les 8 jours qui suivent le classement d’une pétition, tout député peut demander que celle-ci fasse l’objet d’un débat en séance"
-    },
-    {
-      "author_name": "Le JDD",
-      "published_at": "2026-11-10 14:15",
-      "text": "Algérie : la révolte des femmes touarègues après la mort de sept jeunes tués par l’armée https://ow.ly/VBS3106IgaZ"
-    },
-    {
-      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
-      "published_at": "2026-11-10 14:15",
-      "text": "[Retweet de @AcceptableToad] There's a lot of information on X, so this may be somewhat overlooked or buried beneath the noise, but just stop and reflect on this number for a moment.\n\nIn 1991, the UK had fewer than 60 million people ...in total.\n\nImagine dumping over A THIRD of the existing population AGAIN"
-    },
-    {
-      "author_name": "OMERTA",
-      "published_at": "2026-11-10 14:15",
-      "text": "ISRAËL : NETANYAHOU N'EST PAS MORT !\n\n🔴 Retrouvez @rougeyronpierre tous les matins, en direct de 8h30 à 9h30, dans LA PURGE, sur notre chaîne YouTube OMERTA !\n\n▶️ https://youtu.be/2aYh5E7lciQ"
-    },
-    {
-      "author_name": "LCP",
-      "published_at": "2026-11-10 14:15",
-      "text": "Lutte contre les dérives des plateformes de e-commerce: les députés Romain Eskenazi (PS) et Antoine Vermorel-Marques (LR) présentent une proposition de loi pour renforcer l'action des services de l'État \nhttps://lcp.fr/actualites/lutte-contre-les-derives-des-plateformes-de-e-commerce-une-proposition-de-loi-pour"
-    },
-    {
-      "author_name": "Frontières",
-      "published_at": "2026-11-10 14:16",
-      "text": "🚨 ALERTE - Vives tensions à la commission sur la pétition visant à SUPPRIMER CNEWS. \n\nAlors que le président annonce le début du vote, le député LFI Aymeric Caron TENTE DE L’INTERROMPRE et réclame un « débat »."
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-10 14:16",
-      "text": "🔵INFO LE PARISIEN | Depuis la disparition d’une ressortissante chinoise près de Narbonne après une sortie paddle, le corps d’une femme retrouvé au large de l'Espagne\n\n➡️ https://l.leparisien.fr/rBpG"
-    },
-    {
-      "author_name": "Le JDD",
-      "published_at": "2026-11-10 14:17",
-      "text": "L'écrivain est poursuivi par des associations islamiques en raison de propos sur les musulmans et la théorie du « grand remplacement », tenus en 2022 dans la revue Front populaire de Michel Onfray.\n\n🔗 Article JDD : https://ow.ly/EYpC5105njL"
-    },
-    {
-      "author_name": "Boulevard Voltaire",
-      "published_at": "2026-11-10 14:17",
-      "text": "La commission des affaires culturelles vote le classement sans suite de la pétition anti-CNews par 28 voix contre 25."
-    },
-    {
-      "author_name": "Frontières",
-      "published_at": "2026-11-10 14:18",
-      "text": "🚨 ALERTE - Il n’y AURA PAS de DÉBAT à L’ASSEMBLÉE NATIONALE sur la FERMETURE de CNEWS. \n\n28 voix pour le classement, 25 voix contre. La pétition est classée."
-    },
-    {
-      "author_name": "Tocsin",
-      "published_at": "2026-11-10 14:19",
-      "text": "🎙️Netanyahu est le coupable idéal, mais son départ n’apportera pas la paix - Robert Malley\n\n🔗https://youtu.be/7uEMnQ4L1Pg\n\n🗣️@Rob_Malley"
-    },
-    {
-      "author_name": "Franc-Tireur",
-      "published_at": "2026-11-10 14:19",
-      "text": "« Extrême centre » , cet alibi, à mots ouverts de @Enthoven_R  🗣️\n\n🔗 : https://urls.fr/_buA5D"
-    },
-    {
-      "author_name": "LCP",
-      "published_at": "2026-11-10 14:20",
-      "text": "Hausse du Smic annoncée par le gouvernement: \"des miettes\", pour @ClaireMLejeune. \"La réponse du gouvernement aux Français qui se mobilisent, c'est 9 euros. Même pas un quart de plein.\"\n#QAG"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-10 14:21",
-      "text": "«Ça ne s'essouffle pas» : à Lyon, les manifestants poursuivent la mobilisation https://ow.ly/WfYL106Igbl"
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-10 14:21",
-      "text": "Couper la parole, invectiver, refuser la contradiction : voilà le débat selon l’extrême gauche.\n\nRejoignez-nous : https://marinelepen.com/"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-10 14:21",
-      "text": "«Les lycéens comme les enseignants sont en danger», alerte Brice Rabaste, maire LR de Chelles, après des tirs de mortier dans un établissement scolaire \n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Comité Trump France",
-      "published_at": "2026-11-10 14:22",
-      "text": "Quelle mascarade.\n[Cite @jean_bexon] Pétition anti-Cnews classée sans suite :"
-    },
-    {
-      "author_name": "Occidentis",
-      "published_at": "2026-11-10 14:22",
-      "text": "🚨 🎉 VICTOIRE POUR LA LIBERTÉ D'EXPRESSION ! \n\nÀ l’issue du vote en commission, l’Assemblée nationale CLASSE SANS SUITE la pétition réclamant la suppression de CNEWS."
-    },
-    {
-      "author_name": "Le Média en 4⃣-4⃣-2⃣",
-      "published_at": "2026-11-10 14:22",
-      "text": "Macron prépare-t-il sa fuite ? Un bunker secret et des scénarios d'insurrection pour 2027 \nhttps://lemediaen442.fr/macron-prepare-t-il-sa-fuite-un-bunker-secret-et-des-scenarios-dinsurrection-pour-2027/ \n\nDes journalistes révèlent les préparatifs des services français face à de possibles troubles lors de la présidentielle."
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-10 14:22",
-      "text": "« Jamais observé » si tôt : avec le vortex polaire perturbé, faut-il vraiment craindre un hiver glacial en France ? https://l.leparisien.fr/Zkkq"
-    },
-    {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-10 14:22",
-      "text": "Face aux émeutes, des groupes d’extrême-droite descendent à leur tour dans la rue"
-    },
-    {
-      "author_name": "Boulevard Voltaire",
-      "published_at": "2026-11-10 14:22",
-      "text": "[Retweet de @BVoltaire] « Congé deuil » à la mort d’un ami : avec LFI, une mauvaise idée n’attend pas l’autre | Par Marie Delarue\nCes gens-là veulent absolument en finir avec la famille traditionnelle. \n \nhttps://www.bvoltaire.fr/conge-deuil-a-la-mort-dun-ami-avec-lfi-une-mauvaise-idee-nattend-pas-lautre/?fsp_sid=26261"
-    },
-    {
-      "author_name": "Radio Courtoisie",
-      "published_at": "2026-11-10 14:23",
-      "text": "🚨 ALERTE - l'Assemblée nationale a rendu sa décision concernant la pétition visant a supprimer @CNEWS de l'audiovisuel public français \n\nPour le classement sans suite 28 voix.\nContre le classement sans suite 25 voix.\n\nLe rapporteur de la Commission des affaires culturelles"
-    },
-    {
-      "author_name": "Marion Maréchal",
-      "published_at": "2026-11-10 14:23",
-      "text": "Face aux graves menaces de l’extrême gauche qui pèsent sur la sécurité de Louise Montangon, l’Etat doit agir. Merci aux députés IDL @EddyCasterman @AnneSicard1 et @MonnierThibaut pour leur initiative salutaire.\n[Cite @EddyCasterman] 🔴 « Je sais où t’habite, je vais t’égorger et te violer dans ton sang. »\n\nLouise Montangon, étudiante et responsable de la @droiteuniv de Bordeaux, est la cible de menaces de mort et de viol d’une extrême gravité. Sa famille est également menacée.\n\nTrois semaines après le dépôt"
-    },
-    {
-      "author_name": "Damien Rieu",
-      "published_at": "2026-11-10 14:24",
-      "text": "[Retweet de @BVoltaire] « Pourquoi faire le procès de CNews, qui dénonce le racisme antiblanc, plutôt que de l’audiovisuel public qui choisit de le taire ? » accuse @AnneSicard1. « L’Assemblée nationale n’est pas une succursale de campagne de Jean-Luc Mélenchon. »"
-    },
-    {
-      "author_name": "Damien Rieu",
-      "published_at": "2026-11-10 14:24",
-      "text": "[Retweet de @guillaumepoingt] 🔵 INFO LE FIGARO\n\nL’écrivain Michel Houellebecq mis en examen après des propos sur les musulmans et le «grand remplacement» ⬇️\nhttps://www.lefigaro.fr/faits-divers/l-ecrivain-michel-houellebecq-mis-en-examen-apres-des-propos-sur-les-musulmans-et-le-grand-remplacement-20261110",
-      "also_by": [
-        "Institut ILIADE",
-        "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱"
-      ]
-    },
-    {
-      "author_name": "LCP",
-      "published_at": "2026-11-10 14:24",
-      "text": "\"Au-delà de cette question du Smic, on a besoin de regarder ce que sont les vrais déterminants des salaires, à savoir dans les entreprises, les gains de productivité\", défend @FerracciMarc qui plaide pour \"mieux les répartir\"."
-    },
-    {
-      "author_name": "Jean MESSIHA",
-      "published_at": "2026-11-10 14:24",
-      "text": "[Retweet de @EricMorillot] 🔴 APRÈS C8, AU TOUR DE CNEWS ?\n\nPlus d’un million de signatures exigent sa fermeture. Jusqu’où peut aller le pouvoir du régulateur ?\n\n⚡ Thomas Guénolé face à Jean Messiha, Charbel, GRM, Mike Borowski et Adrien Abauzit.\n\n📺 #BistroLibertés, ce mercredi 11/11 à 21h sur TVL."
-    },
-    {
-      "author_name": "Médias-Presse-Info",
-      "published_at": "2026-11-10 14:25",
-      "text": "Stephen Miller, le conseiller ultra-sioniste de Trump - https://www.medias-presse.info/stephen-miller-le-conseiller-ultra-sioniste-de-trump/253840/ - Stephen Miller a été nommé chef de cabinet de la Maison-Blanche par Donald Trump le 6 novembre 2026. La preuve..."
-    },
-    {
-      "author_name": "Jon De Lorraine",
-      "published_at": "2026-11-10 14:25",
-      "text": "🔴🇫🇷 ALERTE INFO - La pétition réclamant la FERMETURE de CNEWS a été CLASSÉE SANS SUITE par la commission des affaires culturelles de l’Assemblée nationale, par 28 voix contre 25.\n\nElle avait recueilli plus d’un million de signatures."
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-10 14:25",
-      "text": "[Retweet de @wallybordas] À l’Assemblée, dans un climat de tension absolu, la pétition visant à supprimer CNews écartée par les députés en commission des affaires culturelles. \n\nÀ lire dans @Le_Figaro\n\nhttps://www.lefigaro.fr/elections/presidentielles/a-l-assemblee-dans-un-climat-tendu-la-petition-visant-a-supprimer-cnews-ecartee-par-les-deputes-20261110"
-    },
-    {
-      "author_name": "ASLA",
-      "published_at": "2026-11-10 14:26",
-      "text": "🔴 La Cocarde Étudiante risque jusqu’à 1 an de prison et 57 000€ d’amendes ! \n\n➡️ En mars 2023, des militants de la Cocarde étudiante se mobilisaient devant Sciences Po Lyon pour dénoncer une semaine consacrée au « genre et à l’inclusion sociale ».\n\nIls avaient déployé une"
-    },
-    {
-      "author_name": "Tanguy David",
-      "published_at": "2026-11-10 14:26",
-      "text": "[Retweet de @DestinationTele] 💥La pétition réclamant la fermeture de CNEWS est envoyée à la poubelle par 28 voix contre 25  😂🥳🍾"
-    },
-    {
-      "author_name": "LCP",
-      "published_at": "2026-11-10 14:26",
-      "text": "🔴Pétition contre CNews: la commission des affaires culturelles de l'Assemblée classe la pétition, son président propose un débat plus large dans l'hémicycle\nhttps://lcp.fr/actualites/petition-contre-cnews-la-commission-classe-le-texte-et-demande-un-debat-plus-large-dans"
-    },
-    {
-      "author_name": "Boulevard Voltaire",
-      "published_at": "2026-11-10 14:27",
-      "text": "[BRÈVE] Chelles : une élue touchée par une bouteille d’essence devant un lycée | Par Boulevard Voltaire\nÉdouard Geffray a appelé l’ensemble de la classe politique comme de la société à apporter son soutien à l’élue. \n \nhttps://www.bvoltaire.fr/chelles-une-elue-touchee-par-une-bouteille-dessence-devant-un-lycee/?fsp_sid=26291"
-    },
-    {
-      "author_name": "Boulevard Voltaire",
-      "published_at": "2026-11-10 14:27",
-      "text": "[Retweet de @baptiste_mssx] Les travailleurs ne sont plus avec vous Madame Binet."
-    },
-    {
-      "author_name": "Boulevard Voltaire",
-      "published_at": "2026-11-10 14:27",
-      "text": "[Retweet de @IrisBridier] Deux heures durant, Laurent Gerra nous cuisine les bien-pensants, mention spéciale à sa tirade du \"Non merci\" revisitée à la sauce vegan, un vrai festin !"
-    },
-    {
-      "author_name": "Boulevard Voltaire",
-      "published_at": "2026-11-10 14:27",
-      "text": "[Retweet de @SevilliaYves] Direct AN. 28 députés de la commission des Affaires culturelles votent pour le classement de la pétition demandant la suppression de Cnews et 25 contre. Il n'y aura donc pas de débat dans l'hémicycle après la pétition ayant obtenu plus d'un million de signatures."
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-10 14:27",
-      "text": "«J'ai pu moi-même constater que son manteau sentait l'essence», déplore Brice Rabaste, maire LR de Chelles, en réaction à la professeure aspergée d'essence devant un lycée \n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Boulevard Voltaire",
-      "published_at": "2026-11-10 14:27",
-      "text": "[Retweet de @jean_bexon] Pétition anti-Cnews classée sans suite :"
-    },
-    {
-      "author_name": "Boulevard Voltaire",
-      "published_at": "2026-11-10 14:28",
-      "text": "[Retweet de @GabrielBendayan] Ce garçon est ravagé par la haine."
-    },
-    {
-      "author_name": "Boulevard Voltaire",
-      "published_at": "2026-11-10 14:28",
-      "text": "[Retweet de @GabrielBendayan] Elle est complètement allumée ma parole."
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-10 14:28",
-      "text": "La pétition visant à supprimer CNews écartée par les députés →https://l.lefigaro.fr/Rpqo"
-    },
-    {
-      "author_name": "Observatoire du journalisme (Ojim)",
-      "published_at": "2026-11-10 14:29",
-      "text": "🚨ALERTE INFO | La pétition visant à supprimer CNews ÉCARTÉE par les députés."
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-10 14:29",
-      "text": "🔴Les syndicats étudiants et lycéens appellent à manifester samedi et le 17 novembre\n\nSuivez notre direct ➡️ https://l.leparisien.fr/pMtF"
-    },
-    {
-      "author_name": "LCP",
-      "published_at": "2026-11-10 14:29",
-      "text": "Hausse du Smic annoncée par le gouvernement: \"Ce n'est pas suffisant\", juge @TaverneMichael. Il défend une augmentation de 10% de tous les salaires jusqu'à trois fois le Smic, sans augmentation de cotisations patronales.\n#QAG"
-    },
-    {
-      "author_name": "Tocsin",
-      "published_at": "2026-11-10 14:30",
-      "text": "🔵 Édouard Philippe sympathise... pas trop avec les commerçants du marché\n\nRéécouter l'émission 🔗https://www.youtube.com/live/K1fzZj9fubk?si=V-wlx0actbThveMB"
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-10 14:30",
-      "text": "Agression d’une élue à Chelles : Laurent Nuñez condamne «des violences urbaines» → https://l.lefigaro.fr/QURb"
+      "published_at": "2026-11-11 14:23",
+      "text": "🎙️ « Je vais peut-être être SDF à la fin du mois » \n\n🔴 Huit ans après le drame de la rue d'Aubagne à Marseille, Kaouter Ben Mohamed se retrouve à son tour dans une situation critique :\nhttps://www.sudradio.fr/?p=929060"
     },
     {
       "author_name": "L'Express",
-      "published_at": "2026-11-10 14:30",
-      "text": "Le parquet de Paris décrit une \"unité cyber offensive affiliée au Centre électronique et cyber du corps des Gardiens de la révolution\". Un groupe qui n’en est pas à sa première attaque.\n\n➡️ https://l.lexpress.fr/Wlk https://l.lexpress.fr/Wlk"
+      "published_at": "2026-11-11 14:23",
+      "text": "Selon des enquêtes du New York Times et de CNN, le président avait été informé dès le printemps dernier de la relation entre Jensen Huang et une femme soupçonnée d'espionnage pour le compte...\n\n➡️ https://l.lexpress.fr/zu1 https://l.lexpress.fr/zu1"
     },
     {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-10 14:31",
-      "text": "https://l.leparisien.fr/04ba"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-10 14:32",
-      "text": "États-Unis, Ukraine, Guatemala... Ces pays qui sont où on été dirigés par des célébrités https://ow.ly/XFQe106Igca"
-    },
-    {
-      "author_name": "TVL",
-      "published_at": "2026-11-10 14:32",
-      "text": "🎙️ « Le monde de la finance est le seul créneau économique à avoir bénéficié des largesses de Macron [...] Beaucoup d'argent a été consacré pour aider le monde la finance, c'est la politique Macron. » - Olivier Piacentini\n\nPol&Eco sur TVL 🔻\nhttps://youtu.be/0UBqldiQ6I8"
-    },
-    {
-      "author_name": "Aldo Sterone",
-      "published_at": "2026-11-10 14:32",
-      "text": "Beaucoup de gens s'étonnent du prix élevé des voitures en Europe, mais aussi leur dépréciation très rapide. \n\nL'explication est simple : la plus grande partie du prix d'une voiture neuve est faite de taxes, de prélèvements et de couts de conformité. C'est comme une bouteille de"
-    },
-    {
-      "author_name": "Gilbert Collard",
-      "published_at": "2026-11-10 14:33",
-      "text": "L’écrivain Michel Houellebecq mis en examen après des propos sur les musulmans et le «grand remplacement» : la loi du baillon ?"
+      "author_name": "Le Point",
+      "published_at": "2026-11-11 14:24",
+      "text": "Étienne Gernelle sur RTL : du 11 novembre 1918 à l'Ukraine, les leçons de l'Histoire\n\nPar @gernelle https://l.lepoint.fr/Lod"
     },
     {
       "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-10 14:34",
-      "text": "[Retweet de @F_Desouche] À Grenoble, un jeune homme de 26 ans a été condamné à dix mois de prison avec sursis après avoir été arrêté avec deux cocktails Molotov dans son sac. \n https://www.fdesouche.com/2026/11/10/grenoble-38-arrete-avec-deux-cocktails-molotov-dans-son-sac-il-ecope-de-dix/"
+      "published_at": "2026-11-11 14:25",
+      "text": "Aux urgences de Nancy, une patiente de 52 ans a agressé plusieurs soignants. Une aide-soignante enceinte a fait une fausse couche après avoir reçu un coup au ventre. La patiente a été condamnée. \n https://www.fdesouche.com/2026/11/11/nancy-54-une-aide-soignante-enceinte-fait-une-fausse-couche-apres-des-violences-aux-urgences-une-patiente-condamnee/"
     },
     {
-      "author_name": "Alain Weber",
-      "published_at": "2026-11-10 14:34",
-      "text": "Un million de signatures pour faire taire une chaîne : un million de débiles profonds !\n\nCet après-midi, l’Assemblée nationale s’est penchée sur une pétition qui demande purement et simplement de supprimer CNews de l’audiovisuel français. \n\nPlus d’un million de personnes ont"
+      "author_name": "Europe 1",
+      "published_at": "2026-11-11 14:25",
+      "text": "Moody's ne table plus que sur 0,2% de croissance en France en 2026 https://ow.ly/EkzT106IkWL"
+    },
+    {
+      "author_name": "Le Crayon",
+      "published_at": "2026-11-11 14:26",
+      "text": "« Il est plus simple de détruire que de construire ensemble. »\n\nEst-il plus simple de faire la guerre ou de faire la paix ? Nous avons posé la question aux participants du Paris Peace Forum 2026."
+    },
+    {
+      "author_name": "Le Média en 4⃣-4⃣-2⃣",
+      "published_at": "2026-11-11 14:27",
+      "text": "MaPrimeRénov’ : un réseau entre la France et Israël jugé pour une fraude à 4,84 millions \nhttps://lemediaen442.fr/maprimerenov-un-reseau-entre-la-france-et-israel-juge-pour-une-fraude-a-484-millions/ \n\nDes logements à rénover, des identités à emprunter et de l’argent à faire circuler : le dossier examiné à Nanterre décrit une rénovation énergétique où la paperasse"
+    },
+    {
+      "author_name": "Rassemblement National",
+      "published_at": "2026-11-11 14:28",
+      "text": "[Retweet de @Thomas_Mng] 🇫🇷 Ce matin à Amilly, aux côtés de @tomcollenrenaux et @J_Bardella, nous avons rendu hommage à nos Poilus et à tous ceux qui sont morts pour la France.\n\nMerci à tous les anciens combattants, porte-drapeaux, élus et habitants présents.\n\nN'oublions jamais."
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-11 14:30",
+      "text": "Tempête Charles : des pluies orageuses, un vent plus fort... À quoi faut-il s'attendre ? https://ow.ly/InTW106IkWY"
+    },
+    {
+      "author_name": "Thaïs d’Escufon",
+      "published_at": "2026-11-11 14:31",
+      "text": "[Retweet de @antinomlenda] Que agonia pqp a mãe literalmente abriu as pernas da própria filha e ficou esperando o cara olhar... Mano, ela estava literalmente OFERECENDO o corpo da própria filha pra aquele homem, que país amaldiçoado vsf Índia"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-10 14:35",
-      "text": "🔴Le cortège s'est élancé depuis le Panthéon à Paris\n\nSuivez notre direct ➡️ https://l.leparisien.fr/v2l9"
+      "published_at": "2026-11-11 14:31",
+      "text": "«Nous sommes venus vous anéantir» : ce mercredi 11 novembre, un grand nombre d’écoles dans plusieurs pays d'Europe, dont plus de 300 en Italie, ont été évacuées après des alertes à la bombe.\n\nLes autorités ont néanmoins jugé les menaces peu crédibles ➡️ https://l.leparisien.fr/Yiyh"
     },
     {
-      "author_name": "LCP",
-      "published_at": "2026-11-10 14:37",
-      "text": ".@RomainEskenazi juge la réunion organisée à Matignon hier avec les syndicats lycéens et étudiants \"extrêmement décevante\" et estime que le gouvernement doit apporter \"une réponse politique\", tout en jugeant qu'il va falloir \"retrouver le chemin de l'école\""
+      "author_name": "Le Figaro Culture",
+      "published_at": "2026-11-11 14:33",
+      "text": "15/18 de Cédric Kahn : l’adolescence les doigts dans la crise https://l.lefigaro.fr/Ki33"
     },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-11 14:35",
+      "text": "Présidentielle 2027 : Eric Zemmour, candidat à l'élection, est « celui qui donne l'impulsion », selon Marc Menant https://ow.ly/mrVP106IkX9"
+    },
+    {
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-11 14:35",
+      "text": "À Nantes, un homme mis en cause pour recel a réussi à s'enfuir du palais de justice, bien que menotté. Il devait être jugé rapidement puis transféré en détention. \n https://www.fdesouche.com/2026/11/11/nantes-44-suspect-recel-menotte-evasion-palais-justice-8-novembre-2026/"
+    },
+    {
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-11 14:36",
+      "text": "[Retweet de @BVoltaire] [CINÉMA] Irish Travellers, une communauté nomade en déclin | Par Pierre Marcellesi\nTourné sur six ans, le documentaire nécessita la présence quotidienne du cinéaste aux côtés de la famille O’Reilly… \n \nhttps://www.bvoltaire.fr/cinema-irish-travellers-une-communaute-nomade-en-declin/?fsp_sid=26343"
+    },
+    {
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-11 14:37",
+      "text": "L'Égypte a ajouté 35 entités et 36 individus à ses listes d'entités et de terroristes pour une durée de cinq ans, conformément à une décision du tribunal pénal du Caire (première instance) dans l'affaire n° 11108 de 2026, enregistrée auprès du parquet suprême de la sûreté de ..."
+    }
+  ],
+  "context": [
     {
       "author_name": "Occidentis",
       "published_at": "2026-11-10 14:39",
@@ -3641,6 +3458,11 @@
       "author_name": "Assemblée nationale",
       "published_at": "2026-11-10 14:55",
       "text": "🗣️ Liste des orateurs pour les questions au Gouvernement du 10 novembre 2026  \n\n⏰ À suivre à 15 heures\n#DirectAN #QAG"
+    },
+    {
+      "author_name": "ASLA",
+      "published_at": "2026-11-10 14:55",
+      "text": "🔴 La Cocarde Étudiante risque jusqu’à 1 an de prison et 57 000€ d’amendes ! \n\n➡️ En mars 2023, des militants de la Cocarde étudiante se mobilisaient devant Sciences Po Lyon pour dénoncer une semaine consacrée au « genre et à l’inclusion sociale ».\n\nIls avaient déployé une"
     },
     {
       "author_name": "Sud Radio",
@@ -3907,6 +3729,11 @@
       "author_name": "Le Figaro",
       "published_at": "2026-11-10 15:24",
       "text": "[Retweet de @LeFigaroTV] «Poutine détruit l'Ukraine. Il saigne aussi la Russie et ses alliés. Depuis le début de la guerre, 450 000 Russes sont morts ; il y a plus d'un million de blessés. 25% des soldats nord-coréens venus combattre en Ukraine ont été tués», explique @trinquand dans Points de Vue."
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-10 15:24",
+      "text": "[Retweet de @f_philippot] ➡️ Procès « Candace Owens » : les Macron doivent payer !\n\nEt nous donner la preuve…\n\nD’autant qu’ils viennent de lancer un 2è procès ! 🤦🏻‍♂️\n\nPour signer la PÉTITION NATIONALE ➡️ https://les-patriotes.fr/candace-owens-les-macron-doivent-payer/\n\n« Le 27 octobre 2026, le couple Macron, qui avait décidé de porter plainte"
     },
     {
       "author_name": "Les Patriotes",
@@ -4703,6 +4530,11 @@
       "author_name": "Le Parisien",
       "published_at": "2026-11-10 16:19",
       "text": "L’exceptionnel squelette de dinosaure normand restera en France, racheté par l’État\n➡️ https://l.leparisien.fr/nDiI"
+    },
+    {
+      "author_name": "Jon De Lorraine",
+      "published_at": "2026-11-10 16:19",
+      "text": "\n[Cite @jon_delorraine] 🔴🇫🇷 ALERTE INFO - La pétition réclamant la FERMETURE de CNEWS a été CLASSÉE SANS SUITE par la commission des affaires culturelles de l’Assemblée nationale, par 28 voix contre 25.\n\nElle avait recueilli plus d’un million de signatures."
     },
     {
       "author_name": "Tocsin",
@@ -5953,6 +5785,11 @@
       "text": "[Retweet de @F_Desouche] Malgré ses 23 ans, Nathan a un avis tranché sur la vie en banlieue : « Si vous habitez Mantes-la-Jolie ou Rambouillet, partez ! Surtout si vous êtes jeune. Ça fait du bien et c’est une étape nécessaire à sa construction. »"
     },
     {
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-10 18:22",
+      "text": "[Retweet de @F_Desouche] Face aux émeutes, des groupes d’extrême-droite descendent à leur tour dans la rue"
+    },
+    {
       "author_name": "ISSEP",
       "published_at": "2026-11-10 18:22",
       "text": "👉🏻 Vous aussi, rejoignez le Club de l’ISSEP !\n\n✨ Téléchargez l’application dès maintenant. \n\n📱 Disponible sur iOS et Android.\n\n——\n\nRetrouvez toutes nos formations sur https://issep.com"
@@ -6898,6 +6735,14 @@
       "author_name": "Régis Le Sommier",
       "published_at": "2026-11-10 20:05",
       "text": "Les positions des néoconservateurs américains bien présents dans l’administration Biden n’ont pas aidé non plus…\n[Cite @PaulMoreiraPLTV] Mettre fin à la guerre et ouvrir les négociations, voilà la position de Zelensky aujourd'hui. Il avait émis cette promesse en 2019, quand il a été élu, sauf qu'à cause de l'agressivité des néo-nazis ukrainiens de Azov (\"Stop à la capitulation\") et à l'impérialisme militaro de"
+    },
+    {
+      "author_name": "Institut ILIADE",
+      "published_at": "2026-11-10 20:05",
+      "text": "[Retweet de @guillaumepoingt] 🔵 INFO LE FIGARO\n\nL’écrivain Michel Houellebecq mis en examen après des propos sur les musulmans et le «grand remplacement» ⬇️\nhttps://www.lefigaro.fr/faits-divers/l-ecrivain-michel-houellebecq-mis-en-examen-apres-des-propos-sur-les-musulmans-et-le-grand-remplacement-20261110",
+      "also_by": [
+        "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱"
+      ]
     },
     {
       "author_name": "Institut ILIADE",
@@ -9039,6 +8884,11 @@
       "text": "Je veux sortir de ce qu'Albert Camus appelle la \"pénitence perpétuelle\" pour défendre la fierté française !"
     },
     {
+      "author_name": "Jean-Yves Le Gallou",
+      "published_at": "2026-11-11 00:11",
+      "text": "[Retweet de @LesBraves_] « Il n'était pas possible de procéder au Grand Remplacement sans ce que j'appelle la proclamation du dogme, à la fois criminel et imbécile, de l'inexistence des races, vers le milieu des années 70, qui permettait la submersion migratoire et, du même coup, rendait impossible toute"
+    },
+    {
       "author_name": "Le Parisien",
       "published_at": "2026-11-11 00:18",
       "text": "Jordan Bardella veut arrêter le renouvellement des titres de séjour des étrangers sans emploi depuis plus de 6 mois https://l.leparisien.fr/1RTM",
@@ -9193,6 +9043,11 @@
       "also_by": [
         "Le Parisien | politique"
       ]
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-11 02:37",
+      "text": "« Jamais observé » si tôt : avec le vortex polaire perturbé, faut-il vraiment craindre un hiver glacial en France ? https://l.leparisien.fr/J6ek"
     },
     {
       "author_name": "Le Parisien | politique",
