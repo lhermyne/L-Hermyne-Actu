@@ -1,9 +1,9 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-11T00:34:24.827Z",
+  "updated_at": "2026-11-11T00:37:08.789Z",
   "window_hours": 24,
-  "window_start": "2026-11-10T00:34:24.827Z",
+  "window_start": "2026-11-10T00:37:08.789Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": false,
   "possible_gaps": [
@@ -25,6 +25,19 @@
   ],
   "count": 2124,
   "tweets": [
+    {
+      "id": "2120314330658771169",
+      "created_at": "2026-11-11T00:35:04.000Z",
+      "author": "InfoMdia",
+      "author_name": "Médias-Presse-Info",
+      "type": "tweet",
+      "text": "Mercredi 11 novembre - Saint Martin de Tours, Évêque et Confesseur - Saint Ménas, Martyr - Bienheureuse Marie Crucifiée, Vierge, Tertiaire franciscaine. - https://www.medias-presse.info/saint-martin-tours-mercredi-11-novembre-de-eveque-et/252735/ - En France, dans de nombreux ...",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/InfoMdia/status/2120314330658771169"
+    },
     {
       "id": "2120313769532301469",
       "created_at": "2026-11-11T00:32:50.000Z",
@@ -27623,19 +27636,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/leparisien_pol/status/2119953011242103130"
-    },
-    {
-      "id": "2119951940134019388",
-      "created_at": "2026-11-10T00:35:03.000Z",
-      "author": "InfoMdia",
-      "author_name": "Médias-Presse-Info",
-      "type": "tweet",
-      "text": "Mardi 10 novembre - Saint André Avellin, Confesseur - Saints Tryphon, Respice, Martyrs et Sainte Nymphe, Vierge et Martyre - https://www.medias-presse.info/mardi-10-novembre-saint-andre-avellin-confesseur-saints-tryphon-respice-martyrs-et-sainte-nymphe-vierge-et-martyre/252689...",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/InfoMdia/status/2119951940134019388"
     }
   ]
 }
