@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-11 07:06",
-  "period": "du 2026-11-10 07:06 au 2026-11-11 07:06",
-  "new_period": "du 2026-11-10 20:00 au 2026-11-11 07:06",
-  "context_period": "du 2026-11-10 07:06 au 2026-11-10 20:00",
+  "generated_at": "2026-11-11 07:36",
+  "period": "du 2026-11-10 07:36 au 2026-11-11 07:36",
+  "new_period": "du 2026-11-10 20:00 au 2026-11-11 07:36",
+  "context_period": "du 2026-11-10 07:36 au 2026-11-10 20:00",
   "coverage_complete": false,
-  "new_count": 518,
-  "context_count": 1424,
-  "duplicates_merged": 160,
+  "new_count": 543,
+  "context_count": 1409,
+  "duplicates_merged": 161,
   "empty_removed": 12,
   "new": [
     {
@@ -2563,7 +2563,10 @@
     {
       "author_name": "JDNews",
       "published_at": "2026-11-11 06:18",
-      "text": "Croissance en berne, dette hors de contrôle : la France au bord de la spirale récessive https://ow.ly/qs4g106Ij8L"
+      "text": "Croissance en berne, dette hors de contrôle : la France au bord de la spirale récessive https://ow.ly/qs4g106Ij8L",
+      "also_by": [
+        "Le JDD"
+      ]
     },
     {
       "author_name": "Sud Radio",
@@ -2699,7 +2702,10 @@
     {
       "author_name": "JDNews",
       "published_at": "2026-11-11 07:04",
-      "text": "Thibault de Montbrial : «Je ne me résigne pas à voir mon pays s'effondrer» https://ow.ly/6cRw106IjGQ"
+      "text": "Thibault de Montbrial : «Je ne me résigne pas à voir mon pays s'effondrer» https://ow.ly/6cRw106IjGQ",
+      "also_by": [
+        "Le JDD"
+      ]
     },
     {
       "author_name": "Europe 1",
@@ -2710,89 +2716,134 @@
       "author_name": "L'Express",
       "published_at": "2026-11-11 07:04",
       "text": "Dans la bande dessinée \"Gagnaire, le cuisiniez malgré lui\", le chef étoilé français se raconte. Enchanté par cette lecture, notre chroniqueur se remémore ses expériences à la table du grand cuisinier.\n\n➡️ https://l.lexpress.fr/IAX"
-    }
-  ],
-  "context": [
+    },
     {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-10 07:06",
-      "text": "« Ne m’enlevez pas mes rides » : à bientôt 60 ans, Sophie Marceau se confie sur sa jeunesse et sa carrière\n➡️ https://l.leparisien.fr/m7YZ"
+      "author_name": "Le Point",
+      "published_at": "2026-11-11 07:11",
+      "text": "Michel Zecler : « Quand j’entends une sirène, il se passe encore des choses dans mon corps »\n\nPar @NicolasBastuck https://l.lepoint.fr/wqd"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-10 07:09",
-      "text": "Claude Moniquet, spécialiste terrorisme et renseignement, analyse dans #LaMatinale la reprise des négociations entre l’Ukraine et la Russie. Toute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-10 07:11",
-      "text": "Grâce à des exportations en hausse, la Chine dépasse les 1000 milliards de dollars d’excédent commercial dès octobre\n➡️ https://l.leparisien.fr/Vzrw"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-10 07:13",
-      "text": "Une intersyndicale rassemblant organisations de jeunesse et enseignants a appelé ce mardi 10 novembre à une nouvelle journée de grève et de manifestations\n\nSuivez notre direct ➡️ https://l.leparisien.fr/jToG"
-    },
-    {
-      "author_name": "L'Express",
-      "published_at": "2026-11-10 07:14",
-      "text": "Au Portugal, en Espagne ou en Italie, des manifestants protestent contre les difficultés d'accès au logement et l'envolée des prix. Un phénomène qui concerne toute l'Europe et encourage...\n\n➡️ https://l.lexpress.fr/m6B par @Corentinpennar https://l.lexpress.fr/m6B"
-    },
-    {
-      "author_name": "Valeurs actuelles",
-      "published_at": "2026-11-10 07:17",
-      "text": "CHRONIQUE. Drones de surface, robots sous-marins, systèmes autonomes : la guerre navale entre dans une nouvelle ère. À l’occasion de la 30e édition d’Euronaval, les industriels de la défense ont dévoilé l’ampleur d’une révolution technologique portée par… https://l.valeursactuelles.com/Oxe"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-10 07:18",
-      "text": "La Chine passe la marque des 1.000 milliards de dollars d'excédent commercial dès octobre https://ow.ly/wuT6106IfiH"
+      "published_at": "2026-11-11 07:14",
+      "text": "🎙️ La question du jour : Etes-vous inquiet pour la liberté d'expression en France ? \nVotez ici ➡️ https://l.cnews.fr/ynut"
     },
     {
       "author_name": "Sud Radio",
-      "published_at": "2026-11-10 07:19",
-      "text": "💰SMIC à 1502€ : \"Ce n'est pas rien mais ça ne va pas être suffisant\"\n\n🗣️Christelle Thieffine (@CFECGC) : \"Les attentes c'est la négociation dans les branches professionnelles et les entreprises\" #GrandMatin\n\n📻 https://www.sudradio.fr/"
+      "published_at": "2026-11-11 07:16",
+      "text": "🔴Élue agressée devant un lycée à #Chelles : \"Un stade est franchi. C'est intolérable !\"\n\n🗣️@GeoffreyCarva, conseiller régional, élu de Seine-St-Denis : \"Il faut être extrêmement ferme et une réponse en justice implacable\" #GrandMatin\n\n📻https://www.sudradio.fr/"
+    },
+    {
+      "author_name": "Ni Oubli Ni Pardon",
+      "published_at": "2026-11-11 07:17",
+      "text": "08/2020 Le Conseil national de l'Ordre des chirurgiens-dentistes a invité les dentistes « à la plus grande circonspection sur la facturation aux patients d'un “forfait Covid” », un supplément lié au « surcoût dû aux équipements de protection individuelle ». Des patients ont"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-10 07:27",
-      "text": "Yves Carra, porte-parole Mobilité Club France, revient dans #LaMatinale sur la cyberattaque qui a touché 23 millions de conducteurs : «Quand on a la carte grise, l’adresse et le type de voiture, c’est un vrai risque.»\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Tocsin",
-      "published_at": "2026-11-10 07:28",
-      "text": "La Matinale 10/11 : Midterms : Benjamin Netanyahu rendu responsable de la chute de Trump ! https://x.com/i/broadcasts/2ybAPzPAaQbBrQ"
-    },
-    {
-      "author_name": "L'Express",
-      "published_at": "2026-11-10 07:29",
-      "text": "Jonathan Lemire, journaliste au magazine \"The Atlantic\", raconte les coulisses de la nomination du fidèle et redouté conseiller de Donald Trump comme chef de cabinet à la Maison-Blanche....\n\n➡️ https://l.lexpress.fr/gjF"
+      "published_at": "2026-11-11 07:18",
+      "text": "Thomas Markle Sr., père de Meghan Markle, est de nouveau derrière les barreaux. Accusé de possession de matériel pédopornographique, il aurait sectionné son bracelet électronique. https://mrf.lu/2YPl4"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-10 07:29",
-      "text": "DIRECT. Crise lycéenne : journée de grève dans l’Éducation nationale, une manifestation prévue à 14 heures à Paris\n➡️ https://l.leparisien.fr/6aZt"
+      "published_at": "2026-11-11 07:19",
+      "text": "« Il ne faut pas oublier » : au 11-Novembre, le souvenir retrouvé de l’ancien instituteur de Moussy, mort pour la France\n➡️ https://l.leparisien.fr/rBpe"
     },
     {
-      "author_name": "Kontre Kulture",
-      "published_at": "2026-11-10 07:30",
-      "text": "⛔ Faites barrage à l'ignorance : LISEZ !"
+      "author_name": "CNEWS",
+      "published_at": "2026-11-11 07:19",
+      "text": "Une mère ourse et ses trois petits ont été abattus après l’attaque mortelle d’une mère et de sa fille près de Bella Coola, au Canada. Les grizzlis auraient eu un «rare comportement prédateur». https://mrf.lu/2YyNs"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-11 07:20",
+      "text": "Olivier Vial : «Ce mouvement est violent depuis le début» dans #LaMatinale \n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Yann Vallerie (Breizh-Info)",
+      "published_at": "2026-11-11 07:21",
+      "text": "Jean-Baptiste Noé (Atlas géopolitique 2027) : « Les armes livrées à l’Ukraine vont se retrouver dans la nature »\nhttps://www.breizh-info.com/2026/11/10/265347/jean-baptiste-noe-atlas-geopolitique-2027-les-armes-livrees-a-lukraine-vont-se-retrouver-dans-la-nature/"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-11 07:21",
+      "text": "Températures, précipitations, incendies : les 110 sites de l’État étudiés seront fortement exposés à au moins un aléa climatique d’ici 2050 ou 2100. https://mrf.lu/2Yy2j"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-11 07:22",
+      "text": "🔴Élue agressée devant un lycée à #Chelles : \"oui c'est un crime !\", selon @GeoffreyCarva (conseiller régional et élu de Seine-St-Denis)\n\n👉 Les maires se portent partie civile #GrandMatin\n\n📻https://www.sudradio.fr/"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-11 07:26",
+      "text": "Le Bleuet de France, épisode 3 - «Nos fils voulaient qu'on se rencontre, qu'on vive» : l'amitié de deux mamans de soldats tués en opération https://ow.ly/OPFi106Ikbp"
+    },
+    {
+      "author_name": "Yann Vallerie (Breizh-Info)",
+      "published_at": "2026-11-11 07:27",
+      "text": "GTA VI, ça va bientôt être partout en France, au quotidien, grâce à ceux qui dirigent le pays et qui l'ont massacré depuis des décennies enfantant la barbarie\n[Cite @labar0nn3_] Désolée, on ne peut plus vivre ensemble.\n\nSTOP."
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-11 07:27",
+      "text": "Comment sauver l’économie française ?\n\n➡️ Retrouvez l’édito éco de @MarcTouati chaque lundi et mercredi à 7h20 sur #Europe1"
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-11 07:28",
+      "text": "[Retweet de @62PATRIOTES] De Gaulle avait tout compris.\nNous sommes fiers d'appartenir à la seule famille Politique qui suit dignement ses traces et réunit ses véritables héritiers Politiques : #LesPatriotes !\nEn France, contre les Soros' collabos,\nLe Chef de la Résistance, c'est #Philippot✊"
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-11 07:28",
+      "text": "[Retweet de @LesPatriotes24] Encore une tournée d'affichage dans la 4è circonscription de la Dordogne, secteur de Campagnac ! Les Patriotes ne se lasseront jamais de diffuser la vérité et de montrer la voie à suivre pour sauver la France."
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-11 07:28",
+      "text": "[Retweet de @SZYCH1] https://youtu.be/R-ZU9QE7aKc?is=rg6ZmOvu0Kr3nfe8"
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-11 07:28",
+      "text": "[Retweet de @FredGaulois] C'est bien l'un des meilleurs portraits d'E. Macron @f_philippot :\n➡️On a un personnage extrêmement inquiétant à la tête du pays depuis le début.\n➡️Il a des traits sociopathes, psychopathes, c'est l'un des rares présidents qui a passé son temps à monter les Français les uns"
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-11 07:28",
+      "text": "[Retweet de @LesPatriotes21] https://youtu.be/R-ZU9QE7aKc?is=UGAh7Rgjr8170Gg0"
+    },
+    {
+      "author_name": "Gabrielle Cluzel",
+      "published_at": "2026-11-11 07:28",
+      "text": "[Retweet de @CNEWS] Gabrielle Cluzel, journaliste, sur les derniers propos de Jean-Noël Barrot à l'encontre de Marine Le Pen : «Si la France est raciste, on doit en déduire que les étrangers qui viennent sont masochistes», dans #Facealinfo\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Tocsin",
+      "published_at": "2026-11-11 07:30",
+      "text": "📻 Trump face à ses promesses de paix : le bilan sans concession de Daniel Davis\n\n🔗https://youtu.be/_sDiS8jOfG0\n\n🗣️@DanielLDavis1 @1NikolaMirkovic"
+    },
+    {
+      "author_name": "Marc Vanguard",
+      "published_at": "2026-11-11 07:30",
+      "text": "[Retweet de @Ellibec] Contrairement à ce que laisse penser la réponse de France Inter, notre analyse ne remet pas en question le respect ou non des règles de l’Arcom par France Inter.\n\nQue mesure notre analyse ?\n\n- L’orientation politique des invités des matinales politiques, en semaine, sur les mois"
     },
     {
       "author_name": "Le Figaro",
-      "published_at": "2026-11-10 07:31",
-      "text": "Candidat à la présidentielle, Teddy Riner peut-il transformer sa popularité en bulletins de vote ?\n\nBénéficiant d’un fort capital sympathie auprès des Français, le judoka peut-il convertir sa popularité en intentions de vote ? Les sondeurs sont prudents.\nhttps://www.lefigaro.fr/elections/presidentielles/ca-bouscule-un-peu-la-campagne-candidat-a-la-presidentielle-teddy-riner-peut-il-transformer-sa-popularite-en-bulletins-de-vote-20261109"
+      "published_at": "2026-11-11 07:30",
+      "text": "Un pêcheur devient millionnaire après avoir capturé le barramundi →https://l.lefigaro.fr/Rpqt"
     },
     {
-      "author_name": "Damien Rieu",
-      "published_at": "2026-11-10 07:32",
-      "text": "[Retweet de @Hexagone_org] 🔴 [EXCLUSIF] Après sa mise en demeure par l'Arcom, France Inter conserve un biais politique en faveur de la gauche dans sa matinale, qui est par ailleurs la première matinale de France.\n\nEn juin, la radio généraliste du service public a été rappelée à l'ordre par l'Arcom pour"
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-11 07:31",
+      "text": "🔴\"Il faut interdire ces blocus !\"\n\n🗣️ @SylvainDuyck (vice-président de la PEEP) : \"Ce n'est pas aux parents d'élèves de faire la police, les gouvernants doivent agir\" #GrandMatin\n\n📻https://www.sudradio.fr/"
     },
     {
-      "author_name": "Damien Rieu",
-      "published_at": "2026-11-10 07:34",
-      "text": "[Retweet de @TrumpFrance] ALLO LA DROITE. La gauche est en train de nous mettre une distance en terme d'implication, d'agressivité politique, elle tient le récit, les mobilisations, le front anti-Macron, renverse nos meilleurs victoires (Commission France TV) contre nous (fermeture de Cnews), réalloue"
-    },
+      "author_name": "Europe 1",
+      "published_at": "2026-11-11 07:32",
+      "text": "Teddy Riner candidat à la présidentielle : panique à l’extrême gauche ?\n\n➡️ Écoutez l'édito de @Laurent7Tessier dans #Europe1Matin #Europe1"
+    }
+  ],
+  "context": [
     {
       "author_name": "Samuel Lafont",
       "published_at": "2026-11-10 07:37",
@@ -8930,6 +8981,11 @@
       "author_name": "Tocsin",
       "published_at": "2026-11-10 18:00",
       "text": "JTTTV du 10/11 : Les Macron portent plainte contre Candace pour... sa poupée ! https://x.com/i/broadcasts/2pelBgBYyZjAVp"
+    },
+    {
+      "author_name": "Kontre Kulture",
+      "published_at": "2026-11-10 18:00",
+      "text": "⛔ Faites barrage à l'ignorance : LISEZ !"
     },
     {
       "author_name": "Frontières",
