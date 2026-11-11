@@ -1,13 +1,13 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-11T22:39:56.849Z",
+  "updated_at": "2026-11-11T22:40:35.595Z",
   "window_hours": 24,
-  "window_start": "2026-11-10T22:39:56.849Z",
+  "window_start": "2026-11-10T22:40:35.595Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1567,
+  "count": 1565,
   "tweets": [
     {
       "id": "2120647465309454848",
@@ -20353,32 +20353,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/clement_mci/status/2120285717213446538"
-    },
-    {
-      "id": "2120285480839426194",
-      "created_at": "2026-11-10T22:40:26.000Z",
-      "author": "RNational_off",
-      "author_name": "Rassemblement National",
-      "type": "tweet",
-      "text": "Avec Marine Le Pen, nous servirons tous les Français avec justice et équité, quels que soient leur origine, leur religion ou leur vote, y compris ceux qui n’auront pas voté pour nous.\n\n📖 Commandez « Gouverner » : https://www.amazon.fr/dp/2213736499\n\n#FaceABFM",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/RNational_off/status/2120285480839426194"
-    },
-    {
-      "id": "2120285408667832555",
-      "created_at": "2026-11-10T22:40:09.000Z",
-      "author": "eciotti",
-      "author_name": "Eric Ciotti",
-      "type": "retweet",
-      "text": "Comportement honteux d’Alexis Corbière sur BFM : agressif, irrespectueux, donneur de leçons, méprisant. \n\nProfessionnel de la politique sans talent, même Jean-Luc Mélenchon l’a viré de LFI. \n\nSoutien chère @louiselzeu !",
-      "retweeted_author": "GuilhemCarayon",
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/eciotti/status/2120285408667832555"
     }
   ]
 }
