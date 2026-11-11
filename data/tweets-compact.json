@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-12 00:10",
-  "period": "du 2026-11-11 00:10 au 2026-11-12 00:10",
-  "new_period": "du 2026-11-11 20:00 au 2026-11-12 00:10",
-  "context_period": "du 2026-11-11 00:10 au 2026-11-11 20:00",
+  "generated_at": "2026-11-12 00:40",
+  "period": "du 2026-11-11 00:40 au 2026-11-12 00:40",
+  "new_period": "du 2026-11-11 20:00 au 2026-11-12 00:40",
+  "context_period": "du 2026-11-11 00:40 au 2026-11-11 20:00",
   "coverage_complete": true,
-  "new_count": 196,
-  "context_count": 1240,
-  "duplicates_merged": 103,
+  "new_count": 205,
+  "context_count": 1225,
+  "duplicates_merged": 101,
   "empty_removed": 4,
   "new": [
     {
@@ -1014,96 +1014,54 @@
       "author_name": "Le Point",
       "published_at": "2026-11-12 00:08",
       "text": "Jaeger-LeCoultre, le luxe décontracté\n\nPar @ArthurFryd https://l.lepoint.fr/2mq"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Jean-Yves Le Gallou",
-      "published_at": "2026-11-11 00:11",
-      "text": "[Retweet de @LesBraves_] « Il n'était pas possible de procéder au Grand Remplacement sans ce que j'appelle la proclamation du dogme, à la fois criminel et imbécile, de l'inexistence des races, vers le milieu des années 70, qui permettait la submersion migratoire et, du même coup, rendait impossible toute"
     },
     {
-      "author_name": "Jean-Yves Le Gallou",
-      "published_at": "2026-11-11 00:12",
-      "text": "[Retweet de @DamienRieu] Quelle déception d’entendre @davidlisnard reprendre la théorie de la « ghettoïsation » des immigrés alors que : \n\n👉Rien ne les oblige à rester dans les logements sociaux gracieusement payés par les Français. La liberté d’installation est totale dans tout le pays et pour tous.",
-      "also_by": [
-        "Daniel Conversano ⏩ e/acc 🚀",
-        "Damien Rieu"
-      ]
+      "author_name": "Cercle Aristote",
+      "published_at": "2026-11-12 00:13",
+      "text": "[Retweet de @GBenhessa] 100 profs veulent interdire au peuple souverain de réviser « sa » Constitution.\n\nEt disent, au passage, le contraire de ce que de Gaulle disait.\n\nLa haine du peuple est de plus en plus officielle. Décomplexée.\n\n@Cercle_Aristote @IdLiibertes @Tocsin_Media"
     },
     {
-      "author_name": "Jean-Yves Le Gallou",
-      "published_at": "2026-11-11 00:13",
-      "text": "[Retweet de @radiocourtoisie] 💥 « La Jeune Garde avait des liens quasi institutionnels avec la mairie écolo de Lyon. […] Un partenariat dont la publicité a été faite sur les comptes officiels de la mairie de Lyon. »\n\n🗣️@jean_bexon, journaliste @BVoltaire\n\n🎙️ Avec @bouclay1 sur Radio Courtoisie\n\n👉 :"
+      "author_name": "Cercle Aristote",
+      "published_at": "2026-11-12 00:16",
+      "text": "[Retweet de @Cercle_Aristote] 🔴 FACE À PYR 🔴\n\n@rougeyronpierre reçoit l’excellent @LeSommierRgis autour de son ouvrage de souvenirs \"Jours de feu\" (publié aux éditions Érick Bonnier), pour un entretien de fond consacré au métier de reporter de guerre.\n\nhttps://youtu.be/7dGwuxqX05E?si=ycNMMYrnjQhlc6ap"
     },
     {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-11 00:18",
-      "text": "Jordan Bardella veut arrêter le renouvellement des titres de séjour des étrangers sans emploi depuis plus de 6 mois https://l.leparisien.fr/1RTM",
-      "also_by": [
-        "Le Parisien | politique"
-      ]
+      "author_name": "Cercle Aristote",
+      "published_at": "2026-11-12 00:16",
+      "text": "[Retweet de @Cercle_Aristote] N’oubliez pas de prendre le vélo au lieu de la voiture pour moins polluer, et pour respirer le bon air venant d’Allemagne… 🤡"
     },
     {
-      "author_name": "Jordan Bardella",
-      "published_at": "2026-11-11 00:20",
-      "text": "Je souhaite un gouvernement resserré autour d'une quinzaine de ministres, avec des secrétaires d’État de mission : par exemple, un secrétaire d’État en charge de la simplification pour libérer l'économie française du poids considérable des normes."
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-12 00:19",
+      "text": "Avec Teddy Riner, la « droite » a trouvé un candidat qui « a de l’allure », juge Jean-Luc Mélenchon\n➡️ https://l.leparisien.fr/Dj7e"
     },
     {
-      "author_name": "Jordan Bardella",
-      "published_at": "2026-11-11 00:22",
-      "text": "Si demain nous avons, avec Marine Le Pen, le privilège immense de servir les Français, nous servirons TOUS les Français, y compris ceux qui n'auront pas voté pour nous.\n\nLa politique que nous conduirons sera la même pour tous, au service de la Nation."
-    },
-    {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-11 00:23",
-      "text": "Essonne : à 19 ans, sans billet ni titre de séjour, il frappe un contrôleur et un policier dans un Ouigo entre Brétigny et Juvisy. Verdict : six mois avec sursis et 1 200 € à verser aux victimes. https://www.fdesouche.com/2026/11/11/essonne-ouigo-sans-billet-sans-papiers-controleur-policier-six-mois-sursis/"
-    },
-    {
-      "author_name": "Valeurs actuelles",
-      "published_at": "2026-11-11 00:25",
-      "text": "🗞️ Alors que les fêtes de Saint-Nicolas débuteront à Nancy le 20 novembre prochain, une relique du saint patron de la Lorraine a été volée puis profanée. Le suspect aurait expliqué avoir pris du plaisir à « combattre le fétichisme ».\nhttps://l.valeursactuelles.com/RWz"
-    },
-    {
-      "author_name": "Jean-Yves Le Gallou",
-      "published_at": "2026-11-11 00:26",
-      "text": "[Retweet de @F_Desouche] À Salbris (Loir-et-Cher), Alexandre Avril annonce le retour du blason communal, riche en symboles de Sologne. Le drapeau et sa devise suivront en 2027."
-    },
-    {
-      "author_name": "Jean-Yves Le Gallou",
-      "published_at": "2026-11-11 00:27",
-      "text": "[Retweet de @MartinSellner_] Kickl führt die erfolgreichste patriotische Partei ganz Europas. Hier propagiert er Remigration als Lösung des Bevölkerungsaustauschs. \n\nLasst euch von mutlosen Minimialisten keine Angst machen. \nDie Leute verstehen, dass wir die Politiker austauschen müssen, bevor sie das Volk"
+      "author_name": "Le Point",
+      "published_at": "2026-11-12 00:21",
+      "text": "Jérôme Garcin, le cancer et Laure Bataille https://l.lepoint.fr/ewG"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-11 00:27",
-      "text": "Kévin Bossuet : «L'important, dans l'École, c'est la neutralité. C'est véritablement de servir les valeurs de la République, de créer un commun pour que tout le monde puisse se sentir Français», dans #SoirInfo \n\nToute l'info est à retrouver sur https://cnews.fr"
+      "published_at": "2026-11-12 00:25",
+      "text": "Aurélie Taquillain, vice-présidente Renaissance de la Région Ile-de-France, sur le coût des réparations après les mobilisations au sein des lycées : «Les dégâts s'élèvent à 10 millions d'euros», dans #SoirInfo \n\nToute l'info est à retrouver sur https://cnews.fr"
     },
     {
-      "author_name": "Jordan Bardella",
-      "published_at": "2026-11-11 00:28",
-      "text": "Après quelques mois du RN au pouvoir, je veux que les Français se disent que la France est de retour.\n\nJe veux que nos compatriotes puissent se dire: la France n'est pas finie, on a enfin à la tête de l'Etat un gouvernement qui nous protège, qui nous libère et qui aime la France."
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-12 00:25",
+      "text": "Avec Teddy Riner, la « droite » a trouvé un candidat qui « a de l’allure », juge Jean-Luc Mélenchon https://l.leparisien.fr/gy9v"
     },
     {
-      "author_name": "Jean-Yves Le Gallou",
-      "published_at": "2026-11-11 00:29",
-      "text": "[Retweet de @philippejeanpr1] Dans les années 1980, on décrivait les pays de l'Est comme des dictatures car l'Etat y poursuivait des écrivains en raison de leurs discours politiques."
+      "author_name": "Le Point",
+      "published_at": "2026-11-12 00:31",
+      "text": "Bordeaux : nos 13 adresses épicuriennes à découvrir d’urgence\n\nPar @PeifferVal https://l.lepoint.fr/68m"
     },
     {
-      "author_name": "Jean-Yves Le Gallou",
-      "published_at": "2026-11-11 00:33",
-      "text": "[Retweet de @TonyPittaro] 🚨𝗖𝗟𝗔𝗦𝗛 𝗦𝗨𝗥 𝗧𝗙𝟭 - « Je renvoie tous les étrangers chômeurs de plus de 6 mois ! » Éric Zemmour\n\nGilles Bouleau : « La remigration c’est illégal ! Aucune base légale »\n\n- On fera une loi !"
-    },
-    {
-      "author_name": "Jean-Yves Le Gallou",
-      "published_at": "2026-11-11 00:35",
-      "text": "[Retweet de @EvaVlaar] Great to see @Alice_Weidel double down on the AfD’s remigration position after Tino Chrupalla and Maximilian Krah confused the electorate with misplaced comments blaming the Republicans’ election losses on ICE and how Remigration on a mass scale is impossible.\n\nShe rightly"
-    },
-    {
-      "author_name": "Eric Zemmour",
-      "published_at": "2026-11-11 00:36",
-      "text": "[Retweet de @RTLFrance] \"Je me présente pour conserver une France française\" : Éric Zemmour officialise sa candidature à la présidentielle 2027\nhttps://l.rtl.fr/4ma"
-    },
+      "author_name": "Tanguy David",
+      "published_at": "2026-11-12 00:34",
+      "text": "[Retweet de @SwordOfSalomon] 🚨🚨🐘 SIGNALEMENT : Voici qui est l’homme qui se cache, depuis plus de 10 ans, derrière le compte @realmarcel1, le plus gros compte militant insoumis (203 000 abonnés), fer de lance de la meute LFI.\n\n🚩Depuis le 7 octobre, ce compte n’a cessé de remettre en cause, de minimiser,"
+    }
+  ],
+  "context": [
     {
       "author_name": "Eric Zemmour",
       "published_at": "2026-11-11 00:42",
@@ -1113,6 +1071,14 @@
       "author_name": "Jean-Yves Le Gallou",
       "published_at": "2026-11-11 00:44",
       "text": "[Retweet de @ThaisEscufon] Wish you were this based all the time.\n\nBut what you’re describing is called remigration, you know, the very policy you called ‘racist’ and attacked us activists for advocating."
+    },
+    {
+      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
+      "published_at": "2026-11-11 00:45",
+      "text": "[Retweet de @DamienRieu] Quelle déception d’entendre @davidlisnard reprendre la théorie de la « ghettoïsation » des immigrés alors que : \n\n👉Rien ne les oblige à rester dans les logements sociaux gracieusement payés par les Français. La liberté d’installation est totale dans tout le pays et pour tous.",
+      "also_by": [
+        "Damien Rieu"
+      ]
     },
     {
       "author_name": "Daniel Conversano ⏩ e/acc 🚀",
