@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-11 05:05",
-  "period": "du 2026-11-10 05:05 au 2026-11-11 05:05",
-  "new_period": "du 2026-11-10 20:00 au 2026-11-11 05:05",
-  "context_period": "du 2026-11-10 05:05 au 2026-11-10 20:00",
+  "generated_at": "2026-11-11 05:35",
+  "period": "du 2026-11-10 05:35 au 2026-11-11 05:35",
+  "new_period": "du 2026-11-10 20:00 au 2026-11-11 05:35",
+  "context_period": "du 2026-11-10 05:35 au 2026-11-10 20:00",
   "coverage_complete": false,
-  "new_count": 477,
-  "context_count": 1473,
-  "duplicates_merged": 153,
+  "new_count": 482,
+  "context_count": 1469,
+  "duplicates_merged": 155,
   "empty_removed": 12,
   "new": [
     {
@@ -2483,30 +2483,38 @@
     {
       "author_name": "Le Parisien | politique",
       "published_at": "2026-11-11 04:58",
-      "text": "Le père de Meghan Markle coupe son bracelet électronique, une juge américaine le renvoie en prison\n➡️ https://l.leparisien.fr/wZRD"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Ni Oubli Ni Pardon",
-      "published_at": "2026-11-10 05:16",
-      "text": "07/2020 Des ambassadeurs de plages ont été recrutés par la mairie de Pornic afin de s'assurer que les gestes barrières soient bien respectés. « Le sentier est à sens unique pour éviter les croisements avec le Covid, du coup il ne faut pas repasser. »"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-10 05:23",
-      "text": "🇫🇷 J-2 avant le salon Made in France \n\n👉Le Made in France est-il un choix de patriote ou un luxe réservé à ceux qui en ont les moyens ? \n\n📻Votre avis nous intéresse dans #LeGrandMatin ! Réagissez en commentaires"
-    },
-    {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-10 05:29",
-      "text": "« On ne peut pas fermer les yeux » : l’Australie va imposer des garde-fous aux entreprises d’IA\n➡️ https://l.leparisien.fr/Dj77"
+      "text": "Le père de Meghan Markle coupe son bracelet électronique, une juge américaine le renvoie en prison\n➡️ https://l.leparisien.fr/wZRD",
+      "also_by": [
+        "Le Parisien"
+      ]
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-10 05:32",
-      "text": "« Une campagne d’humiliation internationale » : nouvelle plainte d’Emmanuel et Brigitte Macron contre l’influenceuse américaine Candace Owens\n➡️ https://l.leparisien.fr/xXxy"
+      "published_at": "2026-11-11 05:06",
+      "text": "Mobilisation universitaire : la légende du « 10 améliorable » qui perdure sur les campus\n➡️ https://l.leparisien.fr/fq0P"
     },
+    {
+      "author_name": "Ni Oubli Ni Pardon",
+      "published_at": "2026-11-11 05:15",
+      "text": "10/2021 À la patinoire olympique de Mulhouse, le pass sanitaire est obligatoire pour les adultes et pour les plus de 12 ans. \n\nhttps://www.lalsace.fr/culture-loisirs/2021/09/08/mulhouse-31-c-le-temps-parfait-pour-retrouver-le-plaisir-de-la-glisse-a-la-patinoire"
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-11 05:25",
+      "text": "« J’ai prouvé que tout le monde avait tort » : un militant fait dépénaliser l’homosexualité à Trinité-et-Tobago\n➡️ https://l.leparisien.fr/6aZv"
+    },
+    {
+      "author_name": "Gilbert Collard",
+      "published_at": "2026-11-11 05:28",
+      "text": "Ce type de déclaration devrait immédiatement provoquer des poursuites pénales. Il faut rappeler à ce monsieur que force restera à la loi. Et que cette force peut faire plier les voyous et reculer les menaces !"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-11 05:29",
+      "text": "🇫🇷 Un siècle après la Grande Guerre, si la France était attaquée demain :\n\n🪖Seriez-vous prêts à la défendre ?\n\n📻Votre avis nous intéresse dans #LeGrandMatin ! Réagissez en commentaires."
+    }
+  ],
+  "context": [
     {
       "author_name": "Sud Radio",
       "published_at": "2026-11-10 05:49",
