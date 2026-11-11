@@ -1,9 +1,9 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-11T01:35:16.285Z",
+  "updated_at": "2026-11-11T02:05:22.079Z",
   "window_hours": 24,
-  "window_start": "2026-11-10T01:35:16.285Z",
+  "window_start": "2026-11-10T02:05:22.079Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": false,
   "possible_gaps": [
@@ -23,8 +23,34 @@
       "minutes": 7
     }
   ],
-  "count": 2123,
+  "count": 2121,
   "tweets": [
+    {
+      "id": "2120332790889869334",
+      "created_at": "2026-11-11T01:48:25.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "Qui a voté pour (ou contre) le rejet de la pétition demandant la suppression de la chaîne CNews ?\n\nVoici le détail du scrutin qui s'est tenu au sein de la commission des Affaires culturelles de l’Assemblée nationale\n➡️ https://l.leparisien.fr/Yiyi",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2120332790889869334"
+    },
+    {
+      "id": "2120329972631953887",
+      "created_at": "2026-11-11T01:37:13.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "« Jamais observé » si tôt : avec le vortex polaire perturbé, faut-il vraiment craindre un hiver glacial en France ? https://l.leparisien.fr/J6ek",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2120329972631953887"
+    },
     {
       "id": "2120327787793818061",
       "created_at": "2026-11-11T01:28:33.000Z",
@@ -27571,58 +27597,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/LeSommierRgis/status/2119974690156359887"
-    },
-    {
-      "id": "2119974649190928666",
-      "created_at": "2026-11-10T02:05:18.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "« Je crois qu’il souffre grandement » : Donald Trump vole au secours du patron de Nvidia, soupçonné d’une liaison avec une espionne chinoise\n➡️ https://l.leparisien.fr/or3l",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2119974649190928666"
-    },
-    {
-      "id": "2119974570237350373",
-      "created_at": "2026-11-10T02:04:59.000Z",
-      "author": "LeSommierRgis",
-      "author_name": "Régis Le Sommier",
-      "type": "retweet",
-      "text": "🇷🇺🇺🇦Mykhaïlo Podoliak (photo de droite) est ukrainien, il est un des conseillers de V. Zelensky. Volodymyr Podoliak (photo de gauche) est un frère de Mykhailo. Il est ukrainien aussi mais il s'est battu avec l'armée russe et a été tué par l'armée de Zelensky. On ne peut rien",
-      "retweeted_author": "1NikolaMirkovic",
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/LeSommierRgis/status/2119974570237350373"
-    },
-    {
-      "id": "2119973316677255318",
-      "created_at": "2026-11-10T02:00:00.000Z",
-      "author": "BVoltaire",
-      "author_name": "Boulevard Voltaire",
-      "type": "tweet",
-      "text": "« Nommer la réalité, c'est être fasciste. Si vous dites que l'agression de Rouen est cathophobe, que vous ne reconnaissez pas votre pays, vous êtes un fasciste. En fait, la réalité est fasciste. »\n\n@EricNaulleau répondait aux questions de @YannMontero ⤵️\nhttps://www.bvoltaire.fr/linvite-eric-naulleau-la-verite-leur-reviendra-a-la-gueule/",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/BVoltaire/status/2119973316677255318"
-    },
-    {
-      "id": "2119969646124146755",
-      "created_at": "2026-11-10T01:45:25.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "Sophie Binet s’en prend à un journaliste de la chaîne CNews et interrompt son point presse\n➡️ https://l.leparisien.fr/TEAF",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2119969646124146755"
     }
   ]
 }

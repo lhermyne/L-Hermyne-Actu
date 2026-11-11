@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-11 02:35",
-  "period": "du 2026-11-10 02:35 au 2026-11-11 02:35",
-  "new_period": "du 2026-11-10 20:00 au 2026-11-11 02:35",
-  "context_period": "du 2026-11-10 02:35 au 2026-11-10 20:00",
+  "generated_at": "2026-11-11 03:05",
+  "period": "du 2026-11-10 03:05 au 2026-11-11 03:05",
+  "new_period": "du 2026-11-10 20:00 au 2026-11-11 03:05",
+  "context_period": "du 2026-11-10 03:05 au 2026-11-10 20:00",
   "coverage_complete": false,
-  "new_count": 469,
-  "context_count": 1488,
-  "duplicates_merged": 154,
+  "new_count": 471,
+  "context_count": 1486,
+  "duplicates_merged": 152,
   "empty_removed": 12,
   "new": [
     {
@@ -2438,39 +2438,28 @@
       "also_by": [
         "Le Parisien | politique"
       ]
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-11 02:37",
+      "text": "« Jamais observé » si tôt : avec le vortex polaire perturbé, faut-il vraiment craindre un hiver glacial en France ? https://l.leparisien.fr/J6ek"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-11 02:48",
+      "text": "Qui a voté pour (ou contre) le rejet de la pétition demandant la suppression de la chaîne CNews ?\n\nVoici le détail du scrutin qui s'est tenu au sein de la commission des Affaires culturelles de l’Assemblée nationale\n➡️ https://l.leparisien.fr/Yiyi"
     }
   ],
   "context": [
     {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-10 02:45",
-      "text": "Sophie Binet s’en prend à un journaliste de la chaîne CNews et interrompt son point presse\n➡️ https://l.leparisien.fr/TEAF"
-    },
-    {
-      "author_name": "Boulevard Voltaire",
-      "published_at": "2026-11-10 03:00",
-      "text": "« Nommer la réalité, c'est être fasciste. Si vous dites que l'agression de Rouen est cathophobe, que vous ne reconnaissez pas votre pays, vous êtes un fasciste. En fait, la réalité est fasciste. »\n\n@EricNaulleau répondait aux questions de @YannMontero ⤵️\nhttps://www.bvoltaire.fr/linvite-eric-naulleau-la-verite-leur-reviendra-a-la-gueule/",
-      "also_by": [
-        "Gabrielle Cluzel"
-      ]
-    },
-    {
-      "author_name": "Régis Le Sommier",
-      "published_at": "2026-11-10 03:04",
-      "text": "[Retweet de @1NikolaMirkovic] 🇷🇺🇺🇦Mykhaïlo Podoliak (photo de droite) est ukrainien, il est un des conseillers de V. Zelensky. Volodymyr Podoliak (photo de gauche) est un frère de Mykhailo. Il est ukrainien aussi mais il s'est battu avec l'armée russe et a été tué par l'armée de Zelensky. On ne peut rien"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-10 03:05",
-      "text": "« Je crois qu’il souffre grandement » : Donald Trump vole au secours du patron de Nvidia, soupçonné d’une liaison avec une espionne chinoise\n➡️ https://l.leparisien.fr/or3l",
-      "also_by": [
-        "Le Parisien | politique"
-      ]
-    },
-    {
       "author_name": "Régis Le Sommier",
       "published_at": "2026-11-10 03:05",
       "text": "[Retweet de @Omerta_officiel] La chute d’Ueno Bank provoque une vague de colère au Paraguay. Quelles responsabilités politiques et quelles conséquences pour le pays ?\n\nAlain Ledoyen décrypte cette affaire explosive.\n\n▶️ https://youtu.be/UNA9GNRSXjo"
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-10 03:09",
+      "text": "« Je crois qu’il souffre grandement » : Donald Trump vole au secours du patron de Nvidia, soupçonné d’une liaison avec une espionne chinoise\n➡️ https://l.leparisien.fr/7WPM"
     },
     {
       "author_name": "Thaïs d’Escufon",
@@ -6327,6 +6316,11 @@
       "author_name": "Tocsin",
       "published_at": "2026-11-10 13:51",
       "text": "🏚️ « Les élites européennes ont depuis très longtemps abandonné le service des intérêts de leur nation ! »\n\n🤜🏻 « Jean-Noël Barrot est l’expression chimiquement pure des élites européennes qui ont, depuis très longtemps, abandonné le service des intérêts de leur nation et qui se"
+    },
+    {
+      "author_name": "Gabrielle Cluzel",
+      "published_at": "2026-11-10 13:53",
+      "text": "[Retweet de @BVoltaire] « Nommer la réalité, c'est être fasciste. Si vous dites que l'agression de Rouen est cathophobe, que vous ne reconnaissez pas votre pays, vous êtes un fasciste. En fait, la réalité est fasciste. »\n\n@EricNaulleau répondait aux questions de @YannMontero ⤵️\nhttps://www.bvoltaire.fr/linvite-eric-naulleau-la-verite-leur-reviendra-a-la-gueule/"
     },
     {
       "author_name": "Le Parisien",
