@@ -1,9 +1,9 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-11T01:04:51.751Z",
+  "updated_at": "2026-11-11T01:35:16.285Z",
   "window_hours": 24,
-  "window_start": "2026-11-10T01:04:51.751Z",
+  "window_start": "2026-11-10T01:35:16.285Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": false,
   "possible_gaps": [
@@ -23,8 +23,99 @@
       "minutes": 7
     }
   ],
-  "count": 2121,
+  "count": 2123,
   "tweets": [
+    {
+      "id": "2120327787793818061",
+      "created_at": "2026-11-11T01:28:33.000Z",
+      "author": "leparisien_pol",
+      "author_name": "Le Parisien | politique",
+      "type": "tweet",
+      "text": "« Le temps joue contre nous » : Retailleau propose aux candidats de la droite et du centre une primaire les 31 janvier et 7 février https://l.leparisien.fr/Qtg6",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/leparisien_pol/status/2120327787793818061"
+    },
+    {
+      "id": "2120326779042951293",
+      "created_at": "2026-11-11T01:24:32.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "« Le temps joue contre nous » : Retailleau propose aux candidats de la droite et du centre une primaire les 31 janvier et 7 février https://l.leparisien.fr/tQGR",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2120326779042951293"
+    },
+    {
+      "id": "2120324383088464152",
+      "created_at": "2026-11-11T01:15:01.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "« Il change d’avis comme de chemise » : entre le ring et les chantiers, Donald Trump sur courant alternatif depuis les midterms\n➡️ https://l.leparisien.fr/bOw2",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2120324383088464152"
+    },
+    {
+      "id": "2120323426204504247",
+      "created_at": "2026-11-11T01:11:13.000Z",
+      "author": "leparisien_pol",
+      "author_name": "Le Parisien | politique",
+      "type": "tweet",
+      "text": "« Il change d’avis comme de chemise » : entre le ring et les chantiers, Donald Trump sur courant alternatif depuis les midterms\n➡️ https://l.leparisien.fr/yIIb",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/leparisien_pol/status/2120323426204504247"
+    },
+    {
+      "id": "2120322965053067721",
+      "created_at": "2026-11-11T01:09:23.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "« L’arche bloquerait la vue sur les tombes » : la famille Kennedy porte plainte contre le projet d’arc de triomphe de Donald Trump\n➡️ https://l.leparisien.fr/BNmI",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2120322965053067721"
+    },
+    {
+      "id": "2120322065018302660",
+      "created_at": "2026-11-11T01:05:48.000Z",
+      "author": "RLC_officiel",
+      "author_name": "Reprenons le contrôle !",
+      "type": "retweet",
+      "text": "Le gouvernement court derrière le @RNational_off, tente de le doubler… et finit dans le fossé !\n\nBilan :\n\n👉 Une victoire pour nos forces de l’ordre\n👉 Un poids politique confirmé pour le @GroupeUNT\n👉 3 textes au lieu de 2 pour notre niche \n\n➡️ https://www.publicsenat.fr/actualites/politique/nous-decouvrons-lobstruction-calendaire-au-senat-le-groupe-rn-udr-devoile-les-textes-de-sa-niche-parlementaire",
+      "retweeted_author": "diaz_edwige",
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/RLC_officiel/status/2120322065018302660"
+    },
+    {
+      "id": "2120321881102311656",
+      "created_at": "2026-11-11T01:05:04.000Z",
+      "author": "RLC_officiel",
+      "author_name": "Reprenons le contrôle !",
+      "type": "retweet",
+      "text": "Merci à @LCP de m’avoir reçu dans l’émission « La politique et moi » !\n\nL’occasion de revenir sur mon parcours, de l’ingénierie nucléaire à mon engagement politique.\n\n🎥 Retrouvez l’émission en intégralité ici :\nhttps://lcp.fr/programmes/la-politique-et-moi/maxime-amblard-depute-rassemblement-national-de-la-meuse-444276",
+      "retweeted_author": "MaximeAmblard5",
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/RLC_officiel/status/2120321881102311656"
+    },
     {
       "id": "2120321660767355228",
       "created_at": "2026-11-11T01:04:12.000Z",
@@ -27532,71 +27623,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/le_Parisien/status/2119969646124146755"
-    },
-    {
-      "id": "2119966825966367214",
-      "created_at": "2026-11-10T01:34:13.000Z",
-      "author": "leparisien_pol",
-      "author_name": "Le Parisien | politique",
-      "type": "tweet",
-      "text": "« Un élan positif » : convaincu par sa défaite aux midterms, Donald Trump prêt à trouver un accord avec l’Iran\n➡️ https://l.leparisien.fr/iL5s",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/leparisien_pol/status/2119966825966367214"
-    },
-    {
-      "id": "2119965463975530705",
-      "created_at": "2026-11-10T01:28:48.000Z",
-      "author": "ThaisEscufon",
-      "author_name": "Thaïs d’Escufon",
-      "type": "quote",
-      "text": "Wish you were this based all the time.\n\nBut what you’re describing is called remigration, you know, the very policy you called ‘racist’ and attacked us activists for advocating.",
-      "retweeted_author": null,
-      "quoted_author": "MLP_officiel",
-      "quoted_text": "Si quelqu’un arrive en France et dit : je vous déteste, je méprise votre culture, je ne veux pas respecter vos lois, nous lui dirons : la porte est grande ouverte. Et nous pourrions même vous obliger à la prendre.",
-      "lang": "en",
-      "url": "https://x.com/ThaisEscufon/status/2119965463975530705"
-    },
-    {
-      "id": "2119964724905533775",
-      "created_at": "2026-11-10T01:25:52.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "« Un élan positif » : convaincu par sa défaite aux midterms, Donald Trump prêt à trouver un accord avec l’Iran\n➡️ https://l.leparisien.fr/04bd",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2119964724905533775"
-    },
-    {
-      "id": "2119963940088414602",
-      "created_at": "2026-11-10T01:22:44.000Z",
-      "author": "leparisien_pol",
-      "author_name": "Le Parisien | politique",
-      "type": "tweet",
-      "text": "Présidentielle 2027 : La France insoumise (LFI) relance son running club à Paris et pourrait l’étendre à d’autres villes de France https://l.leparisien.fr/C5VC",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/leparisien_pol/status/2119963940088414602"
-    },
-    {
-      "id": "2119961098635886837",
-      "created_at": "2026-11-10T01:11:27.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "« Freiner l’expansion démographique incontrôlée » : la Papouasie-Nouvelle-Guinée envisage de limiter les familles à trois enfants\n➡️ https://l.leparisien.fr/aCWj",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2119961098635886837"
     }
   ]
 }

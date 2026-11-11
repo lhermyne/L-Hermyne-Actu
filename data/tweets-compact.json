@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-11 02:04",
-  "period": "du 2026-11-10 02:04 au 2026-11-11 02:04",
-  "new_period": "du 2026-11-10 20:00 au 2026-11-11 02:04",
-  "context_period": "du 2026-11-10 02:04 au 2026-11-10 20:00",
+  "generated_at": "2026-11-11 02:35",
+  "period": "du 2026-11-10 02:35 au 2026-11-11 02:35",
+  "new_period": "du 2026-11-10 20:00 au 2026-11-11 02:35",
+  "context_period": "du 2026-11-10 02:35 au 2026-11-10 20:00",
   "coverage_complete": false,
-  "new_count": 465,
-  "context_count": 1492,
-  "duplicates_merged": 152,
+  "new_count": 469,
+  "context_count": 1488,
+  "duplicates_merged": 154,
   "empty_removed": 12,
   "new": [
     {
@@ -2403,38 +2403,44 @@
     {
       "author_name": "Le Parisien | politique",
       "published_at": "2026-11-11 01:57",
-      "text": "« L’arche bloquerait la vue sur les tombes » : la famille Kennedy porte plainte contre le projet d’arc de triomphe de Donald Trump\n➡️ https://l.leparisien.fr/z9hw"
+      "text": "« L’arche bloquerait la vue sur les tombes » : la famille Kennedy porte plainte contre le projet d’arc de triomphe de Donald Trump\n➡️ https://l.leparisien.fr/z9hw",
+      "also_by": [
+        "Le Parisien"
+      ]
     },
     {
       "author_name": "Valeurs actuelles",
       "published_at": "2026-11-11 02:04",
       "text": "🗞️ Le bras de fer entre la gauche, au pouvoir, et la droite, portée par les sondages, dégénère. Le 30 novembre, le Premier ministre a tenté un coup de force institutionnel. Avec la complicité de Bruxelles.\nhttps://l.valeursactuelles.com/L0H"
-    }
-  ],
-  "context": [
+    },
     {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-10 02:11",
-      "text": "« Freiner l’expansion démographique incontrôlée » : la Papouasie-Nouvelle-Guinée envisage de limiter les familles à trois enfants\n➡️ https://l.leparisien.fr/aCWj"
+      "author_name": "Reprenons le contrôle !",
+      "published_at": "2026-11-11 02:05",
+      "text": "[Retweet de @MaximeAmblard5] Merci à @LCP de m’avoir reçu dans l’émission « La politique et moi » !\n\nL’occasion de revenir sur mon parcours, de l’ingénierie nucléaire à mon engagement politique.\n\n🎥 Retrouvez l’émission en intégralité ici :\nhttps://lcp.fr/programmes/la-politique-et-moi/maxime-amblard-depute-rassemblement-national-de-la-meuse-444276"
+    },
+    {
+      "author_name": "Reprenons le contrôle !",
+      "published_at": "2026-11-11 02:05",
+      "text": "[Retweet de @diaz_edwige] Le gouvernement court derrière le @RNational_off, tente de le doubler… et finit dans le fossé !\n\nBilan :\n\n👉 Une victoire pour nos forces de l’ordre\n👉 Un poids politique confirmé pour le @GroupeUNT\n👉 3 textes au lieu de 2 pour notre niche \n\n➡️ https://www.publicsenat.fr/actualites/politique/nous-decouvrons-lobstruction-calendaire-au-senat-le-groupe-rn-udr-devoile-les-textes-de-sa-niche-parlementaire"
     },
     {
       "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-10 02:22",
-      "text": "Présidentielle 2027 : La France insoumise (LFI) relance son running club à Paris et pourrait l’étendre à d’autres villes de France https://l.leparisien.fr/C5VC"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-10 02:25",
-      "text": "« Un élan positif » : convaincu par sa défaite aux midterms, Donald Trump prêt à trouver un accord avec l’Iran\n➡️ https://l.leparisien.fr/04bd",
+      "published_at": "2026-11-11 02:11",
+      "text": "« Il change d’avis comme de chemise » : entre le ring et les chantiers, Donald Trump sur courant alternatif depuis les midterms\n➡️ https://l.leparisien.fr/yIIb",
       "also_by": [
-        "Le Parisien | politique"
+        "Le Parisien"
       ]
     },
     {
-      "author_name": "Thaïs d’Escufon",
-      "published_at": "2026-11-10 02:28",
-      "text": "Wish you were this based all the time.\n\nBut what you’re describing is called remigration, you know, the very policy you called ‘racist’ and attacked us activists for advocating.\n[Cite @MLP_officiel] Si quelqu’un arrive en France et dit : je vous déteste, je méprise votre culture, je ne veux pas respecter vos lois, nous lui dirons : la porte est grande ouverte. Et nous pourrions même vous obliger à la prendre."
-    },
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-11 02:24",
+      "text": "« Le temps joue contre nous » : Retailleau propose aux candidats de la droite et du centre une primaire les 31 janvier et 7 février https://l.leparisien.fr/tQGR",
+      "also_by": [
+        "Le Parisien | politique"
+      ]
+    }
+  ],
+  "context": [
     {
       "author_name": "Le Parisien",
       "published_at": "2026-11-10 02:45",
