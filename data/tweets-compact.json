@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-11 04:35",
-  "period": "du 2026-11-10 04:35 au 2026-11-11 04:35",
-  "new_period": "du 2026-11-10 20:00 au 2026-11-11 04:35",
-  "context_period": "du 2026-11-10 04:35 au 2026-11-10 20:00",
+  "generated_at": "2026-11-11 05:05",
+  "period": "du 2026-11-10 05:05 au 2026-11-11 05:05",
+  "new_period": "du 2026-11-10 20:00 au 2026-11-11 05:05",
+  "context_period": "du 2026-11-10 05:05 au 2026-11-10 20:00",
   "coverage_complete": false,
-  "new_count": 474,
-  "context_count": 1474,
-  "duplicates_merged": 154,
+  "new_count": 477,
+  "context_count": 1473,
+  "duplicates_merged": 153,
   "empty_removed": 12,
   "new": [
     {
@@ -2469,22 +2469,24 @@
       "also_by": [
         "Le Parisien | politique"
       ]
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-10 04:53",
-      "text": "« Une campagne d’humiliation internationale » : nouvelle plainte d’Emmanuel et Brigitte Macron contre l’influenceuse américaine Candace Owens https://l.leparisien.fr/tQGQ"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-10 04:58",
-      "text": "« On ne peut pas fermer les yeux » : l’Australie va imposer des garde-fous aux entreprises d’IA\n➡️ https://l.leparisien.fr/BNm1",
-      "also_by": [
-        "Le Parisien | politique"
-      ]
+      "published_at": "2026-11-11 04:39",
+      "text": "« Une campagne d’humiliation internationale » : nouvelle plainte d’Emmanuel et Brigitte Macron contre l’influenceuse américaine Candace Owens\n➡️ https://l.leparisien.fr/7WP0"
     },
+    {
+      "author_name": "Alain Weber",
+      "published_at": "2026-11-11 04:46",
+      "text": "[Retweet de @MaceScaron] Soumission"
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-11 04:58",
+      "text": "Le père de Meghan Markle coupe son bracelet électronique, une juge américaine le renvoie en prison\n➡️ https://l.leparisien.fr/wZRD"
+    }
+  ],
+  "context": [
     {
       "author_name": "Ni Oubli Ni Pardon",
       "published_at": "2026-11-10 05:16",
@@ -2494,6 +2496,11 @@
       "author_name": "Sud Radio",
       "published_at": "2026-11-10 05:23",
       "text": "🇫🇷 J-2 avant le salon Made in France \n\n👉Le Made in France est-il un choix de patriote ou un luxe réservé à ceux qui en ont les moyens ? \n\n📻Votre avis nous intéresse dans #LeGrandMatin ! Réagissez en commentaires"
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-10 05:29",
+      "text": "« On ne peut pas fermer les yeux » : l’Australie va imposer des garde-fous aux entreprises d’IA\n➡️ https://l.leparisien.fr/Dj77"
     },
     {
       "author_name": "Le Parisien",
