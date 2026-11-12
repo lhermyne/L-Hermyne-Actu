@@ -1,14 +1,40 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-12T02:11:26.496Z",
+  "updated_at": "2026-11-12T02:41:33.796Z",
   "window_hours": 24,
-  "window_start": "2026-11-11T02:11:26.496Z",
+  "window_start": "2026-11-11T02:41:33.796Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1536,
+  "count": 1534,
   "tweets": [
+    {
+      "id": "2120706743139500492",
+      "created_at": "2026-11-12T02:34:23.000Z",
+      "author": "Thinker_View",
+      "author_name": "ThinkerView",
+      "type": "retweet",
+      "text": "🚨The EU's Digital Services Act threatens freedom of speech GLOBALLY.\n\nWhat they say: the DSA prevents the spread of \"illegal content\" and mitigates \"systemic risks to civic discourse\".\n\nWhat actually happens: the EU controls online narratives by forcing the world's largest",
+      "retweeted_author": "ADFIntl",
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "en",
+      "url": "https://x.com/Thinker_View/status/2120706743139500492"
+    },
+    {
+      "id": "2120701232188940600",
+      "created_at": "2026-11-12T02:12:29.000Z",
+      "author": "ThaisEscufon",
+      "author_name": "Thaïs d’Escufon",
+      "type": "retweet",
+      "text": "The fact that they feel so threatened by us simply stating the English have a right to exist tells you everything about their goals.",
+      "retweeted_author": "jessgill03",
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "en",
+      "url": "https://x.com/ThaisEscufon/status/2120701232188940600"
+    },
     {
       "id": "2120698912247808133",
       "created_at": "2026-11-12T02:03:16.000Z",
@@ -19924,58 +19950,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/leparisien_pol/status/2120346820886811076"
-    },
-    {
-      "id": "2120344979164061836",
-      "created_at": "2026-11-11T02:36:51.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "Meta, l’entreprise de Mark Zuckerberg, sanctionnée d’une amende d’1,2 million de dollars après l’élection au Brésil\n➡️ https://l.leparisien.fr/Vzro",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2120344979164061836"
-    },
-    {
-      "id": "2120341788477014456",
-      "created_at": "2026-11-11T02:24:11.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "« Succès, apparence, plaisir effréné » : le pape Leon XIV exhorte les jeunes à résister « aux idoles de notre temps »\n➡️ https://l.leparisien.fr/gy9t",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2120341788477014456"
-    },
-    {
-      "id": "2120341177882804520",
-      "created_at": "2026-11-11T02:21:45.000Z",
-      "author": "alainpaulweber",
-      "author_name": "Alain Weber",
-      "type": "tweet",
-      "text": "😡😡 Polémique 2026 : des syndicats enseignants boycottent une cérémonie obligatoire, de la CM1 à la terminale, pour le 11-Nov dans les écoles, en hommage aux Morts pour la France. \n\nIls y voient un embrigadement.\n\nMAIS\n\nLes mêmes veulent donner des cours \"d’exploration de son",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/alainpaulweber/status/2120341177882804520"
-    },
-    {
-      "id": "2120340653876072461",
-      "created_at": "2026-11-11T02:19:40.000Z",
-      "author": "leparisien_pol",
-      "author_name": "Le Parisien | politique",
-      "type": "tweet",
-      "text": "« Succès, apparence, plaisir effréné » : le pape Leon XIV exhorte les jeunes à résister « aux idoles de notre temps »\n➡️ https://l.leparisien.fr/MPEW",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/leparisien_pol/status/2120340653876072461"
     }
   ]
 }

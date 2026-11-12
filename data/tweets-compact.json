@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-12 03:11",
-  "period": "du 2026-11-11 03:11 au 2026-11-12 03:11",
-  "new_period": "du 2026-11-11 20:00 au 2026-11-12 03:11",
-  "context_period": "du 2026-11-11 03:11 au 2026-11-11 20:00",
+  "generated_at": "2026-11-12 03:41",
+  "period": "du 2026-11-11 03:41 au 2026-11-12 03:41",
+  "new_period": "du 2026-11-11 20:00 au 2026-11-12 03:41",
+  "context_period": "du 2026-11-11 03:41 au 2026-11-11 20:00",
   "coverage_complete": true,
-  "new_count": 227,
-  "context_count": 1207,
-  "duplicates_merged": 98,
+  "new_count": 229,
+  "context_count": 1205,
+  "duplicates_merged": 96,
   "empty_removed": 4,
   "new": [
     {
@@ -1187,29 +1187,23 @@
       "also_by": [
         "Le Parisien | politique"
       ]
+    },
+    {
+      "author_name": "Thaïs d’Escufon",
+      "published_at": "2026-11-12 03:12",
+      "text": "[Retweet de @jessgill03] The fact that they feel so threatened by us simply stating the English have a right to exist tells you everything about their goals."
+    },
+    {
+      "author_name": "ThinkerView",
+      "published_at": "2026-11-12 03:34",
+      "text": "[Retweet de @ADFIntl] 🚨The EU's Digital Services Act threatens freedom of speech GLOBALLY.\n\nWhat they say: the DSA prevents the spread of \"illegal content\" and mitigates \"systemic risks to civic discourse\".\n\nWhat actually happens: the EU controls online narratives by forcing the world's largest"
     }
   ],
   "context": [
     {
       "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-11 03:19",
-      "text": "« Succès, apparence, plaisir effréné » : le pape Leon XIV exhorte les jeunes à résister « aux idoles de notre temps »\n➡️ https://l.leparisien.fr/MPEW",
-      "also_by": [
-        "Le Parisien"
-      ]
-    },
-    {
-      "author_name": "Alain Weber",
-      "published_at": "2026-11-11 03:21",
-      "text": "😡😡 Polémique 2026 : des syndicats enseignants boycottent une cérémonie obligatoire, de la CM1 à la terminale, pour le 11-Nov dans les écoles, en hommage aux Morts pour la France. \n\nIls y voient un embrigadement.\n\nMAIS\n\nLes mêmes veulent donner des cours \"d’exploration de son"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-11 03:36",
-      "text": "Meta, l’entreprise de Mark Zuckerberg, sanctionnée d’une amende d’1,2 million de dollars après l’élection au Brésil\n➡️ https://l.leparisien.fr/Vzro",
-      "also_by": [
-        "Le Parisien | politique"
-      ]
+      "published_at": "2026-11-11 03:44",
+      "text": "Meta, l’entreprise de Mark Zuckerberg, sanctionnée d’une amende d’1,2 million de dollars après l’élection au Brésil\n➡️ https://l.leparisien.fr/dYjm"
     },
     {
       "author_name": "Le Parisien",
