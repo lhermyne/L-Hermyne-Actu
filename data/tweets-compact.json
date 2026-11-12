@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-12 00:40",
-  "period": "du 2026-11-11 00:40 au 2026-11-12 00:40",
-  "new_period": "du 2026-11-11 20:00 au 2026-11-12 00:40",
-  "context_period": "du 2026-11-11 00:40 au 2026-11-11 20:00",
+  "generated_at": "2026-11-12 01:10",
+  "period": "du 2026-11-11 01:10 au 2026-11-12 01:10",
+  "new_period": "du 2026-11-11 20:00 au 2026-11-12 01:10",
+  "context_period": "du 2026-11-11 01:10 au 2026-11-11 20:00",
   "coverage_complete": true,
-  "new_count": 205,
-  "context_count": 1225,
-  "duplicates_merged": 101,
+  "new_count": 211,
+  "context_count": 1222,
+  "duplicates_merged": 99,
   "empty_removed": 4,
   "new": [
     {
@@ -1059,40 +1059,42 @@
       "author_name": "Tanguy David",
       "published_at": "2026-11-12 00:34",
       "text": "[Retweet de @SwordOfSalomon] 🚨🚨🐘 SIGNALEMENT : Voici qui est l’homme qui se cache, depuis plus de 10 ans, derrière le compte @realmarcel1, le plus gros compte militant insoumis (203 000 abonnés), fer de lance de la meute LFI.\n\n🚩Depuis le 7 octobre, ce compte n’a cessé de remettre en cause, de minimiser,"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Eric Zemmour",
-      "published_at": "2026-11-11 00:42",
-      "text": "[Retweet de @ici_officiel] Présidentielle 2027 : Éric Zemmour, président du parti Reconquête, officialise sa candidature\n➡️ https://l.ici.fr/h6Me"
-    },
-    {
-      "author_name": "Jean-Yves Le Gallou",
-      "published_at": "2026-11-11 00:44",
-      "text": "[Retweet de @ThaisEscufon] Wish you were this based all the time.\n\nBut what you’re describing is called remigration, you know, the very policy you called ‘racist’ and attacked us activists for advocating."
-    },
-    {
-      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
-      "published_at": "2026-11-11 00:45",
-      "text": "[Retweet de @DamienRieu] Quelle déception d’entendre @davidlisnard reprendre la théorie de la « ghettoïsation » des immigrés alors que : \n\n👉Rien ne les oblige à rester dans les logements sociaux gracieusement payés par les Français. La liberté d’installation est totale dans tout le pays et pour tous.",
-      "also_by": [
-        "Damien Rieu"
-      ]
-    },
-    {
-      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
-      "published_at": "2026-11-11 00:47",
-      "text": "[Retweet de @StefanMolyneux] Since 1990, 51% of US serial killers are Black - 4 times their population share.\n\nYet every serial killer is portrayed as White. \n\nJust another blood libel."
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-11 00:59",
-      "text": "Pete Hegseth, le ministre de la Défense de Donald Trump, sauvé par un vote des députés du parti républicain\n➡️ https://l.leparisien.fr/GgH1",
+      "published_at": "2026-11-12 00:53",
+      "text": "Un prestigieux paquebot coulé pour devenir un immense récif artificiel au large de la Floride\n➡️ https://l.leparisien.fr/UpCY",
       "also_by": [
         "Le Parisien | politique"
       ]
     },
+    {
+      "author_name": "ThinkerView",
+      "published_at": "2026-11-12 01:04",
+      "text": "C'est un troll ?\n[Cite @le_jarl] Donc c’est bien toute l’équipe Macron qui est derrière cette dinguerie. C’est hallucinant ! Ils ne s’arrêteront jamais. Ils ont foutu la France en l’air mais ils veulent continuer le travail."
+    },
+    {
+      "author_name": "ThinkerView",
+      "published_at": "2026-11-12 01:05",
+      "text": "[Retweet de @World_At_War_6] 🇩🇪🇫🇷 France warns Germany: Your missiles could start a nuclear war by accident:\n\nGermany is reportedly acquiring and developing ground-launched missiles with ranges from 500 km to more than 2,000 km, capable of hitting targets deep inside Russia.\n\nFrench officials fear Moscow"
+    },
+    {
+      "author_name": "ThinkerView",
+      "published_at": "2026-11-12 01:06",
+      "text": "[Retweet de @jon_delorraine] À regarder absolument : la communication catastrophique d'Édouard Philippe."
+    },
+    {
+      "author_name": "ThinkerView",
+      "published_at": "2026-11-12 01:07",
+      "text": "[Retweet de @nym] 🇦🇺Australia says Gmail users must age verify.\n\nFirst, it was about protecting children.\nNow it's about controlling who gets access to communication.\n\nThe infrastructure of the internet is becoming a walled garden with an identity checkpoint."
+    },
+    {
+      "author_name": "ThinkerView",
+      "published_at": "2026-11-12 01:07",
+      "text": "[Retweet de @NicolasQuiPaie] 73 posts supplémentaires depuis ce matin à 11h.\n\nNous en sommes à 318 publications de grand médias sur Teddy Riner depuis l'annonce de sa candidature.\n\nÇa me rappelle quelque chose…"
+    }
+  ],
+  "context": [
     {
       "author_name": "Valeurs actuelles",
       "published_at": "2026-11-11 01:17",
@@ -1300,6 +1302,11 @@
       "author_name": "Le Parisien",
       "published_at": "2026-11-11 06:08",
       "text": "Procès du triple meurtre de Marseille : « Équipe finie, au revoir, au prochain », les échanges codés qui fragilisent Karim Harrat\n➡️ https://l.leparisien.fr/Dj7c"
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-11 06:09",
+      "text": "Pete Hegseth, le ministre de la Défense de Donald Trump, sauvé par un vote des députés du parti républicain\n➡️ https://l.leparisien.fr/FnMB"
     },
     {
       "author_name": "Europe 1",
@@ -2311,6 +2318,11 @@
       "author_name": "Europe 1",
       "published_at": "2026-11-11 09:19",
       "text": "\"Il y a 240 enseignants qui ont été rossés ou blessés. Ça, ça mérite effectivement une sanction\" déclare  Vincent Hervouet dans #HDPros @PascalPraud #Europe1"
+    },
+    {
+      "author_name": "Damien Rieu",
+      "published_at": "2026-11-11 09:20",
+      "text": "[Retweet de @DamienRieu] Quelle déception d’entendre @davidlisnard reprendre la théorie de la « ghettoïsation » des immigrés alors que : \n\n👉Rien ne les oblige à rester dans les logements sociaux gracieusement payés par les Français. La liberté d’installation est totale dans tout le pays et pour tous."
     },
     {
       "author_name": "Kroc Blanc",
