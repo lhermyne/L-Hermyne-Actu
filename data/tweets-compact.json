@@ -1,13 +1,13 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-12 05:11",
-  "period": "du 2026-11-11 05:11 au 2026-11-12 05:11",
-  "new_period": "du 2026-11-11 20:00 au 2026-11-12 05:11",
-  "context_period": "du 2026-11-11 05:11 au 2026-11-11 20:00",
+  "generated_at": "2026-11-12 05:42",
+  "period": "du 2026-11-11 05:42 au 2026-11-12 05:42",
+  "new_period": "du 2026-11-11 20:00 au 2026-11-12 05:42",
+  "context_period": "du 2026-11-11 05:42 au 2026-11-11 20:00",
   "coverage_complete": true,
-  "new_count": 231,
-  "context_count": 1200,
+  "new_count": 236,
+  "context_count": 1194,
   "duplicates_merged": 96,
   "empty_removed": 4,
   "new": [
@@ -1210,42 +1210,37 @@
       "also_by": [
         "Le Parisien"
       ]
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-11 05:12",
-      "text": "Le père de Meghan Markle coupe son bracelet électronique, une juge américaine le renvoie en prison\n➡️ https://l.leparisien.fr/ZkkF"
-    },
-    {
-      "author_name": "Ni Oubli Ni Pardon",
-      "published_at": "2026-11-11 05:15",
-      "text": "10/2021 À la patinoire olympique de Mulhouse, le pass sanitaire est obligatoire pour les adultes et pour les plus de 12 ans. \n\nhttps://www.lalsace.fr/culture-loisirs/2021/09/08/mulhouse-31-c-le-temps-parfait-pour-retrouver-le-plaisir-de-la-glisse-a-la-patinoire"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-11 05:23",
-      "text": "💬 «J’ai pu rembourser mes prêts, j’ai pu aider, tendre la main comme vous me l’avez tendue»\n\nUn an après, Sonia, qui avait permis de localiser le chef des commandos des attentats du 13-Novembre, remercie les donateurs à trois jours de la fin de la cagnotte\n➡️"
     },
     {
       "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-11 05:25",
-      "text": "« J’ai prouvé que tout le monde avait tort » : un militant fait dépénaliser l’homosexualité à Trinité-et-Tobago\n➡️ https://l.leparisien.fr/6aZv",
+      "published_at": "2026-11-12 05:14",
+      "text": "En Espagne, les manifestations pour le droit au logement se terminent par des heurts entre manifestants et police\n➡️ https://l.leparisien.fr/8mXP",
       "also_by": [
         "Le Parisien"
       ]
     },
     {
-      "author_name": "Gilbert Collard",
-      "published_at": "2026-11-11 05:28",
-      "text": "Ce type de déclaration devrait immédiatement provoquer des poursuites pénales. Il faut rappeler à ce monsieur que force restera à la loi. Et que cette force peut faire plier les voyous et reculer les menaces !"
+      "author_name": "Ni Oubli Ni Pardon",
+      "published_at": "2026-11-12 05:15",
+      "text": "08/2021 Gilles Babinet, coprésident du Conseil national du numérique : « L’absence de consentement n'est pas d'un danger comparable avec l'absence de permis. Sans vaccin ni pass sanitaire, je mets expressément la vie d'autrui en danger. Sans permis et sans conduire, je ne mets la"
     },
     {
       "author_name": "Sud Radio",
-      "published_at": "2026-11-11 05:29",
-      "text": "🇫🇷 Un siècle après la Grande Guerre, si la France était attaquée demain :\n\n🪖Seriez-vous prêts à la défendre ?\n\n📻Votre avis nous intéresse dans #LeGrandMatin ! Réagissez en commentaires."
+      "published_at": "2026-11-12 05:23",
+      "text": "👮‍♂️Faut-il envoyer la police pour libérer les derniers lycées bloqués ?\n\n📻Votre avis nous intéresse dans le #GrandMatin ! Réagissez en commentaires"
     },
+    {
+      "author_name": "Alain Weber",
+      "published_at": "2026-11-12 05:27",
+      "text": "Que le compte @realmarcel1 soit celui d’un enseignant, est pour le moins choquant et inquiétant…\n\nC’est là que l’on comprend ce que voulait dire Mélenchon, avec son expression \"il y a de l’antisémitisme résiduel\"…\n[Cite @SwordOfSalomon] 🚨🚨🐘 SIGNALEMENT : Voici qui est l’homme qui se cache, depuis plus de 10 ans, derrière le compte @realmarcel1, le plus gros compte militant insoumis (203 000 abonnés), fer de lance de la meute LFI.\n\n🚩Depuis le 7 octobre, ce compte n’a cessé de remettre en cause, de minimiser,"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-12 05:32",
+      "text": "« Il faut qu’on sache pourquoi il est mort » : la soif de vérité de la famille de Simon, l’un des pompiers tués rue de Trévise\n➡️ https://l.leparisien.fr/GgHI"
+    }
+  ],
+  "context": [
     {
       "author_name": "Le Parisien | politique",
       "published_at": "2026-11-11 05:48",
