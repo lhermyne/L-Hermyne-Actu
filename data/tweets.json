@@ -1,14 +1,40 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-12T01:41:19.597Z",
+  "updated_at": "2026-11-12T02:11:26.496Z",
   "window_hours": 24,
-  "window_start": "2026-11-11T01:41:19.597Z",
+  "window_start": "2026-11-11T02:11:26.496Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1535,
+  "count": 1536,
   "tweets": [
+    {
+      "id": "2120698912247808133",
+      "created_at": "2026-11-12T02:03:16.000Z",
+      "author": "leparisien_pol",
+      "author_name": "Le Parisien | politique",
+      "type": "tweet",
+      "text": "« Le monde sera plus sûr » : Donald Trump profite du 11-Novembre pour défendre la guerre en Iran\n➡️ https://l.leparisien.fr/quBV",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/leparisien_pol/status/2120698912247808133"
+    },
+    {
+      "id": "2120698836536500281",
+      "created_at": "2026-11-12T02:02:57.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "« Le monde sera plus sûr » : Donald Trump profite du 11-Novembre pour défendre la guerre en Iran\n➡️ https://l.leparisien.fr/h11T",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2120698836536500281"
+    },
     {
       "id": "2120693333685346330",
       "created_at": "2026-11-12T01:41:05.000Z",
@@ -19950,19 +19976,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/leparisien_pol/status/2120340653876072461"
-    },
-    {
-      "id": "2120332790889869334",
-      "created_at": "2026-11-11T01:48:25.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "Qui a voté pour (ou contre) le rejet de la pétition demandant la suppression de la chaîne CNews ?\n\nVoici le détail du scrutin qui s'est tenu au sein de la commission des Affaires culturelles de l’Assemblée nationale\n➡️ https://l.leparisien.fr/Yiyi",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2120332790889869334"
     }
   ]
 }

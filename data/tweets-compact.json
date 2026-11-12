@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-12 02:41",
-  "period": "du 2026-11-11 02:41 au 2026-11-12 02:41",
-  "new_period": "du 2026-11-11 20:00 au 2026-11-12 02:41",
-  "context_period": "du 2026-11-11 02:41 au 2026-11-11 20:00",
+  "generated_at": "2026-11-12 03:11",
+  "period": "du 2026-11-11 03:11 au 2026-11-12 03:11",
+  "new_period": "du 2026-11-11 20:00 au 2026-11-12 03:11",
+  "context_period": "du 2026-11-11 03:11 au 2026-11-11 20:00",
   "coverage_complete": true,
-  "new_count": 226,
-  "context_count": 1208,
-  "duplicates_merged": 97,
+  "new_count": 227,
+  "context_count": 1207,
+  "duplicates_merged": 98,
   "empty_removed": 4,
   "new": [
     {
@@ -1179,14 +1179,17 @@
       "author_name": "Le Parisien",
       "published_at": "2026-11-12 02:41",
       "text": "Les minima sociaux réservés « aux plus méritants » ? Deux tiers des Français seraient pour, affirme un sondage\n➡️ https://l.leparisien.fr/TEA1"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-12 03:02",
+      "text": "« Le monde sera plus sûr » : Donald Trump profite du 11-Novembre pour défendre la guerre en Iran\n➡️ https://l.leparisien.fr/h11T",
+      "also_by": [
+        "Le Parisien | politique"
+      ]
     }
   ],
   "context": [
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-11 02:48",
-      "text": "Qui a voté pour (ou contre) le rejet de la pétition demandant la suppression de la chaîne CNews ?\n\nVoici le détail du scrutin qui s'est tenu au sein de la commission des Affaires culturelles de l’Assemblée nationale\n➡️ https://l.leparisien.fr/Yiyi"
-    },
     {
       "author_name": "Le Parisien | politique",
       "published_at": "2026-11-11 03:19",
