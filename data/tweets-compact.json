@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-12 21:18",
-  "period": "du 2026-11-11 21:18 au 2026-11-12 21:18",
-  "new_period": "du 2026-11-12 08:00 au 2026-11-12 21:18",
-  "context_period": "du 2026-11-11 21:18 au 2026-11-12 08:00",
+  "generated_at": "2026-11-12 21:26",
+  "period": "du 2026-11-11 21:26 au 2026-11-12 21:26",
+  "new_period": "du 2026-11-12 08:00 au 2026-11-12 21:26",
+  "context_period": "du 2026-11-11 21:26 au 2026-11-12 08:00",
   "coverage_complete": true,
-  "new_count": 1353,
-  "context_count": 256,
-  "duplicates_merged": 119,
+  "new_count": 1357,
+  "context_count": 250,
+  "duplicates_merged": 118,
   "empty_removed": 4,
   "new": [
     {
@@ -6538,7 +6538,10 @@
     {
       "author_name": "CNEWS",
       "published_at": "2026-11-12 19:50",
-      "text": "13-Novembre : «Nous sommes incapables de lutter contre le terrorisme islamiste», déplore Gabrielle Cluzel, dans #Facealinfo\n\nToute l'info est à retrouver sur https://cnews.fr"
+      "text": "13-Novembre : «Nous sommes incapables de lutter contre le terrorisme islamiste», déplore Gabrielle Cluzel, dans #Facealinfo\n\nToute l'info est à retrouver sur https://cnews.fr",
+      "also_by": [
+        "Gabrielle Cluzel"
+      ]
     },
     {
       "author_name": "Occidentis",
@@ -7007,55 +7010,29 @@
       "author_name": "Europe 1",
       "published_at": "2026-11-12 21:17",
       "text": "«Le produit de luxe le plus accessible de Paris» : Moïse Sfez, fondateur de l'enseigne Homer Lobster, explique son succès par une «indépendance» https://ow.ly/v2EU106IrTF"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Jon De Lorraine",
-      "published_at": "2026-11-11 21:19",
-      "text": "🔴🇫🇷 INSOLITE - L'Elysée affirme que c'est Cyril Hanouna derrière Teddy Riner."
-    },
-    {
-      "author_name": "ISSEP",
-      "published_at": "2026-11-11 21:20",
-      "text": "Il est des lieux où l’Histoire nous rappelle nos devoirs.\n\nAu pied du monument du maréchal Fayolle, devant les Invalides, nous avons rendu hommage, aux côtés de notre cofondatrice Marion Maréchal à ceux qui ont fait le sacrifice de leur vie pour la France.\n\nDerrière chaque nom,"
-    },
-    {
-      "author_name": "Marion Maréchal",
-      "published_at": "2026-11-11 21:20",
-      "text": "Aux poilus tombés pour la France, à nos héros connus et inconnus : honneur, gratitude et fidélité.",
-      "also_by": [
-        "La Cocarde Étudiante"
-      ]
-    },
-    {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-11 21:20",
-      "text": "La Grand-Croix (42) : en pleine nuit, des individus saccagent un Ehpad et y poussent des poubelles en feu alors qu’une centaine de personnes âgées dorment à l’étage"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-11 21:23",
-      "text": "Régis Le Sommier, journaliste, sur les deux députés et les deux journalistes français bannis de la Russie : «Ils servent la soupe à Emmanuel Macron et au gouvernement», dans #LHeureInter Toute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Le Point",
-      "published_at": "2026-11-11 21:25",
-      "text": "Sophia Aram : le monstre à deux têtes https://l.lepoint.fr/IBV"
-    },
-    {
-      "author_name": "Tribune Populaire🌐",
-      "published_at": "2026-11-11 21:25",
-      "text": "📂🇫🇷 FLASH INFO – Le clan Macron affirme que Cyril Hanouna serait derrière la candidature de Teddy Riner !\n\nIls ne reculeront devant rien à l’Élysée..\n\nToute cette opération autour de Teddy Riner devient vraiment gênante…"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-11 21:25",
-      "text": "« On n’a rien trouvé, dans aucune école » rassure Giorgia Meloni après les alertes à la bombe lancées dans des milliers d’écoles d’Italie\n➡️ https://l.leparisien.fr/5vfF",
-      "also_by": [
-        "Le Parisien | politique"
-      ]
+      "published_at": "2026-11-12 21:21",
+      "text": "https://l.leparisien.fr/MPEs"
     },
+    {
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-12 21:25",
+      "text": "Attentats du Bataclan : onze ans après, la mémoire sélective | Par  @gabriellecluzel\nNous sommes depuis 11 ans dans une situation de guerre civile qui ne dit pas son nom. Certains voudraient qu’on l’oublie. \n \nhttps://www.bvoltaire.fr/attentats-du-bataclan-onze-apres-la-memoire-selective/?fsp_sid=26475"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-12 21:25",
+      "text": "Un cold case bientôt résolu ? ➡️ https://mrf.lu/27gcM"
+    },
+    {
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-12 21:26",
+      "text": "[POINT DE VUE] Le Canada propose l’euthanasie aux anciens combattants en souffrance psychologique | Par Arnaud Florac\nTout cela, c’est au Canada aujourd’hui, ce sera peut-être en France demain. \n \nhttps://www.bvoltaire.fr/point-de-vue-le-canada-propose-leuthanasie-aux-anciens-combattants-en-souffrance-psychologique/?fsp_sid=26473"
+    }
+  ],
+  "context": [
     {
       "author_name": "Alain Weber",
       "published_at": "2026-11-11 21:27",
@@ -7185,6 +7162,11 @@
       "author_name": "Damien Rieu",
       "published_at": "2026-11-11 21:52",
       "text": "[Retweet de @AnneSicard1] @TiboInShape Mollah InShape.\nVous devriez avoir honte de publier une telle vidéo pour de basses motivations mercantiles."
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-11 21:56",
+      "text": "« On n’a rien trouvé, dans aucune école » rassure Giorgia Meloni après les alertes à la bombe lancées dans des milliers d’écoles d’Italie\n➡️ https://l.leparisien.fr/tQGD"
     },
     {
       "author_name": "CNEWS",
@@ -7480,6 +7462,11 @@
       "author_name": "Le Point",
       "published_at": "2026-11-11 22:52",
       "text": "Ski extrême, spas d’exception, restaurants d’altitude… Les nouvelles expériences à découvrir absolument cet hiver https://l.lepoint.fr/d36"
+    },
+    {
+      "author_name": "La Cocarde Étudiante",
+      "published_at": "2026-11-11 22:52",
+      "text": "[Retweet de @MarionMarechal] Aux poilus tombés pour la France, à nos héros connus et inconnus : honneur, gratitude et fidélité."
     },
     {
       "author_name": "CNEWS",
