@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-12 13:34",
-  "period": "du 2026-11-11 13:34 au 2026-11-12 13:34",
-  "new_period": "du 2026-11-12 08:00 au 2026-11-12 13:34",
-  "context_period": "du 2026-11-11 13:34 au 2026-11-12 08:00",
+  "generated_at": "2026-11-12 13:44",
+  "period": "du 2026-11-11 13:44 au 2026-11-12 13:44",
+  "new_period": "du 2026-11-12 08:00 au 2026-11-12 13:44",
+  "context_period": "du 2026-11-11 13:44 au 2026-11-12 08:00",
   "coverage_complete": true,
-  "new_count": 619,
-  "context_count": 863,
-  "duplicates_merged": 130,
+  "new_count": 630,
+  "context_count": 853,
+  "duplicates_merged": 132,
   "empty_removed": 4,
   "new": [
     {
@@ -568,7 +568,10 @@
     {
       "author_name": "Bouli ☃️",
       "published_at": "2026-11-12 08:59",
-      "text": "Qu'est-ce que je viens de regarder ?"
+      "text": "Qu'est-ce que je viens de regarder ?",
+      "also_by": [
+        "Pierre Sautarel"
+      ]
     },
     {
       "author_name": "Le Parisien",
@@ -2775,7 +2778,10 @@
     {
       "author_name": "OMERTA",
       "published_at": "2026-11-12 12:40",
-      "text": "Russie - Etats-Unis - Ukraine : un sommet pour rien ? \nHier ont eu lieu à Abou Dhabi des pourparlers entre russes et ukrainiens sous l'égide des Etats-Unis. Outre un important échange de prisonniers, les discussions n'ont pas abouti encore. Analyse par Régis Le Sommier :"
+      "text": "Russie - Etats-Unis - Ukraine : un sommet pour rien ? \nHier ont eu lieu à Abou Dhabi des pourparlers entre russes et ukrainiens sous l'égide des Etats-Unis. Outre un important échange de prisonniers, les discussions n'ont pas abouti encore. Analyse par Régis Le Sommier :",
+      "also_by": [
+        "Régis Le Sommier"
+      ]
     },
     {
       "author_name": "CNEWS",
@@ -2820,7 +2826,10 @@
     {
       "author_name": "Europe 1",
       "published_at": "2026-11-12 12:46",
-      "text": "\"La France n'est pas paresseuse. Il y a une France qui, encore une fois, est prête à se lever tôt et à se retrousser les manches. Qu'on lui laisse le fruit de son travail, c'est tout.\" réagit @gabriellecluzel #ChristineKellyEtVous @christine_kelly #Europe1"
+      "text": "\"La France n'est pas paresseuse. Il y a une France qui, encore une fois, est prête à se lever tôt et à se retrousser les manches. Qu'on lui laisse le fruit de son travail, c'est tout.\" réagit @gabriellecluzel #ChristineKellyEtVous @christine_kelly #Europe1",
+      "also_by": [
+        "Boulevard Voltaire"
+      ]
     },
     {
       "author_name": "Le Parisien | politique",
@@ -3207,62 +3216,64 @@
       "author_name": "Comité Trump France",
       "published_at": "2026-11-12 13:33",
       "text": "[Retweet de @AldoSterone111] Le service des impôts britannique va commencer à exiger la copie de toutes les conversations qu’on a avec chatGPT au sujet des impôts. \n\nLe pays passe en full fasciste mode. Chaque jour on apprend une nouvelle pire que celle de la veille. \n\nIl va devenir un royaume bananier"
-    }
-  ],
-  "context": [
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-12 13:34",
+      "text": "Le plan de relance agricole s'élèvera à 725 millions d'euros, annonce Annie Genevard https://ow.ly/aU1h106IoLp"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-12 13:35",
+      "text": "L’ex-femme d’Alain Delon révèle la face sombre de l’acteur\n\nRosalie van Breemen, mère de ses enfants Anouchka et Alain-Fabien, publie un livre choc où elle raconte sa vie avec le comédien dont elle dresse un terrible portrait ➡️ https://l.leparisien.fr/z9hp"
+    },
+    {
+      "author_name": "Occidentis",
+      "published_at": "2026-11-12 13:35",
+      "text": "🚨⚡️ « Vous êtes pas là pour débattre. Vous êtes là pour me poser des questions ! » \n\nÉric Zemmour recadre un journaliste de France Info."
+    },
     {
       "author_name": "Rassemblement National",
-      "published_at": "2026-11-11 13:35",
-      "text": "Elles n’étaient pas dans les tranchées, mais elles étaient au cœur de la bataille. Heure après heure, jour après jour, pour la survie du pays, les femmes prirent entre leur main et tinrent fermes les leviers de la victoire et le flambeau de l’espoir.\n\nC’est aussi à elles que nous"
-    },
-    {
-      "author_name": "Gilbert Collard",
-      "published_at": "2026-11-11 13:37",
-      "text": "Fin de mandat dans le vide et sans le Peuple !"
-    },
-    {
-      "author_name": "La Cocarde Étudiante",
-      "published_at": "2026-11-11 13:37",
-      "text": "Dans un communiqué, le groupe déclare que « les blancs ne meurent pas de leur racialisation ».\n\nThomas est mort aux cris de « On est là pour planter des Blancs ». Le racisme anti-blancs sévit continuellement, récemment à Rouen.\n\nNous ne les laisserons pas invisibiliser ce fait.\n[Cite @CocardeEtud] À l’INALCO, les bloqueurs appellent à tuer « les gwers ». Quand certains continuent à nier le racisme anti-blancs, l’extrême-gauche étudiante s’en revendique sans gêne. \n\nLes sanctions de la justice et de l’INALCO doivent êtres exemplaires."
-    },
-    {
-      "author_name": "Le Point",
-      "published_at": "2026-11-11 13:37",
-      "text": "Après quatre ans de négociations « historiques », le processus de Beauvau est en passe de se fracasser sur les contradictions de ses propres artisans.\n\nChronique d’un fiasco annoncé par @JulianMattei\n➡️ https://l.lepoint.fr/Exm"
-    },
-    {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-11 13:38",
-      "text": "Des centaines d’écoles évacuées après des alertes à la bombe en Italie, en Irlande et au Royaume-Uni\n➡️ https://l.leparisien.fr/pMtU",
-      "also_by": [
-        "Le Parisien"
-      ]
-    },
-    {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-11 13:40",
-      "text": "Des écoutes de l’ultragauche en 2008 auraient révélé une démarche de l’entourage de Carla Bruni en faveur d’une ex-terroriste. Un policier affirme avoir été écarté. \n https://www.fdesouche.com/2026/11/11/sarkozy-carla-bruni-ecoutes-ultragauche-marinapetrella-policier-rapport-detruire/"
-    },
-    {
-      "author_name": "Damien Rieu",
-      "published_at": "2026-11-11 13:42",
-      "text": "[Retweet de @MonnierThibaut] Journaliste: « Ce racisme anti-blanc, est ce que c’est un combat pour vous? »\n\nDominique Sopo: « Non »\n\nLa négation de l’existence du racisme anti-blanc qui donne la nausée, disqualifie définitivement SOS racisme."
-    },
-    {
-      "author_name": "Le JDD",
-      "published_at": "2026-11-11 13:43",
-      "text": "Fractures chez les Verts : Sandrine Rousseau menace de ne pas parrainer Marine Tondelier https://ow.ly/3wPB106IkUs"
-    },
-    {
-      "author_name": "Le JDD",
-      "published_at": "2026-11-11 13:43",
-      "text": "Fredrik Brag, fondateur de Median Technologies : «Les grands progrès contre le cancer passeront par le dépistage» https://ow.ly/5AEH106IkUt"
+      "published_at": "2026-11-12 13:36",
+      "text": "Cap sur la Gironde ! Samedi 14 novembre à 13h30, Saint-Savin accueille @J_Bardella pour dédicacer « GOUVERNER ». \n\nVotre exemplaire signé vous y attend : rejoignez-nous !\n\n➡️ https://www.amazon.fr/dp/2213736499"
     },
     {
       "author_name": "Sud Radio",
-      "published_at": "2026-11-11 13:43",
-      "text": "🗣️ Benoît, auditeur de Sud Radio :\"Je ne me sens plus écouté depuis 2005, comme de nombreux Français\" #LaFranceDansTousSesEtats\n\n📻 Suivez le direct sur https://sudradio.fr"
+      "published_at": "2026-11-12 13:39",
+      "text": "⚖️Pierre-Édouard Stérin devant les juges pour non-comparution, audience prévue en janvier 2027\n\nhttps://www.sudradio.fr/societe/sterin-milliardaire-proche-de-lextreme-droite-juge-en-janvier-pour-son-refus-de-venir-devant-les-deputes"
     },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-12 13:39",
+      "text": "🗣️ @Samuel_Lafont :\"On est trop habitués à voter pour éliminer et trop peu pour choisir : c'est un vote contraint. On paie encore ce qui s'est passé en 2024 avec les législatives\" #LaFranceDansTousSesEtats\n\n📻 Suivez le direct sur https://sudradio.fr"
+    },
+    {
+      "author_name": "Stourm!",
+      "published_at": "2026-11-12 13:39",
+      "text": "Emsav : 12 novembre 1888, naissance de Camille Le Mercier d’Erm, fondateur du nationalisme breton moderne\n\nLire notre article 👉 https://stourm.news/?p=6843"
+    },
+    {
+      "author_name": "Pierre Sautarel",
+      "published_at": "2026-11-12 13:40",
+      "text": "\"Un braquage… en plein Paris. Oui, vous avez bien entendu. Dans la capitale française. En pleine journée. Une scène absolument inimaginable.\""
+    },
+    {
+      "author_name": "Occidentis",
+      "published_at": "2026-11-12 13:40",
+      "text": "🚨⚡️ « Il faut entrer en TIRANT dans les locaux de CNEWS » \n\nEn plein live sur Twitch, le streamer Lex appelle à attaquer physiquement la chaîne d’information. (@TwitchGauchiste)"
+    },
+    {
+      "author_name": "Polémia",
+      "published_at": "2026-11-12 13:40",
+      "text": "📌 Bruno Le Maire doit présenter ce jeudi à Paris une cinquantaine de propositions, dont un moratoire d’un an sur l’ensemble des flux migratoires.\n\nPendant ce moratoire serait rédigée une « Charte de l’immigration » soumise au référendum. Les OQTF seraient remplacées par des"
+    },
+    {
+      "author_name": "VA+",
+      "published_at": "2026-11-12 13:41",
+      "text": "🔴 JUSTICE | Michel Houellebecq mis en examen pour complicité de provocation à la haine après ses propos de 2022 sur les musulmans et le « Grand Remplacement ».\n\nL'écrivain conteste les accusations. Ses avocats invoquent la liberté d'expression.\n\nAucun procès n'est encore décidé."
+    }
+  ],
+  "context": [
     {
       "author_name": "Boulevard Voltaire",
       "published_at": "2026-11-11 13:45",
