@@ -1,25 +1,35 @@
 {
-  "updated_at": "2026-11-12 12:43",
+  "updated_at": "2026-11-12 13:13",
   "last_run": {
-    "run_at": "2026-11-12 12:43",
-    "run_at_utc": "2026-11-12T11:43:38.322Z",
-    "fetched": 84,
-    "new_tweets": 62,
-    "saturation": 0.74,
+    "run_at": "2026-11-12 13:13",
+    "run_at_utc": "2026-11-12T12:13:44.903Z",
+    "fetched": 94,
+    "new_tweets": 60,
+    "saturation": 0.64,
     "gap_detected": false,
     "gap_minutes": 0,
-    "message": "Aucun trou détecté : 62 nouveaux tweets sur 84 récupérés."
+    "message": "Aucun trou détecté : 60 nouveaux tweets sur 94 récupérés."
   },
   "last_24h": {
     "runs": 51,
     "runs_with_gap": 0,
     "total_gap": "0 min",
-    "new_tweets": 1614,
+    "new_tweets": 1626,
     "max_new_tweets_per_run": 76,
     "max_saturation": 0.79
   },
   "advice": "Fréquence suffisante : aucun trou sur les dernières 24 h.",
   "runs": [
+    {
+      "run_at": "2026-11-12 13:13",
+      "run_at_utc": "2026-11-12T12:13:44.903Z",
+      "fetched": 94,
+      "new_tweets": 60,
+      "saturation": 0.64,
+      "gap_detected": false,
+      "gap_minutes": 0,
+      "message": "Aucun trou détecté : 60 nouveaux tweets sur 94 récupérés."
+    },
     {
       "run_at": "2026-11-12 12:43",
       "run_at_utc": "2026-11-12T11:43:38.322Z",
