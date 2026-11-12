@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-12 07:42",
-  "period": "du 2026-11-11 07:42 au 2026-11-12 07:42",
-  "new_period": "du 2026-11-11 20:00 au 2026-11-12 07:42",
-  "context_period": "du 2026-11-11 07:42 au 2026-11-11 20:00",
+  "generated_at": "2026-11-12 08:12",
+  "period": "du 2026-11-11 08:12 au 2026-11-12 08:12",
+  "new_period": "du 2026-11-11 20:00 au 2026-11-12 08:12",
+  "context_period": "du 2026-11-11 08:12 au 2026-11-11 20:00",
   "coverage_complete": true,
-  "new_count": 319,
-  "context_count": 1129,
-  "duplicates_merged": 100,
+  "new_count": 345,
+  "context_count": 1104,
+  "duplicates_merged": 96,
   "empty_removed": 4,
   "new": [
     {
@@ -1671,161 +1671,142 @@
       "author_name": "Valeurs actuelles",
       "published_at": "2026-11-12 07:37",
       "text": "🗞️ Médias menacés, débats interdits, adversaires diabolisés… Une partie de la gauche veut faire taire et non convaincre. Un parfum de censure et de violence face auquel la société française doit se dresser. https://l.valeursactuelles.com/Kkd"
-    }
-  ],
-  "context": [
+    },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-11 07:42",
-      "text": "Présidentielle 2027 : 22 % des électeurs seraient « prêts » à voter pour Teddy Riner, selon un sondage https://l.leparisien.fr/lh4a"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-11 07:50",
-      "text": "La chronique économique de Marc Touati du 11/11/2026 dans #LaMatinale"
-    },
-    {
-      "author_name": "Valeurs actuelles",
-      "published_at": "2026-11-11 07:51",
-      "text": "🗞️ ANALYSE. Le 11-Novembre demeurait l'un des rares rendez-vous rassemblant les Français autour de leur histoire. Pourtant, l'hommage aux « Morts pour la France » du ministère de l'Éducation nationale suscite une levée de boucliers syndicale. Indigne.\nhttps://l.valeursactuelles.com/N8p"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-11 07:51",
-      "text": "Abou Dhabi, le mirage de la sécurité européenne\n\n➡️ Ecoutez l'edito international de Vincent Hervouët sur #Europe1 #Europe1Matin"
-    },
-    {
-      "author_name": "Parti National Breton | Strollad Broadel Breizh",
-      "published_at": "2026-11-11 07:51",
-      "text": "#11novembre : conservant la mémoire des plus de 200 000 Bretons qui ont péri dans une guerre qui n'était pas la leur, le PNB a honoré leur mémoire par des feux et des chants sur les monts de Bretagne. \n\nPlus jamais de sang breton pour la France !\n\nLa Bretagne aux Bretons !",
+      "published_at": "2026-11-12 07:43",
+      "text": "« Du respect en toutes circonstances » : le secrétaire à la Défense Pete Hegseth rappelé au silence près du Soldat inconnu\n➡️ https://l.leparisien.fr/yIIF",
       "also_by": [
-        "Stourm!"
+        "Le Parisien | politique"
       ]
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-12 07:43",
+      "text": "[Retweet de @RTLFrance] EDITO RTL - Présidentielle : calmez-vous, rien n'est fait !\n\n@gernelle, directeur @LePoint, dans #RTLMatin"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-12 07:43",
+      "text": "Taxe sur le tabac : comment Malte tient tête aux 26 autres pays de l’UE\n\nPar @Eberretta https://l.lepoint.fr/9JK"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-12 07:46",
+      "text": "« Dans l'espace qui se situe entre Marine Le Pen et Jean-Luc Mélenchon, tout est exceptionnellement ouvert. Et cela stimule les ambitions, avec ou sans primaire, il y aura des candidatures nouvelles. » \n\nRetrouvez L'EDITO de @gernelle, directeur @lepoint sur #RTLMatin\n[Cite @RTLFrance] EDITO RTL - Présidentielle : calmez-vous, rien n'est fait !\n\n@gernelle, directeur @LePoint, dans #RTLMatin"
     },
     {
       "author_name": "Sud Radio",
-      "published_at": "2026-11-11 07:53",
-      "text": "🪖Commémorer le 11 novembre à l'école fait polémique  à gauche : \"notre époque veut détruire l'Histoire\"\n\n🗣️@RichardFremder (historien) : \"On fait de la politique avec l'Histoire, c'est ça le problème\" #GrandMatin\n\n📻https://www.sudradio.fr/"
+      "published_at": "2026-11-12 07:48",
+      "text": "🇷🇺🇺🇦 Une fin de la guerre avant la fin de l'année ? : \"Les deux camps ont compris\"\n\n🗣️ @UBounat (analyste géopolitique) : \"Les Américains tentent de pousser pour un accord, on a discuté autour d'un cessez-le feu\" #GrandMatin\n\n📻https://www.sudradio.fr/"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-11 07:54",
-      "text": "La chronique santé du Dr Milhau du 11/11/2026"
+      "published_at": "2026-11-12 07:50",
+      "text": "Marc Touati : «L'Italie a pu être sauvée économiquement, pourquoi pas nous ?», dans #LaMatinale\n\nToute l'info est à retrouver sur https://cnews.fr"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-11 07:54",
-      "text": "«C’est de la dictature» : furieux, Raymond Domenech «veut les noms» des députés qui ont décidé d’enterrer la pétition contre CNews ➡️ https://l.leparisien.fr/h11i"
+      "published_at": "2026-11-12 07:51",
+      "text": "« La climflation s’est amplifiée » : quand le dérèglement climatique fait augmenter les prix alimentaires\n➡️ https://l.leparisien.fr/lh4Q"
     },
     {
-      "author_name": "Parti National Breton | Strollad Broadel Breizh",
-      "published_at": "2026-11-11 07:54",
-      "text": "#11Du : Evit derc'hel soñj eus an ouzhpenn 200 000 Breizhad marvet en ur brezel na oa ket o hini, en deus ar PNB enoret anezho gant tantadoù ha kanoù war menezioù Breizh.\n\nBiken ken a wad Bretoned evit Bro-C'hall !\n\nBreizh d'ar Vrezhoned !",
-      "also_by": [
-        "Stourm!"
-      ]
-    },
-    {
-      "author_name": "Le JDD",
-      "published_at": "2026-11-11 07:56",
-      "text": "11-Novembre : de la Grande guerre à nos jours, permanences et évolutions des commémorations https://ow.ly/ophh106IklZ"
+      "author_name": "Le Point",
+      "published_at": "2026-11-12 07:54",
+      "text": "🔴 Agressions, menaces, établissements attaqués… \n\nFace à des groupes de jeunes radicalisés, les chefs d’établissement redoutent un drame et dénoncent une violence sous-estimée par les autorités.\n\nPar @GeWoessner @erwanseznec\n➡️ https://l.lepoint.fr/mkg"
     },
     {
       "author_name": "Europe 1",
-      "published_at": "2026-11-11 07:56",
-      "text": "Les Français et la police : minorité militante, majorité silencieuse\n\n➡️ Écoutez l’édito politique de @vtremolet du lundi au vendredi à 7h50 sur #Europe1"
-    },
-    {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-11 07:57",
-      "text": "Présidentielle 2027 : « Des accusations grotesques »… LFI précise sa position sur Ukraine après des vives critiques visant Jean-Luc Mélenchon https://l.leparisien.fr/6aZY"
-    },
-    {
-      "author_name": "JDNews",
-      "published_at": "2026-11-11 07:58",
-      "text": "Pologne : Bruxelles, arbitre de la guerre des juges https://ow.ly/qXl8106Ikm4",
-      "also_by": [
-        "Le JDD"
-      ]
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-11 07:59",
-      "text": "Polémique autour du 11 Novembre : \"C'est vraiment puéril d'aller ce jour-là, chercher une confrontation sur les idées\" déclare Norbert Tafzi, capitaine de vaisseau de réserve, ancien commando marine #Europe1Matin @dimitripavlenko #Europe1"
-    },
-    {
-      "author_name": "Nicolas Dupont-Aignan",
-      "published_at": "2026-11-11 08:00",
-      "text": "En ce 11 novembre, 110 après la bataille de Verdun, rendons hommage à tous les soldats tombés pour la France durant la Grande Guerre.\n\nN’oublions jamais leur courage, leurs souffrances et leur sacrifice pour notre patrie.\n\nQue leur mémoire nous rappelle combien la paix est"
-    },
-    {
-      "author_name": "Tocsin",
-      "published_at": "2026-11-11 08:00",
-      "text": "🍻 Pierre-Yves Cadalen : rouge et rond !\nRéécouter l'émission \n\n🔗https://www.youtube.com/live/K1fzZj9fubk?si=V-wlx0actbThveMB"
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-11 08:00",
-      "text": "Une opération menée conjointement.→https://l.lefigaro.fr/QURc"
-    },
-    {
-      "author_name": "Ministère des Armées et des Anciens combattants",
-      "published_at": "2026-11-11 08:02",
-      "text": "[Bataille de Verdun] 110 ans de la bataille de Verdun 🇫🇷\nEn 1916, Verdun devient le théâtre de l’une des batailles les plus meurtrières de la Première Guerre mondiale.\nDécouvrez le témoignage poignant de Jean Cossart dans notre dernière vidéo 🔗",
-      "also_by": [
-        "Gouvernement"
-      ]
-    },
-    {
-      "author_name": "Le Figaro Culture",
-      "published_at": "2026-11-11 08:02",
-      "text": "Les films au cinéma cette semaine : faut-il voir (ou pas) 15/18, Ce qui nous mène à toi et Scrooge avec Johnny Depp ? https://l.lefigaro.fr/JMuX"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-11 08:05",
-      "text": "Plus d’un électeur sur cinq (22 %) seraient prêts à voter en 2027 pour le judoka Teddy Riner, qui bénéficie d'une «bonne opinion» chez 70 % des Français ➡️ https://l.leparisien.fr/1RT1"
-    },
-    {
-      "author_name": "Institut ILIADE",
-      "published_at": "2026-11-11 08:07",
-      "text": "[Retweet de @acormierd] Intéressante plaquette d'Aristide Leucate (@aleucate), docteur en droit, sur la métaphysique « cosmiciste », matérialiste et athée mais pourtant imprégnée de mysticisme crypto-païen de H. P. Lovecraft.\n\nÀ lire pour quiconque s'intéresse au personnage."
+      "published_at": "2026-11-12 07:56",
+      "text": "Ce Pape est un cas…\n\n➡️ Retrouvez l’édito international de Vincent Hervouët du lundi au jeudi à 7h40 sur #Europe1"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-11 08:08",
-      "text": "L'édito de Paul Sugy : «Islam : Michel Houellebecq risque un an de prison» dans #LaMatinale"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-11 08:08",
-      "text": "\"Pour être crédible, Il faut que nous ayons un armement capable de défendre la France et pas seulement le nucléaire\" déclare Norbert Tafzi, capitaine de vaisseau de réserve, ancien commando marine #Europe1Matin @dimitripavlenko #Europe1"
+      "published_at": "2026-11-12 07:56",
+      "text": "Celle-ci cessera de fonctionner à compter du 31 décembre 2026. ➡️ https://mrf.lu/27QKk"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-11 08:09",
-      "text": "Mathieu Lafoux : «La jeune génération doit s'emparer du devoir de mémoire» dans #LaMatinale \n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Dreuz",
-      "published_at": "2026-11-11 08:09",
-      "text": "Israël en première ligne – le Live de la confrontation Israël-Iran – 11 novembre 2026 https://www.dreuz.com/2026/11/israel-en-premiere-ligne-le-live-de-la-confrontation-israel-iran-11-novembre-2026-333687.html"
+      "published_at": "2026-11-12 07:58",
+      "text": "La chronique santé du Dr Milhau du 12/11/2026"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-11 08:10",
-      "text": "Le scrutin se tiendrait les 31 janvier et 7 février. ➡️ https://mrf.lu/2YyHC"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-11 08:11",
-      "text": "La crise du pouvoir d'achat n'atteint ni le sapin, ni les cadeaux. ➡️ https://mrf.lu/2YyXJ"
+      "published_at": "2026-11-12 07:58",
+      "text": "Une tragédie pas encore expliquée. ➡️ https://mrf.lu/27QKf"
     },
     {
       "author_name": "Alain Weber",
-      "published_at": "2026-11-11 08:11",
-      "text": "Que l’on aime ou pas Éric Zemmour, force est de constater qu’il a raison sur au moins 2 points :\n\nIl est victime d’un harcèlement judiciaire, destiné à le faire taire.\n\nIl n’y a aucun propos raciste dans ce qu’il dit.\nIslamophobe peut-être, mais l’islam n’est pas une race.\n[Cite @TonyPittaro] 🚨𝗖𝗟𝗔𝗦𝗛 𝗦𝗨𝗥 𝗧𝗙𝟭 « Tous les musulmans considèrent que les djihadistes sont de bons musulmans ». C’est pas du racisme ?!\n\nÉric Zemmour : « Les juges interprètent une loi liberticide que j’abolirai. Ça n’a rien de raciste !! »\n\nGilles Bouleau : « Ça l’est ! »"
+      "published_at": "2026-11-12 08:00",
+      "text": "Je souscris totalement à l’article ci-dessous.\n\nAvec Greta Thunberg ils avaient trouvé la personne idéale : on aime bien la lumière chez les Thunberg…\n\nVoici sa sœur :\n[Cite @kubernan] Greta Thunberg a passé des années à transformer le climat en fond de commerce. Discours aux Nations unies, grèves scolaires mondiales, couverture médiatique permanente, statut de prophétesse pour une génération entière. Fridays for Future, c’était elle. Le mouvement portait son"
     },
+    {
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-12 08:00",
+      "text": "En Bavière, les non-Allemands représentent 49,7 % des condamnés en 2025, contre 34,3 % en 2015. Leur nombre absolu a toutefois diminué de 3,4 % sur un an. \n https://www.fdesouche.com/2026/11/12/baviere-497-pour-cent-condamnes-etrangers-2025-statistiques-justice/"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-12 08:00",
+      "text": "L'édito de Paul Sugy : «5.000 places à la fac : l'erreur de Sébastien Lecornu ?» dans #LaMatinale"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-12 08:00",
+      "text": "Indispensables, insuffisants, mal répartis… ➡️ https://mrf.lu/27QJZ"
+    },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-12 08:00",
+      "text": "New York : un immeuble s'effondre à Brooklyn, au moins deux morts et 17 blessés → https://l.lefigaro.fr/vBQs"
+    },
+    {
+      "author_name": "L'Express",
+      "published_at": "2026-11-12 08:02",
+      "text": "Dans plusieurs grands pays européens, le sujet de la guerre à Gaza est devenu un enjeu électoral majeur.\n\n➡️ https://l.lexpress.fr/8d7 https://l.lexpress.fr/8d7"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-12 08:02",
+      "text": "Une prudence accrue est de mise dans certains territoires. ➡️ https://mrf.lu/27qGW"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-12 08:03",
+      "text": "🗳️Riner, Lagarde, Hollande, Philippe : \"la France du centre gauche ou droite, cherche un sauveur désespérément\", selon @francoisedegois #Presidentielle2027\n\n📻https://www.sudradio.fr/"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-12 08:03",
+      "text": "🔵 Exclusif | Les proches de Kevin Tessier confirment sa dérive raciste \n\nInterrogés en garde à vue ou entendus comme témoins, les parents, les frères et un collègue et ami de l’auteur présumé de l’attentat raciste de Trappes ont tous confirmé son parcours chaotique ➡️"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-12 08:07",
+      "text": "Une question de jours ? ➡️ https://mrf.lu/27qZM"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-12 08:08",
+      "text": "Qui se cache derrière Teddy Riner ?\n\n➡️ Écoutez l’édito politique de @abrezet du lundi au vendredi à 7h50 sur #Europe1"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-12 08:09",
+      "text": "Jean-Luc Mélenchon : jour de campagne dans la Creuse, si loin de la ruralité https://l.lepoint.fr/XQy"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-12 08:10",
+      "text": "Alerte sur le sud-est de la France. ➡️ https://mrf.lu/27qkh"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-12 08:12",
+      "text": "❌ Sans Mbappé, les Bleus à l'épreuve de l'Italie en Ligue des Nations\n\nhttps://www.sudradio.fr/sport-rugby/sport/ligue-des-nations-la-france-amoindrie-et-sans-mbappe-en-quete-dune-place-en-quarts-en-italie"
+    }
+  ],
+  "context": [
     {
       "author_name": "L'Express",
       "published_at": "2026-11-11 08:12",
@@ -2121,6 +2102,11 @@
       "author_name": "Europe 1",
       "published_at": "2026-11-11 08:48",
       "text": "\"La démocratie repose sur la liberté de la presse, c'est absolument majeur\" déclare @CaVautrin #LaGrandeInterview #Europe1"
+    },
+    {
+      "author_name": "Le JDD",
+      "published_at": "2026-11-11 08:48",
+      "text": "11-Novembre : de la Grande Guerre à nos jours, permanences et évolutions des commémorations https://ow.ly/ophh106IklZ"
     },
     {
       "author_name": "Le JDD",
@@ -5514,6 +5500,11 @@
       "text": "Triple assassinat près de Marseille en 2020 : la perpétuité requise contre quatre accusés, dont deux figures du narcobanditisme https://ow.ly/4pYa106Il1A"
     },
     {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-11 15:33",
+      "text": "«C’est de la dictature» : furieux, Raymond Domenech «veut les noms» des députés qui ont décidé d’enterrer la pétition contre CNews ➡️ https://l.leparisien.fr/J6e8"
+    },
+    {
       "author_name": "Europe 1",
       "published_at": "2026-11-11 15:34",
       "text": "Le \"J'aime / J'aime pas\" de @GauthierBret sur #Europe1 avec #Cauet @cauetofficiel"
@@ -6078,6 +6069,11 @@
       "author_name": "Gouvernement",
       "published_at": "2026-11-11 16:58",
       "text": "[Retweet de @MinistereCC] #CeJourLà | Le 11 novembre 1918, l’armistice est signé à six heures du matin dans le train du maréchal Foch, marquant l’arrêt des combats de la Première Guerre mondiale\n\n📷 (c) @GallicaBnF"
+    },
+    {
+      "author_name": "Gouvernement",
+      "published_at": "2026-11-11 16:58",
+      "text": "[Retweet de @Armees_Gouv] [Bataille de Verdun] 110 ans de la bataille de Verdun 🇫🇷\nEn 1916, Verdun devient le théâtre de l’une des batailles les plus meurtrières de la Première Guerre mondiale.\nDécouvrez le témoignage poignant de Jean Cossart dans notre dernière vidéo 🔗"
     },
     {
       "author_name": "Tocsin",
