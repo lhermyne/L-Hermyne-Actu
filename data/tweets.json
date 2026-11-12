@@ -1,13 +1,13 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-12T03:41:47.346Z",
+  "updated_at": "2026-11-12T03:46:10.329Z",
   "window_hours": 24,
-  "window_start": "2026-11-11T03:41:47.346Z",
+  "window_start": "2026-11-11T03:46:10.329Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1533,
+  "count": 1532,
   "tweets": [
     {
       "id": "2120716386758504842",
@@ -19924,19 +19924,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/leparisien_pol/status/2120365623280828646"
-    },
-    {
-      "id": "2120362394312429842",
-      "created_at": "2026-11-11T03:46:03.000Z",
-      "author": "alainpaulweber",
-      "author_name": "Alain Weber",
-      "type": "retweet",
-      "text": "Soumission",
-      "retweeted_author": "MaceScaron",
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/alainpaulweber/status/2120362394312429842"
     }
   ]
 }
