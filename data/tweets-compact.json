@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-12 23:18",
-  "period": "du 2026-11-11 23:18 au 2026-11-12 23:18",
-  "new_period": "du 2026-11-12 20:00 au 2026-11-12 23:18",
-  "context_period": "du 2026-11-11 23:18 au 2026-11-12 20:00",
+  "generated_at": "2026-11-12 23:48",
+  "period": "du 2026-11-11 23:48 au 2026-11-12 23:48",
+  "new_period": "du 2026-11-12 20:00 au 2026-11-12 23:48",
+  "context_period": "du 2026-11-11 23:48 au 2026-11-12 20:00",
   "coverage_complete": true,
-  "new_count": 171,
-  "context_count": 1426,
-  "duplicates_merged": 122,
+  "new_count": 194,
+  "context_count": 1417,
+  "duplicates_merged": 121,
   "empty_removed": 4,
   "new": [
     {
@@ -877,59 +877,124 @@
       "author_name": "Le Parisien",
       "published_at": "2026-11-12 23:13",
       "text": "[Retweet de @leparisiensport] Italie-France (3-1) : première défaite pour Zinedine Zidane comme sélectionneur des Bleus\n➡️ https://l.leparisien.fr/EJSp"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-11 23:18",
-      "text": "Karima Brikh, journaliste, sur le dernier 11-Novembre d'Emmanuel Macron et le devoir de mémoire : «Il y a des offensives permanentes pour détourner cette mémoire», dans #SoirInfo \n\nToute l'info est à retrouver sur https://cnews.fr"
     },
     {
-      "author_name": "Institut ILIADE",
-      "published_at": "2026-11-11 23:22",
-      "text": "[Retweet de @InstitutILIADE] 🕯 1914-1945 : la plus grande guerre civile que l'Europe ait jamais connue.\n\nDeux guerres mondiales, trente années de déchirements fratricides, 51 millions d'Européens tués. En sacrifiant sa jeunesse sur les champs de bataille, l'Europe a aussi sacrifié une grande partie de sa"
+      "author_name": "CNEWS",
+      "published_at": "2026-11-12 23:20",
+      "text": "Najwa El Haïté, sur le blocus de lycées : «L’école n’est plus un sanctuaire de la transmission du savoir mais un champ de bataille», dans #SoirInfo\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Le JDD",
+      "published_at": "2026-11-12 23:21",
+      "text": "Italie-France : première douche froide pour les Bleus de Zidane (3-1), les notes du JDD https://ow.ly/3Hze106IsF2"
+    },
+    {
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-12 23:22",
+      "text": "Bagnolet (93) : « Toi, tu viens pas des quartiers ! » — LFI se déchire entre accusations de racisme et d’islamophobie, quatre adjoints évincés (MàJ) https://www.fdesouche.com/2026/11/11/bagnolet-93-toi-tu-viens-pas-des-quartiers-lfi-se-dechire-entre-accusations-de-racisme-et-dislamophobie-quatre-adjoints-evinces/"
     },
     {
       "author_name": "Jean-Yves Le Gallou",
-      "published_at": "2026-11-11 23:23",
-      "text": "#remigration\n[Cite @Le_Figaro] L’amendement a été adopté par 292 voix pour et 51 contre.→https://l.lefigaro.fr/MttY"
+      "published_at": "2026-11-12 23:23",
+      "text": "[Retweet de @F_Desouche] Rappel : 8 terroristes (sur les 10) des attentats du 13 Novembre 2015 ont profité de la « route des migrants » pour entrer en Europe https://www.fdesouche.com/2021/11/13/rappel-8-terroristes-sur-les-10-des-attentats-du-13-novembre-2015-ont-profite-de-la-route-des-migrants-pour-entrer-en-europe/"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-11 23:25",
-      "text": "Deux gardes d’honneur s’effondrent à côté d’Emmanuel Macron lors de la visite à l’Élysée du président slovaque\n➡️ https://l.leparisien.fr/z9ho"
+      "published_at": "2026-11-12 23:28",
+      "text": "Doubs : un collégien placé en garde à vue, suspecté d’avoir incendié un gymnase pour éviter une réunion parents-profs\n➡️ https://l.leparisien.fr/YiyR"
     },
     {
-      "author_name": "Jean-Yves Le Gallou",
-      "published_at": "2026-11-11 23:26",
-      "text": "Bel historique! \nLa #remigration est une idée européenne partagée\n[Cite @BaptisteNatifs] Outre toutes les approximations, confusions et plus généralement la malhonnêteté du reportage de TF1, je vous propose de revenir sur une erreur : la remigration serait un concept issu de l'extrême droite germanophone. \n\nCette affirmation est fausse et on décrypte cela dans ce"
+      "author_name": "Reprenons le contrôle !",
+      "published_at": "2026-11-12 23:29",
+      "text": "[Retweet de @CH_Gallois] C’est le huitième braquage de ce type en plein cœur de Paris sous la présidence d’Emmanuel Macron.\n\nL’insécurité, la délinquance et le sentiment d’impunité ont atteint des niveaux délirants sous les macronistes.\n\nNous remettrons de l’ordre."
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-12 23:30",
+      "text": "Lycées : l’extrême gauche fait régner la terreur dans les salles des professeurs, s’inquiète Fabrice Haccoun, dans #SoirInfo\n\nToute l'info est à retrouver sur https://cnews.fr"
     },
     {
       "author_name": "Le Figaro",
-      "published_at": "2026-11-11 23:30",
-      "text": "David Lisnard poursuit deux lièvres à la fois ! \nhttps://l.lefigaro.fr/ClbV"
+      "published_at": "2026-11-12 23:30",
+      "text": "L’action de Nvidia chute. → https://l.lefigaro.fr/fs9p"
+    },
+    {
+      "author_name": "Reprenons le contrôle !",
+      "published_at": "2026-11-12 23:31",
+      "text": "Sans blague !\n[Cite @franceinfo] VIDEO. \"Culte de la personnalité\", purges supposées de militants… des témoignages pointent une dérive autocratique de Gabriel Attal à la tête de Renaissance https://l.franceinfo.fr/UZI"
+    },
+    {
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-12 23:31",
+      "text": "Auvergne-Rhône-Alpes : « Vos copains l’ont fait en une journée au Bataclan » — des élus de gauche saisissent le procureur après les propos d’Isabelle Surply https://www.fdesouche.com/2026/11/12/auvergne-rhone-alpes-isabelle-surply-bataclan-procureur-plainte-elus-gauche-2026/"
+    },
+    {
+      "author_name": "Reprenons le contrôle !",
+      "published_at": "2026-11-12 23:32",
+      "text": "[Retweet de @CH_Gallois] Quelle droite indépendante ?\n\nCelle qui appelle à voter pour Emmanuel Macron, comme vous ?\n\nCelle qui veut organiser une primaire avec les macronistes, comme vous ?\n\nCelle qui gouverne avec les macronistes depuis 2022, alors que vous étiez encore chez LR ?\n\nCelle qui a voté un"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-12 23:32",
+      "text": "La journée de manifestation, ce mercredi, a été marquée par des débordements dans plusieurs villes du pays. À une quinzaine de jours des élections législatives anticipées, le climat politique se tend.\n\nPar @FrancoisMusseau\n➡️ https://l.lepoint.fr/aaq"
+    },
+    {
+      "author_name": "François Asselineau 🇫🇷",
+      "published_at": "2026-11-12 23:33",
+      "text": "📺Déjà 𝟭𝟬𝟬.𝟬𝟬𝟬 𝘃𝘂𝗲𝘀\npour le 𝗗𝗜𝗥𝗘𝗖𝗧 𝗻°𝟭𝟯𝟰\nqui a eu lieu hier\n𝗠𝗘𝗥𝗖𝗥𝗘𝗗𝗜 𝟭𝟭 𝗡𝗢𝗩𝗘𝗠𝗕𝗥𝗘⤵️\nhttps://www.youtube.com/live/GMT2aZtendg?is=P6d7Xrf2J4dVyfEh\nRetrouvez-y mes analyses sur\n💥l'Opération Teddy Riner\n💥le programme Mélenchon\n💥pétition contre CNews\n💥retour de la monarchie ?\nEtc"
+    },
+    {
+      "author_name": "Reprenons le contrôle !",
+      "published_at": "2026-11-12 23:33",
+      "text": "#Constitution Article 3 🇫🇷 : \n« La souveraineté nationale appartient au peuple qui l'exerce par ses représentants et par la voie du référendum.\nAucune section du peuple ni aucun individu ne peut s'en attribuer l'exercice. »\n[Cite @publicsenat] Révision de la Constitution : 110 constitutionnalistes rappellent à Marine Le Pen et Jean-Luc Mélenchon qu’ils ne pourront pas avoir recours au référendum via l’article 11\n➡️ https://go.publicsenat.fr/7ux"
+    },
+    {
+      "author_name": "Reprenons le contrôle !",
+      "published_at": "2026-11-12 23:35",
+      "text": "[Retweet de @ThierryMARIANI] 🇨🇩 L’UE achète toujours ses matériaux critiques au Rwanda qu’il pille en massacrant en RDC\n\nL’UE a déjà pris 21 paquets de sanctions contre la Russie\nMais contre le Rwanda et le clan Kagame ?Rien !\n\nPour l’UE,la vie d’un Congolais vaut-elle autant que la vie d’un Ukrainien ⤵️"
+    },
+    {
+      "author_name": "Reprenons le contrôle !",
+      "published_at": "2026-11-12 23:36",
+      "text": "[Retweet de @CH_Gallois] Les flux migratoires baissent dans les pays développés en 2025, mais augmentent de 9 % en France, selon l’OCDE.\n\nPour les macronistes, l’immigration massive n’est pas un problème mais c’est un projet.\n\nNous reprendrons le contrôle des flux migratoires."
+    },
+    {
+      "author_name": "Jean-Yves Le Gallou",
+      "published_at": "2026-11-12 23:36",
+      "text": "[Retweet de @_polemia] 🗳️ Vers une dictature médiatico-systémique en France ?\n\n« Le vote démocratique est menacé et, s’il a lieu, son résultat sera contesté, comme en Roumanie, par exemple. »\n\nDans une chronique publiée sur Polémia, Pierre Boisguilbert alerte sur un système médiatico-politique qui, à"
+    },
+    {
+      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
+      "published_at": "2026-11-12 23:37",
+      "text": "[Retweet de @KER_O_ZEN] 💰LÂCHEZ LA THUNE!!! 💶\n@dannyconversano \n#jameswoods #starwars #georgelucas #odyssée #elonmusk #cinéma #mème #mythologie"
+    },
+    {
+      "author_name": "Observatoire du journalisme (Ojim)",
+      "published_at": "2026-11-12 23:39",
+      "text": "[Retweet de @ojim_france] 🚨Effondrement des audiences de France Inter : en un an, la station publique a PERDU 200000 AUDITEURS."
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-11 23:31",
-      "text": "« Si vous voyez deux personnes du même sexe se tenir par la main, c’est sans doute des touristes »… À Versailles, les LGBT ne s’affichent pas\n➡️ https://l.leparisien.fr/lh4y"
+      "published_at": "2026-11-12 23:39",
+      "text": "Présidentielle 2027 : Édouard Philippe souhaite « interdire » aux magistrats le droit de se syndiquer\n\n➡️ https://l.leparisien.fr/rBpf"
     },
     {
-      "author_name": "Bouli ☃️",
-      "published_at": "2026-11-11 23:32",
-      "text": "[Retweet de @DuxVul2] Having a Christmas market without diversity barriers around it"
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-12 23:40",
+      "text": "Dans l’enquête sur la mort de Quentin Deranque à Lyon, Guillaume A., mis en examen pour meurtre, a été remis en liberté sous contrôle judiciaire. Le parquet demande son retour en détention. \n https://www.fdesouche.com/2026/11/12/lyon-69-quentin-deranque-suspect-remis-en-liberte-parquet-appel-12-novembre-2026/"
     },
     {
-      "author_name": "Jon De Lorraine",
-      "published_at": "2026-11-11 23:38",
-      "text": "🔴🇺🇸 ALERTE INFO | LE DÉPART DU PDG DE NVIDIA EST DÉSORMAIS RÉCLAMÉ.\n\nJensen Huang, patron du géant américain des puces électroniques, fait face à une pression croissante pour quitter ses fonctions.\n\nAprès les révélations sur sa liaison avec une femme soupçonnée d'espionnage pour"
+      "author_name": "CNEWS",
+      "published_at": "2026-11-12 23:47",
+      "text": "Présidentielle 2027 : François Pierrard revient sur les intentions de vote concernant Teddy Riner, dans #SoirInfo\n\nToute l'info est à retrouver sur https://cnews.fr"
     },
     {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-11 23:45",
-      "text": "« On essaie de garder notre jardin secret » : la star du basket français Gabby Williams se confie sur son couple avec Marine Johannès\n➡️ https://l.leparisien.fr/XoLx"
-    },
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-12 23:48",
+      "text": "Fortes secousses aux États-Unis : Nvidia s’apprête à limoger son PDG, après plusieurs affaires d’infidélité\n➡️ https://l.leparisien.fr/rBpy"
+    }
+  ],
+  "context": [
     {
       "author_name": "Le Jarl",
       "published_at": "2026-11-11 23:50",
@@ -4410,6 +4475,11 @@
       "author_name": "Jon De Lorraine",
       "published_at": "2026-11-12 12:32",
       "text": "🔴🇫🇷 FLASH - Les époux Balkany expulsés de leur moulin de Giverny.\n(AFP / source proche du dossier)"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-12 12:33",
+      "text": "Deux gardes d’honneur s’effondrent à côté d’Emmanuel Macron lors de la visite à l’Élysée du président slovaque\n➡️ https://l.leparisien.fr/1RT5"
     },
     {
       "author_name": "Europe 1",
