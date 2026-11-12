@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-12 02:11",
-  "period": "du 2026-11-11 02:11 au 2026-11-12 02:11",
-  "new_period": "du 2026-11-11 20:00 au 2026-11-12 02:11",
-  "context_period": "du 2026-11-11 02:11 au 2026-11-11 20:00",
+  "generated_at": "2026-11-12 02:41",
+  "period": "du 2026-11-11 02:41 au 2026-11-12 02:41",
+  "new_period": "du 2026-11-11 20:00 au 2026-11-12 02:41",
+  "context_period": "du 2026-11-11 02:41 au 2026-11-11 20:00",
   "coverage_complete": true,
-  "new_count": 221,
-  "context_count": 1211,
-  "duplicates_merged": 98,
+  "new_count": 226,
+  "context_count": 1208,
+  "duplicates_merged": 97,
   "empty_removed": 4,
   "new": [
     {
@@ -1151,30 +1151,37 @@
       "author_name": "ThinkerView",
       "published_at": "2026-11-12 02:07",
       "text": "[Retweet de @Brevesdepresse] 🔴🇫🇷INFO - Le neurochirurgien Laurent Thines, du CHU de Besançon, a recensé au moins 79 victimes en 3 semaines de #manifestations, dont 10 personnes #éborgnées (18 ans de moyenne), 7 #amputées et 9 victimes de traumatismes crânio-faciaux. Des blessures attribuées notamment aux"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-11 02:11",
-      "text": "« Il change d’avis comme de chemise » : entre le ring et les chantiers, Donald Trump sur courant alternatif depuis les midterms\n➡️ https://l.leparisien.fr/yIIb",
-      "also_by": [
-        "Le Parisien"
-      ]
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-11 02:24",
-      "text": "« Le temps joue contre nous » : Retailleau propose aux candidats de la droite et du centre une primaire les 31 janvier et 7 février https://l.leparisien.fr/tQGR",
+      "published_at": "2026-11-12 02:13",
+      "text": "« Des inquiétudes sur sa sécurité » : pourquoi le ministre des Finances de Donald Trump a été relogé de force sur une base militaire\n➡️ https://l.leparisien.fr/J6ea",
       "also_by": [
         "Le Parisien | politique"
       ]
     },
     {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-11 02:37",
-      "text": "« Jamais observé » si tôt : avec le vortex polaire perturbé, faut-il vraiment craindre un hiver glacial en France ? https://l.leparisien.fr/J6ek"
+      "author_name": "ThinkerView",
+      "published_at": "2026-11-12 02:16",
+      "text": "[Retweet de @KuptoKosmos] 🇫🇷 Le scrutin officiel est tombé\n\n69 pour la suppression\n37 contre\n107 votants... sur 577 députés 😡\n\nPour faire sauter la protection du chiffrement :\nRN 17\nEPR 17\nMoDem 9\nHorizons 8\nLR 8\nPS 5\nLIOT 3\nnon-inscrits 2\n\nContre :\nLFI 26\nÉcolos 10 et 1 seul EPR\n\nBref... le RN et le PS"
     },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-12 02:20",
+      "text": "« C’est une double malchance » : la sœur de Marie-Lou, qui a succombé à une intoxication aux morilles à 27 ans, livre de nouveaux détails sur le drame\n➡️ https://l.leparisien.fr/lh4O"
+    },
+    {
+      "author_name": "ThinkerView",
+      "published_at": "2026-11-12 02:21",
+      "text": "[Retweet de @nicolasberrod] 🔴 L'Iran est désormais officiellement accusé d'être à l'origine de la cyberattaque massive des frigos de supermarchés, il y a un mois.\n\nLe parquet de Paris ouvre ainsi une enquête pour des infractions \"aggravées par la circonstance d’avoir été commises dans le but de servir une"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-12 02:41",
+      "text": "Les minima sociaux réservés « aux plus méritants » ? Deux tiers des Français seraient pour, affirme un sondage\n➡️ https://l.leparisien.fr/TEA1"
+    }
+  ],
+  "context": [
     {
       "author_name": "Le Parisien",
       "published_at": "2026-11-11 02:48",
