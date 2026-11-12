@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-12 08:12",
-  "period": "du 2026-11-11 08:12 au 2026-11-12 08:12",
-  "new_period": "du 2026-11-11 20:00 au 2026-11-12 08:12",
-  "context_period": "du 2026-11-11 08:12 au 2026-11-11 20:00",
+  "generated_at": "2026-11-12 08:42",
+  "period": "du 2026-11-11 08:42 au 2026-11-12 08:42",
+  "new_period": "du 2026-11-11 20:00 au 2026-11-12 08:42",
+  "context_period": "du 2026-11-11 08:42 au 2026-11-11 20:00",
   "coverage_complete": true,
-  "new_count": 345,
-  "context_count": 1104,
-  "duplicates_merged": 96,
+  "new_count": 408,
+  "context_count": 1058,
+  "duplicates_merged": 95,
   "empty_removed": 4,
   "new": [
     {
@@ -445,7 +445,10 @@
     {
       "author_name": "CNEWS",
       "published_at": "2026-11-11 21:23",
-      "text": "Régis Le Sommier, journaliste, sur les deux députés et les deux journalistes français bannis de la Russie : «Ils servent la soupe à Emmanuel Macron et au gouvernement», dans #LHeureInter Toute l'info est à retrouver sur https://cnews.fr"
+      "text": "Régis Le Sommier, journaliste, sur les deux députés et les deux journalistes français bannis de la Russie : «Ils servent la soupe à Emmanuel Macron et au gouvernement», dans #LHeureInter Toute l'info est à retrouver sur https://cnews.fr",
+      "also_by": [
+        "Régis Le Sommier"
+      ]
     },
     {
       "author_name": "Le Point",
@@ -1804,250 +1807,327 @@
       "author_name": "Sud Radio",
       "published_at": "2026-11-12 08:12",
       "text": "❌ Sans Mbappé, les Bleus à l'épreuve de l'Italie en Ligue des Nations\n\nhttps://www.sudradio.fr/sport-rugby/sport/ligue-des-nations-la-france-amoindrie-et-sans-mbappe-en-quete-dune-place-en-quarts-en-italie"
-    }
-  ],
-  "context": [
+    },
     {
-      "author_name": "L'Express",
-      "published_at": "2026-11-11 08:12",
-      "text": "Et aussi : une inspection surprise dans un service de renseignement, ce haut fonctionnaire en vue qui rejoint le privé...\n\n➡️ https://l.lexpress.fr/DJi"
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-12 08:13",
+      "text": "🗳️La date du second tour de la #Presidentielle2027 fait polémique !\n\n🗣️@ELevyCauseur : \"Ce choix du 2 mai ne trahit pas la lettre de la loi électorale mais son esprit\"  #GrandMatin\n\n📻https://www.sudradio.fr/"
+    },
+    {
+      "author_name": "Eric Zemmour",
+      "published_at": "2026-11-12 08:13",
+      "text": "Avec la loi sur l'euthanasie et le suicide assisté, on nous a parlé d'aide à mourir, mais en suivant les débats, j'ai compris qu'il ne s'agissait pas de laisser mourir les gens : il s'agissait de les faire mourir. \n\nCette loi a ouvert la boîte de Pandore. C'est pourquoi,"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-12 08:14",
+      "text": "🇫🇷 S’habiller Made in France sans (trop) se ruiner, c’est possible\n\nAlors que le Salon du Made in France ouvre ses portes ce jeudi à Paris, de plus en plus d’entreprises tricolores de textile se mettent en ordre de marche pour proposer des prix compétitifs tout en insistant sur"
+    },
+    {
+      "author_name": "Régis Le Sommier",
+      "published_at": "2026-11-12 08:14",
+      "text": "[Retweet de @pati_marins64] Netanyahu Wants to Attempt a Solo Attack on Iran\n\nThe Israeli public broadcaster KAN reported this Wednesday, November 11, 2026, that interim Prime Minister Benjamin Netanyahu’s security cabinet instructed the military to accelerate preparations for a possible attack on Iran."
     },
     {
       "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-11 08:14",
-      "text": "« Une dérive toujours plus droitière » : le Parti socialiste ne soutiendra pas David Lisnard pour la présidence des maires de France https://l.leparisien.fr/FnM9"
+      "published_at": "2026-11-12 08:15",
+      "text": "Il n’a jamais eu les diplômes requis pour gouverner le pays : le vice-président indonésien démissionne après un scandale\n➡️ https://l.leparisien.fr/kK6J",
+      "also_by": [
+        "Le Parisien"
+      ]
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-12 08:16",
+      "text": "\"Je demande surtout un sens politique de la part du gouvernement, et c'est ce qui a manqué\" déclare @karim_bouamrane #LaGrandeInterview #Europe1"
+    },
+    {
+      "author_name": "Ligne Droite • La matinale de RC",
+      "published_at": "2026-11-12 08:18",
+      "text": "💥 \"Les médias parlent d’un simple militant en évitant soigneusement de rappeler que Pierre-Alain Cottineau était candidat LFI [...] Imaginez l’ampleur qu’aurait prise la même affaire avec un ex-candidat RN ou Reconquête.\"\n\n🗣️ @magdadHfl revient sur les nouvelles révélations"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-12 08:18",
+      "text": "Karim Bouamrane : «Les lycéens ne doivent pas être les victimes collatérales de leur combat», dans #LaGrandeInterview\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Alain Weber",
+      "published_at": "2026-11-12 08:18",
+      "text": "Émeutes à Barcelone, cette nuit.\nLes raisons sont globalement les mêmes qu’en France, avec en tête des revendications, la vie chère…"
+    },
+    {
+      "author_name": "Régis Le Sommier",
+      "published_at": "2026-11-12 08:19",
+      "text": "[Retweet de @ArnaudDubien] Ce n'est pas parce qu'on ne sait pas de quoi on parle qu'il faut se taire."
+    },
+    {
+      "author_name": "Régis Le Sommier",
+      "published_at": "2026-11-12 08:19",
+      "text": "[Retweet de @MarioNawfal] 🚨🇷🇺🇺🇦🇺🇸 Russia says it has reached some common ground with Ukraine and the U.S. in Abu Dhabi, and there's potentially BIG news for prisoners of war...\n\nRussian negotiator Medinsky:\n\n•⁠  ⁠Russia and Ukraine have agreed on a large-scale prisoner exchange, with details expected"
+    },
+    {
+      "author_name": "Damien Rieu",
+      "published_at": "2026-11-12 08:19",
+      "text": "[Retweet de @MarionMarechal] Début septembre, je révélais que le Femyso, l’organisation de jeunesse des Frères musulmans en Europe, continuait à recevoir des financements européens pour organiser ses événements. \nJ’ai interpellé la Commission européenne, et la réponse vient de me parvenir. Sans surprise,"
     },
     {
       "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-11 08:15",
-      "text": "Au centre d’accueil de Monastir, en Sardaigne, une rixe entre des dizaines de migrants a impliqué couteaux, bouteilles et barres de fer. Un blessé hospitalisé, après un incendie. \n https://www.fdesouche.com/2026/11/11/sardaigne-monastir-cinquantaine-migrants-rixe-couteaux-barres-de-fer/"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-11 08:16",
-      "text": "🇫🇷 Teddy Riner, ce candidat qui fait trembler la gauche\n\n🗣️@NaomiHalll : \"Dans la gauche identitaire, un homme issu de la diversité devrait obligatoirement appartenir au camp qu'on lui assigne !\" #GrandMatin\n\n📻https://www.sudradio.fr/"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-11 08:16",
-      "text": "Catherine Vautrin : «On ne peut pas accepter la violence. Elle doit être condamnée et sanctionnée» dans #LaGrandeInterview \n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Le Point",
-      "published_at": "2026-11-11 08:16",
-      "text": "Procès de la martyre de l’A10 : « Pour faire ça, faut-il être un monstre ? » https://l.lepoint.fr/HAa"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-11 08:16",
-      "text": "\"On ne peut pas accepter la violence, c'est impensable. La violence doit être condamnée, doit être sanctionnée\" affirme @CaVautrin #LaGrandeInterview #Europe1"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-11 08:17",
-      "text": "Propos sur les musulmans et le «grand remplacement» : Michel Houellebecq mis en examen, il conteste toute incitation à la discrimination https://ow.ly/uiuE106Ikra"
-    },
-    {
-      "author_name": "Le JDD",
-      "published_at": "2026-11-11 08:18",
-      "text": "11-Novembre : «Il ne peut pas y avoir de paix sans mémoire combattante», souligne Serge Barcellini https://ow.ly/e9rb106IksN"
-    },
-    {
-      "author_name": "Samuel Lafont",
-      "published_at": "2026-11-11 08:19",
-      "text": "Le mensonge est le premier réflexe de ces « élites ».\n[Cite @Samuel_Lafont] La catastrophe Édouard Philippe.\n\nC’est la conséquence d’un système électoral vicié qui installe au pouvoir des arrogants déconnectés et prenant les Français pour des idiots."
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-11 08:19",
-      "text": "« Une dérive toujours plus droitière » : le Parti socialiste ne soutiendra pas David Lisnard pour la présidence des maires de France\n➡️ https://l.leparisien.fr/ZkkD"
-    },
-    {
-      "author_name": "Le Média en 4⃣-4⃣-2⃣",
-      "published_at": "2026-11-11 08:20",
-      "text": "Chômage : 150 000 personnes de plus en un an, Macron loin du plein emploi https://lemediaen442.fr/chomage-150-000-personnes-de-plus-en-un-an-macron-loin-du-plein-emploi/\n\nLes chiffres publiés par l’Insee ce 10 novembre 2026 établissent le taux de chômage à 8,2 % au troisième trimestre. La promesse présidentielle possède toujours une date de"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-11 08:21",
-      "text": "11 novembre : \"Les fondements d'une nation, c'est d'être capable de partager ensemble les valeurs de la nation, et nous avons en partage notre histoire. Notre histoire nous oblige.\" déclare @CaVautrin #LaGrandeInterview #Europe1"
-    },
-    {
-      "author_name": "Causeur.fr",
-      "published_at": "2026-11-11 08:22",
-      "text": "Pour des quotas dans les prix littéraires: le dernier projet féministe @causeur https://www.causeur.fr/pour-des-quotas-dans-les-prix-litteraires-le-dernier-projet-feministe-336908"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-11 08:23",
-      "text": "Catherine Vautrin : «Le service national fonctionne. Ces jeunes apprennent à servir le pays» dans #LaGrandeInterview \n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-11 08:23",
-      "text": "Des syndicats enseignants boycottent les commémorations du 11 novembre : \"Je trouve que c'est un irrespect total de la mémoire \" estime @CaVautrin #LaGrandeInterview #Europe1"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-11 08:24",
-      "text": "« Un peu superficiel » : l’hommage aux poilus dans les écoles pour le 11 novembre peine encore à convaincre\n➡️ https://l.leparisien.fr/yIIz"
-    },
-    {
-      "author_name": "Médias-Presse-Info",
-      "published_at": "2026-11-11 08:25",
-      "text": "Souvenir de Paul Lintier, tué le 15 mars 1916 sur le champ de bataille de l’Hartmanswillerkopf en Alsace. - https://www.medias-presse.info/souvenir-de-paul-lintier-tue-le-15-mars-1916-sur-le-champ-de-bataille-de-lhartmanswillerkopf-en-alsace/253910/ - Il est dans le deuxième a..."
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-11 08:25",
-      "text": "[Retweet de @nicojacquard] « En général, on ne frappe pas à la tête… » : au procès des violences sur Michel Zecler, l’autopsie d’un fiasco policier. Le procès se déroule dans une salle minuscule. A l'image de l’importance donnée par la justice à l’affaire ? https://www.leparisien.fr/faits-divers/en-general-on-ne-frappe-pas-a-la-tete-au-proces-des-violences-sur-michel-zecler-lautopsie-dun-fiasco-policier-10-11-2026-4RSUM72EHJDMFJINKN277RGTJA.php?at_medium=Social"
-    },
-    {
-      "author_name": "Médias-Presse-Info",
-      "published_at": "2026-11-11 08:25",
-      "text": "Préparez Noël avec La Malle aux Mille Trésors. Avez-vous reçu votre numéro ? Vite, vite abonnez-vous ! - https://www.medias-presse.info/preparez-noel-avec-la-malle-aux-mille-tresors-avez-vous-recu-votre-numero-vite-vite-abonnez-vous/253911/ -                         Le numéro ..."
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-11 08:26",
-      "text": "💥Frederic Douet (@Fiscalitor) : \"@gabriel_zucman vit dans un monde parallèle et les milliardaires dans un monde ouvert\"\n\n🇺🇸 La Californie rejette la \"taxe Zucman\" qui fait des dégâts sans même avoir été mise en place #GrandMatin\n\n📻Réagissez à #ParlonsCash sur"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-11 08:26",
-      "text": "Catherine Vautrin : «Aujourd'hui l'Allemagne n'arrive pas à recruter le nombre de militaires dont elle a besoin» dans #LaGrandeInterview \n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-11 08:26",
-      "text": "«Le service national fonctionne, ces jeunes apprennent à servir le pays», assure Catherine Vautrin https://www.cnews.fr/france/2026-11-11/le-service-national-fonctionne-ces-jeunes-apprennent-servir-le-pays-assure"
-    },
-    {
-      "author_name": "JDNews",
-      "published_at": "2026-11-11 08:27",
-      "text": "Mathieu Bock-Côté : «L'avenir des Européens, après la chute de l'Europe» https://ow.ly/yojN106IkvC",
-      "also_by": [
-        "Le JDD"
-      ]
-    },
-    {
-      "author_name": "Parti National Breton | Strollad Broadel Breizh",
-      "published_at": "2026-11-11 08:27",
-      "text": "« Gwerz Yann ar Gevel », war don « Ich hatt’ einen Kameraden ».\n\nDalc'homp soñj eus hor re varv !\n\n#11Du\n[Cite @pnbsbb] #11novembre : conservant la mémoire des plus de 200 000 Bretons qui ont péri dans une guerre qui n'était pas la leur, le PNB a honoré leur mémoire par des feux et des chants sur les monts de Bretagne. \n\nPlus jamais de sang breton pour la France !\n\nLa Bretagne aux Bretons !"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-11 08:28",
-      "text": "\"L'Éducation nationale est le meilleur passeport pour l'avenir ; je suis convaincue que l'école est, incontestablement, un lieu de partage de la mémoire.\" déclare @CaVautrin #LaGrandeInterview #Europe1"
-    },
-    {
-      "author_name": "Parti National Breton | Strollad Broadel Breizh",
-      "published_at": "2026-11-11 08:29",
-      "text": "« Gwerz Yann ar Gevel », war don « Ich hatt’ einen Kameraden ».\n\nDalc'homp soñj eus hor re varv !\n\n#11Du\n[Cite @pnbsbb] #11Du : Evit derc'hel soñj eus an ouzhpenn 200 000 Breizhad marvet en ur brezel na oa ket o hini, en deus ar PNB enoret anezho gant tantadoù ha kanoù war menezioù Breizh.\n\nBiken ken a wad Bretoned evit Bro-C'hall !\n\nBreizh d'ar Vrezhoned !"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-11 08:29",
-      "text": "Catherine Vautrin : «C'est indispensable d'avoir un candidat unique du bloc central» dans #LaGrandeInterview \n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Philippe de Villiers",
-      "published_at": "2026-11-11 08:30",
-      "text": "🇫🇷 Quatre années de guerre, des millions de vies sacrifiées. \nEt parfois, un simple béret retrouvé suffit à raconter le destin de toute une génération...\n#11novembre"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-11 08:30",
-      "text": "Guerre en Ukraine : une attaque de drones met le feu à un port pétrolier russe sur la Baltique, poursuite des pourparlers à Abou Dhabi\n➡️ https://l.leparisien.fr/xXx6",
-      "also_by": [
-        "Le Parisien | politique"
-      ]
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-11 08:30",
-      "text": "🔴 L’invité du #GrandMatin\n\n🎙️Toute de suite @MarionMarechal est en direct, au micro de Jacques Cardoze\n\n➡️ Le direct sur https://sudradio.fr"
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-11 08:30",
-      "text": "«Une mesure douce, mais nécessaire».→https://l.lefigaro.fr/Wnnp"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-11 08:32",
-      "text": "Nvidia : la Chinoise soupçonnée d'espionnage s'est rendue à Taïwan avec un passeport hongkongais https://ow.ly/gXrM106IkwL"
-    },
-    {
-      "author_name": "Marc Vanguard",
-      "published_at": "2026-11-11 08:32",
-      "text": "[Retweet de @marc_vanguard] 🔴 \"Le nouveau collectivisme\" \n\nJ'ai lu le programme de Jean-Luc Mélenchon.\n\nCertains diront que c'est un simple programme social-démocrate. C'est FAUX⬇️\n\n🚩 Vague de nationalisations\n🚩 Droit de réquisition des usines\n🚩 Plafonnement des salaires\n🚩 Plafonnement des héritages\n🚩"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-11 08:33",
-      "text": "\"Les armées françaises ont une composition qui va maintenant dépasser les 300 000 personnes, ce qui fait de nous aujourd'hui, en Europe, l'armée la plus entraînée\", affirme  @CaVautrin #LaGrandeInterview #Europe1"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-11 08:35",
-      "text": "\"L'Europe a pour fondement le couple franco-allemand\" affirme @CaVautrin #LaGrandeInterview #Europe1"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-11 08:36",
-      "text": "Catherine Vautrin : «N'hésitez pas à acheter un Bleuet et à le porter fièrement, en hommage à nos soldats» dans #LaGrandeInterview \n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-11 08:37",
-      "text": "«C'est une vraie menace pour la démocratie», déplore dans #LaGrandeInterview Catherine Vautrin, ministre des Armées et des Anciens combattants, à propos des journalistes attaqués et menacés durant les manifestations en France"
-    },
-    {
-      "author_name": "Florian Philippot",
-      "published_at": "2026-11-11 08:38",
-      "text": "11 novembre : hommage à nos Poilus, à nos héros, à nos soldats, à la France éternelle qui jamais ne renonce à sa liberté et à sa grandeur !\n\nVive la France ! 🇫🇷"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-11 08:39",
-      "text": "🇫🇷 Commémorer le 11 novembre à l'école fait polémique : \"Les syndicats sont des succursales de la @FranceInsoumise !\"\n\n🗣️ @MarionMarechal  : \"Que disent les professeurs en Seine-St-Denis ? Ils parlent sans doute de racisme d'Etat, que la France est un ramassis de colons et de"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-11 08:39",
-      "text": "Journalistes attaqués et menacés durant les manifestations : «C'est une vraie menace pour la démocratie», déplore Catherine Vautrin https://www.cnews.fr/france/2026-11-11/journalistes-attaques-et-menaces-durant-les-manifestations-cest-une-vraie-menace"
-    },
-    {
-      "author_name": "Les Patriotes",
-      "published_at": "2026-11-11 08:40",
-      "text": "[Retweet de @LesPatriotes_06] 🇨🇵🕊️Déclaration de l'Armistice le 11 novembre 1918 à 11h, la fin d'un calvaire.\n\nLes Poilus, les tranchées, les Gueules-Cassées, l'Obusite, ces mots on les connaît un peu, beaucoup ou pas du tout.\n108 ans après, qu'avons nous appris, qu'avons nous retenu ? \nApparemment pas assez,"
+      "published_at": "2026-11-12 08:20",
+      "text": "Poursuivi après une fuite et une collision ayant blessé quatre policiers de la BAC à Nanterre, Zakaria L., 37 ans, a été condamné à quatre ans de prison ferme. \n https://www.fdesouche.com/2026/11/12/nanterre-92-quatre-policiers-bac-blesses-refus-obtemperer-zakaria-l-quatre-ans-prison/"
     },
     {
       "author_name": "Jon De Lorraine",
-      "published_at": "2026-11-11 08:40",
-      "text": "N'oublions jamais tous ceux qui ont sacrifié leurs vies pour que nous puissions, aujourd'hui encore, parler Français. \nPour notre souveraineté. \nPour notre liberté. \n#11Novembre"
-    },
-    {
-      "author_name": "Le Point",
-      "published_at": "2026-11-11 08:41",
-      "text": "💬 « Jean-Luc Mélenchon fait comme si Poutine était prêt à négocier »\n\nPar @ElCottereau https://l.lepoint.fr/U11"
-    },
-    {
-      "author_name": "Gendarmerie nationale",
-      "published_at": "2026-11-11 08:41",
-      "text": "#BleuetDeFrance 🇫🇷 \"Aidons ceux qui restent\", soyons porteurs du @BleuetFrance, participons aux cérémonies mémorielles du #11novembre et faisons vivre la solidarité entre générations ! 🤝"
+      "published_at": "2026-11-12 08:20",
+      "text": "🔴🇫🇷 FLASH - Réaction de Bally Bagayoko (LFI) par rapport à la candidature de Teddy Riner.\n\"1 coup KO\" s’est pris un ippon."
     },
     {
       "author_name": "Europe 1",
-      "published_at": "2026-11-11 08:41",
-      "text": "\"Si vous prenez 1 000 euros de dépenses publiques, le poids des armées dans cette dépense publique, c'est 43 euros... La sécurité de notre pays mérite cet effort.\" affirme @CaVautrin #LaGrandeInterview #Europe1"
+      "published_at": "2026-11-12 08:20",
+      "text": "« Les lycéens ne doivent pas être les victimes collatérales de leur combat ; c'est la raison pour laquelle j'ai lancé un stage qui s'appelle \"Je veux ma mention\" », affirme @karim_bouamrane #LaGrandeInterview #Europe1"
+    },
+    {
+      "author_name": "Régis Le Sommier",
+      "published_at": "2026-11-12 08:20",
+      "text": "[Retweet de @MarioNawfal] 🇷🇺🇺🇸🇨🇳 Russia is pushing back on reports that Trump, Putin and Xi could discuss Ukraine WITHOUT Zelensky.\n\nKremlin spox. Dmitry Peskov says those reports are incorrect, and he accused European officials of showing little willingness to help negotiate an end to the war.\n\nAnd when"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-11 08:42",
-      "text": "Lieutenant Geoffroy : «Le premier objectif de ce match de rugby est de rassembler les citoyens autour de leur armée» dans #LaMatinale \n\nToute l'info est à retrouver sur https://cnews.fr"
+      "published_at": "2026-11-12 08:20",
+      "text": "Karim Bouamrane : «Je crois en ma candidature et à la victoire du bloc social-démocrate en 2027», dans #LaGrandeInterview\n\nToute l'info est à retrouver sur https://cnews.fr"
     },
+    {
+      "author_name": "Régis Le Sommier",
+      "published_at": "2026-11-12 08:21",
+      "text": "[Retweet de @JohnnyRamone91] A peine deux jours après sa déclaration de candidature, @teddyriner mis en difficulté. Entre tartufferie et bouffonnerie... 😉🤡\nExtrait : \nTu veux le combat. Tu l’as. Mais explique-nous clairement : comment on « relève la France » avec une société immobilière liquidée, des"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-12 08:21",
+      "text": "Arthur Dénouveaux, rescapé du Bataclan : « Notre société a remplacé les héros par les victimes » https://l.lepoint.fr/YW2"
+    },
+    {
+      "author_name": "Régis Le Sommier",
+      "published_at": "2026-11-12 08:21",
+      "text": "[Retweet de @alexdelvalle3] 🇺🇦🇷🇺🇺🇸🇪🇺 À #AbuDhabi, les négociations prennent une tournure concrète: les Américains ont pris les commandes. Les Européens se contentent d’un strapontin, #Moscou leur prêtant surtout un pouvoir de nuisance, à savoir pousser #Zelensky à refuser toute forme d’accord. Et cette"
+    },
+    {
+      "author_name": "Bouli ☃️",
+      "published_at": "2026-11-12 08:21",
+      "text": "[Retweet de @FrcoisB_1] - Il y a 13 cotisants par retraité"
+    },
+    {
+      "author_name": "Régis Le Sommier",
+      "published_at": "2026-11-12 08:21",
+      "text": "[Retweet de @ojim_france] 🚨ÉNORME MENSONGE du journaliste de gauche Thomas Legrand qui assure n'avoir JAMAIS appelé à l'interdiction de CNews : il y a seulement HUIT JOURS, le journaliste a publié une tribune dans @libe affirmant que CNews \"ne devait PAS bénéficier d’un canal hertzien public\"."
+    },
+    {
+      "author_name": "Causeur.fr",
+      "published_at": "2026-11-12 08:22",
+      "text": "France–Iran: guerre dans la chaîne du froid! @causeur https://www.causeur.fr/france-iran-guerre-dans-la-chaine-du-froid-337024"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-12 08:23",
+      "text": "Karim Bouamrane : «Il y a une rupture de confiance» entre l'Etat et les jeunes, dans #LaGrandeInterview\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Régis Le Sommier",
+      "published_at": "2026-11-12 08:23",
+      "text": "[Retweet de @d_yelisevich] Премьер-министр Ирландии, отказался отправлять украинских мужчин обратно.\n\nИ все это прямо в лицо Зеленскому. А конце еще и намекнул на пыточные…"
+    },
+    {
+      "author_name": "Régis Le Sommier",
+      "published_at": "2026-11-12 08:24",
+      "text": "[Retweet de @mich54677] Ruský šéfvyjednavač Medinskij vykopl Evropany z jednání:\n\n\"Naprosto nechápu, co tu dělají. Toto je třístranné jednání. Jestli chtějí, zatímco my budeme jednat, mohou se poflakovat v lobby.\"\n\nTak se i stalo.\nVětší potupu pro EU si snad ani neumím představit. A může si za ni sama."
+    },
+    {
+      "author_name": "Régis Le Sommier",
+      "published_at": "2026-11-12 08:24",
+      "text": "[Retweet de @MarioNawfal] 🇺🇸🇮🇷 Vance considers direct talks with Iran's security chief as Trump privately calls previous Iran deal a MISTAKE\n\nTrump has reportedly put Vance in charge of negotiations to end the Iran war, sidelining Witkoff and Kushner.\n\nHe apparently now regrets the June agreement Vance"
+    },
+    {
+      "author_name": "Régis Le Sommier",
+      "published_at": "2026-11-12 08:24",
+      "text": "[Retweet de @clashreport] U.S. Envoy Steve Witkoff and Jared Kushner arrive in Moscow for peace talks."
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-12 08:24",
+      "text": "Karim Bouamrane, maire de Saint-Ouen (PS) et candidat à l'élection présidentielle : «La crise lycéenne est le paroxysme du mépris de la génération au pouvoir», dans #LaGrandeInterview\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-12 08:24",
+      "text": "⁉️Shein, Temu, Ali Express bientôt bloqués pendant 6 mois en France ?\n\n🗣️ @RomainEskenazi : \"Il changer la loi. Des sanctions et prélèvement d'une partie de leur chiffre d'affaires si les fraudes sont répétées\"  #GrandMatin\n\n📻Écoutez #ParlonsCash chaque matin à 8h15 et réagissez"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-12 08:24",
+      "text": "🔴 L’invité du #GrandMatin\n\n🎙️Toute de suite @Menard_off est en direct, au micro de @JacquesCardoze \n\n➡️ Le direct sur https://sudradio.fr"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-12 08:25",
+      "text": "« Nostalgie du passé, anxiété du présent et colère de l'avenir sont attisées par les extrêmes », estime @karim_bouamrane #LaGrandeInterview #Europe1"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-12 08:26",
+      "text": "L'astuce pour décrocher un rendez-vous chez un médecin spécialiste https://l.lepoint.fr/7bz"
+    },
+    {
+      "author_name": "Front Populaire",
+      "published_at": "2026-11-12 08:26",
+      "text": "[Retweet de @ruseurope] Ma vidéo sur @FrontPopOff  ou je discute des problèmes de crédibilité et de légitimité qui ont au coeur du mouvement social\n\nhttps://frontpopulaire.fr/fpplus/videos/crise-politique-et-economique-les-raisons-de-la-colere-en-france-entretien-_vco_31974814?m_i=Ji6fsTcxhBkD5rLKs65GDkJp7CRB_10%2B2d79HbqTYz8YfB1eaozDGDAaVJhqu8pYIP742wovaJttpAZXHNMmo9Nsfrgl3YB3Ju&utm_source=selligent&utm_medium=newsletter&utm_campaign=0911FP&utm_content=sapir+crise"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-12 08:26",
+      "text": "Travaux du tunnel de Saint-Cloud : \"Ça va être compliqué, ce serait illusoire de dire que ça ne va pas l 'être\" déclare Georges-François Leclerc, préfet de la région d'Île-de-France et préfet de Paris #Europe1Matin @dimitripavlenko #Europe1"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-12 08:27",
+      "text": "⚫ Toukie Smith, ex-compagne de Robert De Niro avec qui elle a deux enfants, est décédée à l’âge de 74 ans ➡️ https://l.leparisien.fr/J6e1"
+    },
+    {
+      "author_name": "Le Média en 4⃣-4⃣-2⃣",
+      "published_at": "2026-11-12 08:27",
+      "text": "L’ASE a failli face à Pierre-Alain Cottineau, tortionnaire de bébés — Attention : propos dérangeants \nhttps://lemediaen442.fr/pierre-alain-cottineau-militant-lfi-lase-a-failli-face-a-ce-tortionnaire-de-bebes/ \n\nJacques Thomet revient sur l’affaire Pierre-Alain Cottineau, ancien assistant familial et ex-candidat LFI mis en examen pour des viols aggravés sur des"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-12 08:27",
+      "text": "Karim Bouamrane maire de Saint-Ouen (PS) et candidat à l'élection présidentielle : «Edouard Philippe a été nul, mauvais», dans #LaGrandeInterview\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-12 08:28",
+      "text": "«La crise lycéenne est le paroxysme du mépris de la génération au pouvoir», lâche Karime Bouamrane https://www.cnews.fr/france/2026-11-12/la-crise-lyceenne-est-le-paroxysme-du-mepris-de-la-generation-au-pouvoir-lache"
+    },
+    {
+      "author_name": "Agence France-Presse",
+      "published_at": "2026-11-12 08:28",
+      "text": "Le conseil d'administration de Nvidia se réunit afin de se prononcer sur une éventuelle éviction de son emblématique patron, Jensen Huang, ébranlé par une liaison extraconjugale avec une Chinoise soupçonnée d'espionnage.\n\n➡️ https://u.afp.com/SF5U"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-12 08:29",
+      "text": "\"Notre pays souffre trop du mépris ; cette crise avec les lycées a été le paroxysme de l'expression du mépris de toute une génération qui est au pouvoir \" déclare @karim_bouamrane #LaGrandeInterview #Europe1"
+    },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-12 08:30",
+      "text": "«Ce qu'a dit Édouard Philippe, c’est ce que tout le monde a vu».→https://l.lefigaro.fr/PxD5"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-12 08:30",
+      "text": "Karim Bouamrane, maire de Saint-Ouen (PS) et candidat à l'élection présidentielle, sur la candidature de Teddy Riner en 2027 : «Je lui souhaite bonne campagne, que le meilleur gagne», dans #LaGrandeInterview\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Conflits - Revue de Géopolitique",
+      "published_at": "2026-11-12 08:31",
+      "text": "[Retweet de @FouquetVictor] Étant précisé que les 10 % les plus riches ne touchent pas 73 % des revenus totaux mais seulement le tiers. Idem : les 1 % les plus riches règlent 31 % de l’IR alors que leurs revenus représentent à peine plus de 10 % du total. C’est dire le niveau de concentration de la charge"
+    },
+    {
+      "author_name": "L'Express",
+      "published_at": "2026-11-12 08:32",
+      "text": "Pour revenir dans la course, la vénérable marque anglaise revoit de fond en comble son identité en misant sur le 100 % électrique.\n\n➡️ https://l.lexpress.fr/M50 https://l.lexpress.fr/M50"
+    },
+    {
+      "author_name": "Dreuz",
+      "published_at": "2026-11-12 08:33",
+      "text": "Israël en première ligne – le Live de la confrontation Israël-Iran – 12 novembre 2026 https://www.dreuz.com/2026/11/israel-en-premiere-ligne-le-live-de-la-confrontation-israel-iran-12-novembre-2026-333708.html"
+    },
+    {
+      "author_name": "Damien Rieu",
+      "published_at": "2026-11-12 08:33",
+      "text": "[Retweet de @Margueritestern] Si j'avais émigré dans un pays où ma diaspora habitait pour moitié en logement social et était surreprésentée dans les prisons, je me tiendrais tranquille, je remercierais le peuple autochtone de continuer à m'accueillir, et je ne m'amuserais pas à le traiter de raciste."
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-12 08:33",
+      "text": "Lien avec l'immigration : \"E. Philippe a été nul, mauvais, il nous ressort un discours des années 1980 en disant que la France doit réussir son intégration\", lance @karim_bouamrane #LaGrandeInterview #Europe1"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-12 08:34",
+      "text": "🔴#Trappes Kévin T. dit \"avoir agi pour la France\" : \"Il est barjot !\"\n\n🗣️ @Menard_off : \"Il y a une folie ambiante, il y a une radicalisation qui me fait peur à l'ultra gauche ou à l'ultra droite\"  #GrandMatin\n\n📻https://www.sudradio.fr/"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-12 08:35",
+      "text": "« Je ne me vis pas activement comme une victime. » Arthur Dénouveaux (@Arthur_Dvx), rescapé des attentats du 13 novembre, alerte sur le piège de l’émotion et l’instrumentalisation politique des drames.\n\n➡️ https://l.lepoint.fr/wqi\nPar @ThomasValognes"
+    },
+    {
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-12 08:35",
+      "text": "Deux commerces SFR et Orange ont été attaqués dans le Forez au petit matin du 11 Novembre. Des vitrines ont été défoncées et un véhicule brûlé a été retrouvé. \n https://www.fdesouche.com/2026/11/12/montbrison-feurs-42-deux-boutiques-telephonie-attaquees-voiture-belier-11-novembre/"
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-12 08:36",
+      "text": "Russie : Le Monde et Ouest-France condamnent « avec la plus grande fermeté » l’interdiction de territoire visant deux journalistes\n➡️ https://l.leparisien.fr/Leqh"
+    },
+    {
+      "author_name": "Samuel Lafont",
+      "published_at": "2026-11-12 08:36",
+      "text": "L’horreur continue dans l’affaire Cottineau.\n[Cite @Samuel_Lafont] 🔴 Horrible scandale pédocriminel\n\nPierre-Alain Cottineau, ancien candidat LFI est suspecté d'avoir :\n- commis des viols avec torture sur des enfants drogués avec somnifères, Xanax et poppers,\n- participé à un réseau pédocriminel.\n\nÀ votre avis, quelle peine pour de tels crimes ?"
+    },
+    {
+      "author_name": "Frontières",
+      "published_at": "2026-11-12 08:37",
+      "text": "« Congo, Donald Trump, ARCOM, Jets privés à 50 000€, les réseaux de Matthieu Pigasse racontent une autre histoire que son discours politique de gauche »\n\n💥 @Jules_Laurans présente notre nouveau magazine “Matthieu Pigasse : l’argent, le pouvoir et les affaires”.\n\n📍En kiosque."
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-12 08:37",
+      "text": "Le candidat Insoumis à la présidentielle a attiré la foule ce 11 novembre dans le Limousin. Petites phrases contre ses adversaires, envolées sur la paix mondiale, ironie sur Teddy Riner… Tout y était, sauf les préoccupations locales.\n➡️ https://l.lepoint.fr/vVO"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-12 08:37",
+      "text": "🔴Attentat de #Trappes : @CaronAymericoff, @sandrousseau, @GuiraudInd et Assa Traore visés par le suspect\n\n🗣️ @Menard_off : \"Ils ont toute ma sympathie et ma solidarité. Toute la droite devrait s'élever en disant que c'est insupportable\" #GrandMatin\n\n📻https://www.sudradio.fr/"
+    },
+    {
+      "author_name": "Marion Maréchal",
+      "published_at": "2026-11-12 08:38",
+      "text": "[Retweet de @LaurenceTrochu] Il y a désormais deux attaques antichrétiennes par jour. Contre les biens, mais désormais aussi de plus en plus contre les personnes."
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-12 08:38",
+      "text": "\"90 % de la matrice politique de R. Glucksmann et de la mienne convergent ; maintenant, si on doit converger, on convergera, mais ce qui prévaudra, c'est l'intérêt général \" déclare @karim_bouamrane #LaGrandeInterview #Europe1"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-12 08:40",
+      "text": "« Tout le monde est sidéré » : l’Élysée en colère contre France Télévisions https://l.lepoint.fr/B56"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-12 08:41",
+      "text": "T. Riner candidat à la présidentielle : \"Je lui souhaite bonne campagne, que le meilleur gagne ! \" affirme @karim_bouamrane #LaGrandeInterview #Europe1"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-12 08:42",
+      "text": "👮‍♂️Envoyer la police dans les #BlocusLycees ? \"Ça fait rire ces petits connards !\"\n\n🗣️ @Menard_off : \"Je ne suis pas sûr qu'il y ait que quelques dizaines d'individus... Ce qui me fait peur c'est les ricanements de ceux qui lancent des explosifs\" #GrandMatin"
+    },
+    {
+      "author_name": "Le Média en 4⃣-4⃣-2⃣",
+      "published_at": "2026-11-12 08:42",
+      "text": "Budget européen : Merz exige un accord sur l’Ukraine, Fico dénonce un « chantage » \nhttps://lemediaen442.fr/budget-europeen-merz-exige-un-accord-sur-lukraine-fico-denonce-un-chantage/ \n\nBerlin veut l’engagement de tous les États membres pour financer l’Ukraine avant de poursuivre les négociations financières. Le président slovaque Robert Fico refuse"
+    },
+    {
+      "author_name": "L'Express",
+      "published_at": "2026-11-12 08:42",
+      "text": "Le Parti démocrate s'est aussi imposé dans ce bastion conservateur. Son candidat Scott Colom devient le premier Afro-Américain élu sénateur dans cet Etat depuis 1881.\n\n➡️ https://l.lexpress.fr/23P"
+    }
+  ],
+  "context": [
     {
       "author_name": "Sud Radio",
       "published_at": "2026-11-11 08:43",
@@ -4133,6 +4213,11 @@
       "author_name": "Florian Philippot",
       "published_at": "2026-11-11 12:28",
       "text": "C’est désespérément vide !…\n[Cite @BFMTV] 11 novembre: Emmanuel Macron remonte les Champs-Élysées à bord du véhicule présidentiel"
+    },
+    {
+      "author_name": "Philippe de Villiers",
+      "published_at": "2026-11-11 12:29",
+      "text": "[Retweet de @PhdeVilliers] 🇫🇷 Quatre années de guerre, des millions de vies sacrifiées. \nEt parfois, un simple béret retrouvé suffit à raconter le destin de toute une génération...\n#11novembre"
     },
     {
       "author_name": "Tocsin",
