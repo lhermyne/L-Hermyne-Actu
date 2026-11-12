@@ -1,14 +1,27 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-12T03:46:10.329Z",
+  "updated_at": "2026-11-12T04:11:54.081Z",
   "window_hours": 24,
-  "window_start": "2026-11-11T03:46:10.329Z",
+  "window_start": "2026-11-11T04:11:54.081Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1532,
+  "count": 1531,
   "tweets": [
+    {
+      "id": "2120725997418864812",
+      "created_at": "2026-11-12T03:50:53.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "L’Europe peine à s’entendre sur la personnalité qui parlera à Kiev et à Moscou, le Premier ministre estonien a son idée\n➡️ https://l.leparisien.fr/AAsO",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2120725997418864812"
+    },
     {
       "id": "2120716386758504842",
       "created_at": "2026-11-12T03:12:42.000Z",
@@ -19898,32 +19911,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/le_Parisien/status/2120369057249804345"
-    },
-    {
-      "id": "2120367611238314249",
-      "created_at": "2026-11-11T04:06:47.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "Mobilisation universitaire : la légende du « 10 améliorable » qui perdure sur les campus\n➡️ https://l.leparisien.fr/fq0P",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2120367611238314249"
-    },
-    {
-      "id": "2120365623280828646",
-      "created_at": "2026-11-11T03:58:53.000Z",
-      "author": "leparisien_pol",
-      "author_name": "Le Parisien | politique",
-      "type": "tweet",
-      "text": "Le père de Meghan Markle coupe son bracelet électronique, une juge américaine le renvoie en prison\n➡️ https://l.leparisien.fr/wZRD",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/leparisien_pol/status/2120365623280828646"
     }
   ]
 }

@@ -1,13 +1,13 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-12 04:46",
-  "period": "du 2026-11-11 04:46 au 2026-11-12 04:46",
-  "new_period": "du 2026-11-11 20:00 au 2026-11-12 04:46",
-  "context_period": "du 2026-11-11 04:46 au 2026-11-11 20:00",
+  "generated_at": "2026-11-12 05:11",
+  "period": "du 2026-11-11 05:11 au 2026-11-12 05:11",
+  "new_period": "du 2026-11-11 20:00 au 2026-11-12 05:11",
+  "context_period": "du 2026-11-11 05:11 au 2026-11-11 20:00",
   "coverage_complete": true,
   "new_count": 231,
-  "context_count": 1201,
+  "context_count": 1200,
   "duplicates_merged": 96,
   "empty_removed": 4,
   "new": [
@@ -1206,22 +1206,17 @@
     {
       "author_name": "Le Parisien | politique",
       "published_at": "2026-11-12 04:12",
-      "text": "L’Europe peine à s’entendre sur la personnalité qui parlera à Kiev et à Moscou, le Premier ministre estonien a son idée\n➡️ https://l.leparisien.fr/KxuQ"
+      "text": "L’Europe peine à s’entendre sur la personnalité qui parlera à Kiev et à Moscou, le Premier ministre estonien a son idée\n➡️ https://l.leparisien.fr/KxuQ",
+      "also_by": [
+        "Le Parisien"
+      ]
     }
   ],
   "context": [
     {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-11 04:58",
-      "text": "Le père de Meghan Markle coupe son bracelet électronique, une juge américaine le renvoie en prison\n➡️ https://l.leparisien.fr/wZRD",
-      "also_by": [
-        "Le Parisien"
-      ]
-    },
-    {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-11 05:06",
-      "text": "Mobilisation universitaire : la légende du « 10 améliorable » qui perdure sur les campus\n➡️ https://l.leparisien.fr/fq0P"
+      "published_at": "2026-11-11 05:12",
+      "text": "Le père de Meghan Markle coupe son bracelet électronique, une juge américaine le renvoie en prison\n➡️ https://l.leparisien.fr/ZkkF"
     },
     {
       "author_name": "Ni Oubli Ni Pardon",
