@@ -1,14 +1,27 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-12T02:41:33.796Z",
+  "updated_at": "2026-11-12T03:11:40.506Z",
   "window_hours": 24,
-  "window_start": "2026-11-11T02:41:33.796Z",
+  "window_start": "2026-11-11T03:11:40.506Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1534,
+  "count": 1533,
   "tweets": [
+    {
+      "id": "2120712410176598365",
+      "created_at": "2026-11-12T02:56:54.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "« J’ai choisi de vivre seule sans mes enfants » : cette vidéo de l’influenceuse Sibyllete devient virale et divise la Toile\n➡️ https://l.leparisien.fr/43Ju",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2120712410176598365"
+    },
     {
       "id": "2120706743139500492",
       "created_at": "2026-11-12T02:34:23.000Z",
@@ -19924,32 +19937,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/le_Parisien/status/2120360742788665403"
-    },
-    {
-      "id": "2120353739471045041",
-      "created_at": "2026-11-11T03:11:40.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "En plein arrêt maladie, il soulève 80 kg à la salle de sport et se fait licencier\n➡️ https://l.leparisien.fr/8mXh",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2120353739471045041"
-    },
-    {
-      "id": "2120346820886811076",
-      "created_at": "2026-11-11T02:44:10.000Z",
-      "author": "leparisien_pol",
-      "author_name": "Le Parisien | politique",
-      "type": "tweet",
-      "text": "Meta, l’entreprise de Mark Zuckerberg, sanctionnée d’une amende d’1,2 million de dollars après l’élection au Brésil\n➡️ https://l.leparisien.fr/dYjm",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/leparisien_pol/status/2120346820886811076"
     }
   ]
 }
