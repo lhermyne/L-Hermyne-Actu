@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-14 22:06",
-  "period": "du 2026-11-13 22:06 au 2026-11-14 22:06",
-  "new_period": "du 2026-11-14 20:00 au 2026-11-14 22:06",
-  "context_period": "du 2026-11-13 22:06 au 2026-11-14 20:00",
+  "generated_at": "2026-11-14 22:24",
+  "period": "du 2026-11-13 22:24 au 2026-11-14 22:24",
+  "new_period": "du 2026-11-14 20:00 au 2026-11-14 22:24",
+  "context_period": "du 2026-11-13 22:24 au 2026-11-14 20:00",
   "coverage_complete": false,
-  "new_count": 110,
-  "context_count": 422,
-  "duplicates_merged": 22,
+  "new_count": 115,
+  "context_count": 415,
+  "duplicates_merged": 20,
   "empty_removed": 0,
   "new": [
     {
@@ -566,52 +566,34 @@
       "author_name": "Tribune Populaire🌐",
       "published_at": "2026-11-14 22:04",
       "text": "Les streameurs français ont trouvé un nouveau concept pour se faire de la thune sur Twitch et refourguer des places.\n\nIls font du catch. \n\nÀ ce rythme, dans deux ans c’est Squid Game en direct."
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-13 22:09",
-      "text": "« Je prends du recul » : l’ex-ministre de la Santé François Braun se retire déjà de la campagne présidentielle de Teddy Riner https://l.leparisien.fr/IHhT",
-      "also_by": [
-        "Le Parisien"
-      ]
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-13 22:10",
-      "text": "La diplomatie et la politique entrent en jeu. ➡️ https://mrf.lu/27l3b"
+      "published_at": "2026-11-14 22:16",
+      "text": "«C’est une France qui se dégrade, ce sont des policiers qui n’en peuvent plus» déplore Marc Silvera, directeur général de l’Amicale de la police nationale. #100PolitiqueWE\n\nToute l'info est à retrouver sur https://cnews.fr"
     },
     {
-      "author_name": "Jordan Bardella",
-      "published_at": "2026-11-13 22:10",
-      "text": "Notre mesure de baisse des taxes sur les carburants permettra une baisse de 20 euros sur un plein de 50L : c'est considérable. \n\nJe ne veux plus que se déplacer en France soit un luxe !"
-    },
-    {
-      "author_name": "L'HERMYNE ⚜️",
-      "published_at": "2026-11-13 22:12",
-      "text": "[Retweet de @Vercingeboulix] Drame en 3 actes..."
+      "author_name": "Alain Weber",
+      "published_at": "2026-11-14 22:20",
+      "text": "Une équipe de BFMTV agressée à Lyon !\n\nRien, absolument rien, ne justifie qu’on frappe un journaliste parce qu’on n’apprécie pas sa chaîne.\n\nMais il faut aussi poser une question qui dérange : où était la solidarité de la profession lorsque CNews était désignée comme une chaîne à\n[Cite @MontbrialAvocat] Un journaliste de @BFMTV agressé à Lyon par des militants d’ultra gauche. La violence politique qui monte en France est insupportable, et peut aboutir au pire. La Liberté de la presse, de toute la presse, est sacrée. Un choc d’autorité s’impose, vite."
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-13 22:17",
-      "text": "Pétition pour la fermeture de CNEWS : «Refuser l'opposition, c'est faire un déni de démocratie», martèle Mathias Lebœuf https://www.cnews.fr/france/2026-11-13/petition-pour-la-fermeture-de-cnews-refuser-lopposition-cest-faire-un-deni-de"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-13 22:20",
-      "text": "Mort de Jesus de Miguel : le gardien d'Andorre Owono suspendu 12 matches https://ow.ly/cfG0106Iyw8"
-    },
-    {
-      "author_name": "Valeurs actuelles",
-      "published_at": "2026-11-13 22:21",
-      "text": "🗞️ Depuis 2017, le pouvoir macroniste a bâti, au nom de la démocratie, un arsenal qui place la liberté d'expression sous tutelle.\nhttps://l.valeursactuelles.com/usb"
+      "published_at": "2026-11-14 22:20",
+      "text": "«La France ne peut pas se permettre d’avoir des mobilisations tous les samedis» estime Aurélie Taquillain, vice-présidente Renaissance de la région Île-de-France. #100PolitiqueWE\n\nToute l'info est à retrouver sur https://cnews.fr"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-13 22:22",
-      "text": "Mort de trois jeunes à Tours : la conductrice de 19 ans mise en examen pour homicide routier\n➡️ https://l.leparisien.fr/KxLJ"
+      "published_at": "2026-11-14 22:20",
+      "text": "France-Turquie : Désiré Doué présent à l’entraînement des Bleus, équipé d’un protège-dents\n➡️ https://l.leparisien.fr/oraI"
     },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-14 22:24",
+      "text": "Mondial-2030 : la tenue de la finale en Espagne n'est «pas négociable», répète le président de la Fédération https://ow.ly/Bk5v106ICN6"
+    }
+  ],
+  "context": [
     {
       "author_name": "Jordan Bardella",
       "published_at": "2026-11-13 22:24",
@@ -1153,6 +1135,14 @@
       "author_name": "Le Parisien",
       "published_at": "2026-11-14 02:31",
       "text": "Le compte militant de gauche « Marcel » lance deux cagnottes en ligne, Tribee les supprime et se justifie\n\n➡️ https://l.leparisien.fr/bO83"
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-14 02:40",
+      "text": "« Je prends du recul » : l’ex-ministre de la Santé François Braun se retire déjà de la campagne présidentielle de Teddy Riner https://l.leparisien.fr/tQ7P",
+      "also_by": [
+        "Le Parisien"
+      ]
     },
     {
       "author_name": "L'HERMYNE ⚜️",
