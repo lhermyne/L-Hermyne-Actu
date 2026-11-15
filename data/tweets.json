@@ -1,9 +1,9 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-15T03:39:29.299Z",
+  "updated_at": "2026-11-15T04:09:35.036Z",
   "window_hours": 24,
-  "window_start": "2026-11-14T03:39:29.299Z",
+  "window_start": "2026-11-14T04:09:35.036Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": false,
   "possible_gaps": [
@@ -23,8 +23,60 @@
       "minutes": 15
     }
   ],
-  "count": 506,
+  "count": 510,
   "tweets": [
+    {
+      "id": "2121817001375174692",
+      "created_at": "2026-11-15T04:06:09.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "« Un verrou a sauté » : une commissaire blessée le 17 octobre dénonce la banalisation de la violence contre les policiers\n➡️ https://l.leparisien.fr/J6c8",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2121817001375174692"
+    },
+    {
+      "id": "2121815977545343276",
+      "created_at": "2026-11-15T04:02:05.000Z",
+      "author": "leJDD",
+      "author_name": "Le JDD",
+      "type": "tweet",
+      "text": "CNews, Houellebecq : Mathieu Bock-Côté dénonce «une logique d’éradication de la parole dissidente» https://ow.ly/WMb0106IEOU",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/leJDD/status/2121815977545343276"
+    },
+    {
+      "id": "2121812939837452339",
+      "created_at": "2026-11-15T03:50:00.000Z",
+      "author": "LeSommierRgis",
+      "author_name": "Régis Le Sommier",
+      "type": "retweet",
+      "text": "I spoke to one of the brigade commanders who took part in Operation Vivaldi. He said he still values tanks and thinks we will see successful armored assaults in the future. One of his Leopard tanks sustained 45 FPV strikes and is still operational.",
+      "retweeted_author": "RALee85",
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "en",
+      "url": "https://x.com/LeSommierRgis/status/2121812939837452339"
+    },
+    {
+      "id": "2121812665454727191",
+      "created_at": "2026-11-15T03:48:55.000Z",
+      "author": "Elysee",
+      "author_name": "Élysée",
+      "type": "tweet",
+      "text": "Sommet de la Francophonie au Cambodge : discours inaugural du Président @EmmanuelMacron.",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/Elysee/status/2121812665454727191"
+    },
     {
       "id": "2121791239246823831",
       "created_at": "2026-11-15T02:23:47.000Z",
