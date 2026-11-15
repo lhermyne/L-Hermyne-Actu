@@ -1,9 +1,9 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-15T01:08:21.529Z",
+  "updated_at": "2026-11-15T01:17:24.650Z",
   "window_hours": 24,
-  "window_start": "2026-11-14T01:08:21.529Z",
+  "window_start": "2026-11-14T01:17:24.650Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": false,
   "possible_gaps": [
@@ -23,7 +23,7 @@
       "minutes": 15
     }
   ],
-  "count": 511,
+  "count": 510,
   "tweets": [
     {
       "id": "2121768665238634667",
@@ -6654,19 +6654,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/le_Parisien/status/2121415759952068966"
-    },
-    {
-      "id": "2121411615622848909",
-      "created_at": "2026-11-14T01:15:17.000Z",
-      "author": "L_hermyne",
-      "author_name": "L'HERMYNE ⚜️",
-      "type": "retweet",
-      "text": "Le karma finit toujours par frapper, surtout quand on s’y attend le moins.",
-      "retweeted_author": "Henri2Turenne",
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/L_hermyne/status/2121411615622848909"
     }
   ]
 }
