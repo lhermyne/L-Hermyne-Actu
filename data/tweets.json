@@ -1,9 +1,9 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-15T04:39:41.146Z",
+  "updated_at": "2026-11-15T05:10:16.279Z",
   "window_hours": 24,
-  "window_start": "2026-11-14T04:39:41.146Z",
+  "window_start": "2026-11-14T05:10:16.279Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": false,
   "possible_gaps": [
@@ -23,8 +23,99 @@
       "minutes": 15
     }
   ],
-  "count": 513,
+  "count": 520,
   "tweets": [
+    {
+      "id": "2121832262039638068",
+      "created_at": "2026-11-15T05:06:47.000Z",
+      "author": "leparisien_pol",
+      "author_name": "Le Parisien | politique",
+      "type": "tweet",
+      "text": "« On sortirait totalement des clous » : le programme économique de LFI, un plongeon dans l’inconnu\n➡️ https://l.leparisien.fr/kKjD",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/leparisien_pol/status/2121832262039638068"
+    },
+    {
+      "id": "2121831681661255843",
+      "created_at": "2026-11-15T05:04:29.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "📰 La une du Parisien du 15 novembre\n\n➡️ https://l.leparisien.fr/tQ7G",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2121831681661255843"
+    },
+    {
+      "id": "2121831059809591449",
+      "created_at": "2026-11-15T05:02:01.000Z",
+      "author": "Causeur",
+      "author_name": "Causeur.fr",
+      "type": "tweet",
+      "text": "Jean Gabin est décédé il y a cinquante ans\n\nhttps://www.causeur.fr/jean-gabin-un-singe-en-hiver-et-les-poissons-volants-337121",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/Causeur/status/2121831059809591449"
+    },
+    {
+      "id": "2121830821388583203",
+      "created_at": "2026-11-15T05:01:04.000Z",
+      "author": "Europe1",
+      "author_name": "Europe 1",
+      "type": "tweet",
+      "text": "Développement, reports, carte, personnages... Tout ce qu'il faut savoir sur GTA VI avant sa sortie https://ow.ly/FPsa106IF8Z",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/Europe1/status/2121830821388583203"
+    },
+    {
+      "id": "2121828328306782575",
+      "created_at": "2026-11-15T04:51:09.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "« Un créateur qui a la trouille, qu’il change de métier » : à 92 ans, Pierre Perret fustige « antisémites » et « écolos »\n➡️ https://l.leparisien.fr/rBN4",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2121828328306782575"
+    },
+    {
+      "id": "2121828049071050926",
+      "created_at": "2026-11-15T04:50:03.000Z",
+      "author": "leJDD",
+      "author_name": "Le JDD",
+      "type": "tweet",
+      "text": "Éric Zemmour au JDD : «Tout faire pour que notre avenir soit français» https://ow.ly/rBFr106IF6h",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/leJDD/status/2121828049071050926"
+    },
+    {
+      "id": "2121825582535082482",
+      "created_at": "2026-11-15T04:40:15.000Z",
+      "author": "leJDD",
+      "author_name": "Le JDD",
+      "type": "tweet",
+      "text": "France-Turquie : Mbappé sous surveillance, Zidane sous pression… les Bleus jouent gros https://ow.ly/iEhK106IEW4",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/leJDD/status/2121825582535082482"
+    },
     {
       "id": "2121825192804815171",
       "created_at": "2026-11-15T04:38:42.000Z",
