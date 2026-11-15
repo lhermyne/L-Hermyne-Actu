@@ -1,9 +1,9 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-15T04:09:35.036Z",
+  "updated_at": "2026-11-15T04:39:41.146Z",
   "window_hours": 24,
-  "window_start": "2026-11-14T04:09:35.036Z",
+  "window_start": "2026-11-14T04:39:41.146Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": false,
   "possible_gaps": [
@@ -23,8 +23,47 @@
       "minutes": 15
     }
   ],
-  "count": 510,
+  "count": 513,
   "tweets": [
+    {
+      "id": "2121825192804815171",
+      "created_at": "2026-11-15T04:38:42.000Z",
+      "author": "alainpaulweber",
+      "author_name": "Alain Weber",
+      "type": "retweet",
+      "text": "Una de las cosas más triste que he visto nunca.",
+      "retweeted_author": "Mr_Jones_k",
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "es",
+      "url": "https://x.com/alainpaulweber/status/2121825192804815171"
+    },
+    {
+      "id": "2121824017979965758",
+      "created_at": "2026-11-15T04:34:02.000Z",
+      "author": "leJDD",
+      "author_name": "Le JDD",
+      "type": "tweet",
+      "text": "«Demain, ce sera leur tour» : l’avertissement de Charles Alloncle aux médias après la pétition anti-CNews https://ow.ly/jTzw106IEQX",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/leJDD/status/2121824017979965758"
+    },
+    {
+      "id": "2121821115697836292",
+      "created_at": "2026-11-15T04:22:30.000Z",
+      "author": "alainpaulweber",
+      "author_name": "Alain Weber",
+      "type": "quote",
+      "text": "L’écologie confisquée\n\n15 octobre 2024, place de la République, Marine Tondelier enlaçant Salah Hamouri, condamné dans le cadre d’un complot lié au FPLP, organisation classée terroriste par l’Union européenne et les États-Unis. \n\nÀ leurs côtés figurent Jean-Luc Mélenchon et Rima",
+      "retweeted_author": null,
+      "quoted_author": "YannBarte",
+      "quoted_text": "Terrible photo de famille : Marine #Tondelier enlaçant #SalahHamouri, membre de l'organisation terroriste FPLP, embrassant Mélenchon, Rima Hassan…\nVoilà ce qu'est devenue la gauche française. #LFI #EELV",
+      "lang": "fr",
+      "url": "https://x.com/alainpaulweber/status/2121821115697836292"
+    },
     {
       "id": "2121817001375174692",
       "created_at": "2026-11-15T04:06:09.000Z",
