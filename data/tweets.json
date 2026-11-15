@@ -1,9 +1,9 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-15T00:08:09.448Z",
+  "updated_at": "2026-11-15T00:38:16.086Z",
   "window_hours": 24,
-  "window_start": "2026-11-14T00:08:09.448Z",
+  "window_start": "2026-11-14T00:38:16.086Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": false,
   "possible_gaps": [
@@ -23,8 +23,34 @@
       "minutes": 15
     }
   ],
-  "count": 513,
+  "count": 510,
   "tweets": [
+    {
+      "id": "2121759091085148478",
+      "created_at": "2026-11-15T00:16:02.000Z",
+      "author": "leJDD",
+      "author_name": "Le JDD",
+      "type": "tweet",
+      "text": "XV de France : Louis Bielle-Biarrey raconte son plaquage héroïque contre l’Afrique du Sud https://ow.ly/5WqU106IEiQ",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/leJDD/status/2121759091085148478"
+    },
+    {
+      "id": "2121757802544955499",
+      "created_at": "2026-11-15T00:10:55.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "Une responsable fouille l’ordinateur d’un salarié et transfère les échanges : son licenciement validé en appel\n➡️ https://l.leparisien.fr/cG28",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2121757802544955499"
+    },
     {
       "id": "2121756579582148711",
       "created_at": "2026-11-15T00:06:03.000Z",
@@ -6628,71 +6654,6 @@
       "quoted_text": null,
       "lang": "en",
       "url": "https://x.com/tanguy_france/status/2121404512216694784"
-    },
-    {
-      "id": "2121401491529298417",
-      "created_at": "2026-11-14T00:35:03.000Z",
-      "author": "InfoMdia",
-      "author_name": "Médias-Presse-Info",
-      "type": "tweet",
-      "text": "Samedi 14 novembre – Saint Josaphat, Évêque et Martyr - Bienheureux Nicolas Tavelic, Prêtre et ses Compagnons Martyrs, Premier Ordre franciscain - https://www.medias-presse.info/saint-josaphat-martyr-samedi-14-novembre-eveque-et-bienheureux/252830/ - Dans l'Ordre du Carmel : T...",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/InfoMdia/status/2121401491529298417"
-    },
-    {
-      "id": "2121398729445941348",
-      "created_at": "2026-11-14T00:24:05.000Z",
-      "author": "alainpaulweber",
-      "author_name": "Alain Weber",
-      "type": "quote",
-      "text": "Si l’on m’avait dit que l’ambassadeur des démocrates iraniens me ferait rire… \n\nOn m’avait pourtant prévenu : « tu sais, Amin-Nedjab, ce n’est jamais le dernier pour la déconne…",
-      "retweeted_author": null,
-      "quoted_author": "SophiaAram",
-      "quoted_text": "« L’Iran n’a aucune hostilité envers la France… Essayer de déclencher une hostilité contre nous, c’est sophistiqué et condamné à être anéanti ». \nIl n’a pas forcément le tiercé dans l’ordre, mais on comprend l’idée…",
-      "lang": "fr",
-      "url": "https://x.com/alainpaulweber/status/2121398729445941348"
-    },
-    {
-      "id": "2121396584034529738",
-      "created_at": "2026-11-14T00:15:33.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "« On m’a arraché ma vie » : une information judiciaire ouverte après qu’une adolescente a été éborgnée à Mulhouse le 17 octobre\n➡️ https://l.leparisien.fr/TEJp",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2121396584034529738"
-    },
-    {
-      "id": "2121396544414830665",
-      "created_at": "2026-11-14T00:15:24.000Z",
-      "author": "dannyconversano",
-      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
-      "type": "tweet",
-      "text": "Non mais les accélérationnistes politiques sont vraiment des abrutis.\nVous voulez que ça aille plus vite ? Mais faites un truc dès maintenant. N'importe quoi.\nC'est quoi cette idée selon laquelle il faudrait EMPIRER le merdier jusqu'à ce que le voisin de palier pète un câble à ta",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/dannyconversano/status/2121396544414830665"
-    },
-    {
-      "id": "2121395282176835766",
-      "created_at": "2026-11-14T00:10:23.000Z",
-      "author": "le_jarl",
-      "author_name": "Le Jarl",
-      "type": "tweet",
-      "text": "Mais dans quelle galère Teddy Riner s’est foutu, franchement…\n\nTrois jours à peine après le lancement de sa campagne, l’ancien ministre François Braun et la communicante Aline Poulain seraient déjà descendus du train.\n\nDepuis le début, y a rien qui va dans cette histoire.",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_jarl/status/2121395282176835766"
     }
   ]
 }
