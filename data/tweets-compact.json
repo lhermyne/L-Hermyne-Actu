@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-15 21:17",
-  "period": "du 2026-11-14 21:17 au 2026-11-15 21:17",
-  "new_period": "du 2026-11-15 08:00 au 2026-11-15 21:17",
-  "context_period": "du 2026-11-14 21:17 au 2026-11-15 08:00",
+  "generated_at": "2026-11-15 21:47",
+  "period": "du 2026-11-14 21:47 au 2026-11-15 21:47",
+  "new_period": "du 2026-11-15 08:00 au 2026-11-15 21:47",
+  "context_period": "du 2026-11-14 21:47 au 2026-11-15 08:00",
   "coverage_complete": true,
-  "new_count": 922,
-  "context_count": 181,
-  "duplicates_merged": 58,
+  "new_count": 940,
+  "context_count": 170,
+  "duplicates_merged": 64,
   "empty_removed": 5,
   "new": [
     {
@@ -4384,7 +4384,10 @@
     {
       "author_name": "OMERTA",
       "published_at": "2026-11-15 20:10",
-      "text": "@GauthierBret présente le dernier numéro d'Omerta."
+      "text": "@GauthierBret présente le dernier numéro d'Omerta.",
+      "also_by": [
+        "Cercle Aristote"
+      ]
     },
     {
       "author_name": "Sud Radio",
@@ -4723,71 +4726,103 @@
       "author_name": "Fdesouche.com est une revue de presse",
       "published_at": "2026-11-15 21:15",
       "text": "« Agression au couteau », « crack dans les chambres » : les soignants du service de psychiatrie de l’hôpital de Gonesse, dans le Val-d’Oise, dénoncent leurs conditions de travail et réclament le maintien d’une prime menacée de suppression. Le mouvement de grève, engagé depuis ..."
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-15 21:20",
+      "text": "Lituanie : deux hommes dérobent une statue de Jésus Christ à Vilnius et la détruisent par mégarde, une enquête ouverte\n➡️ https://l.leparisien.fr/jTKh"
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-15 21:24",
+      "text": "[Retweet de @vetopatriote] 💶Comparaison des salaires en France par rapport aux autres pays européens.\n\n⏰(°]°)   On est en train de se tiermondiser‼️\n\n😠Nous sommes les plus pénalisés par les politiques de l’🇪🇺UE !\nVia @FrancoisDESCAM7"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-15 21:25",
+      "text": "Dans l'œil du cyclone depuis que le critique Arnaud Viviant a annoncé quitté l'émission culte de Frane Inter, son animatrice et productrice, Rebecca Manzoni raconte sa stupéfaction et sa volonté de se défendre\n\n«Je ne peux pas me laisser insulter»\n\n ➡️ https://l.leparisien.fr/quyx"
+    },
+    {
+      "author_name": "Tribune Populaire🌐",
+      "published_at": "2026-11-15 21:29",
+      "text": "Pour ceux qui ont oublié que ce sont François Hollande et les milieux financiers qui ont lancé Emmanuel Macron…\n[Cite @TribunePop23] 📂🇫🇷FLASH INFO - François Hollande charge Emmanuel Macron, qu’il avait pourtant fait entrer à l’Élysée puis à Bercy.\n\n« Bon lui il est arrivé seul et, permettez-moi de le dire, il partira seul. »\n\nRèglement de comptes en cours."
+    },
+    {
+      "author_name": "Eric Zemmour",
+      "published_at": "2026-11-15 21:30",
+      "text": "Dans cette présidentielle, je suis le seul à proposer une politique d’immigration négative.\n\nLa Suède, l’une des plus vieilles démocraties du monde, réforme sa Constitution pour le faire. Nous devons faire de même en France. ⤵️"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-15 21:30",
+      "text": "«Il y a des prises de position de Teddy Riner qui interrogent», estime Céline Imart, députée européenne LR, dans #21HFerrari"
+    },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-15 21:31",
+      "text": "«L'institution achète la paix sociale avec les enseignants et les élèves, c'est \"pas de vagues\"». Clément, professeur d'histoire-géographie dans un lycée de Haute-Savoie, vient de démissionner de l'Éducation nationale. Les blocus lycéens ont été l'élément déclencheur. Retrouvez"
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-15 21:31",
+      "text": "Présidentielle 2027 : François Hollande assure qu’il s’agit de l’élection « la plus importante de (sa) vie » https://l.leparisien.fr/6aOs"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-15 21:37",
+      "text": "«Guillaume Pley agresseur» : le spectacle «Legend Tour» perturbé par des militantes féministes ce dimanche soir à Paris\n➡️ https://l.leparisien.fr/lhuI"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-15 21:40",
+      "text": "«Je repose la question de la dissolution de La France insoumise», déclare Céline Imart, députée européenne LR, dans #21HFerrari\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Frontières",
+      "published_at": "2026-11-15 21:41",
+      "text": "Pillée le 17 octobre, la bijouterie L’Océane à Paris, ne rouvrira pas. Déjà victime d’une attaque pendant les émeutes Nahel en 2023, Philippe Fhal ne pouvait plus financer l’assurance contre le vol de son stock.\n\nhttps://www.frontieresmedia.fr/societe/pille-a-deux-reprises-un-bijoutier-de-65-ans-ferme-definitivement-son-commerce-a-paris---20831"
+    },
+    {
+      "author_name": "Le Crapaud",
+      "published_at": "2026-11-15 21:41",
+      "text": "Les juges en Europe :\n[Cite @maud_emma1] Non mais je vous jure qu'il faut le voir pour le croire !!\n\nLa juge leur parle comme à des enfants de 5 ans : \"Vous savez que c'est interdit de voler, hein, c'est pas bien\".\n\nMais si ça n'était que ridicule... \nNon, elle en rajoute : \"Bon après, on peut comprendre, hein, on peut"
+    },
+    {
+      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
+      "published_at": "2026-11-15 21:43",
+      "text": "Les dieux de l'humour vont se pencher sur ce live, je le sens. Maintenant : https://www.youtube.com/live/WN3qgtwbCZw"
+    },
+    {
+      "author_name": "Sarah Knafo",
+      "published_at": "2026-11-15 21:44",
+      "text": "Ne vous sentez jamais marginaux ou extrémistes. Vos convictions sont consensuelles et majoritaires."
+    },
+    {
+      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
+      "published_at": "2026-11-15 21:44",
+      "text": "[Retweet de @ThaisEscufon] Si vous voulez vous procurer le livre de Jared et vous familiariser avec sa pensée, il a été traduit en Français : \n\nhttps://danielconversano.com/product/si-nous-ne-faisons-rien-jared-taylor/"
+    },
+    {
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-15 21:45",
+      "text": "Notre-Dame de Paris, le Sacré-Cœur, l’obélisque de la Concorde ou encore le Pont-Neuf : plusieurs monuments français doivent se parer de rouge lors de la Red Week, organisée du 15 au 22 novembre 2026 par l’Aide à l’Église en détresse (AED). La campagne veut attirer l’attention..."
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-15 21:45",
+      "text": "«On est dans une présidentielle qui commence de plus en plus à ressembler à une téléréalité», estime Laurent Jacobelli, porte-parole de la campagne présidentielle et député de la Moselle, dans #21HFerrari\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Le Jarl",
+      "published_at": "2026-11-15 21:46",
+      "text": "Ce pays est devenu complètement dingue. L’Arcom a trouvé la solution, éliminer tous les journalistes qui racontent la réalité, les uns après les autres. Et garder en place tous ceux d’extrême gauche. Tous mon soutien à @Aminelkhatmi\n[Cite @AlerteMediasFR] 2 poids, 2 mesures !\n\nL’ARCOM vient de sommer CNEWS de comptabiliser Amine El-Khatmi comme temps de parole de droite\n\nL’ARCOM vient d’informer BFTMTV et RMC qu’ils pouvaient continuer à inviter à loisir le militant LFI Ilan Gabet car l’ARCOM le considère… neutre 🤦🏻‍♂️"
     }
   ],
   "context": [
     {
-      "author_name": "Tribune Populaire🌐",
-      "published_at": "2026-11-14 21:21",
-      "text": "📂🇫🇷FLASH INFO - Juan Branco saisit l’ONU contre son procès pour un tweet visant Macron !\n\nPoursuivi pour un message publié sur X, l’avocat et candidat déclaré dénonce une procédure qui pourrait le rendre inéligible avant le scrutin.\n\nLa défense de Juan Branco a saisi la"
-    },
-    {
-      "author_name": "Une Bonne Droite 👊🏻",
-      "published_at": "2026-11-14 21:22",
-      "text": "Bonne soirée à tous les « FACHOS »"
-    },
-    {
-      "author_name": "Ni Oubli Ni Pardon",
-      "published_at": "2026-11-14 21:25",
-      "text": "🔴 RAPPEL"
-    },
-    {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-14 21:25",
-      "text": "Une voiture a déposé le blessé devant la police avant de repartir. Touché au torse et à l’abdomen, il a été hospitalisé. Le parquet de Valence enquête pour tentative d’homicide.\n https://www.fdesouche.com/2026/11/14/romans-sur-isere-26-homme-38-ans-poignarde-depose-commissariat-pronostic-vital/"
-    },
-    {
-      "author_name": "Alain Weber",
-      "published_at": "2026-11-14 21:27",
-      "text": "Étienne Jarrier justifie dans Quotidien que la fin vaut parfois les moyens, en cas d’inégalité profonde, et compare les sabotages de rails sous l’Occupation à des actions de désobéissance légitimes. \n\nIl estime que si l’on n’est pas entendu en frappant les poubelles, et encore\n[Cite @Will_Nicks_Off] L'électorat urbain de #LFI (École Alsacienne, père directeur du patrimoine de Vuitton) nous explique que oui, la fin justifie les moyens. On sabotait bien les rails pendant la guerre pour exprimer un mécontentement et donc, si on brûle un lycée, c'est qu'on est très colère."
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-14 21:30",
-      "text": "Paris Photo 2026, le rendez-vous obligé des amateurs purs et durs →https://l.lefigaro.fr/hGUk"
-    },
-    {
-      "author_name": "Tribune Populaire🌐",
-      "published_at": "2026-11-14 21:31",
-      "text": "Sympa la liberté d’expression en France avec Macron, non ? \n\nUn candidat à l’élection présidentielle est en train de subir une procédure-bâillon et aucun média télé n’en parle.\n[Cite @TribunePop23] 📂🇫🇷FLASH INFO - Juan Branco saisit l’ONU contre son procès pour un tweet visant Macron !\n\nPoursuivi pour un message publié sur X, l’avocat et candidat déclaré dénonce une procédure qui pourrait le rendre inéligible avant le scrutin.\n\nLa défense de Juan Branco a saisi la"
-    },
-    {
-      "author_name": "Le Jarl",
-      "published_at": "2026-11-14 21:35",
-      "text": "Cela va faire plus d’un mois que les sondages nous donne la même finale. La bonne nouvelle c’est que @MLP_officiel  fait presque le double de Mélenchon. L’extrême gauche reste larguée."
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-14 21:38",
-      "text": "Portugal : des milliers de personnes manifestent partout dans le pays contre la crise du logement https://ow.ly/r67a106ICrZ"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-14 21:38",
-      "text": "Israël : Netanyahou plaide encore pour un gouvernement d’union nationale pour « garantir la sécurité » du pays, Eisenkot dénonce des « ruses politiciennes »\n➡️ https://l.leparisien.fr/KxLh",
-      "also_by": [
-        "Le Parisien | politique"
-      ]
-    },
-    {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-14 21:40",
-      "text": "Malgré les prix plafonnés, les pommes de terre manquent sur plusieurs marchés algériens. Les autorités puisent dans leurs réserves en attendant la récolte d’El-Oued.\n https://www.fdesouche.com/2026/11/14/algerie-penurie-pommes-de-terre-180-dinars-plafond-stocks/"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-14 21:46",
-      "text": "« C’est les montagnes russes depuis que je suis né » : le parcours chaotique du rappeur Koba LaD disséqué sur Prime Video\n➡️ https://l.leparisien.fr/ewPI"
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-14 21:47",
+      "text": "Israël : Netanyahou plaide encore pour un gouvernement d’union nationale pour « garantir la sécurité » du pays, Eisenkot dénonce des « ruses politiciennes »\n➡️ https://l.leparisien.fr/1RXu"
     },
     {
       "author_name": "Europe 1",
