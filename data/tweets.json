@@ -1,9 +1,9 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-15T02:08:34.328Z",
+  "updated_at": "2026-11-15T02:39:16.646Z",
   "window_hours": 24,
-  "window_start": "2026-11-14T02:08:34.328Z",
+  "window_start": "2026-11-14T02:39:16.646Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": false,
   "possible_gaps": [
@@ -23,8 +23,34 @@
       "minutes": 15
     }
   ],
-  "count": 509,
+  "count": 508,
   "tweets": [
+    {
+      "id": "2121791239246823831",
+      "created_at": "2026-11-15T02:23:47.000Z",
+      "author": "Elysee",
+      "author_name": "Élysée",
+      "type": "tweet",
+      "text": "EN DIRECT | Sommet de la Francophonie au Cambodge : discours inaugural du Président @EmmanuelMacron. https://x.com/i/broadcasts/2aWjqAzlJKyvjB",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/Elysee/status/2121791239246823831"
+    },
+    {
+      "id": "2121789568597000590",
+      "created_at": "2026-11-15T02:17:08.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "« Irrespectueux » : un influenceur déguste une raclette dans un train suisse et s’attire les foudres des internautes\n➡️ https://l.leparisien.fr/UpEH",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2121789568597000590"
+    },
     {
       "id": "2121787346764939519",
       "created_at": "2026-11-15T02:08:19.000Z",
@@ -6602,45 +6628,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/leparisien_pol/status/2121433482685546496"
-    },
-    {
-      "id": "2121431254805422244",
-      "created_at": "2026-11-14T02:33:20.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "Un ancien footballeur champion du monde candidat de l’AfD pour l’élection fédérale allemande ?\n➡️ https://l.leparisien.fr/UpEw",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2121431254805422244"
-    },
-    {
-      "id": "2121431000727384473",
-      "created_at": "2026-11-14T02:32:19.000Z",
-      "author": "LeSommierRgis",
-      "author_name": "Régis Le Sommier",
-      "type": "retweet",
-      "text": "BREAKING: Presidents Trump, Xi and Putin to hold unprecedented talks in China next week that could cover nuclear stockpiles, White House says. https://apnews.com/article/trump-xi-putin-summit-china-5fe92253ef38100bae913834a9b74d72?utm_campaign=trueAnthem%3A+New+Content+%28Feed%29&utm_medium=trueAnthem&utm_source=twitter",
-      "retweeted_author": "AP",
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "en",
-      "url": "https://x.com/LeSommierRgis/status/2121431000727384473"
-    },
-    {
-      "id": "2121426362871202249",
-      "created_at": "2026-11-14T02:13:53.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "« Je prends du recul » : l’ex-ministre de la Santé François Braun se retire déjà de la campagne présidentielle de Teddy Riner https://l.leparisien.fr/5vg7",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2121426362871202249"
     }
   ]
 }
