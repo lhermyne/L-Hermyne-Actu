@@ -1,9 +1,9 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-15T01:17:24.650Z",
+  "updated_at": "2026-11-15T01:38:28.497Z",
   "window_hours": 24,
-  "window_start": "2026-11-14T01:17:24.650Z",
+  "window_start": "2026-11-14T01:38:28.497Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": false,
   "possible_gaps": [
@@ -23,7 +23,7 @@
       "minutes": 15
     }
   ],
-  "count": 510,
+  "count": 509,
   "tweets": [
     {
       "id": "2121768665238634667",
@@ -6641,19 +6641,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/leparisien_pol/status/2121417922816213105"
-    },
-    {
-      "id": "2121415759952068966",
-      "created_at": "2026-11-14T01:31:45.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "Le compte militant de gauche « Marcel » lance deux cagnottes en ligne, Tribee les supprime et se justifie\n\n➡️ https://l.leparisien.fr/bO83",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2121415759952068966"
     }
   ]
 }

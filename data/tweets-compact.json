@@ -1,13 +1,13 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-15 02:17",
-  "period": "du 2026-11-14 02:17 au 2026-11-15 02:17",
-  "new_period": "du 2026-11-14 20:00 au 2026-11-15 02:17",
-  "context_period": "du 2026-11-14 02:17 au 2026-11-14 20:00",
+  "generated_at": "2026-11-15 02:38",
+  "period": "du 2026-11-14 02:38 au 2026-11-15 02:38",
+  "new_period": "du 2026-11-14 20:00 au 2026-11-15 02:38",
+  "context_period": "du 2026-11-14 02:38 au 2026-11-14 20:00",
   "coverage_complete": false,
   "new_count": 181,
-  "context_count": 313,
+  "context_count": 312,
   "duplicates_merged": 15,
   "empty_removed": 1,
   "new": [
@@ -927,11 +927,6 @@
     }
   ],
   "context": [
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-14 02:31",
-      "text": "Le compte militant de gauche « Marcel » lance deux cagnottes en ligne, Tribee les supprime et se justifie\n\n➡️ https://l.leparisien.fr/bO83"
-    },
     {
       "author_name": "Le Parisien | politique",
       "published_at": "2026-11-14 02:40",
