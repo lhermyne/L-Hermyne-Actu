@@ -1,9 +1,9 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-14T23:37:22.089Z",
+  "updated_at": "2026-11-15T00:08:09.448Z",
   "window_hours": 24,
-  "window_start": "2026-11-13T23:37:22.089Z",
+  "window_start": "2026-11-14T00:08:09.448Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": false,
   "possible_gaps": [
@@ -23,8 +23,60 @@
       "minutes": 15
     }
   ],
-  "count": 517,
+  "count": 513,
   "tweets": [
+    {
+      "id": "2121756579582148711",
+      "created_at": "2026-11-15T00:06:03.000Z",
+      "author": "leJDD",
+      "author_name": "Le JDD",
+      "type": "tweet",
+      "text": "XV de France : après l’exploit contre l’Afrique du Sud, les Bleus à un pas de la finale https://ow.ly/r9Wf106IEbH",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/leJDD/status/2121756579582148711"
+    },
+    {
+      "id": "2121756576767697229",
+      "created_at": "2026-11-15T00:06:02.000Z",
+      "author": "leJDD",
+      "author_name": "Le JDD",
+      "type": "tweet",
+      "text": "C8, CNews : Nicolas Sarkozy dénonce une «dangereuse conception de la démocratie» https://ow.ly/eCOk106IEbG",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/leJDD/status/2121756576767697229"
+    },
+    {
+      "id": "2121754064903958536",
+      "created_at": "2026-11-14T23:56:04.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "« Mais de quoi voulez-vous parler ? » : on a retrouvé Bernard Lenoir, l’animateur culte de France Inter disparu des radars\n➡️ https://l.leparisien.fr/38tL",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2121754064903958536"
+    },
+    {
+      "id": "2121750343402889474",
+      "created_at": "2026-11-14T23:41:16.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "Présidentielle 2027 : le RN dispose de 400 signatures et « lance un appel aux maires » https://l.leparisien.fr/Vz6B",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2121750343402889474"
+    },
     {
       "id": "2121743389716517067",
       "created_at": "2026-11-14T23:13:38.000Z",
@@ -6641,110 +6693,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/le_jarl/status/2121395282176835766"
-    },
-    {
-      "id": "2121392322839466362",
-      "created_at": "2026-11-13T23:58:37.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "« On est passé à autre chose » : après sa condamnation pour harcèlement, Slimane prépare son retour avec Vitaa\n➡️ https://l.leparisien.fr/cG29",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2121392322839466362"
-    },
-    {
-      "id": "2121392092161421758",
-      "created_at": "2026-11-13T23:57:42.000Z",
-      "author": "LeSommierRgis",
-      "author_name": "Régis Le Sommier",
-      "type": "retweet",
-      "text": "🇩🇪🇷🇺 Fmr German Chancellor Angela Merkel is pushing back against claims that negotiating with Russia was a mistake.\n\nShe said that in 2015, Russian forces were close to overrunning Ukraine, making a ceasefire worth pursuing, and she argued that without those talks, Ukraine would",
-      "retweeted_author": "MarioNawfal",
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "en",
-      "url": "https://x.com/LeSommierRgis/status/2121392092161421758"
-    },
-    {
-      "id": "2121391958396473814",
-      "created_at": "2026-11-13T23:57:11.000Z",
-      "author": "leparisien_pol",
-      "author_name": "Le Parisien | politique",
-      "type": "tweet",
-      "text": "Hongrie : énorme saisie de 17 millions d’euros en liquide dans une enquête anticorruption sur l’ère Orban\n➡️ https://l.leparisien.fr/SSbs",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/leparisien_pol/status/2121391958396473814"
-    },
-    {
-      "id": "2121390660716843290",
-      "created_at": "2026-11-13T23:52:01.000Z",
-      "author": "LeSommierRgis",
-      "author_name": "Régis Le Sommier",
-      "type": "quote",
-      "text": "Il n’y a de vrai dans la vidéo qui suit que le chiffre de l’audience d’@Omerta_officiel : 600 000 abonnés, séduits au fil des quatre années de notre existence par notre professionnalisme et la qualité de nos contenus. \n\nNous ne sommes aucunement un relai du Kremlin. La part des",
-      "retweeted_author": null,
-      "quoted_author": "BFMTV",
-      "quoted_text": "L'EFFET GRABLY - Comment les relais du Kremlin investissent les réseaux sociaux?",
-      "lang": "fr",
-      "url": "https://x.com/LeSommierRgis/status/2121390660716843290"
-    },
-    {
-      "id": "2121390477517726199",
-      "created_at": "2026-11-13T23:51:18.000Z",
-      "author": "LePoint",
-      "author_name": "Le Point",
-      "type": "tweet",
-      "text": "La ministre yéménite des Affaires étrangères Afrah Abdulaziz Al-Zouba plaide pour le placement des rebelles yéménites sur la liste des organisations terroristes de l’Union européenne.\n\nPar @arminarefi\n➡️ https://l.lepoint.fr/NAf",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/LePoint/status/2121390477517726199"
-    },
-    {
-      "id": "2121389475838181561",
-      "created_at": "2026-11-13T23:47:19.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "Hongrie : énorme saisie de 17 millions d’euros en liquide dans une enquête anticorruption sur l’ère Orban\n➡️ https://l.leparisien.fr/9FSr",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2121389475838181561"
-    },
-    {
-      "id": "2121387978387849652",
-      "created_at": "2026-11-13T23:41:22.000Z",
-      "author": "Revue_elements",
-      "author_name": "Revue éléments",
-      "type": "retweet",
-      "text": "“Liberalism undoes nations and destroys their sense of history and tradition. It separates man from every great project by declaring him ‘dangerous’ to equality. It does not defend liberty or the independence of the individual, who is deprived of the possibility of having a",
-      "retweeted_author": "constantinvonh",
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "en",
-      "url": "https://x.com/Revue_elements/status/2121387978387849652"
-    },
-    {
-      "id": "2121387692457902180",
-      "created_at": "2026-11-13T23:40:14.000Z",
-      "author": "F_Desouche",
-      "author_name": "Fdesouche.com est une revue de presse",
-      "type": "tweet",
-      "text": "À Hagondange, en Moselle, le temple protestant subit une nouvelle dégradation. Selon ICI, il s'agit du troisième acte de vandalisme en moins de deux mois. \n https://www.fdesouche.com/2026/11/14/hagondange-57-le-temple-protestant-vandalise-pour-la-troisieme-fois-en-moins-de-deux-mois/",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/F_Desouche/status/2121387692457902180"
     }
   ]
 }
