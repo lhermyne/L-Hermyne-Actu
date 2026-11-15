@@ -1,25 +1,85 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-15T15:44:29.243Z",
+  "updated_at": "2026-11-15T15:51:16.279Z",
   "window_hours": 24,
-  "window_start": "2026-11-14T15:44:29.243Z",
+  "window_start": "2026-11-14T15:51:16.279Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": false,
   "possible_gaps": [
-    {
-      "from": "2026-11-14T10:53:14.000Z",
-      "to": "2026-11-14T15:47:10.000Z",
-      "minutes": 294
-    },
     {
       "from": "2026-11-14T17:02:49.000Z",
       "to": "2026-11-14T17:18:06.000Z",
       "minutes": 15
     }
   ],
-  "count": 1137,
+  "count": 1138,
   "tweets": [
+    {
+      "id": "2121994392802152467",
+      "created_at": "2026-11-15T15:51:02.000Z",
+      "author": "Europe1",
+      "author_name": "Europe 1",
+      "type": "tweet",
+      "text": "Le pape Léon XIV est arrivé à Cusco, dans les hautes Andes péruviennes https://ow.ly/xTNy106IHnX",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/Europe1/status/2121994392802152467"
+    },
+    {
+      "id": "2121993832460079407",
+      "created_at": "2026-11-15T15:48:49.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "« On ne fait payer que la matière première » : cette menuiserie est l’ange gardien des vitrines de Bordeaux\n➡️ https://l.leparisien.fr/38ti",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2121993832460079407"
+    },
+    {
+      "id": "2121993628294042023",
+      "created_at": "2026-11-15T15:48:00.000Z",
+      "author": "CocardeEtud",
+      "author_name": "La Cocarde Étudiante",
+      "type": "retweet",
+      "text": "L'extrême-gauche agresse, menace tabasse. Dans la rue, les milices gauchistes sèment la terreur pendant que LFI, leur vitrine politique, en appelle au chaos.\nDe tout coeur avec les personnes agressés par ces apprentis terroristes.",
+      "retweeted_author": "ljacobelli",
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/CocardeEtud/status/2121993628294042023"
+    },
+    {
+      "id": "2121993548962709589",
+      "created_at": "2026-11-15T15:47:41.000Z",
+      "author": "CNEWS",
+      "author_name": "CNEWS",
+      "type": "tweet",
+      "text": "«Aujourd'hui il y'a des métiers qui ne tournent plus si vous n'avez pas une certaine immigration», affirme Fabrice Haccoun, entrepreneur, dans #100Actu\n\nToute l'info est à retrouver sur https://cnews.fr",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/CNEWS/status/2121993548962709589"
+    },
+    {
+      "id": "2121993072347111513",
+      "created_at": "2026-11-15T15:45:47.000Z",
+      "author": "Dreuz_1fo",
+      "author_name": "Dreuz",
+      "type": "tweet",
+      "text": "Laissez l’aide humanitaire entrer sans entrave à Gaza ? On  en  a vu le résultat Le 7 octobre https://www.dreuz.com/2026/11/laissez-laide-humanitaire-entrer-sans-entrave-a-gaza-on-en-a-vu-le-resultat-le-7-octobre-333890.html",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/Dreuz_1fo/status/2121993072347111513"
+    },
     {
       "id": "2121992571182518619",
       "created_at": "2026-11-15T15:43:48.000Z",
@@ -14748,58 +14808,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/le_Parisien/status/2121632074734125275"
-    },
-    {
-      "id": "2121631922124194136",
-      "created_at": "2026-11-14T15:50:42.000Z",
-      "author": "F_Desouche",
-      "author_name": "Fdesouche.com est une revue de presse",
-      "type": "tweet",
-      "text": "La Fondation Brigitte Bardot annonce un projet d’ouverture de La Madrague au public à l’été 2027, en petits groupes et sur réservation. \n https://www.fdesouche.com/2026/11/14/saint-tropez-83-madrague-brigitte-bardot-ouverture-visites-ete-2027/",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/F_Desouche/status/2121631922124194136"
-    },
-    {
-      "id": "2121631747599393171",
-      "created_at": "2026-11-14T15:50:01.000Z",
-      "author": "LePoint",
-      "author_name": "Le Point",
-      "type": "tweet",
-      "text": "🔴 Selon le ministère de l’intérieur, on dénombrait en début d’après-midi environ 8 900 personnes réparties sur 55 actions.\n\n➡️ https://l.lepoint.fr/hj8",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/LePoint/status/2121631747599393171"
-    },
-    {
-      "id": "2121631559555907828",
-      "created_at": "2026-11-14T15:49:16.000Z",
-      "author": "Le_Figaro",
-      "author_name": "Le Figaro",
-      "type": "retweet",
-      "text": "Des premiers heurts sont à signaler rue de Chaligny, artère perpendiculaire au Boulevard Diderot où défile le cortège en direction de Nation. Des hommes en noir jettent des projectiles sur les forces de l’ordre. Les policiers ne répliquent pas pour le moment.",
-      "retweeted_author": "rmercierpro",
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/Le_Figaro/status/2121631559555907828"
-    },
-    {
-      "id": "2121631031417532777",
-      "created_at": "2026-11-14T15:47:10.000Z",
-      "author": "Valeurs",
-      "author_name": "Valeurs actuelles",
-      "type": "tweet",
-      "text": "🗞️ CHRONIQUE. Se déplacer dans Paris à bicyclette permet de noter un certain relâchement dans nos mœurs. https://l.valeursactuelles.com/1Vb",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/Valeurs/status/2121631031417532777"
     }
   ]
 }
