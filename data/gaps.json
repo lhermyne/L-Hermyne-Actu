@@ -1,25 +1,35 @@
 {
-  "updated_at": "2026-11-15 07:10",
+  "updated_at": "2026-11-15 07:41",
   "last_run": {
-    "run_at": "2026-11-15 07:10",
-    "run_at_utc": "2026-11-15T06:10:27.713Z",
+    "run_at": "2026-11-15 07:41",
+    "run_at_utc": "2026-11-15T06:41:16.588Z",
     "fetched": 92,
-    "new_tweets": 24,
-    "saturation": 0.26,
+    "new_tweets": 16,
+    "saturation": 0.17,
     "gap_detected": false,
     "gap_minutes": 0,
-    "message": "Aucun trou détecté : 24 nouveaux tweets sur 92 récupérés."
+    "message": "Aucun trou détecté : 16 nouveaux tweets sur 92 récupérés."
   },
   "last_24h": {
-    "runs": 28,
+    "runs": 29,
     "runs_with_gap": 3,
     "total_gap": "11 h 47 min",
-    "new_tweets": 556,
+    "new_tweets": 572,
     "max_new_tweets_per_run": 97,
     "max_saturation": 1
   },
   "advice": "Trous détectés sur les dernières 24 h : augmenter la fréquence des lancements.",
   "runs": [
+    {
+      "run_at": "2026-11-15 07:41",
+      "run_at_utc": "2026-11-15T06:41:16.588Z",
+      "fetched": 92,
+      "new_tweets": 16,
+      "saturation": 0.17,
+      "gap_detected": false,
+      "gap_minutes": 0,
+      "message": "Aucun trou détecté : 16 nouveaux tweets sur 92 récupérés."
+    },
     {
       "run_at": "2026-11-15 07:10",
       "run_at_utc": "2026-11-15T06:10:27.713Z",
@@ -2749,26 +2759,6 @@
       "gap_detected": false,
       "gap_minutes": 0,
       "message": "Aucun trou détecté : 28 nouveaux tweets sur 100 récupérés."
-    },
-    {
-      "run_at": "2026-11-08 07:40",
-      "run_at_utc": "2026-11-08T06:40:11.771Z",
-      "fetched": 96,
-      "new_tweets": 3,
-      "saturation": 0.03,
-      "gap_detected": false,
-      "gap_minutes": 0,
-      "message": "Aucun trou détecté : 3 nouveaux tweets sur 96 récupérés."
-    },
-    {
-      "run_at": "2026-11-08 07:35",
-      "run_at_utc": "2026-11-08T06:35:28.898Z",
-      "fetched": 96,
-      "new_tweets": 21,
-      "saturation": 0.22,
-      "gap_detected": false,
-      "gap_minutes": 0,
-      "message": "Aucun trou détecté : 21 nouveaux tweets sur 96 récupérés."
     }
   ]
 }
