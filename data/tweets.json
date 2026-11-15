@@ -1,9 +1,9 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-15T01:38:28.497Z",
+  "updated_at": "2026-11-15T02:08:34.328Z",
   "window_hours": 24,
-  "window_start": "2026-11-14T01:38:28.497Z",
+  "window_start": "2026-11-14T02:08:34.328Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": false,
   "possible_gaps": [
@@ -25,6 +25,32 @@
   ],
   "count": 509,
   "tweets": [
+    {
+      "id": "2121787346764939519",
+      "created_at": "2026-11-15T02:08:19.000Z",
+      "author": "alainpaulweber",
+      "author_name": "Alain Weber",
+      "type": "quote",
+      "text": "Ils en deviennent grotesques dans leurs demandes.\n\nIl faut arrêter de négocier avec des clowns.\n\nRemettez les examens de fin d’année,  c’était la meilleure formule. C’est certes plus difficile et plus stressant, mais ceux qui l’obtiennent sont les meilleurs…",
+      "retweeted_author": null,
+      "quoted_author": "BFMTV",
+      "quoted_text": "Colère étudiante: \"On demande la levée de l'assiduité obligatoire pour pouvoir aller en manifestation les jours de mobilisation\", indique Sabrine Kharbach, porte-parole de l'Union étudiante",
+      "lang": "fr",
+      "url": "https://x.com/alainpaulweber/status/2121787346764939519"
+    },
+    {
+      "id": "2121783945280819273",
+      "created_at": "2026-11-15T01:54:48.000Z",
+      "author": "alainpaulweber",
+      "author_name": "Alain Weber",
+      "type": "retweet",
+      "text": "L’enquête historique de Daniel Szeftel, L’imposture, @EditionsduCERF est un livre important.",
+      "retweeted_author": "SophiaAram",
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/alainpaulweber/status/2121783945280819273"
+    },
     {
       "id": "2121768665238634667",
       "created_at": "2026-11-15T00:54:05.000Z",
@@ -6615,32 +6641,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/le_Parisien/status/2121426362871202249"
-    },
-    {
-      "id": "2121420175777894584",
-      "created_at": "2026-11-14T01:49:18.000Z",
-      "author": "L_hermyne",
-      "author_name": "L'HERMYNE ⚜️",
-      "type": "retweet",
-      "text": "Ces gens nous font des leçons tous les jours.",
-      "retweeted_author": "jon_delorraine",
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/L_hermyne/status/2121420175777894584"
-    },
-    {
-      "id": "2121417922816213105",
-      "created_at": "2026-11-14T01:40:21.000Z",
-      "author": "leparisien_pol",
-      "author_name": "Le Parisien | politique",
-      "type": "tweet",
-      "text": "« Je prends du recul » : l’ex-ministre de la Santé François Braun se retire déjà de la campagne présidentielle de Teddy Riner https://l.leparisien.fr/tQ7P",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/leparisien_pol/status/2121417922816213105"
     }
   ]
 }
