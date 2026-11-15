@@ -1,9 +1,9 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-15T00:38:16.086Z",
+  "updated_at": "2026-11-15T01:08:21.529Z",
   "window_hours": 24,
-  "window_start": "2026-11-14T00:38:16.086Z",
+  "window_start": "2026-11-14T01:08:21.529Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": false,
   "possible_gaps": [
@@ -23,8 +23,60 @@
       "minutes": 15
     }
   ],
-  "count": 510,
+  "count": 511,
   "tweets": [
+    {
+      "id": "2121768665238634667",
+      "created_at": "2026-11-15T00:54:05.000Z",
+      "author": "dannyconversano",
+      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
+      "type": "retweet",
+      "text": "I've gotten a lot of hate mail in the 11 days since we announced our packaging will be English-only, and that we'll only hire Americans. To those people I say: only TRAITORS help invaders.",
+      "retweeted_author": "grandadfarms",
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "en",
+      "url": "https://x.com/dannyconversano/status/2121768665238634667"
+    },
+    {
+      "id": "2121768394441494581",
+      "created_at": "2026-11-15T00:53:00.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "Chasse à l’homme, cercueil devant la gendarmerie... L’incroyable exfiltration de Corse d’Enzo D. et Johan C., les deux profanateurs d’une Vierge Marie\n➡️ https://l.leparisien.fr/quys",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2121768394441494581"
+    },
+    {
+      "id": "2121767135496008015",
+      "created_at": "2026-11-15T00:48:00.000Z",
+      "author": "L_hermyne",
+      "author_name": "L'HERMYNE ⚜️",
+      "type": "retweet",
+      "text": "Cette vidéo a été bloquée en France par YouTube pour « incitation à la haine ». L'appel a été rejeté.\n\nSon propos ? Si l’Afrique s’est moins développée que l’Europe, c’est d’abord une question de géographie : peu de fleuves navigables, des côtes sans ports naturels, un relief qui",
+      "retweeted_author": "la_logomachie",
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/L_hermyne/status/2121767135496008015"
+    },
+    {
+      "id": "2121765714726158832",
+      "created_at": "2026-11-15T00:42:21.000Z",
+      "author": "dannyconversano",
+      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
+      "type": "retweet",
+      "text": "In 1949, Indian mathematician and schoolteacher D. R. Kaprekar uncovered one of arithmetic’s most fascinating numerical mysteries: 6174, now famously known as Kaprekar’s Constant.\n\nThe process is surprisingly simple. Choose any four-digit number containing at least two different",
+      "retweeted_author": "historyinmemes",
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "en",
+      "url": "https://x.com/dannyconversano/status/2121765714726158832"
+    },
     {
       "id": "2121759091085148478",
       "created_at": "2026-11-15T00:16:02.000Z",
@@ -6615,45 +6667,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/L_hermyne/status/2121411615622848909"
-    },
-    {
-      "id": "2121406775685525705",
-      "created_at": "2026-11-14T00:56:03.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "« Elle était rayonnante » : les adieux bouleversants à Marie-Lou, morte après un repas aux morilles à Montpellier\n➡️ https://l.leparisien.fr/BNDT",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2121406775685525705"
-    },
-    {
-      "id": "2121405113889857867",
-      "created_at": "2026-11-14T00:49:27.000Z",
-      "author": "dannyconversano",
-      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
-      "type": "quote",
-      "text": "Un scélérat déjà invité sur de nombreux plateaux de droite, pour rappel (je ne lâche pas mon idée selon laquelle la droite salonnarde est BEAUCOUP trop polie et accueillante avec ces mecs là.)",
-      "retweeted_author": null,
-      "quoted_author": "OccidentisMedia",
-      "quoted_text": "🚨 L’avocat et candidat à la présidentielle Juan Branco prétend que le Grand remplacement est une « idéologie génocidaire » (Mizane TV)",
-      "lang": "fr",
-      "url": "https://x.com/dannyconversano/status/2121405113889857867"
-    },
-    {
-      "id": "2121404512216694784",
-      "created_at": "2026-11-14T00:47:04.000Z",
-      "author": "tanguy_france",
-      "author_name": "Tanguy David",
-      "type": "retweet",
-      "text": "🎈 Wishing King Charles III a very Happy 78th Birthday today!",
-      "retweeted_author": "ImplMaterial",
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "en",
-      "url": "https://x.com/tanguy_france/status/2121404512216694784"
     }
   ]
 }
