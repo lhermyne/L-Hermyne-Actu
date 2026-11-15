@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-15 19:14",
-  "period": "du 2026-11-14 19:14 au 2026-11-15 19:14",
-  "new_period": "du 2026-11-15 08:00 au 2026-11-15 19:14",
-  "context_period": "du 2026-11-14 19:14 au 2026-11-15 08:00",
+  "generated_at": "2026-11-15 19:46",
+  "period": "du 2026-11-14 19:46 au 2026-11-15 19:46",
+  "new_period": "du 2026-11-15 08:00 au 2026-11-15 19:46",
+  "context_period": "du 2026-11-14 19:46 au 2026-11-15 08:00",
   "coverage_complete": true,
-  "new_count": 787,
-  "context_count": 314,
-  "duplicates_merged": 51,
+  "new_count": 828,
+  "context_count": 277,
+  "duplicates_merged": 54,
   "empty_removed": 5,
   "new": [
     {
@@ -3956,7 +3956,10 @@
     {
       "author_name": "Le Parisien",
       "published_at": "2026-11-15 19:01",
-      "text": "Belgique : cinq blessés, dont deux en urgence absolue, après une explosion et un incendie sur un marché de Noël\n➡️ https://l.leparisien.fr/rBNi"
+      "text": "Belgique : cinq blessés, dont deux en urgence absolue, après une explosion et un incendie sur un marché de Noël\n➡️ https://l.leparisien.fr/rBNi",
+      "also_by": [
+        "Le Parisien | politique"
+      ]
     },
     {
       "author_name": "CourrierDesStratèges",
@@ -4015,194 +4018,217 @@
       "author_name": "Marine Le Pen",
       "published_at": "2026-11-15 19:15",
       "text": "Nous considérons que les Français doivent être prioritaires dans l’accès à un certain nombre de prestations sociales. C’est le cas du logement social.\n\nCes logements ont été payés par les parents, les grands-parents des Français. C’est normal qu’ils soient premiers servis chez"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Jon De Lorraine",
-      "published_at": "2026-11-14 19:17",
-      "text": "🔴🇫🇷 INSOLITE | Il fait un doigt d’honneur à la police.\n(Ça tourne mal)"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-14 19:18",
-      "text": "🛫 Panne géante du contrôle aérien aux États-Unis : plus de 16 000 vols annulés vendredi et samedi et la galère n'est pas terminée\n\nL’épisode relance le débat sur la modernisation du contrôle aérien, dont certains équipements datent des années 1960\n➡️ https://l.leparisien.fr/FnkF"
-    },
-    {
-      "author_name": "Le JDD",
-      "published_at": "2026-11-14 19:19",
-      "text": "Immigration : les Canaries sous pression, Pedro Sánchez dans la tourmente https://ow.ly/isC1106ICcS"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-14 19:20",
-      "text": "« C’est un ovni » : qui est Hamidou Msaidie, l’adjoint très discret de Zinedine Zidane ?\n➡️ https://l.leparisien.fr/wZpp"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-14 19:21",
-      "text": "Pagaille dans l'espace aérien américain : les autorités mettent en cause un système de communication vétuste https://ow.ly/yhqP106ICe1"
-    },
-    {
-      "author_name": "Le Point",
-      "published_at": "2026-11-14 19:22",
-      "text": "« Un complet hors sujet » : le 11 novembre, l’opération Vautours\n\nPar @fglorrain  https://l.lepoint.fr/4lu"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-14 19:22",
-      "text": "\"Une faillite morale, une négligence, une paresse intellectuelle navrante\" @EmmanuelPierrat au micro de @helene_roue #Europe1"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-14 19:23",
-      "text": "\"C'est un manque de conscience professionnelle\" @EmmanuelPierrat au micro de @helene_roue #Europe1"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-14 19:24",
-      "text": "🔴 Accusations de censure, livre de Rima Hassan… Cinq minutes pour comprendre la polémique liée à l’émission «Le Masque et la Plume»\n➡️ https://l.leparisien.fr/yIiS"
-    },
-    {
-      "author_name": "L'Observatoire des violences politiques",
-      "published_at": "2026-11-14 19:25",
-      "text": "👁️ Paris : un antifa menace de jeunes catholiques qui se rendaient à la messe\nhttps://www.observatoire-violences.fr/articles/paris-un-antifa-menace-de-jeunes-catholiques-qui-se-rendaient-a-la-messe"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-14 19:26",
-      "text": "\"L'Ecole Nationale de la Magistrature produit des jeunes qui sortent sans passion particulière\" @EmmanuelPierrat au micro de @helene_roue #Europe1"
-    },
-    {
-      "author_name": "EuroLibertés",
-      "published_at": "2026-11-14 19:26",
-      "text": "Les complicités insoupçonnées de l’extrême droite https://eurolibertes.com/evenements/les-complicites-insoupconnees-de-lextreme-droite/"
-    },
-    {
-      "author_name": "Tribune Populaire🌐",
-      "published_at": "2026-11-14 19:27",
-      "text": "📺 REPLAY TRIBUNEPOPTV\n\n« Regardez comment ils attendent Macron pour lui faire la bise […] ces gens me dégoûtent », déclare Salim Laibi (@LLP_Le_Vrai) lors de notre émission sur la fin de règne de Macron.\n\nReplay disponible sur notre chaîne."
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-14 19:28",
-      "text": "Inondations à Gaza : l’UE exhorte Israël à permettre aux Palestiniens d’accéder à l’aide humanitaire\n➡️ https://l.leparisien.fr/FnkB"
-    },
-    {
-      "author_name": "Aldo Sterone",
-      "published_at": "2026-11-14 19:29",
-      "text": "C'est le choc total quand on compare les défilés britanniques et russes. Il n'y a plus aucune notion de coordination et de discipline au Royaume-Uni."
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-14 19:29",
-      "text": "\"La justice des mineurs est totalement inadaptée\" @EmmanuelPierrat au micro de @helene_roue #Europe1"
-    },
-    {
-      "author_name": "Le Crayon",
-      "published_at": "2026-11-14 19:30",
-      "text": "« Il arrache un gamin d'une femme en disant : si vous approchez plus, je le lâche. »\n\nLe vice-amiral d'escadre Alban Lapointe, major général de la @MarineNationale , raconte le face-à-face tragique entre les passeurs de clandestins et les jeunes marins français."
-    },
-    {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-14 19:30",
-      "text": "En 1846, Jules Michelet appelle les Français à dépasser leurs divisions. Dans Le Peuple, l’historien affirme sa confiance dans la force d’une France unie et son rayonnement.\n\n https://www.fdesouche.com/2026/11/14/jules-michelet-1846-que-la-france-soit-une-un-instant-elle-est-forte-comme-le-monde/"
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-14 19:30",
-      "text": "Le ministère de l’Intérieur dénombre 121 interpellations. →https://l.lefigaro.fr/7493"
-    },
-    {
-      "author_name": "Agence France-Presse",
-      "published_at": "2026-11-14 19:30",
-      "text": "📻 Le critique littéraire Arnaud Viviant a annoncé quitter l'émission de France Inter \"Le masque et la plume\". Il affirme avoir été empêché de conseiller un livre de l'eurodéputée LFI Rima Hassan. La station invoque une règle interdisant de promouvoir les livres écrits par des"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-14 19:30",
-      "text": "Football : le Portugal change la typographie du n°7 pour rendre hommage à Cristiano Ronaldo\n➡️ https://l.leparisien.fr/dYvH"
-    },
-    {
-      "author_name": "Valeurs actuelles",
-      "published_at": "2026-11-14 19:32",
-      "text": "🗞️ Comme un sachet de thé, un fût transmet ses tanins à l’alcool qu’il fait vieillir. Passé par nos tonneaux de vin, de cognac ou d’armagnac, le whisky français a pris des couleurs, et il aura bientôt son appellation.\nhttps://l.valeursactuelles.com/J59"
-    },
-    {
-      "author_name": "Alain Weber",
-      "published_at": "2026-11-14 19:33",
-      "text": "Non madame @S_Legrain, @YaelBRAUNPIVET n’agit pas à la demande des directeurs généraux de Canal +.\n\nCes derniers ont signalé à la présidente de l’assemblée nationale, votre comportement tout à fait inadmissible, antidémocratique mais tout à fait conforme au totalitarisme dont\n[Cite @S_Legrain] Sur commande des directeurs généraux de Canal + France et de Cnews, la  présidente de l’Assemblée nationale  @YaelBRAUNPIVET m’écrit un courrier pour me gronder d’avoir « placé ma main devant le micro de Cnews » et me réaffirmer son attachement au « principe du pluralisme » 😆"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-14 19:34",
-      "text": "⚽ «Ce sont des bêtises et c’est assez agaçant», peste Zidane au sujet d’une prétendue mésentente avec Mbappé\n➡️ https://l.leparisien.fr/C5ss"
-    },
-    {
-      "author_name": "François Asselineau 🇫🇷",
-      "published_at": "2026-11-14 19:35",
-      "text": "🗓 𝟮𝟴 𝗡𝗢𝗩𝗘𝗠𝗕𝗥𝗘\n𝗚𝗥𝗔𝗡𝗗𝗘 𝗥𝗘𝗨𝗡𝗜𝗢𝗡 𝗣𝗨𝗕𝗟𝗜𝗤𝗨𝗘\n𝗙𝗥𝗔𝗡𝗖̧𝗢𝗜𝗦 𝗔𝗦𝗦𝗘𝗟𝗜𝗡𝗘𝗔𝗨 𝗔 𝗡𝗜𝗖𝗘\n15h Ouverture des portes\n16h Discours programmatique\n17h Réponses aux questions du public\n19-20h Buffet offert\nBoutique/Photos/Dédicaces\nENTRÉE LIBRE\nAdresse⤵️"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-14 19:36",
-      "text": "«La situation actuelle présente beaucoup de points communs avec les différentes morts de République que l’on a pu explorer» estime Geoffroy Caillet, journaliste au Figaro, dans #FaceaBockCote.\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Jon De Lorraine",
-      "published_at": "2026-11-14 19:36",
-      "text": "J’ai supprimé la vidéo du journaliste de BFM qui se fait frapper.\nCar je vous le rappelle.\nNous sommes en France. \nC’est moi qui vais avoir des poursuites plutôt que ceux qui cassent et qui frappent."
-    },
-    {
-      "author_name": "Gilbert Collard",
-      "published_at": "2026-11-14 19:37",
-      "text": "Lynchage d'un cadreur de BFM par des racailles : plus aucun organe de presse ne peut travailler librement : tous les journalistes qui ont ignoré Cnews devraient se lever en masse pour dénoncer ce totalitarisme de la haine !"
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-14 19:39",
-      "text": "🇫🇷 Merci la Gironde !\n\nCe samedi, vous étiez plus de 1700 patriotes présents aux côtés de @J_Bardella à Saint-Savin.\n\nUn accueil qui témoigne de l'intérêt porté à notre projet politique et aux propositions que nous défendons pour redresser la France.\n\n📖 Commandez « Gouverner » :"
-    },
-    {
-      "author_name": "Alain Weber",
-      "published_at": "2026-11-14 19:40",
-      "text": "C’est pas sympa, mais c’est drôle, et lorsque c’est drôle, on peut tout faire…\n[Cite @xavierunclelite] iPhone Duo was perfectly made for Jensen Huang:"
-    },
-    {
-      "author_name": "Occidentis",
-      "published_at": "2026-11-14 19:40",
-      "text": "🚨⚡️ « NIQUE SA CAMÉRA » \n\nDes journalistes et cadreurs de BFMTV ont été violemment repoussés de la manifestation lyonnaise."
-    },
-    {
-      "author_name": "Jon De Lorraine",
-      "published_at": "2026-11-14 19:41",
-      "text": "Il fait quoi le gouvernement ?\nLes journalistes se font fracasser et c’est silence radio ?\nIl faut que les medias fassent une une tribune commune pour réclamer des actions ? \nCe pays c’est devenu quelque chose franchement."
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-14 19:43",
-      "text": "Vie chère, droits des enfants, écologie... Les revendications étaient nombreuses dans le cortège lyonnais ce 14 novembre https://ow.ly/bB5S106ICgG"
-    },
-    {
-      "author_name": "Le JDD",
-      "published_at": "2026-11-14 19:45",
-      "text": "Blocus lycéens : tirs de mortier, enseignants menacés… l’école dans l’engrenage de la violence https://ow.ly/zU9b106ICgR"
+      "published_at": "2026-11-15 19:16",
+      "text": "Paris : un étrange arsenal découvert après une intervention pour tapage nocturne\n➡️ https://l.leparisien.fr/KxLP"
     },
     {
       "author_name": "Boulevard Voltaire",
-      "published_at": "2026-11-14 19:45",
-      "text": "Une épouse de militaire à son député : « Combien d’entre nous pourraient vous raconter les grossesses vécues seules ? » | Par Boulevard Voltaire\n« C’est en ma qualité d’épouse que je vous écris aujourd’hui mon inquiétude et mon incompréhension. » \nhttps://www.bvoltaire.fr/une-epouse-de-militaire-a-son-depute-combien-dentre-nous-pourraient-vous-raconter-les-grossesses-vecues-seules/?fsp_sid=26569"
+      "published_at": "2026-11-15 19:17",
+      "text": "Présidentielle 2027 : le logement, l’addition de Macron | Par Jean-Baptiste Giraud\nEntre octobre 2025 et septembre 2026, 377 834 logements autorisés : 9,1 % de moins que la moyenne des 5 années précédentes ! \n \nhttps://www.bvoltaire.fr/presidentielle-2027-le-logement-laddition-de-macron/?fsp_sid=26603"
+    },
+    {
+      "author_name": "Marine Le Pen",
+      "published_at": "2026-11-15 19:17",
+      "text": "Nous souhaitons rendre le permis de conduire gratuit pour les jeunes, avec la condition de ne pas avoir de casier judiciaire.\n\nParticulièrement dans la ruralité, conduire est essentiel pour trouver un travail. Il y a beaucoup de jeunes qui n’ont pas les moyens de passer leur"
+    },
+    {
+      "author_name": "Le Jarl",
+      "published_at": "2026-11-15 19:17",
+      "text": "« Le sentiment d’insécurité » en chiffres officiels."
+    },
+    {
+      "author_name": "Marine Le Pen",
+      "published_at": "2026-11-15 19:19",
+      "text": "Nous ne sommes pas contre les APL, nous souhaitons simplement les réserver aux Français et à ceux qui sont étrangers et qui ont travaillé cinq ans  équivalent temps plein en France.\n\nLe coût du logement étudiant est souvent insurmontable pour beaucoup de parents."
+    },
+    {
+      "author_name": "Jon De Lorraine",
+      "published_at": "2026-11-15 19:19",
+      "text": "🔴🇫🇷 FLASH - Jean-Michel Aphatie trouve Teddy Riner incroyable et est en extase, même s'il n’a pas de programme.\n(Le niveau des journalistes en France c’est quelque-chose)"
+    },
+    {
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-15 19:20",
+      "text": "Les Canaries ont enregistré le samedi 14 novembre 1 488 arrivées de migrants en une seule journée , dépassant le précédent record de 1 461 enregistré le 7 novembre 2020, selon les données publiées par Euronews et Reuters. Douze cayucos tra \n https://www.fdesouche.com/2026/11/15/canaries-record-1488-migrants-arrives-14-novembre-2026-el-hierro/"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-14 19:45",
-      "text": "🔵 INFO LE PARISIEN | Un réseau aurait livré de la 3-MMC à des clients des beaux quartiers, du show-business et du ministère de l’Intérieur\n\nUn trafic dans lequel aurait notamment trempé un gendarme\n➡️ https://l.leparisien.fr/KxLl"
+      "published_at": "2026-11-15 19:21",
+      "text": "Onze ans après sa retraite, Ronaldinho a rejoué 45 minutes en match officiel avec Ravenne et n’exclut pas un retour\n➡️ https://l.leparisien.fr/z9wB"
     },
     {
-      "author_name": "Sarah Knafo",
-      "published_at": "2026-11-14 19:46",
-      "text": "Bien arrivée à Montauban où êtes très nombreux à venir de tous les partis de la droite. Ici, l’union des droites est une réalité ! 🇫🇷"
+      "author_name": "Europe 1",
+      "published_at": "2026-11-15 19:22",
+      "text": "Yvelines : un homme mis en examen et écroué après un crypto-rapt à 900.000 euros https://ow.ly/zcWX106IHAb"
     },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-15 19:22",
+      "text": "\"Le comité Boualem Sansal va essayer de traiter ce deux poids deux mesures\" @noellelenoir au micro de @helene_roue #Europe1"
+    },
+    {
+      "author_name": "Marine Le Pen",
+      "published_at": "2026-11-15 19:23",
+      "text": "Il faut revenir à un système où il y avait une infirmière scolaire par établissement, formée aux difficultés d’ordre psychologique et à détecter les atteintes sexuelles.\n\nAller voir quelqu’un une fois par an, ça ne suffit pas pour créer le lien de confiance."
+    },
+    {
+      "author_name": "Marine Le Pen",
+      "published_at": "2026-11-15 19:24",
+      "text": "Il faut resacraliser l’intégrité physique. Il faut que les peines soient très fermes et que la police soit présente pour que l’espace public soit à nouveau le lieu de tout le monde.\n\nLa première des libertés, c’est la sécurité. Je souhaite la rendre aux jeunes."
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-15 19:26",
+      "text": "«Sa liberté d’être candidat doit être respectée et il ne doit pas être méprisé», estime Julien Dray, après l’annonce de la candidature de Teddy Riner à l’élection présidentielle.\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-15 19:27",
+      "text": "\"On accepte plus le débat démocratique\" @noellelenoir au micro de @helene_roue #Europe1"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-15 19:27",
+      "text": "« Ils sont arrivés comme une vague » : à Paris, encore des commerces pillés par des bandes en marge de la manifestation\n➡️ https://l.leparisien.fr/5vgv"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-15 19:28",
+      "text": "\"L'État est totalement absent, il faut appliquer la loi\" @noellelenoir au micro de @helene_roue #Europe1"
+    },
+    {
+      "author_name": "Bouli ☃️",
+      "published_at": "2026-11-15 19:29",
+      "text": "[Retweet de @sergi_Iub] Bienvenue à Sergi Jr, petit gars du 13 novembre.\n\nUn petit symbole de vie pour ce jour chargé, j'aurais aimé lui donner tous les prénoms des victimes des attentats islamiques de ce jour-là en hommage à celles-ci."
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-15 19:29",
+      "text": "« Nous ne nous laisserons pas intimider » : l’Estonie va fermer sa frontière avec la Russie après avoir déjoué une nouvelle tentative de sabotage\n➡️ https://l.leparisien.fr/Fnkj",
+      "also_by": [
+        "Le Parisien"
+      ]
+    },
+    {
+      "author_name": "Marine Le Pen",
+      "published_at": "2026-11-15 19:29",
+      "text": "Nous sommes favorables à la climatisation. Nous avons proposé un plan d’urgence pour mettre des climatiseurs dans les écoles, les EHPAD et les hôpitaux.\n\nDe la même manière qu’on doit avoir le droit au chauffage l’hiver, on doit avoir le droit au rafraîchissement l’été."
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-15 19:30",
+      "text": "[Retweet de @LesPatriotes_06] Soutien aux Roumains et à Calin Georgescu 🇷🇴🤝🇨🇵 \n#FreeGeorgescu\n#AbolishEU"
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-15 19:30",
+      "text": "[Retweet de @LesPatriotes_06] Sur BFMTV, Florian Philippot met sur la table les vrais sujets qui fâchent et les vraies contractions de l'ensemble de la classe politique présente au parlement notamment ! La réalité, c'est que rester dans l'UE c'est empêcher la France de s'en sortir face au marasme économique"
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-15 19:30",
+      "text": "[Retweet de @62PATRIOTES] 🎯💯Florian #Philippot dénonce l’incohérence totale du programme LFI et remet proprement à sa place la député LFI D. #Obono.\n\n[Interview BFMTV de Florian Philippot (13/11/26) à retrouver en intégralité sur https://youtu.be/FePpkYQSyFw]"
+    },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-15 19:30",
+      "text": "Colère sociale : plus de 400 interpellations en France →https://l.lefigaro.fr/VQoH"
+    },
+    {
+      "author_name": "Marine Le Pen",
+      "published_at": "2026-11-15 19:30",
+      "text": "Pourquoi la jeunesse devrait-elle croire en moi ? Parce que je lui donne la possibilité de se prendre en main. Je pense que nous pouvons refaire de la France un très grand pays.\n\nJe demande à être jugée sur pièce. Les autres ont été au pouvoir et n’ont pas respecté leurs"
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-15 19:30",
+      "text": "[Retweet de @f_philippot] Notre manifestation nationale « Macron démission ! Frexit ! » fait le tour du monde ! ⤵️\n\nNe lâchons rien ! 🇫🇷🇫🇷🇫🇷"
+    },
+    {
+      "author_name": "Bouli ☃️",
+      "published_at": "2026-11-15 19:31",
+      "text": "[Retweet de @NBPignalet] LFI après Mélenchon :"
+    },
+    {
+      "author_name": "Bouli ☃️",
+      "published_at": "2026-11-15 19:32",
+      "text": "LFI après Mélenchon :"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-15 19:33",
+      "text": "«Cela fait longtemps que l’on a pointé le côté \"enfant narcissique\" d’Emmanuel Macron», estime Gilles-William Goldnadel, avocat, dans #FaceaFace\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Marine Le Pen",
+      "published_at": "2026-11-15 19:33",
+      "text": "Je suis quelqu’un de sincère. J’essaie de dire ici ce que je pense et ce que je dis en privé.\n\nOn ne transmet que la foi que l’on a. J’ai une grande foi dans les convictions que je porte, et j’espère réussir à la transmettre."
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-15 19:34",
+      "text": "Antisémitisme : « Créons un envoyé spécial sur le sujet », demande l’American Jewish Committee\n➡️ https://l.leparisien.fr/tQ7Y"
+    },
+    {
+      "author_name": "Valeurs actuelles",
+      "published_at": "2026-11-15 19:35",
+      "text": "🗞️ L’omniprésence des écrans aurait pu faire disparaître l’écriture à la main. Mais le bon vieux stylo fait de la résistance.\nhttps://l.valeursactuelles.com/Igj"
+    },
+    {
+      "author_name": "Marine Le Pen",
+      "published_at": "2026-11-15 19:36",
+      "text": "J’ai longtemps proposé l’interdiction de la double nationalité. Je pense que j’ai commis une erreur.\n\nJ’ai laissé penser à ceux qui ont la double nationalité que je nourrissais à leur égard une forme de suspicion. Il n’y a aucune raison d’avoir la moindre suspicion."
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-15 19:37",
+      "text": "Intempéries dans l'Hérault : deux mois de précipitations en trois heures, une septuagénaire sauvée de la montée des eaux https://ow.ly/cmEl106IHCb"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-15 19:37",
+      "text": "«Ce système éducatif marche sur la tête», déplore Julien Dray, ancien député, dans #FaceaFace.\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Tanguy David",
+      "published_at": "2026-11-15 19:40",
+      "text": "[Retweet de @CerfiaFR] 🇫🇷✝️🔴 FLASH | Plus de 100 monuments en France vont s’illuminer en ROUGE à partir de ce soir jusqu'au 22 novembre en HOMMAGE AUX CHRÉTIENS PERSÉCUTÉS.\n\nNotre-Dame de Paris, le Sacré-Cœur, les cathédrales de Chartres et Strasbourg ou encore l’obélisque de la Concorde participent à"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-15 19:40",
+      "text": "Début octobre, deux saisonniers s’étaient filmés, ivres, en train de saccager une statue de la Vierge à Porto-Vecchio. Ils comparaissent ce lundi 16 novembre devant le tribunal d’Ajaccio. Récit d’une indignation qui a gagné toute la Corse.\n\nPar @JulianMattei\n➡️"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-15 19:41",
+      "text": "Réagir contre l’antisémitisme\n➡️ https://l.leparisien.fr/v2ol"
+    },
+    {
+      "author_name": "L'HERMYNE ⚜️",
+      "published_at": "2026-11-15 19:42",
+      "text": "Non mais ca devient cringe de croire au Père Noël a son âge 😣🤐\n[Cite @SarahLoad] @Jackoiderino @L_hermyne Non, puisque MAGIQUE, l'état sera là pour donner un coup de pouce!! Ce que ne fera jamais la droite."
+    },
+    {
+      "author_name": "Jordan Bardella",
+      "published_at": "2026-11-15 19:44",
+      "text": "Demain à 11h, je serai l'invité des @GG_RMC !"
+    },
+    {
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-15 19:45",
+      "text": "Deux siècles après la défense héroïque de Belfort en 1815, la Ville a acquis aux enchères la grand-croix de la Légion d'honneur du général Claude-Jacques Lecourbe . Cette décoration lui avait été remise en 1814 par Louis XVIII. Né à Besanç \n https://www.fdesouche.com/2026/11/15/belfort-general-lecourbe-grand-croix-legion-honneur-retour-2026/"
+    },
+    {
+      "author_name": "Jean-Yves Le Gallou",
+      "published_at": "2026-11-15 19:46",
+      "text": "L’@ojim_france pourrait faire la même étude sur les polars du service public ( subventionnés par les régions) ou le feuilleton de France3, « Un si grand soleil ». Trafics de drogue, meurtres,  escroqueries c’´est white only dans les fictions françaises. L’agenda propagandiste ne\n[Cite @JeReinforme] Résultats d'une étude sur la représentation de la criminalité dans la série policière \"Law and Order\":\n\n« Les résultats montrent que les blancs sont surreprésentés comme criminels dans les séries policières, entre cinq et huit fois plus souvent que ne le laissent penser les"
+    }
+  ],
+  "context": [
     {
       "author_name": "Le Parisien | politique",
       "published_at": "2026-11-14 19:46",
