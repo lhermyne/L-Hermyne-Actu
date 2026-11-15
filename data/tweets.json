@@ -1,14 +1,66 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-15T23:17:43.474Z",
+  "updated_at": "2026-11-15T23:47:49.790Z",
   "window_hours": 24,
-  "window_start": "2026-11-14T23:17:43.474Z",
+  "window_start": "2026-11-14T23:47:49.790Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1198,
+  "count": 1201,
   "tweets": [
+    {
+      "id": "2122112405849227625",
+      "created_at": "2026-11-15T23:39:59.000Z",
+      "author": "leparisien_pol",
+      "author_name": "Le Parisien | politique",
+      "type": "tweet",
+      "text": "« On sortirait totalement des clous » : le programme économique de LFI, un plongeon dans l’inconnu\n➡️ https://l.leparisien.fr/m7Rd",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/leparisien_pol/status/2122112405849227625"
+    },
+    {
+      "id": "2122112319979143378",
+      "created_at": "2026-11-15T23:39:38.000Z",
+      "author": "eciotti",
+      "author_name": "Eric Ciotti",
+      "type": "tweet",
+      "text": "Un violent incendie touche ce soir une résidence avenue Georges-Clemenceau à Nice, nécessitant l’évacuation de plusieurs dizaines d’étudiants.\n\nAucun blessé à déplorer à ce stade. Un centre AnimaNice a été ouvert en urgence pour les héberger.\n\nLes pompiers luttent toujours contre",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/eciotti/status/2122112319979143378"
+    },
+    {
+      "id": "2122109491042984218",
+      "created_at": "2026-11-15T23:28:24.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "Paris : un étrange arsenal découvert après une intervention pour tapage nocturne\n➡️ https://l.leparisien.fr/AA4I",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2122109491042984218"
+    },
+    {
+      "id": "2122106820483498180",
+      "created_at": "2026-11-15T23:17:47.000Z",
+      "author": "alainpaulweber",
+      "author_name": "Alain Weber",
+      "type": "retweet",
+      "text": "Il ne connaît rien à ses sujets ( ce qui est normal , in ne peut pas savoir répondre à tout en une semaines ) mais comme il ne connaît rien ,  il fait  diversion en mode franchement désagréable .  parce qu’on lui pose une question. …\nC’est inimaginable , ce que révèle cette",
+      "retweeted_author": "francoisedegois",
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/alainpaulweber/status/2122106820483498180"
+    },
     {
       "id": "2122106642535690536",
       "created_at": "2026-11-15T23:17:05.000Z",
@@ -15569,19 +15621,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/le_Parisien/status/2121754064903958536"
-    },
-    {
-      "id": "2121750343402889474",
-      "created_at": "2026-11-14T23:41:16.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "Présidentielle 2027 : le RN dispose de 400 signatures et « lance un appel aux maires » https://l.leparisien.fr/Vz6B",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2121750343402889474"
     }
   ]
 }
