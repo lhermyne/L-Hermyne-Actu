@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-16 04:49",
-  "period": "du 2026-11-15 04:49 au 2026-11-16 04:49",
-  "new_period": "du 2026-11-15 20:00 au 2026-11-16 04:49",
-  "context_period": "du 2026-11-15 04:49 au 2026-11-15 20:00",
+  "generated_at": "2026-11-16 05:19",
+  "period": "du 2026-11-15 05:19 au 2026-11-16 05:19",
+  "new_period": "du 2026-11-15 20:00 au 2026-11-16 05:19",
+  "context_period": "du 2026-11-15 05:19 au 2026-11-15 20:00",
   "coverage_complete": true,
-  "new_count": 215,
-  "context_count": 921,
-  "duplicates_merged": 65,
+  "new_count": 217,
+  "context_count": 918,
+  "duplicates_merged": 66,
   "empty_removed": 6,
   "new": [
     {
@@ -1118,24 +1118,22 @@
       "author_name": "Samuel Lafont",
       "published_at": "2026-11-16 04:45",
       "text": "[Retweet de @leJDD] Éric Zemmour : « Mon grand plan de rupture » https://ow.ly/2ytf106IFnB"
-    }
-  ],
-  "context": [
+    },
     {
-      "author_name": "Régis Le Sommier",
-      "published_at": "2026-11-15 04:50",
-      "text": "[Retweet de @RALee85] I spoke to one of the brigade commanders who took part in Operation Vivaldi. He said he still values tanks and thinks we will see successful armored assaults in the future. One of his Leopard tanks sustained 45 FPV strikes and is still operational."
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-16 05:01",
+      "text": "La maison du fils de Cindy Crawford, mort il y a deux mois, mise en vente à Los Angeles pour 3,6 millions de dollars\n➡️ https://l.leparisien.fr/ZkYd",
+      "also_by": [
+        "Le Parisien"
+      ]
     },
     {
       "author_name": "Le JDD",
-      "published_at": "2026-11-15 05:02",
-      "text": "CNews, Houellebecq : Mathieu Bock-Côté dénonce «une logique d’éradication de la parole dissidente» https://ow.ly/WMb0106IEOU"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-15 05:06",
-      "text": "« Un verrou a sauté » : une commissaire blessée le 17 octobre dénonce la banalisation de la violence contre les policiers\n➡️ https://l.leparisien.fr/J6c8"
-    },
+      "published_at": "2026-11-16 05:03",
+      "text": "Cancer du poumon : 30 000 morts par an, l’urgence de dépister avant qu’il ne soit trop tard https://ow.ly/Ton6106IJFl"
+    }
+  ],
+  "context": [
     {
       "author_name": "Alain Weber",
       "published_at": "2026-11-15 05:22",
