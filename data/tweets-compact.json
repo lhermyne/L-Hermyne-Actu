@@ -1,15 +1,15 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-16 08:20",
-  "period": "du 2026-11-15 08:20 au 2026-11-16 08:20",
-  "new_period": "du 2026-11-15 20:00 au 2026-11-16 08:20",
-  "context_period": "du 2026-11-15 08:20 au 2026-11-15 20:00",
+  "generated_at": "2026-11-16 08:50",
+  "period": "du 2026-11-15 08:50 au 2026-11-16 08:50",
+  "new_period": "du 2026-11-15 20:00 au 2026-11-16 08:50",
+  "context_period": "du 2026-11-15 08:50 au 2026-11-15 20:00",
   "coverage_complete": true,
-  "new_count": 344,
-  "context_count": 829,
+  "new_count": 413,
+  "context_count": 800,
   "duplicates_merged": 69,
-  "empty_removed": 6,
+  "empty_removed": 7,
   "new": [
     {
       "author_name": "Sud Radio",
@@ -1748,7 +1748,10 @@
     {
       "author_name": "Le Parisien | politique",
       "published_at": "2026-11-16 08:18",
-      "text": "« Nous sommes ravis » : Kate Middleton et le prince William en visite en Inde pour décerner leur propre prix environnemental\n➡️ https://l.leparisien.fr/gyCN"
+      "text": "« Nous sommes ravis » : Kate Middleton et le prince William en visite en Inde pour décerner leur propre prix environnemental\n➡️ https://l.leparisien.fr/gyCN",
+      "also_by": [
+        "Le Parisien"
+      ]
     },
     {
       "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
@@ -1774,157 +1777,354 @@
       "author_name": "CNEWS",
       "published_at": "2026-11-16 08:20",
       "text": "Violences urbaines : «Il y a besoin de l'autorité de l'Etat, les Français veulent l'ordre et la sécurité», estime Bruno Le Maire https://www.cnews.fr/france/2026-11-16/violences-urbaines-il-y-besoin-de-lautorite-de-letat-les-francais-veulent-lordre"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Causeur.fr",
-      "published_at": "2026-11-15 08:22",
-      "text": "Bruno Le Maire veut sauver les finances publiques : après sept ans à Bercy, le retour de « Monsieur 1 000 milliards » @causeur https://www.causeur.fr/bruno-le-maire-finances-publiques-dette-2027-337191"
     },
     {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-15 08:22",
-      "text": "« Star Academy » : les candidates de Miss France, Tracy éliminée, coupure de son pour Cameron… Les temps forts du prime des équipes\n➡️ https://l.leparisien.fr/aCUx"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-15 08:24",
-      "text": "Le gouvernement interdit la vente de mortiers d'artifice jusqu'au 27 novembre https://ow.ly/9qP2106IFPx"
-    },
-    {
-      "author_name": "Dreuz",
-      "published_at": "2026-11-15 08:26",
-      "text": "La victoire ou la défaite en Iran définira la présidence Trump https://www.dreuz.com/2026/11/la-victoire-ou-la-defaite-en-iran-definira-la-presidence-trump-333793.html"
-    },
-    {
-      "author_name": "Gabrielle Cluzel",
-      "published_at": "2026-11-15 08:27",
-      "text": "Ils demandent plus de profs.\n[Cite @lyonmag] Des jeunes devant la barricade de Jean-Macé à Lyon #lyon"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-15 08:27",
-      "text": "💥 #Manifestations : le cri du cœur de @DiCrescenzo_A #GrandMatinWeekEnd\n\n🗣️ \"On est en train de tuer le bonheur, de tuer ceux qui font vivre nos centres-villes, des gens qui œuvrent pour le Made in France. Laissons travailler les commerçants, laissons-les finir leur année !\"\n\n📻"
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-15 08:30",
-      "text": "«Quand le ministère annonce 50 lycées bloqués, nous en comptons 150 à 200 qui ne fonctionnent pas normalement» →https://l.lefigaro.fr/5ORw"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-15 08:32",
-      "text": "Une grande banque française est piratée, mon argent est-il à l'abri ?\n\n➡️ Écoutez \"Votre argent vos placements\" avec @jjmanceau, journaliste chez @MagazineCapital tous les samedis et dimanches à 8h24 dans #Europe1Matin #Europe1"
-    },
-    {
-      "author_name": "Le JDD",
-      "published_at": "2026-11-15 08:33",
-      "text": "La dernière chance de Glucksmann, Christine Lagarde devrait passer son tour… Les indiscrets du JDD https://ow.ly/hZps106IFPL"
-    },
-    {
-      "author_name": "Le Média en 4⃣-4⃣-2⃣",
-      "published_at": "2026-11-15 08:33",
-      "text": "Bilan social de Macron : 1,25 million de pauvres en plus depuis 2017 \nhttps://lemediaen442.fr/pauvrete-125-million-de-personnes-de-plus-depuis-2017-le-bilan-social-de-macron/ \n\nPour obtenir de l’aide, faudra-t-il bientôt joindre une attestation de bonne conduite à ses factures impayées ? \n\nSelon le sondage OpinionWay présenté avec le rapport 2026 du Secours"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-15 08:34",
-      "text": "« Ils servent à blesser » : le gouvernement interdit la vente de mortiers d’artifice jusqu’au 27 novembre\n➡️ https://l.leparisien.fr/nDxq"
-    },
-    {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-15 08:34",
-      "text": "Vols suspendus aux États-Unis : le remplacement de câbles en cuivre vétustes à l’origine des perturbations\n➡️ https://l.leparisien.fr/gyCB",
-      "also_by": [
-        "Le Parisien"
-      ]
-    },
-    {
-      "author_name": "Dreuz",
-      "published_at": "2026-11-15 08:39",
-      "text": "Israël en première ligne – le Live de la confrontation Israël-Iran – 15 novembre 2026 https://www.dreuz.com/2026/11/israel-en-premiere-ligne-le-live-de-la-confrontation-israel-iran-15-novembre-2026-333842.html"
-    },
-    {
-      "author_name": "Les Patriotes",
-      "published_at": "2026-11-15 08:39",
-      "text": "[Retweet de @LaureAngeOrange] 🇫🇷@_LesPatriotes avec @f_philippot = seul parti 🇫🇷régulièrement dans la rue pour la LIBERTE, la PAIX, la SOUVERAINETE de la FRANCE!\n100% ANTI MACRON! 100% FREXIT!\n👉RT vous aussi, car AUCUN média n'en parlera!\n🙏Merci aux intervenants dont R.BESSONNET, N.STOQUER, Ph. de VILLIERS!"
-    },
-    {
-      "author_name": "Les Patriotes",
-      "published_at": "2026-11-15 08:39",
-      "text": "[Retweet de @LesPatriotes21] https://youtu.be/CnF5BIftU_s?is=dMZlfs09jEU5HYhT"
-    },
-    {
-      "author_name": "Les Patriotes",
-      "published_at": "2026-11-15 08:40",
-      "text": "[Retweet de @FrancoisDESCAM7] « On a perdu le contrôle ! » : que se passe-t-il vraiment dans le monde ?!\nVidéo d’introduction.\n➡️REGARDEZ LA VIDÉO COMPLÈTE sur https://youtu.be/CnF5BIftU_s"
-    },
-    {
-      "author_name": "Les Patriotes",
-      "published_at": "2026-11-15 08:40",
-      "text": "[Retweet de @f_philippot] Quel monde en Roumanie aujourd’hui pour exiger la libération du président légitime du pays Georgescu !\n\nROUMANEXIT\nFREXIT"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-15 08:41",
-      "text": "\" Aujourd’hui, vous avez un gouvernement qui ne répond pas du tout à la demande des citoyens. J’ai beaucoup d’habitants pour qui 20 €, c’est juste une blague, alors qu’ils n’arrivent pas à boucler leurs fins de mois.\" @arenasrodrigo_ avec @adelaflechere"
-    },
-    {
-      "author_name": "Catholiques de France",
-      "published_at": "2026-11-15 08:41",
-      "text": "CHARLES X : LE ROI CALOMNIÉ, LE CHRÉTIEN CONVERTI https://catholiquedefrance.fr/charles-x-le-roi-calomnie-le-chretien-converti/"
+      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
+      "published_at": "2026-11-16 08:20",
+      "text": "Le Jour ni l’Heure 9160 : Pierre-Amédée Marcel-Béronneau, 1859-1937, Orphée démembré par les Ménades, 1895, musée Sainte-Croix, Poitiers, Vienne, jeudi 29 octobre 2029, 13:02:07"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-15 08:42",
-      "text": "La chronique économique de Sandy Prenois du 15/11/2026 dans #LaMatinale"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-15 08:45",
-      "text": "Pétition contre CNEWS : «Une partie de la gauche est en guerre contre la chaîne. Et cette partie n'aime pas la démocratie», alerte Quentin Gérard https://www.cnews.fr/videos/france/2026-11-15/petition-contre-cnews-une-partie-de-la-gauche-est-en-guerre-contre-la"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-15 08:46",
-      "text": "💥🇫🇷 Les #manifestations se multiplient #GrandMatinWeekEnd\n\n🗣️ @BrunoLeMaire : \"Notre économie va dans le mur à cause des manifestations et de l'impasse politique. C'est une crise sociale et économique profonde\"\n\n📻 https://sudradio.fr\n☎️ 0 826 300 300"
-    },
-    {
-      "author_name": "Valeurs actuelles",
-      "published_at": "2026-11-15 08:47",
-      "text": "🗞️ L’instrumentalisation, voire la manipulation, des attentats ne date pas d’hier. Déjà sous le Consulat, le futur empereur en a usé afin d’éliminer ses adversaires.\nhttps://l.valeursactuelles.com/y6A"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-15 08:47",
-      "text": "L'édito politique @AlexDevecchio ! #Europe1 #Europe1Matin"
-    },
-    {
-      "author_name": "Le JDD",
-      "published_at": "2026-11-15 08:48",
-      "text": "Violences urbaines : la vente de mortiers d'artifice temporairement interdite en France https://ow.ly/FBom106IFQ9"
-    },
-    {
-      "author_name": "Le JDD",
-      "published_at": "2026-11-15 08:48",
-      "text": "Salvador-Colombie : Bukele et Abelardo déclarent la guerre aux criminels https://ow.ly/Va0F106IFQa"
+      "published_at": "2026-11-16 08:21",
+      "text": "Bruno Le Maire, ancien ministre de l'Économie : «Le mouvement de blocage des lycées doit s'arrêter parce qu'ils privent (de cours) des centaines de milliers de lycéens inquiets», dans #LaGrandeInterview\n\nToute l'info est à retrouver sur https://cnews.fr"
     },
     {
       "author_name": "Le Point",
-      "published_at": "2026-11-15 08:48",
-      "text": "« Les Huit Salopards » : le western de Tarantino dont le scénario s’inspire de séries des années 1960 https://l.lepoint.fr/nFq"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-15 08:50",
-      "text": "💥 #Manifestations : comment sortir de cet épisode ? #GrandMatinWeekEnd\n\n🗣️ @BrunoLeMaire : \"La colère est légitime. Il y a deux grands sujets dans cette élection : l'autorité de l'État et la question des salaires\"\n\n📻 https://sudradio.fr\n☎️ 0 826 300 300"
+      "published_at": "2026-11-16 08:21",
+      "text": "💬 « Aujourd’hui, j’aurais du mal à ne plus avoir voix au chapitre » : Audrey Fleurot, coproductrice de « La Comtesse de Monte-Cristo »\n\nPar @FDupreuilh https://l.lepoint.fr/aP9"
     },
     {
       "author_name": "Europe 1",
-      "published_at": "2026-11-15 08:50",
-      "text": "La Alfa Academy !\n\n➡️ Écoutez Direct auto avec Grégory Galiffi sur #Europe1 #Europe1Matin"
+      "published_at": "2026-11-16 08:22",
+      "text": "\"Les revendications lycéennes, cette fois -ci, elles ont été entendues et le mouvement doit cesser tout de suite\" déclare @BrunoLeMaire #LaGrandeInterview #Europe1"
     },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-16 08:22",
+      "text": "Huit élèves, une enseignante et de fortes chutes de neige : bienvenue dans la plus petite école de France, « un paradis » fragile\n➡️ https://l.leparisien.fr/z9wv"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-16 08:24",
+      "text": "Mobilisations lycéennes : \"Je veux des peines automatiques dès qu 'on s 'attaque à l'autorité de l'Etat\" lance @BrunoLeMaire #LaGrandeInterview #Europe1"
+    },
+    {
+      "author_name": "Régis Le Sommier",
+      "published_at": "2026-11-16 08:24",
+      "text": "[Retweet de @FoxNews] Joe Biden isn't holding back about his private conversations with Volodymyr Zelenskyy.\n\nThe former president calls the Ukrainian leader \"moody and stubborn\" in his upcoming memoir and questions whether Zelenskyy showed enough gratitude during their dealings over the war with"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-16 08:25",
+      "text": "🇺🇸✈️ Suspension des vols aux Etats-Unis : que s'est-il passé ?\n\n🗣️ Gérard @feldzer : \"Le matériel est désuet. Cela va coûter très cher. : 50 milliards sont demandés\" #GrandMatin\n\n📻 Écoutez #ParlonsCash chaque matin à 8h15 et réagissez sur parlonscash@sudradio.fr"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-16 08:26",
+      "text": "La presse internationale suit la saga des négociations menées par les États-Unis pour mettre fin à la guerre en Ukraine, desquelles les Européens, pourtant concernés, sont tenus à l’écart.\n\nPar @briceculturier\n➡️ https://l.lepoint.fr/YUq"
+    },
+    {
+      "author_name": "Jon De Lorraine",
+      "published_at": "2026-11-16 08:26",
+      "text": "🔴🇫🇷 FLASH - Enzo D. et Johan C. sont jugés ce lundi à 14 h à Ajaccio pour le saccage de la statue de la Vierge Marie à Porto-Vecchio, le 1er octobre.\n\nL’un mimait un acte sexuel sur la statue pendant que l’autre filmait. La vidéo avait été diffusée sur Snapchat.\n\nPoursuivis pour"
+    },
+    {
+      "author_name": "Mila ✨",
+      "published_at": "2026-11-16 08:27",
+      "text": "[Retweet de @VLautard] Des militants LFI ciblent et insultent un rescapé du Bataclan car il est choqué d’entendre, un 13 novembre, lors d’un concert, des jeunes scander des slogans comme « ACAB » ou « Tout le monde déteste la police »…les lfistes n’ont décidément plus aucune limite dans l’indécence."
+    },
+    {
+      "author_name": "Dreuz",
+      "published_at": "2026-11-16 08:27",
+      "text": "Israël en première ligne – le Live de la confrontation Israël-Iran – 16 novembre 2026 https://www.dreuz.com/2026/11/israel-en-premiere-ligne-le-live-de-la-confrontation-israel-iran-16-novembre-2026-333897.html"
+    },
+    {
+      "author_name": "Gilbert Collard",
+      "published_at": "2026-11-16 08:27",
+      "text": "«Nous étions sidérés». Le récit de Marlone, responsable de La Cocarde étudiante, après l'agression ce week-end de trois militants du RN et du syndicat : les \"droitonades\" fascistes de l'extrême gauche !"
+    },
+    {
+      "author_name": "Kroc Blanc",
+      "published_at": "2026-11-16 08:27",
+      "text": "\n[Cite @guillaumepoingt] «Il n’y avait aucun signe avant-coureur» : le meurtre inexpliqué d’Hélana, 19 ans, poignardée à mort après une partie de bowling ⬇️\nhttps://www.lefigaro.fr/faits-divers/il-n-y-avait-aucun-signe-avant-coureur-le-meurtre-inexplique-d-helana-19-ans-poignardee-a-mort-apres-une-partie-de-bowling-20261115"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-16 08:27",
+      "text": "🏴󠁧󠁢󠁥󠁮󠁧󠁿L'Angleterre met fin à l'invincibilité de l'Espagne en Ligue des nations !\n\nUne série qui durait depuis plus de trois ans !\n\nhttps://www.sudradio.fr/sport-rugby/sport/ligue-des-nations-langleterre-resiste-a-dix-et-fait-tomber-lespagne-apres-44-matches-sans-defaite"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-16 08:28",
+      "text": "Bruno Le Maire, ancien ministre de l'Économie : «La majorité des compatriotes veut un salaire décent qui permet de financer leur logement, leurs transports, leurs loisirs, l'activité de leurs enfants», dans #LaGrandeInterview"
+    },
+    {
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-16 08:29",
+      "text": "« L’extrême gauche répand sa haine des blancs et de la France. Stop au racisme anti-Blanc ! »\nAction militante de la @CocardeEtud devant l’Inalco ce matin pour protester contre les appels à la haine contre les Blancs publiés par certains bloqueurs."
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-16 08:29",
+      "text": "Blocus des lycées : «Le mouvement doit s'arrêter», martèle Bruno Le Maire https://www.cnews.fr/france/2026-11-16/blocus-des-lycees-le-mouvement-doit-sarreter-martele-bruno-le-maire-1954964"
+    },
+    {
+      "author_name": "CourrierDesStratèges",
+      "published_at": "2026-11-16 08:29",
+      "text": "🇫🇷👩‍🎓\nhttps://x.com/Le_Figaro/status/2122057332700139800?a=JcNJfq12fKxJGvjvW8c&s=20\n[Cite @Le_Figaro] «On massacre des génération d'élèves car ils ne comprennent pas ce qu'il font». Clément, professeur d'histoire-géographie dans un lycée de Haute-Savoie, vient de démissionner de l'Éducation nationale. Les blocus lycéens ont été l'élément déclencheur. Retrouvez la vidéo en"
+    },
+    {
+      "author_name": "Observatoire de l'immigration et de la démographie",
+      "published_at": "2026-11-16 08:30",
+      "text": "📺 « Dans un scénario dit restrictif, les personnes d’origine extra européenne sur trois générations représenteraient environ 35% des naissances en 2050 et autour de 30% de la population générale à la fin du siècle. » \n\n@NPM_OID sur Face à l’Info @CNEWS ⬇️"
+    },
+    {
+      "author_name": "Police nationale",
+      "published_at": "2026-11-16 08:30",
+      "text": "Nouvelle semaine, nouveau récap de l’actualité police nationale !"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-16 08:30",
+      "text": "🔴 L’invité du #GrandMatin\n\n🎙️Toute de suite @yjadot est en direct, au micro de @JacquesCardoze \n\n➡️ Le direct sur https://sudradio.fr"
+    },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-16 08:30",
+      "text": "Amazon a perdu dimanche 40 satellites.→https://l.lefigaro.fr/VQoe"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-16 08:30",
+      "text": "Résultats, contenu, management : le nouvel homme fort de l’équipe de France sort de ses deux premiers rassemblements où la comparaison avec son prédécesseur reste omniprésente. Les débuts sont prometteurs.\n\nPar @Mth_Adrien\n➡️ https://l.lepoint.fr/7dm"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-16 08:31",
+      "text": "Bruno Le Maire, ancien ministre de l'Économie : «Marine Le Pen raconte des mensonges qui sèmeront la colère et la tempête dans le pays», dans #LaGrandeInterview\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "L'Express",
+      "published_at": "2026-11-16 08:31",
+      "text": "Santé, longévité, réussite... Les études sont nombreuses qui vantent les vertus de l’optimisme. Mais des millénaires d’évolution ont appris à notre cerveau à guetter le danger. Alors : verre...\n\n➡️ https://l.lexpress.fr/M5P par @ARosencher https://l.lexpress.fr/M5P"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-16 08:31",
+      "text": "Violences contre les enfants : l’association Les Papillons en prime time, « Une telle campagne, jamais nous n’aurions pu nous l’offrir »\n➡️ https://l.leparisien.fr/HfVw"
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-16 08:32",
+      "text": "[Retweet de @vetopatriote] « Ça ne règlera pas tout de sortir de l’Union Européenne mais c’est la condition pour pouvoir agir derrière dans le sens du bien commun et de l’intérêt national. »\n\n[Interview BFMTV de Florian Philippot (13/11/26) à retrouver en intégralité sur https://youtu.be/FePpkYQSyFw]"
+    },
+    {
+      "author_name": "Le Figaro Culture",
+      "published_at": "2026-11-16 08:33",
+      "text": "10 millions d’exemplaires vendus et 10 ans de procès face aux Américains : l’incroyable destin de La Bicyclette bleue https://l.lefigaro.fr/NTXs"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-16 08:33",
+      "text": "\"La colère sera explosive si les Français, d'ici 6 mois, s'aperçoivent qu'ils ont été trompés par tous ceux qui leur proposaient monts et merveilles\" déclare @BrunoLeMaire #LaGrandeInterview #Europe1"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-16 08:34",
+      "text": "Présidentielle 2027 : «Marine Le Pen raconte des mensonges qui sèmeront la colère et la tempête», considère Bruno Le Maire https://www.cnews.fr/france/2026-11-16/presidentielle-2027-marine-le-pen-raconte-des-mensonges-qui-semeront-la-colere-et"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-16 08:34",
+      "text": "Bruno Le Maire, ancien ministre de l'Économie : «Je propose un socle idéologique très simple pour l'élection présidentielle», dans #LaGrandeInterview\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-16 08:35",
+      "text": "💥Colère sociale : \"La France est en burn-out\"\n\n🗣️ @yjadot : \"Il y a un sentiment d'indignité qui déstabilise nos concitoyens\" #GrandMatin\n\n📻https://www.sudradio.fr/"
+    },
+    {
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-16 08:36",
+      "text": "« Un groupe de bloqueurs de l’Inalco a publié une pancarte \"à mort les gwers\" et \"PLB\", c’est à dire \"pendez les blancs\" : on va faire une action symbolique contre le racisme antiblanc qui tue » nous expliquait ce militant de la @CocardeEtud."
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-16 08:36",
+      "text": "Bruno Le Maire, ancien ministre de l'Économie : «La liberté de la presse ne se négocie pas en démocratie. C'est le signal d'une désintégration de la société française», dans #LaGrandeInterview\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Ministère de l'Intérieur",
+      "published_at": "2026-11-16 08:37",
+      "text": "Afin de prévenir les risques de troubles graves à l’ordre public lors des blocages devant des lycées et des universités, ainsi qu’à l’occasion des manifestations, résultant de l’usage d’engins pyrotechniques et d’artifices de divertissement, un décret signé par le Premier"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-16 08:38",
+      "text": "🔴 \"@rglucks1 va augmenter tous les salaires de 100€ par mois, sans impact sur les entreprises\"\n\n🗣️@yjadot : \"Il faut valoriser le travail, c'est du pouvoir d'achat immédiat\" #GrandMatin \n\n📻https://www.sudradio.fr/"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-16 08:39",
+      "text": "Bruno Le Maire, ancien ministre de l'Économie : «CNEWS fait partie de la liberté de la presse. On peut être d'accord ou pas d'accord avec les opinions qui sont défendues sur les plateaux», dans #LaGrandeInterview\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-16 08:41",
+      "text": "✊ Grève du #17Novembre : \"oui je soutiens l'appel à la grève\"\n\n🗣️@yjadot : \"Tout le monde est fatigué, mais surtout fatigué du Gouvernement qui n'agit pas\" #GrandMatin\n\n📻https://www.sudradio.fr/"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-16 08:41",
+      "text": "💬 Avec l’adaptation libre du « Comte de Monte-Cristo » pour TF1, Audrey Fleurot joue gros : non seulement, elle en incarne le premier rôle mais elle en assure aussi la coproduction. Une expérience qu’elle est déjà prête à renouveler.\n\nPar @FDupreuilh\n➡️ https://l.lepoint.fr/80D"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-16 08:41",
+      "text": "Primaire du bloc central : \"celui ou celle qui gagnera, nous la soutiendrons jusqu'au deuxième tour de l'élection présidentielle et jusqu'à ce qu'elle gagne cette élection présidentielle\" assure @BrunoLeMaire #LaGrandeInterview #Europe1"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-16 08:43",
+      "text": "«CNEWS fait partie de la liberté et de la diversité de la presse», considère Bruno Le Maire https://www.cnews.fr/france/2026-11-16/cnews-fait-partie-de-la-liberte-et-de-la-diversite-de-la-presse-considere-bruno"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-16 08:44",
+      "text": "💥 \"Il y a une violence inacceptable dans notre société\"\n\n🗣️@yjadot : \"Le gouvernement doit répondre aux demandes des lycéens\" #GrandMatin\n\n📻https://www.sudradio.fr/"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-16 08:44",
+      "text": "Sécurité des journalistes : \"La liberté de la presse ne se négocie pas en démocratie\" déclare @BrunoLeMaire #LaGrandeInterview #Europe1"
+    },
+    {
+      "author_name": "Cercle Aristote",
+      "published_at": "2026-11-16 08:44",
+      "text": "Ces escrologistes ont fait beaucoup de mal.\n\nEt ils ont pourtant un temps de parole important par rapport à d'autres (qui avaient raison).\n\nCela illustre bien le fait que la vérité importe peu pour les médias. Bien qu'ils prétendent tout le temps  le contraire.\n[Cite @franceinfo] 🔴🗣️ Nucléaire : \"Notre horizon est bien une sortie totale du nucléaire\", affirme Marine Tondelier, secrétaire nationale des Écologistes, qui refuse toutefois de fixer une date et privilégie un développement massif des énergies renouvelables.\n\n#LeGrandEnjeu #canal16"
+    },
+    {
+      "author_name": "Agence France-Presse",
+      "published_at": "2026-11-16 08:44",
+      "text": "🇺🇦🇷🇺 L'Ukraine a \"frappé\" le pont reliant la Russie à la péninsule de Crimée annexée par Moscou, restreignant la circulation sur cet ouvrage stratégique où circulent d'ordinaire trains et véhicules, a annoncé le chef des autorités locales nommé par Moscou."
+    },
+    {
+      "author_name": "Cour de cassation",
+      "published_at": "2026-11-16 08:45",
+      "text": "🔴[Prochain direct] à 9h30 : \"De Brillat-Savarin au Brillat-Savarin : un magistrat, un nom, des appellations d’origine - Colloque bicentenaire de la mort de Jean-Anthelme Brillat-Savarin 1755-1826 \""
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-16 08:45",
+      "text": "Pétition cntre CNews : \"Le drame d 'une nation commence lorsqu'au lieu de se poser les bonnes questions, elle met sur la table les mauvais sujets\" déclare @BrunoLeMaire #LaGrandeInterview #Europe1"
+    },
+    {
+      "author_name": "Florian Philippot",
+      "published_at": "2026-11-16 08:46",
+      "text": "Mensonge d’État démasqué ! ⤵️\n\nUne enquête de RFI révèle ce matin que  « l'armée française opère en Ukraine »\n\n« Paris n'a jamais confirmé la présence de militaires français sur le sol ukrainien. Or, selon plusieurs interlocuteurs joints par RFI, un soutien militaire français"
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-16 08:46",
+      "text": "Colère sociale : « Monsieur Mélenchon met des cibles dans le dos des journalistes », estime le porte-parole du gouvernement https://l.leparisien.fr/SSbG"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-16 08:46",
+      "text": "🎙️ Bruno Le Maire, ancien ministre de l'Economie, était l'invité de La Grande Interview ce lundi. ➡️ https://mrf.lu/2-BXK"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-16 08:47",
+      "text": "Sacré-Cœur, Notre-Dame, Parlement européen... Ces monuments qui s'allument en rouge pour alerter sur le sort de millions de chrétiens persécutés https://ow.ly/QjLn106IKqp"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-16 08:47",
+      "text": "Mobilisation lycéenne : «Les revendications ont été entendues, le mouvement doit cesser», estime Bruno Le Maire https://ow.ly/eVK1106IKqr"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-16 08:47",
+      "text": "⁉️ @rglucks1 est-il \"un peu macroniste\" ?\n\n🗣️@yjadot : \"S'il l'avait été, il aurait été au gouvernement !\" #GrandMatin\n\n📻https://www.sudradio.fr/"
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-16 08:47",
+      "text": "[Retweet de @PauletteRoure] Voila une belle manifestation dans les rues de Paris. Dégradations, casses de magasins, brulures de poubelles: ZERO, chez les Patriotes les manifestations se font dans la dignité et dans  le respect des biens d'autrui."
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-16 08:47",
+      "text": "[Retweet de @LaureAngeOrange] 🇫🇷Soutenez @_LesPatriotes avec @f_philippot!\n➡️PARTAGEZ MASSIVEMENT!\nLes images de la grande marche nationale pour la démission de Macron & pour le FREXIT font le tour du monde... Mais PAS UN MOT dans les médias français!\n🙏Merci à @PhdeVilliers qui soutient la \"minorité active\"."
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-16 08:47",
+      "text": "[Retweet de @SZYCH1] https://youtube.com/shorts/DKm3FgjqD_8?is=udzAyjFjYVsPDd87"
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-16 08:48",
+      "text": "[Retweet de @SZYCH1] https://youtu.be/CnF5BIftU_s?is=e1CGr28EKigICi5z"
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-16 08:48",
+      "text": "[Retweet de @SZYCH1] https://youtu.be/FePpkYQSyFw?is=kim9WJsjs2T7e9wv"
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-16 08:48",
+      "text": "[Retweet de @Patriotes71] https://youtube.com/shorts/DKm3FgjqD_8?is=udzAyjFjYVsPDd87"
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-16 08:48",
+      "text": "[Retweet de @Patriotes71] https://youtu.be/CnF5BIftU_s?is=e1CGr28EKigICi5z"
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-16 08:48",
+      "text": "[Retweet de @Patriotes71] https://youtu.be/FePpkYQSyFw?is=kim9WJsjs2T7e9wv"
+    },
+    {
+      "author_name": "Le Jarl",
+      "published_at": "2026-11-16 08:48",
+      "text": "Au Blosne, il y a eu des tirs il y a quelques jours. Dimanche, plusieurs agressions au couteau ont été signalées. Un jeune de 17 ans a été grièvement blessé au visage.\n\nQuand des dealers se disputent un point de vente, ils se disputent des clients. Et à Rennes, grande ville"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-16 08:48",
+      "text": "La France insoumise c’est le bien, et tout le reste c’est le mal, amen\n\n➡️ Ecoutez la signature de Philippe Val sur #Europe1 #Europe1Matin"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-16 08:49",
+      "text": "Charles Rodwell, député EPR des Yvelines : «Mon objectif est de recentrer les flux migratoires autour de l'immigration économique et de réduire toutes les autres voies d'immigration. C'est la raison pour laquelle je propose la création de quotas migratoires», dans #LaMatinale"
+    },
+    {
+      "author_name": "Comité Trump France",
+      "published_at": "2026-11-16 08:49",
+      "text": "Bonjour @LCI, vous vous humiliez en invitant régulièrement le pourvoyeur de fake news Thierry Breton, anti Américain primaire et saccageur de l'énergie entreprenariale en Europe. \n\nNous sommes à deux doigts de saisir l'Arcom suite à ce monceau de contre-vérités sur Space X qui a\n[Cite @ufotinik] A le retour de @ThierryBreton. Florilège d’erreurs en moins de 2 minutes (Ancien commissaire européen ça vous donne le niveau de nos « élites ») : \n\n❌ Astéroïde : FAUX - Première sonde à se poser sur un astéroïde : NEAR Shoemaker (NASA), en 2001. L’Europe a réalisé le premier"
+    },
+    {
+      "author_name": "Une Bonne Droite 👊🏻",
+      "published_at": "2026-11-16 08:50",
+      "text": "Fâchez-vous comme vous voulez : il n’y aura pas de France sans Français originels, de souche.\n\n@JRochedy  sur @Frontieresmedia \n15 octobre 2023"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-16 08:50",
+      "text": "🎙️ « Le dépassement des partis, c'est le cœur du macronisme originel. Et cette idée est remise au goût du jour — c'est assez savoureux — par François Hollande lui-même, la première victime du macronisme » \n\nRetrouvez L'EDITO de @gernelle, directeur @lepoint sur #RTLMatin\n[Cite @RTLFrance] EDITO RTL - \"Super-macronisme\" : la coalition impossible pour sauver le centre ?\n\n@gernelle, directeur @LePoint, dans #RTLMatin"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-16 08:50",
+      "text": "❌\"Non, @JLMelenchon n'écrase rien à gauche !\"\n\n🗣️@yjadot : \"Les Insoumis nous empêchent de faire campagne, ce n'est pas démocratique, mais c'est comme ça\" #GrandMatin\n\n📻https://www.sudradio.fr/"
+    }
+  ],
+  "context": [
     {
       "author_name": "Le Parisien",
       "published_at": "2026-11-15 08:51",
