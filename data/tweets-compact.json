@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-16 01:17",
-  "period": "du 2026-11-15 01:17 au 2026-11-16 01:17",
-  "new_period": "du 2026-11-15 20:00 au 2026-11-16 01:17",
-  "context_period": "du 2026-11-15 01:17 au 2026-11-15 20:00",
+  "generated_at": "2026-11-16 01:48",
+  "period": "du 2026-11-15 01:48 au 2026-11-16 01:48",
+  "new_period": "du 2026-11-15 20:00 au 2026-11-16 01:48",
+  "context_period": "du 2026-11-15 01:48 au 2026-11-15 20:00",
   "coverage_complete": true,
-  "new_count": 206,
-  "context_count": 930,
-  "duplicates_merged": 58,
+  "new_count": 207,
+  "context_count": 928,
+  "duplicates_merged": 60,
   "empty_removed": 5,
   "new": [
     {
@@ -1054,20 +1054,21 @@
     {
       "author_name": "Le Parisien | politique",
       "published_at": "2026-11-16 00:59",
-      "text": "« Nous n’avons pas été à la hauteur » : Amazon perd 40 satellites dans l’espace après l’échec d’une fusée Vulcan\n➡️ https://l.leparisien.fr/aCU6"
+      "text": "« Nous n’avons pas été à la hauteur » : Amazon perd 40 satellites dans l’espace après l’échec d’une fusée Vulcan\n➡️ https://l.leparisien.fr/aCU6",
+      "also_by": [
+        "Le Parisien"
+      ]
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-16 01:27",
+      "text": "« Vous allez gagner la guerre » : le prince Harry a rencontré des soldats blessés en Ukraine\n➡️ https://l.leparisien.fr/04dW",
+      "also_by": [
+        "Le Parisien"
+      ]
     }
   ],
   "context": [
-    {
-      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
-      "published_at": "2026-11-15 01:42",
-      "text": "[Retweet de @historyinmemes] In 1949, Indian mathematician and schoolteacher D. R. Kaprekar uncovered one of arithmetic’s most fascinating numerical mysteries: 6174, now famously known as Kaprekar’s Constant.\n\nThe process is surprisingly simple. Choose any four-digit number containing at least two different"
-    },
-    {
-      "author_name": "L'HERMYNE ⚜️",
-      "published_at": "2026-11-15 01:48",
-      "text": "[Retweet de @la_logomachie] Cette vidéo a été bloquée en France par YouTube pour « incitation à la haine ». L'appel a été rejeté.\n\nSon propos ? Si l’Afrique s’est moins développée que l’Europe, c’est d’abord une question de géographie : peu de fleuves navigables, des côtes sans ports naturels, un relief qui"
-    },
     {
       "author_name": "Le Parisien",
       "published_at": "2026-11-15 01:53",

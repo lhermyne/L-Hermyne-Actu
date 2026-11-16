@@ -1,14 +1,53 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-16T00:17:56.082Z",
+  "updated_at": "2026-11-16T00:48:16.298Z",
   "window_hours": 24,
-  "window_start": "2026-11-15T00:17:56.082Z",
+  "window_start": "2026-11-15T00:48:16.298Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1199,
+  "count": 1200,
   "tweets": [
+    {
+      "id": "2122127101264363876",
+      "created_at": "2026-11-16T00:38:22.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "« Vous allez gagner la guerre » : le prince Harry a rencontré des soldats blessés en Ukraine\n➡️ https://l.leparisien.fr/EJFc",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2122127101264363876"
+    },
+    {
+      "id": "2122124279978299752",
+      "created_at": "2026-11-16T00:27:10.000Z",
+      "author": "leparisien_pol",
+      "author_name": "Le Parisien | politique",
+      "type": "tweet",
+      "text": "« Vous allez gagner la guerre » : le prince Harry a rencontré des soldats blessés en Ukraine\n➡️ https://l.leparisien.fr/04dW",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/leparisien_pol/status/2122124279978299752"
+    },
+    {
+      "id": "2122122546711781469",
+      "created_at": "2026-11-16T00:20:16.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "« Nous n’avons pas été à la hauteur » : Amazon perd 40 satellites dans l’espace après l’échec d’une fusée Vulcan\n➡️ https://l.leparisien.fr/Ggzz",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2122122546711781469"
+    },
     {
       "id": "2122117420122775556",
       "created_at": "2026-11-15T23:59:54.000Z",
@@ -15569,32 +15608,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/le_Parisien/status/2121768394441494581"
-    },
-    {
-      "id": "2121767135496008015",
-      "created_at": "2026-11-15T00:48:00.000Z",
-      "author": "L_hermyne",
-      "author_name": "L'HERMYNE ⚜️",
-      "type": "retweet",
-      "text": "Cette vidéo a été bloquée en France par YouTube pour « incitation à la haine ». L'appel a été rejeté.\n\nSon propos ? Si l’Afrique s’est moins développée que l’Europe, c’est d’abord une question de géographie : peu de fleuves navigables, des côtes sans ports naturels, un relief qui",
-      "retweeted_author": "la_logomachie",
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/L_hermyne/status/2121767135496008015"
-    },
-    {
-      "id": "2121765714726158832",
-      "created_at": "2026-11-15T00:42:21.000Z",
-      "author": "dannyconversano",
-      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
-      "type": "retweet",
-      "text": "In 1949, Indian mathematician and schoolteacher D. R. Kaprekar uncovered one of arithmetic’s most fascinating numerical mysteries: 6174, now famously known as Kaprekar’s Constant.\n\nThe process is surprisingly simple. Choose any four-digit number containing at least two different",
-      "retweeted_author": "historyinmemes",
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "en",
-      "url": "https://x.com/dannyconversano/status/2121765714726158832"
     }
   ]
 }
