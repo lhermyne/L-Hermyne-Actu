@@ -1,13 +1,13 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-16T18:23:16.372Z",
+  "updated_at": "2026-11-16T18:24:46.394Z",
   "window_hours": 24,
-  "window_start": "2026-11-15T18:23:16.372Z",
+  "window_start": "2026-11-15T18:24:46.394Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1668,
+  "count": 1665,
   "tweets": [
     {
       "id": "2122394626644390030",
@@ -21653,45 +21653,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/CNEWS/status/2122033476895437009"
-    },
-    {
-      "id": "2122033073357455410",
-      "created_at": "2026-11-15T18:24:44.000Z",
-      "author": "MLP_officiel",
-      "author_name": "Marine Le Pen",
-      "type": "tweet",
-      "text": "Il faut resacraliser l’intégrité physique. Il faut que les peines soient très fermes et que la police soit présente pour que l’espace public soit à nouveau le lieu de tout le monde.\n\nLa première des libertés, c’est la sécurité. Je souhaite la rendre aux jeunes.",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/MLP_officiel/status/2122033073357455410"
-    },
-    {
-      "id": "2122032948878995555",
-      "created_at": "2026-11-15T18:24:15.000Z",
-      "author": "RNational_off",
-      "author_name": "Rassemblement National",
-      "type": "retweet",
-      "text": "J’ai changé d’avis sur le mariage pour tous. Il n’a pas entraîné, comme j’avais pu le craindre, la gestation pour autrui.\n\nOn peut évoluer en politique, ce n’est pas une honte.",
-      "retweeted_author": "MLP_officiel",
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/RNational_off/status/2122032948878995555"
-    },
-    {
-      "id": "2122032828984807663",
-      "created_at": "2026-11-15T18:23:46.000Z",
-      "author": "MLP_officiel",
-      "author_name": "Marine Le Pen",
-      "type": "tweet",
-      "text": "Il faut revenir à un système où il y avait une infirmière scolaire par établissement, formée aux difficultés d’ordre psychologique et à détecter les atteintes sexuelles.\n\nAller voir quelqu’un une fois par an, ça ne suffit pas pour créer le lien de confiance.",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/MLP_officiel/status/2122032828984807663"
     }
   ]
 }
