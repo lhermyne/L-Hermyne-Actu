@@ -1,13 +1,13 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-16 04:19",
-  "period": "du 2026-11-15 04:19 au 2026-11-16 04:19",
-  "new_period": "du 2026-11-15 20:00 au 2026-11-16 04:19",
-  "context_period": "du 2026-11-15 04:19 au 2026-11-15 20:00",
+  "generated_at": "2026-11-16 04:49",
+  "period": "du 2026-11-15 04:49 au 2026-11-16 04:49",
+  "new_period": "du 2026-11-15 20:00 au 2026-11-16 04:49",
+  "context_period": "du 2026-11-15 04:49 au 2026-11-15 20:00",
   "coverage_complete": true,
-  "new_count": 213,
-  "context_count": 922,
+  "new_count": 215,
+  "context_count": 921,
   "duplicates_merged": 65,
   "empty_removed": 6,
   "new": [
@@ -1108,14 +1108,19 @@
       "also_by": [
         "Le Parisien | politique"
       ]
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-16 04:42",
+      "text": "Antisémitisme : après l’exclusion de deux élèves radicalisés de la prépa Blomet, la direction a pris des mesures\n➡️ https://l.leparisien.fr/dYvX"
+    },
+    {
+      "author_name": "Samuel Lafont",
+      "published_at": "2026-11-16 04:45",
+      "text": "[Retweet de @leJDD] Éric Zemmour : « Mon grand plan de rupture » https://ow.ly/2ytf106IFnB"
     }
   ],
   "context": [
-    {
-      "author_name": "Élysée",
-      "published_at": "2026-11-15 04:48",
-      "text": "Sommet de la Francophonie au Cambodge : discours inaugural du Président @EmmanuelMacron."
-    },
     {
       "author_name": "Régis Le Sommier",
       "published_at": "2026-11-15 04:50",

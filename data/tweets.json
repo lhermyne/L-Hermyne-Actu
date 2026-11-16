@@ -1,14 +1,40 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-16T03:19:21.143Z",
+  "updated_at": "2026-11-16T03:49:26.460Z",
   "window_hours": 24,
-  "window_start": "2026-11-15T03:19:21.143Z",
+  "window_start": "2026-11-15T03:49:26.460Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1206,
+  "count": 1207,
   "tweets": [
+    {
+      "id": "2122174290644860964",
+      "created_at": "2026-11-16T03:45:53.000Z",
+      "author": "Samuel_Lafont",
+      "author_name": "Samuel Lafont",
+      "type": "retweet",
+      "text": "Éric Zemmour : « Mon grand plan de rupture » https://ow.ly/2ytf106IFnB",
+      "retweeted_author": "leJDD",
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/Samuel_Lafont/status/2122174290644860964"
+    },
+    {
+      "id": "2122173382724862344",
+      "created_at": "2026-11-16T03:42:17.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "Antisémitisme : après l’exclusion de deux élèves radicalisés de la prépa Blomet, la direction a pris des mesures\n➡️ https://l.leparisien.fr/dYvX",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2122173382724862344"
+    },
     {
       "id": "2122157567216357411",
       "created_at": "2026-11-16T02:39:26.000Z",
@@ -15673,19 +15699,6 @@
       "quoted_text": null,
       "lang": "en",
       "url": "https://x.com/LeSommierRgis/status/2121812939837452339"
-    },
-    {
-      "id": "2121812665454727191",
-      "created_at": "2026-11-15T03:48:55.000Z",
-      "author": "Elysee",
-      "author_name": "Élysée",
-      "type": "tweet",
-      "text": "Sommet de la Francophonie au Cambodge : discours inaugural du Président @EmmanuelMacron.",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/Elysee/status/2121812665454727191"
     }
   ]
 }
