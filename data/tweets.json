@@ -1,13 +1,13 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-16T00:48:16.298Z",
+  "updated_at": "2026-11-16T00:57:41.646Z",
   "window_hours": 24,
-  "window_start": "2026-11-15T00:48:16.298Z",
+  "window_start": "2026-11-15T00:57:41.646Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1200,
+  "count": 1198,
   "tweets": [
     {
       "id": "2122127101264363876",
@@ -15582,32 +15582,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/alainpaulweber/status/2121783945280819273"
-    },
-    {
-      "id": "2121768665238634667",
-      "created_at": "2026-11-15T00:54:05.000Z",
-      "author": "dannyconversano",
-      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
-      "type": "retweet",
-      "text": "I've gotten a lot of hate mail in the 11 days since we announced our packaging will be English-only, and that we'll only hire Americans. To those people I say: only TRAITORS help invaders.",
-      "retweeted_author": "grandadfarms",
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "en",
-      "url": "https://x.com/dannyconversano/status/2121768665238634667"
-    },
-    {
-      "id": "2121768394441494581",
-      "created_at": "2026-11-15T00:53:00.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "Chasse à l’homme, cercueil devant la gendarmerie... L’incroyable exfiltration de Corse d’Enzo D. et Johan C., les deux profanateurs d’une Vierge Marie\n➡️ https://l.leparisien.fr/quys",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2121768394441494581"
     }
   ]
 }
