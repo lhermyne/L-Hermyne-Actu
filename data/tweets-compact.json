@@ -1,15 +1,15 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-16 01:57",
-  "period": "du 2026-11-15 01:57 au 2026-11-16 01:57",
-  "new_period": "du 2026-11-15 20:00 au 2026-11-16 01:57",
-  "context_period": "du 2026-11-15 01:57 au 2026-11-15 20:00",
+  "generated_at": "2026-11-16 02:18",
+  "period": "du 2026-11-15 02:18 au 2026-11-16 02:18",
+  "new_period": "du 2026-11-15 20:00 au 2026-11-16 02:18",
+  "context_period": "du 2026-11-15 02:18 au 2026-11-15 20:00",
   "coverage_complete": true,
-  "new_count": 207,
+  "new_count": 211,
   "context_count": 926,
-  "duplicates_merged": 60,
-  "empty_removed": 5,
+  "duplicates_merged": 62,
+  "empty_removed": 6,
   "new": [
     {
       "author_name": "Sud Radio",
@@ -1066,6 +1066,29 @@
       "also_by": [
         "Le Parisien"
       ]
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-16 01:58",
+      "text": "« Il mérite une procédure équitable, pas un tribunal populaire » : mouvement mené par Musk en faveur d’un retour de Huang à Nvidia\n➡️ https://l.leparisien.fr/IHhD",
+      "also_by": [
+        "Le Parisien"
+      ]
+    },
+    {
+      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
+      "published_at": "2026-11-16 01:58",
+      "text": "[Retweet de @RealJarTaylor] A big thank you to Thaïs d'Escufon who came all the from France to help make the 23rd AmRen conference a great success!"
+    },
+    {
+      "author_name": "L'HERMYNE ⚜️",
+      "published_at": "2026-11-16 02:07",
+      "text": "[Retweet de @LBleuBlancRouge] 🚨🤯 WOW ! \n\nEn cas de duel entre Jean-Mélenchon et Marine Le Pen en 2027 : \n\n🔵 97% des sympathisants LR voteraient Marine Le Pen. \n\n🟠 79% des sympathisants Renaissance voteraient Marine Le Pen.\n\n🔴 32% des sympathisants du Parti Socialiste voteraient Marine Le Pen. \n\n🟢 11%"
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-16 02:13",
+      "text": "🔴 Pour les Français juifs, Mélenchon vu comme le premier responsable politique de la montée de l’antisémitisme\n➡️ https://l.leparisien.fr/YiQ0"
     }
   ],
   "context": [
