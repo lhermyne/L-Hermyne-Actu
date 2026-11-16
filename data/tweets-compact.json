@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-16 05:49",
-  "period": "du 2026-11-15 05:49 au 2026-11-16 05:49",
-  "new_period": "du 2026-11-15 20:00 au 2026-11-16 05:49",
-  "context_period": "du 2026-11-15 05:49 au 2026-11-15 20:00",
+  "generated_at": "2026-11-16 06:20",
+  "period": "du 2026-11-15 06:20 au 2026-11-16 06:20",
+  "new_period": "du 2026-11-15 20:00 au 2026-11-16 06:20",
+  "context_period": "du 2026-11-15 06:20 au 2026-11-15 20:00",
   "coverage_complete": true,
-  "new_count": 223,
-  "context_count": 914,
-  "duplicates_merged": 67,
+  "new_count": 235,
+  "context_count": 904,
+  "duplicates_merged": 68,
   "empty_removed": 6,
   "new": [
     {
@@ -1153,7 +1153,10 @@
     {
       "author_name": "Le Parisien",
       "published_at": "2026-11-16 05:40",
-      "text": "L’introduction en Bourse d’Anthropic aurait pu rapporter 40 milliards de dollars à Sam Bankman-Fried, l’escroc dont les sociétés ont été liquidées\n➡️ https://l.leparisien.fr/J6cf"
+      "text": "L’introduction en Bourse d’Anthropic aurait pu rapporter 40 milliards de dollars à Sam Bankman-Fried, l’escroc dont les sociétés ont été liquidées\n➡️ https://l.leparisien.fr/J6cf",
+      "also_by": [
+        "Le Parisien | politique"
+      ]
     },
     {
       "author_name": "Sud Radio",
@@ -1164,59 +1167,69 @@
       "author_name": "Le Parisien",
       "published_at": "2026-11-16 05:48",
       "text": "Grève du mardi 17 novembre : fonction publique, transports, lycées… À quoi s’attendre\n➡️ https://l.leparisien.fr/43nx"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Le JDD",
-      "published_at": "2026-11-15 05:50",
-      "text": "Éric Zemmour au JDD : «Tout faire pour que notre avenir soit français» https://ow.ly/rBFr106IF6h"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-15 05:51",
-      "text": "« Un créateur qui a la trouille, qu’il change de métier » : à 92 ans, Pierre Perret fustige « antisémites » et « écolos »\n➡️ https://l.leparisien.fr/rBN4"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-15 06:01",
-      "text": "Développement, reports, carte, personnages... Tout ce qu'il faut savoir sur GTA VI avant sa sortie https://ow.ly/FPsa106IF8Z"
-    },
-    {
-      "author_name": "Causeur.fr",
-      "published_at": "2026-11-15 06:02",
-      "text": "Jean Gabin est décédé il y a cinquante ans\n\nhttps://www.causeur.fr/jean-gabin-un-singe-en-hiver-et-les-poissons-volants-337121"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-15 06:04",
-      "text": "📰 La une du Parisien du 15 novembre\n\n➡️ https://l.leparisien.fr/tQ7G"
-    },
-    {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-15 06:06",
-      "text": "« On sortirait totalement des clous » : le programme économique de LFI, un plongeon dans l’inconnu\n➡️ https://l.leparisien.fr/kKjD"
     },
     {
       "author_name": "Ni Oubli Ni Pardon",
-      "published_at": "2026-11-15 06:11",
-      "text": "12/2021 Olivier Véran, ministre de la Santé : « J’ai fixé un objectif très ambitieux : je peux vous dire que nous ferons les 20 millions de rappels avant Noël et que nous serons en capacité de vacciner toutes celles et ceux qui doivent l'être en temps et en heure, probablement"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-15 06:11",
-      "text": "L'édito de Quentin Gérard : «Le projet de loi logement arrive à l'Assemblée»"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-15 06:15",
-      "text": "Jean Chalopin, l'homme derrière \"les Mystérieuses cités d'or\" et \"Ulysse 31\" à l'honneur dans un documentaire !\n\n➡️ Écoutez La pop culture avec Mathieu Alterman sur #Europe1 #Europe1Matin"
+      "published_at": "2026-11-16 05:50",
+      "text": "04/2024 Adèle Van Reeth, directrice de France Inter : « Nous sommes une radio publique, donc on se doit de servir l'intérêt général. Dans le cadre de cette mission, nous avons choisi, mais c'est Radio France, en ce qui concerne par exemple, le réchauffement climatique et la cause"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-15 06:19",
-      "text": "« Je n’aimerais pas être à la place de mon agresseur » : Pierre, star malgré lui après avoir défendu son magasin Micromania de Nice\n➡️ https://l.leparisien.fr/04dP"
+      "published_at": "2026-11-16 05:58",
+      "text": "Règlement de comptes entre dealers : « Loup blanc » donnait-il ses instructions depuis sa cellule ?\n➡️ https://l.leparisien.fr/2l1Q"
     },
+    {
+      "author_name": "Bruno Attal",
+      "published_at": "2026-11-16 06:00",
+      "text": "Quel courage de @davidlisnard qui n’a pas peur de dire les mots justes chez @SoMabrouk !\nIl parle de Jean-Luc Melenchon comme d’un gourou avec sa secte.\nEnsuite il fait le parallèle entre la montée du nazisme des années 30 et celle de LFI..\nJe le dis moi même depuis longtemps que"
+    },
+    {
+      "author_name": "Causeur.fr",
+      "published_at": "2026-11-16 06:01",
+      "text": "Chérie, j’ai élargi le racisme! @causeur \n\nhttps://www.causeur.fr/cherie-jai-elargi-le-racisme-lfi-bagnolet-zemmour-houellebecq-337346"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-16 06:02",
+      "text": "🎙️ Votez ici. ➡️ https://mrf.lu/2-M2v"
+    },
+    {
+      "author_name": "L'Express",
+      "published_at": "2026-11-16 06:09",
+      "text": "Avec ses missiles et ses drones, la PDG du fabricant Fire Point est le fer de lance de la riposte ukrainienne contre Moscou.\n\n➡️ https://l.lexpress.fr/BSx"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-16 06:11",
+      "text": "Une portion de l'A13 fermée dès ce lundi matin pour neuf mois\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-16 06:12",
+      "text": "📰 La une du Parisien du 16 novembre\n\n➡️ https://l.leparisien.fr/nDx4"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-16 06:13",
+      "text": "🇫🇷 Les Bleus battent la Turquie et verront les quarts de la Ligue des Nations !\n\nUne soirée à part pour Elie Junior Kroupi\n\nhttps://www.sudradio.fr/sport-rugby/sport/ligue-des-nations-des-bleus-poussifs-mais-au-rendez-vous-des-quarts"
+    },
+    {
+      "author_name": "Bruno Attal",
+      "published_at": "2026-11-16 06:15",
+      "text": "Il ne faut pas couper Teddy Riner, même\n quand il a fini…\n\nHâte d’écouter son programme sécuritaire.\n\nIl sera du coté des policiers ou de la famille Traoré à votre avis ?"
+    },
+    {
+      "author_name": "Le JDD",
+      "published_at": "2026-11-16 06:16",
+      "text": "Made in France : le lin breton renaît, mais sa transformation file en Asie https://ow.ly/geTU106IK9Z"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-16 06:16",
+      "text": "Un procès très attendu. ➡️ https://mrf.lu/2-M1p"
+    }
+  ],
+  "context": [
     {
       "author_name": "Le Jarl",
       "published_at": "2026-11-15 06:24",
