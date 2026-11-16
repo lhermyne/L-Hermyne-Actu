@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-16 02:18",
-  "period": "du 2026-11-15 02:18 au 2026-11-16 02:18",
-  "new_period": "du 2026-11-15 20:00 au 2026-11-16 02:18",
-  "context_period": "du 2026-11-15 02:18 au 2026-11-15 20:00",
+  "generated_at": "2026-11-16 02:48",
+  "period": "du 2026-11-15 02:48 au 2026-11-16 02:48",
+  "new_period": "du 2026-11-15 20:00 au 2026-11-16 02:48",
+  "context_period": "du 2026-11-15 02:48 au 2026-11-15 20:00",
   "coverage_complete": true,
   "new_count": 211,
   "context_count": 926,
-  "duplicates_merged": 62,
+  "duplicates_merged": 63,
   "empty_removed": 6,
   "new": [
     {
@@ -1088,7 +1088,10 @@
     {
       "author_name": "Le Parisien | politique",
       "published_at": "2026-11-16 02:13",
-      "text": "🔴 Pour les Français juifs, Mélenchon vu comme le premier responsable politique de la montée de l’antisémitisme\n➡️ https://l.leparisien.fr/YiQ0"
+      "text": "🔴 Pour les Français juifs, Mélenchon vu comme le premier responsable politique de la montée de l’antisémitisme\n➡️ https://l.leparisien.fr/YiQ0",
+      "also_by": [
+        "Le Parisien"
+      ]
     }
   ],
   "context": [
