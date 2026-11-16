@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-16 07:20",
-  "period": "du 2026-11-15 07:20 au 2026-11-16 07:20",
-  "new_period": "du 2026-11-15 20:00 au 2026-11-16 07:20",
-  "context_period": "du 2026-11-15 07:20 au 2026-11-15 20:00",
+  "generated_at": "2026-11-16 07:50",
+  "period": "du 2026-11-15 07:50 au 2026-11-16 07:50",
+  "new_period": "du 2026-11-15 20:00 au 2026-11-16 07:50",
+  "context_period": "du 2026-11-15 07:50 au 2026-11-15 20:00",
   "coverage_complete": true,
-  "new_count": 274,
-  "context_count": 869,
-  "duplicates_merged": 67,
+  "new_count": 304,
+  "context_count": 848,
+  "duplicates_merged": 69,
   "empty_removed": 6,
   "new": [
     {
@@ -76,7 +76,8 @@
       "published_at": "2026-11-15 20:10",
       "text": "@GauthierBret présente le dernier numéro d'Omerta.",
       "also_by": [
-        "Cercle Aristote"
+        "Cercle Aristote",
+        "Régis Le Sommier"
       ]
     },
     {
@@ -1106,7 +1107,8 @@
       "published_at": "2026-11-16 03:39",
       "text": "Donald Trump, Xi Jinping et Vladimir Poutine vont tenir un sommet trilatéral jeudi en Chine\n➡️ https://l.leparisien.fr/Dj9J",
       "also_by": [
-        "Le Parisien | politique"
+        "Le Parisien | politique",
+        "Régis Le Sommier"
       ]
     },
     {
@@ -1422,122 +1424,159 @@
       "author_name": "Sud Radio",
       "published_at": "2026-11-16 07:19",
       "text": "🔴Agression de militants @RNational_off et @CocardeEtud à Marseille : \"la gauche passe son temps à nous nazifier\"\n\n🗣️@olivierrioult : \"Ils demandaient où étaient les \"fascistes\" à l'intérieur de la salle\" #GrandMatin\n\n📻https://www.sudradio.fr/"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-15 07:22",
-      "text": "« Je ne sais pas si je retrouverai l’usage de mon pied » : la douloureuse convalescence de Suzanne, blessée par une grenade le 17 octobre\n➡️ https://l.leparisien.fr/sVqj"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-15 07:23",
-      "text": "MMA : Ciryl Gane bat Josh Hokit et conserve son titre de champion poids lourds de l'UFC https://ow.ly/U5Vl106IFp1"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-15 07:23",
-      "text": "🔴👨‍🍳  \"Ferniot aux fourneaux\" : un nouveau rendez-vous avec @VincentFerniot tous les dimanches midi sur Sud Radio ! #GrandMatinWeekEnd\n\n🗣️  \"Après 7 ans en cuisine, je passe enfin aux fourneaux ! L'horaire n'est pas anodin, le déjeuner du dimanche, c'est le repas le plus"
-    },
-    {
-      "author_name": "Dreuz",
-      "published_at": "2026-11-15 07:24",
-      "text": "Si c'était un pilote, on dirait qu'il est bourré. Si c'est une IA on trinque\n[Cite @visegrad24] Another angle of the first Starship catch ever"
-    },
-    {
-      "author_name": "Kontre Kulture",
-      "published_at": "2026-11-15 07:30",
-      "text": "⛔ Faites barrage à l'ignorance : LISEZ !"
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-15 07:30",
-      "text": "L’IA révèle des mystères sur certaines pièces de génie. →https://l.lefigaro.fr/mKAW",
-      "also_by": [
-        "Le Figaro Culture"
-      ]
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-15 07:33",
-      "text": "« Je pensais qu’il s’était trompé de destinataire » : pompière depuis 32 ans, cette habitante de l’Oise a reçu la Légion d’honneur\n➡️ https://l.leparisien.fr/cG2i"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-15 07:34",
-      "text": "Sarah Legrain : «La main de cette élue LFI est plus qu'un discours (...) Elle souhaite que cette chaîne disparaisse», déplore Mémona Hintermann, grand reporter et ex-membre du CSA, dans #LaMatinaleWE\n\nToute l'info est à retrouver sur https://cnews.fr"
+      "published_at": "2026-11-16 07:21",
+      "text": "DIRECT. Colère lycéenne : les rassemblements «non déclarés» interdits autour de quinze lycées et universités à Paris, l'Unef dénonce une «atteinte à la liberté»\n➡️ https://l.leparisien.fr/Fnkd"
     },
     {
       "author_name": "L'Express",
-      "published_at": "2026-11-15 07:35",
-      "text": "Raphaël Glucksmann étrille les macronistes en ménageant le centre, et multiplie les clins d'œil à la gauche. A ses risques et périls.\n\n➡️ https://l.lexpress.fr/Qyl"
+      "published_at": "2026-11-16 07:21",
+      "text": "En 2017, Emmanuel Macron promettait la fin du sans-abrisme. Sept ans plus tard, la France comptait 350 000 personnes sans domicile, soit 145 % de plus qu'en 2012. L'Express décrypte les causes...\n\n➡️ https://l.lexpress.fr/8d0"
     },
     {
-      "author_name": "Ni Oubli Ni Pardon",
-      "published_at": "2026-11-15 07:35",
-      "text": "📖 Extrait du livre « Y a-t-il un moment de la crise Covid que vous n’oublierez jamais ? »\nCes témoignages sont les vôtres. Vous avez répondu à cette question…\nVotre histoire s’y trouve très probablement. #DevoirDeMémoire\n\n📘 Disponible ici 👉 : https://contrepropagande.fr/ni-oubli-ni-pardon"
+      "author_name": "Régis Le Sommier",
+      "published_at": "2026-11-16 07:22",
+      "text": "[Retweet de @Omerta_officiel] NORBERT TAFZI : L’HONNEUR D’UN COMMANDO MARINE\nNorbert Tafzi a dirigé le prestigieux commando Marine « Trepel ». Il publie ses carnets de combats (Ed. Mareuil), une incroyable lucarne sur le monde des combattants sans visage… https://youtu.be/NDjFUJsPA48"
+    },
+    {
+      "author_name": "Régis Le Sommier",
+      "published_at": "2026-11-16 07:22",
+      "text": "[Retweet de @MarioNawfal] 🇺🇸🇺🇦 Jared Kushner wants Ukraine peace negotiations kept PRIVATE. \n\nZelensky went public with one of the biggest proposals allegedly discussed behind closed doors.\n\nAccording to Zelensky, U.S. negotiators floated a deal: Ukraine withdraws from the Donbas in exchange for NATO"
+    },
+    {
+      "author_name": "Régis Le Sommier",
+      "published_at": "2026-11-16 07:23",
+      "text": "[Retweet de @AMK_Mapping_] Situation on the Omelnyk direction, Zaporizhzhia Oblast:\n\nOver the last couple of weeks, Russian forces continued their intensified offensive operations northeast of Omelnyk, working to form a solid right flank to Orikhiv. \n\nFollowing the capture of the railway line that runs"
     },
     {
       "author_name": "Sud Radio",
-      "published_at": "2026-11-15 07:39",
-      "text": "🥊  Le Français Ciryl Gane conserve son titre de champion poids lourds de l'UFC \n\nhttps://www.sudradio.fr/sport-rugby/sport/mma-gane-bat-hokit-et-conserve-son-titre-de-champion-poids-lourds-de-lufc"
+      "published_at": "2026-11-16 07:24",
+      "text": "🎾 Pour sa première aux #ATPFinals, Arthur Fils s'incline de peu face à Ben Shelton \n\nhttps://www.sudradio.fr/sport-rugby/sport/masters-atp-pour-ses-grands-debuts-fils-fait-trembler-shelton-mais-perd"
     },
     {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-15 07:43",
-      "text": "La vente des mortiers d’artifice des catégories F2 et F3 interdite jusqu’au 27 novembre par le gouvernement\n https://www.fdesouche.com/2026/11/15/la-vente-des-mortiers-dartifice-des-categories-f2-et-f3-interdite-jusquau-27-novembre-par-le-gouvernement/"
+      "author_name": "CNEWS",
+      "published_at": "2026-11-16 07:24",
+      "text": "«Il faut augmenter la rémunération des fonctionnaires, à condition de diminuer leur nombre», plaide Eric de Riedmatten https://www.cnews.fr/france/2026-11-16/il-faut-augmenter-la-remuneration-des-fonctionnaires-condition-de-diminuer-leur"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-16 07:27",
+      "text": "«Nous étions sidérés». Le récit de Marlone, responsable de La Cocarde étudiante, après l'agression ce week-end de trois militants du RN et du syndicat, dans #LaMatinale\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Reprenons le contrôle !",
+      "published_at": "2026-11-16 07:28",
+      "text": "[Retweet de @CH_Gallois] LFI : la dangereuse pente totalitaire !  \n\nIl y a encore quelques années, un tel constat sur la politique française aurait pu sembler excessif. Aujourd’hui, les outrances de LFI ne sont plus de simples provocations : elles dessinent une dérive inquiétante, où l’intimidation et la"
+    },
+    {
+      "author_name": "Tocsin",
+      "published_at": "2026-11-16 07:28",
+      "text": "La Matinale 16/11 : Panne Microsoft, cyber-attaques : comment survivre au chaos numérique ! https://x.com/i/broadcasts/2AMLgyyYrABqXZ"
+    },
+    {
+      "author_name": "LCP",
+      "published_at": "2026-11-16 07:29",
+      "text": "Pouvoir d'achat: les Français vont-ils pouvoir débloquer leur épargne salariale de manière \"exceptionnelle\"? https://lcp.fr/actualites/pouvoir-d-achat-les-francais-vont-ils-pouvoir-debloquer-leur-epargne-salariale-de"
+    },
+    {
+      "author_name": "Alain Weber",
+      "published_at": "2026-11-16 07:30",
+      "text": "Haïti : après une défaite de l’équipe nationale, 6-0 à Miami, des supporters scandent le nom de Bukele…\n\nLe score est sans appel, mais malgré cela, dans les tribunes, largement occupées par la diaspora haïtienne, la joie régnait et les spectateurs scandaient le nom de Bukele."
+    },
+    {
+      "author_name": "Régis Le Sommier",
+      "published_at": "2026-11-16 07:30",
+      "text": "[Retweet de @Omerta_officiel] SOMMET DE LA FRANCOPHONIE : LE PARADOXE RWANDAIS !\n\nAujourd’hui, le 20e Sommet de la Francophonie s’ouvre au Cambodge.\nAlors que Louise Mushikiwabo, ancienne ministre rwandaise, brigue un 3e mandat à la tête de l’OIF, le français recule au Rwanda au profit de l’anglais.\nUn"
+    },
+    {
+      "author_name": "Régis Le Sommier",
+      "published_at": "2026-11-16 07:30",
+      "text": "[Retweet de @DestinationTele] 💥BIM !\nCNEWS encore et toujours 1ère chaîne info hier samedi\nPour la… 12ème fois sur 13 jours en novembre👏\n\nCNEWS : 3,4%\nBFMTV : 3,2%\nLCI : 2,3%\nFRANCE INFO : 1,1% #argentpublic"
+    },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-16 07:30",
+      "text": "À Moscou, plongée dans l’«enfer» des livres interdits par la Russie d’hier et d’aujourd’hui. →https://l.lefigaro.fr/sa4L"
+    },
+    {
+      "author_name": "Régis Le Sommier",
+      "published_at": "2026-11-16 07:30",
+      "text": "[Retweet de @AMK_Mapping_] Situation on the Orikhiv direction, Zaporizhzhia Oblast:\n\nOver the last week, heavy fighting continued in the Orikhiv direction, with both Russian and Ukrainian forces launching extensive assault operations across the frontline.\n\nIn the west, Ukrainian forces once again regained"
     },
     {
       "author_name": "Europe 1",
-      "published_at": "2026-11-15 07:44",
-      "text": "Fermeture de l’A13 : « Je préfère m’attendre à une situation complexe demain, mais n’oublions pas qu’il faut réaliser ces travaux. Il en va de la sécurité des usagers. Ils n’avaient pas le choix. » Pierre Chasseray, DG @40MA avec @adelaflechere"
+      "published_at": "2026-11-16 07:31",
+      "text": "Recevez vos invitations pour  l'exposition \"Bugatti, l'ère moderne\" au Musée national de l'Automobile à Mulhouse https://ow.ly/swuL106IKnL"
+    },
+    {
+      "author_name": "Régis Le Sommier",
+      "published_at": "2026-11-16 07:31",
+      "text": "[Retweet de @BrianMcDonaldIE] Interesting that, after days of sensational (and, of course, anonymous) media reports about Russia's supposedly impossible demands, Jared Kushner has felt the need to intervene and remind everyone that both sides understand compromise will be necessary.\n\nIt seems the people"
+    },
+    {
+      "author_name": "Régis Le Sommier",
+      "published_at": "2026-11-16 07:32",
+      "text": "[Retweet de @LeSommierRgis] Mon dernier livre, peut-être le plus personnel, est sorti hier. \n\nDans « Jours de feu » (Ed Erick Bonnier), je reviens sur ce qui m’a motivé dans le métier de reporter, ce qu’il m’a apporté mais aussi ce qu’il m’a coûté. \n\nLa photo de couverture a été prise en 2021 à Gao au Mali"
+    },
+    {
+      "author_name": "Tatiana Ventôse 🇫🇷🏹✨",
+      "published_at": "2026-11-16 07:32",
+      "text": "[Retweet de @Tocsin_Media] 🔔🔔 DEMANDEZ LE PROGRAMME 🔔🔔\n\n🔗 https://www.youtube.com/watch?v=TaC80evj46Y\n\n📚 Le nouveau livre d’Éric Branca @eric_branca  « Ingérences américaines ! 1942-2026 », aux Éditions Tocsin, est disponible 👉🏼 https://boutique.tocsin-media.fr/shop/ingerences-americaines-3\n\nDemain matin dès 7H30, retrouvez Clémence @Houdiakova  et toute son"
+    },
+    {
+      "author_name": "Cercle Aristote",
+      "published_at": "2026-11-16 07:35",
+      "text": "⚠️ PAS DE CONFÉRENCE CE LUNDI 16 NOVEMBRE ⚠️"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-16 07:38",
+      "text": "🇺🇦🇺🇸 Les Américains proposent aux Ukrainiens de \"perdre le Donbass pour accéder à l'OTAN\"\n\n🗣️ Aline Le Bail-Kremer (@ALBK) : \"Pour les Ukrainiens il est hors de question de céder. Il faudrait en plus une consultation nationale\" #GrandMatin\n\n📻https://www.sudradio.fr/"
+    },
+    {
+      "author_name": "Valeurs actuelles",
+      "published_at": "2026-11-16 07:38",
+      "text": "🗞️ Maire UDR de Salbris (Loir-et-Cher) et conseiller régional du Centre-Val de Loire, Alexandre Avril dénonce la politisation des politiques culturelles et les nouvelles formes d’intolérance idéologique. Le normalien voit dans les pratiques d’une partie… https://l.valeursactuelles.com/aoO"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-16 07:39",
+      "text": "[Retweet de @RTLFrance] EDITO RTL - \"Super-macronisme\" : la coalition impossible pour sauver le centre ?\n\n@gernelle, directeur @LePoint, dans #RTLMatin"
+    },
+    {
+      "author_name": "Assemblée nationale",
+      "published_at": "2026-11-16 07:42",
+      "text": "🤝\"Leur engagement n’est pas reconnu à sa juste valeur !\"\n\nComment soutenir l’engagement associatif des actifs ?\n📚 Accessibilité des dispositifs existants, simplification, reconnaissance... les recommandations de @pierrickcourbon et @lilianatanguy : https://www.assemblee-nationale.fr/dyn/17/rapports/cec/l17b3450_rapport-information"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-16 07:43",
+      "text": "[Retweet de @Mancioday] « Elle ne se contentera pas d’un rôle de l’ombre » : Lola-Fleur Whittaker, les ambitions d’une insoumise qui dérange. Via @LePoint \nhttps://www.lepoint.fr/politique/elle-ne-se-contentera-pas-dun-role-de-lombre-lola-fleur-whittaker-les-ambitions-dune-insoumise-qui-RVMFDD2NU5FO7DKSJFEVXP2K7Q/"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-15 07:44",
-      "text": "«Il y a une forme de légitimation de la violence qui est extrêmement forte, notamment chez les étudiants», explique Olivier Vial, directeur du CERU et spécialiste des radicalités, dans #LaMatinaleWE\n\nToute l'info est à retrouver sur https://cnews.fr"
+      "published_at": "2026-11-16 07:44",
+      "text": "Une situation difficile. ➡️ https://mrf.lu/2-MJ6"
     },
     {
-      "author_name": "Le JDD",
-      "published_at": "2026-11-15 07:45",
-      "text": "Guillaume Kasbarian au JDD : «La liberté d’expression est un droit fondamental bien français» https://ow.ly/8MNk106IFx2"
-    },
-    {
-      "author_name": "Le JDD",
-      "published_at": "2026-11-15 07:45",
-      "text": "Kalachnikovs, explosifs, lance-roquettes : les bijouteries face à des braqueurs surarmés https://ow.ly/zq4i106IFx3"
+      "author_name": "Régis Le Sommier",
+      "published_at": "2026-11-16 07:44",
+      "text": "[Retweet de @CNEWS] En 2019, Emmanuel Macron évoquait une Russie européenne : «En 2017, quand Macron arrive au pouvoir, la première visite qu'il a en France, c'est Vladimir Poutine et il choisit Versailles», rappelle Régis Le Sommier, grand reporter, dans #LHeureInter"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-15 07:45",
-      "text": "Il n'est pas nécessaire de prendre un bateau pour traverser l'Île-de-France. ➡️ https://mrf.lu/2-0F3"
+      "published_at": "2026-11-16 07:46",
+      "text": "La chronique économique de Marc Touati du 16/11/2026 dans #LaMatinale"
     },
     {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-15 07:47",
-      "text": "«Ces engins ne servent plus à faire la fête : ils servent à blesser». ➡️ https://mrf.lu/2-0V5"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-15 07:47",
-      "text": "Mélenchon garde un œil sur Hollande, la pétition contre CNews pas enterrée… Nos indiscrétions de la semaine https://l.leparisien.fr/04dI"
-    },
-    {
-      "author_name": "Marc Vanguard",
-      "published_at": "2026-11-15 07:47",
-      "text": "[Retweet de @marc_vanguard] 🔴 Cela fait maintenant un mois que la TOTALITÉ des sondages donnent Mélenchon qualifié pour le second tour."
-    },
-    {
-      "author_name": "Dreuz",
-      "published_at": "2026-11-15 07:49",
-      "text": "« Il y a 54 pays musulmans, et  ils viennent chez moi pour me dire que le bacon et les chiens sont choquants.\n\nDésolé, mais qu’ils aillent se faire foutre ! »\n[Cite @realMaalouf] “There are 54 Muslim countries, yet they come to my home and say bacon and dogs are offensive.\n\nSorry, but they can fuck themselves!”\n\n💯"
-    },
-    {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-15 07:50",
-      "text": "Mélenchon garde un œil sur Hollande, la pétition contre CNews pas enterrée… Nos indiscrétions de la semaine\n➡️ https://l.leparisien.fr/SSbP"
-    },
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-16 07:46",
+      "text": "🚨Cyberattaque de La Poste : 22 millions de personnes concernées\n\n🗣️Clément Domingo (@_SaxX_) : \"C'est peut-être l'attaque de trop... Avec tant de données dans la nature, les escrocs vont avoir un super profil sur nous\" #GrandMatin \n\n📻https://www.sudradio.fr/"
+    }
+  ],
+  "context": [
     {
       "author_name": "Europe 1",
       "published_at": "2026-11-15 07:50",
@@ -3858,6 +3897,11 @@
       "author_name": "Les Patriotes",
       "published_at": "2026-11-15 14:16",
       "text": "[Retweet de @LesPatriotes21] 🔶 GRAND DIRECT 🔶 du vendredi 13 novembre 2026.\n\nhttps://youtube.com/live/SFsyxQ10zVo?is=yQtijgsKdPZEKAEu"
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-15 14:17",
+      "text": "Mélenchon garde un œil sur Hollande, la pétition contre CNews pas enterrée… Nos indiscrétions de la semaine\n➡️ https://l.leparisien.fr/iL3S"
     },
     {
       "author_name": "Les Patriotes",
