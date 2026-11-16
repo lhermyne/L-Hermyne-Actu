@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-16 23:27",
-  "period": "du 2026-11-15 23:27 au 2026-11-16 23:27",
-  "new_period": "du 2026-11-16 20:00 au 2026-11-16 23:27",
-  "context_period": "du 2026-11-15 23:27 au 2026-11-16 20:00",
+  "generated_at": "2026-11-16 23:58",
+  "period": "du 2026-11-15 23:58 au 2026-11-16 23:58",
+  "new_period": "du 2026-11-16 20:00 au 2026-11-16 23:58",
+  "context_period": "du 2026-11-15 23:58 au 2026-11-16 20:00",
   "coverage_complete": true,
-  "new_count": 289,
-  "context_count": 1402,
-  "duplicates_merged": 112,
+  "new_count": 299,
+  "context_count": 1381,
+  "duplicates_merged": 113,
   "empty_removed": 5,
   "new": [
     {
@@ -172,7 +172,10 @@
     {
       "author_name": "Tanguy David",
       "published_at": "2026-11-16 20:15",
-      "text": "[Retweet de @MLP_officiel] LE QUARTIER GÉNÉRAL | Suivez en direct le grand débat de Marine Le Pen sur LCI ! https://x.com/i/broadcasts/2zkZagzNkzBllM"
+      "text": "[Retweet de @MLP_officiel] LE QUARTIER GÉNÉRAL | Suivez en direct le grand débat de Marine Le Pen sur LCI ! https://x.com/i/broadcasts/2zkZagzNkzBllM",
+      "also_by": [
+        "Jordan Bardella"
+      ]
     },
     {
       "author_name": "Le Parisien",
@@ -527,7 +530,8 @@
       "published_at": "2026-11-16 21:01",
       "text": "En 10 ans, l'inflation sur l'alimentation a atteint 33% et jusqu'à 62% sur l'énergie.\n\nJe propose une TVA à 0% sur 100 produits de première nécessité et un taux à 5,5% sur l'énergie.\n\nCette bouffée d'oxygène sera immédiate.",
       "also_by": [
-        "Rassemblement National"
+        "Rassemblement National",
+        "Jordan Bardella"
       ]
     },
     {
@@ -1102,7 +1106,10 @@
     {
       "author_name": "Marine Le Pen",
       "published_at": "2026-11-16 22:13",
-      "text": "Une association qui appelle à voter pour untel ou contre untel, @rglucks1, elle fait de la politique : elle doit alors se constituer en parti politique.\n\nL’immense majorité des associations qui irriguent nos territoires ne font pas de politique. Le monde associatif est un monde"
+      "text": "Une association qui appelle à voter pour untel ou contre untel, @rglucks1, elle fait de la politique : elle doit alors se constituer en parti politique.\n\nL’immense majorité des associations qui irriguent nos territoires ne font pas de politique. Le monde associatif est un monde",
+      "also_by": [
+        "Rassemblement National"
+      ]
     },
     {
       "author_name": "Fdesouche.com est une revue de presse",
@@ -1473,130 +1480,59 @@
       "author_name": "Jon De Lorraine",
       "published_at": "2026-11-16 23:27",
       "text": "Bonne nuit."
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-15 23:28",
-      "text": "Bagarre générale, pluie de cartons rouges… Un match amical des New York Red Bull tourne au fiasco\n➡️ https://l.leparisien.fr/5vg4"
-    },
-    {
-      "author_name": "J'SUIS PAS CONTENT TV",
-      "published_at": "2026-11-15 23:29",
-      "text": "Ils utilisent Mistral par patriotisme ou ils savent pas écrire un prompt ?\n[Cite @JulienHut1] L’angoisse… on dirait les pires vidéos IA qui pullulent sur les réseaux. #CEstCanteloup"
     },
     {
       "author_name": "Le Figaro",
-      "published_at": "2026-11-15 23:30",
-      "text": "De larges zones d’ombre au procès en appel. →https://l.lefigaro.fr/mKA9"
+      "published_at": "2026-11-16 23:30",
+      "text": "Les États-Unis veulent bloquer l’accès de la Chine aux puces américaines par le biais de pays tiers → https://l.lefigaro.fr/DDZE"
     },
     {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-15 23:32",
-      "text": "France-Turquie (2-1) : pour son retour, Mbappé a manqué d’efficacité\n➡️ https://l.leparisien.fr/Dj9k"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-15 23:34",
-      "text": "Les Bleus terminent en tête de leur groupe avec 13 points et décrochent leur billet pour les quarts de finale après leur victoire 2-1 contre la Turquie. ➡️ https://mrf.lu/2-YVY"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-15 23:34",
-      "text": "«S’il y a une chose qu’on ne peut pas enlever à Éric Zemmour, c’est que sur l’immigration, il a un programme» estime Jules Torres, journaliste au JDD, dans #100PolitiqueWE\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-15 23:34",
-      "text": "Yvelines : un homme a été mis en examen et écroué après la séquestration d’un couple au Chesnay. Les victimes avaient été contraintes de transférer 900.000 euros en bitcoins. ➡️ https://mrf.lu/2-Y_k"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-15 23:35",
-      "text": "«La plus importante de ma vie» : François Hollande juge cruciale la présidentielle de 2027. L’ancien chef de l’État n’a toujours pas annoncé s’il sera candidat. ➡️ https://mrf.lu/2-Y_v"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-15 23:35",
-      "text": "Ligue des nations : fin de série pour l’Espagne, battue par l’Angleterre après 44 matchs sans défaite\n➡️ https://l.leparisien.fr/J6cV"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-15 23:35",
-      "text": "Cinq équipes ont déjà validé leur billet pour les quarts de finale de la Ligue des nations 2026-2027, dont l’Espagne, championne du monde en titre. ➡️ https://mrf.lu/2-Y_l"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-15 23:36",
-      "text": "Ardèche : un homme de 22 ans a été mis en examen et écroué pour le meurtre d’un commerçant de 55 ans à Largentière, tué à l’arme blanche. ➡️ https://mrf.lu/2-YY3"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-15 23:36",
-      "text": "Arthur Fils battu d’entrée par Ben Shelton (6-2, 3-6, 6-3) : le Français devra rebondir au Masters ATP Finals, disputé jusqu’au 22 novembre à Turin. ➡️ https://mrf.lu/2-YYB"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-15 23:40",
-      "text": "« Qui savait ? » : le ministre américain des Finances veut savoir si Nvidia a fermé les yeux sur la contrebande de puces pour IA vers la Chine\n➡️ https://l.leparisien.fr/aCUZ"
+      "author_name": "Rassemblement National",
+      "published_at": "2026-11-16 23:39",
+      "text": "Ce soir, Marine Le Pen s’est placée au-dessus de la mêlée. Pendant que ses adversaires multipliaient les attaques, elle est restée claire, cohérente et concentrée sur les problèmes des Français.\n\nPouvoir d’achat, jeunesse, retraites : elle est la seule candidate dont on retient"
     },
     {
       "author_name": "Jean-Yves Le Gallou",
-      "published_at": "2026-11-15 23:43",
-      "text": "[Retweet de @JrmCortier] Lisnard le Macron du centre droit... Bock-Côté a senti la magouille. Ne vous laissez pas voler l'élection."
+      "published_at": "2026-11-16 23:41",
+      "text": "[Retweet de @gregoirehoudan] Marine Le Pen vient de terminer Retailleau, Glucksmann et Attal 🍿\n\nUn véritable régal. \n#LeGrandDebat"
     },
     {
-      "author_name": "Jean-Yves Le Gallou",
-      "published_at": "2026-11-15 23:45",
-      "text": "[Retweet de @InstitutILIADE] PARIS : Condition animale – L’Institut Iliade annonce un colloque en 2027 pour « renouer avec l’ordre du vivant »\n\nFace à l’industrialisation et aux idéologies nouvelles, l’Institut Iliade organisera en 2027 un colloque pour repenser la place de l’animal.\n\nhttps://presseagence.fr/paris-condition-animale-linstitut-iliade-annonce-un-colloque-en-2027-pour-renouer-avec-lordre-du-vivant/"
+      "author_name": "Valeurs actuelles",
+      "published_at": "2026-11-16 23:41",
+      "text": "🗞️ REPORTAGE. À Toulon, le commandant du Charles de Gaulle dévoile quelques secrets du fleuron de la Marine nationale. Le porte-avions est en phase d’entretien après sa mission débutée dans les mers froides et achevée en mer d’Oman, face à l’Iran. Visite… https://l.valeursactuelles.com/kNf"
     },
     {
-      "author_name": "Alain Weber",
-      "published_at": "2026-11-15 23:46",
-      "text": "Je n’ai aucun problème avec le mariage pour tous, mais s’il n’a pas (encore) entraîné la gestation pour autrui en France, de nombreux couples vont faire leurs emplettes à l’étranger, et peuvent régulariser le bébé en France.\n\nJe trouve cela impensable.\n\nSi ce n’est pas moral en\n[Cite @MLP_officiel] J’ai changé d’avis sur le mariage pour tous. Il n’a pas entraîné, comme j’avais pu le craindre, la gestation pour autrui.\n\nOn peut évoluer en politique, ce n’est pas une honte."
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-16 23:42",
+      "text": "Panne d’électricité ce 17 novembre ? De Springfield au monde entier, comment un épisode des « Simpson » alimente cette rumeur\n➡️ https://l.leparisien.fr/aCUe"
     },
     {
-      "author_name": "Clément Macchi",
-      "published_at": "2026-11-15 23:47",
-      "text": "Ne jamais laisser l’IA entre les mains de plus de 50 ans\n[Cite @ftapiro] Les extrêmes à terre. La France debout. \nVivement @davidlisnard"
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-16 23:44",
+      "text": "Marine Le Pen : \"la Ligue des droits de l'homme, c'est devenu un ramassis de gauchistes\""
     },
     {
-      "author_name": "Cercle Aristote",
-      "published_at": "2026-11-15 23:50",
-      "text": "[Retweet de @Cercle_Aristote] Ce n’est que le début.\n\nMalheureusement, là aussi nous avions raison. \nL’après-guerre risque d’être très dangereux pour la sécurité des pays européens. Et le plus grand danger ne sera pas la Russie.\n\nDes personnes formées en Ukraine qui se vendront au crime organisé, des armes"
-    },
-    {
-      "author_name": "Cercle Aristote",
-      "published_at": "2026-11-15 23:50",
-      "text": "[Retweet de @Cercle_Aristote] L’UE, c’est la paie.\n\nC’est très souvent le cas de ceux qui la défendent."
-    },
-    {
-      "author_name": "Cercle Aristote",
-      "published_at": "2026-11-15 23:50",
-      "text": "[Retweet de @Cercle_Aristote] 🔴 FACE À PYR 🔴\n\n@rougeyronpierre reçoit Nicolas Delange autour de son ouvrage \"Découvrons-nous Gaulois\", pour un entretien consacré aux mythes fondateurs et à la transmission.\n\nhttps://youtu.be/g9FfCICN4NY?si=1HpcWLGVyIjgbhGW"
-    },
-    {
-      "author_name": "Cercle Aristote",
-      "published_at": "2026-11-15 23:50",
-      "text": "[Retweet de @Cercle_Aristote] Les conséquences politiques de la fiction du contrat social \n\nPourquoi le libéralisme est-il une impasse ? Jean-Luc Schaffhauser répond à cette question en s’appuyant sur son expérience politique et sa vision chrétienne de la société. \n\nRetrouvez l'entretien complet avec Jean-Luc"
+      "author_name": "Le Point",
+      "published_at": "2026-11-16 23:45",
+      "text": "Avec un PIB par habitant inférieur de près de 40 % à celui des États-Unis, la France paie le prix de son décrochage productif, qui bride aussi les salaires.\n\n➡️ https://l.lepoint.fr/nFm"
     },
     {
       "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-15 23:52",
-      "text": "Guerre en Ukraine : Volodymyr Zelensky annonce « une réunion importante » pour définir la position européenne dans les pourparlers\n➡️ https://l.leparisien.fr/6aOa",
-      "also_by": [
-        "Le Parisien"
-      ]
+      "published_at": "2026-11-16 23:47",
+      "text": "« J’ai fait de mon mieux », malgré les « erreurs » : le message crépusculaire d’Emmanuel Macron pour les dix ans de sa candidature https://l.leparisien.fr/ZkYy"
     },
     {
-      "author_name": "Jean-Yves Le Gallou",
-      "published_at": "2026-11-15 23:54",
-      "text": "[Retweet de @BVoltaire] Remigration : la Suède franchit le Rubicon et montre la voie | Par  @jeankastoff\nLa Suède ouvre la voie à une déchéance de nationalité élargie, prélude possible à une politique de remigration. \n \nhttps://www.bvoltaire.fr/remigration-la-suede-franchit-le-rubicon-et-montre-la-voie/?fsp_sid=26577",
-      "also_by": [
-        "Boulevard Voltaire"
-      ]
+      "author_name": "Pierre Sautarel",
+      "published_at": "2026-11-16 23:51",
+      "text": "Le sujet des associations est absolument capital. C’est l’un des grands angles morts du débat public : comment l’argent de nos impôts finance-t-il, par le biais des subventions et des conventions publiques, tout un écosystème militant gravitant autour de la gauche radicale et de"
     },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-16 23:54",
+      "text": "« Ne tombez pas dans cette facilité, vous êtes trop intelligent pour ça… » : Le Pen et Mélenchon donnent corps à leur duel https://l.leparisien.fr/Dj9h"
+    }
+  ],
+  "context": [
     {
       "author_name": "Jean-Yves Le Gallou",
       "published_at": "2026-11-15 23:59",
@@ -1616,6 +1552,11 @@
       "author_name": "Valeurs actuelles",
       "published_at": "2026-11-16 00:02",
       "text": "🗞️ Au milieu des forêts et des lacs, c’est le calme plat dans le corridor de Suwalki qui relie la Biélorussie à l’exclave russe de Kaliningrad. Pourtant « le point le plus dangereux de la planète », selon l’Otan. https://l.valeursactuelles.com/kNT"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-16 00:03",
+      "text": "Guerre en Ukraine : Volodymyr Zelensky annonce « une réunion importante » pour définir la position européenne dans les pourparlers\n➡️ https://l.leparisien.fr/rBNs"
     },
     {
       "author_name": "Alain Weber",
@@ -5402,6 +5343,11 @@
       "author_name": "Sud Radio",
       "published_at": "2026-11-16 13:40",
       "text": "🇫🇷 La représentation syndicale en baisse en France\n\n🗣️ Olivier Grenouilleau, historien :\"Elle est faible à cause de la politisation du syndicalisme\" #LaFranceDansTousSesEtats\n\n📻 Suivez le direct sur https://sudradio.fr et réagissez au 0 826 300 300"
+    },
+    {
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-16 13:41",
+      "text": "[Retweet de @BVoltaire] Remigration : la Suède franchit le Rubicon et montre la voie | Par  @jeankastoff\nLa Suède ouvre la voie à une déchéance de nationalité élargie, prélude possible à une politique de remigration. \n \nhttps://www.bvoltaire.fr/remigration-la-suede-franchit-le-rubicon-et-montre-la-voie/?fsp_sid=26577"
     },
     {
       "author_name": "Le Parisien",
