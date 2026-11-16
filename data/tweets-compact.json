@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-16 02:48",
-  "period": "du 2026-11-15 02:48 au 2026-11-16 02:48",
-  "new_period": "du 2026-11-15 20:00 au 2026-11-16 02:48",
-  "context_period": "du 2026-11-15 02:48 au 2026-11-15 20:00",
+  "generated_at": "2026-11-16 03:19",
+  "period": "du 2026-11-15 03:19 au 2026-11-16 03:19",
+  "new_period": "du 2026-11-15 20:00 au 2026-11-16 03:19",
+  "context_period": "du 2026-11-15 03:19 au 2026-11-15 20:00",
   "coverage_complete": true,
-  "new_count": 211,
-  "context_count": 926,
-  "duplicates_merged": 63,
+  "new_count": 212,
+  "context_count": 923,
+  "duplicates_merged": 64,
   "empty_removed": 6,
   "new": [
     {
@@ -1092,24 +1092,17 @@
       "also_by": [
         "Le Parisien"
       ]
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Alain Weber",
-      "published_at": "2026-11-15 02:54",
-      "text": "[Retweet de @SophiaAram] L’enquête historique de Daniel Szeftel, L’imposture, @EditionsduCERF est un livre important."
-    },
-    {
-      "author_name": "Alain Weber",
-      "published_at": "2026-11-15 03:08",
-      "text": "Ils en deviennent grotesques dans leurs demandes.\n\nIl faut arrêter de négocier avec des clowns.\n\nRemettez les examens de fin d’année,  c’était la meilleure formule. C’est certes plus difficile et plus stressant, mais ceux qui l’obtiennent sont les meilleurs…\n[Cite @BFMTV] Colère étudiante: \"On demande la levée de l'assiduité obligatoire pour pouvoir aller en manifestation les jours de mobilisation\", indique Sabrine Kharbach, porte-parole de l'Union étudiante"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-15 03:17",
-      "text": "« Irrespectueux » : un influenceur déguste une raclette dans un train suisse et s’attire les foudres des internautes\n➡️ https://l.leparisien.fr/UpEH"
-    },
+      "published_at": "2026-11-16 02:57",
+      "text": "« Les lois n’ont pas changé après les élections » : des migrants du Honduras se dirigent vers les États-Unis, qui refusent de les accueillir\n➡️ https://l.leparisien.fr/nDxC",
+      "also_by": [
+        "Le Parisien | politique"
+      ]
+    }
+  ],
+  "context": [
     {
       "author_name": "Élysée",
       "published_at": "2026-11-15 03:23",

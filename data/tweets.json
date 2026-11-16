@@ -1,14 +1,40 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-16T01:48:58.074Z",
+  "updated_at": "2026-11-16T02:19:03.191Z",
   "window_hours": 24,
-  "window_start": "2026-11-15T01:48:58.074Z",
+  "window_start": "2026-11-15T02:19:03.191Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1206,
+  "count": 1205,
   "tweets": [
+    {
+      "id": "2122147304568242352",
+      "created_at": "2026-11-16T01:58:39.000Z",
+      "author": "leparisien_pol",
+      "author_name": "Le Parisien | politique",
+      "type": "tweet",
+      "text": "« Les lois n’ont pas changé après les élections » : des migrants du Honduras se dirigent vers les États-Unis, qui refusent de les accueillir\n➡️ https://l.leparisien.fr/5vgE",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/leparisien_pol/status/2122147304568242352"
+    },
+    {
+      "id": "2122146938153816495",
+      "created_at": "2026-11-16T01:57:12.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "« Les lois n’ont pas changé après les élections » : des migrants du Honduras se dirigent vers les États-Unis, qui refusent de les accueillir\n➡️ https://l.leparisien.fr/nDxC",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2122146938153816495"
+    },
     {
       "id": "2122141283019862168",
       "created_at": "2026-11-16T01:34:44.000Z",
@@ -15647,45 +15673,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/Elysee/status/2121791239246823831"
-    },
-    {
-      "id": "2121789568597000590",
-      "created_at": "2026-11-15T02:17:08.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "« Irrespectueux » : un influenceur déguste une raclette dans un train suisse et s’attire les foudres des internautes\n➡️ https://l.leparisien.fr/UpEH",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2121789568597000590"
-    },
-    {
-      "id": "2121787346764939519",
-      "created_at": "2026-11-15T02:08:19.000Z",
-      "author": "alainpaulweber",
-      "author_name": "Alain Weber",
-      "type": "quote",
-      "text": "Ils en deviennent grotesques dans leurs demandes.\n\nIl faut arrêter de négocier avec des clowns.\n\nRemettez les examens de fin d’année,  c’était la meilleure formule. C’est certes plus difficile et plus stressant, mais ceux qui l’obtiennent sont les meilleurs…",
-      "retweeted_author": null,
-      "quoted_author": "BFMTV",
-      "quoted_text": "Colère étudiante: \"On demande la levée de l'assiduité obligatoire pour pouvoir aller en manifestation les jours de mobilisation\", indique Sabrine Kharbach, porte-parole de l'Union étudiante",
-      "lang": "fr",
-      "url": "https://x.com/alainpaulweber/status/2121787346764939519"
-    },
-    {
-      "id": "2121783945280819273",
-      "created_at": "2026-11-15T01:54:48.000Z",
-      "author": "alainpaulweber",
-      "author_name": "Alain Weber",
-      "type": "retweet",
-      "text": "L’enquête historique de Daniel Szeftel, L’imposture, @EditionsduCERF est un livre important.",
-      "retweeted_author": "SophiaAram",
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/alainpaulweber/status/2121783945280819273"
     }
   ]
 }
