@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-17 13:33",
-  "period": "du 2026-11-16 13:33 au 2026-11-17 13:33",
-  "new_period": "du 2026-11-17 08:00 au 2026-11-17 13:33",
-  "context_period": "du 2026-11-16 13:33 au 2026-11-17 08:00",
+  "generated_at": "2026-11-17 14:03",
+  "period": "du 2026-11-16 14:03 au 2026-11-17 14:03",
+  "new_period": "du 2026-11-17 08:00 au 2026-11-17 14:03",
+  "context_period": "du 2026-11-16 14:03 au 2026-11-17 08:00",
   "coverage_complete": false,
-  "new_count": 668,
-  "context_count": 1115,
-  "duplicates_merged": 119,
+  "new_count": 716,
+  "context_count": 1074,
+  "duplicates_merged": 124,
   "empty_removed": 2,
   "new": [
     {
@@ -3149,7 +3149,10 @@
     {
       "author_name": "Marine Le Pen",
       "published_at": "2026-11-17 13:06",
-      "text": "Nous comptons sur le dialogue social et le débat parlementaire pour améliorer nos propositions, les amender, voire en corriger certaines.\n\nAprès dix ans de macronisme, nous entendons rompre avec l’arrogance et le mépris."
+      "text": "Nous comptons sur le dialogue social et le débat parlementaire pour améliorer nos propositions, les amender, voire en corriger certaines.\n\nAprès dix ans de macronisme, nous entendons rompre avec l’arrogance et le mépris.",
+      "also_by": [
+        "Rassemblement National"
+      ]
     },
     {
       "author_name": "Le Parisien",
@@ -3159,7 +3162,10 @@
     {
       "author_name": "Marine Le Pen",
       "published_at": "2026-11-17 13:07",
-      "text": "Plus on décale l’âge légal, plus ce système injuste s’aggrave.\n\nLe courage est dans la réparation du système : mieux protéger ceux qui travaillent ou élèvent leurs enfants, et réduire quelques privilèges injustes ou obsolètes."
+      "text": "Plus on décale l’âge légal, plus ce système injuste s’aggrave.\n\nLe courage est dans la réparation du système : mieux protéger ceux qui travaillent ou élèvent leurs enfants, et réduire quelques privilèges injustes ou obsolètes.",
+      "also_by": [
+        "Rassemblement National"
+      ]
     },
     {
       "author_name": "LCP",
@@ -3169,7 +3175,10 @@
     {
       "author_name": "Marine Le Pen",
       "published_at": "2026-11-17 13:07",
-      "text": "Notre politique économique va créer un surplus de croissance et d’emploi qui renforcera notre réforme.\n\nMais afin d’être irréprochables, nous n’avons pas intégré ce surplus de croissance à notre chiffrage."
+      "text": "Notre politique économique va créer un surplus de croissance et d’emploi qui renforcera notre réforme.\n\nMais afin d’être irréprochables, nous n’avons pas intégré ce surplus de croissance à notre chiffrage.",
+      "also_by": [
+        "Rassemblement National"
+      ]
     },
     {
       "author_name": "Rassemblement National",
@@ -3179,7 +3188,10 @@
     {
       "author_name": "Marine Le Pen",
       "published_at": "2026-11-17 13:08",
-      "text": "Avec nos alliés de l’UDR d’Éric Ciotti, nous avons travaillé à la création d’un pilier de capitalisation obligatoire.\n\nSans s’attaquer aux retraités d’aujourd’hui ni augmenter des cotisations déjà très élevées : c’est le défi que nous nous sommes fixé."
+      "text": "Avec nos alliés de l’UDR d’Éric Ciotti, nous avons travaillé à la création d’un pilier de capitalisation obligatoire.\n\nSans s’attaquer aux retraités d’aujourd’hui ni augmenter des cotisations déjà très élevées : c’est le défi que nous nous sommes fixé.",
+      "also_by": [
+        "Rassemblement National"
+      ]
     },
     {
       "author_name": "Boulevard Voltaire",
@@ -3204,7 +3216,10 @@
     {
       "author_name": "Marine Le Pen",
       "published_at": "2026-11-17 13:09",
-      "text": "M. Lisnard veut désindexer les retraites au-dessus de 2 000 euros et augmenter l’impôt sur le revenu des retraités de 7 milliards d’euros.\n\nC’est son projet, ce ne sera jamais le mien."
+      "text": "M. Lisnard veut désindexer les retraites au-dessus de 2 000 euros et augmenter l’impôt sur le revenu des retraités de 7 milliards d’euros.\n\nC’est son projet, ce ne sera jamais le mien.",
+      "also_by": [
+        "Rassemblement National"
+      ]
     },
     {
       "author_name": "Radio Courtoisie",
@@ -3219,17 +3234,26 @@
     {
       "author_name": "Marine Le Pen",
       "published_at": "2026-11-17 13:10",
-      "text": "Nous avons trouvé une solution opérationnelle, qui permettra de constituer, pour la seule partie obligatoire et universelle, un fonds de quasi 900 milliards d’euros en une génération.\n\nCe pilier de capitalisation universelle sera une vraie révolution."
+      "text": "Nous avons trouvé une solution opérationnelle, qui permettra de constituer, pour la seule partie obligatoire et universelle, un fonds de quasi 900 milliards d’euros en une génération.\n\nCe pilier de capitalisation universelle sera une vraie révolution.",
+      "also_by": [
+        "Rassemblement National"
+      ]
     },
     {
       "author_name": "Marine Le Pen",
       "published_at": "2026-11-17 13:11",
-      "text": "Nous allons faire tomber l’un des derniers privilèges de notre pays : le privilège de l’accès aux services financiers, qui font la richesse d’une minorité aujourd’hui et doivent demain permettre la prospérité du plus grand nombre."
+      "text": "Nous allons faire tomber l’un des derniers privilèges de notre pays : le privilège de l’accès aux services financiers, qui font la richesse d’une minorité aujourd’hui et doivent demain permettre la prospérité du plus grand nombre.",
+      "also_by": [
+        "Rassemblement National"
+      ]
     },
     {
       "author_name": "Marine Le Pen",
       "published_at": "2026-11-17 13:12",
-      "text": "Ce pilier de capitalisation est un nouvel acquis social révolutionnaire pour les travailleurs de moins de 52 ans et les jeunes.\n\nIl leur assurera un capital de plusieurs dizaines de milliers d’euros minimum, et une vraie visibilité pour leurs projets d’avenir."
+      "text": "Ce pilier de capitalisation est un nouvel acquis social révolutionnaire pour les travailleurs de moins de 52 ans et les jeunes.\n\nIl leur assurera un capital de plusieurs dizaines de milliers d’euros minimum, et une vraie visibilité pour leurs projets d’avenir.",
+      "also_by": [
+        "Rassemblement National"
+      ]
     },
     {
       "author_name": "Frontières",
@@ -3249,7 +3273,10 @@
     {
       "author_name": "Marine Le Pen",
       "published_at": "2026-11-17 13:13",
-      "text": "La réparation du système par répartition et la capitalisation qui permettra à tous de devenir actionnaire de la Maison France : cette double réforme constitue la plus grande avancée sociale depuis la fin des Trente Glorieuses."
+      "text": "La réparation du système par répartition et la capitalisation qui permettra à tous de devenir actionnaire de la Maison France : cette double réforme constitue la plus grande avancée sociale depuis la fin des Trente Glorieuses.",
+      "also_by": [
+        "Rassemblement National"
+      ]
     },
     {
       "author_name": "Europe 1",
@@ -3269,7 +3296,10 @@
     {
       "author_name": "Marine Le Pen",
       "published_at": "2026-11-17 13:14",
-      "text": "Sous mon premier quinquennat, des centaines de milliers de travailleurs partiront plus tôt : entre 2 et 3 années gagnées par rapport à ce qu’aurait imposé la réforme Borne.\n\nIls prendront leur retraite avant de multiplier les risques de maladie, d’invalidité ou de chômage subi."
+      "text": "Sous mon premier quinquennat, des centaines de milliers de travailleurs partiront plus tôt : entre 2 et 3 années gagnées par rapport à ce qu’aurait imposé la réforme Borne.\n\nIls prendront leur retraite avant de multiplier les risques de maladie, d’invalidité ou de chômage subi.",
+      "also_by": [
+        "Rassemblement National"
+      ]
     },
     {
       "author_name": "Samuel Lafont",
@@ -3279,7 +3309,10 @@
     {
       "author_name": "Marine Le Pen",
       "published_at": "2026-11-17 13:15",
-      "text": "Je refuse de n’avoir à proposer aux Français, par lâcheté, que la gestion de la pénurie et la résignation.\n\nLa Renaissance de la France impose que notre pays renoue avec l’espérance que demain sera meilleur qu’aujourd’hui et meilleur qu’hier."
+      "text": "Je refuse de n’avoir à proposer aux Français, par lâcheté, que la gestion de la pénurie et la résignation.\n\nLa Renaissance de la France impose que notre pays renoue avec l’espérance que demain sera meilleur qu’aujourd’hui et meilleur qu’hier.",
+      "also_by": [
+        "Rassemblement National"
+      ]
     },
     {
       "author_name": "Agence France-Presse",
@@ -3440,268 +3473,255 @@
       "author_name": "Marine Le Pen",
       "published_at": "2026-11-17 13:30",
       "text": "Le système des retraites n’est pas déconnecté du reste de l’économie, ni du reste des réformes que nous souhaitons mettre en œuvre.\n\nLes filières professionnelles et technologiques doivent faire l’objet d’une vraie volonté politique de développement."
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Comité Trump France",
-      "published_at": "2026-11-16 13:34",
-      "text": "Le tweet de dingue quand on y pense\n[Cite @JLMelenchon] #fusillade : Est-il possible d'attendre de connaître les faits avant de passer aux commentaires ?"
     },
     {
-      "author_name": "Frontières",
-      "published_at": "2026-11-16 13:34",
-      "text": "Nantes : une équipe de CNews cloîtrée dans un lycée pour assurer sa sécurité.\n\nhttps://www.frontieresmedia.fr/societe/nantes-une-equipe-de-cnews-cloitree-dans-un-lycee-pour-assurer-sa-securite---20837"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-16 13:34",
-      "text": "Présidentielle 2027 : « qu’on me lâche la grappe », la réponse de Marine Tondelier à Sandrine Rousseau qui l’appelle à se retirer https://l.leparisien.fr/9FSm",
-      "also_by": [
-        "Le Parisien | politique"
-      ]
-    },
-    {
-      "author_name": "Marine Le Pen",
-      "published_at": "2026-11-16 13:35",
-      "text": "Dans certaines académies, 20 % des jeunes inscrits à l’université ne passent même pas l’examen.\n\nL’université n’est pas une garderie. On ne vous accepte pas pour que vous passiez le temps, mais pour que vous fassiez des études. Sinon, vous prenez la place d’autres.",
-      "also_by": [
-        "Rassemblement National"
-      ]
-    },
-    {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-16 13:35",
-      "text": "Un gardien de gymnase violemment agressé au Pré-Saint-Gervais : le maire le décrit « défiguré » aux urgences. La victime et la mairie annoncent des plaintes. https://www.fdesouche.com/2026/11/16/le-pre-saint-gervais-93-un-gardien-de-gymnase-agresse-en-plein-service-hospitalise-defigure-selon-le-maire/"
-    },
-    {
-      "author_name": "Comité Trump France",
-      "published_at": "2026-11-16 13:35",
-      "text": "Le pur bonheur pour tout le monde."
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-16 13:36",
-      "text": "«Slow Horses» va tirer sa révérence : Olivia Cooke révèle que la saison 8, actuellement en tournage, sera probablement la dernière. Diffusion attendue en 2028. https://mrf.lu/2-WMD"
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-17 13:34",
+      "text": "[Retweet de @BVoltaire] Crépol : en appel, le parquet général ne retient pas la qualification de racisme | Par  @alienordep\n« Le parquet, censé défendre la société, se fait le défenseur des mis en cause », dénonce l'AGRIF. \n@Agrif_ @YannBaly \nhttps://www.bvoltaire.fr/crepol-en-appel-le-parquet-general-ne-retient-pas-la-qualification-de-racisme/?fsp_sid=26675"
     },
     {
       "author_name": "Radio Courtoisie",
-      "published_at": "2026-11-16 13:38",
-      "text": "https://x.com/i/broadcasts/2aWQKzAmAvqLKK"
+      "published_at": "2026-11-17 13:35",
+      "text": "💥 « Le 12 novembre, un jour avant la commémoration des attentats du 13 novembre, il y a un concert au Bataclan et des gens, durant le concert, ont crié “ACAB”. […] Ils ont commencé à insulter cette personne qui était un rescapé du Bataclan. […] Je trouve ça assez scandaleux de"
     },
     {
-      "author_name": "Comité Trump France",
-      "published_at": "2026-11-16 13:39",
-      "text": "Au regard du futur promis sans elle, la remigration est une position politique extrêmement modérée."
-    },
-    {
-      "author_name": "Damien Rieu",
-      "published_at": "2026-11-16 13:39",
-      "text": "[Retweet de @gillesplatret] Ce matin, la Ville de @Chalon_officiel a repris possession de l'ancienne halle de Sainte-Marie, indûment occupée par une mosquée depuis 1979.\n\nLa loi de Séparation de 1905 est donc désormais respectée à Chalon. \n\nLe 22 septembre dernier, le Tribunal administratif de Dijon avait"
-    },
-    {
-      "author_name": "Marine Le Pen",
-      "published_at": "2026-11-16 13:40",
-      "text": "Les jeunes de moins de 30 ans ne paieront pas d’impôt sur le revenu jusqu’à 4 fois le SMIC.\n\nLe permis de conduire sera pris en charge par l’État. À la campagne, sans voiture, les jeunes sont obligés de renoncer à leur travail. Ça, on ne peut pas l’admettre.",
-      "also_by": [
-        "Rassemblement National"
-      ]
-    },
-    {
-      "author_name": "Le Point",
-      "published_at": "2026-11-16 13:40",
-      "text": "Étienne Gernelle sur RTL : le « super-macronisme », avenir du bloc central ?\n\nPar @gernelle https://l.lepoint.fr/lGg"
+      "author_name": "Gilbert Collard",
+      "published_at": "2026-11-17 13:35",
+      "text": "🔴 Chers amis, chers ennemis, retrouvons-nous à 18h pour \"Quelle semaine \" sur ma chaîne #Youtube ! \n🎥 ARCOMISÉ !\n✅ Abonnez-vous pour recevoir une alerte à chaque nouvelle vidéo. \nhttps://youtube.com/@collardofficiel?si=0bxeb69CKX3X9cTk"
     },
     {
       "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-16 13:40",
-      "text": "En pleine nuit, des automobilistes arrêtés par de faux gendarmes en treillis et armés de répliques de fusils. Deux hommes de 21 et 22 ans et une femme de 28 ans interpellés. https://www.fdesouche.com/2026/11/16/indre-et-loire-37-trois-faux-gendarmes-treillis-armes-airsoft-controles-routiers-nuit/"
+      "published_at": "2026-11-17 13:35",
+      "text": "Lors d’un cours en visioconférence ce vendredi 13 novembre, un professeur d’histoire-géographie d’un lycée de Paris a été menacé de mort. Mohamed lui a notamment lancé : « Je vais t’égorger à la Samuel Paty »\n[Cite @F_Desouche] À Paris, un inconnu s'est introduit dans le cours à distance d'une classe de terminale et a proféré des menaces de mort devant les élèves. Plainte et enquête ouvertes, vidéo disponible.\nhttps://www.fdesouche.com/2026/11/17/paris-75-menace-samuel-paty-professeur-visio-lycee-edgar-quinet/"
     },
     {
-      "author_name": "Damien Rieu",
-      "published_at": "2026-11-16 13:40",
-      "text": "[Retweet de @MarionMarechal] 🍎 On marche sur la tête !\n\nÀ Bruxelles, le café du Parlement européen propose des pommes qui ont fait 18 000 km depuis la Nouvelle-Zélande et des bananes du Costa Rica au détriment de nos producteurs français ou européens. \n\nJ’ai décidé d’alerter la présidente du Parlement"
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-17 13:35",
+      "text": "« On fait cours en entendant les tirs de mortiers » : au lycée « tranquille » de Jouy-le-Moutier, des professeurs tristes et traumatisés\n➡️ https://l.leparisien.fr/Ggzk"
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-17 13:37",
+      "text": "Guerre en Ukraine : « Moins le temps d’ajuster leur tir », avec ses drones à réaction Geran-5, la Russie fait vaciller la défense aérienne de Kiev\n➡️ https://l.leparisien.fr/9FSg",
+      "also_by": [
+        "Le Parisien"
+      ]
+    },
+    {
+      "author_name": "Le Média en 4⃣-4⃣-2⃣",
+      "published_at": "2026-11-17 13:38",
+      "text": "Fonction publique : 29 euros brut par mois en moyenne, la macronie organise la distribution des miettes https://lemediaen442.fr/fonction-publique-29-euros-brut-par-mois-en-moyenne-la-macronie-organise-la-distribution-des-miettes/\n\n29 euros brut mensuels en moyenne, c’est assez pour fabriquer une annonce ministérielle. Pour fabriquer une  politique salariale à la hauteur des"
+    },
+    {
+      "author_name": "Tocsin",
+      "published_at": "2026-11-17 13:38",
+      "text": "🎙️Le calvaire des victimes : traite d’êtres humains, viols avec tortures sur un bébé de 5 mois…\n\n🔗https://youtu.be/e-UV7T7DiFw\n\n🗣️@AudugeSophie @hsellier"
+    },
+    {
+      "author_name": "Frontières",
+      "published_at": "2026-11-17 13:39",
+      "text": "🚨 ALERTE - Pour la grève du 17 novembre, l’ensemble de la CRS 8 ne sera PAS MOBILISÉE car TOUT SON EFFECTIF CONSULTE un médecin. (BFM TV)"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-17 13:40",
+      "text": "\"Il y a des gens qui construisent leur retraite en achetant des petits appartements par-ci, par-là, toutes les professions libérales, les agriculteurs, etc., qui n'ont pas cotisé pour une vraie retraite.\" remarque @gabriellecluzel #Europe1 #ChristineKellyEtVous @christine_kelly"
+    },
+    {
+      "author_name": "Occidentis",
+      "published_at": "2026-11-17 13:41",
+      "text": "🚨⚡️ CRS8, CRS26... Crise inédite au sein des compagnies de maintien de l’ordre \n\nSelon le syndicat UN1TÉ, 100 % des policiers de la CRS 26 ont cessé le travail à la suite d’un appel à la grève. \n\nDes centaines de CRS épuisés n’ont pas pu prendre leur service ce 17 novembre et"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-17 13:41",
+      "text": "« Elle réagit comme si elle était encore Première ministre » : la fronde risquée de Kaja Kallas à Bruxelles\n\nPar @Eberretta https://l.lepoint.fr/O1n"
+    },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-17 13:42",
+      "text": "[Retweet de @AudeBariety] ANALYSE @Le_Figaro - Deux mois après les élections régionales dans l’est du pays, le Mecklembourg-Poméranie-Occidentale est le premier des trois Länder concernés, avant la Saxe-Anhalt et Berlin, à se doter d’une nouvelle gouvernance. https://www.lefigaro.fr/international/allemagne-la-sociale-democrate-manuela-schwesig-reelue-dans-le-mecklembourg-pomeranie-occidentale-20261117"
+    },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-17 13:42",
+      "text": "[Retweet de @laurenetrillard] @Le_Figaro À #Nantes, la situation se tend. Près de l'hôtel Dieu, des manifestants sont dispersés avec le canon à eau et du gaz lacrymogène."
+    },
+    {
+      "author_name": "L'Express",
+      "published_at": "2026-11-17 13:43",
+      "text": "Le ralentissement économique pèse sur les entreprises et leurs salariés. Selon l'Apec, les projets de recrutement sont à un niveau historiquement bas, tandis que la crainte du licenciement progresse.\n\n➡️ https://l.lexpress.fr/gjD"
+    },
+    {
+      "author_name": "VA+",
+      "published_at": "2026-11-17 13:46",
+      "text": "🔴 « Il n'y a pas plus grand danger pour le pays que l'extrême droite », affirme Sophie Binet sur BFMTV.\n\nLa secrétaire générale de la CGT accuse le RN de menacer les droits des salariés et les libertés démocratiques.\n\nElle promet de combattre ses éventuelles réformes"
+    },
+    {
+      "author_name": "Marc Vanguard",
+      "published_at": "2026-11-17 13:47",
+      "text": "[Retweet de @marc_vanguard] Oui."
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-17 13:47",
+      "text": "« La seule limite, c’est l’imagination » : les pompiers de l’Oise recréent le département en réalité virtuelle pour s’entraîner\n➡️ https://l.leparisien.fr/orad"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-17 13:49",
+      "text": "💬 David Lisnard : « Ma candidature à la présidentielle découle de mon expérience de maire »\n\nPar @Jeromecordelier https://l.lepoint.fr/UBb"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-17 13:50",
+      "text": "Mobilisation du 17 novembre : la CRS 8 ne sera pas mobilisée. Plus de 1.000 CRS ont pris rendez-vous pour une consultation médicale, selon une source policière. https://mrf.lu/2wD95"
+    },
+    {
+      "author_name": "Valeurs actuelles",
+      "published_at": "2026-11-17 13:51",
+      "text": "🗞️ Le parquet général de Grenoble demande à la cour d'appel d'écarter la circonstance aggravante de racisme. La décision finale de la cour d'appel est attendue le 18 décembre 2026.\n\n🔗 https://l.valeursactuelles.com/v9A"
+    },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-17 13:52",
+      "text": "[Retweet de @LeFigaroTV] «Le tout sécuritaire, animé par le contrôle, créé de l’insécurité et nous rend vulnérable. Et fait grimper certaines idéologies : l’extrême droite en profite largement», déplore Olivier Hamant, biologiste, dans Libre à Vous présenté par @GuyonneM."
+    },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-17 13:52",
+      "text": "[Retweet de @LeFigaroTV] «40% de la production alimentaire mondiale n’arrive jamais dans un estomac. Et avec les deux tiers restants, on fait surtout des obèses. Il ne faut donc pas plus produire, mais mieux distribuer», affirme le biologiste Olivier Hamant dans Libre à Vous présenté par @GuyonneM."
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-17 13:52",
+      "text": "Maître Anthony Bem, avocat, réagit au refrain de la révolte entendu dans les manifestations : «La vie est dure mais on est loin de la vie lors de la Révolution française» #PoliceJustice24H\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-17 13:53",
+      "text": "Les inégalités de revenus limitent davantage les choix de vie des femmes https://ow.ly/7xaq106IQN4"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-17 13:54",
+      "text": "« Ne plus être seules » : à Chartres, une maison des grands-parents à taille humaine où des seniors vivent ensemble\n➡️ https://l.leparisien.fr/yIiK"
+    },
+    {
+      "author_name": "Ni Oubli Ni Pardon",
+      "published_at": "2026-11-17 13:55",
+      "text": "11/2026 Jay Bhattacharya, directeur des NIH, a nommé John Powers à la tête du NIAID, l'institut dirigé pendant 40 ans par Anthony Fauci : « Il n'y aura plus de gain de fonction dangereux sous la direction de John. » À propos de la pandémie, il a déclaré : « Cela ressemblait à une"
+    },
+    {
+      "author_name": "Nicolas Dupont-Aignan",
+      "published_at": "2026-11-17 13:55",
+      "text": "SCANDALEUX ! Menacer de mort un enseignant est devenu un fait divers presque ordinaire. Quand ceux qui transmettent le savoir doivent craindre pour leur propre sécurité, c’est toute notre société qui s’effondre.\n\nRetrouvez mon projet présidentiel 2027 pour reconstruire l’école du"
+    },
+    {
+      "author_name": "Tocsin",
+      "published_at": "2026-11-17 13:57",
+      "text": "🪖 « Le but de cette opération est de faire monter la tension et d’expliquer aux Français qu’on est déjà en guerre contre la Russie ! »\n\n🈺 « Moi, ce qui m’étonne, ce n’est pas tellement cette nouvelle qui, finalement, n’en est pas une. C’est pourquoi ça sort ? Et sur un média"
+    },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-17 13:57",
+      "text": "[Retweet de @Simon_pierr2] À Bordeaux, le cortège de manifestants s’est élancé dans une ambiance plutôt festive. Plusieurs milliers de personnes sont mobilisées. #17novembre2026 #Manifestation #Bordeaux  ￼"
+    },
+    {
+      "author_name": "Franc-Tireur",
+      "published_at": "2026-11-17 13:57",
+      "text": "En prétendant qu’une fois à l’Élysée elle changera de l’intérieur l’Union européenne, Marine Le Pen ment effrontément. Car son souhait, c’est la mort de l’UE.\n\n✍️ par  : @davidmedioni & @BenjaminSire \n\n🔗 : https://urls.fr/q_24-h"
+    },
+    {
+      "author_name": "L'Express",
+      "published_at": "2026-11-17 13:58",
+      "text": "Le porte-parole du ministère iranien des Affaires étrangères a démenti ce mardi un article de CNN selon lequel l'Iran prévoyait de faire exploser une bombe sale à Washington, affirmant...\n\n➡️ https://l.lexpress.fr/cvp"
+    },
+    {
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-17 13:58",
+      "text": "Nantes : le journaliste Augustin Donnadieu revient sur les images. Il a été mis en sécurité dans une salle isolée face aux menaces des élèves du lycée Nelson-Mandela"
+    },
+    {
+      "author_name": "Dreuz",
+      "published_at": "2026-11-17 13:58",
+      "text": "Israël va-t-il attaquer l’Iran seul ? https://www.dreuz.com/2026/11/israel-va-t-il-attaquer-liran-seul-333926.html"
     },
     {
       "author_name": "Sud Radio",
-      "published_at": "2026-11-16 13:40",
-      "text": "🇫🇷 La représentation syndicale en baisse en France\n\n🗣️ Olivier Grenouilleau, historien :\"Elle est faible à cause de la politisation du syndicalisme\" #LaFranceDansTousSesEtats\n\n📻 Suivez le direct sur https://sudradio.fr et réagissez au 0 826 300 300"
+      "published_at": "2026-11-17 13:59",
+      "text": "Un espoir chez un candidat dans le paysage politique actuel ?\n\n🗣️ @Eric_R_Lombard :\"Je vais être très clair : non. En janvier, il faut trouver un candidat commun\" #LaFranceDansTousSesEtats\n\n📻 Suivez le direct sur https://sudradio.fr"
     },
     {
-      "author_name": "Boulevard Voltaire",
-      "published_at": "2026-11-16 13:41",
-      "text": "[Retweet de @BVoltaire] Remigration : la Suède franchit le Rubicon et montre la voie | Par  @jeankastoff\nLa Suède ouvre la voie à une déchéance de nationalité élargie, prélude possible à une politique de remigration. \n \nhttps://www.bvoltaire.fr/remigration-la-suede-franchit-le-rubicon-et-montre-la-voie/?fsp_sid=26577"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-16 13:42",
-      "text": "Invité à une réunion à Matignon, le président du Loiret n’ira pas et entre « en résistance » avec le gouvernement\n➡️ https://l.leparisien.fr/YiQb"
-    },
-    {
-      "author_name": "Frontières",
-      "published_at": "2026-11-16 13:42",
-      "text": "« On fait de la réalité, eux ils la font pas ! »\n\n🚨 Pascal Praud RECADRE Benjamin Duhamel qui s’est (encore) attaqué à CNEWS."
-    },
-    {
-      "author_name": "Occidentis",
-      "published_at": "2026-11-16 13:43",
-      "text": "🚨⚡️ Une marche nationale contre le racisme anti-Blanc, contre les casseurs et pour un nouvel ordre est organisée ce dimanche 22 novembre, à Angers. (@gannat_JEG)"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-16 13:44",
-      "text": "Jordan Bardella est l'invité de Laurence Ferrari ce mardi 17 novembre sur CNEWS à partir de 21 heures. Il répondra notamment aux questions de Français. https://mrf.lu/2-WJN"
-    },
-    {
-      "author_name": "Marine Le Pen",
-      "published_at": "2026-11-16 13:45",
-      "text": "Nous permettrons aux jeunes de voyager en train gratuitement aux heures creuses, pour retourner voir leur famille ou visiter le pays.\n\nEt la baisse de la TVA de 20 à 5,5 % sur le gaz, l’électricité, les carburants et le fioul sera une aide considérable pour les jeunes.",
-      "also_by": [
-        "Rassemblement National"
-      ]
-    },
-    {
-      "author_name": "Eric Zemmour",
-      "published_at": "2026-11-16 13:48",
-      "text": "Emmanuel Macron prétend avoir supprimé le numerus clausus, mais il l’a seulement rebaptisé.\n\nPendant ce temps, presque toute la France est devenue un désert médical, alors qu’il n’y a jamais eu autant d’emplois publics.\n\nJe remplacerai ce concours par un examen, pour former enfin"
+      "author_name": "Alain Weber",
+      "published_at": "2026-11-17 13:59",
+      "text": "[Retweet de @jsferjou] Tout se rapproche toujours du RN et du fascisme aux yeux de Patrick Cohen (y compris la réalité… on se souvient de ses demonstrations sur Crépol, désormais démenties par la Justice)\n\nIl « excelle » dans la disqualification a priori de candidats de droite dans une forme perverse"
     },
     {
       "author_name": "Ligne Droite • La matinale de RC",
-      "published_at": "2026-11-16 13:48",
-      "text": "[Retweet de @philippeherlin] Mon passage sur @Ligne__Droite pour parler du SMIC, de la baisse du pouvoir d'achat (je donne des chiffres sur le plein de carburant, le napoléon), de l'appauvrissement généralisé, même des cadres (16')\nhttps://youtu.be/njaUzqRjsq0?si=HdcNU3z09rWd41j2"
+      "published_at": "2026-11-17 14:00",
+      "text": "🤜 2027 : quel plan de David Lisnard pour arrêter le narcotrafic ?\n🗣️ @blanc_etienne, porte-voix de Nouvelle Énergie\nEntretien complet :\n👉 https://youtu.be/zSfe2SuNfdM\n🎙️ Avec @a_degalzain sur @radiocourtoisie"
     },
     {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-16 13:49",
-      "text": "Nommés à plusieurs reprises, jamais récompensés : Glenn Close et Ridley Scott ont enfin leur Oscar. Une statuette d’honneur pour deux légendes ! https://mrf.lu/2-4Gs"
+      "author_name": "Tocsin",
+      "published_at": "2026-11-17 14:00",
+      "text": "🔵 Macha Sénile complètement folle après une cyberattaque sur des frigos !\n\nRéécouter l'émission 🔗https://www.youtube.com/live/3Xr4W1rOie8?si=hacuNKnceKFOibFW"
     },
     {
-      "author_name": "Marine Le Pen",
-      "published_at": "2026-11-16 13:50",
-      "text": "J’ai envie qu’un jeune qui hésite à voter s’écoute et regarde quelle offre politique lui offre un avenir, sans lui faire de fausses promesses.\n\nAux jeunes qui partent à l’étranger, je dis : je veux que vous restiez. On a tellement de choses à faire.",
-      "also_by": [
-        "Rassemblement National"
-      ]
+      "author_name": "Cour de cassation",
+      "published_at": "2026-11-17 14:00",
+      "text": "🎙️[Podcast] La Sociale Le Mag' n°50, novembre 2026 : « Les heures supplémentaires » https://x.com/i/broadcasts/2nQqyvKAQPERBZ"
     },
     {
-      "author_name": "Frontières",
-      "published_at": "2026-11-16 13:51",
-      "text": "🚨 ALERTE - Ce lundi, la ville de Chalons-sur-Saône a repris possession de l’ancienne halle de Sainte-Marie, OCCUPÉE depuis 47 ans par une ASSOCIATION cultuelle MUSULMANE, qui violait la loi de séparation des Églises et de l’État de 1905. (@gillesplatret)"
-    },
-    {
-      "author_name": "Occidentis",
-      "published_at": "2026-11-16 13:51",
-      "text": "⚡️ « Avec Maria-Carolina, c’est du sérieux » \n\nQuestionné sur un mariage avec sa compagne actuelle, Jordan Bardella répond."
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-17 14:00",
+      "text": "Une adolescente de 16 ans a été attirée dans un guet-apens au lac de la Ramée, à Tournefeuille (Haute-Garonne), puis  https://www.fdesouche.com/2026/11/17/tournefeuille-31-adolescente-16-ans-guet-apens-lac-ramee-trois-femmes-condamnees/"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-16 13:51",
-      "text": "Vladimir Poutine a-t-il fait supprimer le nom de famille de son petit-fils pour éviter qu’il ne se prénomme Zelensky ?\n➡️ https://l.leparisien.fr/AA4Z",
+      "published_at": "2026-11-17 14:00",
+      "text": "Présidentielle 2027 : suppression de Parcoursup et du contrôle continu, épreuves en mai… Les mesures de Marine Le Pen pour le bac https://l.leparisien.fr/wZpb",
       "also_by": [
         "Le Parisien | politique"
       ]
     },
     {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-16 13:52",
-      "text": "😡 Andy, auditeur de Sud Radio :\" Le coût de la vie est trop cher. Aujourd'hui, on travaille pour rien\" #LaFranceDansTousSesEtats\n\n📻 Suivez le direct sur https://sudradio.fr réagissez au 0 826 300 300"
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-17 14:00",
+      "text": "Léon XIV reçoit un coup de chapelet au visage lors d'une déambulation au Pérou."
     },
     {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-16 13:52",
-      "text": "Un homme de 44 ans a été mis en examen et placé en détention provisoire ce dimanche après le meurtre de son ex-compagne à Charleville-Mézières (Ardennes). https://mrf.lu/2-4ct"
+      "author_name": "Causeur.fr",
+      "published_at": "2026-11-17 14:01",
+      "text": "\"Sur France Inter, dans l’émission « Le masque et la plume », Pierre Murat, seul contre tous, évoqua un film « un peu morne, un peu mou, pas très bon ». Le public a tranché : après quinze jours d’exploitation en salles, le film Mémoire de fille n’a attiré que… 45 158"
     },
     {
-      "author_name": "Marine Le Pen",
-      "published_at": "2026-11-16 13:55",
-      "text": "Ce qui arrive à notre pays n’est pas le fait du hasard, ce sont de mauvaises décisions politiques. De bonnes décisions politiques peuvent avoir de bons résultats.\n\nOn n’a pas le droit de désespérer quand on est jeune. Demain peut être beau, demain peut être grand à nouveau.",
-      "also_by": [
-        "Rassemblement National"
-      ]
+      "author_name": "Occidentis",
+      "published_at": "2026-11-17 14:01",
+      "text": "🚨⚡️ Environ 1 000 CRS à l'arrêt pour raisons médicales ou par protestation révèle Mickaël Dequin, délégué national du syndicat UN1TE."
     },
     {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-16 13:55",
-      "text": "Il venait acheter des friandises : un garçon de 10 ans aurait été mis au travail dans une supérette. Son père dénonce aussi des violences et raconte ses cauchemars depuis l’affaire. https://www.fdesouche.com/2026/11/16/crest-26-enfant-10-ans-travail-illegal-superette-crestore-violences-pere-enquete/"
+      "author_name": "LCP",
+      "published_at": "2026-11-17 14:01",
+      "text": "🔵🏛️[DIRECT] Mobilisations sociales et réponses du gouvernement, situation dans les lycées, renforcement de la cybersécurité, liste de noms trouvée chez l'auteur de l'attentat raciste de Trappes, Ukraine, COP31...\n\n➡️ Questions au gouvernement sur LCP https://x.com/i/broadcasts/2onqqAndARBkKZ"
     },
     {
-      "author_name": "Le Jarl",
-      "published_at": "2026-11-16 13:57",
-      "text": "La démocratie selon l’Arcom. Nous devons soutenir et avoir de bons mots pour @GilbertCollard et @Aminelkhatmi .",
-      "also_by": [
-        "Gilbert Collard"
-      ]
+      "author_name": "Tocsin",
+      "published_at": "2026-11-17 14:02",
+      "text": "🌐 Le JTT TV !\n\n🎙️ La parodie bientôt interdite par la Macronie !\n\n🔗 https://youtu.be/nLq4oqiBEnI\n\n🗣️ @tomseraphine & @ValSchrmr"
     },
     {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-16 13:57",
-      "text": "Maître Nathalie Tomasini, avocate pénaliste, sur nos journalistes ciblés au lycée Nelson-Mandela de Nantes : «Mandela, c'est légalité et surtout la non-violence. Et on assiste à ça ! Il y a un paradoxe qui est très clair», dans #PoliceJustice24H"
+      "author_name": "Dreuz",
+      "published_at": "2026-11-17 14:02",
+      "text": "Nous sommes dans une république d’enfants-rois présidée par un enfant https://www.dreuz.com/2026/11/nous-sommes-dans-une-republique-denfants-rois-presidee-par-un-enfant-333943.html"
     },
     {
-      "author_name": "Agence France-Presse",
-      "published_at": "2026-11-16 13:58",
-      "text": "✍️ Les médias détenus par LVMH, dont Le Parisien/Aujourd'hui en France et Les Echos, ont signé un accord avec OpenAI pour rendre leurs contenus \"plus accessibles dans ChatGPT\", ont annoncé les signataires. Le montant de cet accord n'a pas été précisé."
-    },
-    {
-      "author_name": "Le JDD",
-      "published_at": "2026-11-16 13:59",
-      "text": "Réforme des retraites du RN, journée de grève nationale... Les 4 infos dont vous allez entendre parler demain https://ow.ly/UyKu106IKFS"
-    },
-    {
-      "author_name": "Boulevard Voltaire",
-      "published_at": "2026-11-16 13:59",
-      "text": "[Retweet de @SVilleroche] « Le pays s’installe dans un état potentiellement pré-conflictuel » https://www.bvoltaire.fr/entretien-le-pays-sinstalle-dans-un-etat-potentiellement-pre-conflictuel/ ⬇️\nretrouvez mon entretien avec Marc Henri Wronski au sujet de son livre \"La République au bord du chaos\" (ed Godefroy de Bouillon co écrit avec Thierry Légier @BVoltaire"
-    },
-    {
-      "author_name": "Boulevard Voltaire",
-      "published_at": "2026-11-16 13:59",
-      "text": "[Retweet de @Europe1] Crépol : « Il se passe quelque chose dans notre pays qui s'appelle, osons le dire, le racisme anti-blanc », assure Gabrielle Cluzel https://ow.ly/x0tp106IKCa"
-    },
-    {
-      "author_name": "Ligne Droite • La matinale de RC",
-      "published_at": "2026-11-16 14:00",
-      "text": "🤜 Pourquoi le \"vivre-ensemble\" mène à l’islamisation\n🗣️ @LierdeXavier, journaliste pour Radio Courtoisie\nEntretien complet :\n👉 https://youtu.be/Krl06YBkHHs\n🎙️ Avec @Liselotte_Dtrl sur @radiocourtoisie"
-    },
-    {
-      "author_name": "Marine Le Pen",
-      "published_at": "2026-11-16 14:00",
-      "text": "Si je n’avais qu’un seul message à adresser à la jeunesse française : de l’audace, de l’audace, encore de l’audace."
-    },
-    {
-      "author_name": "Kroc Blanc",
-      "published_at": "2026-11-16 14:00",
-      "text": "[Retweet de @samirlima77340] @TiboInShape @AmineMaTue @Final_Slam Tibo c’est vraiment la France qu’on aime 💪🏾💪🏾"
-    },
-    {
-      "author_name": "Boulevard Voltaire",
-      "published_at": "2026-11-16 14:00",
-      "text": "[Retweet de @jean_bexon] BV | Selon mes infos, le procès de Raphaël Arnault pour menace contre le père de la régisseuse du Bataclan, tuée lors de l'attentat, n'aura finalement pas lieu ce 17 novembre. Le procès aura lieu l'année prochaine. \nRaphaël Arnault avait déclaré à Patrick Jardin : « On va vous"
-    },
-    {
-      "author_name": "Valeurs actuelles",
-      "published_at": "2026-11-16 14:00",
-      "text": "🔴 [EXCLUSIF] Notre Radiographie de la droite réalisée par l'Ifop pour Valeurs actuelles révèle une domination de Marine Le Pen qui déborde largement ses thèmes de prédilection.\n\n🔗 https://l.valeursactuelles.com/rm4"
-    },
-    {
-      "author_name": "Boulevard Voltaire",
-      "published_at": "2026-11-16 14:00",
-      "text": "[Retweet de @BVoltaire] Sur France Inter, un critique empêché de parler du bouquin de Rima Hassan ! | Par  @FredericSirgant\nEvidemment, Mélenchon a crié à la censure ! \n \nhttps://www.bvoltaire.fr/sur-france-inter-un-critique-empeche-de-parler-du-bouquin-de-rima-hassan/?fsp_sid=26587"
-    },
-    {
-      "author_name": "L'Express",
-      "published_at": "2026-11-16 14:01",
-      "text": "Selon une étude publiée ce lundi, la politique de répression de l'immigration et la refonte de l'Enseignement supérieur seraient les principales causes de cette tendance.\n\n➡️ https://l.lexpress.fr/6mn"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-16 14:02",
-      "text": "Des galères du premier jeu en 1997 au mastodonte actuel : comment « GTA » s’est imposé comme l’une des principales licences au monde\n➡️ https://l.leparisien.fr/rBNu"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-16 14:03",
-      "text": "‼️ Du personnel éducatif complice de certaines dégradations dans les lycées ? \n\n🎙️ \"La seule sanction possible, c’est la révocation\" dénonce @PhDavidMtb https://www.sudradio.fr/editorialistez/philippe-david-la-seule-sanction-possible-cest-la-revocation"
-    },
+      "author_name": "Alain Weber",
+      "published_at": "2026-11-17 14:03",
+      "text": "[Retweet de @Guigz75116] La Russie qualifie le déploiement de soldats français en Ukraine de « participation directe » de la France au conflit.\n\nCe n’est pas une simple réaction diplomatique. Depuis l’été 2026, Paris maintient via la mission Volia une présence militaire discrète sur le sol ukrainien :"
+    }
+  ],
+  "context": [
     {
       "author_name": "TVL",
       "published_at": "2026-11-16 14:04",
@@ -3729,6 +3749,11 @@
       "author_name": "Revue éléments",
       "published_at": "2026-11-16 14:06",
       "text": "[Retweet de @Revue_elements] Alors que les stratégies partisanes et électoralistes encouragent les argumentaires simplistes et les oppositions binaires, que les aboyeurs de tous les camps appellent à la censure et au boycott de leurs adversaires..."
+    },
+    {
+      "author_name": "Gilbert Collard",
+      "published_at": "2026-11-16 14:07",
+      "text": "[Retweet de @le_jarl] La démocratie selon l’Arcom. Nous devons soutenir et avoir de bons mots pour @GilbertCollard et @Aminelkhatmi ."
     },
     {
       "author_name": "AgoraVox",
@@ -3789,6 +3814,31 @@
       "author_name": "Rassemblement National",
       "published_at": "2026-11-16 14:13",
       "text": "[Retweet de @MLP_officiel] Les centres de formation sont aujourd’hui déconnectés des besoins des entreprises de nos territoires.\n\nLes jeunes sont de jeunes adultes, on peut leur dire la vérité : tu es en train d’entrer dans une filière où il y a zéro débouché."
+    },
+    {
+      "author_name": "Rassemblement National",
+      "published_at": "2026-11-16 14:13",
+      "text": "[Retweet de @MLP_officiel] Dans certaines académies, 20 % des jeunes inscrits à l’université ne passent même pas l’examen.\n\nL’université n’est pas une garderie. On ne vous accepte pas pour que vous passiez le temps, mais pour que vous fassiez des études. Sinon, vous prenez la place d’autres."
+    },
+    {
+      "author_name": "Rassemblement National",
+      "published_at": "2026-11-16 14:13",
+      "text": "[Retweet de @MLP_officiel] Les jeunes de moins de 30 ans ne paieront pas d’impôt sur le revenu jusqu’à 4 fois le SMIC.\n\nLe permis de conduire sera pris en charge par l’État. À la campagne, sans voiture, les jeunes sont obligés de renoncer à leur travail. Ça, on ne peut pas l’admettre."
+    },
+    {
+      "author_name": "Rassemblement National",
+      "published_at": "2026-11-16 14:14",
+      "text": "[Retweet de @MLP_officiel] Nous permettrons aux jeunes de voyager en train gratuitement aux heures creuses, pour retourner voir leur famille ou visiter le pays.\n\nEt la baisse de la TVA de 20 à 5,5 % sur le gaz, l’électricité, les carburants et le fioul sera une aide considérable pour les jeunes."
+    },
+    {
+      "author_name": "Rassemblement National",
+      "published_at": "2026-11-16 14:14",
+      "text": "[Retweet de @MLP_officiel] J’ai envie qu’un jeune qui hésite à voter s’écoute et regarde quelle offre politique lui offre un avenir, sans lui faire de fausses promesses.\n\nAux jeunes qui partent à l’étranger, je dis : je veux que vous restiez. On a tellement de choses à faire."
+    },
+    {
+      "author_name": "Rassemblement National",
+      "published_at": "2026-11-16 14:14",
+      "text": "[Retweet de @MLP_officiel] Ce qui arrive à notre pays n’est pas le fait du hasard, ce sont de mauvaises décisions politiques. De bonnes décisions politiques peuvent avoir de bons résultats.\n\nOn n’a pas le droit de désespérer quand on est jeune. Demain peut être beau, demain peut être grand à nouveau."
     },
     {
       "author_name": "Rassemblement National",
