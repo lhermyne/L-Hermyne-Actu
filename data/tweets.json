@@ -1,14 +1,40 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-17T03:30:17.556Z",
+  "updated_at": "2026-11-17T04:00:48.112Z",
   "window_hours": 24,
-  "window_start": "2026-11-16T03:30:17.556Z",
+  "window_start": "2026-11-16T04:00:48.112Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
   "count": 1805,
   "tweets": [
+    {
+      "id": "2122537307580608774",
+      "created_at": "2026-11-17T03:48:23.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "« Soyez bien protégés contre les intempéries » : l’ancien chef du gendarme boursier des États-Unis prédit l’éclatement de la bulle de l’IA\n➡️ https://l.leparisien.fr/yIiA",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2122537307580608774"
+    },
+    {
+      "id": "2122533393439031663",
+      "created_at": "2026-11-17T03:32:50.000Z",
+      "author": "alainpaulweber",
+      "author_name": "Alain Weber",
+      "type": "tweet",
+      "text": "Le mystère Édouard Philippe : arrogance ou (déjà) lassitude ?\n\nIl y a quelque chose de profondément incompréhensible dans la campagne présidentielle d’Édouard Philippe. \n\nVoilà un homme qui a passé des années à préparer son accession à l’Élysée et qui, maintenant qu’il est",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/alainpaulweber/status/2122533393439031663"
+    },
     {
       "id": "2122523382008705162",
       "created_at": "2026-11-17T02:53:03.000Z",
@@ -23447,32 +23473,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/leparisien_pol/status/2122178114658910470"
-    },
-    {
-      "id": "2122174290644860964",
-      "created_at": "2026-11-16T03:45:53.000Z",
-      "author": "Samuel_Lafont",
-      "author_name": "Samuel Lafont",
-      "type": "retweet",
-      "text": "Éric Zemmour : « Mon grand plan de rupture » https://ow.ly/2ytf106IFnB",
-      "retweeted_author": "leJDD",
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/Samuel_Lafont/status/2122174290644860964"
-    },
-    {
-      "id": "2122173382724862344",
-      "created_at": "2026-11-16T03:42:17.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "Antisémitisme : après l’exclusion de deux élèves radicalisés de la prépa Blomet, la direction a pris des mesures\n➡️ https://l.leparisien.fr/dYvX",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2122173382724862344"
     }
   ]
 }

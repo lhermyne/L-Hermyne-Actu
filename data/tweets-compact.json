@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-17 04:30",
-  "period": "du 2026-11-16 04:30 au 2026-11-17 04:30",
-  "new_period": "du 2026-11-16 20:00 au 2026-11-17 04:30",
-  "context_period": "du 2026-11-16 04:30 au 2026-11-16 20:00",
+  "generated_at": "2026-11-17 05:00",
+  "period": "du 2026-11-16 05:00 au 2026-11-17 05:00",
+  "new_period": "du 2026-11-16 20:00 au 2026-11-17 05:00",
+  "context_period": "du 2026-11-16 05:00 au 2026-11-16 20:00",
   "coverage_complete": true,
-  "new_count": 326,
-  "context_count": 1359,
-  "duplicates_merged": 116,
+  "new_count": 328,
+  "context_count": 1358,
+  "duplicates_merged": 115,
   "empty_removed": 4,
   "new": [
     {
@@ -1692,19 +1692,19 @@
       "also_by": [
         "Le Parisien | politique"
       ]
+    },
+    {
+      "author_name": "Alain Weber",
+      "published_at": "2026-11-17 04:32",
+      "text": "Le mystère Édouard Philippe : arrogance ou (déjà) lassitude ?\n\nIl y a quelque chose de profondément incompréhensible dans la campagne présidentielle d’Édouard Philippe. \n\nVoilà un homme qui a passé des années à préparer son accession à l’Élysée et qui, maintenant qu’il est"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-17 04:48",
+      "text": "« Soyez bien protégés contre les intempéries » : l’ancien chef du gendarme boursier des États-Unis prédit l’éclatement de la bulle de l’IA\n➡️ https://l.leparisien.fr/yIiA"
     }
   ],
   "context": [
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-16 04:42",
-      "text": "Antisémitisme : après l’exclusion de deux élèves radicalisés de la prépa Blomet, la direction a pris des mesures\n➡️ https://l.leparisien.fr/dYvX"
-    },
-    {
-      "author_name": "Samuel Lafont",
-      "published_at": "2026-11-16 04:45",
-      "text": "[Retweet de @leJDD] Éric Zemmour : « Mon grand plan de rupture » https://ow.ly/2ytf106IFnB"
-    },
     {
       "author_name": "Le Parisien | politique",
       "published_at": "2026-11-16 05:01",
@@ -3456,6 +3456,11 @@
       "author_name": "La Cocarde Étudiante",
       "published_at": "2026-11-16 10:20",
       "text": "[Retweet de @leJDD] Angers : des jeunes sous l’emprise du protoxyde d’azote tabassent des étudiants au cri de «sales Blancs» https://ow.ly/LnrB106IFTG"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-16 10:21",
+      "text": "Antisémitisme : après l’exclusion de deux élèves radicalisés de la prépa Blomet, la direction a pris des mesures\n➡️ https://l.leparisien.fr/8mH6"
     },
     {
       "author_name": "Frontières",
