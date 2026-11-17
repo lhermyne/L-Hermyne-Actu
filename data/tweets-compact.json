@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-17 21:06",
-  "period": "du 2026-11-16 21:06 au 2026-11-17 21:06",
-  "new_period": "du 2026-11-17 08:00 au 2026-11-17 21:06",
-  "context_period": "du 2026-11-16 21:06 au 2026-11-17 08:00",
+  "generated_at": "2026-11-17 21:36",
+  "period": "du 2026-11-16 21:36 au 2026-11-17 21:36",
+  "new_period": "du 2026-11-17 08:00 au 2026-11-17 21:36",
+  "context_period": "du 2026-11-16 21:36 au 2026-11-17 08:00",
   "coverage_complete": false,
-  "new_count": 1513,
-  "context_count": 349,
-  "duplicates_merged": 124,
+  "new_count": 1568,
+  "context_count": 295,
+  "duplicates_merged": 128,
   "empty_removed": 2,
   "new": [
     {
@@ -7555,7 +7555,10 @@
     {
       "author_name": "Frontières",
       "published_at": "2026-11-17 20:26",
-      "text": "« Le député LFI Raphaël Arnault était présent sur la boucle Signal de La Jeune Garde ayant conduit au lynchage mortel de Quentin Deranque »\n\nNouvelles révélations de @Jules_Laurans dans l’affaire Quentin.\n\n👉 À lire sur L’Infiltré (-50%) : https://www.frontieresmedia.fr/linfiltre/linfiltre-8"
+      "text": "« Le député LFI Raphaël Arnault était présent sur la boucle Signal de La Jeune Garde ayant conduit au lynchage mortel de Quentin Deranque »\n\nNouvelles révélations de @Jules_Laurans dans l’affaire Quentin.\n\n👉 À lire sur L’Infiltré (-50%) : https://www.frontieresmedia.fr/linfiltre/linfiltre-8",
+      "also_by": [
+        "Damien Rieu"
+      ]
     },
     {
       "author_name": "LCP",
@@ -7676,7 +7679,10 @@
     {
       "author_name": "Eric Ciotti",
       "published_at": "2026-11-17 20:41",
-      "text": "La primaire du macronisme condamne tous ses participants issus de LR et de la droite. \n\nParticiper à une amicale primaire avec Gabriel Attal co-fondateur du macronisme, 1er ministre d’Emmanuel Macron, ancien socialiste et surtout, surtout soutien public de LFI aux législatives de"
+      "text": "La primaire du macronisme condamne tous ses participants issus de LR et de la droite. \n\nParticiper à une amicale primaire avec Gabriel Attal co-fondateur du macronisme, 1er ministre d’Emmanuel Macron, ancien socialiste et surtout, surtout soutien public de LFI aux législatives de",
+      "also_by": [
+        "UDR"
+      ]
     },
     {
       "author_name": "Fdesouche.com est une revue de presse",
@@ -7771,7 +7777,10 @@
     {
       "author_name": "Le Parisien",
       "published_at": "2026-11-17 20:57",
-      "text": "Présidentielle 2027 : dates, participation de deux euros, parrainage... la primaire du centre et de la droite avance, sans Philippe\n➡️ https://l.leparisien.fr/Qt7P"
+      "text": "Présidentielle 2027 : dates, participation de deux euros, parrainage... la primaire du centre et de la droite avance, sans Philippe\n➡️ https://l.leparisien.fr/Qt7P",
+      "also_by": [
+        "Le Parisien | politique"
+      ]
     },
     {
       "author_name": "CNEWS",
@@ -7822,301 +7831,290 @@
       "author_name": "Europe 1",
       "published_at": "2026-11-17 21:04",
       "text": "\"Le pouvoir d'achat va être au coeur de cette campagne présidentielle\", assure @J_Bardella, président du Rassemblement national, dans #FaceaJordanBardella sur #Europe1"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Tribune Populaire🌐",
-      "published_at": "2026-11-16 21:07",
-      "text": "🗳️🇫🇷FLASH INFO - Marine Le Pen détruit Gabriel Attal, venu donner des leçons de budget à elle et à Jean-Luc Mélenchon !\n\n« Je ne vais pas prendre de leçons de gestion de la part de quelqu’un qui a participé à créer la plus grosse dette de l’histoire du pays ! »"
-    },
-    {
-      "author_name": "Kroc Blanc",
-      "published_at": "2026-11-16 21:08",
-      "text": "[Retweet de @Vatp8f] Kroc Blanc fait remarquer que de nombreux droitards expatriés à l'étranger ne font que cracher sur la France au lieu de profiter de leur statut d'exilés pour aider.\n\nA l'instar d'un sword of Salomon avec son doxing de Marcel pour aider les juifs.\n\n#RealMarcel #SwordOfSalomon"
-    },
-    {
-      "author_name": "Frontières",
-      "published_at": "2026-11-16 21:09",
-      "text": "« Je n’ai pas de leçons de gestion à recevoir de quelqu’un qui a participé depuis 10 ans à créer la plus grosse dette de toute l’histoire du pays. Pas de leçon et surtout pas de votre part ! » \n\n🚨 Marine Le Pen RECADRE Gabriel Attal."
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-16 21:09",
-      "text": "[Retweet de @MLP_officiel] En 10 ans, l'inflation sur l'alimentation a atteint 33% et jusqu'à 62% sur l'énergie.\n\nJe propose une TVA à 0% sur 100 produits de première nécessité et un taux à 5,5% sur l'énergie.\n\nCette bouffée d'oxygène sera immédiate.",
-      "also_by": [
-        "Jordan Bardella"
-      ]
-    },
-    {
-      "author_name": "Marine Le Pen",
-      "published_at": "2026-11-16 21:10",
-      "text": "L'augmentation imposée du SMIC est impossible pour les petites entreprises. L'augmentation des charges entrainera la suppression d'un emploi sur trois.\n\nJe propose aux entreprises d'augmenter les salaires jusqu'à 3 fois le SMIC, de 10%, en étant exonéré des charges afférentes.",
-      "also_by": [
-        "Rassemblement National"
-      ]
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-16 21:10",
-      "text": "Trois espoirs du Stade Rochelais placés en garde à vue pour violences aggravées à la sortie d’une boîte de nuit ➡️ https://l.leparisien.fr/cG2b"
-    },
-    {
-      "author_name": "Nicolas Dupont-Aignan",
-      "published_at": "2026-11-16 21:11",
-      "text": "[Retweet de @BFMTV] Nicolas Dupont-Aignan souhaite stopper \"immédiatement\" les aides à l'Ukraine"
-    },
-    {
-      "author_name": "Nicolas Dupont-Aignan",
-      "published_at": "2026-11-16 21:11",
-      "text": "[Retweet de @BFMTV] \"Il n'y a aucun avantage\": Nicolas Dupont-Aignan, candidat à l'élection présidentielle, explique pourquoi il veut sortir de l'Union européenne"
-    },
-    {
-      "author_name": "Nicolas Dupont-Aignan",
-      "published_at": "2026-11-16 21:11",
-      "text": "[Retweet de @BFMTV] Vers une primaire à droite? Nicolas Dupont-Aignan affirme être \"en rupture\" avec les candidats de droite"
-    },
-    {
-      "author_name": "Tribune Populaire🌐",
-      "published_at": "2026-11-16 21:12",
-      "text": "🗳️🇫🇷FLASH INFO - Bruno Retailleau lance à Jean-Luc Mélenchon qui parle de la vie chère : « Mais vous vivez pas mal vous ? »\n\nJean-Luc Mélenchon répond : « Oui […] la morale, ça ne peut pas être “profite et tais-toi” ! »"
-    },
-    {
-      "author_name": "Marine Le Pen",
-      "published_at": "2026-11-16 21:13",
-      "text": "Je n'ai aucune leçon de gestion à recevoir de la part de ceux qui ont créé la plus grosse dette de toute l'histoire de France.",
-      "also_by": [
-        "Tanguy David"
-      ]
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-16 21:14",
-      "text": "«L’État va faire un effort avant de demander aux Français de travailler plus», a affirmé Marine Le Pen sur LCI. →https://l.lefigaro.fr/0cxo"
-    },
-    {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-16 21:14",
-      "text": "Des policiers armés auraient assuré la protection rapprochée de Gims hors de tout cadre légal. Des renseignements confidentiels auraient aussi été obtenus par leurs soins. Procès annoncé en décembre.\nhttps://www.fdesouche.com/2026/11/16/gims-policiers-securite-privee-fichiers-corruption-tribunal-decembre-2026/"
-    },
-    {
-      "author_name": "Assemblée nationale",
-      "published_at": "2026-11-16 21:15",
-      "text": "Suivez la séance publique #DirectAN https://x.com/i/broadcasts/2gqOJQzVprnPJr"
-    },
-    {
-      "author_name": "Bouli ☃️",
-      "published_at": "2026-11-16 21:15",
-      "text": "Rassurez-vous : si vous êtes membre du Parti, vous pourrez toujours transmettre votre HLM de 250m2 dans le 6e arrondissement.\n[Cite @Clemence_Guette] Nous instaurerons un plafond de 5 logements transmissibles par héritage.\n\nAu-delà, les biens seront réquisitionnés par l’État et redistribués entre le parc social et des dispositifs d’accès à la propriété."
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-16 21:15",
-      "text": "Nous n’avons aucune leçon de gestion à recevoir de la part de ceux qui ont créé, en dix ans, la plus grosse dette de l’histoire du pays. Pauvreté, dette, déficits : leur bilan est dramatique.\n\nFace à un tel bilan, un peu de modestie s’impose.\n\n#LeGrandDébat #Marine2027"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-16 21:15",
-      "text": "Sur France Info, une invitée quitte le plateau en hurlant, Gilles-William Goldnadel réagit à cette séquence : «Elle crache sur tout le monde, mais elle ne supporte pas le moindre postillon» #HDPros2\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-16 21:16",
-      "text": "«Maman, on va s’en sortir» : un homme de 52 ans jugé pour avoir tué à Évry-Courcouronnes son ex de 23 coups de couteau, sous les yeux de leur fille de 13 ans ➡️ https://l.leparisien.fr/2l16"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-16 21:16",
-      "text": "«Rester singulier dans un monde hôtelier traditionnel» : avec ses maisons haut de gamme, Fontenille Collection met en valeur le patrimoine des régions https://ow.ly/TZil106IM5A"
-    },
-    {
-      "author_name": "Jean-Yves Le Gallou",
-      "published_at": "2026-11-16 21:17",
-      "text": "Ordre public IMmateriel !\n[Cite @jylgallou] Pendant que la Suède agit pour déchoir de la nationalité suédoise les bi nationaux délinquants ou indélicats, en France les commissaires politiques de l’extrême gauche , du ministère de l’Interieur et des tribunaux administratifs interdisent tout débat sur la remigration au nom"
-    },
-    {
-      "author_name": "Alain Weber",
-      "published_at": "2026-11-16 21:17",
-      "text": "Jensen Huang : rendez-lui son entreprise et cessez cette chasse aux sorcières !\n\nIl y a quelque chose de profondément indécent dans cette affaire Jensen Huang.\n\nVoilà un homme qui a consacré trente-trois années de sa vie à bâtir Nvidia, transformant une entreprise de composants"
-    },
-    {
-      "author_name": "Jean-Yves Le Gallou",
-      "published_at": "2026-11-16 21:17",
-      "text": "[Retweet de @FrDesouche] Ils savent tous que le racisme anti-blanc existe mais s'il est reconnu, il n’y a plus de culpabilité collective possible, plus de répartition prédéfinie entre oppresseurs et opprimés, plus de monopole de la souffrance ni de la vertu. C’est tout leur business qui s'effronde. C'est"
-    },
-    {
-      "author_name": "Jean-Yves Le Gallou",
-      "published_at": "2026-11-16 21:18",
-      "text": "[Retweet de @RenaudCamus] I wish people would stop this ridicule business of a “Civil War”. A nation invaded, colonized and occupied by hateful foreign races does not have a “Civil War” with them, whatever the number of indigenous traitors and collaborators. It has a decolonial liberation war."
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-16 21:18",
-      "text": "Face aux successeurs de Macron, comptables de dix années de naufrage économique, et à l’extrême gauche qui veut encore alourdir les contraintes sur nos entreprises, nous voulons desserrer l’étau : réduire les charges, soutenir nos PME et ceux qui créent de l’emploi pour mieux"
-    },
-    {
-      "author_name": "Jean-Yves Le Gallou",
-      "published_at": "2026-11-16 21:18",
-      "text": "[Retweet de @Bousquet_FR] Én-or-me ! Tous les racismes sont interdits, sauf le racisme antiblanc. En dépit de 20 témoignages. Quelle honte !"
-    },
-    {
-      "author_name": "Jean-Yves Le Gallou",
-      "published_at": "2026-11-16 21:19",
-      "text": "[Retweet de @MartinSellner_] Die Frage nach Remigration ist eine politische, keine juristische Debatte. Wenn Gerichte entschieden haben, muss die Debatte wieder politisch geführt werden, und eine Änderung der Gesetze gefordert werden.\n\nLibkons haben davor aber leider Angst und schreien \"Rechtsstaat,"
-    },
-    {
-      "author_name": "Bouli ☃️",
-      "published_at": "2026-11-16 21:20",
-      "text": "Il y a un gif à faire à 0:53.\n[Cite @DestinationTele] 💥ATTENTION MOMENT DÉJÀ CULTE !\nLe réaction de la militante Anne-Cécile Mailfert quand on précise qu’elle est la compagne du numéro 2 de France TV, Stéphane Sitbon-Gomez 😂😂😂"
-    },
-    {
-      "author_name": "Jean-Yves Le Gallou",
-      "published_at": "2026-11-16 21:20",
-      "text": "[Retweet de @EvaVlaar] Berlin Christmas market 2026.\n\nRemigration fixes this."
-    },
-    {
-      "author_name": "MARSAULT",
-      "published_at": "2026-11-16 21:20",
-      "text": "Demain, je signe les premières commandes de statues. Toutes les commandes passées avant demain midi seront envoyées mercredi matin !\n[Cite @MarsaultBreum] 100% fabriqué en France : Eugène est de retour.\n➡️ https://editionsmagnus.fr/products/eugene"
-    },
-    {
-      "author_name": "Frontières",
-      "published_at": "2026-11-16 21:20",
-      "text": "[Retweet de @tegnererik] Pour cette campagne présidentielle, nous vous proposons une information de qualité, abordable pour tous.\n\nProfitez de cette promotion exceptionnelle à -50%.\n\n2 avantages : un accès à une information riche (magazines, site, documentaires) + un soutien à nos équipes.\n\nProfitez-en !"
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-16 21:21",
-      "text": "L’État doit faire des économies avant de demander toujours plus d’efforts aux Français !\n\nMarine mettra fin au gaspillage de l’argent public en supprimant les agences d’État inutiles !\n\n#LeGrandDébat #Marine2027"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-16 21:21",
-      "text": "À l’ONU, les négociations sur les robots tueurs plongées dans l’impasse par la Russie\n➡️ https://l.leparisien.fr/yIii",
-      "also_by": [
-        "Le Parisien | politique"
-      ]
-    },
-    {
-      "author_name": "Clément Macchi",
-      "published_at": "2026-11-16 21:22",
-      "text": "Glucksmann si heureux d’avoir davantage parlé que Mélenchon + Le Pen qui l’applaudit pour se foutre de lui non c’en est trop"
-    },
-    {
-      "author_name": "Valeurs actuelles",
-      "published_at": "2026-11-16 21:22",
-      "text": "🗞️ INFO VA. Après le blocage du campus de Villetaneuse, des violences contre des personnels et des dégradations ont été dénoncées par la présidence de l’université Sorbonne Paris Nord. La direction a annoncé son intention de porter plainte et la fermetur… https://l.valeursactuelles.com/IgX"
-    },
-    {
-      "author_name": "Tribune Populaire🌐",
-      "published_at": "2026-11-16 21:22",
-      "text": "Énorme promo spéciale pour Gabriel Attal sur la chaîne YouTube de LCI.\n\nLe bandeau est là depuis plus de 20 minutes.\n\nC’est un peu visible la @LCI"
-    },
-    {
-      "author_name": "CourrierDesStratèges",
-      "published_at": "2026-11-16 21:24",
-      "text": "[Retweet de @CStrateges] ⚠️Un propriétaire de Chamonix loue un bien familial à prix modéré pour loger des travailleurs locaux- trop modéré pour l’#URSSAF, qui lui réclame une « somme importante » en additionnant ses revenus fonciers et ses revenus du travail ↘️↘️\nhttps://www.lecourrierdesstrateges.fr/a-chamonix-il-loue-trop-bon-marche-a-ses-locataires-lurssaf-lui-reclame-des-cotisations-sur-ses-loyers/"
+      "published_at": "2026-11-17 21:06",
+      "text": "Jordan Bardella : «Naturellement, la France a raison d'être en colère» \n\nToute l'info est à retrouver sur https://cnews.fr"
     },
     {
       "author_name": "Occidentis",
-      "published_at": "2026-11-16 21:24",
-      "text": "🚨⚡️ « Il paraît que c’est vous le CATHO » \n\nJean-Mélenchon s’emporte et vise la confession religieuse de Bruno Retailleau après avoir été mis en cause sur son train de vie."
-    },
-    {
-      "author_name": "CourrierDesStratèges",
-      "published_at": "2026-11-16 21:24",
-      "text": "[Retweet de @CStrateges] 🚨ALERTE : Le collectif budgétaire déposé le 04/11  inscrit un déficit public de 5,4 % du PIB en 2026, contre 5 % voté il y a 10 mois. La dépense de l'État a pourtant été tenue. Ce qui a dérapé, ce sont les intérêts : 81 milliards € cette année .. ⚠️\nhttps://www.lecourrierdesstrateges.fr/le-deficit-2026-explose-par-rapport-aux-previsions/"
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-16 21:25",
-      "text": "«Il faut relancer la construction de logements sociaux. Il faut aller sur les logements vides, sur une politique de “logements d’abord”, comme en Finlande», a-t-il déclaré sur LCI. →https://l.lefigaro.fr/QUpk"
-    },
-    {
-      "author_name": "Nicolas Dupont-Aignan",
-      "published_at": "2026-11-16 21:25",
-      "text": "[Retweet de @BFMTV] Nicolas Dupont-Aignan, candidat à l'élection présidentielle, souhaite \"offrir un choix aux Français\""
-    },
-    {
-      "author_name": "Florian Philippot",
-      "published_at": "2026-11-16 21:25",
-      "text": "[Retweet de @JBollee] La France donne toujours plus à l’UE, elle est déjà contributrice nette au budget européen depuis 44 ans (44 ans que l’on donne plus que ce que l’on reçoit !), et sa perspective c’est : recevoir toujours moins, alors qu’on est à l’os🤡. \n\nSi le pays tout entier ne vivait pas dans"
-    },
-    {
-      "author_name": "Le Point",
-      "published_at": "2026-11-16 21:26",
-      "text": "En menaçant de claquer la porte de l’Organisation internationale de la Francophonie (OIF), Kinshasa a provoqué ce lundi le report d’un an de l’élection de son secrétaire général.\nPar @VivianeForson\n➡️ https://l.lepoint.fr/0xk"
-    },
-    {
-      "author_name": "Frontières",
-      "published_at": "2026-11-16 21:28",
-      "text": "« Il paraît que c’est vous le CATHO ! » \n\n🚨 ALERTE - Jean-Luc MÉLENCHON S’EMPORTE contre Bruno Retailleau après avoir été mis en cause sur son train de vie."
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-16 21:28",
-      "text": "« Nous n’avons pas été à la hauteur » : Amazon perd 40 satellites dans l’espace après l’échec d’une fusée Vulcan\n➡️ https://l.leparisien.fr/WdZx"
-    },
-    {
-      "author_name": "Ministère de l'Intérieur",
-      "published_at": "2026-11-16 21:29",
-      "text": "[Retweet de @PompiersParis] ⚠️ Un danger invisible, inodore et potentiellement mortel !\n\nChaque année, le monoxyde de carbone provoque de nombreuses intoxications, souvent à cause d'appareils mal entretenus ou d'un manque d'aération.\n\n🔧 Pensez à entretenir vos appareils de chauffage et à aérer votre"
-    },
-    {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-16 21:29",
-      "text": "27 % des Français disent vouloir s'installer définitivement à l'étranger s'ils le pouvaient, contre 11 % un an plus tôt. L'Insee a recensé 193 000 départs de non-immigrés en 2022, et 115 000 retours.\nhttps://www.fdesouche.com/2026/11/16/emigration-francais-27-pour-cent-quitter-pays-200000-departs-enquete-2026/"
+      "published_at": "2026-11-17 21:06",
+      "text": "⚡️ « P*tain faut que je clean mes conv ça risque de perquiz »\n\n🚨 Une conversation privée entre les antifas impliqués dans l’affaire Quentin Deranque, sur la messagerie cryptée Signal, dévoilée par L’Infiltré. \nLe député Raphaël Arnault figurait parmi les membres de cette boucle."
     },
     {
       "author_name": "Jon De Lorraine",
-      "published_at": "2026-11-16 21:29",
-      "text": "Quand 2 politiciens gavés d'argent publiques se clashent.\n(C’est nul et Retailleau est encore plus nul)"
+      "published_at": "2026-11-17 21:07",
+      "text": "Monsieur Lisnard, c’est vrai que vous aviez demandé un poste à Macron entre 2017 et 2019 ?\n[Cite @davidlisnard] @J_Bardella Mais bien sûr, je fais partie des brigades rouges aussi. \n\nVous passez votre temps à me taper dessus avec de la grosse ficelle politicienne, vous tapez plus d’ailleurs sur la droite que sur la gauche. Que redoutez-vous ? \n\nVous craignez tant que cela ? Que je parvienne à éliminer"
     },
     {
-      "author_name": "Eric Zemmour",
-      "published_at": "2026-11-16 21:30",
-      "text": "🖥️ J’étais l’invité des Entrepreneurs et Dirigeants Chrétiens au Collège des Bernardins.\n\nRegardez l’intégralité de mon intervention. ⤵️\nhttps://youtu.be/hz2ckr8mXGE?is=JdFNsRgFKwL3iapT"
-    },
-    {
-      "author_name": "Ministère de l'Intérieur",
-      "published_at": "2026-11-16 21:30",
-      "text": "[Retweet de @prefpolice] #A13 | À partir de ce jour, le tunnel de Saint-Cloud est fermé dans le sens Paris → province pour une durée de 9 mois. \n\n💡 Des solutions alternatives pour vos trajets existent 👇\n✅ A14 gratuite en semaine dans le sens Paris-province pendant la durée des travaux, pour les"
-    },
-    {
-      "author_name": "Marine Le Pen",
-      "published_at": "2026-11-16 21:31",
-      "text": "Depuis dix ans, la politique du logement a été effroyable et les résultats sont effroyables.\n\nIl faut libérer les locations des DPE, permettre de transformer les bureaux vides en logements. Il faut aussi libérer la cronstruction. Et mettre en place la priorité nationale !"
+      "author_name": "Europe 1",
+      "published_at": "2026-11-17 21:08",
+      "text": ".@J_Bardella, président du RN : \"L'objectif de Jean-Luc Mélenchon n'est pas de remporter l'élection, c'est de semer le désordre dans notre pays\", dans #FaceaJordanBardella sur #Europe1"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-16 21:31",
-      "text": "Nouveau rebondissement dans cette affaire très médiatisée en 2023. ➡️ https://mrf.lu/2wtVK"
+      "published_at": "2026-11-17 21:08",
+      "text": "Jordan Bardella, président du Rassemblement national, sur les manifestations : «Le droit de manifester est abîmé par la violence de l'ultragauche»\n\nToute l'info est à retrouver sur https://cnews.fr"
     },
     {
       "author_name": "Rassemblement National",
-      "published_at": "2026-11-16 21:31",
-      "text": "Le logement social a été financé et construit par l’effort de nos parents et de nos grands-parents. Il est normal que les Français y aient un accès prioritaire.\n\nAvec @MLP_officiel, lorsqu’un logement social se libérera, les Français qui travaillent seront prioritaires."
+      "published_at": "2026-11-17 21:09",
+      "text": "1 200 policiers et gendarmes blessés, 80 proviseurs et 200 personnels de l’Éducation nationale agressés : l’ultragauche veut semer le chaos dans la rue.\n\nFace au désordre, le Rassemblement National incarne l’ordre et l’autorité de l’État. Demain, nous serons intraitables face à"
+    },
+    {
+      "author_name": "Alain Weber",
+      "published_at": "2026-11-17 21:10",
+      "text": "🚨🚨 Une information extrêmement intéressante et probablement lourde de conséquences.\n\nAssassinat de Quentin Deranque :\n\nLes assassins correspondaient sur des boucles cryptées, avant, pendant et après !\n\nLa révélation est que Raphaël Arnault figure dans ces boucles.\n\nSa place est"
+    },
+    {
+      "author_name": "Tribune Populaire🌐",
+      "published_at": "2026-11-17 21:10",
+      "text": "Souvenez-vous, à peine sortis de la sinistre période Covid, on nous annonçait une panne mondiale d’Internet.\n\nEt la solution miracle est déjà prête, bien rangée dans un tiroir : identité numérique obligatoire, monnaie numérique, Internet sous conditions.\n[Cite @TribunePop23] 📂🌍FLASH INFO - Dans une interview accordée le 10 novembre 2026 à CBS, « Great Question », Bill Gates déclare :\n\n« Il se peut que nous devions subir quelques effets négatifs avant de réagir pleinement comme nous le devrions. »\n\nIl évoque l’idée qu’un gros cyberattaque causant «"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-17 21:11",
+      "text": "Né dans la fièvre des débats budgétaires de l’automne 2025, le collectif « Trop, c’est trop ! » rassemble plus de 2 000 dirigeants décidés à défendre la croissance et à contester la hausse des prélèvements sur les entreprises.\n\n➡️ https://l.lepoint.fr/q25\nPar @philippinerbt"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-17 21:12",
+      "text": "\"Je suis pour exclure des établissements scolaires tous ceux qui commettent des violences [...] Nous mettrons en place une politique pénale beaucoup plus dure\", affirme @J_Bardella, président du RN, dans #FaceaJordanBardella sur #Europe1"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-16 21:32",
-      "text": "Alors que notre journaliste a été pris pour cible ce lundi dans un lycée à Nantes, Quotidien parle d'une «victimisation» : «Quotidien nous met une cible dans le dos», dénonce notre journaliste dans #100Politique\n\nToute l'info est à retrouver sur https://cnews.fr"
+      "published_at": "2026-11-17 21:12",
+      "text": "Jordan Bardella : «Par principe, le gouvernement est pro-police»\n\nToute l'info est à retrouver sur https://cnews.fr"
     },
     {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-16 21:32",
-      "text": "Tourcoing (59) : début d'incendie au lycée Sévigné"
-    },
-    {
-      "author_name": "Ministère des Armées et des Anciens combattants",
-      "published_at": "2026-11-16 21:33",
-      "text": "[Retweet de @RufoAlice] Ce soir, aux côtés du général Burkhard, délégué national de l’Ordre de la Libération, j’ai participé au ravivage de la Flamme sous l’Arc de triomphe, pour le 86e anniversaire de la création de l’Ordre, le 16 novembre 1940. \n\nAvant de disparaître, Hubert Germain, dernier Compagnon"
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-17 21:12",
+      "text": "« Mélenchon met des cibles dans le dos des journalistes » : la couverture des manifestations vire au calvaire pour les reporters\nhttps://l.lefigaro.fr/PxhB"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-16 21:35",
-      "text": "Agressé par des lycéens, notre journaliste affirme : «Le ministre de l'Éducation nationale aurait dû demander à tous ces jeunes de rejoindre leur salle de classe et que celui qui s'y opposait soit viré de ce lycée»\n\nToute l'info est à retrouver sur https://cnews.fr"
+      "published_at": "2026-11-17 21:13",
+      "text": "Jordan Bardella, président du Rassemblement national, sur l'explosion de la violence en France : «Il y a une violence d'atmosphère qui s'installe dans la société française»\n\nToute l'info est à retrouver sur https://cnews.fr"
     },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-17 21:13",
+      "text": "Jordan Bardella : «Nous allons mettre en place dans les établissements scolaires des sanctions plancher»\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Jordan Bardella",
+      "published_at": "2026-11-17 21:15",
+      "text": "L'inquiétude du pouvoir d'achat est au cœur de la vie quotidienne de millions de Français qui n'arrivent plus à joindre les deux bouts.\n\nDans quelques mois, ils pourront justement s'exprimer et voter lors de l'élection la plus importante de toute la 5ème République."
+    },
+    {
+      "author_name": "L’Infiltré",
+      "published_at": "2026-11-17 21:15",
+      "text": "🔴 EXCLUSIF – L’Infiltré a eu accès aux conversations Signal de militants de la Jeune Garde avant et après l’agression mortelle de Quentin Deranque.\n\n« Bon l’équipe, le faf est visiblement décédé, de ce qu’il en sort c’est qu’il a perdu connaissance plus d’une heure après le"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-17 21:15",
+      "text": "\"Il y a une violence d'atmosphère qui s'installe dans la société française [...] On est engagé dans une course contre la montre\", alerte @J_Bardella, président du RN, dans #FaceaJordanBardella sur #Europe1"
+    },
+    {
+      "author_name": "Marc Vanguard",
+      "published_at": "2026-11-17 21:16",
+      "text": "[Retweet de @solsenois] Rappel que sans la mythologie chiraquienne du barrage au FN qui constitue l'identité des vieux croulants de la droitéducentre, une coalition droitière uniforme sur le fond et réunissant l'ensemble des classes productives et guerrières dirigerait le pays de manière quasi-continue"
+    },
+    {
+      "author_name": "Gabrielle Cluzel",
+      "published_at": "2026-11-17 21:16",
+      "text": "RT @christine_kelly: Je porte plainte contre Aymeric Caron.\n\nDans le cadre de mon travail de journaliste, j’ai réalisé, à la suite des évén…"
+    },
+    {
+      "author_name": "Jordan Bardella",
+      "published_at": "2026-11-17 21:17",
+      "text": "Le droit de manifester est une liberté fondamentale abîmée par l'ultra-gauche, devenue le proxy de LFI.\n\nL'objectif de M. Mélenchon et de ses amis n'est pas de remporter l'élection, mais de semer le désordre : face à cela, nous incarnons le rétablissement de l'autorité."
+    },
+    {
+      "author_name": "Bouli ☃️",
+      "published_at": "2026-11-17 21:19",
+      "text": "Les fascistes chantent \"j'ai deux passions, la fanfare la remigration\" en plein centre-ville. J'ai mal à ma France."
+    },
+    {
+      "author_name": "Tribune Populaire🌐",
+      "published_at": "2026-11-17 21:19",
+      "text": "🗳️🇫🇷FLASH INFO - Gérald Darmanin attaque directement ses anciens partenaires de gouvernement macroniste !\n\n\"Dans les 5 candidats qu'il y avait hier, il y en a 3 dont on n'est même pas sûr qu'ils aillent jusqu'au bout\""
+    },
+    {
+      "author_name": "Frontières",
+      "published_at": "2026-11-17 21:20",
+      "text": "[Retweet de @Jules_Laurans] « Le faf est visiblement décédé. »\n\nMessage glaçant que nous révélons pour @linfiltremedia : la coordinatrice de la boucle de discussion réunissant les militants antifas de la Jeune Garde annonce, sans la moindre émotion apparente, la mort de Quentin Deranque après le lynchage."
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-17 21:20",
+      "text": ".@J_Bardella, président du RN, au sujet des policiers : \"Par principe, l'Etat sera de leur côté. Si je suis chef du gouvernement, je mettrais en place la présomption de légitime défense\", dans #FaceaJordanBardella sur #Europe1"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-17 21:20",
+      "text": "Jordan Bardella : «L'interdiction de la double nationalité a pu légitimement blesser un certain nombre de Français»\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Jordan Bardella",
+      "published_at": "2026-11-17 21:21",
+      "text": "Nous allons mettre en place des peines minimales et, dans les établissements scolaires, des sanctions planchers. \n\nPar ailleurs, le fait de toucher à l'intégrité physique d'une personne doit déclencher une sanction exemplaire."
+    },
+    {
+      "author_name": "JDNews",
+      "published_at": "2026-11-17 21:21",
+      "text": "Philippe de Villiers : «Robespierre en djellabah» https://ow.ly/oj26106ISs2",
+      "also_by": [
+        "Le JDD"
+      ]
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-17 21:22",
+      "text": "À peine parti, déjà de retour ? Une semaine après sa démission pour un scandale d'adultère, notamment avec une espionne chinoise, Jensen Huang se dit prêt à réintégrer l’entreprise comme PDG ➡️ https://l.leparisien.fr/cGAp"
+    },
+    {
+      "author_name": "Gilbert Collard",
+      "published_at": "2026-11-17 21:24",
+      "text": "[Retweet de @2Halumi] 2 poids, 2 mesures !\n\nL’ARCOM vient d'obliger CNEWS de comptabiliser A. El-Khatmi comme temps de parole de droite !\n\nL’ARCOM vient d’informer BFTMTV et RMC qu’ils pouvaient continuer à inviter à loisir le militant LFI, Ilan Gabet car l’ARCOM le considère…neutre \n\nArcom corrompue"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-17 21:25",
+      "text": "Jordan Bardella, président du RN, sur la double nationalité : «Il faut protéger notre pays de menaces importantes. C'est la raison pour laquelle nous défendons toujours la déchéance de nationalité pour les terroristes»\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "JDNews",
+      "published_at": "2026-11-17 21:26",
+      "text": "Vincent Hervouët : «Yalta comme une farce» https://ow.ly/pBGs106ISsJ",
+      "also_by": [
+        "Le JDD"
+      ]
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-17 21:26",
+      "text": "Jordan Bardella : «Il y a très peu de risque que Marine Le Pen nomme un macroniste Premier ministre» \n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Rassemblement National",
+      "published_at": "2026-11-17 21:26",
+      "text": "Plus aucune ville, plus aucun village en France n’est épargné par la violence.\n\nSi l’État ne reprend pas le contrôle maintenant, il le perdra définitivement. Le rétablissement de son autorité sera au cœur de notre action."
+    },
+    {
+      "author_name": "Jon De Lorraine",
+      "published_at": "2026-11-17 21:26",
+      "text": "Vous pouvez vous mettre sur le côté et laisser les grands parler aussi\n[Cite @Psynologie] @jon_delorraine Pourquoi ce harcèlement ? On sent de votre part beaucoup de frustration. Vous devriez vous ranger du côté de @Nouv_Energie @davidlisnard qui a été constant depuis sa critique de ls gestion Covid. Ce qui n’est pas le cas du RN qui a même fini par se ranger du côté de l’UE de"
+    },
+    {
+      "author_name": "Valeurs actuelles",
+      "published_at": "2026-11-17 21:27",
+      "text": "🗞️ Productions agricoles en chute libre records, importations records de fruits, légumes et volailles, budget européen menacé : jamais les paysans français n’avaient connu une telle crise structurelle et conjoncturelle. Agriculteur en Vendée, François Ar… https://l.valeursactuelles.com/N8N"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-17 21:27",
+      "text": "Le président du RN s'est exprimé sur les violences en France https://mrf.lu/2wfgk"
+    },
+    {
+      "author_name": "Frontières",
+      "published_at": "2026-11-17 21:27",
+      "text": "« C’est une magnifique victoire » écrivait Fatimé Tone (Jeune Garde), après l’attaque conduisant à la mort de Quentin Deranque\n\n@Jules_Laurans s’est procuré les messages des militants de la Jeune Garde. Raphaël Arnault était dans la boucle.\n\nRévélations : https://www.frontieresmedia.fr/linfiltre/linfiltre-8"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-17 21:27",
+      "text": ".@J_Bardella, président du RN, sur la proposition d'interdiction de la double nationalité : \"Cette mesure a pu blesser un certain nombre de Français\", dans #FaceaJordanBardella sur #Europe1"
+    },
+    {
+      "author_name": "Rassemblement National",
+      "published_at": "2026-11-17 21:29",
+      "text": "Policiers et gendarmes risquent leur vie pour nous protéger. Comme le rappelle ce soir Jordan Bardella, ils doivent pouvoir agir sans être traités en suspects.\n\nAvec Marine, nous instaurerons la présomption de légitime défense pour les forces de l’ordre. 🇫🇷\n\n#Marine2027"
+    },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-17 21:30",
+      "text": "L’Unicef France a annoncé ce mardi suspendre la mission du judoka français en tant qu’ambassadeur, au nom de sa neutralité politique. →https://l.lefigaro.fr/Wn17"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-17 21:30",
+      "text": "Clavicular, streamer masculiniste de 20 ans, a affirmé que sa compagne s’était rasé les cheveux pour l’aider dans son parcours de «looksmaxxing», puisque les produits cosmétiques de celle-ci... lui donneraient de l'acné.\n\n🤦 Il l'a filmée en train de faire ce «geste plein"
+    },
+    {
+      "author_name": "Rassemblement National",
+      "published_at": "2026-11-17 21:31",
+      "text": "Quand un délinquant passe des dizaines de fois en garde à vue sans jamais être sanctionné, c’est tout le travail des enquêteurs qui s’effondre.\n\nNous changerons de politique pénale pour que chaque peine soit réellement dissuasive et que nos forces de l’ordre puissent enfin"
+    },
+    {
+      "author_name": "Jordan Bardella",
+      "published_at": "2026-11-17 21:31",
+      "text": "Si on ne reprend pas le contrôle maintenant, alors l’État perdra définitivement le contrôle. \n\nC'est une course contre la montre et je veux dire aux Français que le rétablissement de l'autorité de l'Etat sera au cœur de notre projet, avec un grand sursaut pénal."
+    },
+    {
+      "author_name": "Rassemblement National",
+      "published_at": "2026-11-17 21:31",
+      "text": "Attal, Retailleau, Lisnard : pendant que les Français souffrent, les macronistes et les LR macronisés organisent une primaire pour sauver leurs places ! \n\nLoin de ces petites combines, nous voulons sauver la France ! 🇫🇷\n\n#Marine2027"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-17 21:31",
+      "text": "« L’OIF n’est pas la Françafrique ! » Après le report de l’élection à la tête de la Francophonie, le ministre rwandais des Affaires étrangères, Olivier Nduhungirehe, accuse Paris d’avoir cédé au « chantage » de Kinshasa.\n\n➡️ https://l.lepoint.fr/UBS"
+    },
+    {
+      "author_name": "Assemblée nationale",
+      "published_at": "2026-11-17 21:32",
+      "text": "🔴 Enquête sur les évènements liés aux manifestations du 17 octobre 2026 : audition de Gérald Darmanin (@GDarmanin), garde des Sceaux, ministre de la justice, dans le cadre des travaux de la commission des lois. \n#DirectAN https://x.com/i/broadcasts/2ybQpNWpAbRyAr"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-17 21:32",
+      "text": "Jordan Bardella, président du RN, sur la primaire de la droite et du centre : «En venir à demander une alliance avec le parti d'Emmanuel Macron, je ne trouve pas cela au niveau du changement que les Français attendent»\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-17 21:32",
+      "text": "Jordan Bardella : «La justice ne me demande rien. Je ne suis coupable de rien. Je ne suis sur les frais d'aucune enquête contrairement à Médiapart »\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-17 21:32",
+      "text": "\"Quand on se prépare, à l'âge de 31 ans, à être chef du gouvernement, c'est une responsabilité écrasante\", déclare @J_Bardella, président du RN, dans #FaceaBardella sur #Europe1"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-17 21:32",
+      "text": "Manifestations : «L'ultra gauche cherche à pourrir les revendications», affirme Jordan Bardella https://ow.ly/qQhV106IStY"
+    },
+    {
+      "author_name": "Rassemblement National",
+      "published_at": "2026-11-17 21:33",
+      "text": "Pendant dix ans, Emmanuel Macron a fait subir aux Français une politique d’une brutalité inouïe. Et aujourd’hui, les Républicains n’ont qu’une ambition : s’allier à son parti et se ranger derrière Gabriel Attal !\n\nLes Français ne veulent pas de ces arrangements entre perdants."
+    },
+    {
+      "author_name": "Jon De Lorraine",
+      "published_at": "2026-11-17 21:33",
+      "text": "HAHAHHAHAHAHAHAHHAAHA\nLISEZ ÇA\n[Cite @popakipopitsa] @A_Ardisson @jon_delorraine DeLorraine fait feu de tout bois comme tout militant Reconquête& politiques RN...le but, descendre la droite et maintenir la gauche sociétale au pouvoir...Ils se sont acharnés contre Pécresse et ont ignoré Macron en 2022...Pécresse nulle en meeting mais nettement mieux que Macron"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-17 21:34",
+      "text": "Jordan Bardella : «Depuis la dissolution, il y a des inquiétudes auprès des marchés financiers»\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Occidentis",
+      "published_at": "2026-11-17 21:34",
+      "text": "🚨⚡️ Après le lynchage et la mort de Quentin Deranque, une des militantes antifas impliquées a parlé de « victoire » sur une boucle de la messagerie cryptée Signal, sur laquelle était présent Raphaël Arnault. (Info @linfiltremedia)"
+    },
+    {
+      "author_name": "François Asselineau 🇫🇷",
+      "published_at": "2026-11-17 21:34",
+      "text": "𝗟'𝗜𝗡𝗙𝗟𝗨𝗘𝗡𝗖𝗘 𝗗𝗘 𝗟𝗔 𝗙𝗥𝗔𝗡𝗖𝗘 𝗔𝗡𝗘𝗔𝗡𝗧𝗜𝗘\n𝗣𝗔𝗥 𝗟'𝗜𝗗𝗘𝗢𝗟𝗢𝗚𝗜𝗘 𝗘𝗨𝗥𝗢𝗣𝗘𝗜𝗦𝗧𝗘\nUn nouveau Yalta s'annonce entre États-Unis, Russie et Chine.\nEn pleine auto-destruction, l'Europe disparaît de la scène mondiale et entraîne la France dans le vide..."
+    }
+  ],
+  "context": [
     {
       "author_name": "L'HERMYNE ⚜️",
       "published_at": "2026-11-16 21:37",
@@ -8156,6 +8154,11 @@
       "author_name": "Rassemblement National",
       "published_at": "2026-11-16 21:45",
       "text": "Toujours les mêmes à qui l’on demande des sacrifices ? C’est terminé.\n\nAvec @MLP_officiel, ceux qui gouvernent montreront l’exemple !\n\n#LeGrandDébat #Marine2027"
+    },
+    {
+      "author_name": "Tanguy David",
+      "published_at": "2026-11-16 21:45",
+      "text": "[Retweet de @MLP_officiel] Je n'ai aucune leçon de gestion à recevoir de la part de ceux qui ont créé la plus grosse dette de toute l'histoire de France."
     },
     {
       "author_name": "Jean-Yves Le Gallou",
@@ -8828,6 +8831,11 @@
       "author_name": "Jordan Bardella",
       "published_at": "2026-11-16 23:47",
       "text": "[Retweet de @MLP_officiel] LE QUARTIER GÉNÉRAL | Suivez en direct le grand débat de Marine Le Pen sur LCI ! https://x.com/i/broadcasts/2zkZagzNkzBllM"
+    },
+    {
+      "author_name": "Jordan Bardella",
+      "published_at": "2026-11-16 23:47",
+      "text": "[Retweet de @MLP_officiel] En 10 ans, l'inflation sur l'alimentation a atteint 33% et jusqu'à 62% sur l'énergie.\n\nJe propose une TVA à 0% sur 100 produits de première nécessité et un taux à 5,5% sur l'énergie.\n\nCette bouffée d'oxygène sera immédiate."
     },
     {
       "author_name": "Le Parisien | politique",
