@@ -1,14 +1,40 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-17T00:29:17.510Z",
+  "updated_at": "2026-11-17T00:59:22.573Z",
   "window_hours": 24,
-  "window_start": "2026-11-16T00:29:17.510Z",
+  "window_start": "2026-11-16T00:59:22.573Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
   "count": 1802,
   "tweets": [
+    {
+      "id": "2122491869380968540",
+      "created_at": "2026-11-17T00:47:50.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "« Un étranger en situation irrégulière doit partir » : Bruno Retailleau en faveur du centre de retour pour migrants au Rwanda\n➡️ https://l.leparisien.fr/43nR",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2122491869380968540"
+    },
+    {
+      "id": "2122489510202106037",
+      "created_at": "2026-11-17T00:38:27.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "L'histoire d'Arnaud, obligé de vendre sa maison après un contrôle SNCF qui a mal tourné, a déclenché une vague de solidarité : une cagnotte pour aider cet ouvrier ajusteur et père de trois enfants a bondi de plusieurs milliers d'euros en 24 heures ➡️ https://l.leparisien.fr/UpEu",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2122489510202106037"
+    },
     {
       "id": "2122487024166875411",
       "created_at": "2026-11-17T00:28:35.000Z",
@@ -502,6 +528,19 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/F_Desouche/status/2122456378518209023"
+    },
+    {
+      "id": "2122455696302366847",
+      "created_at": "2026-11-16T22:24:05.000Z",
+      "author": "dannyconversano",
+      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
+      "type": "retweet",
+      "text": "« C’est un RAMASSIS de GAUCHISTES ! »\n\n🚨 ALERTE - Marine Le Pen ÉTRILLE la Ligue des droits de l’Homme.",
+      "retweeted_author": "Frontieresmedia",
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/dannyconversano/status/2122455696302366847"
     },
     {
       "id": "2122455558422921498",
@@ -23395,45 +23434,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/le_Parisien/status/2122132821170876518"
-    },
-    {
-      "id": "2122132258567983145",
-      "created_at": "2026-11-16T00:58:52.000Z",
-      "author": "dannyconversano",
-      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
-      "type": "retweet",
-      "text": "A big thank you to Thaïs d'Escufon who came all the from France to help make the 23rd AmRen conference a great success!",
-      "retweeted_author": "RealJarTaylor",
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "en",
-      "url": "https://x.com/dannyconversano/status/2122132258567983145"
-    },
-    {
-      "id": "2122132157435183613",
-      "created_at": "2026-11-16T00:58:28.000Z",
-      "author": "leparisien_pol",
-      "author_name": "Le Parisien | politique",
-      "type": "tweet",
-      "text": "« Il mérite une procédure équitable, pas un tribunal populaire » : mouvement mené par Musk en faveur d’un retour de Huang à Nvidia\n➡️ https://l.leparisien.fr/IHhD",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/leparisien_pol/status/2122132157435183613"
-    },
-    {
-      "id": "2122127101264363876",
-      "created_at": "2026-11-16T00:38:22.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "« Vous allez gagner la guerre » : le prince Harry a rencontré des soldats blessés en Ukraine\n➡️ https://l.leparisien.fr/EJFc",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2122127101264363876"
     }
   ]
 }

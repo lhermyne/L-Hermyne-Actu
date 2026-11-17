@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-17 01:29",
-  "period": "du 2026-11-16 01:29 au 2026-11-17 01:29",
-  "new_period": "du 2026-11-16 20:00 au 2026-11-17 01:29",
-  "context_period": "du 2026-11-16 01:29 au 2026-11-16 20:00",
+  "generated_at": "2026-11-17 01:59",
+  "period": "du 2026-11-16 01:59 au 2026-11-17 01:59",
+  "new_period": "du 2026-11-16 20:00 au 2026-11-17 01:59",
+  "context_period": "du 2026-11-16 01:59 au 2026-11-16 20:00",
   "coverage_complete": true,
-  "new_count": 317,
-  "context_count": 1366,
-  "duplicates_merged": 114,
+  "new_count": 318,
+  "context_count": 1364,
+  "duplicates_merged": 115,
   "empty_removed": 5,
   "new": [
     {
@@ -1260,7 +1260,10 @@
     {
       "author_name": "Frontières",
       "published_at": "2026-11-16 22:38",
-      "text": "« C’est un RAMASSIS de GAUCHISTES ! »\n\n🚨 ALERTE - Marine Le Pen ÉTRILLE la Ligue des droits de l’Homme."
+      "text": "« C’est un RAMASSIS de GAUCHISTES ! »\n\n🚨 ALERTE - Marine Le Pen ÉTRILLE la Ligue des droits de l’Homme.",
+      "also_by": [
+        "Daniel Conversano ⏩ e/acc 🚀"
+      ]
     },
     {
       "author_name": "CNEWS",
@@ -1629,26 +1632,18 @@
       "author_name": "Le Parisien | politique",
       "published_at": "2026-11-17 01:28",
       "text": "« Un étranger en situation irrégulière doit partir » : Bruno Retailleau en faveur du centre de retour pour migrants au Rwanda https://l.leparisien.fr/2l1c"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-17 01:47",
+      "text": "« Un étranger en situation irrégulière doit partir » : Bruno Retailleau en faveur du centre de retour pour migrants au Rwanda\n➡️ https://l.leparisien.fr/43nR"
     }
   ],
   "context": [
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-16 01:38",
-      "text": "« Vous allez gagner la guerre » : le prince Harry a rencontré des soldats blessés en Ukraine\n➡️ https://l.leparisien.fr/EJFc"
-    },
-    {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-16 01:58",
-      "text": "« Il mérite une procédure équitable, pas un tribunal populaire » : mouvement mené par Musk en faveur d’un retour de Huang à Nvidia\n➡️ https://l.leparisien.fr/IHhD",
-      "also_by": [
-        "Le Parisien"
-      ]
-    },
-    {
-      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
-      "published_at": "2026-11-16 01:58",
-      "text": "[Retweet de @RealJarTaylor] A big thank you to Thaïs d'Escufon who came all the from France to help make the 23rd AmRen conference a great success!"
+      "published_at": "2026-11-16 02:01",
+      "text": "« Il mérite une procédure équitable, pas un tribunal populaire » : mouvement mené par Musk en faveur d’un retour de Huang à Nvidia\n➡️ https://l.leparisien.fr/fqmF"
     },
     {
       "author_name": "L'HERMYNE ⚜️",
