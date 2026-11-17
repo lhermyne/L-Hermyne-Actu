@@ -1,13 +1,13 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-17 19:05",
-  "period": "du 2026-11-16 19:05 au 2026-11-17 19:05",
-  "new_period": "du 2026-11-17 08:00 au 2026-11-17 19:05",
-  "context_period": "du 2026-11-16 19:05 au 2026-11-17 08:00",
+  "generated_at": "2026-11-17 19:35",
+  "period": "du 2026-11-16 19:35 au 2026-11-17 19:35",
+  "new_period": "du 2026-11-17 08:00 au 2026-11-17 19:35",
+  "context_period": "du 2026-11-16 19:35 au 2026-11-17 08:00",
   "coverage_complete": false,
-  "new_count": 1339,
-  "context_count": 543,
+  "new_count": 1385,
+  "context_count": 487,
   "duplicates_merged": 125,
   "empty_removed": 2,
   "new": [
@@ -6934,308 +6934,246 @@
       "author_name": "Comité Trump France",
       "published_at": "2026-11-17 19:05",
       "text": "Oui. \nCette présidentielle part sur des bases complètement désuètes.\n[Cite @DamienRieu] Le débat sur le financement des retraites est passionnant mais il y a 9 chances sur 10 pour que le travail disparaisse d’ici une ou deux décennies. La question n’aura donc plus de sens."
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-17 19:05",
+      "text": "«Cette pièce est une bouffée d'air frais» : Laurent Firode, réalisateur et comédien, présente dans #Facealinfo sa comédie «Monsieur Konass» qui tourne en dérision le wokisme extrême\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "LCP",
+      "published_at": "2026-11-17 19:06",
+      "text": "Gaz lacrymogènes: un collectif alerte sur la santé des femmes, LFI veut les interdire en manifestation https://lcp.fr/actualites/gaz-lacrymogenes-un-collectif-alerte-sur-la-sante-des-femmes-lfi-veut-les-interdire-en"
+    },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-17 19:06",
+      "text": "«C’est celui qui en a le plus envie» : la campagne sans candidature de François Hollande\n\nÀ cinq mois du premier tour de la présidentielle, l'ex-chef de l'État continue de labourer le terrain dans l’espoir d’incarner un recours de choix en janvier.\nhttps://www.lefigaro.fr/elections/presidentielles/c-est-celui-qui-en-a-le-plus-envie-la-campagne-sans-candidature-de-francois-hollande-20261117"
+    },
+    {
+      "author_name": "Alain Weber",
+      "published_at": "2026-11-17 19:06",
+      "text": "Haïti : le culot surréaliste de l’ONU\n\nIl faut tout de même un sacré culot à l’ONU pour venir aujourd’hui donner des leçons à Nayib Bukele. \n\nOn croit rêver…\n\nVoilà une organisaton qui intervient depuis une trentaine d’années en Haïti, qui a englouti des milliards de dollars et"
+    },
+    {
+      "author_name": "Causeur.fr",
+      "published_at": "2026-11-17 19:07",
+      "text": "Le milieu du livre semble avoir oublié la menace de l’IA et se passionne désormais pour le transfert d’Amélie Nothomb d’Albin Michel à Gallimard... @causeur \n\nhttps://www.causeur.fr/tout-ca-pour-ca-rentree-litteraire-ia-litterature-edition-thelyson-orelien-amelie-nothomb-337449"
+    },
+    {
+      "author_name": "Le Figaro Culture",
+      "published_at": "2026-11-17 19:07",
+      "text": "Vie et mort du roi Arthur : le plus grand roman en prose du Moyen Âge reparaît dans un tirage spécial illustré https://l.lefigaro.fr/Sgi4"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-17 19:07",
+      "text": "Élection présidentielle 2027 : Gabriel Attal, David Lisnard et Bruno Retailleau s'accordent sur une primaire en janvier https://ow.ly/vEES106IREm"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-17 19:08",
+      "text": "🔴 Mobilisation du 17 novembre : plus de 146.000 manifestants en France selon le ministère de l'Intérieur https://www.sudradio.fr/?p=931757"
+    },
+    {
+      "author_name": "Tribune Populaire🌐",
+      "published_at": "2026-11-17 19:08",
+      "text": "Microsoft, le trafic aérien, JPMorgan, et maintenant le réseau classifié de la NSA.\n\nOfficiellement, aucun lien. \n\nGardez quand même un œil ouvert, ce genre de série est rarement anodin.\n[Cite @TribunePop23] 🇺🇸👁️FLASH INFO - Le réseau utilisé par la NSA pour ses communications internes classifiées est tombé en panne !\n\nD’après le New York Times, des responsables de la NSA ont classé l’incident en « code jaune », soit le deuxième niveau d’alerte sur une échelle de trois !"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-17 19:10",
+      "text": "Le télétravail vous fait-il vraiment économiser ?\n\nMoins de trajets, moins de déjeuners à l’extérieur… Le télétravail semble bon pour le portefeuille. Mais avez-vous compté les dépenses qui augmentent à la maison ?\n\nAvec Vincent Grard, on fait le bilan des économies visibles et"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-17 19:10",
+      "text": "Un manifestant blessé à l’œil par une grenade : le parquet de Poitiers saisit l’IGPN\n➡️ https://l.leparisien.fr/AAuL"
+    },
+    {
+      "author_name": "Occidentis",
+      "published_at": "2026-11-17 19:10",
+      "text": "🚨 La présidente de la Ligue des droits de l’Homme donne raison à Marine Le Pen en avouant que son association n’est « pas apolitique »."
+    },
+    {
+      "author_name": "Le JDD",
+      "published_at": "2026-11-17 19:11",
+      "text": "«Elouan, on va éteindre ta flamme» : le calvaire d’un jeune élu RN en Bretagne https://ow.ly/sCun106IREV"
+    },
+    {
+      "author_name": "Jean-Yves Le Gallou",
+      "published_at": "2026-11-17 19:12",
+      "text": "La #remigration plébiscitée par les électeurs de droite selon une étude de @periclesfrance à paraitre dans le @leJDD selon un sondage exclusif d' @opinionway \n\"Pour l’inversion des flux migratoires : 76% de la droite est pour « arrêter l’immigration et faire partir une grande"
+    },
+    {
+      "author_name": "Franc-Tireur",
+      "published_at": "2026-11-17 19:12",
+      "text": "🗞️Au sommaire de Franc-Tireur n°262 :\n\n👉Franc-Tireur, 5 ans et toutes ses dents\n👉Le Pen/Mélenchon : ni peste ni choléra\n👉Blocus : silence, ça brûle\n\nEt en plus :\n\n✚ #EntreNous\n✚ La nuance à l’offensive\n✚ Rima sans masque\n✚ Entretien avec Ladan Boroumand"
+    },
+    {
+      "author_name": "Damien Rieu",
+      "published_at": "2026-11-17 19:13",
+      "text": "Ne déroulez surtout pas ce tweet…\n[Cite @EU_Commission] Growth forecast for 2027 (%):\n🇮🇪 3.9\n🇲🇹 3.5\n🇨🇾 3.0\n🇸🇮 2.9\n🇨🇿 2.8\n🇵🇱 2.7\n🇬🇷 2.5\n🇭🇷 2.4\n🇸🇪 2.2\n🇧🇬 2.2\n🇪🇸 2.1\n🇪🇪 2.1\n🇱🇻 2.1\n🇩🇰 2.0\n🇵🇹 1.9\n🇱🇺 1.8\n🇷🇴 1.8\n🇱🇹 1.8\n🇸🇰 1.6\n🇫🇮 1.6\n🇳🇱 1.5\n🇭🇺 1.5\n🇦🇹 1.2\n🇩🇪 1\n🇧🇪 0.8\n🇮🇹 0.7\n🇫🇷 0.6"
+    },
+    {
+      "author_name": "Louis de Bourbon",
+      "published_at": "2026-11-17 19:13",
+      "text": "En 2011, je marchais avec émotion sur les traces des rois mes ancêtres, sous les caméras de @FranceTV. Je suis heureux de revenir à Reims cette année pour les 800 ans du sacre de Saint Louis.\n[Cite @LaLegitimite_] 🎥 En 2011, pour les 800 ans de la cathédrale de Reims, le 13h de France 2 avait suivi le Prince Louis, sur les pas de ses ancêtres : https://www.ina.fr/ina-eclaire-actu/video/4430308001018/feuilleton-le-sacre-de-reims"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-17 19:14",
+      "text": "Présidentielle 2027 : l’Unicef France suspend la mission d’ambassadeur du candidat Teddy Riner https://l.leparisien.fr/wZNR",
+      "also_by": [
+        "Le Parisien | politique"
+      ]
+    },
+    {
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-17 19:15",
+      "text": "📺 « Dans une révolution, les ennemis sont le policier et le journaliste. On sent planer une odeur de sang, entre bûcher et guillotine : ça aussi c’est la révolution. »\n@gabriellecluzel sur Face à l’Info (@CNEWS)"
+    },
+    {
+      "author_name": "Ni Oubli Ni Pardon",
+      "published_at": "2026-11-17 19:16",
+      "text": "11/2020 Yves Le Tulzo, chef du service des maladies infectieuses au CHU de Rennes : « Le confinement, son but, c'est d'empêcher les gens de circuler et de se réunir… Depuis le mois de mai, je n'ai embrassé ni mes enfants, ni mes petites filles... »"
+    },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-17 19:16",
+      "text": "[Retweet de @steve_tenre] Des boîtes sans disque, une carte papier vendue à part, des joueurs qui se sentent \"dépossédés\" et des microtransactions en perspective. \n\nLa grande qualité attendue de GTA 6, qui débarque jeudi, donne un blanc-seing à Rockstar Games pour multiplier les pratiques commerciales"
+    },
+    {
+      "author_name": "Tocsin",
+      "published_at": "2026-11-17 19:18",
+      "text": "▶️ Explications du « Vive l’Algérie française ! » du Général De Gaulle\n\n🇩🇿 « Ce « Vive l’Algérie Française » ne peut se comprendre que si l’on se réfère à ce que le Général De Gaulle a dit deux jours plus tôt, le 4 juin 1958 sur le Forum d’Alger, où il lança son fameux « Je vous"
+    },
+    {
+      "author_name": "Jean-Yves Le Gallou",
+      "published_at": "2026-11-17 19:18",
+      "text": "Je plussoie !\n[Cite @DamienRieu] Le débat sur le financement des retraites est passionnant mais il y a 9 chances sur 10 pour que le travail disparaisse d’ici une ou deux décennies. La question n’aura donc plus de sens."
+    },
+    {
+      "author_name": "Le JDD",
+      "published_at": "2026-11-17 19:20",
+      "text": "«Gabin», «Malika», «Camembert»... Nos coups de cœur ciné de la semaine https://ow.ly/SPyi106IRGZ"
+    },
+    {
+      "author_name": "Assemblée nationale",
+      "published_at": "2026-11-17 19:20",
+      "text": "✅  Députés et sénateurs sont parvenus à un accord sur la proposition de loi visant à améliorer les moyens  d'action de l'Agence de gestion et de recouvrement des avoirs saisis et  confisqués et à faciliter l'exercice des missions d'expert judiciaire.\n\n📅 Lecture des conclusions"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-17 19:21",
+      "text": "Grève du 17 novembre : « Nous, les petits fonctionnaires, on nous envoie des cacahuètes »\n➡️ https://l.leparisien.fr/Os3l"
+    },
+    {
+      "author_name": "Clément Macchi",
+      "published_at": "2026-11-17 19:23",
+      "text": "[Retweet de @cgtvoff] 🎬🇫🇷 𝐋𝐄 𝐌𝐀𝐑𝐃𝐈 𝐂 𝐌𝐀𝐂𝐂𝐇𝐈 - 𝟎𝟏𝐱𝟎𝟑   \n\nComme tous les mardis, #MardiCMacchi est de retour !\n\nCette semaine, @clement_mci donne la parole à @anatolium, avocat et essayiste candidat à l'élection présidentielle 2027.\n\nRencontres politiques, dossiers judiciaires"
+    },
+    {
+      "author_name": "Aldo Sterone",
+      "published_at": "2026-11-17 19:24",
+      "text": "La croissance française a été prélevée par la force, puis dépensée en frais de bouche et note de taxis.\n[Cite @ImpactMediaFR] 🚨🇫🇷🇪🇺📉 ALERTE INFO ⚠️⚠️⚠️\n\nLA FRANCE DEVRAIT TERMINER DERNIÈRE DU CLASSEMENT DES 27 PAYS DE L’UNION EUROPÉENNE EN 2027, AVEC LA PLUS FAIBLE CROISSANCE ÉCONOMIQUE 😨 :\n\n🇮🇪 1. Irlande : +3,9 %\n🇲🇹 2. Malte : +3,5 %\n🇨🇾 3. Chypre : +3 %\n🇸🇮 4. Slovénie : +2,9 %\n🇭🇺 5. Hongrie : +2,8 %"
+    },
+    {
+      "author_name": "Jean-Yves Le Gallou",
+      "published_at": "2026-11-17 19:24",
+      "text": "Le modèle de Mélenchon c'est le Vénézuèla : 28 millions d'habitants , 10 millions d'exilés politiques et économiques\n[Cite @OlivierBabeau] La pauvreté, l’injustice et la méchanceté, il suffit de les abolir. Fallait y penser.\nEt le grand guide touchera les écrouelles le week-end."
+    },
+    {
+      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
+      "published_at": "2026-11-17 19:24",
+      "text": "Salut @GueshTD si tu veux m'espionner, maintenant ce sera ici la plupart du temps, surtout pour le plus trash. J'essaie de t'aider et merci d'avance pour les clips ! N'en rate pas une miette.\nhttps://kick.com/danielconversano"
+    },
+    {
+      "author_name": "L'Observatoire des violences politiques",
+      "published_at": "2026-11-17 19:25",
+      "text": "👁️ Bilan du 14 novembre : 219 interpellations, des journalistes agressés et des violences dans toute la France\nhttps://www.observatoire-violences.fr/articles/bilan-du-14-novembre-219-interpellations-des-journalistes-agresses-et-des-violences-dans-toute-la-france"
+    },
+    {
+      "author_name": "Rassemblement National",
+      "published_at": "2026-11-17 19:25",
+      "text": "[Retweet de @RNJ_off] 🇫🇷 Samedi 28 novembre à 20h, à Paris, venez participer à la grande soirée de lancement du mouvement des jeunes de Marine Le Pen. Ensemble, lançons la mobilisation de la jeunesse pour 2027 ! 🔥\n\n✍️ Inscrivez-vous : \nhttps://inscription.marinelepen.com/grande-soiree-de-lancement-des-jeunes-avec-marine-le-pen"
+    },
+    {
+      "author_name": "Rassemblement National",
+      "published_at": "2026-11-17 19:25",
+      "text": "[Retweet de @CHAlloncle] Que retenir du projet novateur de Marine Le Pen sur les retraites ?\n\n➡️ Un système progressif fondé sur 40 à 42 annuités, selon l'âge d'entrée dans la vie active, avec le maintien du taux plein à 67 ans.\n\n➡️ Un fonds de capitalisation universel et obligatoire, défendu par l’UDR,"
+    },
+    {
+      "author_name": "Rassemblement National",
+      "published_at": "2026-11-17 19:25",
+      "text": "[Retweet de @JulienOdoul] Sur les retraites, le peuple doit avoir le dernier mot ! Avec @MLP_officiel, ce sera le dialogue social, le Parlement, ou le référendum. On redonne le pouvoir aux Français !\n\n@BFMTV"
+    },
+    {
+      "author_name": "Front Populaire",
+      "published_at": "2026-11-17 19:25",
+      "text": "La course à l’IA fragilise les entreprises. Les puces et les microprocesseurs sont pris d’assaut par les géants de la tech, entraînant une inflation sur ces technologies nécessaires à l’industrie de pointe. 👇\nhttps://frontpopulaire.fr/economie/contents/lindustrie-menacee-par-lexplosion-de-l-ia_tco_31982247"
+    },
+    {
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-17 19:26",
+      "text": "[POINT DE VUE] Réquisition des logements transmis par héritage : LFI toujours plus loin dans le communisme | Par Arnaud Florac\nLFI avance à visage découvert, avec des objectifs très clairs. On ne pourra pas dire qu'on ne savait pas. \n \nhttps://www.bvoltaire.fr/point-de-vue-requisition-des-logements-transmis-par-heritage-lfi-toujours-plus-loin-dans-le-communisme/?fsp_sid=26717"
+    },
+    {
+      "author_name": "Le JDD",
+      "published_at": "2026-11-17 19:26",
+      "text": "Présidentielle : Attal, Retailleau et Lisnard s'accordent sur une primaire en janvier https://ow.ly/8WRT106IRI4"
+    },
+    {
+      "author_name": "Rassemblement National",
+      "published_at": "2026-11-17 19:27",
+      "text": "🔥 Très fort SUCCÈS pour le dernier livre de Jordan Bardella qui dit l’immense attente des Français.\n\nMerci à vous, ce n’est qu’un début : lisez et faites lire « Gouverner » !\n\n➡️ https://www.amazon.fr/Gouverner-Jordan-Bardella/dp/2213736499/"
+    },
+    {
+      "author_name": "Agence France-Presse",
+      "published_at": "2026-11-17 19:30",
+      "text": "L'ex-patron emblématique de Nvidia, Jensen Huang, s'est dit prêt à un retour à la tête du géant américain des puces quelques heures avant la publication des résultats de l'entreprise qu'il a quittée après un scandale d'adultère et de contrebande. \n\n➡️ https://u.afp.com/SFPe"
+    },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-17 19:30",
+      "text": "Dans un post sur son compte X, Jensen Huang se dit prêt à «coopérer pleinement avec l’enquête indépendante menée par le conseil d’administration» de Nvidia. →https://l.lefigaro.fr/KiaH"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-17 19:31",
+      "text": "💬 Problème de financement, carrières hachées pénalisées… L’économiste Bertrand Martinot, expert associé à l’Institut Montaigne, décrypte le projet présidentiel du parti d’extrême droite.\n\nPar @philippinerbt\n➡️ https://l.lepoint.fr/gRV"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-17 19:31",
+      "text": "🔴 Il y aura bien une primaire de la droite et du centre https://mrf.lu/2w0x5"
+    },
+    {
+      "author_name": "Régis Le Sommier",
+      "published_at": "2026-11-17 19:32",
+      "text": "[Retweet de @AMK_Mapping_] Before we start seeing all the usual \"analysts\" making crazy predictions, I'd like to emphasise that the destruction of the roadway part of the Crimean Bridge will not cause a frontline collapse for Russia in the south, and will not result in any major Ukrainian advances"
+    },
+    {
+      "author_name": "Jean-Yves Le Gallou",
+      "published_at": "2026-11-17 19:32",
+      "text": "[Retweet de @ArnaudRerolle] Notre étude : https://periclesfrance.org/etude-une-france-de-droites/?utm_source=x"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-17 19:33",
+      "text": "🪧 17 novembre : comprenez-vous les manifestations ?\n\n🎙️ \"Aujourd'hui, on entend qu'on manque de tout, mais à un moment, il faut peut-être remettre les choses à plat et discuter politiquement de la direction à prendre\" Chloé, auditrice #LesVraiesVoix\n\n📺 https://SudRadio.fr"
+    },
+    {
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-17 19:34",
+      "text": "A.-C. Mailfert scandalisée d'être présentée comme la compagne du n°2 de France TV | Par Quitterie de Prémesnil\nInvitée de Franceinfo, la présidente de la Fondation des femmes s'agace qu'on rappelle qui est son compagnon. \n \nhttps://www.bvoltaire.fr/a-c-mailfert-scandalisee-detre-presentee-comme-la-compagne-du-n2-de-france-tv/?fsp_sid=26709"
     }
   ],
   "context": [
     {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-16 19:06",
-      "text": "Philippe Diallo candidat à la présidence de la Fifa : «Ça peut se jouer à pas grand-chose», estime Jean-François Pérès https://ow.ly/gIC1106ILB7"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-16 19:06",
-      "text": "Affaire Crépol : le parquet général de Grenoble demande à la cour d'appel d'écarter la circonstance aggravante de racisme anti-Blanc https://ow.ly/PPLb106ILB8"
-    },
-    {
-      "author_name": "Le Point",
-      "published_at": "2026-11-16 19:08",
-      "text": "« Geffray responsable ». Un mois et demi après un incendie volontaire en marge des manifestations, le lycée Nelson-Mandela de Nantes rouvrait ses portes ce lundi. La visite du ministre Édouard Geffray a été plutôt chahutée.\n\n➡️ https://l.lepoint.fr/Iy2"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-16 19:10",
-      "text": "ETF ou actions, votre âge doit-il vraiment décider ?\n\n📊 Les ETF seraient réservés aux jeunes et les actions aux investisseurs expérimentés…\n\nCes clichés résistent-ils vraiment à la réalité ? Et votre âge doit-il déterminer votre manière d’investir ?\n\n🎙️ Avec Thomas Binet et"
-    },
-    {
-      "author_name": "Valeurs actuelles",
-      "published_at": "2026-11-16 19:10",
-      "text": "[Retweet de @SixtineDUPONTT] Le niveau de vie médian des Français bascule sous la moyenne européenne révèle @Hexagone_org. À lire dans @Valeurs ↓\nhttps://www.valeursactuelles.com/economie/le-niveau-de-vie-median-des-francais-bascule-sous-la-moyenne-europeenne"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-16 19:11",
-      "text": "« Il m’appelait l’enfant » : au Royaume-Uni, l’affaire de viol qui relance le débat sur le consentement des ados\n➡️ https://l.leparisien.fr/UpEa",
-      "also_by": [
-        "Le Parisien | politique"
-      ]
-    },
-    {
-      "author_name": "Observatoire du journalisme (Ojim)",
-      "published_at": "2026-11-16 19:12",
-      "text": "🔴\"VOUS ÊTES MALADES ?!?!?!\" : la militante féministe Anne-Cécile Mailfert explose de rage après que la présentatrice de FranceInfo précise qu’elle est la compagne du numéro 2 de France TV, Stéphane Sitbon-Gomez."
-    },
-    {
-      "author_name": "LCP",
-      "published_at": "2026-11-16 19:13",
-      "text": "Motion de censure \"constructive\" : @MFesneau explique le choix de son groupe de présenter lors de sa \"niche\" parlementaire une proposition de loi constitutionnelle pour subordonner les motions de censure spontanées à \"la capacité de proposer une majorité alternative\". #LCPol"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-16 19:13",
-      "text": "Liberté d'expression : «La violence des mots devient une violence physique», lance Jean Sévillia, journaliste et historien, dans #Facealinfo\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "L'Express",
-      "published_at": "2026-11-16 19:13",
-      "text": "La candidate du Rassemblement national à l'élection présidentielle a confirmé lundi à l'ambassadeur d'Ukraine à Paris son choix de ne plus soutenir financièrement Kiev si elle est élue au printemps...\n\n➡️ https://l.lexpress.fr/lI6 https://l.lexpress.fr/lI6"
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-16 19:14",
-      "text": "«Il y a eu parfois des erreurs, mais chaque jour nous avons travaillé dur, avec beaucoup de femmes et d'hommes remarquables», a écrit le chef de l'État sur X."
-    },
-    {
-      "author_name": "Le Crayon",
-      "published_at": "2026-11-16 19:14",
-      "text": "Le « Made in France » est-il un mensonge d'État ?\n\nOn a reçu @Francois_Ruffin , député de la Somme, fondateur et président de Debout ! et candidat à l'élection présidentielle 2027. Il publie \"Au boulot ! : 40 chantiers pour remettre le pays debout\"."
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-16 19:14",
-      "text": "[Retweet de @LeFigaroTV] «Les intentions de vote pour Mélenchon chez les personnes âgées, c'est entre 5 et 7%. Peut-on vraiment gagner une présidentielle en étant si faible chez cet électorat?», interroge @FredericDabi dans Le Club Le Figaro Politique présenté par @yvesthreard."
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-16 19:14",
-      "text": "[Retweet de @LeFigaroTV] «Les premières attaques contre Teddy Riner sont venues de l'écosystème LFI car ils ont senti un danger. Comme si une personne noire devait soit voter Mélenchon, soit ne pas voter. Il y a quelque chose de l'ordre du racialisme et du racisme», estime @LouisHausalter dans Le Club Le"
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-16 19:15",
-      "text": "[Retweet de @LeFigaroTV] Candidature de Teddy Riner à la présidentielle : «À voir les dernières séquences, on a l'impression qu'il y a une impréparation incroyable. J'ai du mal à croire à la longue maturation de ce projet», affirme @AnneFulda dans Le Club Le Figaro Politique présenté par @yvesthreard."
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-16 19:15",
-      "text": "[Retweet de @LeFigaroTV] Candidature de Teddy Riner : «Un président noir ferait la nique à tous ceux qui disent que la France est un pays raciste», estime @yvesthreard dans Le Club Le Figaro Politique."
-    },
-    {
-      "author_name": "Ni Oubli Ni Pardon",
-      "published_at": "2026-11-16 19:15",
-      "text": "07/2021 Trois hommes sont morts après une vaccination anti-Covid. Un quatrième a subi le même sort à Aix. Des enquêtes sont ouvertes. Les familles veulent comprendre ce qui s'est passé."
-    },
-    {
-      "author_name": "Jon De Lorraine",
-      "published_at": "2026-11-16 19:16",
-      "text": "L'escroquerie du siècle ce type.\nJe n’ai jamais voté pour lui et je l’ai toujours dénoncé, et vous ?\n[Cite @EmmanuelMacron] Je veux supprimer les cotisations maladie et chômage que paye le salarié. #BourdinDirect"
-    },
-    {
-      "author_name": "Le Point",
-      "published_at": "2026-11-16 19:16",
-      "text": "Palmarès des meilleurs cabinets d’avocats 2027 : les votes sont ouverts !\n\nPar @NicolasBastuck https://l.lepoint.fr/A6d"
-    },
-    {
-      "author_name": "François Asselineau 🇫🇷",
-      "published_at": "2026-11-16 19:16",
-      "text": "🤦== 𝗘𝗡𝗜𝗘𝗠𝗘 𝗖𝗢𝗡𝗙𝗜𝗥𝗠𝗔𝗧𝗜𝗢𝗡 ==\n𝗟𝗔 \"𝗖𝗢𝗡𝗦𝗧𝗥𝗨𝗖𝗧𝗜𝗢𝗡 𝗘𝗨𝗥𝗢𝗣𝗘𝗘𝗡𝗡𝗘\" 𝗘𝗦𝗧 𝗨𝗡𝗘 𝗠𝗔𝗖𝗛𝗜𝗡𝗘 𝗔 𝗗𝗘𝗧𝗥𝗨𝗜𝗥𝗘 𝗟'𝗘𝗨𝗥𝗢𝗣𝗘\n▪️À Abu Dhabi, les négociateurs🇷🇺et🇺🇸 sur l'Ukraine ont carrément mis à la porte, sous les lazzis, les représentants"
-    },
-    {
-      "author_name": "Le Crayon",
-      "published_at": "2026-11-16 19:17",
-      "text": "VOTEZ | Selon toi, faut-il taxer les produits importés pour relocaliser l’industrie en France ?\n\nFrançois Ruffin détaille sa vision de la France en 2050 dans l’entretien complet 👉 https://youtu.be/nMo1OU3qt9s"
-    },
-    {
-      "author_name": "Jean MESSIHA",
-      "published_at": "2026-11-16 19:18",
-      "text": "[Retweet de @Agrif_] 🚨 Profanation de la statue de la Vierge à #PortoVecchio . \nLe Parquet refuse la circonstance aggravante de haine anti-chrétienne !!!\nContre l’évidence et malgré les arguments de notre avocat, le Parquet est dans le déni.\nEspérons que le juge passera outre ces réquisitions."
-    },
-    {
-      "author_name": "LCP",
-      "published_at": "2026-11-16 19:18",
-      "text": "\"Je mets en garde contre une primaire qui serait trop étriquée\", déclare @MFesneau qui plaide pour un processus qui puisse aller de Bruno Retailleau à Raphaël Glucksmann. \"Ce sont des gens qui partagent le 'Ni Le Pen, ni Mélenchon'\". #LCPol"
-    },
-    {
-      "author_name": "Occidentis",
-      "published_at": "2026-11-16 19:18",
-      "text": "🚨⚡️ Le parquet général de Grenoble demande à la cour d’appel d’écarter la circonstance aggravante de racisme anti-Blanc dans l’affaire du bal de Crépol. (Europe 1)"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-16 19:19",
-      "text": "🔴 Dernière minute. ➡️ https://mrf.lu/2wGTs"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-16 19:21",
-      "text": "‼️ Fracture sociale : le débat est-il encore possible ? #LesVraiesVoix\n\n🎙️ Sandrine, auditrice : \"Mes enfants sont tellement à gauche. Il faut regarder ce qui se passe autour d'eux. Comment est-ce possible de manquer autant de bon sens ?\"\n\n📺 https://SudRadio.fr"
-    },
-    {
-      "author_name": "L'Observatoire des violences politiques",
-      "published_at": "2026-11-16 19:25",
-      "text": "👁️ Jeudi à #Besançon, la faculté de lettres a été fermée administrativement pour une semaine après que deux antifas cagoulés ont fait irruption lors d'une réunion de la filière Histoire. Ils ont menacé et tenté d'expulser des étudiants qu'ils considèrent d'extrême droite.\n\nLe"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-16 19:25",
-      "text": "Des stars du trail contre un projet d’autoroute en Haute-Savoie : « En courant, on ressent bien plus de choses »\n➡️ https://l.leparisien.fr/J6cw"
-    },
-    {
-      "author_name": "Boulevard Voltaire",
-      "published_at": "2026-11-16 19:25",
-      "text": "[TRIBUNE] Supprimer la BAC et la BRAV-M : l’aveu d’une doctrine | Par Olivier Damien\nCe n’est pas une autre police que dessine LFI. C’est une force publique neutralisée. \n \nhttps://www.bvoltaire.fr/tribune-supprimer-la-bac-et-la-brav-m-laveu-dune-doctrine/?fsp_sid=26663"
-    },
-    {
-      "author_name": "Jon De Lorraine",
-      "published_at": "2026-11-16 19:25",
-      "text": "🔴🇫🇷 SÉQUENCE - Charles Consigny fait bégayer Raquel Garrido en direct sur les blacks blocs, elle est dans le déni total."
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-16 19:26",
-      "text": "Suppression de Parcoursup, baccalauréat en mai... Les propositions de Marine Le Pen pour répondre à la colère lycéenne https://ow.ly/UhSf106ILFP"
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-16 19:27",
-      "text": "[Retweet de @Batdesprez] 🚨 Philippe Diallo candidat contre Infantino à la Fifa: refus de Wenger, éloge de Ceferin, étonnement à la FFF … Les coulisses d’une annonce fracassante @Le_Figaro \n\nhttps://www.lefigaro.fr/sports/football/equipe-de-france/diallo-candidat-a-la-presidence-de-la-fifa-contre-infantino-pourquoi-le-patron-de-la-fff-est-tente-d-y-aller-20261116"
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-16 19:27",
-      "text": "[Retweet de @Batdesprez] 🚨Soutien de Nasser al-Khelaïfi, hypothèse de poursuites judiciaires envers Infantino, « élection déjà jouée » … La campagne est lancée. A lire sur @Le_Figaro"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-16 19:28",
-      "text": "⚽️ Philippe Diallo candidat à la présidence de la Fifa en 2027 https://www.sudradio.fr/sport-rugby/sport/foot-philippe-diallo-candidat-surprise-de-luefa-face-a-gianni-infantino"
-    },
-    {
-      "author_name": "Marine Le Pen",
-      "published_at": "2026-11-16 19:29",
-      "text": "LE QUARTIER GÉNÉRAL | Suivez en direct le grand débat de Marine Le Pen sur LCI ! https://x.com/i/broadcasts/2zkZagzNkzBllM",
-      "also_by": [
-        "Tanguy David",
-        "Jordan Bardella"
-      ]
-    },
-    {
-      "author_name": "LCP",
-      "published_at": "2026-11-16 19:29",
-      "text": ".@MFesneau réaffirme qu'à ce stade, \"il n'y a pas de candidat MoDem à la présidentielle\". \"Est-ce que le moment est venu de rajouter une candidature ? Le sentiment que j'ai, c'est non\". #LCPol"
-    },
-    {
-      "author_name": "Union Populaire Républicaine",
-      "published_at": "2026-11-16 19:29",
-      "text": "[Retweet de @FRocherArt] Ecoute : The Frexit Show\nhttps://x.com/i/broadcasts/2RePVLQkrBgZOj \n@uprtvfa"
-    },
-    {
-      "author_name": "Le Point",
-      "published_at": "2026-11-16 19:29",
-      "text": "Plus d’un an après la mort de son fils Diego, à 21 ans, la chanteuse revient sur les troubles psychiques dont il souffrait et dénonce les défaillances de sa prise en charge psychiatrique.\n➡️ https://l.lepoint.fr/Quz"
-    },
-    {
-      "author_name": "Union Populaire Républicaine",
-      "published_at": "2026-11-16 19:29",
-      "text": "[Retweet de @f_asselineau] 𝗘𝗡𝗖𝗢𝗥𝗘 𝗨𝗡 𝗕𝗨𝗚\n𝗗𝗔𝗡𝗦 𝗟𝗘 𝗡𝗔𝗥𝗥𝗔𝗧𝗜𝗙 𝗔𝗡𝗧𝗜-𝗥𝗨𝗦𝗦𝗘\nLe conflit entre🇩🇪 et les PM🇵🇱,🇨🇿,🇸🇰,🇭🇺,🇧🇬 révèle une bizarrerie :\n▪️Puisque Macron,Barrot et les médias mainstream assurent que Poutine compte envahir toute l'Europe, les pays🇪🇺 les plus près du"
-    },
-    {
-      "author_name": "VA+",
-      "published_at": "2026-11-16 19:30",
-      "text": "🔴 « Il est arrivé seul, il partira seul » : François Hollande tacle Emmanuel Macron dans l'émission SPHERE5.\n\nL'ancien président estime que son successeur est arrivé à l'Élysée sans véritable expérience électorale ni entourage politique construit au fil des années."
-    },
-    {
-      "author_name": "Union Populaire Républicaine",
-      "published_at": "2026-11-16 19:30",
-      "text": "[Retweet de @f_asselineau] Voici ce qu'en dit Julian Assange."
-    },
-    {
-      "author_name": "Union Populaire Républicaine",
-      "published_at": "2026-11-16 19:30",
-      "text": "[Retweet de @f_asselineau] 💶 𝗖𝗢𝗠𝗣𝗧𝗘𝗨𝗥 𝗘𝗡 𝗟𝗜𝗚𝗡𝗘\nAu 15 novembre 2026 à 12h00,\nle total reçu atteint 270.183 €,\nversé par 3.857 contributeurs.\n⚠️Soit 18 % de notre but\nde 1.500.000 € pour financer\nla campagne de 2027.\n⚠️Pour y contribuer, allez sur\n➡️ https://upr.fr\nou\n➡️ votre"
-    },
-    {
-      "author_name": "Les Patriotes",
-      "published_at": "2026-11-16 19:30",
-      "text": "[Retweet de @SergeDutilleul] @EwaZajaczkowska Très bien mais il ne pourra pas s'opposer à la censure venue de Bruxelles. Il doit libérer son pays par le #Polexit. Et nous, libérons la France par le #Frexit !"
-    },
-    {
-      "author_name": "Agence France-Presse",
-      "published_at": "2026-11-16 19:30",
-      "text": "🇪🇺 Cinq pays de l'UE, dont l'Allemagne et le Danemark, ont dévoilé lundi un projet inédit visant à transférer au Rwanda des migrants n'ayant plus le droit de séjourner en Europe.\n\n➡️ https://u.afp.com/SFQ3"
-    },
-    {
-      "author_name": "Les Patriotes",
-      "published_at": "2026-11-16 19:30",
-      "text": "[Retweet de @patriotes_93] @FrancoisDESCAM7 F. Philippot expose les enjeux de la perte de souveraineté et d’un programme qui ne peut pas fonctionner sans quitter l’Union européenne !\n\n#LFI voudrait désobéir 🤡 et engager un rapport de force 🤦🏻‍♂️\n\nUn parti très finalement soumis et très enfantin face à l'UE\n\n#Frexit"
-    },
-    {
-      "author_name": "Union Populaire Républicaine",
-      "published_at": "2026-11-16 19:30",
-      "text": "[Retweet de @PatriceCali] #Ukraine\nAprès près de 5 ans de guerre et plus de 200 milliards d’euros d’aide (dont 78 milliards militaires selon la Commission européenne), l’Union européenne ne sait toujours pas ce qu’elle veut comme “projet de paix”. C’est que que nous dit Macron.\nL'Union européenne a"
-    },
-    {
-      "author_name": "Les Patriotes",
-      "published_at": "2026-11-16 19:30",
-      "text": "[Retweet de @alainavello] L'Éducation nationale gangrénée par le gauchisme (énième épisode) :\n\nVoilà l'inscription apposée par le lycée Nelson-Mandela de Nantes, à l'occasion de sa réouverture, suite à l'incendie provoqué le 1er octobre par deux de ses élèves...\n\nL'écriture dite \"inclusive\" est évidemment"
-    },
-    {
-      "author_name": "Les Patriotes",
-      "published_at": "2026-11-16 19:30",
-      "text": "[Retweet de @cricricook] L'un est Souverainiste et l'autre pro UE ! \nEnfin un vrai débat malgré la pauvreté de raisonnement de la France soumise !"
-    },
-    {
-      "author_name": "Les Patriotes",
-      "published_at": "2026-11-16 19:30",
-      "text": "[Retweet de @62PATRIOTES] ✊Bonne journée à toute la RÉSISTANCE !\n✅Le combat mené par Florian #Philippot et Les Patriotes va bien plus loin que le simple engagement Politique.\n💪ON IRA JUSQU'AU BOUT CONTRE L'IMPOSTURE MONDIALISTE !💪\nhttps://les-patriotes.fr/soutien2027/"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-16 19:32",
-      "text": "🔴 Marine Le Pen propose de supprimer Parcoursup pour le bac : https://www.sudradio.fr/societe/lycee-le-pen-veut-supprimer-parcoursup-le-controle-continu-et-avancer-le-bac-en-mai"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-16 19:32",
-      "text": "\"Ce qu'a vécu votre journaliste, ce qu'ont vécu d'autres journalistes, c'est exactement ce que vivent tous les jours les personnels de l'éducation dans une partie de nos lycées.\" affirme @SylvainMaillard sur #Europe1 dans #Europe1Soir @pierredevilno"
-    },
-    {
-      "author_name": "Union Populaire Républicaine",
-      "published_at": "2026-11-16 19:32",
-      "text": "Le #débat de ce soir sur #LCI réunit 5 candidats.\nCette sélection reproduit « à peu près les mêmes » candidats que ceux retenus en son temps par le MEDEF : Tous favorables au maintien dans l'UE, l'euro et l'OTAN, malgré leurs postures opposées.\n#Frexit #UPR #Asselineau2027 🇫🇷"
-    },
-    {
-      "author_name": "Le Point",
-      "published_at": "2026-11-16 19:33",
-      "text": "[Retweet de @JohnPlissken] Pourquoi Robert Pattinson était la meilleure idée possible pour jouer James Bond\nhttps://www.lepoint.fr/pop-culture/pourquoi-robert-pattinson-etait-la-meilleure-idee-possible-pour-jouer-james-bond-JCWRULLK2ND7LIWLG53ETX7IBQ/\nvia @LePoint //l'avis de notre agent spécial Yael Djender"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-16 19:34",
-      "text": "\"Les parents doivent prendre la responsabilité, les parents de ces gosses qui font le piqué de grève depuis six semaines.\" souligne @SylvainMaillard sur #Europe1 dans #Europe1Soir @pierredevilno"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-16 19:34",
-      "text": "Présidentielle 2027 : à cinq mois du scrutin, un Français sur deux se reconnaît dans un pays « en colère et très contestataire » https://l.leparisien.fr/EJFp",
-      "also_by": [
-        "Le Parisien | politique"
-      ]
-    },
-    {
-      "author_name": "Le Point",
-      "published_at": "2026-11-16 19:35",
-      "text": "La 9e édition du palmarès des avocats du « Point », réalisé avec Statista, sera publiée en avril 2027. Avocats, juristes d’entreprise et clients peuvent dès à présent participer à l’enquête.\n\nPar @NicolasBastuck\n➡️ https://l.lepoint.fr/Rka"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-16 19:35",
-      "text": "\"Ce sont des fils de bourgeois qui font la révolution à Paris.\" déclare @SylvainMaillard sur #Europe1 dans #Europe1Soir @pierredevilno"
-    },
-    {
-      "author_name": "ASLA",
-      "published_at": "2026-11-16 19:35",
-      "text": "🔴 Le parquet général de Grenoble demande à la chambre de l’instruction de la cour d’appel de ne pas retenir la circonstance aggravante de racisme dans le meurtre de Thomas Perotto à Crépol.\nPourtant, plusieurs témoins ont bien entendu : « On va planter du Blanc ! »\n\nCombien de"
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-16 19:36",
+      "text": "Présidentielle 2027 : à cinq mois du scrutin, un Français sur deux se reconnaît dans un pays « en colère et très contestataire » https://l.leparisien.fr/9FSD"
     },
     {
       "author_name": "Europe 1",
@@ -7585,6 +7523,14 @@
       "author_name": "Mila ✨",
       "published_at": "2026-11-16 20:14",
       "text": "Sylvain Durif Président 🇫🇷"
+    },
+    {
+      "author_name": "Tanguy David",
+      "published_at": "2026-11-16 20:15",
+      "text": "[Retweet de @MLP_officiel] LE QUARTIER GÉNÉRAL | Suivez en direct le grand débat de Marine Le Pen sur LCI ! https://x.com/i/broadcasts/2zkZagzNkzBllM",
+      "also_by": [
+        "Jordan Bardella"
+      ]
     },
     {
       "author_name": "Le Parisien",
