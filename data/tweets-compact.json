@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-17 06:01",
-  "period": "du 2026-11-16 06:01 au 2026-11-17 06:01",
-  "new_period": "du 2026-11-16 20:00 au 2026-11-17 06:01",
-  "context_period": "du 2026-11-16 06:01 au 2026-11-16 20:00",
+  "generated_at": "2026-11-17 06:31",
+  "period": "du 2026-11-16 06:31 au 2026-11-17 06:31",
+  "new_period": "du 2026-11-16 20:00 au 2026-11-17 06:31",
+  "context_period": "du 2026-11-16 06:31 au 2026-11-16 20:00",
   "coverage_complete": true,
-  "new_count": 334,
-  "context_count": 1350,
-  "duplicates_merged": 111,
+  "new_count": 349,
+  "context_count": 1337,
+  "duplicates_merged": 112,
   "empty_removed": 4,
   "new": [
     {
@@ -1409,7 +1409,10 @@
     {
       "author_name": "Marine Le Pen",
       "published_at": "2026-11-16 23:04",
-      "text": "La facilité, c’est de dire aux gens de travailler jusqu’à 64 ou 65 ans, puis 66, 67. Ce n’est pas raisonnable.\n\nIl est possible de faire autrement : l’objectif, c’est de réparer un système devenu injuste au fil du temps."
+      "text": "La facilité, c’est de dire aux gens de travailler jusqu’à 64 ou 65 ans, puis 66, 67. Ce n’est pas raisonnable.\n\nIl est possible de faire autrement : l’objectif, c’est de réparer un système devenu injuste au fil du temps.",
+      "also_by": [
+        "Rassemblement National"
+      ]
     },
     {
       "author_name": "Alain Weber",
@@ -1738,79 +1741,87 @@
       "author_name": "Ni Oubli Ni Pardon",
       "published_at": "2026-11-17 05:50",
       "text": "12/2021 Barack Obama, accompagné du Dr Anthony Fauci, directeur de l'Institut national des maladies infectieuses, s'est rendu dans un centre de vaccination installé dans une école primaire de Washington, à la rencontre d'élèves récemment vaccinés contre le Covid-19. #SpécialUS🇺🇸"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Causeur.fr",
-      "published_at": "2026-11-16 06:01",
-      "text": "Chérie, j’ai élargi le racisme! @causeur \n\nhttps://www.causeur.fr/cherie-jai-elargi-le-racisme-lfi-bagnolet-zemmour-houellebecq-337346"
     },
     {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-16 06:02",
-      "text": "🎙️ Votez ici. ➡️ https://mrf.lu/2-M2v"
+      "author_name": "Causeur.fr",
+      "published_at": "2026-11-17 06:01",
+      "text": "🇺🇦 \"La guerre en Ukraine ne devrait pas figurer au programme du sommet entre Donald Trump, Xi Jinping et Vladimir Poutine, jeudi, et les pourparlers d’Abou Dhabi se sont achevés sans cessez-le-feu. Et dans le Donbass, l’armée russe profite du brouillard pour briser les lignes"
     },
     {
       "author_name": "L'Express",
-      "published_at": "2026-11-16 06:09",
-      "text": "Avec ses missiles et ses drones, la PDG du fabricant Fire Point est le fer de lance de la riposte ukrainienne contre Moscou.\n\n➡️ https://l.lexpress.fr/BSx"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-16 06:11",
-      "text": "Une portion de l'A13 fermée dès ce lundi matin pour neuf mois\n\nToute l'info est à retrouver sur https://cnews.fr"
+      "published_at": "2026-11-17 06:03",
+      "text": "La chute de Jensen Huang rappelle les dangers de l'atypique gouvernance qui règne dans le secteur tech. Si Nvidia a les épaules pour traverser la tempête, d'autres entreprises du secteur risquent...\n\n➡️ https://l.lexpress.fr/ift"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-16 06:12",
-      "text": "📰 La une du Parisien du 16 novembre\n\n➡️ https://l.leparisien.fr/nDx4"
+      "published_at": "2026-11-17 06:03",
+      "text": "Inégalités salariales hommes-femmes : ça se mesure aussi en écart de liberté\n➡️ https://l.leparisien.fr/ZkYx"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-17 06:04",
+      "text": "🎙️ Votez ici. ➡️ https://mrf.lu/2wRsR"
     },
     {
       "author_name": "Sud Radio",
-      "published_at": "2026-11-16 06:13",
-      "text": "🇫🇷 Les Bleus battent la Turquie et verront les quarts de la Ligue des Nations !\n\nUne soirée à part pour Elie Junior Kroupi\n\nhttps://www.sudradio.fr/sport-rugby/sport/ligue-des-nations-des-bleus-poussifs-mais-au-rendez-vous-des-quarts"
-    },
-    {
-      "author_name": "Bruno Attal",
-      "published_at": "2026-11-16 06:15",
-      "text": "Il ne faut pas couper Teddy Riner, même\n quand il a fini…\n\nHâte d’écouter son programme sécuritaire.\n\nIl sera du coté des policiers ou de la famille Traoré à votre avis ?"
-    },
-    {
-      "author_name": "Le JDD",
-      "published_at": "2026-11-16 06:16",
-      "text": "Made in France : le lin breton renaît, mais sa transformation file en Asie https://ow.ly/geTU106IK9Z"
+      "published_at": "2026-11-17 06:13",
+      "text": "💥Une hausse du Smic \"digne de l'URSS\", selon Marine Le Pen \n\n👇Que retenir du débat présidentiel sur la précarité ?\n\nhttps://www.sudradio.fr/societe/impots-logement-smic-ce-quil-faut-retenir-du-debat-entre-candidats-a-la-presidentielle"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-16 06:16",
-      "text": "Un procès très attendu. ➡️ https://mrf.lu/2-M1p"
+      "published_at": "2026-11-17 06:13",
+      "text": "Claude Moniquet, spécialiste terrorisme et renseignement, analyse la présence de soldats français en Ukraine. #LaMatinale\n\nToute l'info est à retrouver sur https://cnews.fr"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-16 06:20",
-      "text": "Crépol : le racisme anti-blancs retenu ?\n\nToute l'info est à retrouver sur https://cnews.fr"
+      "published_at": "2026-11-17 06:15",
+      "text": "Depuis septembre, les grèves et manifestations s'enchaînent. ➡️ https://mrf.lu/2wRj4"
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-17 06:15",
+      "text": "L’Iran préparerait une attaque chimique sur des membres de l’administration Trump à Washington, alertent les États-Unis\n➡️ https://l.leparisien.fr/TEJR",
+      "also_by": [
+        "Le Parisien"
+      ]
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-16 06:24",
-      "text": "« Tu te convertis ou on te tue » : en hommage aux chrétiens persécutés, plus de cent monuments illuminés en rouge\n➡️ https://l.leparisien.fr/m7RA"
+      "published_at": "2026-11-17 06:17",
+      "text": "📰 La une du Parisien du 17 novembre\n\n➡️ https://l.leparisien.fr/9FSC"
     },
     {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-16 06:25",
-      "text": "Une fermeture redoutée. ➡️ https://mrf.lu/2-MR0"
+      "author_name": "Le Point",
+      "published_at": "2026-11-17 06:19",
+      "text": "L’Europe à sept, brouillon d’un Conseil de sécurité\n\n🖋️ L'ÉDITO de @Eberretta https://l.lepoint.fr/DQb"
     },
     {
       "author_name": "Europe 1",
-      "published_at": "2026-11-16 06:26",
-      "text": "Affaire Crépol : le racisme anti-blanc devant la cour d’appel de Grenoble https://ow.ly/Q8u1106IKaB"
+      "published_at": "2026-11-17 06:20",
+      "text": "Journalistes de CNews exfiltrés, Édouard Geffray hué, rentrée annulée... Retour sur une journée de tensions au lycée Nelson-Mandela de Nantes https://ow.ly/3jiT106IP7m"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-17 06:25",
+      "text": "Un dénouement très attendu. ➡️ https://mrf.lu/2wRSh"
     },
     {
       "author_name": "Le Figaro",
-      "published_at": "2026-11-16 06:30",
-      "text": "Acheter des actions Anthropic avant son introduction en Bourse : avec quel courtier et à quel prix ? → https://l.lefigaro.fr/zw62"
+      "published_at": "2026-11-17 06:30",
+      "text": "Dans une étude parue ce lundi, l’institut de sondage OpinionWay affirme que 67% des Français connaissent GTA 6 et que 30% d’entre eux envisagent d’y jouer. →https://l.lefigaro.fr/JMLh"
     },
+    {
+      "author_name": "Alain Weber",
+      "published_at": "2026-11-17 06:30",
+      "text": "Ça n’a vraiment pas été sa soirée, au petit Attal…\n[Cite @MLP_officiel] Je n'ai aucune leçon de gestion à recevoir de la part de ceux qui ont créé la plus grosse dette de toute l'histoire de France."
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-17 06:30",
+      "text": "«Des militaires français sont déployés en Ukraine pour former des soldats et entretenir du matériel», explique Claude Moniquet https://www.cnews.fr/france/2026-11-17/des-militaires-francais-sont-deployes-en-ukraine-pour-former-des-soldats-et"
+    }
+  ],
+  "context": [
     {
       "author_name": "CNEWS",
       "published_at": "2026-11-16 06:35",
@@ -7349,6 +7360,11 @@
       "author_name": "L'Observatoire des violences politiques",
       "published_at": "2026-11-16 17:25",
       "text": "👁️ En Savoie, des militants #RN ont été agressés par des militants d'extrême gauche pro-#LFI alors qu'ils collaient des affiches.\n\nUne militante raconte que deux individus ont arraché les affiches et les ont insultés puis aspergés d'alcool.\n\nLe commerce du délégué départemental"
+    },
+    {
+      "author_name": "Causeur.fr",
+      "published_at": "2026-11-16 17:25",
+      "text": "Chérie, j’ai élargi le racisme! @causeur https://www.causeur.fr/cherie-jai-elargi-le-racisme-lfi-bagnolet-zemmour-houellebecq-337346"
     },
     {
       "author_name": "Fdesouche.com est une revue de presse",
