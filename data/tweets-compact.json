@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-17 03:03",
-  "period": "du 2026-11-16 03:03 au 2026-11-17 03:03",
-  "new_period": "du 2026-11-16 20:00 au 2026-11-17 03:03",
-  "context_period": "du 2026-11-16 03:03 au 2026-11-16 20:00",
+  "generated_at": "2026-11-17 03:29",
+  "period": "du 2026-11-16 03:29 au 2026-11-17 03:29",
+  "new_period": "du 2026-11-16 20:00 au 2026-11-17 03:29",
+  "context_period": "du 2026-11-16 03:29 au 2026-11-16 20:00",
   "coverage_complete": true,
-  "new_count": 323,
+  "new_count": 325,
   "context_count": 1359,
-  "duplicates_merged": 116,
+  "duplicates_merged": 117,
   "empty_removed": 4,
   "new": [
     {
@@ -1671,6 +1671,19 @@
       "author_name": "Le Parisien",
       "published_at": "2026-11-17 03:02",
       "text": "« Je perds un compagnon d’engagement » : Emmanuel Macron rend hommage à l’élu Raphaël Gérard, décédé à l’âge de 58 ans https://l.leparisien.fr/lhuH"
+    },
+    {
+      "author_name": "Alain Weber",
+      "published_at": "2026-11-17 03:13",
+      "text": "C’est étonnant… fut un temps où c’était possible.\n\nMême les filles et les fils des familles aisées travaillaient un petit peu, pour les compléments.\n\nEt d’autres travaillaient beaucoup.\n\nPersonne n’en est mort.\n[Cite @Crohnfighter] Il est fou …\n\nOn l’a tous fait on en est pas mort au contraire …"
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-17 03:15",
+      "text": "« Totalement inacceptable » : le Japon furieux après le survol de son espace aérien par deux avions, sans doute russes\n➡️ https://l.leparisien.fr/iL3J",
+      "also_by": [
+        "Le Parisien"
+      ]
     }
   ],
   "context": [
