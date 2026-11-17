@@ -1,12 +1,12 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-17 02:59",
-  "period": "du 2026-11-16 02:59 au 2026-11-17 02:59",
-  "new_period": "du 2026-11-16 20:00 au 2026-11-17 02:59",
-  "context_period": "du 2026-11-16 02:59 au 2026-11-16 20:00",
+  "generated_at": "2026-11-17 03:03",
+  "period": "du 2026-11-16 03:03 au 2026-11-17 03:03",
+  "new_period": "du 2026-11-16 20:00 au 2026-11-17 03:03",
+  "context_period": "du 2026-11-16 03:03 au 2026-11-16 20:00",
   "coverage_complete": true,
-  "new_count": 322,
+  "new_count": 323,
   "context_count": 1359,
   "duplicates_merged": 116,
   "empty_removed": 4,
@@ -1666,6 +1666,11 @@
       "also_by": [
         "Le Parisien | politique"
       ]
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-17 03:02",
+      "text": "« Je perds un compagnon d’engagement » : Emmanuel Macron rend hommage à l’élu Raphaël Gérard, décédé à l’âge de 58 ans https://l.leparisien.fr/lhuH"
     }
   ],
   "context": [
