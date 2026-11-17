@@ -1,14 +1,40 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-17T02:29:54.273Z",
+  "updated_at": "2026-11-17T02:59:59.399Z",
   "window_hours": 24,
-  "window_start": "2026-11-16T02:29:54.273Z",
+  "window_start": "2026-11-16T02:59:59.399Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
   "count": 1805,
   "tweets": [
+    {
+      "id": "2122523382008705162",
+      "created_at": "2026-11-17T02:53:03.000Z",
+      "author": "leparisien_pol",
+      "author_name": "Le Parisien | politique",
+      "type": "tweet",
+      "text": "« Complètement fou » : l’ex-champion du monde de boxe Jorge Linares est détenu par l’ICE aux États-Unis\n➡️ https://l.leparisien.fr/z9wi",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/leparisien_pol/status/2122523382008705162"
+    },
+    {
+      "id": "2122523367416926215",
+      "created_at": "2026-11-17T02:53:00.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "« Complètement fou » : l’ex-champion du monde de boxe Jorge Linares est détenu par l’ICE aux États-Unis\n➡️ https://l.leparisien.fr/BND8",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2122523367416926215"
+    },
     {
       "id": "2122516688826454522",
       "created_at": "2026-11-17T02:26:27.000Z",
@@ -23447,32 +23473,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/le_Parisien/status/2122173382724862344"
-    },
-    {
-      "id": "2122157567216357411",
-      "created_at": "2026-11-16T02:39:26.000Z",
-      "author": "leparisien_pol",
-      "author_name": "Le Parisien | politique",
-      "type": "tweet",
-      "text": "Donald Trump, Xi Jinping et Vladimir Poutine vont tenir un sommet trilatéral jeudi en Chine\n➡️ https://l.leparisien.fr/UpEg",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/leparisien_pol/status/2122157567216357411"
-    },
-    {
-      "id": "2122157519699091965",
-      "created_at": "2026-11-16T02:39:15.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "Donald Trump, Xi Jinping et Vladimir Poutine vont tenir un sommet trilatéral jeudi en Chine\n➡️ https://l.leparisien.fr/Dj9J",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2122157519699091965"
     }
   ]
 }

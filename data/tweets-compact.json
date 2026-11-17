@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-17 03:29",
-  "period": "du 2026-11-16 03:29 au 2026-11-17 03:29",
-  "new_period": "du 2026-11-16 20:00 au 2026-11-17 03:29",
-  "context_period": "du 2026-11-16 03:29 au 2026-11-16 20:00",
+  "generated_at": "2026-11-17 03:59",
+  "period": "du 2026-11-16 03:59 au 2026-11-17 03:59",
+  "new_period": "du 2026-11-16 20:00 au 2026-11-17 03:59",
+  "context_period": "du 2026-11-16 03:59 au 2026-11-16 20:00",
   "coverage_complete": true,
-  "new_count": 325,
+  "new_count": 326,
   "context_count": 1359,
-  "duplicates_merged": 117,
+  "duplicates_merged": 116,
   "empty_removed": 4,
   "new": [
     {
@@ -1684,18 +1684,17 @@
       "also_by": [
         "Le Parisien"
       ]
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-17 03:53",
+      "text": "« Complètement fou » : l’ex-champion du monde de boxe Jorge Linares est détenu par l’ICE aux États-Unis\n➡️ https://l.leparisien.fr/BND8",
+      "also_by": [
+        "Le Parisien | politique"
+      ]
     }
   ],
   "context": [
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-16 03:39",
-      "text": "Donald Trump, Xi Jinping et Vladimir Poutine vont tenir un sommet trilatéral jeudi en Chine\n➡️ https://l.leparisien.fr/Dj9J",
-      "also_by": [
-        "Le Parisien | politique",
-        "Régis Le Sommier"
-      ]
-    },
     {
       "author_name": "Le Parisien",
       "published_at": "2026-11-16 04:42",
@@ -2167,6 +2166,11 @@
       "author_name": "Sud Radio",
       "published_at": "2026-11-16 07:46",
       "text": "🚨Cyberattaque de La Poste : 22 millions de personnes concernées\n\n🗣️Clément Domingo (@_SaxX_) : \"C'est peut-être l'attaque de trop... Avec tant de données dans la nature, les escrocs vont avoir un super profil sur nous\" #GrandMatin \n\n📻https://www.sudradio.fr/"
+    },
+    {
+      "author_name": "Régis Le Sommier",
+      "published_at": "2026-11-16 07:47",
+      "text": "[Retweet de @le_Parisien] Donald Trump, Xi Jinping et Vladimir Poutine vont tenir un sommet trilatéral jeudi en Chine\n➡️ https://l.leparisien.fr/Dj9J"
     },
     {
       "author_name": "Le Parisien | politique",
