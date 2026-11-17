@@ -1,13 +1,13 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-17 23:36",
-  "period": "du 2026-11-16 23:36 au 2026-11-17 23:36",
-  "new_period": "du 2026-11-17 20:00 au 2026-11-17 23:36",
-  "context_period": "du 2026-11-16 23:36 au 2026-11-17 20:00",
+  "generated_at": "2026-11-18 00:06",
+  "period": "du 2026-11-17 00:06 au 2026-11-18 00:06",
+  "new_period": "du 2026-11-17 20:00 au 2026-11-18 00:06",
+  "context_period": "du 2026-11-17 00:06 au 2026-11-17 20:00",
   "coverage_complete": false,
-  "new_count": 305,
-  "context_count": 1579,
+  "new_count": 326,
+  "context_count": 1566,
   "duplicates_merged": 128,
   "empty_removed": 2,
   "new": [
@@ -325,7 +325,10 @@
     {
       "author_name": "L’Infiltré",
       "published_at": "2026-11-17 20:37",
-      "text": "🔴 L’Infiltré révèle que le député LFI Raphaël Arnault était membre d’une boucle Signal dans laquelle des militants de la Jeune Garde ont préparé leur mobilisation avant l’agression mortelle de Quentin Deranque, puis célébré les violences.\n\nUne présence jusqu’ici passée sous"
+      "text": "🔴 L’Infiltré révèle que le député LFI Raphaël Arnault était membre d’une boucle Signal dans laquelle des militants de la Jeune Garde ont préparé leur mobilisation avant l’agression mortelle de Quentin Deranque, puis célébré les violences.\n\nUne présence jusqu’ici passée sous",
+      "also_by": [
+        "Cercle Aristote"
+      ]
     },
     {
       "author_name": "Europe 1",
@@ -1586,82 +1589,114 @@
       "author_name": "Jordan Bardella",
       "published_at": "2026-11-17 23:35",
       "text": "Je me définis comme un agnostique ami du christianisme.\n\nJe souhaite que notre époque retrouve du sens, que l'on comprenne à nouveau l'esprit du sacrifice des bâtisseurs de Notre-Dame ou des Poilus de 14."
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-16 23:39",
-      "text": "Ce soir, Marine Le Pen s’est placée au-dessus de la mêlée. Pendant que ses adversaires multipliaient les attaques, elle est restée claire, cohérente et concentrée sur les problèmes des Français.\n\nPouvoir d’achat, jeunesse, retraites : elle est la seule candidate dont on retient"
-    },
-    {
-      "author_name": "Jean-Yves Le Gallou",
-      "published_at": "2026-11-16 23:41",
-      "text": "[Retweet de @gregoirehoudan] Marine Le Pen vient de terminer Retailleau, Glucksmann et Attal 🍿\n\nUn véritable régal. \n#LeGrandDebat"
-    },
-    {
-      "author_name": "Jean-Yves Le Gallou",
-      "published_at": "2026-11-16 23:41",
-      "text": "[Retweet de @ObjectifRemi] @rglucks1 voilà des associations qui croulent sous les subventions : \n\n- France terre d’Asile \n- La Cimade\n- SOS Méditerranée \n- Utopia 56\n- Forum réfugiés \n\nEt des dizaines d’autres qui, rappelons le, ont reçu près de 920 millions d’€ en 2025 dans le cadre des financements de"
-    },
-    {
-      "author_name": "Valeurs actuelles",
-      "published_at": "2026-11-16 23:41",
-      "text": "🗞️ REPORTAGE. À Toulon, le commandant du Charles de Gaulle dévoile quelques secrets du fleuron de la Marine nationale. Le porte-avions est en phase d’entretien après sa mission débutée dans les mers froides et achevée en mer d’Oman, face à l’Iran. Visite… https://l.valeursactuelles.com/kNf"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-16 23:42",
-      "text": "Panne d’électricité ce 17 novembre ? De Springfield au monde entier, comment un épisode des « Simpson » alimente cette rumeur\n➡️ https://l.leparisien.fr/aCUe"
+      "published_at": "2026-11-17 23:37",
+      "text": "Elle a «réalisé l’année dernière» : invitée au micro de France Inter, Muriel Robin est revenue sur le viol qu’elle a subi alors qu’elle n’avait que 10 ans, et dont elle n’a pris conscience qu’après des décennies de déni ➡️ https://l.leparisien.fr/Rbk6"
     },
     {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-16 23:44",
-      "text": "Marine Le Pen : \"la Ligue des droits de l'homme, c'est devenu un ramassis de gauchistes\""
+      "author_name": "Damien Rieu",
+      "published_at": "2026-11-17 23:37",
+      "text": "La marque @LeSlipFrancais attaque @TerredeFrance_1 pour avoir osé dire une vérité. \nSoutenons Terre de France !"
+    },
+    {
+      "author_name": "Jordan Bardella",
+      "published_at": "2026-11-17 23:39",
+      "text": "Il faut être fou pour nier l'héritage chrétien de la France !\n\nJe ne serais jamais de ceux qui oublient leur passé : je suis fier de notre histoire, de ce qu'a été la France, et ma hantise serait que demain la France disparaisse."
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-17 23:41",
+      "text": "Erik Tegnér, journaliste, sur l'élection présidentielle de 2027 : «Si Jean-Luc Mélenchon arrive au pouvoir, il y aura un nouveau clivage entre l'extrême gauche et le centre-gauche», dans #100Politique\n\nToute l'info est à retrouver sur https://cnews.fr"
     },
     {
       "author_name": "Le Point",
-      "published_at": "2026-11-16 23:45",
-      "text": "Avec un PIB par habitant inférieur de près de 40 % à celui des États-Unis, la France paie le prix de son décrochage productif, qui bride aussi les salaires.\n\n➡️ https://l.lepoint.fr/nFm"
+      "published_at": "2026-11-17 23:41",
+      "text": "📣 TRIBUNE Robert Pattinson sera le septième visage de 007. Pour Frédéric Albert Lévy, spécialiste de James Bond, l’acteur pourrait bien ressusciter un héros que Daniel Craig avait fait mourir.\n➡️ https://l.lepoint.fr/6IJ"
     },
     {
-      "author_name": "Jordan Bardella",
-      "published_at": "2026-11-16 23:47",
-      "text": "[Retweet de @MLP_officiel] LE QUARTIER GÉNÉRAL | Suivez en direct le grand débat de Marine Le Pen sur LCI ! https://x.com/i/broadcasts/2zkZagzNkzBllM"
+      "author_name": "Jean-Yves Le Gallou",
+      "published_at": "2026-11-17 23:45",
+      "text": "[Retweet de @ObjectifRemi] 76% des électeurs de droite veulent la Remigration. \n\n@MLP_officiel @J_Bardella entendez les !"
     },
     {
-      "author_name": "Jordan Bardella",
-      "published_at": "2026-11-16 23:47",
-      "text": "[Retweet de @MLP_officiel] En 10 ans, l'inflation sur l'alimentation a atteint 33% et jusqu'à 62% sur l'énergie.\n\nJe propose une TVA à 0% sur 100 produits de première nécessité et un taux à 5,5% sur l'énergie.\n\nCette bouffée d'oxygène sera immédiate."
-    },
-    {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-16 23:47",
-      "text": "« J’ai fait de mon mieux », malgré les « erreurs » : le message crépusculaire d’Emmanuel Macron pour les dix ans de sa candidature https://l.leparisien.fr/ZkYy"
-    },
-    {
-      "author_name": "Pierre Sautarel",
-      "published_at": "2026-11-16 23:51",
-      "text": "Le sujet des associations est absolument capital. C’est l’un des grands angles morts du débat public : comment l’argent de nos impôts finance-t-il, par le biais des subventions et des conventions publiques, tout un écosystème militant gravitant autour de la gauche radicale et de",
-      "also_by": [
-        "Damien Rieu"
-      ]
+      "author_name": "Jean-Yves Le Gallou",
+      "published_at": "2026-11-17 23:45",
+      "text": "[Retweet de @pierremarieseve] Le seul racisme systémique en France est le racisme anti-blanc.\n\nCar, même quand des juges indépendants le retiennent, le système continue à le nier.\n\nPrise de position incompréhensible et révoltante du parquet général de Grenoble."
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-16 23:54",
-      "text": "« Ne tombez pas dans cette facilité, vous êtes trop intelligent pour ça… » : Le Pen et Mélenchon donnent corps à leur duel https://l.leparisien.fr/Dj9h"
+      "published_at": "2026-11-17 23:48",
+      "text": "Plus de 7 000 gardes à vue, 356 personnes incarcérées… Le lourd bilan judiciaire des manifestations « contre la vie chère »\n➡️ https://l.leparisien.fr/kKvZ"
     },
     {
-      "author_name": "Le Jarl",
-      "published_at": "2026-11-17 00:05",
-      "text": "C’est indéniable, @MLP_officiel a été magistrale ce soir dans ce débat. Elle les a mangés les uns après les autres. C’est rassurant pour la suite. \n\nEt pour vous, quel a été son meilleur moment ?"
+      "author_name": "Alain Weber",
+      "published_at": "2026-11-17 23:50",
+      "text": "Deux fois en moins de 24 h, cela fait beaucoup… une fois, c’est un accident, 2 fois c’est révélateur de ce qu’il est.\n\nMais cela révèle, et j’en suis triste, que Teddy Riner est un haïssable individu, d’une agressivité qu’il est incapable de maîtriser, d’une arrogance folle, et\n[Cite @EllaKelian] Le naufrage Riner continue….\n\nIncapable de garder ses nerfs, défense claquée au sol: tout laisse à penser que cette campagne finira mal pour lui !"
     },
     {
-      "author_name": "Jon De Lorraine",
-      "published_at": "2026-11-17 00:05",
-      "text": "🔴🇵🇱 VIDÉO| Attentat à Cracovie.\nVoici un miracle : \nL'assaillant tire sur un enfant, et aucune balle ne le touche.\nJe n'ai jamais vu quelque chose d'aussi troublant."
+      "author_name": "CNEWS",
+      "published_at": "2026-11-17 23:50",
+      "text": "Lycées : «On a apporté la pire des réponses possibles», estime Benjamin Camboulives dans #SoirInfo\n\nToute l'info est à retrouver sur https://cnews.fr"
     },
+    {
+      "author_name": "Jordan Bardella",
+      "published_at": "2026-11-17 23:50",
+      "text": "Beaucoup d'enseignants attendent le retour de l'autorité à l'école, et attendent qu'un gouvernement s'occupe enfin du déclin éducatif.\n\nNos mesures permettront de refonder l'école française."
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-17 23:54",
+      "text": "« Loi muselière » ou lutte contre les discriminations... Qu’est-ce que le texte controversé sur l’antisémitisme adopté en Italie ?\n➡️ https://l.leparisien.fr/Lecp"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-17 23:54",
+      "text": "Kévin Bossuet : «Il y a une telle montée de la violence qu'on se met peu à peu à l'accepter», dans #SoirInfo\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Alain Weber",
+      "published_at": "2026-11-17 23:56",
+      "text": "🚨🚨 Affaire Quentin Deranque/ Raphaël Arnault.\n\nCe message est absolument ignoble.\n\nSi Raphaël Arnault est vraiment dans cette boucle, comme cela a été annoncé, il est complice, et sa place est en prison !\n\nC’est totalement honteux qu’il siège encore à l’assemblée nationale.\n\nEt\n[Cite @Jules_Laurans] « Le faf est visiblement décédé. »\n\nMessage glaçant que nous révélons pour @linfiltremedia : la coordinatrice de la boucle de discussion réunissant les militants antifas de la Jeune Garde annonce, sans la moindre émotion apparente, la mort de Quentin Deranque après le lynchage."
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-17 23:59",
+      "text": "Le géant américain sera jugé en juin 2027 à Paris, après une plainte de l’association HOP, qui dénonce des pratiques entravant la réparation des iPhone.\n➡️ https://l.lepoint.fr/0xN"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-18 00:01",
+      "text": "Arnaud Benedetti, politologue, sur le blocus des lycées : «Des groupes très politisés ont instrumentalisé ce mouvement», dans #SoirInfo\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Thaïs d’Escufon",
+      "published_at": "2026-11-18 00:02",
+      "text": "[Retweet de @Arsenico_bis] - Mamá a que sirven estos ? \n- Sirven para tenernos seguros, pero no se puede decir de quien, si no pasamos por racistas."
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-18 00:03",
+      "text": "Présidentielle 2027 : l’Unicef France suspend la mission d’ambassadeur du candidat Teddy Riner https://l.leparisien.fr/XoX8"
+    },
+    {
+      "author_name": "Clément Macchi",
+      "published_at": "2026-11-18 00:05",
+      "text": "Désolé mais c’est lunaire. Glucksmann dispose d’un boulevard au centre et peut (espérer) se qualifier pour le second tour en capitalisant sur cet espace. Pourtant il semble désormais préférer courir derrière Mélenchon en cherchant à séduire l’électorat insoumis. Une stratégie\n[Cite @edgarbequet] Raphaël #Glucksmann dit être favorable à la réquisition de logements et de bureaux vides pour faire face à l’urgence sociale et au sans-abrisme.\n\n« Il faut arrêter de croire que la propriété privée est absolue » estime le candidat PS-Place Publique à la présidentielle.\n\n@BFMTV"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-18 00:06",
+      "text": "Karima Brikh, journaliste, sur le blocus des lycées : «Une minorité agissante donne le ton et pousse à une radicalisation du mouvement», dans #SoirInfo\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
+      "published_at": "2026-11-18 00:06",
+      "text": "[Retweet de @GDesGaulios] Le plus convaincant c'est peut-être ceci : avec qui Lisnard gouvernerait s'il gagnait (une fois dit qu'il rejette tout partenariat avec le RN) ? Force est de constater : ce serait avec les LR, le centre, les recyclés de la gauche et du macronisme. Autrement dit : les mêmes."
+    }
+  ],
+  "context": [
     {
       "author_name": "Le Parisien | politique",
       "published_at": "2026-11-17 00:07",
@@ -3000,6 +3035,11 @@
       "author_name": "CNEWS",
       "published_at": "2026-11-17 09:01",
       "text": "Nantes : le journaliste Augustin Donnadieu revient sur les images. Il a été mis en sécurité dans une salle isolée face aux menaces des élèves du lycée Nelson-Mandela. #LaMatinale\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Damien Rieu",
+      "published_at": "2026-11-17 09:01",
+      "text": "[Retweet de @FrDesouche] Le sujet des associations est absolument capital. C’est l’un des grands angles morts du débat public : comment l’argent de nos impôts finance-t-il, par le biais des subventions et des conventions publiques, tout un écosystème militant gravitant autour de la gauche radicale et de"
     },
     {
       "author_name": "Sud Radio",
