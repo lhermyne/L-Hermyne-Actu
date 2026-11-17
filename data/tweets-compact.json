@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-17 02:29",
-  "period": "du 2026-11-16 02:29 au 2026-11-17 02:29",
-  "new_period": "du 2026-11-16 20:00 au 2026-11-17 02:29",
-  "context_period": "du 2026-11-16 02:29 au 2026-11-16 20:00",
+  "generated_at": "2026-11-17 02:59",
+  "period": "du 2026-11-16 02:59 au 2026-11-17 02:59",
+  "new_period": "du 2026-11-16 20:00 au 2026-11-17 02:59",
+  "context_period": "du 2026-11-16 02:59 au 2026-11-16 20:00",
   "coverage_complete": true,
-  "new_count": 320,
-  "context_count": 1361,
-  "duplicates_merged": 114,
+  "new_count": 322,
+  "context_count": 1359,
+  "duplicates_merged": 116,
   "empty_removed": 4,
   "new": [
     {
@@ -1278,12 +1278,18 @@
     {
       "author_name": "Marine Le Pen",
       "published_at": "2026-11-16 22:40",
-      "text": "Si la Ligue des droits de l’homme veut faire de la politique, qu’elle devienne un parti.\n\nC’est devenu un ramassis de gauchistes, d’une violence à l’égard de la police et des institutions qui est une honte pour une association subventionnée par l’argent public."
+      "text": "Si la Ligue des droits de l’homme veut faire de la politique, qu’elle devienne un parti.\n\nC’est devenu un ramassis de gauchistes, d’une violence à l’égard de la police et des institutions qui est une honte pour une association subventionnée par l’argent public.",
+      "also_by": [
+        "Tanguy David"
+      ]
     },
     {
       "author_name": "Le Parisien | politique",
       "published_at": "2026-11-16 22:42",
-      "text": "Présidentielle 2027 : François Hollande assure qu’il s’agit de l’élection « la plus importante de (sa) vie » https://l.leparisien.fr/dYvT"
+      "text": "Présidentielle 2027 : François Hollande assure qu’il s’agit de l’élection « la plus importante de (sa) vie » https://l.leparisien.fr/dYvT",
+      "also_by": [
+        "Le Parisien"
+      ]
     },
     {
       "author_name": "Cercle Aristote",
@@ -1647,22 +1653,22 @@
       "author_name": "Thaïs d’Escufon",
       "published_at": "2026-11-17 02:15",
       "text": "[Retweet de @CryptoP_A] Infernal d'être en France.\n\nTu peux pas profiter d'UNE sortie culturelle sans te manger de la propagande gauchiste.\n\nC'est à vomir 🤮"
-    }
-  ],
-  "context": [
+    },
     {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-16 02:34",
-      "text": "🔴 Pour les Français juifs, Mélenchon vu comme le premier responsable politique de la montée de l’antisémitisme\n➡️ https://l.leparisien.fr/ewPH"
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-17 02:34",
+      "text": "Présidentielle 2027 : plus de mille élus locaux appellent à une primaire pour éviter Le Pen-Mélenchon au second tour https://l.leparisien.fr/cG2z"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-16 02:57",
-      "text": "« Les lois n’ont pas changé après les élections » : des migrants du Honduras se dirigent vers les États-Unis, qui refusent de les accueillir\n➡️ https://l.leparisien.fr/nDxC",
+      "published_at": "2026-11-17 02:52",
+      "text": "Un troisième porte-avions américain arrive au Moyen-Orient, alors que la région connaît un regain de tension\n➡️ https://l.leparisien.fr/1RX9",
       "also_by": [
         "Le Parisien | politique"
       ]
-    },
+    }
+  ],
+  "context": [
     {
       "author_name": "Le Parisien",
       "published_at": "2026-11-16 03:39",

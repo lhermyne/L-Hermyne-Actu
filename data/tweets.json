@@ -1,14 +1,53 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-17T01:29:27.742Z",
+  "updated_at": "2026-11-17T01:59:32.745Z",
   "window_hours": 24,
-  "window_start": "2026-11-16T01:29:27.742Z",
+  "window_start": "2026-11-16T01:59:32.745Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1799,
+  "count": 1801,
   "tweets": [
+    {
+      "id": "2122509218226061766",
+      "created_at": "2026-11-17T01:56:46.000Z",
+      "author": "leparisien_pol",
+      "author_name": "Le Parisien | politique",
+      "type": "tweet",
+      "text": "Un troisième porte-avions américain arrive au Moyen-Orient, alors que la région connaît un regain de tension\n➡️ https://l.leparisien.fr/Ggzp",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/leparisien_pol/status/2122509218226061766"
+    },
+    {
+      "id": "2122508183016993117",
+      "created_at": "2026-11-17T01:52:39.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "Un troisième porte-avions américain arrive au Moyen-Orient, alors que la région connaît un regain de tension\n➡️ https://l.leparisien.fr/1RX9",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2122508183016993117"
+    },
+    {
+      "id": "2122503489536598197",
+      "created_at": "2026-11-17T01:34:00.000Z",
+      "author": "leparisien_pol",
+      "author_name": "Le Parisien | politique",
+      "type": "tweet",
+      "text": "Présidentielle 2027 : plus de mille élus locaux appellent à une primaire pour éviter Le Pen-Mélenchon au second tour https://l.leparisien.fr/cG2z",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/leparisien_pol/status/2122503489536598197"
+    },
     {
       "id": "2122498892571046047",
       "created_at": "2026-11-17T01:15:44.000Z",
@@ -803,6 +842,19 @@
       "url": "https://x.com/MLP_officiel/status/2122450034020999420"
     },
     {
+      "id": "2122449740830806277",
+      "created_at": "2026-11-16T22:00:26.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "retweet",
+      "text": "Présidentielle 2027 : François Hollande assure qu’il s’agit de l’élection « la plus importante de (sa) vie » https://l.leparisien.fr/dYvT",
+      "retweeted_author": "leparisien_pol",
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2122449740830806277"
+    },
+    {
       "id": "2122449313196630129",
       "created_at": "2026-11-16T21:58:44.000Z",
       "author": "Cercle_Aristote",
@@ -944,6 +996,19 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/le_Parisien/status/2122446754960252968"
+    },
+    {
+      "id": "2122446522294133144",
+      "created_at": "2026-11-16T21:47:38.000Z",
+      "author": "tanguy_france",
+      "author_name": "Tanguy David",
+      "type": "retweet",
+      "text": "Si la Ligue des droits de l’homme veut faire de la politique, qu’elle devienne un parti.\n\nC’est devenu un ramassis de gauchistes, d’une violence à l’égard de la police et des institutions qui est une honte pour une association subventionnée par l’argent public.",
+      "retweeted_author": "MLP_officiel",
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/tanguy_france/status/2122446522294133144"
     },
     {
       "id": "2122446503042007112",
@@ -23356,45 +23421,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/le_Parisien/status/2122157519699091965"
-    },
-    {
-      "id": "2122147304568242352",
-      "created_at": "2026-11-16T01:58:39.000Z",
-      "author": "leparisien_pol",
-      "author_name": "Le Parisien | politique",
-      "type": "tweet",
-      "text": "« Les lois n’ont pas changé après les élections » : des migrants du Honduras se dirigent vers les États-Unis, qui refusent de les accueillir\n➡️ https://l.leparisien.fr/5vgE",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/leparisien_pol/status/2122147304568242352"
-    },
-    {
-      "id": "2122146938153816495",
-      "created_at": "2026-11-16T01:57:12.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "« Les lois n’ont pas changé après les élections » : des migrants du Honduras se dirigent vers les États-Unis, qui refusent de les accueillir\n➡️ https://l.leparisien.fr/nDxC",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2122146938153816495"
-    },
-    {
-      "id": "2122141283019862168",
-      "created_at": "2026-11-16T01:34:44.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "🔴 Pour les Français juifs, Mélenchon vu comme le premier responsable politique de la montée de l’antisémitisme\n➡️ https://l.leparisien.fr/ewPH",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2122141283019862168"
     }
   ]
 }
