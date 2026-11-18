@@ -1,9 +1,9 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-18T02:22:29.069Z",
+  "updated_at": "2026-11-18T02:38:16.488Z",
   "window_hours": 24,
-  "window_start": "2026-11-17T02:22:29.069Z",
+  "window_start": "2026-11-17T02:38:16.488Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": false,
   "possible_gaps": [
@@ -13,7 +13,7 @@
       "minutes": 4
     }
   ],
-  "count": 2030,
+  "count": 2029,
   "tweets": [
     {
       "id": "2122872969709969451",
@@ -26391,19 +26391,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/le_Parisien/status/2122523367416926215"
-    },
-    {
-      "id": "2122516688826454522",
-      "created_at": "2026-11-17T02:26:27.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "« Totalement inacceptable » : le Japon furieux après le survol de son espace aérien par deux avions, sans doute russes\n➡️ https://l.leparisien.fr/04dL",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2122516688826454522"
     }
   ]
 }

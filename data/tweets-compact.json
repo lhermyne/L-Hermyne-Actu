@@ -1,13 +1,13 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-18 03:22",
-  "period": "du 2026-11-17 03:22 au 2026-11-18 03:22",
-  "new_period": "du 2026-11-17 20:00 au 2026-11-18 03:22",
-  "context_period": "du 2026-11-17 03:22 au 2026-11-17 20:00",
+  "generated_at": "2026-11-18 03:38",
+  "period": "du 2026-11-17 03:38 au 2026-11-18 03:38",
+  "new_period": "du 2026-11-17 20:00 au 2026-11-18 03:38",
+  "context_period": "du 2026-11-17 03:38 au 2026-11-17 20:00",
   "coverage_complete": false,
   "new_count": 356,
-  "context_count": 1540,
+  "context_count": 1539,
   "duplicates_merged": 132,
   "empty_removed": 2,
   "new": [
@@ -1871,11 +1871,6 @@
     }
   ],
   "context": [
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-17 03:26",
-      "text": "« Totalement inacceptable » : le Japon furieux après le survol de son espace aérien par deux avions, sans doute russes\n➡️ https://l.leparisien.fr/04dL"
-    },
     {
       "author_name": "Le Parisien",
       "published_at": "2026-11-17 03:53",
