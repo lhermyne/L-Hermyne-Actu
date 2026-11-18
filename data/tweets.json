@@ -1,9 +1,9 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-18T00:37:15.510Z",
+  "updated_at": "2026-11-18T01:07:28.607Z",
   "window_hours": 24,
-  "window_start": "2026-11-17T00:37:15.510Z",
+  "window_start": "2026-11-17T01:07:28.607Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": false,
   "possible_gaps": [
@@ -13,8 +13,73 @@
       "minutes": 4
     }
   ],
-  "count": 2028,
+  "count": 2030,
   "tweets": [
+    {
+      "id": "2122855724845867478",
+      "created_at": "2026-11-18T00:53:40.000Z",
+      "author": "leparisien_pol",
+      "author_name": "Le Parisien | politique",
+      "type": "tweet",
+      "text": "« Ils flottent et viennent s’échouer sur le rivage » : des débris d’une fusée de SpaceX récupérés sur une plage du Mexique\n➡️ https://l.leparisien.fr/iLaK",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/leparisien_pol/status/2122855724845867478"
+    },
+    {
+      "id": "2122853530017083606",
+      "created_at": "2026-11-18T00:44:56.000Z",
+      "author": "LePoint",
+      "author_name": "Le Point",
+      "type": "tweet",
+      "text": "PÉPITES DE L’HISTOIRE. Scandales, faux, provocations et secrets de fabrication : ce que l’histoire de l’art officielle a tu.\n\nPar @Joseph1LeCorre @lefebvreclaire\n➡️ https://l.lepoint.fr/MmE",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/LePoint/status/2122853530017083606"
+    },
+    {
+      "id": "2122853381630812498",
+      "created_at": "2026-11-18T00:44:21.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "« Ils flottent et viennent s’échouer sur le rivage » : des débris d’une fusée de SpaceX récupérés sur une plage du Mexique\n➡️ https://l.leparisien.fr/0451",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2122853381630812498"
+    },
+    {
+      "id": "2122853131616739753",
+      "created_at": "2026-11-18T00:43:21.000Z",
+      "author": "NiONiPardon",
+      "author_name": "Ni Oubli Ni Pardon",
+      "type": "retweet",
+      "text": "Savez vous pourquoi je suis toujours de bonne humeur ?\nParce que je suis un rescapé depuis le 3 décembre 2021.\nEn effet ce jour là, sur le plateau de @Cdanslair , @PatrickPelloux avait déclaré que les non-vaccinés ne passeraient pas l’hiver. \n5 ans déjà !\nDepuis, je prends tout",
+      "retweeted_author": "VictorSinclair3",
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/NiONiPardon/status/2122853131616739753"
+    },
+    {
+      "id": "2122852900070477909",
+      "created_at": "2026-11-18T00:42:26.000Z",
+      "author": "leparisien_pol",
+      "author_name": "Le Parisien | politique",
+      "type": "tweet",
+      "text": "Présidentielle 2027 : David Lisnard veut « supprimer les aides aux entreprises » et baisser leurs « prélèvements » https://l.leparisien.fr/YiVJ",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/leparisien_pol/status/2122852900070477909"
+    },
     {
       "id": "2122848231675539906",
       "created_at": "2026-11-18T00:23:53.000Z",
@@ -26339,45 +26404,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/ThaisEscufon/status/2122498892571046047"
-    },
-    {
-      "id": "2122496523539796258",
-      "created_at": "2026-11-17T01:06:19.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "« Insupportable de pénaliser deux tiers des pensions » : le Sénat rejette la désindexation des retraites sur l’inflation\n➡️ https://l.leparisien.fr/YiQW",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2122496523539796258"
-    },
-    {
-      "id": "2122491869380968540",
-      "created_at": "2026-11-17T00:47:50.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "« Un étranger en situation irrégulière doit partir » : Bruno Retailleau en faveur du centre de retour pour migrants au Rwanda\n➡️ https://l.leparisien.fr/43nR",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2122491869380968540"
-    },
-    {
-      "id": "2122489510202106037",
-      "created_at": "2026-11-17T00:38:27.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "L'histoire d'Arnaud, obligé de vendre sa maison après un contrôle SNCF qui a mal tourné, a déclenché une vague de solidarité : une cagnotte pour aider cet ouvrier ajusteur et père de trois enfants a bondi de plusieurs milliers d'euros en 24 heures ➡️ https://l.leparisien.fr/UpEu",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2122489510202106037"
     }
   ]
 }

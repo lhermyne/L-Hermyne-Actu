@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-18 01:37",
-  "period": "du 2026-11-17 01:37 au 2026-11-18 01:37",
-  "new_period": "du 2026-11-17 20:00 au 2026-11-18 01:37",
-  "context_period": "du 2026-11-17 01:37 au 2026-11-17 20:00",
+  "generated_at": "2026-11-18 02:07",
+  "period": "du 2026-11-17 02:07 au 2026-11-18 02:07",
+  "new_period": "du 2026-11-17 20:00 au 2026-11-18 02:07",
+  "context_period": "du 2026-11-17 02:07 au 2026-11-17 20:00",
   "coverage_complete": false,
-  "new_count": 347,
-  "context_count": 1548,
-  "duplicates_merged": 131,
+  "new_count": 351,
+  "context_count": 1545,
+  "duplicates_merged": 132,
   "empty_removed": 2,
   "new": [
     {
@@ -1814,24 +1814,32 @@
       "also_by": [
         "Le Parisien"
       ]
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-18 01:42",
+      "text": "Présidentielle 2027 : David Lisnard veut « supprimer les aides aux entreprises » et baisser leurs « prélèvements » https://l.leparisien.fr/YiVJ"
+    },
+    {
+      "author_name": "Ni Oubli Ni Pardon",
+      "published_at": "2026-11-18 01:43",
+      "text": "[Retweet de @VictorSinclair3] Savez vous pourquoi je suis toujours de bonne humeur ?\nParce que je suis un rescapé depuis le 3 décembre 2021.\nEn effet ce jour là, sur le plateau de @Cdanslair , @PatrickPelloux avait déclaré que les non-vaccinés ne passeraient pas l’hiver. \n5 ans déjà !\nDepuis, je prends tout"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-18 01:44",
+      "text": "« Ils flottent et viennent s’échouer sur le rivage » : des débris d’une fusée de SpaceX récupérés sur une plage du Mexique\n➡️ https://l.leparisien.fr/0451",
+      "also_by": [
+        "Le Parisien | politique"
+      ]
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-18 01:44",
+      "text": "PÉPITES DE L’HISTOIRE. Scandales, faux, provocations et secrets de fabrication : ce que l’histoire de l’art officielle a tu.\n\nPar @Joseph1LeCorre @lefebvreclaire\n➡️ https://l.lepoint.fr/MmE"
     }
   ],
   "context": [
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-17 01:38",
-      "text": "L'histoire d'Arnaud, obligé de vendre sa maison après un contrôle SNCF qui a mal tourné, a déclenché une vague de solidarité : une cagnotte pour aider cet ouvrier ajusteur et père de trois enfants a bondi de plusieurs milliers d'euros en 24 heures ➡️ https://l.leparisien.fr/UpEu"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-17 01:47",
-      "text": "« Un étranger en situation irrégulière doit partir » : Bruno Retailleau en faveur du centre de retour pour migrants au Rwanda\n➡️ https://l.leparisien.fr/43nR"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-17 02:06",
-      "text": "« Insupportable de pénaliser deux tiers des pensions » : le Sénat rejette la désindexation des retraites sur l’inflation\n➡️ https://l.leparisien.fr/YiQW"
-    },
     {
       "author_name": "Thaïs d’Escufon",
       "published_at": "2026-11-17 02:15",
