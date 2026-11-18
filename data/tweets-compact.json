@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-18 05:38",
-  "period": "du 2026-11-17 05:38 au 2026-11-18 05:38",
-  "new_period": "du 2026-11-17 20:00 au 2026-11-18 05:38",
-  "context_period": "du 2026-11-17 05:38 au 2026-11-17 20:00",
+  "generated_at": "2026-11-18 06:09",
+  "period": "du 2026-11-17 06:09 au 2026-11-18 06:09",
+  "new_period": "du 2026-11-17 20:00 au 2026-11-18 06:09",
+  "context_period": "du 2026-11-17 06:09 au 2026-11-17 20:00",
   "coverage_complete": false,
-  "new_count": 366,
-  "context_count": 1533,
-  "duplicates_merged": 135,
+  "new_count": 379,
+  "context_count": 1527,
+  "duplicates_merged": 137,
   "empty_removed": 2,
   "new": [
     {
@@ -1933,39 +1933,80 @@
       "author_name": "Sud Radio",
       "published_at": "2026-11-18 05:27",
       "text": "🗳️Primaire de la droite et du centre : @BrunoRetailleau peut-il se relancer ? #Presidentielle2027 \n\nVotre avis nous intéresse dans le #GrandMatin ! Réagissez en commentaires."
-    }
-  ],
-  "context": [
+    },
     {
       "author_name": "Sud Radio",
-      "published_at": "2026-11-17 05:42",
-      "text": "🇩🇪 L'Allemagne de Jürgen Klopp écrase les Pays-Bas (5-0) en Ligue des nations\n\nLes Allemands terminent premiers de leur groupe\n\nhttps://www.sudradio.fr/sport-rugby/sport/ligue-des-nations-lallemagne-arrache-sa-place-en-quarts-en-corrigeant-les-pays-bas-5-0"
-    },
-    {
-      "author_name": "Ni Oubli Ni Pardon",
-      "published_at": "2026-11-17 05:50",
-      "text": "12/2021 Barack Obama, accompagné du Dr Anthony Fauci, directeur de l'Institut national des maladies infectieuses, s'est rendu dans un centre de vaccination installé dans une école primaire de Washington, à la rencontre d'élèves récemment vaccinés contre le Covid-19. #SpécialUS🇺🇸"
-    },
-    {
-      "author_name": "Causeur.fr",
-      "published_at": "2026-11-17 06:01",
-      "text": "🇺🇦 \"La guerre en Ukraine ne devrait pas figurer au programme du sommet entre Donald Trump, Xi Jinping et Vladimir Poutine, jeudi, et les pourparlers d’Abou Dhabi se sont achevés sans cessez-le-feu. Et dans le Donbass, l’armée russe profite du brouillard pour briser les lignes"
-    },
-    {
-      "author_name": "L'Express",
-      "published_at": "2026-11-17 06:03",
-      "text": "La chute de Jensen Huang rappelle les dangers de l'atypique gouvernance qui règne dans le secteur tech. Si Nvidia a les épaules pour traverser la tempête, d'autres entreprises du secteur risquent...\n\n➡️ https://l.lexpress.fr/ift"
+      "published_at": "2026-11-18 05:39",
+      "text": "🗳️Primaire de la droite et du centre : @BrunoRetailleau peut-il se relancer ? #Presidentielle2027 \n\nVotre avis nous intéresse dans le #GrandMatin ! Réagissez en commentaires.\n\n🎙️Bruno Retailleau est l'invité politique de Sud Radio, de 8h30 à 9h"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-17 06:03",
-      "text": "Inégalités salariales hommes-femmes : ça se mesure aussi en écart de liberté\n➡️ https://l.leparisien.fr/ZkYx"
+      "published_at": "2026-11-18 05:45",
+      "text": "États-Unis : les démocrates s’imposent en Alaska, après deux semaines de dépouillement, confortant leur marge au Sénat\n➡️ https://l.leparisien.fr/sVep",
+      "also_by": [
+        "Le Parisien | politique"
+      ]
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-18 05:48",
+      "text": "🔴 \"Martyre de l'A10\" : la sanction est tombée\n\n👇20 ans de réclusion pour la mère, 15 ans pour le père\n\nhttps://www.sudradio.fr/societe/martyre-de-la10-epilogue-du-proces-en-vue-39-ans-apres-la-mort-dinass-touloub"
+    },
+    {
+      "author_name": "Ni Oubli Ni Pardon",
+      "published_at": "2026-11-18 05:50",
+      "text": "03/2020 Un journaliste à Christian Estrosi, maire de Nice : « Vous avez contracté le Covid-19, comment allez-vous et comment avez-vous vécu ce traitement à la chloroquine que vous avez suivi ? »\n\nChristian Estrosi : « Je l'ai vécu parfaitement bien. Aujourd'hui, j'en suis au 6ᵉ"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-18 05:57",
+      "text": "🍷Beaujolais Nouveau : \"il sera un peu plus chargé, à 13 ou 14 degrés !\" \n\n🗣️Jean-Luc Ducruix (viticulteur) : \"avec la canicule et les vendanges précoces, un millésime chaleureux, aromatique, axé sur le fruit\" #PetitMatin\n\n📻https://www.sudradio.fr/"
+    },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-18 06:00",
+      "text": "L’ancien président démocrate défend ses quatre ans de mandat dans un ouvrage qui paraît ce mardi. →https://l.lefigaro.fr/QUpA"
+    },
+    {
+      "author_name": "L'Express",
+      "published_at": "2026-11-18 06:00",
+      "text": "La rencontre prévue entre Vladimir Poutine, Donald Trump et Xi Jinping ravive le spectre de Yalta. Mais pour l'historien de la guerre froide, cette comparaison est aussi trompeuse...\n\n➡️ https://l.lexpress.fr/sNE"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-17 06:04",
-      "text": "🎙️ Votez ici. ➡️ https://mrf.lu/2wRsR"
+      "published_at": "2026-11-18 06:01",
+      "text": "🎙️ Votez ici. ➡️ https://mrf.lu/2wXzd"
     },
+    {
+      "author_name": "Causeur.fr",
+      "published_at": "2026-11-18 06:01",
+      "text": "Giuliano da Empoli: peut-on faire un roman avec des post-humains? @causeur \n\nhttps://www.causeur.fr/giuliano-da-empoli-le-fondateur-ia-peut-on-faire-un-roman-avec-des-post-humains-337502"
+    },
+    {
+      "author_name": "Le JDD",
+      "published_at": "2026-11-18 06:02",
+      "text": "Les archives du JDD : Florence Arthaud, la victoire au bout de la souffrance https://ow.ly/fu6f106IV6K"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-18 06:02",
+      "text": "« Hâte de voir comment le système va s’adapter au grand froid » : voici le premier immeuble de France sans chauffage ni clim\n➡️ https://l.leparisien.fr/C54N"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-18 06:03",
+      "text": "🇵🇹 Le Portugal s'impose face au Pays de Galles et finit en tête de son groupe\n\nhttps://www.sudradio.fr/sport-rugby/sport/ligue-des-nations-le-portugal-agrippe-la-tete-de-groupe-sans-maitrise-a-cardiff"
+    },
+    {
+      "author_name": "JDNews",
+      "published_at": "2026-11-18 06:06",
+      "text": "Michel Onfray : «1793 est dans 1789» https://ow.ly/BcFs106IV7f",
+      "also_by": [
+        "Le JDD"
+      ]
+    }
+  ],
+  "context": [
     {
       "author_name": "Sud Radio",
       "published_at": "2026-11-17 06:13",
