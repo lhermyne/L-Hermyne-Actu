@@ -1,9 +1,9 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-18T10:40:06.356Z",
+  "updated_at": "2026-11-18T10:41:39.757Z",
   "window_hours": 24,
-  "window_start": "2026-11-17T10:40:06.356Z",
+  "window_start": "2026-11-17T10:41:39.757Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": false,
   "possible_gaps": [
@@ -13,8 +13,73 @@
       "minutes": 4
     }
   ],
-  "count": 2060,
+  "count": 2061,
   "tweets": [
+    {
+      "id": "2123003618152358136",
+      "created_at": "2026-11-18T10:41:20.000Z",
+      "author": "CNEWS",
+      "author_name": "CNEWS",
+      "type": "tweet",
+      "text": "Devant les grilles du ministère de l'Intérieur, les policiers posent leurs tentes pour exprimer leur colère \n\nToute l'info est à retrouver sur https://cnews.fr",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/CNEWS/status/2123003618152358136"
+    },
+    {
+      "id": "2123003477714420097",
+      "created_at": "2026-11-18T10:40:47.000Z",
+      "author": "Europe1",
+      "author_name": "Europe 1",
+      "type": "tweet",
+      "text": "\"Moi, je pense qu'aujourd'hui, beaucoup de gens s'annoncent de droite, soi -disant, mais ne le sont pas\" déclare Michel, auditeur #ChristineKellyEtVous @christine_kelly #Europe1",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/Europe1/status/2123003477714420097"
+    },
+    {
+      "id": "2123003466398445826",
+      "created_at": "2026-11-18T10:40:44.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "🔵 INFO LE PARISIEN | Un couple retrouvé mort à Neufmoutiers-en-Brie, le petit ami de 18 ans, principal suspect, s'est suicidé\n➡️ https://l.leparisien.fr/5vGZ",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2123003466398445826"
+    },
+    {
+      "id": "2123003366351446323",
+      "created_at": "2026-11-18T10:40:20.000Z",
+      "author": "Civitas_",
+      "author_name": "Civitas International",
+      "type": "retweet",
+      "text": "Dans Son infinie bonté, Dieu nous a accordé un fils, né le 17 novembre à 20h41, fête de saint Grégoire le Thaumaturge. Godefroy (Georges, Michel, Joseph) pèse 3,755 kg. Merci à ceux qui ont prié pour sa naissance. Nous rendons grâce à Dieu.\n\nAlain et Aude Escada",
+      "retweeted_author": "EscadaAlain_Off",
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/Civitas_/status/2123003366351446323"
+    },
+    {
+      "id": "2123003326572728828",
+      "created_at": "2026-11-18T10:40:11.000Z",
+      "author": "BVoltaire",
+      "author_name": "Boulevard Voltaire",
+      "type": "tweet",
+      "text": "« Ouvre-nous Lolo ! » « Et il où Laurent Nuñez ? »\nManifestation du syndicat Alliance Police Nationale devant le ministère de l’Intérieur.",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/BVoltaire/status/2123003326572728828"
+    },
     {
       "id": "2123002982107127961",
       "created_at": "2026-11-18T10:38:49.000Z",
@@ -26742,58 +26807,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/LCP/status/2122641315980865908"
-    },
-    {
-      "id": "2122641178977874290",
-      "created_at": "2026-11-17T10:41:08.000Z",
-      "author": "dannyconversano",
-      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
-      "type": "retweet",
-      "text": "À samedi, à Toulon !\n\n👉 https://my.weezevent.com/meeting-deric-zemmour-lancement-de-campagne",
-      "retweeted_author": "ZemmourEric",
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/dannyconversano/status/2122641178977874290"
-    },
-    {
-      "id": "2122641102163292401",
-      "created_at": "2026-11-17T10:40:50.000Z",
-      "author": "leparisien_pol",
-      "author_name": "Le Parisien | politique",
-      "type": "tweet",
-      "text": "L’armée belge reconnaît avoir égaré deux armes appartenant à des unités d’élite, un fusil de sniper et un Barrett de calibre.50\n➡️ https://l.leparisien.fr/1RXC",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/leparisien_pol/status/2122641102163292401"
-    },
-    {
-      "id": "2122641050053628012",
-      "created_at": "2026-11-17T10:40:37.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "Blanc-Mesnil : un CPE blessé à la main par un tir de mortier devant le lycée Jean-Moulin\n➡️ https://l.leparisien.fr/gyCy",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2122641050053628012"
-    },
-    {
-      "id": "2122641024321262044",
-      "created_at": "2026-11-17T10:40:31.000Z",
-      "author": "CNEWS",
-      "author_name": "CNEWS",
-      "type": "tweet",
-      "text": "Jordan Bardella sur la réforme des retraites du RN : «Nous voulons une France qui favorise le travail, qui crée de la richesse et qui intéresse tous les Français à la réussite économique de notre pays»\n\nToute l'info est à retrouver sur https://cnews.fr",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/CNEWS/status/2122641024321262044"
     }
   ]
 }

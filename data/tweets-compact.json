@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-18 11:40",
-  "period": "du 2026-11-17 11:40 au 2026-11-18 11:40",
-  "new_period": "du 2026-11-18 08:00 au 2026-11-18 11:40",
-  "context_period": "du 2026-11-17 11:40 au 2026-11-18 08:00",
+  "generated_at": "2026-11-18 11:41",
+  "period": "du 2026-11-17 11:41 au 2026-11-18 11:41",
+  "new_period": "du 2026-11-18 08:00 au 2026-11-18 11:41",
+  "context_period": "du 2026-11-17 11:41 au 2026-11-18 08:00",
   "coverage_complete": false,
-  "new_count": 433,
-  "context_count": 1478,
-  "duplicates_merged": 144,
+  "new_count": 438,
+  "context_count": 1475,
+  "duplicates_merged": 143,
   "empty_removed": 5,
   "new": [
     {
@@ -2208,32 +2208,34 @@
       "author_name": "CNEWS",
       "published_at": "2026-11-18 11:38",
       "text": "Les Allemands soulagés. ➡️ https://mrf.lu/2w_rF"
-    }
-  ],
-  "context": [
+    },
     {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-17 11:40",
-      "text": "Jordan Bardella sur la réforme des retraites du RN : «Nous voulons une France qui favorise le travail, qui crée de la richesse et qui intéresse tous les Français à la réussite économique de notre pays»\n\nToute l'info est à retrouver sur https://cnews.fr"
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-18 11:40",
+      "text": "« Ouvre-nous Lolo ! » « Et il où Laurent Nuñez ? »\nManifestation du syndicat Alliance Police Nationale devant le ministère de l’Intérieur."
+    },
+    {
+      "author_name": "Civitas International",
+      "published_at": "2026-11-18 11:40",
+      "text": "[Retweet de @EscadaAlain_Off] Dans Son infinie bonté, Dieu nous a accordé un fils, né le 17 novembre à 20h41, fête de saint Grégoire le Thaumaturge. Godefroy (Georges, Michel, Joseph) pèse 3,755 kg. Merci à ceux qui ont prié pour sa naissance. Nous rendons grâce à Dieu.\n\nAlain et Aude Escada"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-17 11:40",
-      "text": "Blanc-Mesnil : un CPE blessé à la main par un tir de mortier devant le lycée Jean-Moulin\n➡️ https://l.leparisien.fr/gyCy"
+      "published_at": "2026-11-18 11:40",
+      "text": "🔵 INFO LE PARISIEN | Un couple retrouvé mort à Neufmoutiers-en-Brie, le petit ami de 18 ans, principal suspect, s'est suicidé\n➡️ https://l.leparisien.fr/5vGZ"
     },
     {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-17 11:40",
-      "text": "L’armée belge reconnaît avoir égaré deux armes appartenant à des unités d’élite, un fusil de sniper et un Barrett de calibre.50\n➡️ https://l.leparisien.fr/1RXC",
-      "also_by": [
-        "Le Parisien"
-      ]
+      "author_name": "Europe 1",
+      "published_at": "2026-11-18 11:40",
+      "text": "\"Moi, je pense qu'aujourd'hui, beaucoup de gens s'annoncent de droite, soi -disant, mais ne le sont pas\" déclare Michel, auditeur #ChristineKellyEtVous @christine_kelly #Europe1"
     },
     {
-      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
-      "published_at": "2026-11-17 11:41",
-      "text": "[Retweet de @ZemmourEric] À samedi, à Toulon !\n\n👉 https://my.weezevent.com/meeting-deric-zemmour-lancement-de-campagne"
-    },
+      "author_name": "CNEWS",
+      "published_at": "2026-11-18 11:41",
+      "text": "Devant les grilles du ministère de l'Intérieur, les policiers posent leurs tentes pour exprimer leur colère \n\nToute l'info est à retrouver sur https://cnews.fr"
+    }
+  ],
+  "context": [
     {
       "author_name": "LCP",
       "published_at": "2026-11-17 11:41",
@@ -2338,6 +2340,11 @@
       "author_name": "Sud Radio",
       "published_at": "2026-11-17 11:51",
       "text": "❌ Marine Le Pen veut stopper les subventions aux associations politisées\n\n🗣️ @leboeuf_ma43936 au micro de @stephdemuru : « Elle mettra en place une police politique. Je demande qu’elle ait autant de véhémence avec Némésis. »\n\n📺 https://SudRadio.fr"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-17 11:52",
+      "text": "L’armée belge reconnaît avoir égaré deux armes appartenant à des unités d’élite, un fusil de sniper et un Barrett de calibre.50\n➡️ https://l.leparisien.fr/KxLv"
     },
     {
       "author_name": "Jordan Bardella",
