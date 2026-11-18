@@ -1,13 +1,13 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-18 04:38",
-  "period": "du 2026-11-17 04:38 au 2026-11-18 04:38",
-  "new_period": "du 2026-11-17 20:00 au 2026-11-18 04:38",
-  "context_period": "du 2026-11-17 04:38 au 2026-11-17 20:00",
+  "generated_at": "2026-11-18 05:08",
+  "period": "du 2026-11-17 05:08 au 2026-11-18 05:08",
+  "new_period": "du 2026-11-17 20:00 au 2026-11-18 05:08",
+  "context_period": "du 2026-11-17 05:08 au 2026-11-17 20:00",
   "coverage_complete": false,
-  "new_count": 361,
-  "context_count": 1537,
+  "new_count": 362,
+  "context_count": 1536,
   "duplicates_merged": 135,
   "empty_removed": 2,
   "new": [
@@ -1899,17 +1899,17 @@
       "also_by": [
         "Le Parisien | politique"
       ]
-    }
-  ],
-  "context": [
+    },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-17 04:48",
-      "text": "« Soyez bien protégés contre les intempéries » : l’ancien chef du gendarme boursier des États-Unis prédit l’éclatement de la bulle de l’IA\n➡️ https://l.leparisien.fr/yIiA",
+      "published_at": "2026-11-18 04:48",
+      "text": "« Nous reconnaissons que c’est perturbant » : aviation, Microsoft, Apple… Les États-Unis troublés par les pannes à répétition\n➡️ https://l.leparisien.fr/m7pW",
       "also_by": [
         "Le Parisien | politique"
       ]
-    },
+    }
+  ],
+  "context": [
     {
       "author_name": "Ni Oubli Ni Pardon",
       "published_at": "2026-11-17 05:16",
