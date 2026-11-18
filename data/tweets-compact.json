@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-18 22:44",
-  "period": "du 2026-11-17 22:44 au 2026-11-18 22:44",
-  "new_period": "du 2026-11-18 20:00 au 2026-11-18 22:44",
-  "context_period": "du 2026-11-17 22:44 au 2026-11-18 20:00",
+  "generated_at": "2026-11-18 23:14",
+  "period": "du 2026-11-17 23:14 au 2026-11-18 23:14",
+  "new_period": "du 2026-11-18 20:00 au 2026-11-18 23:14",
+  "context_period": "du 2026-11-17 23:14 au 2026-11-18 20:00",
   "coverage_complete": true,
-  "new_count": 215,
-  "context_count": 1591,
-  "duplicates_merged": 103,
+  "new_count": 232,
+  "context_count": 1568,
+  "duplicates_merged": 100,
   "empty_removed": 10,
   "new": [
     {
@@ -1109,151 +1109,97 @@
       "author_name": "Fdesouche.com est une revue de presse",
       "published_at": "2026-11-18 22:43",
       "text": "Jean-François Copé (LR) : « Il faut que l’école de la République enseigne l’arabe », « Dingue que nos jeunes Français d’origine immigrée ne parlent pas un mot d’arabe ! »"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-17 22:45",
-      "text": "« J’ai tout gâché » : dans ses mémoires, Joe Biden revient sur son débat raté face à Donald Trump et l’abandon de sa candidature\n➡️ https://l.leparisien.fr/MP6n"
-    },
-    {
-      "author_name": "ThinkerView",
-      "published_at": "2026-11-17 22:45",
-      "text": "[Retweet de @ReidWorm] 有位黄仁勋的疯狂粉丝收藏了1995-2025 三十年全部盘点\n\n也算是时代的见证了"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-17 22:48",
-      "text": "Iran : des avions américains ont frappé un site de missiles sur l’île de Qeshm\n➡️ https://l.leparisien.fr/pMoH",
-      "also_by": [
-        "Le Parisien | politique"
-      ]
-    },
-    {
-      "author_name": "ThinkerView",
-      "published_at": "2026-11-17 22:48",
-      "text": "[Retweet de @DuchessOfMeme] POV: Millennials going through our 12th doomsday since we’ve been alive."
-    },
-    {
-      "author_name": "Eric Ciotti",
-      "published_at": "2026-11-17 22:50",
-      "text": "[Retweet de @Valentin_Antoi] Je demande la dissolution immédiate des milice #antifa au Ministre de l’Intérieur. \n\nN’attendons pas un mort de plus provoqué par l’#ultragauche, parmi les journalistes, les forces de l’ordre ou les militants politique de droite, pour agir.",
-      "also_by": [
-        "La Cocarde Étudiante"
-      ]
     },
     {
       "author_name": "Le Point",
-      "published_at": "2026-11-17 22:51",
-      "text": "Face aux violences lycéennes, Iannis Roder s’interroge sur la responsabilité des adultes et rappelle, à travers « Sa Majesté des mouches », l’importance de la transmission et de l’autorité.\n\n🖋️ LA CHRONIQUE de Iannis Roder\n➡️ https://l.lepoint.fr/u9r"
+      "published_at": "2026-11-18 22:45",
+      "text": "Au-delà du jeu en lui-même, la découverte de la musique de GTA VI est un événement à part entière, qui arrive à concilier artistes de renoms et découvertes pointues. Explications.\n\nPar @jmaccaud\n➡️ https://l.lepoint.fr/KW9"
     },
     {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-17 22:52",
-      "text": "Une décision à l’issue de onze jours de débats.→https://l.lefigaro.fr/150p"
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-18 22:46",
+      "text": "Le Maroc va investir environ 365 millions d’euros pour développer son industrie de défense\n➡️ https://l.leparisien.fr/iLan",
+      "also_by": [
+        "Le Parisien"
+      ]
+    },
+    {
+      "author_name": "Le Jarl",
+      "published_at": "2026-11-18 22:46",
+      "text": "Pour justifier son refus de s’allier avec Thomas Rousseau, Charles Compagnon avait mis en doute la validation de ses comptes de campagne. Or, ces comptes ont été validés.\n\nRésultat, la gauche est restée aux commandes de Rennes et Charles Compagnon est resté dans l’opposition. Sa"
+    },
+    {
+      "author_name": "Tribune Populaire🌐",
+      "published_at": "2026-11-18 22:48",
+      "text": "L'équipe de communication de Gabriel Attal qui tente de surfer sur GTA VI…\n\nÇa ressemble beaucoup à la com désespérée d'un candidat qui s'effondre dans les sondages."
     },
     {
       "author_name": "Europe 1",
-      "published_at": "2026-11-17 22:53",
-      "text": "«Le réflexe totalitaire dans lequel est plongée une grande partie de la gauche est particulièrement inquiétant», déclare Jordan Bardella https://ow.ly/CUv2106ISHL"
+      "published_at": "2026-11-18 22:52",
+      "text": "Le «bouclier de sécurité» de la Région Île-de-France invalidé par la justice https://ow.ly/OX6l106IXeJ"
     },
     {
       "author_name": "Valeurs actuelles",
-      "published_at": "2026-11-17 22:53",
-      "text": "🗞️ L’âge légal de départ à la retraite en Grèce pourrait passer à 68 ans, l’année prochaine ; voire 72 ans, à l’horizon 2080. En cause :  le vieillissement de la population et les conséquences persistantes de la crise de la dette, qui avait sévit entre 2… https://l.valeursactuelles.com/Igr"
+      "published_at": "2026-11-18 22:53",
+      "text": "🗞️ Dans une lettre reçue le 17 novembre, le Parquet national antiterroriste annonce le classement sans suite de l’enquête préliminaire ouverte en 2020 contre SOS Chrétiens d’Orient. Six années d’enquête, des salariés et volontaires injustement mis en cau… https://l.valeursactuelles.com/QEh"
     },
     {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-17 22:56",
-      "text": "« Il est plus préparé » : Gérald Darmanin estime que Mélenchon gagnera l’élection présidentielle en cas de second tour face à Marine Le Pen\n➡️ https://l.leparisien.fr/ew0T"
+      "author_name": "CNEWS",
+      "published_at": "2026-11-18 22:57",
+      "text": "Mort de Quentin Deranque : «Le véritable choc est que Raphaël Arnault soit encore député», estime Jules Torres, journaliste au JDD, qui est revenu sur son rôle dans cette affaire. \n\nToute l'info est à retrouver sur https://cnews.fr"
     },
     {
-      "author_name": "Alain Weber",
-      "published_at": "2026-11-17 22:57",
-      "text": "🤷🤷🤷😢😢\n[Cite @MarionMarechal] David Lisnard et Bruno Retailleau actent ici qu’ils appartiennent donc au même espace politique que le patron du parti macroniste, qui a milité au Parti socialiste pendant 10 ans."
+      "author_name": "Rassemblement National",
+      "published_at": "2026-11-18 22:58",
+      "text": "Quand on cherche Jordan Bardella, on le trouve 😉😜"
     },
     {
-      "author_name": "Le Point",
-      "published_at": "2026-11-17 22:58",
-      "text": "« GTA VI » : treize ans d’attente, des congés posés… Pourquoi une telle folie ?\n\nPar @mancioday https://l.lepoint.fr/HJn"
+      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
+      "published_at": "2026-11-18 22:59",
+      "text": "[Retweet de @jylgallou] Bonjour @davidlisnard  vous avez proposé de diviser par 8  - soit de ramener  à 50000 entrées par an - le nombre des immigrés légaux . Or le regroupement familial et l’asile c’est aujourd’hui 140000 entrées  par application des décisions du conseil constitutionnel de la CNDA et"
     },
     {
-      "author_name": "Jordan Bardella",
-      "published_at": "2026-11-17 23:00",
-      "text": "Avec la dose de capitalisation, nous allons créer un véritable capitalisme populaire.\n\nLes Français pourront enfin capitaliser pour eux-mêmes !"
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-18 22:59",
+      "text": "Dans le square Claude-Debussy, un homme porteur d’un couteau aurait frappé un enfant de deux ans au ventre. Interpellé le  https://www.fdesouche.com/2026/11/18/paris-16e-homme-couteau-coup-de-pied-enfant-deux-ans-square-claude-debussy-interpelle/"
     },
     {
       "author_name": "Causeur.fr",
-      "published_at": "2026-11-17 23:00",
-      "text": "Thomas Morales, observateur amusé des mœurs littéraires, s’interroge sur les non-conséquences du « séisme » Orélien... @causeur https://www.causeur.fr/tout-ca-pour-ca-rentree-litteraire-ia-litterature-edition-thelyson-orelien-amelie-nothomb-337449"
+      "published_at": "2026-11-18 23:00",
+      "text": "« Si lui-même vous interrompt quand vous parlerez, vous aurez le droit de l’interrompre la prochaine fois qu’il parlera… » De curieuses règles pour un débat... @causeur https://www.causeur.fr/sarah-legrain-lfi-la-liberte-d-expression-cest-moi-journalistes-david-pujadas-grande-confrontation-337545"
+    },
+    {
+      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
+      "published_at": "2026-11-18 23:00",
+      "text": "[Retweet de @PalePatriot14] In the UK, three British men who protested a young girl's rape by an illegal migrant have been jailed longer than the migrant rapist."
     },
     {
       "author_name": "Le Figaro",
-      "published_at": "2026-11-17 23:00",
-      "text": "Dans son livre, Flavie Flament dit avoir «toujours su» qu'elle dénoncerait Patrick Bruel pour viol → https://l.lefigaro.fr/6kB7"
+      "published_at": "2026-11-18 23:00",
+      "text": "«Je t’aime pour toujours» : trente ans après leur séparation, Lenny Kravitz rejoint sur scène Vanessa Paradis.\nhttps://l.lefigaro.fr/Xf0J"
     },
     {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-17 23:01",
-      "text": "Le président du RN a déploré les attaques sur sa vie privée https://mrf.lu/2w6QQ"
+      "author_name": "Alain Weber",
+      "published_at": "2026-11-18 23:05",
+      "text": "Je trouve absolument répugnant que des enseignants se permettent d’inculquer à des gamins de 8 ou 9 ans l’idée que notre police est raciste. \n\nFabriquer de toutes pièces des scènes pour susciter la détestation des forces de l’ordre, ce n’est plus de l’enseignement, c’est de la"
     },
     {
-      "author_name": "Samuel Lafont",
-      "published_at": "2026-11-17 23:03",
-      "text": "[Retweet de @steveladureau] Quand un journaliste aussi libre et exigeant que Périco Légasse salue le travail de @Samuel_Lafont, c'est que le diagnostic tape juste : médias subventionnés, sondages orientés, barrages artificiels... \nTout ce qu'il faut comprendre sur la façon dont le système verrouille les"
+      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
+      "published_at": "2026-11-18 23:06",
+      "text": "[Retweet de @JonaLionDE] Something very disturbing is happening on the canaries.\nThe Africans arriving there are not ordinary Africans.\nThey are young men who all look very threatening.\nThis is a coordinated plan to destroy Europe."
     },
     {
-      "author_name": "Samuel Lafont",
-      "published_at": "2026-11-17 23:04",
-      "text": "[Retweet de @adler_p] Chez Reconquête, il n'y a pas que Zemmour et Knafo qui écrivent des livres d'analyse politique. \nIl y a aussi Samuel Lafont. \nAvez-vous déjà acheté son livre ?"
+      "author_name": "Tribune Populaire🌐",
+      "published_at": "2026-11-18 23:09",
+      "text": "📂🇺🇸🇫🇷FLASH INFO - Le PDG d’une entreprise intermédiaire pour les missiles américains \"Patriot\", qui se fournit en tissu dans une usine d’Ariane près de Bordeaux, affirme qu’il est impossible de mettre l’usine sous pression afin de produire plus de missiles..\n\n\"C’est une"
     },
     {
-      "author_name": "ThinkerView",
-      "published_at": "2026-11-17 23:05",
-      "text": "[Retweet de @Pascal_Laurent_] 🇺🇸 LA RÉALITÉ FACE À L'ABSURDE."
-    },
-    {
-      "author_name": "J'SUIS PAS CONTENT TV",
-      "published_at": "2026-11-17 23:06",
-      "text": "Excellente vidéo de @MaudinMalin. J'en suis a 46min et je suis captivé.\nJe vous la recommande !\nhttps://www.youtube.com/watch?v=xgr9p46Zq4E"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-17 23:07",
-      "text": "Le tribunal judiciaire de Blois a rendu son verdict https://mrf.lu/2w6dV"
-    },
-    {
-      "author_name": "Bouli ☃️",
-      "published_at": "2026-11-17 23:08",
-      "text": "[Retweet de @julien_c] GG @EmmanuelMacron and team 💪"
-    },
-    {
-      "author_name": "Jordan Bardella",
-      "published_at": "2026-11-17 23:10",
-      "text": "Jean-Luc Mélenchon est le visage institutionnel du désordre, mais il a autour de lui des proxys, des bras armés, dont l'objectif est d'abattre la République.\n\nJe suis particulièrement inquiet du réflexe totalitaire d'une grande partie de la gauche."
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-17 23:10",
-      "text": "Présidentielle 2027 : Fabien Roussel se positionne à gauche « entre Jean-Luc Mélenchon et Raphaël Glucksmann »\n➡️ https://l.leparisien.fr/pMom",
-      "also_by": [
-        "Le Parisien | politique"
-      ]
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-17 23:13",
-      "text": "«La France Insoumise est le visage de l’indignité», déclare Jordan Bardella https://ow.ly/c4Sn106ISTw"
-    },
-    {
-      "author_name": "Jean-Yves Le Gallou",
-      "published_at": "2026-11-17 23:13",
-      "text": "[Retweet de @marc_vanguard] 🔴 Le vrai curseur gauche-droite n'est pas l'économie, mais l'immigration.\n\n👉 Plus des électeurs votent à droite, plus ils adhèrent à une politique migratoire restrictive.\n\n👉 Alors que sur l'économie, les électeurs centristes, LR et RN répondent pareil.\n\nMerci @ellibec.",
-      "also_by": [
-        "Marc Vanguard"
-      ]
-    },
+      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
+      "published_at": "2026-11-18 23:10",
+      "text": "C’est curieux, la passion des livreurs pour ne PAS livrer…"
+    }
+  ],
+  "context": [
     {
       "author_name": "Daniel Conversano ⏩ e/acc 🚀",
       "published_at": "2026-11-17 23:15",
@@ -1482,6 +1428,11 @@
       "author_name": "ThinkerView",
       "published_at": "2026-11-18 00:32",
       "text": "[Retweet de @ProudSocialist] This seems relevant to everything that is happening."
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-18 00:35",
+      "text": "Présidentielle 2027 : Fabien Roussel se positionne à gauche « entre Jean-Luc Mélenchon et Raphaël Glucksmann »\n➡️ https://l.leparisien.fr/wZNW"
     },
     {
       "author_name": "Le Parisien",
@@ -1936,6 +1887,11 @@
       "author_name": "Sud Radio",
       "published_at": "2026-11-18 06:54",
       "text": "💵Peut-on parler salaire entre collègues sans créer de la discorde ?\n\n🗣️\"Faire de la pédagogie\", \"garder la confidence\"... les explications de @pymtwit #PetitMatin\n\n📻https://www.sudradio.fr/"
+    },
+    {
+      "author_name": "Marc Vanguard",
+      "published_at": "2026-11-18 06:56",
+      "text": "[Retweet de @marc_vanguard] 🔴 Le vrai curseur gauche-droite n'est pas l'économie, mais l'immigration.\n\n👉 Plus des électeurs votent à droite, plus ils adhèrent à une politique migratoire restrictive.\n\n👉 Alors que sur l'économie, les électeurs centristes, LR et RN répondent pareil.\n\nMerci @ellibec."
     },
     {
       "author_name": "Sud Radio",
@@ -8500,6 +8456,11 @@
       "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
       "published_at": "2026-11-18 18:37",
       "text": "📷 \nLa haine peut-elle faire littérature ?\nPublié le lundi 5 octobre 2026 à 19:03\nFrance Culture \nÉcouter  Écouter26 min\n\nQuestions du soir : l'idéePar Thomas SnégaroffSuivre📷\nPourquoi  une écrivaine marquée par la décennie noire en Algérie est-elle allée  rencontrer Renaud"
+    },
+    {
+      "author_name": "La Cocarde Étudiante",
+      "published_at": "2026-11-18 18:38",
+      "text": "[Retweet de @Valentin_Antoi] Je demande la dissolution immédiate des milice #antifa au Ministre de l’Intérieur. \n\nN’attendons pas un mort de plus provoqué par l’#ultragauche, parmi les journalistes, les forces de l’ordre ou les militants politique de droite, pour agir."
     },
     {
       "author_name": "Michel Onfray",
