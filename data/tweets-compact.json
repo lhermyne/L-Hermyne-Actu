@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-18 14:12",
-  "period": "du 2026-11-17 14:12 au 2026-11-18 14:12",
-  "new_period": "du 2026-11-18 08:00 au 2026-11-18 14:12",
-  "context_period": "du 2026-11-17 14:12 au 2026-11-18 08:00",
+  "generated_at": "2026-11-18 14:42",
+  "period": "du 2026-11-17 14:42 au 2026-11-18 14:42",
+  "new_period": "du 2026-11-18 08:00 au 2026-11-18 14:42",
+  "context_period": "du 2026-11-17 14:42 au 2026-11-18 08:00",
   "coverage_complete": true,
-  "new_count": 720,
-  "context_count": 1168,
-  "duplicates_merged": 118,
+  "new_count": 784,
+  "context_count": 1120,
+  "duplicates_merged": 116,
   "empty_removed": 5,
   "new": [
     {
@@ -3697,260 +3697,329 @@
       "author_name": "LCP",
       "published_at": "2026-11-18 14:11",
       "text": "Fin du cumul de l'AAH et de l'ASS : @GalliardM évoque une décision prise il y a dix ans et \"une période de transition\" qui prend fin au 31 décembre, et souligne que les 15 000 personnes concernées seront \"accompagnées\"."
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-17 14:13",
-      "text": "[Retweet de @solene_vr] Bonjour et bienvenue dans ce fil 🧶consacré à la mobilisation du 17 novembre à Paris ! Place de la Nation, les manifestants arrivent en masse par les bouches de métro ↓"
-    },
-    {
-      "author_name": "Tocsin",
-      "published_at": "2026-11-17 14:13",
-      "text": "🔵 Grande nouvelle : les français auront une primaire de la droite et du centre !\n\nRéécouter l'émission 🔗https://youtu.be/-diWw-Xn-Vk?si=jH4xVFmZXDkncinl"
-    },
-    {
-      "author_name": "Radio Courtoisie",
-      "published_at": "2026-11-17 14:13",
-      "text": "🎙️ POLITIQUE, LITTÉRATURE & MYTHOLOGIE\n\n🔴 ÉMISSION SPÉCIALE EN DIRECT\n\nVieux mythes pour aujourd’hui : l’émission de Richard de Seze avec les écrivains Héraklès Citharède et Bertrand Lacarelle, accompagné de son éditeur Jacques de Guillebon, des Éditions La Onzième Heure !\n\n🚨"
-    },
-    {
-      "author_name": "Valeurs actuelles",
-      "published_at": "2026-11-17 14:14",
-      "text": "🔴 De petits contingents de soldats français sont présents en Ukraine depuis des mois pour former des militaires ukrainiens et assurer l'entretien des matériels"
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-17 14:14",
-      "text": "[Retweet de @Simon_pierr2] Un important dispositif de sécurité a été déployé devant l’hôtel de ville de Bordeaux. Plusieurs dizaines de CRS sont présents, accompagnés d’un engin lanceur d’eau. #Manifestation #Bordeaux #17novembre2026"
-    },
-    {
-      "author_name": "Le Jarl",
-      "published_at": "2026-11-17 14:15",
-      "text": "Son regard, sa posture, sa façon de monter d’un cran en une seconde pour mettre la pression… Il a tout pour faire un excellent physio de discothèque. Au moindre écart, tu sens qu’il peut te rappeler les règles sans même hausser le ton. Quand cette farce sera terminée, je"
-    },
-    {
-      "author_name": "OMERTA",
-      "published_at": "2026-11-17 14:15",
-      "text": "UKRAINE LES EUROPÉENS POUSSENT AU CRIME\nhttps://youtu.be/TyFg8KEtUNw",
-      "also_by": [
-        "Cercle Aristote"
-      ]
-    },
-    {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-17 14:16",
-      "text": "Mehdi Chumillas, 24 ans, ancien militaire originaire des Pyrénées-Orientales, a été condamné lundi 16 novembre à trois ans de prison  https://www.fdesouche.com/2026/11/17/auberives-sur-vareze-38-mehdi-chumillas-ex-militaire-216-kg-cocaine-trois-ans-prison/"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-17 14:17",
-      "text": "« Si vous m’acquittez ce soir, ce sera une victoire de la justice française » : au procès Kessaci, les accusés nient une dernière fois\n➡️ https://l.leparisien.fr/43nH"
-    },
-    {
-      "author_name": "Tocsin",
-      "published_at": "2026-11-17 14:18",
-      "text": "‼️ « S’il y a bien un pays instable et en difficulté dans ce Yalta 2.0, ce sont les États-Unis de Donald Trump ! »\n\n🇺🇸 « Finalement, le pays le plus faible des trois, ce sont sans doute les États-Unis, qui ont dépassé les 40 000 milliards de dollars de dette, avec une armée dont"
-    },
-    {
-      "author_name": "LCP",
-      "published_at": "2026-11-17 14:19",
-      "text": "Logement: \"Le gouvernement se dit 'au nom de la pénurie, je vais organiser l'indécence'\", déplore la députée LFI @BENTORKISheher1, qui dénonce une loi qui \"touche les plus précaires\" et qui consiste à leur \"laisser des logements indignes\"\n#QAG"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-17 14:20",
-      "text": "Le cortège de la manifestation parisienne s’apprête à partir de la place de la Nation\n\nToute l'info est à retrouver sur https://cnews.fr"
+      "published_at": "2026-11-18 14:13",
+      "text": "Les ministres répondent aux députés à l’Assemblée nationale : suivez en intégralité la séance des Questions au gouvernement, ce mercredi 18 novembre à partir de 14h. https://mrf.lu/2w-6t"
     },
     {
-      "author_name": "Agence France-Presse",
-      "published_at": "2026-11-17 14:20",
-      "text": "🇺🇦 Volodymyr Zelensky a qualifié d'\"opération sans précédent\" l'attaque ukrainienne contre le pont reliant la Russie à la péninsule de Crimée, annexée par Moscou, menée en \"réponse aux frappes russes\" contre les infrastructures de l'Ukraine."
+      "author_name": "Frontières",
+      "published_at": "2026-11-18 14:15",
+      "text": "« Y’a Rima présente à Sciences Po »\n\n@Jules_Laurans s’est procuré les boucles Signal ayant conduit au meurtre de Quentin Deranque. Dedans, les membres de La Jeune Garde affirment assurer le service d’ordre de Rima Hassan.\n\n👉 Lire L’Infiltré (-50%) : https://www.frontieresmedia.fr/linfiltre/linfiltre-8"
     },
     {
-      "author_name": "LCP",
-      "published_at": "2026-11-17 14:23",
-      "text": "\"On accueille de plus en plus de population en Bretagne, on est de plus en plus attractif. Si on dit, 'on arrête le ZAN’, on n'aura plus de terres agricoles. Comment on fera pour être souverain ?\", interroge la députée @AnnaigLeMeur_29.\n#QAG"
+      "author_name": "CNEWS",
+      "published_at": "2026-11-18 14:15",
+      "text": "«Les CRS sont fatigués. Ça nous coûte sur la santé et sur la vie de famille», témoigne Hubert Gimenez, délégué Paris UN1TÉ, dans\n#PoliceJustice24H\n\nToute l'info est à retrouver sur https://cnews.fr"
     },
     {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-17 14:26",
-      "text": "Exil fiscal : «Même les plus patriotes hésitent à partir», regrette Benoît Perrin https://ow.ly/TTJu106IQPe"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-17 14:26",
-      "text": "Grève du 17 novembre : départ du cortège parisien\n\nLe cortège parisien s'élance. La manifestation part de la place de la Nation et doit rejoindre la place d’Italie, dans le XIIIe arrondissement.\n\n🔴 Notre direct ➡️ https://l.leparisien.fr/lhuC"
-    },
-    {
-      "author_name": "Occidentis",
-      "published_at": "2026-11-17 14:26",
-      "text": "🚨⚡️ « On note que la répression se durcit concernant les jeunes » déclare Jean-Luc Mélenchon aux côtés d’Elwan Benoît à la manifestation parisienne."
-    },
-    {
-      "author_name": "Alain Weber",
-      "published_at": "2026-11-17 14:26",
-      "text": "Tiens ? L’Ukraine dresse des listes, maintenant ?\n\nElle devrait se contenter d’en faire pour les ukrainiens corrompus, enfin, si elle a suffisamment de papier…\n\nAucun européen n’est en guerre, chacun a le droit de militer pour ce qu’il lui convient !\n\nOn peut dire j’aime ou je\n[Cite @SandroRossi_x] L'Ucraina ha iniziato a fare i nomi di chi si è venduto alla propaganda di Putin, per denaro, per ideologia o per stupidità. Il primo elenco riguarda personaggi europei. Tra questi c'è un eurodeputato italiano, Danilo Della Valle, guarda caso dei Cinque Stelle.\n\nStamattina è"
+      "author_name": "ISSEP",
+      "published_at": "2026-11-18 14:15",
+      "text": "Le Club de l’ISSEP a eu le plaisir d’accueillir @XMDriencourt, diplomate et haut fonctionnaire français, ancien ambassadeur de France en Algérie, pour une conférence autour de la question : « Algérie : et si nous regardions l’histoire en face ? »\n\nUne réflexion passionnante sur"
     },
     {
       "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-17 14:26",
-      "text": "\"Épuisés\", de nombreux CRS ont décidé de ne pas prendre leur service indique le syndicat Un1té"
+      "published_at": "2026-11-18 14:15",
+      "text": "Sept premiers prévenus comparaissent les 18 et 19 novembre au tribunal correctionnel de Paris. Au total, 34 membres du canal  https://www.fdesouche.com/2026/11/18/paris-75-sept-membres-du-canal-telegram-femmeblancherie-juges-34-hommes/"
     },
     {
-      "author_name": "Jean-Yves Le Gallou",
-      "published_at": "2026-11-17 14:26",
-      "text": "« Pour Philippe Barret le procureur de Grenoble , le racisme anti blanc n’est pas un délit mais un déni » @Bousquet_FR\n[Cite @Bousquet_FR] Crépol : nouveau scandale dans le scandale.\n\nPourquoi le parquet général de Grenoble a-t-il demandé d’écarter la circonstance aggravante de racisme antiblanc ? Est-ce une décision juridique ou politique ? La question se pose. Jugez-en.\n\n>> Le procureur général de Grenoble,"
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-18 14:15",
+      "text": "Des hackers russophones ont mené avec l’IA la première cyberattaque entièrement automatisée de l’histoire, la France visée\n➡️ https://l.leparisien.fr/fqD5"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-18 14:15",
+      "text": "L'Assemblée nationale a adopté une proposition de loi censée favoriser le déblocage de l'épargne salariale, décrite comme un levier pour le pouvoir d'achat. https://mrf.lu/2w-v_"
+    },
+    {
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-18 14:17",
+      "text": "[BRÈVE] Raphaël Glucksmann favorable à « l’obligation locative » | Par Boulevard Voltaire\nIl a déclaré qu’il « faut arrêter de croire que la propriété privée est absolue. » \n \nhttps://www.bvoltaire.fr/breve-raphael-glucksmann-favorable-a-lobligation-locative/?fsp_sid=26759"
+    },
+    {
+      "author_name": "Tanguy David",
+      "published_at": "2026-11-18 14:17",
+      "text": "[Retweet de @CerfiaFR] 🇫🇷👮 FLASHBACK | Il y a 11 ans jour pour jour, le 18 novembre 2015, cinq jours après les attentats du 13-Novembre, le RAID donne l’assaut dans un appartement à Saint-Denis.\n\nL’opération débute à 4h20 et dure près de sept heures. Abdelhamid Abaaoud, l’un des principaux"
+    },
+    {
+      "author_name": "L’Infiltré",
+      "published_at": "2026-11-18 14:19",
+      "text": "🔴 EXCLUSIF — L’Infiltré a eu accès aux conversations Signal de militants de la Jeune Garde avant et après l’agression mortelle de Quentin Deranque.\n\n« Putain faut que je clean mes conv ça risque de perquiz les camarades »\n\nAu lendemain du lynchage, des militants de la Jeune"
+    },
+    {
+      "author_name": "Aldo Sterone",
+      "published_at": "2026-11-18 14:19",
+      "text": "Tous les jours, des articles britanniques annoncent l'humiliation de la Russie. On dirait qu'ils ont un Team Humiliation qui doit produire plusieurs articles par jour selon cette ligne éditoriale.\n\nOn remarque aussi que le mot \"Russie\" est rarement utilisé. Par exemple, dans"
     },
     {
       "author_name": "Jon De Lorraine",
-      "published_at": "2026-11-17 14:26",
-      "text": "Elwan est enfin heureux. Il est en première ligne a côté de son idole."
+      "published_at": "2026-11-18 14:19",
+      "text": "🔴🇫🇷 ALERTE INFO - COUP DE TONNERRE : DAVID LISNARD DEVANCE ÉDOUARD PHILIPPE \nMarine Le Pen à 33 %, David Lisnard à égalité avec Raphaël Glucksmann.\n\nSelon un sondage YouGov pour Le HuffPost, la candidate du RN reste largement en tête au premier tour. Jean-Luc Mélenchon suit à 19"
     },
     {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-17 14:28",
-      "text": "[Retweet de @solene_vr] Yaël, mère de cinq enfants « allant de la maternelle au lycée », est de toutes les manifestations. Atteinte d’une adénomyose, « maladie non reconnue par la Secu », cette femme de 37 ans ne travaille pas et craint pour l’avenir de ses enfants."
+      "author_name": "LCP",
+      "published_at": "2026-11-18 14:20",
+      "text": "Malgré des violences rapportées ces dernières semaines, \"plus personne ne traque les dérives séparatistes, la drogue ou le proxénétisme\", alerte @Marc_Chavent à propos de sa circonscription. S'agirait-il d'un \"territoire perdu de la République ?\", interroge encore le député.\n#QAG"
     },
     {
-      "author_name": "Eric Ciotti",
-      "published_at": "2026-11-17 14:28",
-      "text": "[Retweet de @gerault_verny] - La règle d’or budgétaire pour en finir avec les budgets en déficit.\n- Lever les freins à la construction de logements.\n- La retraite par capitalisation pour permettre à chacun de se constituer un patrimoine.\n\nQuel bonheur de soutenir Marine Le Pen ! 🇫🇷"
-    },
-    {
-      "author_name": "VA+",
-      "published_at": "2026-11-17 14:30",
-      "text": "🔴 MANIFESTATIONS DU 17 NOVEMBRE | La CRS 8 ne sera pas déployée : 100 % de ses effectifs demandent à consulter un médecin, selon BFMTV.\n\n« Un ras-le-bol général », témoigne un policier.\n\nLe syndicat Un1té alerte sur l'épuisement de centaines de CRS."
+      "author_name": "LCP",
+      "published_at": "2026-11-18 14:20",
+      "text": "Sécurité: \"Vous avez cité une kyrielle de sujets que nous avons pris à bras-le-corps\", défend @NunezLaurent, en réponse à @Marc_Chavent. \"Regardez les chiffres, regardez l'action, et après je viendrai recevoir vos leçons\", assène-t-il. \n#QAG"
     },
     {
       "author_name": "Le Point",
-      "published_at": "2026-11-17 14:30",
-      "text": "💬 Porté par des sondages flatteurs, le maire de Cannes accélère sa campagne présidentielle. Mais, avant, il devra passer par l’élection pour un troisième mandat à la tête de l’Association des maires de France. Ses détracteurs l’accusent de courir deux lièvres à la fois. Il"
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-17 14:30",
-      "text": "La garde à vue est toujours en cours.→https://l.lefigaro.fr/jds0"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-17 14:31",
-      "text": "Les Trophées de l'Avenir 2026 : découvrez Erika Le Noan, Présidente de Dammann Frères, qui concourt dans la catégorie Environnement https://ow.ly/2hpF106IQPl"
+      "published_at": "2026-11-18 14:20",
+      "text": "💬 Yousef Jabareen : « Nous sommes disposés à faire tomber le gouvernement Netanyahou » https://l.lepoint.fr/9nZ"
     },
     {
       "author_name": "LCP",
-      "published_at": "2026-11-17 14:31",
-      "text": "Priorité nationale : \"Nous n'avons plus les moyens d'accueillir dans les logements sociaux une immigration qui n'est pas forcément solvable\", déclare @FalconFrederic. \"Ce n'est pas une disposition discriminatoire, c'est simplement une forme de justice\", ajoute-t-il.\n#QAG"
+      "published_at": "2026-11-18 14:21",
+      "text": "Agriculture : \"La PAC est menacée. La France, 2e contributeur au budget de l'Union européenne, reçoit aujourd'hui 66,2 milliards d'euros, mais seulement 51 milliards seraient envisagés pour 2028-2034\", s'inquiète @GrangierGe.\n#QAG"
     },
     {
-      "author_name": "Le Média en 4⃣-4⃣-2⃣",
-      "published_at": "2026-11-17 14:31",
-      "text": "Mortiers d’artifice : le gouvernement interdit, les vendeurs continuent sur TikTok et Snapchat \nhttps://lemediaen442.fr/mortiers-dartifice-le-gouvernement-interdit-les-vendeurs-continuent-sur-tiktok-et-snapchat/ \n\nDes vendeurs diffusent des démonstrations, montrent leurs stocks et promettent, pour certains, une livraison le soir même. La fermeté gouvernementale a son"
-    },
-    {
-      "author_name": "Collectif Némésis",
-      "published_at": "2026-11-17 14:32",
-      "text": "J-11 ⏰😁"
-    },
-    {
-      "author_name": "TVL",
-      "published_at": "2026-11-17 14:32",
-      "text": "🎙️ « On a une jeunesse qui est en quête de sens et qui interpelle sur la place du sacré dans nos vies. » - Hélène Milcent\n\nLe ZOOM sur TVL 🔻\nhttps://youtu.be/DNW816fLyS0"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-17 14:32",
-      "text": "Présidentielle 2027 : capitalisation, départ à 60 ou 62 ans… ce qu’il faut retenir de la réforme des retraites du RN\n➡️ https://l.leparisien.fr/HfVe"
-    },
-    {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-17 14:32",
-      "text": "À Tonneins, cinq hommes cagoulés se faisant passer pour des gendarmes ont attaqué une famille avec trois enfants. Après des tirs contre la maison, cinq personnes, dont un mineur, ont été interpellées.\nhttps://www.fdesouche.com/2026/11/07/tonneins-47-coups-feu-centre-ville-maison-visee/"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-17 14:33",
-      "text": "Matthieu Devèze : «Le droit de manifester ne donne pas le droit d’empêcher d’aller en cours» dans #PoliceJustice24H\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-17 14:33",
-      "text": "[Retweet de @J_Bardella] Avec ce fonds de capitalisation, pour toutes les nouvelles cotisations à partir du 1er janvier 2028, nous rendrons cet argent aux salariés. \n\nIls verront enfin le fruit de ce qui leur appartient."
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-17 14:33",
-      "text": "[Retweet de @J_Bardella] Il est effectivement saisissant, en 2026, de voir une femme renvoyée aux fonctions et aux opinions de son conjoint.\n\nMais quelle indignation sélective, chère Madame !\n\nCe que vous dénoncez aujourd’hui avec tant de vigueur, vous l’avez vous-même infligé à une autre femme. Les"
-    },
-    {
-      "author_name": "Jordan Bardella",
-      "published_at": "2026-11-17 14:34",
-      "text": "Je serai à 21h l'invité de @LaurenceFerrari sur @CNEWS."
-    },
-    {
-      "author_name": "Pierre Sautarel",
-      "published_at": "2026-11-17 14:35",
-      "text": "[Retweet de @Geronimuslll] La gauchiste qui fait appel à grok et qui se prend la porte du réel en pleine gueule devant le monde entier."
+      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
+      "published_at": "2026-11-18 14:22",
+      "text": "[Retweet de @dannyconversano] Sardoche, c'est parce que les Français ne sont pas \"obsédés par l'immigration\" qu'il y a eu le Bataclan, Mohamed Merah, Nice, Samuel Paty, Lola, Thomas de Crépol et tant d'autres. Ta copine ou mes enfants sont peut-être les prochains sur la liste. Désolé de trouver ça 1 000 fois"
     },
     {
       "author_name": "LCP",
-      "published_at": "2026-11-17 14:35",
-      "text": "\"On voit qu'il y a 10.000 morts supplémentaires l'hiver du fait de la mauvaise régulation thermique des logements\", déclare @laernoes \n#QAG"
+      "published_at": "2026-11-18 14:22",
+      "text": "Agriculture: \"L'architecture du budget de la PAC a changé cette année\", explique @AnnieGenevard. \"Pas un euro ne manquera à la PAC\", assure la ministre.\n#QAG"
     },
     {
-      "author_name": "LCP",
-      "published_at": "2026-11-17 14:35",
-      "text": "Priorité nationale dans le logement social : \"Mais on les met où ces personnes qui sont en situation régulière, qui ont fait le choix de venir en France et qui paient leurs impôts ?\", interroge @AnnaigLeMeur_29.\n#QAG"
+      "author_name": "Valeurs actuelles",
+      "published_at": "2026-11-18 14:23",
+      "text": "🗞️ Présidentielle 2027 : Teddy Riner vise l’Élysée et entend aller jusqu’au bout. Mais derrière le champion qui se présente en outsider, les réseaux macronistes s’activent déjà...\n\n🔗 https://l.valeursactuelles.com/Whg"
     },
     {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-17 14:36",
-      "text": "Les Trophées de l'Avenir 2026 : découvrez Alexis Berreby, Président de Leadersanté, qui concourt dans la catégorie Santé https://ow.ly/y4X8106IQPI"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-17 14:36",
-      "text": "Les Trophées de l'Avenir 2026 : découvrez Cyril Berthier, Président de Alt Eco, qui concourt dans la catégorie Impact social https://ow.ly/xHat106IQPJ"
-    },
-    {
-      "author_name": "JDNews",
-      "published_at": "2026-11-17 14:37",
-      "text": "Carlo Molinari : le testament d'un géant du foot français https://ow.ly/tZZ3106IQPR",
-      "also_by": [
-        "Le JDD"
-      ]
-    },
-    {
-      "author_name": "Observatoire du journalisme (Ojim)",
-      "published_at": "2026-11-17 14:37",
-      "text": "🔴Face à deux journalistes blanches qui lui demandent comment faire pour \"aider la lutte antiraciste\", la journaliste d’extrême gauche Douce Dibondo (Mediapart) affirme : \"TOUTES LES PERSONNES BLANCHES SONT RACISTES\". Le procureur de la République saisi par Thibaut Monnier (RN)."
-    },
-    {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-17 14:37",
-      "text": "Présidentielle 2027 : capitalisation, départ à 60 ou 62 ans… ce qu’il faut retenir de la réforme des retraites du RN https://l.leparisien.fr/AA4Y"
-    },
-    {
-      "author_name": "Le JDD",
-      "published_at": "2026-11-17 14:38",
-      "text": "Selon le baromètre Fractures françaises d’Ipsos bva, 22 % des Français justifient le fait que « certaines personnes » usent de la violence pour défendre leurs intérêts.\n\nUn score qui grimpe à 40 % chez les sympathisants de La France insoumise, en forte hausse sur un an.\n\n🔗"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-17 14:40",
-      "text": "« J’ai évolué beaucoup plus vite » : ces jeunes qui cumulent plusieurs employeurs avec un seul CDI\n➡️ https://l.leparisien.fr/1RXE"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-17 14:41",
-      "text": "Budget de la Sécu : le Sénat rejette la désindexation des retraites sur l'inflation https://ow.ly/smyK106IQQ0"
+      "author_name": "Le Jarl",
+      "published_at": "2026-11-18 14:23",
+      "text": "On s’est vraiment marrés sur l’émission de @Bruno_Attal_ . Gros problème, Bruno pense que j’ai dit trop de vérité, la vidéo risque de sauter très vite sur YouTube ! J’avais prévenu, j’ai des choses à vous dire et elles ne vont pas plaire à tout le monde !"
     },
     {
       "author_name": "Occidentis",
-      "published_at": "2026-11-17 14:42",
-      "text": "🚨⚡️ Le tribunal administratif de Nancy rejette la requête lui demandant le retrait de la statue du général Bigeard à Toul. La statue du héros militaire reste."
+      "published_at": "2026-11-18 14:23",
+      "text": "🚨 Une division de Google a détecté la première cyberattaque entièrement pilotée par des agents d’IA, sans intervention humaine, ciblant plusieurs sites web français dans les secteurs des médias, du divertissement et de l’éducation. (Le Parisien)"
     },
+    {
+      "author_name": "Agence France-Presse",
+      "published_at": "2026-11-18 14:23",
+      "text": "📽️ James Bond : l'acteur oscarisé Rami Malek, qui a incarné un adversaire de 007, s'est réjouit du choix de Robert Pattinson pour succéder à Daniel Craig, lors de la cérémonie de remise du prix Earthshot à Bombay, en Inde ⤵️"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-18 14:24",
+      "text": "«Leur année est peut-être compromise», explique Maître Florence Rault, avocat pénaliste, dans #PoliceJustice24H, à propos des blocus universitaires qui durent depuis plusieurs semaines. \n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-18 14:24",
+      "text": "Candidat à la présidentielle 2027, Sylvain Durif dévoile 72 mesures insolites : interdiction du Wi-Fi, énergie Vril et jouvence éternelle. https://mrf.lu/2w-Yb"
+    },
+    {
+      "author_name": "Tocsin",
+      "published_at": "2026-11-18 14:24",
+      "text": "📻Shenzhen : le choc entre l’impérialisme anglo-saxon et l’organisation multipolaire\n\n🔗https://youtu.be/-uk9mNbRV1I\n\n🗣️@JCheminade @LAURENTMICHEL0N"
+    },
+    {
+      "author_name": "Pierre Sautarel",
+      "published_at": "2026-11-18 14:24",
+      "text": "Sur BFM, ils accusent Édouard Philippe de flirter avec l’extrême droite après ses propositions nullissimes sur l’immigration. Ils veulent le faire grimper."
+    },
+    {
+      "author_name": "Clément Macchi",
+      "published_at": "2026-11-18 14:25",
+      "text": "[Retweet de @Romain_Herreros] EXCLUSIF - Édouard Philippe atteint la cote d’alerte dans notre sondage pour la présidentielle -via @AnthoBerthelier  https://www.huffingtonpost.fr/politique/article/dans-notre-sondage-sur-la-presidentielle-2027-edouard-philippe-atteint-la-cote-d-alerte_360406.html via @LeHuffPost"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-18 14:27",
+      "text": "Fifa : quelles chances pour Philippe Diallo, candidat à la présidence face à Gianni Infantino ? https://ow.ly/M6OQ106IVBf"
+    },
+    {
+      "author_name": "LCP",
+      "published_at": "2026-11-18 14:27",
+      "text": "DuoDay : \"Cette réussite doit perdurer\", estime @lauzzanamichel à propos de ce stage de découverte en entreprise pour les personnes en situation de handicap. \"Comment faire pour qu'un duo d'un jour devienne plus souvent un emploi durable ?\", interroge-t-il ensuite. #QAG"
+    },
+    {
+      "author_name": "LCP",
+      "published_at": "2026-11-18 14:28",
+      "text": "Duoday : @GalliardM indique que depuis sa création, \"200 000 duos se sont constitués avec environ 20% de ces duos qui se sont transformés en contrats à durée déterminée ou indéterminée, c'est-à-dire 40 000 personnes en situation de handicap qui ont pu accéder à l'emploi\". #QAG"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-18 14:28",
+      "text": "En présentant, mardi 17 novembre, sa feuille de route censée « réparer le système des retraites », la candidate du RN à la présidentielle a surtout nourri l’illusion d’un modèle social généreux et confirmé un financement hautement incertain.\n\n🖋️ L'ÉDITO de Pierre-Antoine"
+    },
+    {
+      "author_name": "Assemblée nationale",
+      "published_at": "2026-11-18 14:28",
+      "text": "Fin du cumul AAH-ASS : @YannickMonnet3 (GDR) alerte sur le sort de \"15 000 personnes\" handicapées qui vont perdre \"jusqu'à 600 € par mois\" au 1er janvier 2027.\n\nIl refuse de les \"sacrifier\" à une vie de \"misère\" au nom de \"quelques mesures d'économie budgétaire\".\n#DirectAN #QAG"
+    },
+    {
+      "author_name": "Assemblée nationale",
+      "published_at": "2026-11-18 14:29",
+      "text": "\"Vous voyez tout, vous entendez tout, mais vous ne faites rien !\"\n\n@Marc_Chavent (UDR) déplore la situation dans certains quartiers d'Oyonnax qu'il ne \"reconnait plus\".\nIl s'interroge : \"la ville est-elle condamnée à devenir un territoire perdu de la République ?\"\n#DirectAN #QAG"
+    },
+    {
+      "author_name": "Aldo Sterone",
+      "published_at": "2026-11-18 14:29",
+      "text": "[Retweet de @f_philippot] L’armée française débarque en masse en Ukraine : et l’article 35 de la Constitution n’est même pas respecté !\n\nPÉTITION NATIONALE contre cette folie et pour le respect de l’article 35 ! \n➡️ https://les-patriotes.fr/soldats-francais-en-ukraine-le-peuple-doit-sexprimer/\n\n« Soldats français en Ukraine : le peuple doit s’exprimer !\nLa"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-18 14:29",
+      "text": "https://l.leparisien.fr/045x"
+    },
+    {
+      "author_name": "TVL",
+      "published_at": "2026-11-18 14:30",
+      "text": "🎥 La Deutsche Bank dans la tourmente 💸\n\nLe JT sur TVL 🔻\nhttps://youtu.be/eM2-N9TVLzs"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-18 14:30",
+      "text": "🇺🇦🇫🇷 Présence de soldats français en Ukraine\n\n@BrunoRetailleau : \"Il n'y a que les naïfs qui ignoraient qu'il n'y avait pas de formateurs français, puisqu'on vend des armes\" #GrandMatin \n\n📻https://www.sudradio.fr/"
+    },
+    {
+      "author_name": "Assemblée nationale",
+      "published_at": "2026-11-18 14:30",
+      "text": "Agriculture : face à la \"pénurie de fourrage\" et la baisse annoncée de la PAC, @GrangierGe (RN) demande au Gvt \"de limiter temporairement ses exportations et d'encadrer son prix\"\n\nElle ajoute : \"Quelle garantie allez-vous donner pour préserver le budget de la PAC?\"\n#DirectAN #QAG"
+    },
+    {
+      "author_name": "LCP",
+      "published_at": "2026-11-18 14:30",
+      "text": "Mouvement lycéen: \"Vous en êtes réduits à organiser des descentes de police pour saisir des trombinoscopes\", dénonce le député LFI @pycadalen\n#QAG"
+    },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-18 14:30",
+      "text": "L’Assemblée adopte un amendement RN supprimant les interdictions de louer des passoires thermiques. →https://l.lefigaro.fr/VQoQ"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-18 14:30",
+      "text": "Largement répandus lors des violences urbaines qui ont touché la France ces dernières semaines, les mortiers d'artifice ont été interdits temporairement. https://mrf.lu/2w-MN"
+    },
+    {
+      "author_name": "LCP",
+      "published_at": "2026-11-18 14:32",
+      "text": "\"A votre place, je resterais très prudent sur le sort qui va être donné aux enquêtes judiciaires qui sont en cours sur les 'complicités', auxquelles nous avons pu assister, [des] personnes qui ont pu inciter des jeunes à commettre des violences\", répond @NunezLaurent\n#QAG"
+    },
+    {
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-18 14:32",
+      "text": "Essorés, épuisés, sursollicités depuis des semaines, les CRS déposent les armes | Par Marie Delarue\nMardi, après un mois de manifs ultra violentes et huit week-ends en service, ils étaient un millier à manquer à l’appel. \n \nhttps://www.bvoltaire.fr/essores-epuises-sursollicites-depuis-des-semaines-les-crs-deposent-les-armes/?fsp_sid=26747"
+    },
+    {
+      "author_name": "Le JDD",
+      "published_at": "2026-11-18 14:32",
+      "text": "Présidentielle : «Si Zemmour y participe, il n’y a pas de primaire», prévient Retailleau https://ow.ly/oZbZ106IVBr"
+    },
+    {
+      "author_name": "Valeurs actuelles",
+      "published_at": "2026-11-18 14:32",
+      "text": "🗞️ Depuis leur mise en place en 2022, les sanctions de l’UE contre la Russie se sont étoffées. Derrière cible en date : la femme la plus riche de Russie. Une méthode pas toujours efficace, selon la Cour des comptes européenne.\n\n🔗 https://l.valeursactuelles.com/Ufr"
+    },
+    {
+      "author_name": "Ligne Droite • La matinale de RC",
+      "published_at": "2026-11-18 14:32",
+      "text": "🤜 C’est Nicolas qui paie : la révolte des actifs contre le système des retraites\n🗣️ @jonashaddad, auteur de \"C’est @NicolasQuiPaie. Comment réparer la fracture générationnelle\", publié aux Éditions de l’Observatoire.\nEntretien complet :\n👉 https://youtu.be/c8TMFUQTE90\n🎙️ Avec"
+    },
+    {
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-18 14:33",
+      "text": "[Retweet de @BVoltaire] « Stop au laxisme judiciaire » : ces collectifs citoyens qui veulent faire bouger la justice | Par  @alienordep\nLe Collectif pour la Justice (CPLJ) est encore jeune, mais il a bien l’intention de faire entendre sa voix. \n \nhttps://www.bvoltaire.fr/stop-au-laxisme-judiciaire-ces-collectifs-citoyens-qui-veulent-faire-bouger-la-justice/?fsp_sid=26715"
+    },
+    {
+      "author_name": "Assemblée nationale",
+      "published_at": "2026-11-18 14:33",
+      "text": "Emploi des personnes en situation de handicap : @lauzzanamichel (EPR) salue l'action de la majorité depuis 10 ans mais appelle à \"aller plus loin\".\n\nIl demande au Gvt de continuer de soutenir le Duoday et d'agir pour qu'il se transforme en \"emplois durables\".\n#DirectAN #QAG"
+    },
+    {
+      "author_name": "Assemblée nationale",
+      "published_at": "2026-11-18 14:34",
+      "text": "Saisie de \"trombinoscopes\" de lycéens à Brest : @pycadalen (LFI-NFP) dénonce un \"fichage de masse\" et exige que les données des mineurs soient \"effacées\".\n\nIl interpelle le Gouvernement : \"Reconnaissez-vous ce fichage de masse [...] et les condamnez-vous ?\" \n#DirectAN #QAG"
+    },
+    {
+      "author_name": "L'Express",
+      "published_at": "2026-11-18 14:34",
+      "text": "Le nouvel album du chanteur libertaire, qui comprend un titre intitulé \"Les antisémites\" consacré à La France insoumise, a ulcéré le \"Lider Maximo\". Quitte à reprendre les méthodes de Staline pour...\n\n➡️ https://l.lexpress.fr/XnA https://l.lexpress.fr/XnA"
+    },
+    {
+      "author_name": "LCP",
+      "published_at": "2026-11-18 14:34",
+      "text": "\"Gardez pour vous vos leçons de République\", réplique @pycadalen.\n\"La chienlit que vous organisez, les Français ne vous la pardonnerons jamais!\", réagit le ministre de l'Intérieur @NunezLaurent\n#QAG"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-18 14:36",
+      "text": "⚖️ La cour criminelle de Paris examinera la dimension raciste du passage à tabac du producteur noir Michel Zecler \n\nhttps://www.sudradio.fr/?p=932164"
+    },
+    {
+      "author_name": "LCP",
+      "published_at": "2026-11-18 14:37",
+      "text": "Pénurie de soignants: en Martinique, \"le Nord tout entier est sommé de descendre à Fort-de-France\" pour obtenir des soins, s'insurge @WilliamJiovanny. \"L'égalité devant la santé ne peut pas dépendre d'un tableur\", dit-il, au sujet des critères définissant les moyens sur l'île."
+    },
+    {
+      "author_name": "Assemblée nationale",
+      "published_at": "2026-11-18 14:37",
+      "text": "Urgences du CHU de Martinique-Trinité : \"Quand rouvriront-elles jour et nuit ?\"\n\n@WilliamJiovanny (SOC) alerte sur un \"manque de moyens, de lits\" et déplore une inadéquation entre les critères du ministère de la santé et la situation sur place.\n#DirectAN #QAG"
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-18 14:37",
+      "text": "Présidentielle 2027 : Jean-François Copé s’inquiète d’une primaire de la droite et du centre qui « sert à éliminer » plutôt qu’à rassembler https://l.leparisien.fr/Vzjm"
+    },
+    {
+      "author_name": "LCP",
+      "published_at": "2026-11-18 14:37",
+      "text": "Les urgences \"sont effectivement fermées après 18 heures\" à La Trinité, reconnaît @stephanie_rist, qui revendique un travail pour \"augmenter les effectifs\". Le gouvernement assure vouloir \"rouvrir les urgences la nuit\".\n#QAG"
+    },
+    {
+      "author_name": "Assemblée nationale",
+      "published_at": "2026-11-18 14:38",
+      "text": "Pouvoir d'achat et PME : déplorant que \"71 000 PME ont mis la clé sous la porte\" en un an, Cendrine Chazé (DR) juge \"qu'en 🇫🇷, en 2026, le travail ne suffit plus\".\n\nElle demande au Gvt de \"réduire drastiquement les dépenses publiques\" pour \"revaloriser le travail\".\n#DirectAN #QAG"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-18 14:39",
+      "text": "Mort de Jean-Marie Duthilleul, l’architecte qui a façonné les gares TGV et Notre-Dame de Paris\n\nPar @Jeromecordelier https://l.lepoint.fr/pXB"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-18 14:39",
+      "text": "Serrage de main, descente d’avion et repas… Les images de la rencontre entre Trump, Poutine et Xi à la veille de leur sommet en Chine\n➡️ https://l.leparisien.fr/gyEW"
+    },
+    {
+      "author_name": "Tocsin",
+      "published_at": "2026-11-18 14:40",
+      "text": "🚨 « La conclusion de cette note du renseignement, c’est qu’il y a une volonté manifeste de tuer ! »\n\n🔥 « Moi, je me base sur une note du renseignement que je vais révéler. Je ne peux pas dire de quel service elle émane pour protéger mes sources. Mais je peux vous dire qu’elle"
+    },
+    {
+      "author_name": "LCP",
+      "published_at": "2026-11-18 14:41",
+      "text": "Pouvoir d'achat: \"Seules des économies drastiques permettront de rendre des marges de manœuvre à nos entreprises et du pouvoir d'achat aux salariés\", estime Cendrine Chazé (Droite républicaine). \"En quelques mots, de revaloriser le travail comme il se doit.\"\n#QAG"
+    },
+    {
+      "author_name": "Une Bonne Droite 👊🏻",
+      "published_at": "2026-11-18 14:42",
+      "text": "[Retweet de @JulesTorres17] 1/10 🚨 EXCLUSIF - Affaire Quentin Deranque : L’Infiltré publie une enquête qui apporte des révélations majeures sur les circonstances de sa mort.\n\nNous avons eu accès aux conversations Signal inédites de militants de la Jeune Garde. Ce qu’elles révèlent est saisissant.\n\nDes"
+    },
+    {
+      "author_name": "LCP",
+      "published_at": "2026-11-18 14:42",
+      "text": "Pouvoir d'achat: \"Face à la crise, nous avons décidé d'avoir des aides ciblées vers les travailleurs\", rapporte @Amiel_David_\n#QAG"
+    },
+    {
+      "author_name": "Assemblée nationale",
+      "published_at": "2026-11-18 14:42",
+      "text": "Budget 2027 de la recherche et de l'enseignement supérieur : Christine Arrighi (EcoS) cite un courrier de 90 présidents d'universités appelant à \"sortir de la logique du drame permanent\" et à \"investir dans l'éducation, la recherche et la jeunesse\".\n#DirectAN #QAG"
+    }
+  ],
+  "context": [
     {
       "author_name": "Radio Courtoisie",
       "published_at": "2026-11-17 14:43",
@@ -4557,6 +4626,11 @@
       "author_name": "Assemblée nationale",
       "published_at": "2026-11-17 15:31",
       "text": "\"Voilà bientôt deux mois que la jeunesse de ce pays frappe à la porte de la République!\", alerte @estellemercier2 (SOC) face à l'escalade des violences.\n\nFustigeant un \"gouvernement à l'agonie\", elle demande : \"Où sont les espaces de dialogue et de médiation ?\" \n#DirectAN #QAG"
+    },
+    {
+      "author_name": "Cercle Aristote",
+      "published_at": "2026-11-17 15:31",
+      "text": "[Retweet de @Omerta_officiel] UKRAINE LES EUROPÉENS POUSSENT AU CRIME\nhttps://youtu.be/TyFg8KEtUNw"
     },
     {
       "author_name": "Europe 1",
