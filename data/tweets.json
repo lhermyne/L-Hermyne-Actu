@@ -1,9 +1,9 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-18T01:07:28.607Z",
+  "updated_at": "2026-11-18T01:37:34.032Z",
   "window_hours": 24,
-  "window_start": "2026-11-17T01:07:28.607Z",
+  "window_start": "2026-11-17T01:37:34.032Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": false,
   "possible_gaps": [
@@ -13,8 +13,47 @@
       "minutes": 4
     }
   ],
-  "count": 2030,
+  "count": 2031,
   "tweets": [
+    {
+      "id": "2122865732249702817",
+      "created_at": "2026-11-18T01:33:26.000Z",
+      "author": "Bruno_Attal_",
+      "author_name": "Bruno Attal",
+      "type": "retweet",
+      "text": "Je porte plainte contre Aymeric Caron.\n\nDans le cadre de mon travail de journaliste, j’ai réalisé, à la suite des événements de Crépol, une émission donnant la parole à des victimes\ndu racisme anti-blanc.\n\nStop aux insultes et intimidations de la part de ce député.",
+      "retweeted_author": "christine_kelly",
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/Bruno_Attal_/status/2122865732249702817"
+    },
+    {
+      "id": "2122862233680335145",
+      "created_at": "2026-11-18T01:19:32.000Z",
+      "author": "leparisien_pol",
+      "author_name": "Le Parisien | politique",
+      "type": "tweet",
+      "text": "« Au mépris des lois de notre nation » : l’ex-champion du monde de boxe Linares, détenu par ICE, va être expulsé des États-Unis\n➡️ https://l.leparisien.fr/7Wmf",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/leparisien_pol/status/2122862233680335145"
+    },
+    {
+      "id": "2122862084212011473",
+      "created_at": "2026-11-18T01:18:56.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "« Au mépris des lois de notre nation » : l’ex-champion du monde de boxe Linares, détenu par ICE, va être expulsé des États-Unis\n➡️ https://l.leparisien.fr/orPT",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2122862084212011473"
+    },
     {
       "id": "2122855724845867478",
       "created_at": "2026-11-18T00:53:40.000Z",
@@ -26378,32 +26417,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/le_Parisien/status/2122508183016993117"
-    },
-    {
-      "id": "2122503489536598197",
-      "created_at": "2026-11-17T01:34:00.000Z",
-      "author": "leparisien_pol",
-      "author_name": "Le Parisien | politique",
-      "type": "tweet",
-      "text": "Présidentielle 2027 : plus de mille élus locaux appellent à une primaire pour éviter Le Pen-Mélenchon au second tour https://l.leparisien.fr/cG2z",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/leparisien_pol/status/2122503489536598197"
-    },
-    {
-      "id": "2122498892571046047",
-      "created_at": "2026-11-17T01:15:44.000Z",
-      "author": "ThaisEscufon",
-      "author_name": "Thaïs d’Escufon",
-      "type": "retweet",
-      "text": "Infernal d'être en France.\n\nTu peux pas profiter d'UNE sortie culturelle sans te manger de la propagande gauchiste.\n\nC'est à vomir 🤮",
-      "retweeted_author": "CryptoP_A",
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/ThaisEscufon/status/2122498892571046047"
     }
   ]
 }
