@@ -1,9 +1,9 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-18T02:38:16.488Z",
+  "updated_at": "2026-11-18T03:08:26.393Z",
   "window_hours": 24,
-  "window_start": "2026-11-17T02:38:16.488Z",
+  "window_start": "2026-11-17T03:08:26.393Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": false,
   "possible_gaps": [
@@ -13,8 +13,60 @@
       "minutes": 4
     }
   ],
-  "count": 2029,
+  "count": 2031,
   "tweets": [
+    {
+      "id": "2122889041591124161",
+      "created_at": "2026-11-18T03:06:03.000Z",
+      "author": "DamienRieu",
+      "author_name": "Damien Rieu",
+      "type": "retweet",
+      "text": "Danmarks statsministern vill inte ha \"folkutbyte\": \n\"Jag förespråkar inte ett mångkulturellt samhälle där kulturer likställs.\" \"Jag stödjer inte heller ett storskaligt folkutbyte. Det måste finnas en stark majoritetskultur\", säger Mette Frederiksen.\nhttps://www.bt.dk/debat/mette-frederiksen-i-borgerlig-tabloid-jeg-er-ikke-tilhaenger-af-en-befolkningsudskiftning",
+      "retweeted_author": "gudmundson_per",
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "sv",
+      "url": "https://x.com/DamienRieu/status/2122889041591124161"
+    },
+    {
+      "id": "2122886880236589099",
+      "created_at": "2026-11-18T02:57:28.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "Au tribunal, le naufrage du policier qui a voulu interpeller Michel Zecler\n\nDroit dans ses bottes, l'agent accusé d’avoir lancé l’interpellation violente du producteur en 2020 à Paris, a continué d’invoquer le bien-fondé de son action, provoquant l’exaspération ➡️",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2122886880236589099"
+    },
+    {
+      "id": "2122886524945457584",
+      "created_at": "2026-11-18T02:56:03.000Z",
+      "author": "leparisien_pol",
+      "author_name": "Le Parisien | politique",
+      "type": "tweet",
+      "text": "« Il est plus préparé » : Gérald Darmanin estime que Mélenchon gagnera l’élection présidentielle en cas de second tour face à Marine Le Pen https://l.leparisien.fr/UprS",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/leparisien_pol/status/2122886524945457584"
+    },
+    {
+      "id": "2122883323987169377",
+      "created_at": "2026-11-18T02:43:20.000Z",
+      "author": "DamienRieu",
+      "author_name": "Damien Rieu",
+      "type": "retweet",
+      "text": "Vidéo très intéressante. On y apprend que l'invasion migratoire n'est pas le fruit d'un plan machiavélique mais d'un mélange de beaucoup de nullité et de lâcheté  politique, d'aveuglement et d'un peu d'idéologie.\nQuand on pense que tout cela aurait pu être évité avec un peu de",
+      "retweeted_author": "PaulFortune1975",
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/DamienRieu/status/2122883323987169377"
+    },
     {
       "id": "2122872969709969451",
       "created_at": "2026-11-18T02:02:11.000Z",
@@ -26365,32 +26417,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/alainpaulweber/status/2122533393439031663"
-    },
-    {
-      "id": "2122523382008705162",
-      "created_at": "2026-11-17T02:53:03.000Z",
-      "author": "leparisien_pol",
-      "author_name": "Le Parisien | politique",
-      "type": "tweet",
-      "text": "« Complètement fou » : l’ex-champion du monde de boxe Jorge Linares est détenu par l’ICE aux États-Unis\n➡️ https://l.leparisien.fr/z9wi",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/leparisien_pol/status/2122523382008705162"
-    },
-    {
-      "id": "2122523367416926215",
-      "created_at": "2026-11-17T02:53:00.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "« Complètement fou » : l’ex-champion du monde de boxe Jorge Linares est détenu par l’ICE aux États-Unis\n➡️ https://l.leparisien.fr/BND8",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2122523367416926215"
     }
   ]
 }
