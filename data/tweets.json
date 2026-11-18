@@ -1,9 +1,9 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-18T03:08:26.393Z",
+  "updated_at": "2026-11-18T03:38:35.696Z",
   "window_hours": 24,
-  "window_start": "2026-11-17T03:08:26.393Z",
+  "window_start": "2026-11-17T03:38:35.696Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": false,
   "possible_gaps": [
@@ -13,8 +13,73 @@
       "minutes": 4
     }
   ],
-  "count": 2031,
+  "count": 2035,
   "tweets": [
+    {
+      "id": "2122896147610243086",
+      "created_at": "2026-11-18T03:34:17.000Z",
+      "author": "leparisien_pol",
+      "author_name": "Le Parisien | politique",
+      "type": "tweet",
+      "text": "« Ils ont confirmé leur étroite coopération » : la Première ministre japonaise a rencontré Donald Trump avant le sommet US-Chine-Russie\n➡️ https://l.leparisien.fr/ZkRq",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/leparisien_pol/status/2122896147610243086"
+    },
+    {
+      "id": "2122894307216547995",
+      "created_at": "2026-11-18T03:26:58.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "« Ils ont confirmé leur étroite coopération » : la Première ministre japonaise a rencontré Donald Trump avant le sommet US-Chine-Russie\n➡️ https://l.leparisien.fr/Rbkc",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2122894307216547995"
+    },
+    {
+      "id": "2122893361694577011",
+      "created_at": "2026-11-18T03:23:13.000Z",
+      "author": "leparisien_pol",
+      "author_name": "Le Parisien | politique",
+      "type": "tweet",
+      "text": "« Il est lucide et conscient » : le cacique brésilien Raoni a quitté l’hôpital après cinq jours de soins\n➡️ https://l.leparisien.fr/dYMR",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/leparisien_pol/status/2122893361694577011"
+    },
+    {
+      "id": "2122891007834681584",
+      "created_at": "2026-11-18T03:13:52.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "« Il est lucide et conscient » : le cacique brésilien Raoni a quitté l’hôpital après cinq jours de soins\n➡️ https://l.leparisien.fr/VzjZ",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2122891007834681584"
+    },
+    {
+      "id": "2122890250322161916",
+      "created_at": "2026-11-18T03:10:51.000Z",
+      "author": "alainpaulweber",
+      "author_name": "Alain Weber",
+      "type": "quote",
+      "text": "Je viens de découvrir l’histoire bouleversante de Kim Lavaud et je me dois de la relayer.\n\nLe 12 juin 2021, Kim, une jeune diplomate française de seulement 24 ans, décède du paludisme à Luanda, en Angola. Malgré les appels à l’aide de ses parents et les alertes qui auraient été",
+      "retweeted_author": null,
+      "quoted_author": "cyprien_ronze",
+      "quoted_text": "🇫🇷🇦🇴 En 2021, je suis attaché économique et financier à l'ambassade de France en Belgique.\n\nLe 12 juin 2021, comme tous les matins, je me rends à mon bureau, rue de la Loi, dans le quartier européen. Je m'installe, j'ouvre mon ordinateur, je parcours mes mails.\n\nEt là, stupeur.",
+      "lang": "fr",
+      "url": "https://x.com/alainpaulweber/status/2122890250322161916"
+    },
     {
       "id": "2122889041591124161",
       "created_at": "2026-11-18T03:06:03.000Z",
@@ -26404,19 +26469,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/le_Parisien/status/2122537307580608774"
-    },
-    {
-      "id": "2122533393439031663",
-      "created_at": "2026-11-17T03:32:50.000Z",
-      "author": "alainpaulweber",
-      "author_name": "Alain Weber",
-      "type": "tweet",
-      "text": "Le mystère Édouard Philippe : arrogance ou (déjà) lassitude ?\n\nIl y a quelque chose de profondément incompréhensible dans la campagne présidentielle d’Édouard Philippe. \n\nVoilà un homme qui a passé des années à préparer son accession à l’Élysée et qui, maintenant qu’il est",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/alainpaulweber/status/2122533393439031663"
     }
   ]
 }
