@@ -1,15 +1,15 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-18 07:40",
-  "period": "du 2026-11-17 07:40 au 2026-11-18 07:40",
-  "new_period": "du 2026-11-17 20:00 au 2026-11-18 07:40",
-  "context_period": "du 2026-11-17 07:40 au 2026-11-17 20:00",
+  "generated_at": "2026-11-18 08:10",
+  "period": "du 2026-11-17 08:10 au 2026-11-18 08:10",
+  "new_period": "du 2026-11-17 20:00 au 2026-11-18 08:10",
+  "context_period": "du 2026-11-17 08:10 au 2026-11-17 20:00",
   "coverage_complete": false,
-  "new_count": 450,
-  "context_count": 1434,
-  "duplicates_merged": 137,
-  "empty_removed": 2,
+  "new_count": 496,
+  "context_count": 1396,
+  "duplicates_merged": 141,
+  "empty_removed": 3,
   "new": [
     {
       "author_name": "Sud Radio",
@@ -1607,7 +1607,10 @@
     {
       "author_name": "Damien Rieu",
       "published_at": "2026-11-17 23:37",
-      "text": "La marque @LeSlipFrancais attaque @TerredeFrance_1 pour avoir osé dire une vérité. \nSoutenons Terre de France !"
+      "text": "La marque @LeSlipFrancais attaque @TerredeFrance_1 pour avoir osé dire une vérité. \nSoutenons Terre de France !",
+      "also_by": [
+        "Jean-Yves Le Gallou"
+      ]
     },
     {
       "author_name": "Jordan Bardella",
@@ -2170,7 +2173,10 @@
     {
       "author_name": "JDNews",
       "published_at": "2026-11-18 06:53",
-      "text": "Brigitte Bardot, Meghan Markle, Jackie Kennedy... Les confidences de Nadine de Rothschild https://ow.ly/M3Ac106IVbP"
+      "text": "Brigitte Bardot, Meghan Markle, Jackie Kennedy... Les confidences de Nadine de Rothschild https://ow.ly/M3Ac106IVbP",
+      "also_by": [
+        "Le JDD"
+      ]
     },
     {
       "author_name": "Le Parisien",
@@ -2377,202 +2383,245 @@
       "author_name": "Sud Radio",
       "published_at": "2026-11-18 07:40",
       "text": "🔴Affaire Michel Zecler : les policiers reconnaissent des coups illégitimes\n\nDes récits \"truffés d'incohérences et de contradictions\"\n\nhttps://www.sudradio.fr/societe/proces-zecler-les-admissions-excuses-et-incoherences-des-trois-policiers-accuses"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-17 07:46",
-      "text": "Toulouse : cinq hommes, dont un Marocain en situation irrégulière au lourd casier judiciaire, braquent des dealers pour financer leur consommation. De 12 mois avec sursis à 4 ans de prison dont un avec sursis\n https://www.fdesouche.com/2026/11/17/toulouse-cinq-hommes-dont-un-marocain-en-situation-irreguliere-au-lourd-casier-judiciaire-braquent-des-dealers-pour-financer-leur-consommation-de-12-mois-avec-sursis-a-4-ans-de-prison-dont-u/"
-    },
-    {
-      "author_name": "Gilbert Collard",
-      "published_at": "2026-11-17 07:46",
-      "text": "Alors que la présentatrice fait son job de préciser que l’invitée Anne-Cécile Mailfert, militante féministe est en couple avec Stéphane Sitbon-Gomez, numéro deux  de France TV, l'intouchable le prend mal ! C'est une caste !"
-    },
-    {
-      "author_name": "EuroLibertés",
-      "published_at": "2026-11-17 07:46",
-      "text": "Redécouvrir, en bande dessinée, Jeeves, le majordome anglais dans toute sa splendeur https://www.bvoltaire.fr/redecouvrir-en-bande-dessinee-jeeves-le-majordome-anglais-dans-toute-sa-splendeur/"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-17 07:47",
-      "text": "«En passant aux 37h, on supprimerait les RTT et la France pourrait produire plus», estime Eric de Riedmatten https://www.cnews.fr/france/2026-11-17/en-passant-aux-37h-supprimerait-les-rtt-et-la-france-pourrait-produire-plus"
+      "published_at": "2026-11-18 07:40",
+      "text": "Le ciel va gronder. ➡️ https://mrf.lu/2wpz7"
     },
     {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-17 07:47",
-      "text": "🎓Mobilisation étudiante : \"les partiels auront bien lieu mais sans doute avec quelques adaptations\", selon @Lamri_ADOUI (président de @FranceUniv)\n\n📻https://www.sudradio.fr/"
+      "author_name": "Europe 1",
+      "published_at": "2026-11-18 07:41",
+      "text": "Logement : les députés votent l'amendement du RN mettant fin aux contraintes liées au DPE https://ow.ly/nE8L106IVfN"
     },
     {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-17 07:48",
-      "text": "La chronique économique de Marc Touati, économiste CNEWS, du 17/11/2026 dans #LaMatinale"
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-18 07:41",
+      "text": "[Retweet de @DougBiot] Voici un programme présidentiel concret digne de ce nom , lisez tous et toutes 👇🏻\nhttps://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf"
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-18 07:42",
+      "text": "[Retweet de @f_philippot] Il se passe quelque chose…"
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-18 07:42",
+      "text": "[Retweet de @LesPatriotes21] 🔶 📣 🇨🇵 L’armée française débarque en masse en Ukraine : et l’article 35 de la Constitution n’est même pas respecté !\n\n▶️ Signez la PÉTITION NATIONALE contre cette folie et pour le respect de l’article 35 !  https://les-patriotes.fr/soldats-francais-en-ukraine-le-peuple-doit-sexprimer/   🇫🇷\n\n« Soldats français en Ukraine : le peuple"
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-18 07:42",
+      "text": "[Retweet de @LesPatriotes21] https://youtu.be/4C_vh5buMOs?is=gupNxCqvIxbIF4_P"
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-18 07:42",
+      "text": "[Retweet de @vetopatriote] « La France est complètement effacée des affaires du monde.Pour n’importe quel Patriote français le fait que les discussions ukrainiennes se fassent sans la France …c’est inquiétant sur le déclin de notre puissance diplomatique »\n@RomainBESS85 / @f_philippot \n\n#SOUVERAINETÉ"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-18 07:43",
+      "text": "Trump, Xi, Poutine : un « Yalta 2.0 » en trompe-l’œil\n\nPar @jpeyron https://l.lepoint.fr/Z5v"
+    },
+    {
+      "author_name": "Tribune Populaire🌐",
+      "published_at": "2026-11-18 07:44",
+      "text": "📂🇺🇸FLASH INFO - Les médias évoquent le rapport d’experts qui remet en cause la thèse du suicide d’Epstein !\n\nToujours aucune commission d’enquête sur les réseaux d’Epstein en France…\n[Cite @TribunePop23] 📂🇺🇸FLASH INFO - L'expert médico-légal, le professeur Michael Freeman, affirme que Jeffrey Epstein a été assassiné !\n\n« Les blessures et la manière dont le corps a été retrouvé ne correspondent pas. Il ne reste alors qu'une seule explication, à savoir que la mort est le résultat"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-17 07:48",
-      "text": "Réduction des coûts de l’US Navy : la marine américaine abandonne son emblématique caban en laine après plus d’un siècle\n➡️ https://l.leparisien.fr/HfVm",
+      "published_at": "2026-11-18 07:46",
+      "text": "Alors que des milliers de témoignages dénoncent des troubles menstruels qui seraient liés aux gaz lacrymogènes, La France insoumise va déposer une proposition de loi pour les interdire lors des opérations de maintien de l’ordre ➡️ https://l.leparisien.fr/uUiQ"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-18 07:46",
+      "text": "Marc Touati dresse le bilan économique d'Emmanuel Macron, dans #LaMatinale\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-18 07:46",
+      "text": "🇫🇷🇺🇦 Mission \"Volia\" : la Russie accuse la France de \"participation directe à la guerre\"\n\n🗣️@jong_peer : \"C'est absurde ! Des soldats ou plutôt, des techniciens, sont sur le sol ukrainien pour faire de la maintenance\" #GrandMatin\n\n📻https://www.sudradio.fr/"
+    },
+    {
+      "author_name": "L'Express",
+      "published_at": "2026-11-18 07:47",
+      "text": "[Retweet de @chaulet_paul] La confrontation entre Richard Ferrand et le RN passe sous silence un autre conflit latent : celui entre les Sages et LFI, qui pourrait surgir en cas de victoire de Jean-Luc Mélenchon à la présidentielle. Avec @CorrascoMattias https://www.lexpress.fr/politique/jean-luc-melenchon-face-au-conseil-constitutionnel-la-guerre-qui-se-prepare-pour-2027-OMO5QMMZZZBHZN5RZAGH2MBFQ4/"
+    },
+    {
+      "author_name": "L'Express",
+      "published_at": "2026-11-18 07:47",
+      "text": "[Retweet de @marylou_magal] La méthode est une constante au RN. Jurer publiquement qu'on ne renonce pas à ses principes tout en amendant largement le programme au gré de l'opinion. Marine Le Pen et la malléabilité programmatique. Dans @LEXPRESS ⤵️\n\nhttps://www.lexpress.fr/politique/reforme-des-retraites-marine-le-pen-ou-la-strategie-de-ladaptation-permanente-XEAXIGQMOBENNBWJS3BDJ4WNI4/"
+    },
+    {
+      "author_name": "L'Express",
+      "published_at": "2026-11-18 07:47",
+      "text": "[Retweet de @Sebastien_Sgns] \"Depuis quand doit-on tomber à genoux parce que le Conseil a parlé ? Le Conseil n’est qu’une assemblée humaine\", lâchait Jean-Luc Mélenchon le 6 novembre 2017 après la censure d’une taxe à 3 % sur les dividendes.\n\n@chaulet_paul @CorrascoMattias \n\nhttps://www.lexpress.fr/politique/jean-luc-melenchon-face-au-conseil-constitutionnel-la-guerre-qui-se-prepare-pour-2027-OMO5QMMZZZBHZN5RZAGH2MBFQ4/"
+    },
+    {
+      "author_name": "Damien Rieu",
+      "published_at": "2026-11-18 07:48",
+      "text": "🇩🇰 « Je souhaite un Danemark qui soit danois (…) nous sommes une souche originelle ethniquement danoise (…) il faut une culture qui reste majoritaire. »\n\nMette Frederiksen, 1er ministre socialiste danoise. \n\nTraduction IA"
+    },
+    {
+      "author_name": "L'Express",
+      "published_at": "2026-11-18 07:48",
+      "text": "[Retweet de @CyrillePluyette] Sommet entre Vladimir Poutine, Donald Trump et Xi Jinping à Shenzhen : la crainte d'un Yalta 2.0. https://www.lexpress.fr/monde/sommet-entre-vladimir-poutine-donald-trump-et-xi-jinping-a-shenzhen-la-crainte-dun-yalta-20-T7TL44CIT5ETFMXYK2OMHYW4SQ/"
+    },
+    {
+      "author_name": "L'Express",
+      "published_at": "2026-11-18 07:48",
+      "text": "[Retweet de @sebastienlefol] «Vladimir Poutine m’a convoqué pour m’engueuler!» Dans le 3e épisode de la série podcast des «Temps sauvages» sur les présidents français et la Russie, Hubert Védrine est mon invité. Il raconte Mitterrand, Gorbatchev, Chirac, Eltsine et Poutine @LEXPRESS https://podcasts.apple.com/fr/podcast/les-temps-sauvages/id1870581584?i=1000802394401"
+    },
+    {
+      "author_name": "Valeurs actuelles",
+      "published_at": "2026-11-18 07:49",
+      "text": "🗞️ Une proposition de loi transpartisane entend autoriser en France le « diagnostic préimplantatoire des aneuploïdies » (DPI-A), un examen génétique des embryons conçus par fécondation in vitro (FIV).\nhttps://l.valeursactuelles.com/KkT"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-18 07:52",
+      "text": "Un scientifique chinois limogé après avoir caché la mort d’une fillette de 6 ans lors d’un essai de thérapie génique ➡️ https://l.leparisien.fr/5vGI"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-18 07:52",
+      "text": "[Retweet de @RTLFrance] EDITO RTL - Marine Le Pen : pourquoi son accession au pouvoir inquiète l'Europe et les marchés\n\n@gernelle, directeur @LePoint, dans #RTLMatin"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-18 07:52",
+      "text": "La chronique santé du Dr Milhau du 18/11/2026"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-18 07:53",
+      "text": "📽️Film « Jupiter » : l’Ukraine à l’âge du nucléaire\n\n🗣️@NaomiHalll : \"l'intérêt du film : nous rappeler avant la #présidentielle2027, qu’il vaut mieux un bon pilote dans l’avion… C’est à lui seul que revient le pouvoir du feu nucléaire.\" #GrandMatin\n\n📻https://www.sudradio.fr/"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-18 07:56",
+      "text": "Donald Trump en Chine : une troisième rencontre avec Xi Jinping sur fond de tensions https://ow.ly/5xXf106IVga"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-18 07:57",
+      "text": "Gérald Darmanin estime que Jean-Luc Mélenchon, «plus préparé», gagnera l’élection présidentielle en cas de second tour face à Marine Le Pen.\n\nUn tel second tour serait un «choc immense dans notre pays», selon le garde des Sceaux ➡️ https://l.leparisien.fr/J62e"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-18 07:58",
+      "text": "Création d'un collectif pour dénoncer l'absence de cours : les explications de notre journaliste, en duplex devant le lycée Balzac dans le 17ème arrondissement de Paris, dans #LaMatinale\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-18 07:58",
+      "text": "🎙️ « Dans le Financial Times, le Wall Street Journal, Bloomberg : le nom de Le Pen est de plus en plus mentionné dans des articles sur les risques de la dette française. (..) Marine  Le Pen est déjà une célébrité mondiale, et est-ce que c'est flatteur ? Ce n'est pas certain. »\n[Cite @RTLFrance] EDITO RTL - Marine Le Pen : pourquoi son accession au pouvoir inquiète l'Europe et les marchés\n\n@gernelle, directeur @LePoint, dans #RTLMatin"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-18 07:58",
+      "text": "«Le bilan économique des deux mandats d'Emmanuel Macron est catastrophique», constate Marc Touati https://www.cnews.fr/france/2026-11-18/le-bilan-economique-des-deux-mandats-demmanuel-macron-est-catastrophique-constate"
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-18 07:59",
+      "text": "[Retweet de @JBollee] On rappelle que la ministre réagit APRÈS des révélations de presse. Comme elle ne peut pas les démentir (alors qu'on nous a toujours dit que la présence de militaires français en Ukraine était une \"Fake News\" 🤡), elle dit que cela ne relève pas de l'article 35 de la"
+    },
+    {
+      "author_name": "Philippe de Villiers",
+      "published_at": "2026-11-18 08:00",
+      "text": "Jean-Luc Mélenchon a porté comme nom d'emprunt symbolique celui d'un tueur de masse. \n\n🗞 \"Robespierre en djellabah\", ma dernière chronique dans le JDNews : https://www.lejdd.fr/auteurs/philippe-de-villiers"
+    },
+    {
+      "author_name": "Nicolas Dupont-Aignan",
+      "published_at": "2026-11-18 08:00",
+      "text": "Il faudra vraiment beaucoup d’imagination pour regretter Emmanuel Macron !\n10 ans de pouvoir, une dette qui explose, une France fracturée et un pouvoir d’achat qui s’effondre. Et ses proches osent déjà parler de nostalgie ?\nLes Français, eux, attendent surtout de tourner la page"
+    },
+    {
+      "author_name": "Polémia",
+      "published_at": "2026-11-18 08:00",
+      "text": "🤓Décryptage de l'enquête Périclès (1/20)\n\nPériclès vient de publier une enquête fournie sur la droite en France. A six mois des présidentielles, cette publication est bienvenue : Polémia va la décortiquer sur 20 vidéos.\n\n51 % des électeurs se classent à droite, 30 % à gauche, 19"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-18 08:00",
+      "text": "🔴 Inass « va enfin pouvoir reposer en paix » : 39 ans après, la mère de l’« Inconnue de l’A10 » condamnée à 20 années de prison, le père à 15 ans\n➡️ https://l.leparisien.fr/gyEZ"
+    },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-18 08:01",
+      "text": "L’éditorial de @gdecapele : «Le “en même temps” du RN sur les retraites»\n\nÂge de départ, capitalisation… Souvent prise en défaut sur les questions économiques, Marine Le Pen tente de faire évoluer ses propositions pour gagner en cohérence sans se renier.\nhttps://www.lefigaro.fr/vox/economie/l-editorial-de-gaetan-de-capele-le-en-meme-temps-du-rn-sur-les-retraites-20261117"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-18 08:01",
+      "text": "L'édito de Paul Sugy : «Retraites : Marine Le Pen plus sérieuse que Jean-Luc Mélenchon», dans #LaMatinale"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-18 08:01",
+      "text": "[Retweet de @GeWoessner] La France ne manquera pas d’électricité cet hiver, mais les prix s’envolent https://www.lepoint.fr/societe/la-france-ne-manquera-pas-delectricite-cet-hiver-mais-les-prix-senvolent-CSNJVSFHXRA6FMJZBJ5IEM7DOI/ #Société via @LePoint"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-18 08:01",
+      "text": "[Retweet de @Eberretta] « Le budget européen n’est pas là pour ouvrir des bureaux de lobbying à Bruxelles » \nDirk Gotink (PPE) présente son rapport sur la pratique douteuse de la Commission pour soutenir le Green deal.\nhttps://www.lepoint.fr/monde/ong-vertes-le-budget-europeen-nest-pas-la-pour-ouvrir-des-bureaux-de-lobbying-a-bruxelles-H7G5J7AQOBA57FMI7YFMU7Q4YY/ #International via @LePoint"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-18 08:01",
+      "text": "[Retweet de @NicolasBastuck] Procès Zecler : après les coups, les contorsions d’un des policiers accusés https://www.lepoint.fr/societe/proces-zecler-apres-les-coups-les-contorsions-dun-des-policiers-accuses-UA4WEFNIWBHG3D5SZ5VOTGJ4G4/ #Société via @LePoint @nicolasbastuck"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-18 08:01",
+      "text": "[Partenariat CINÉMA 🎬] Plongez au cœur du bunker secret de L’Elysée avec JUPITER.\n\nUn film d’Alexandre Smia, avec Denis Ménochet, André Dussollier, Reda Kateb, Ella Rumpf, Frédéric Pierrot, Céline Sallette, Cédric Kahn, Jérémy Lopez et Dominique Blanc.\n\nAu cinéma le 18 novembre."
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-18 08:03",
+      "text": "Guerre en Ukraine : l’un des rares pays européens à pouvoir le faire, l’Estonie va livrer 70 locomotives à Kiev pour sauver son trafic ferroviaire\n➡️ https://l.leparisien.fr/nDf5",
       "also_by": [
         "Le Parisien | politique"
       ]
     },
     {
-      "author_name": "L'Express",
-      "published_at": "2026-11-17 07:48",
-      "text": "[Retweet de @ericmandonnet] Passer par l'article 11 (et non le 89) pour faire une Constituante, opposer légitimité démocratique et légalité, ça vs rappelle quelqu'un?\nConseil constitutionnel, la guerre de Mélenchon (lui aussi): récit édifiant @LEXPRESS @chaulet_paul @CorrascoMattias\nhttps://www.lexpress.fr/politique/jean-luc-melenchon-face-au-conseil-constitutionnel-la-guerre-qui-se-prepare-pour-2027-OMO5QMMZZZBHZN5RZAGH2MBFQ4/"
-    },
-    {
-      "author_name": "L'Express",
-      "published_at": "2026-11-17 07:48",
-      "text": "[Retweet de @lucdebarochez] \"Vladimir Poutine et Xi Jinping savent qu'il leur reste peu de temps\" : l'avertissement de Francis Fukuyama\n\nhttps://www.lexpress.fr/idees-et-debats/vladimir-poutine-et-xi-jinping-savent-quil-leur-reste-peu-de-temps-lavertissement-de-francis-R7ZIWT5B4NGBRBQUHROIRGONDU/"
-    },
-    {
-      "author_name": "L'Express",
-      "published_at": "2026-11-17 07:48",
-      "text": "[Retweet de @lucdebarochez] Ukraine : pourquoi l’Europe doit négocier l’après-guerre avec Vladimir Poutine\n\nhttps://www.lexpress.fr/monde/europe/ukraine-pourquoi-leurope-doit-negocier-lapres-guerre-avec-vladimir-poutine-5FVPQWBPPFHBHODSEAPEOQ4IUA/"
-    },
-    {
-      "author_name": "Le Point",
-      "published_at": "2026-11-17 07:50",
-      "text": "Le débat organisé par LCI dans un entrepôt des Restos du cœur a permis à cinq candidats d’exposer leurs propositions pour le pouvoir d’achat, le logement, les retraites. \n\nMais aussi de révéler leurs failles et leurs faiblesses.\n\n🖋️ LA CHRONIQUE de @scoignard\n➡️"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-17 07:50",
-      "text": "\"Parfois on peut aller jusqu'à clôturer le compte d'un joueur. On lui refuse l'accès au site pour, quelque part, le protéger de lui-même\" explique Julien Brun, directeur général de @Betclic dans #europe1matin avec @dimitripavlenko #europe1"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-17 07:50",
-      "text": "🔴Directrice d'université menacée : \"les choses sont irrationnelles et inacceptables.\"\n\n🗣️@Lamri_ADOUI : \"On est dans une société dominée par la peur. On assiste à un spectacle de fracture et il faut retrouver de l'espoir\" #GrandMatin\n\n📻https://www.sudradio.fr/"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-17 07:52",
-      "text": "La chronique santé du Dr Milhau du 17/11/2026"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-17 07:53",
-      "text": "Un lieu stratégique près de la frontière chinoise. ➡️ https://mrf.lu/2ws36"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-17 07:55",
-      "text": "Virus du Nil occidental : 2 000 cas et 150 morts en Europe, les chiffres fous d’une année record\n➡️ https://l.leparisien.fr/SSbk"
-    },
-    {
-      "author_name": "Régis Le Sommier",
-      "published_at": "2026-11-17 07:55",
-      "text": "[Retweet de @BRICSinfo] JUST IN: 🇺🇦🇷🇺 Ukraine strikes Russia's Crimea Bridge in massive drone attack just days before talks with US President Trump."
-    },
-    {
-      "author_name": "Régis Le Sommier",
-      "published_at": "2026-11-17 07:55",
-      "text": "[Retweet de @AMK_Mapping_] Russian ballistic missile attack on Kyiv.\n\n5 Iskander-M ballistic missiles struck the \"Northern\" and \"Southern\" Bridges across the Dnieper River. 3 missiles struck the Northern Bridge, whereas 2 struck the Southern Bridge.\n\nThe first image shows a fire burning at the Northern"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-17 07:56",
-      "text": "⁉️Gérard Depardieu, condamné à vie ?\n\n🗣️@NaomiHalll : \"Une société sans pardon est une société sans retour possible\" #GrandMatin \n\n📻https://www.sudradio.fr/"
-    },
-    {
-      "author_name": "Philippe de Villiers",
-      "published_at": "2026-11-17 08:00",
-      "text": "J’ai souhaité relayer le témoignage de Louise afin d'alerter le ministre de l’Intérieur sur l'urgence de la protéger.\nFace à l’intimidation et au chaos, elle incarne un modèle de conscience qui se dresse face à l'adversité.\n\n#FaceAPhilippeDeVilliers #FADV #CNews @louiselzeu"
-    },
-    {
-      "author_name": "Tocsin",
-      "published_at": "2026-11-17 08:00",
-      "text": "🔵 Le couple Macron continue de créer des malaises...\n\nRéécouter l'émission 🔗https://www.youtube.com/live/3Xr4W1rOie8?si=hacuNKnceKFOibFW"
-    },
-    {
-      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
-      "published_at": "2026-11-17 08:00",
-      "text": "[Retweet de @pascalblaise166] @RenaudCamus SRU, un des instruments les plus puissants du génocide par substitution."
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-17 08:00",
-      "text": "L'édito de Paul Sugy :  «L'État humilié au lycée Nelson Mandela de Nantes» dans #LaMatinale"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-17 08:00",
-      "text": "\"Aujourd’hui beaucoup de joueurs jouent sur des plateformes illégales sans s'en rendre compte. C'est un très gros problème\" explique  Julien Brun, directeur général de @Betclic dans #europe1matin avec @dimitripavlenko #europe1"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-17 08:02",
-      "text": "❌ L'intelligence artificielle fait déjà reculer les offres d'emploi en Europe\n\nhttps://www.sudradio.fr/societe/ia-dans-les-metiers-les-plus-exposes-une-importante-baisse-des-offres-demploi-selon-une-etude"
-    },
-    {
-      "author_name": "Le Point",
-      "published_at": "2026-11-17 08:03",
-      "text": "[Retweet de @RTLFrance] EDITO RTL - L'Estonie : leçon de courage, de lucidité et de modernité \n\n@gernelle, directeur @LePoint, dans #RTLMatin"
-    },
-    {
-      "author_name": "Agence France-Presse",
-      "published_at": "2026-11-17 08:03",
-      "text": "🇯🇵 Le Japon a annoncé avoir fait décoller des avions de chasse après que deux aéronefs présumés russes ont violé mardi son espace aérien, et adressé une \"très vive protestation\" auprès de Moscou, sur fond de relations déjà détériorées entre les pays. \n\n➡️ https://u.afp.com/SFAS"
-    },
-    {
-      "author_name": "Le Figaro Culture",
-      "published_at": "2026-11-17 08:04",
-      "text": "Éric Neuhoff de l’Académie française : « 1968, l’année où Hollywood a changé de visage » https://l.lefigaro.fr/DDZ8"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-17 08:05",
-      "text": "🗣️ @regismailhot : \"Bruno Le Maire a un rapport particulier aux orifices ! Il a passé 7 ans à creuser le déficit, maintenant il demande aux Français de reboucher le trou !\" #GrandMatin \n\n📻https://www.sudradio.fr/"
-    },
-    {
-      "author_name": "Dreuz",
-      "published_at": "2026-11-17 08:06",
-      "text": "Israël en première ligne – le Live de la confrontation Israël-Iran – 17 novembre 2026 https://www.dreuz.com/2026/11/israel-en-premiere-ligne-le-live-de-la-confrontation-israel-iran-17-novembre-2026-333916.html"
-    },
-    {
-      "author_name": "Le Point",
-      "published_at": "2026-11-17 08:08",
-      "text": "🎙️ « 🇪🇪 Soyez estoniens ! les candidats à la présidentielle française devraient tous aller visiter ce petit pays admirable. » \n\nRetrouvez L'EDITO de @gernelle, directeur @lepoint sur #RTLMatin\n[Cite @RTLFrance] EDITO RTL - L'Estonie : leçon de courage, de lucidité et de modernité \n\n@gernelle, directeur @LePoint, dans #RTLMatin"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-17 08:08",
-      "text": "Virus du Nil occidental : transfusion sanguine, greffe… Ces autres risques d’infection sous surveillance\n➡️ https://l.leparisien.fr/7W08"
-    },
-    {
-      "author_name": "L'Express",
-      "published_at": "2026-11-17 08:08",
-      "text": "Plusieurs dirigeants européens redoutent que le président américain ne cherche à conclure un accord sur le dos des Ukrainiens et des Européens lors de la réunion tripartite de jeudi. Mais le plus...\n\n➡️ https://l.lexpress.fr/A7o"
+      "author_name": "JDNews",
+      "published_at": "2026-11-18 08:04",
+      "text": "Beaujolais nouveau : la folle histoire d’un vin pressé de conquérir le monde https://ow.ly/e76P106IVgz",
+      "also_by": [
+        "Le JDD"
+      ]
     },
     {
       "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-17 08:09",
-      "text": "Un mois après les faits, cette pharmacienne témoigne sur BFMTV. Sa pharmacie, située près de la place de la République, a été pillée, saccagée et partiellement incendiée le 17 octobre. Les dégâts et les conséquences sont toujours importants."
-    },
-    {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-17 08:09",
-      "text": "Jean-Luc Mélenchon doit rencontrer ce mardi soir Bernard Arnault et Patrick Pouyanné au dîner du club Entreprise & Cité, qui  https://www.fdesouche.com/2026/11/17/melenchon-attendu-ce-mardi-chez-drouant-a-diner-avec-bernard-arnault-et-patrick-pouyanne-le-cercle-des-grands-patrons-avait-recu-marine-le-pen/"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-17 08:09",
-      "text": "Le Rwanda, terre promise aux OQTF\n\n➡️ Retrouvez l’édito international de Vincent Hervouët du lundi au jeudi à 7h40 sur #Europe1"
+      "published_at": "2026-11-18 08:04",
+      "text": "Présidentielle 2027 : affirmant que Jean-Luc Mélenchon gagnera l’élection face à Marine Le Pen, Gérald Darmanin presse la droite et le centre de se rallier à Edouard Philippe\n https://www.fdesouche.com/2026/11/18/presidentielle-2027-affirmant-que-jean-luc-melenchon-gagnera-lelection-face-a-marine-le-pen-gerald-darmanin-presse-la-droite-et-le-centre-de-se-rallier-a-edouard-philippe/"
     },
     {
       "author_name": "Sud Radio",
-      "published_at": "2026-11-17 08:09",
-      "text": "🔴« Il faut voter un budget qui ne mette pas à genoux les départements »\n\n🗣️François @Sauvadet (président de l'@ADepartementsF) a rencontré Sébastien Lecornu hier : \"Je ne suis pas rassuré\"  #GrandMatin \n\n📻https://www.sudradio.fr/"
+      "published_at": "2026-11-18 08:04",
+      "text": "🟢Du rififi entre @marinetondelier et @sandrousseau !\n\n🗣️ @regismailhot : \"On a enfin trouvé une forme de solidarité féminine dont le principal bénéficiaire est Jean-Luc Mélenchon !\" #GrandMatin\n\n📻https://www.sudradio.fr/"
     },
     {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-17 08:09",
-      "text": "«Il y a un décalage entre l'inflation annoncée par l'INSEE et celle que les Français subissent au quotidien», expose Marc Touati https://www.cnews.fr/france/2026-11-17/il-y-un-decalage-entre-linflation-annoncee-par-linsee-et-celle-que-les-francais"
+      "author_name": "L'Express",
+      "published_at": "2026-11-18 08:07",
+      "text": "Grâce à la victoire de Mary Peltola, en dépit d'une polémique de dernière minute, les démocrates auront 56 sièges au Sénat, contre 44 pour les républicains. Soit leur plus large majorité depuis 2009.\n\n➡️ https://l.lexpress.fr/qog https://l.lexpress.fr/qog"
     },
+    {
+      "author_name": "Gilbert Collard",
+      "published_at": "2026-11-18 08:07",
+      "text": "La présidente de la Ligue des droits de mentir ! Incroyable flagrant délit !"
+    },
+    {
+      "author_name": "Jean-Yves Le Gallou",
+      "published_at": "2026-11-18 08:09",
+      "text": "[Retweet de @EugenieBastie] Lu dans le magistral livre de Jacob Mchangama sur la liberté d’expression. \nIl revient sur l’argument dit de « l’erreur de Weimar » qui consiste à dire que la démocratie avait été trop tolérante à l’intolérance dans les années 20/30, argument repris pour justifier la limitation"
+    }
+  ],
+  "context": [
     {
       "author_name": "Sud Radio",
       "published_at": "2026-11-17 08:10",
