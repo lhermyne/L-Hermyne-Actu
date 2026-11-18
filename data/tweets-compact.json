@@ -1,13 +1,13 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-18 02:37",
-  "period": "du 2026-11-17 02:37 au 2026-11-18 02:37",
-  "new_period": "du 2026-11-17 20:00 au 2026-11-18 02:37",
-  "context_period": "du 2026-11-17 02:37 au 2026-11-17 20:00",
+  "generated_at": "2026-11-18 03:07",
+  "period": "du 2026-11-17 03:07 au 2026-11-18 03:07",
+  "new_period": "du 2026-11-17 20:00 au 2026-11-18 03:07",
+  "context_period": "du 2026-11-17 03:07 au 2026-11-17 20:00",
   "coverage_complete": false,
-  "new_count": 353,
-  "context_count": 1543,
+  "new_count": 356,
+  "context_count": 1541,
   "duplicates_merged": 133,
   "empty_removed": 2,
   "new": [
@@ -1850,22 +1850,27 @@
       "author_name": "Bruno Attal",
       "published_at": "2026-11-18 02:33",
       "text": "[Retweet de @christine_kelly] Je porte plainte contre Aymeric Caron.\n\nDans le cadre de mon travail de journaliste, j’ai réalisé, à la suite des événements de Crépol, une émission donnant la parole à des victimes\ndu racisme anti-blanc.\n\nStop aux insultes et intimidations de la part de ce député."
-    }
-  ],
-  "context": [
+    },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-17 02:52",
-      "text": "Un troisième porte-avions américain arrive au Moyen-Orient, alors que la région connaît un regain de tension\n➡️ https://l.leparisien.fr/1RX9",
+      "published_at": "2026-11-18 02:38",
+      "text": "Sketchs, vidéos sur les réseaux sociaux… Peut-on encore rire au détriment des enfants ?\n➡️ https://l.leparisien.fr/nDfP"
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-18 03:00",
+      "text": "Guerre au Moyen-Orient : les États-Unis visent une île iranienne, Téhéran réplique en ciblant des pays du Golfe\n➡️ https://l.leparisien.fr/tQ92",
       "also_by": [
-        "Le Parisien | politique"
+        "Le Parisien"
       ]
     },
     {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-17 03:02",
-      "text": "« Je perds un compagnon d’engagement » : Emmanuel Macron rend hommage à l’élu Raphaël Gérard, décédé à l’âge de 58 ans https://l.leparisien.fr/lhuH"
-    },
+      "author_name": "Le Point",
+      "published_at": "2026-11-18 03:00",
+      "text": "« Jupiter », « Hunger Games », « Les Braves », « Camembert », « Fais-moi un signe », « Gabin »...\n\n➡️ https://l.lepoint.fr/mYT\nPar @WACHTHAUSEN"
+    }
+  ],
+  "context": [
     {
       "author_name": "Alain Weber",
       "published_at": "2026-11-17 03:13",

@@ -1,9 +1,9 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-18T01:37:34.032Z",
+  "updated_at": "2026-11-18T02:07:39.275Z",
   "window_hours": 24,
-  "window_start": "2026-11-17T01:37:34.032Z",
+  "window_start": "2026-11-17T02:07:39.275Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": false,
   "possible_gaps": [
@@ -13,8 +13,60 @@
       "minutes": 4
     }
   ],
-  "count": 2031,
+  "count": 2032,
   "tweets": [
+    {
+      "id": "2122872969709969451",
+      "created_at": "2026-11-18T02:02:11.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "Guerre au Moyen-Orient : les États-Unis visent une île iranienne, Téhéran réplique en ciblant des pays du Golfe\n➡️ https://l.leparisien.fr/5vG5",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2122872969709969451"
+    },
+    {
+      "id": "2122872576430981306",
+      "created_at": "2026-11-18T02:00:37.000Z",
+      "author": "LePoint",
+      "author_name": "Le Point",
+      "type": "tweet",
+      "text": "« Jupiter », « Hunger Games », « Les Braves », « Camembert », « Fais-moi un signe », « Gabin »...\n\n➡️ https://l.lepoint.fr/mYT\nPar @WACHTHAUSEN",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/LePoint/status/2122872576430981306"
+    },
+    {
+      "id": "2122872546953707539",
+      "created_at": "2026-11-18T02:00:30.000Z",
+      "author": "leparisien_pol",
+      "author_name": "Le Parisien | politique",
+      "type": "tweet",
+      "text": "Guerre au Moyen-Orient : les États-Unis visent une île iranienne, Téhéran réplique en ciblant des pays du Golfe\n➡️ https://l.leparisien.fr/tQ92",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/leparisien_pol/status/2122872546953707539"
+    },
+    {
+      "id": "2122867052431958069",
+      "created_at": "2026-11-18T01:38:40.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "Sketchs, vidéos sur les réseaux sociaux… Peut-on encore rire au détriment des enfants ?\n➡️ https://l.leparisien.fr/nDfP",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2122867052431958069"
+    },
     {
       "id": "2122865732249702817",
       "created_at": "2026-11-18T01:33:26.000Z",
@@ -26378,45 +26430,6 @@
       "quoted_text": "Il est fou …\n\nOn l’a tous fait on en est pas mort au contraire …",
       "lang": "fr",
       "url": "https://x.com/alainpaulweber/status/2122513419114893480"
-    },
-    {
-      "id": "2122510779836727653",
-      "created_at": "2026-11-17T02:02:58.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "« Je perds un compagnon d’engagement » : Emmanuel Macron rend hommage à l’élu Raphaël Gérard, décédé à l’âge de 58 ans https://l.leparisien.fr/lhuH",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2122510779836727653"
-    },
-    {
-      "id": "2122509218226061766",
-      "created_at": "2026-11-17T01:56:46.000Z",
-      "author": "leparisien_pol",
-      "author_name": "Le Parisien | politique",
-      "type": "tweet",
-      "text": "Un troisième porte-avions américain arrive au Moyen-Orient, alors que la région connaît un regain de tension\n➡️ https://l.leparisien.fr/Ggzp",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/leparisien_pol/status/2122509218226061766"
-    },
-    {
-      "id": "2122508183016993117",
-      "created_at": "2026-11-17T01:52:39.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "Un troisième porte-avions américain arrive au Moyen-Orient, alors que la région connaît un regain de tension\n➡️ https://l.leparisien.fr/1RX9",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2122508183016993117"
     }
   ]
 }
