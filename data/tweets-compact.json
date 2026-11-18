@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-18 03:07",
-  "period": "du 2026-11-17 03:07 au 2026-11-18 03:07",
-  "new_period": "du 2026-11-17 20:00 au 2026-11-18 03:07",
-  "context_period": "du 2026-11-17 03:07 au 2026-11-17 20:00",
+  "generated_at": "2026-11-18 03:22",
+  "period": "du 2026-11-17 03:22 au 2026-11-18 03:22",
+  "new_period": "du 2026-11-17 20:00 au 2026-11-18 03:22",
+  "context_period": "du 2026-11-17 03:22 au 2026-11-17 20:00",
   "coverage_complete": false,
   "new_count": 356,
-  "context_count": 1541,
-  "duplicates_merged": 133,
+  "context_count": 1540,
+  "duplicates_merged": 132,
   "empty_removed": 2,
   "new": [
     {
@@ -1872,17 +1872,9 @@
   ],
   "context": [
     {
-      "author_name": "Alain Weber",
-      "published_at": "2026-11-17 03:13",
-      "text": "C’est étonnant… fut un temps où c’était possible.\n\nMême les filles et les fils des familles aisées travaillaient un petit peu, pour les compléments.\n\nEt d’autres travaillaient beaucoup.\n\nPersonne n’en est mort.\n[Cite @Crohnfighter] Il est fou …\n\nOn l’a tous fait on en est pas mort au contraire …"
-    },
-    {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-17 03:15",
-      "text": "« Totalement inacceptable » : le Japon furieux après le survol de son espace aérien par deux avions, sans doute russes\n➡️ https://l.leparisien.fr/iL3J",
-      "also_by": [
-        "Le Parisien"
-      ]
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-17 03:26",
+      "text": "« Totalement inacceptable » : le Japon furieux après le survol de son espace aérien par deux avions, sans doute russes\n➡️ https://l.leparisien.fr/04dL"
     },
     {
       "author_name": "Le Parisien",
