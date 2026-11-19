@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-19 22:49",
-  "period": "du 2026-11-18 22:49 au 2026-11-19 22:49",
-  "new_period": "du 2026-11-19 20:00 au 2026-11-19 22:49",
-  "context_period": "du 2026-11-18 22:49 au 2026-11-19 20:00",
+  "generated_at": "2026-11-19 23:20",
+  "period": "du 2026-11-18 23:20 au 2026-11-19 23:20",
+  "new_period": "du 2026-11-19 20:00 au 2026-11-19 23:20",
+  "context_period": "du 2026-11-18 23:20 au 2026-11-19 20:00",
   "coverage_complete": true,
-  "new_count": 190,
-  "context_count": 1455,
-  "duplicates_merged": 86,
+  "new_count": 215,
+  "context_count": 1438,
+  "duplicates_merged": 88,
   "empty_removed": 8,
   "new": [
     {
@@ -957,7 +957,10 @@
     {
       "author_name": "Le Parisien",
       "published_at": "2026-11-19 22:41",
-      "text": "Présidentielle 2027 : Gabriel Attal admet qu’il n’a « pas convaincu » à « ce stade » de la campagne https://l.leparisien.fr/h1yw"
+      "text": "Présidentielle 2027 : Gabriel Attal admet qu’il n’a « pas convaincu » à « ce stade » de la campagne https://l.leparisien.fr/h1yw",
+      "also_by": [
+        "Le Parisien | politique"
+      ]
     },
     {
       "author_name": "Daniel Conversano ⏩ e/acc 🚀",
@@ -978,94 +981,137 @@
       "author_name": "Le Parisien",
       "published_at": "2026-11-19 22:49",
       "text": "Narcotrafic : le procureur de Toulouse alerte sur le nombre d’homicides, supérieur à celui de Marseille depuis le début d’année\n➡️ https://l.leparisien.fr/v2K3"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-18 22:52",
-      "text": "Le «bouclier de sécurité» de la Région Île-de-France invalidé par la justice https://ow.ly/OX6l106IXeJ"
     },
     {
-      "author_name": "Valeurs actuelles",
-      "published_at": "2026-11-18 22:53",
-      "text": "🗞️ Dans une lettre reçue le 17 novembre, le Parquet national antiterroriste annonce le classement sans suite de l’enquête préliminaire ouverte en 2020 contre SOS Chrétiens d’Orient. Six années d’enquête, des salariés et volontaires injustement mis en cau… https://l.valeursactuelles.com/QEh"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-18 22:57",
-      "text": "Le Maroc va investir environ 365 millions d’euros pour développer son industrie de défense\n➡️ https://l.leparisien.fr/045w"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-18 22:57",
-      "text": "Mort de Quentin Deranque : «Le véritable choc est que Raphaël Arnault soit encore député», estime Jules Torres, journaliste au JDD, qui est revenu sur son rôle dans cette affaire. \n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-18 22:58",
-      "text": "Quand on cherche Jordan Bardella, on le trouve 😉😜"
-    },
-    {
-      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
-      "published_at": "2026-11-18 22:59",
-      "text": "[Retweet de @jylgallou] Bonjour @davidlisnard  vous avez proposé de diviser par 8  - soit de ramener  à 50000 entrées par an - le nombre des immigrés légaux . Or le regroupement familial et l’asile c’est aujourd’hui 140000 entrées  par application des décisions du conseil constitutionnel de la CNDA et"
-    },
-    {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-18 22:59",
-      "text": "Dans le square Claude-Debussy, un homme porteur d’un couteau aurait frappé un enfant de deux ans au ventre. Interpellé le  https://www.fdesouche.com/2026/11/18/paris-16e-homme-couteau-coup-de-pied-enfant-deux-ans-square-claude-debussy-interpelle/"
-    },
-    {
-      "author_name": "Causeur.fr",
-      "published_at": "2026-11-18 23:00",
-      "text": "« Si lui-même vous interrompt quand vous parlerez, vous aurez le droit de l’interrompre la prochaine fois qu’il parlera… » De curieuses règles pour un débat... @causeur https://www.causeur.fr/sarah-legrain-lfi-la-liberte-d-expression-cest-moi-journalistes-david-pujadas-grande-confrontation-337545"
-    },
-    {
-      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
-      "published_at": "2026-11-18 23:00",
-      "text": "[Retweet de @PalePatriot14] In the UK, three British men who protested a young girl's rape by an illegal migrant have been jailed longer than the migrant rapist."
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-18 23:00",
-      "text": "«Je t’aime pour toujours» : trente ans après leur séparation, Lenny Kravitz rejoint sur scène Vanessa Paradis.\nhttps://l.lefigaro.fr/Xf0J"
-    },
-    {
-      "author_name": "Alain Weber",
-      "published_at": "2026-11-18 23:05",
-      "text": "Je trouve absolument répugnant que des enseignants se permettent d’inculquer à des gamins de 8 ou 9 ans l’idée que notre police est raciste. \n\nFabriquer de toutes pièces des scènes pour susciter la détestation des forces de l’ordre, ce n’est plus de l’enseignement, c’est de la"
-    },
-    {
-      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
-      "published_at": "2026-11-18 23:06",
-      "text": "[Retweet de @JonaLionDE] Something very disturbing is happening on the canaries.\nThe Africans arriving there are not ordinary Africans.\nThey are young men who all look very threatening.\nThis is a coordinated plan to destroy Europe."
+      "author_name": "Frontières",
+      "published_at": "2026-11-19 22:50",
+      "text": "\"Le 17 octobre, j’ai reçu un projectile sur la cuisse, j’ai serré les dents pour finir ma vacation. Aujourd’hui, faute d’effectifs et de moyens, impossible de laisser les copains seuls.\" un agent de la bac témoigne\n\n📺 Grand reportage - POLICIERS, MARTYRS DE LA RÉPUBLIQUE"
     },
     {
       "author_name": "Tribune Populaire🌐",
-      "published_at": "2026-11-18 23:09",
-      "text": "📂🇺🇸🇫🇷FLASH INFO - Le PDG d’une entreprise intermédiaire pour les missiles américains \"Patriot\", qui se fournit en tissu dans une usine d’Ariane près de Bordeaux, affirme qu’il est impossible de mettre l’usine sous pression afin de produire plus de missiles..\n\n\"C’est une"
+      "published_at": "2026-11-19 22:50",
+      "text": "N’oubliez pas que, dans ce pays, des gens peuvent tout perdre pour avoir fumé un joint de cannabis, simplement parce que des personnes qui participent à des partouzes sous l’emprise de drogues de synthèse en ont décidé ainsi dans un ministère…\n[Cite @TribunePop23] 📂🇫🇷FLASH INFO - Un acteur, des cadres du ministère de l’Intérieur et une vedette du JT au cœur d’un scandale énorme !\n\nUn réseau est soupçonné d'avoir importé de la 3-MMC, une drogue de synthèse très présente dans le chemsex, depuis la Belgique et les Pays-Bas pour"
     },
     {
-      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
-      "published_at": "2026-11-18 23:10",
-      "text": "C’est curieux, la passion des livreurs pour ne PAS livrer…"
+      "author_name": "Alain Weber",
+      "published_at": "2026-11-19 22:53",
+      "text": "Je n’ai aucune sympathie politique particulière pour @yjadot, pas davantage pour Raphaël @rglucks1. \n\nJe ne voterai jamais pour l’un ou pour l’autre. \n\nMais je tiens néanmoins à saluer la décision de Yannick Jadot de quitter Les Écologistes et de soutenir Glucksmann plutôt que"
     },
     {
       "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-18 23:16",
-      "text": "Merwane Benlazar sur France Inter :\n« Parce que moi, la cuisine du français moyen, ce n'est pas mon délire. Je peux être un horrible bougnole et dire la vérité ? Les Blancs… la cuisine du blanc moyen, c'est à la vapeur... »"
+      "published_at": "2026-11-19 22:54",
+      "text": "Une mère et sa fille de 11 ans menacées en pleine rue à Rennes : « Il m'a traitée de \"sale blanche\" et a dit qu'il allait nous poignarder… »  https://www.fdesouche.com/2026/11/19/une-mere-et-sa-fille-de-11-ans-menacees-en-pleine-rue-a-rennes-il-ma-traitee-de-sale-blanche-et-a-dit-quil-allait-nous-poignarder/"
+    },
+    {
+      "author_name": "Les Braves",
+      "published_at": "2026-11-19 22:58",
+      "text": "[Retweet de @RomainEvenement] 47 ans, 3 enfants et Identitaire 👌"
+    },
+    {
+      "author_name": "Gabrielle Cluzel",
+      "published_at": "2026-11-19 22:58",
+      "text": "[Retweet de @BVoltaire] 📺 « LFI parle de réquisitionner des logements si on en a plus de cinq. Quelle est l’étape d’après, aller dans les placards à chaussures pour contrôler le nombre d’escarpins ? C’est un état d’esprit dramatique. »\n@gabriellecluzel sur Face à l’Info (@CNEWS)"
+    },
+    {
+      "author_name": "Occidentis",
+      "published_at": "2026-11-19 22:59",
+      "text": "🚨⚡️ « Fuck le racisme ! »\n\nLe chanteur Tiakola appelle son public à voter LFI en 2027."
+    },
+    {
+      "author_name": "Valeurs actuelles",
+      "published_at": "2026-11-19 23:00",
+      "text": "🗞️ Dans une tribune parue récemment, Gaspard Koenig, chantre du libéralisme devenu militant écologiste, défend le maintien du principe de précaution dans la Constitution. Docteur en Histoire des sciences et essayiste, Jean-Paul Oury lui répond qu’on ne s… https://l.valeursactuelles.com/lQW"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-19 23:00",
+      "text": "Aide à mourir : dans ses 60 recommandations, la Haute autorité de santé préconise une «mort apaisée» https://ow.ly/w1cM106J4FP"
+    },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-19 23:00",
+      "text": "«Le bac, il l’aura. Mais sera-t-il accepté dans la formation de son choix» : avec les blocages, la peur d’une année blanche pour les lycéens et étudiants. \nhttps://l.lefigaro.fr/rb1U"
+    },
+    {
+      "author_name": "Bouli ☃️",
+      "published_at": "2026-11-19 23:00",
+      "text": "[Retweet de @GDesGaulios] @bouliboulibouli"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-19 23:00",
+      "text": "Munitions, équipements, frais opérationnels : la guerre en Iran lancée par Donald Trump a coûté plus de 48 milliards de dollars aux États-Unis\n➡️ https://l.leparisien.fr/cGA7",
+      "also_by": [
+        "Le Parisien | politique"
+      ]
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-19 23:02",
+      "text": "L'édito de Mickael Dorian : «Amnistie des mineurs : LFI organise l'impunité»"
+    },
+    {
+      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
+      "published_at": "2026-11-19 23:03",
+      "text": "[Retweet de @DamienRieu] Tant qu’on considèrera qu’un immigré italien vaut un immigré afghan, on arrivera à rien sur la question de l’immigration. \n\nSélectionner l’origine pour choisir la compatibilité ne devrait pas être un tabou."
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-19 23:03",
+      "text": "Une initiative qui se veut préventive et pédagogique  https://mrf.lu/2MSRl"
+    },
+    {
+      "author_name": "Le Jarl",
+      "published_at": "2026-11-19 23:08",
+      "text": "💯 % d’accord ! À virer dans 6 mois.\n[Cite @DamienRieu] L’Arcom est une mafia socialiste."
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-19 23:09",
+      "text": "« Je quitte le mouvement » : Yannick Jadot claque la porte des Écologistes https://l.leparisien.fr/9FFG"
+    },
+    {
+      "author_name": "Frontières",
+      "published_at": "2026-11-19 23:10",
+      "text": "« Un collègue a été pris à partie : il a reçu des pavés et des mortiers. Un manifestant est venu vers lui, l’a poussé et il a trébuché. Pourtant, on lui a reproché d’avoir poussé le manifestant. » : témoigne un CRS\n\n📺 Grand reportage - POLICIERS, MARTYRS DE LA RÉPUBLIQUE"
+    },
+    {
+      "author_name": "ThinkerView",
+      "published_at": "2026-11-19 23:10",
+      "text": "[Retweet de @RutlerSylvie] Bravo Thinkerview pour leur équilibre réel sur le net!"
+    },
+    {
+      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
+      "published_at": "2026-11-19 23:10",
+      "text": "I wonder if there are video games in China or Russia where you can shoot police officers or innocent women on the street. The West has become so “free” that it’s gone crazy.\nI hate GTA with all my heart."
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-19 23:10",
+      "text": "Violences contre la police : François Pupponi dénonce la «responsabilité» de LFI, dans #SoirInfo\n\nToute l'info est à retrouver sur https://cnews.fr"
     },
     {
       "author_name": "Alain Weber",
-      "published_at": "2026-11-18 23:17",
-      "text": "[Retweet de @celine_pina] Quelle hypocrisie. \n\nLa compagne du numéro 2 de France Télévision est folle de rage car ses liens avec le puissant dirigeant du service public ont été mentionnés.\n\nOn peut accorder à cette dernière le fait que le timing n’était pas idéal, mais quand même, on nage ici en pleine"
+      "published_at": "2026-11-19 23:14",
+      "text": "Totalement surréaliste…!\n\nJe suis stupéfait que La France insoumise ose seulement proposer une loi d’amnistie pour des délits commis lors des manifestations étudiantes.\n\nGabrielle Cathala, qui défend cette proposition, invoque leur jeunesse : « Ce sont des enfants. »\n\nMais le"
     },
     {
-      "author_name": "Alain Weber",
-      "published_at": "2026-11-18 23:18",
-      "text": "[Retweet de @kubernan] Mon ami Thierry a réalisé un magnifique documentaire pour @canalplus sur la musique en France dans les 80s avec Antoine de Caunes en narrateur. \nAllez y jeter un œil, c’est très bien fait, le travail d’archive est dingue et ça rappelle de très bons souvenirs. \n(et pour les"
+      "author_name": "Jean-Yves Le Gallou",
+      "published_at": "2026-11-19 23:15",
+      "text": "[Retweet de @LePoint] « Grand remplacement », « souche ethnique » : le tabou brisé par Mette Frederiksen\n\nPar @Eberretta https://l.lepoint.fr/daN"
     },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-19 23:16",
+      "text": "Donald Trump accusé de s’être assoupi pendant le discours de Xi Jinping lors du sommet en Chine\n➡️ https://l.leparisien.fr/Hfsb"
+    },
+    {
+      "author_name": "Jean-Yves Le Gallou",
+      "published_at": "2026-11-19 23:19",
+      "text": "[Retweet de @marc_vanguard] 1️⃣ Ce n'est pas un cliché : le niveau des élèves du privé est clairement supérieur à celui mesuré dans le public.\n\n👉 Un élève de 4e en public dans l'éducation prioritaire a en moyenne le niveau en lecture d'un élève de 6e dans le privé ⬇️"
+    }
+  ],
+  "context": [
     {
       "author_name": "CNEWS",
       "published_at": "2026-11-18 23:20",
