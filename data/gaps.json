@@ -1,25 +1,35 @@
 {
-  "updated_at": "2026-11-19 13:17",
+  "updated_at": "2026-11-19 13:47",
   "last_run": {
-    "run_at": "2026-11-19 13:17",
-    "run_at_utc": "2026-11-19T12:17:23.186Z",
+    "run_at": "2026-11-19 13:47",
+    "run_at_utc": "2026-11-19T12:47:28.757Z",
     "fetched": 97,
-    "new_tweets": 49,
-    "saturation": 0.51,
+    "new_tweets": 34,
+    "saturation": 0.35,
     "gap_detected": false,
     "gap_minutes": 0,
-    "message": "Aucun trou détecté : 49 nouveaux tweets sur 97 récupérés."
+    "message": "Aucun trou détecté : 34 nouveaux tweets sur 97 récupérés."
   },
   "last_24h": {
     "runs": 51,
     "runs_with_gap": 0,
     "total_gap": "0 min",
-    "new_tweets": 1879,
+    "new_tweets": 1871,
     "max_new_tweets_per_run": 74,
     "max_saturation": 0.79
   },
   "advice": "Fréquence suffisante : aucun trou sur les dernières 24 h.",
   "runs": [
+    {
+      "run_at": "2026-11-19 13:47",
+      "run_at_utc": "2026-11-19T12:47:28.757Z",
+      "fetched": 97,
+      "new_tweets": 34,
+      "saturation": 0.35,
+      "gap_detected": false,
+      "gap_minutes": 0,
+      "message": "Aucun trou détecté : 34 nouveaux tweets sur 97 récupérés."
+    },
     {
       "run_at": "2026-11-19 13:17",
       "run_at_utc": "2026-11-19T12:17:23.186Z",
@@ -2739,26 +2749,6 @@
       "gap_detected": false,
       "gap_minutes": 0,
       "message": "Aucun trou détecté : 52 nouveaux tweets sur 93 récupérés."
-    },
-    {
-      "run_at": "2026-11-12 13:44",
-      "run_at_utc": "2026-11-12T12:44:44.894Z",
-      "fetched": 96,
-      "new_tweets": 14,
-      "saturation": 0.15,
-      "gap_detected": false,
-      "gap_minutes": 0,
-      "message": "Aucun trou détecté : 14 nouveaux tweets sur 96 récupérés."
-    },
-    {
-      "run_at": "2026-11-12 13:34",
-      "run_at_utc": "2026-11-12T12:34:30.701Z",
-      "fetched": 95,
-      "new_tweets": 30,
-      "saturation": 0.32,
-      "gap_detected": false,
-      "gap_minutes": 0,
-      "message": "Aucun trou détecté : 30 nouveaux tweets sur 95 récupérés."
     }
   ]
 }
