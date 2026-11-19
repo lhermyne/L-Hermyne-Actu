@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-19 20:18",
-  "period": "du 2026-11-18 20:18 au 2026-11-19 20:18",
-  "new_period": "du 2026-11-19 08:00 au 2026-11-19 20:18",
-  "context_period": "du 2026-11-18 20:18 au 2026-11-19 08:00",
+  "generated_at": "2026-11-19 20:48",
+  "period": "du 2026-11-18 20:48 au 2026-11-19 20:48",
+  "new_period": "du 2026-11-19 08:00 au 2026-11-19 20:48",
+  "context_period": "du 2026-11-18 20:48 au 2026-11-19 08:00",
   "coverage_complete": true,
-  "new_count": 1281,
-  "context_count": 380,
-  "duplicates_merged": 89,
+  "new_count": 1322,
+  "context_count": 329,
+  "duplicates_merged": 83,
   "empty_removed": 9,
   "new": [
     {
@@ -6545,318 +6545,217 @@
       "author_name": "Le Parisien",
       "published_at": "2026-11-19 20:18",
       "text": "Un chef du rayon frais de supermarché licencié pour avoir tiré les oreilles d’employés devant les clients\n➡️ https://l.leparisien.fr/38lK"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Cercle Aristote",
-      "published_at": "2026-11-18 20:18",
-      "text": "[Retweet de @Cercle_Aristote] Ne pas évoquer l'euro quand on parle de déficits et de dette, c'est comme vouloir soigner un malade sans traiter la maladie."
-    },
-    {
-      "author_name": "Cercle Aristote",
-      "published_at": "2026-11-18 20:18",
-      "text": "[Retweet de @Cercle_Aristote] Encore des milliards pour l’ukraine payés par les Français. \n\nLa lessiveuse fonctionne à plein régime."
-    },
-    {
-      "author_name": "Cercle Aristote",
-      "published_at": "2026-11-18 20:18",
-      "text": "[Retweet de @Cercle_Aristote] Les européistes : « Poutine est isolé », « l’économie russe est à genoux », « les sanctions fonctionnent », « macron est un génie », « monsieur joueur de piano sans les mains est Churchill », etc.\n\nLa réalité : la drogue, c’est mal."
-    },
-    {
-      "author_name": "Cercle Aristote",
-      "published_at": "2026-11-18 20:19",
-      "text": "[Retweet de @Cercle_Aristote] « Il n’y a pas de culture française »"
-    },
-    {
-      "author_name": "Cercle Aristote",
-      "published_at": "2026-11-18 20:19",
-      "text": "[Retweet de @Cercle_Aristote] Pendant que l’ONU, les associations et les médias s’inquiètent pour les droits des criminels (comme en France), le peuple en Haïti défile pour remercier @nayibbukele."
-    },
-    {
-      "author_name": "Cercle Aristote",
-      "published_at": "2026-11-18 20:19",
-      "text": "[Retweet de @Cercle_Aristote] MAJ : le bon David était LR, a appelé à voter Macron, a été dans l’équipe de Pécresse (qui a appelé à voter Macron) fait une primaire avec des macronistes.\n\nMAIS IL N’EST ABSOLUMENT PAS UNE NIÈME NUANCE DU CENTRE MACRONISTE 😂"
-    },
-    {
-      "author_name": "ThinkerView",
-      "published_at": "2026-11-18 20:19",
-      "text": "[Retweet de @LesEchos] 🇫🇷 Près de 10 millions de Français vivent sous le seuil de pauvreté ➡️  https://ebx.sh/nkPX8T\n\n📊 Les départements les plus pauvres de France sont la Seine-Saint-Denis (29,5 %) et La Réunion (36,4 %). Le pourtour méditerranéen et le Nord de la France sont eux aussi"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-18 20:20",
-      "text": "⁉️ Vous avez manqué #LesVraiesVoix ? Retrouvez le replay de l'émission du 18 novembre 2026 \n\n📺 Le replay : https://youtu.be/6jzlBrywaJI"
-    },
-    {
-      "author_name": "Union Populaire Républicaine",
-      "published_at": "2026-11-18 20:21",
-      "text": "[Retweet de @f_asselineau] François Asselineau répond à vos questions en direct n°135 https://x.com/i/broadcasts/2pedaKeAOVWByd"
-    },
-    {
-      "author_name": "Le Point",
-      "published_at": "2026-11-18 20:21",
-      "text": "Un temple du son à Paris Nation https://l.lepoint.fr/xvV"
-    },
-    {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-18 20:21",
-      "text": "Un débat politique dégénère en violente bagarre sur le plateau d’une chaîne de télévision publique en Arménie\n➡️ https://l.leparisien.fr/DjCH",
-      "also_by": [
-        "Le Parisien"
-      ]
-    },
-    {
-      "author_name": "LCP",
-      "published_at": "2026-11-18 20:21",
-      "text": "Paracétamol fabriqué en France plus cher: \"La souveraineté, ne pas dépendre des autres pour pouvoir assurer la sécurité sanitaire des Français, que ce soit en masques ou en médicaments, ça a un coût\", réagit @yannickneuder (DR)"
-    },
-    {
-      "author_name": "Jordan Bardella",
-      "published_at": "2026-11-18 20:22",
-      "text": "Lorsqu'on est Français, lorsqu'on est la France avec un siège permanent au Conseil de sécurité de l'ONU et l'arme nucléaire, on ne dépend de personne.\n\nJe ne conçois pas la France comme étant l'obligée de Bruxelles, de Washington ou de Moscou : nous sommes un pays libre."
-    },
-    {
-      "author_name": "Cercle Aristote",
-      "published_at": "2026-11-18 20:23",
-      "text": "[Retweet de @ame_ism] Emmanuel Macron était un candidat \"hors système\" au même titre que Coluche, selon #FranceInfox. \nNos médias du \"service public\" vivent décidément dans un sacré monde parallèle...",
-      "also_by": [
-        "Tribune Populaire🌐"
-      ]
-    },
-    {
-      "author_name": "Jordan Bardella",
-      "published_at": "2026-11-18 20:24",
-      "text": "Je défends le principe de la double frontière, c'est-à-dire la possibilité pour les Nations européennes de maîtriser leurs frontières et l'existence d'une vraie frontière extérieure européenne."
-    },
-    {
-      "author_name": "LCP",
-      "published_at": "2026-11-18 20:24",
-      "text": "Paracétamol fabriqué en France plus cher: \"Le problème de la France, c'est le coût de production, ce qu'il faut, c'est agir : on est pour la baisse des impôts de production pour permettre de créer un cercle vertueux\", dit @BentzChristophe (RN)"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-18 20:26",
-      "text": "«Primaire de la droite et du centre : un tournant ?» : l'édito de Mathieu Bock-Côté dans #Facealinfo"
-    },
-    {
-      "author_name": "Marc Vanguard",
-      "published_at": "2026-11-18 20:28",
-      "text": "[Retweet de @ClaireGeronimii] Plus la gauche se radicalise, plus les Français assument d’être de droite.\n\nL’étude OpinionWay réalisée avec @periclesfrance , présentée par @ArnaudRerolle sur Europe 1, le confirme : 51 % des électeurs actifs se situent à droite, contre 30 % à gauche.\n\nEt comme le souligne"
-    },
-    {
-      "author_name": "Le Point",
-      "published_at": "2026-11-18 20:28",
-      "text": "Pour conjurer le procès en incompétence, le RN recrute dans le plus grand secret. Mais sa capacité à gérer l’appareil d’État en cas d’arrivée au pouvoir reste incertaine.\n\n➡️ https://l.lepoint.fr/bSD\nPar @Joseph1LeCorre"
-    },
-    {
-      "author_name": "Jordan Bardella",
-      "published_at": "2026-11-18 20:29",
-      "text": "Les Français en ont ras-le-bol des compromissions des gens de LR, comme David Lisnard ou Bruno Retailleau, avec le macronisme. \n\nNous les laissons se débrouiller entre eux et nous allons proposer aux Français le changement qu'ils attendent ! #CàVous"
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-18 20:30",
-      "text": "Ce 18 novembre, la sonde Voyager 1 sera éloignée d’une journée-lumière de la planète Terre, soit la distance parcourue par la lumière en 24 heures. →https://l.lefigaro.fr/uqvu"
-    },
-    {
-      "author_name": "Causeur.fr",
-      "published_at": "2026-11-18 20:30",
-      "text": "\"Ceux qui sont chargés de contenir la colère de la rue viennent à leur tour dire leur propre lassitude...\"\n\nhttps://www.causeur.fr/police-manifeste-devant-beauvau-gouvernement-forces-ordre-337558"
-    },
-    {
-      "author_name": "Polémia",
-      "published_at": "2026-11-18 20:31",
-      "text": "Décryptage de l'enquête Périclès (4/20)\n\n80 % des électeurs veulent être consultés fréquemment par référendum sur les grandes lois : 93 % des électeurs du Rassemblement national, 81 % de ceux de droite, 79 % de ceux du Nouveau Front populaire et 59 % de ceux de la majorité"
-    },
-    {
-      "author_name": "Clément Macchi",
-      "published_at": "2026-11-18 20:32",
-      "text": "Personne n’en parle mais, dans cette hypothèse, les 2/3 du pays votent pour Mélenchon, Le Pen ou Zemmour. C’est juste dingue de voir où nous a mené le second quinquennat de Macron. La bascule depuis la dissolution est stratosphérique.\n[Cite @clement_mci] 📊 Présidentielle 2027 - Vague 2\nHypothèse Philippe candidat unique droite/centre et absence de Tondelier \n@YouGov x @LeHuffPost \n\n✅ Le Pen 40%\n✅ Mélenchon 22% \n▪️ Philippe 16%\n▪️ Glucksmann 12%\n▪️ Zemmour 4%"
-    },
-    {
-      "author_name": "Le Point",
-      "published_at": "2026-11-18 20:32",
-      "text": "Pour Noël, les Sauvages sourient à Catherine Deneuve https://l.lepoint.fr/Rk3"
-    },
-    {
-      "author_name": "Marine Le Pen",
-      "published_at": "2026-11-18 20:32",
-      "text": "Les Français aiment manifester, c’est dans notre culture. Le problème n’est pas là.\n\nIl vient d’une ultra-gauche très violente, aux visées insurrectionnelles, et des pillages, qui sont le fait de personnes venant des banlieues."
-    },
-    {
-      "author_name": "Observatoire du journalisme (Ojim)",
-      "published_at": "2026-11-18 20:32",
-      "text": "🔴Le directeur de la rédaction de Charlie Hebdo affirme sur BFMTV que le RN et LFI ne \"sont pas des partis républicains\"."
-    },
-    {
-      "author_name": "Aldo Sterone",
-      "published_at": "2026-11-18 20:33",
-      "text": "L’UE finira par s’effondrer. C’est la bonne nouvelle. Voici les mauvaises : \n- Elle peut s’effondrer dans 50 ans\n- Elle laissera les pays européens ruinés, brisés et dépassés\n- Les pays européens reprendront la construction d’une nouvelle union dès l’effondrement de l’UE"
-    },
-    {
-      "author_name": "Marine Le Pen",
-      "published_at": "2026-11-18 20:33",
-      "text": "Beaucoup de Français sont très en colère, parce que la vie est très chère et que tous les problèmes s’accumulent.\n\nNous sommes à la fin du mandat d’Emmanuel Macron : les colères se sont accumulées depuis dix ans et s’expriment traditionnellement, en France, dans la rue."
-    },
-    {
-      "author_name": "Marine Le Pen",
-      "published_at": "2026-11-18 20:34",
-      "text": "Je fais une distinction entre l’islam, une religion compatible avec la République, et le fondamentalisme islamiste, qui est une idéologie totalitaire.\n\nContre cette idéologie, nous ne menons pas un combat suffisamment rigoureux, suffisamment sérieux."
-    },
-    {
-      "author_name": "L'Observatoire des violences politiques",
-      "published_at": "2026-11-18 20:35",
-      "text": "👁️ Lyon : Quentin, militant nationaliste de 23 ans, lynché à mort par des antifas de la Jeune Garde (MAJ : la Jeune Garde faisait le service d’ordre de LFI, Raphaël Arnault était au courant de tout)\nhttps://www.observatoire-violences.fr/articles/lyon-quentin-militant-nationaliste-de-23-ans-assassine-par-des-antifas-de-la-jeune-garde"
-    },
-    {
-      "author_name": "Marine Le Pen",
-      "published_at": "2026-11-18 20:35",
-      "text": "Le président Trump a toujours eu tendance à simplifier un peu les choses.\n\nMais il est vrai qu’en Inde, aux États-Unis, et dans tous les pays européens ou en Afrique, nous sommes tous confrontés au danger de l’idéologie islamiste totalitaire."
-    },
-    {
-      "author_name": "Valeurs actuelles",
-      "published_at": "2026-11-18 20:35",
-      "text": "🗞️ Chaque semaine, Valeurs actuelles vous mène dans l'envers du décor de la vie politique française.\nhttps://l.valeursactuelles.com/L0J"
-    },
-    {
-      "author_name": "Marine Le Pen",
-      "published_at": "2026-11-18 20:35",
-      "text": "Les États-Unis sont des alliés, cela ne fait aucun doute. Mais ils se comportent très durement à l’égard de la France ces derniers temps.\n\nSi je suis élue, je défendrai les intérêts de notre pays et de notre peuple, notamment sur les barrières douanières."
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-18 20:37",
-      "text": "Budget hors normes, graphismes ultra réalistes... Pourquoi il a fallu attendre 13 ans pour que Rockstar accouche de GTA VI https://ow.ly/R4C3106IWFz"
-    },
-    {
-      "author_name": "Boulevard Voltaire",
-      "published_at": "2026-11-18 20:37",
-      "text": "« Bricolage », « machine à perdre » : chez LR, vent de fronde contre la primaire | Par  @SevilliaYves\n« Je ne vois pas ce qu'Attal vient faire dans cette affaire », se lamente ce sénateur LR. \n \nhttps://www.bvoltaire.fr/bricolage-machine-a-perdre-chez-lr-vent-de-fronde-contre-la-primaire/?fsp_sid=26805"
-    },
-    {
-      "author_name": "Frontières",
-      "published_at": "2026-11-18 20:37",
-      "text": "« Ces groupes illustrent un rapport à la violence politique qui est glaçant. Visages masqués, chaos qui réjouissent, victoires célébrées à coups de poing… »\n\n👉 Charlotte d’Ornellas revient sur les révélations de L’Infiltré dans l’affaire Quentin : https://www.frontieresmedia.fr/linfiltre/linfiltre-8"
-    },
-    {
-      "author_name": "Marine Le Pen",
-      "published_at": "2026-11-18 20:37",
-      "text": "J’attache beaucoup de prix à l’indépendance et à la souveraineté. Chaque pays du monde y a droit : je partage pleinement la vision de l’Inde.\n\nNous pourrions aller beaucoup plus loin dans les relations entre la France et l’Inde."
+      "published_at": "2026-11-19 20:18",
+      "text": "Présidentielle : Geoffroy Lejeune dénonce le traitement réservé à Teddy Riner depuis l'annonce de sa candidature, dans #HDPros2\n\nToute l'info est à retrouver sur https://cnews.fr"
     },
     {
       "author_name": "LCP",
-      "published_at": "2026-11-18 20:39",
-      "text": "Vers une prolongation de l'encadrement des loyers ? LFI dénonce le fichage massif de lycéens, GTA VI : qu'en pensent les députés ?"
+      "published_at": "2026-11-19 20:19",
+      "text": "Marine Tondelier se rapproche de Jean-Luc Mélenchon avant même le vote de ses militants. Pour Nicolas Domenach, ce ralliement répond aussi à une logique de survie électorale des députés Ecologistes, au risque de raviver les divisions à gauche"
     },
     {
-      "author_name": "Alain Weber",
-      "published_at": "2026-11-18 20:39",
-      "text": "C’est sans convictions, c’est monocorde, c’est soporifique, et le boulet rose à sa droite est du plus vilain effet. \n\nÇa ne va vraiment avec rien, le rose, ça tweet compulsivement, et le niveau est celui de TIK TOK…\n[Cite @EPhilippe_LH] Mon projet est massif et sérieux.\n\n→ https://www.edouardphilippe.fr/programme"
-    },
-    {
-      "author_name": "Marine Le Pen",
-      "published_at": "2026-11-18 20:40",
-      "text": "Il est parfaitement normal qu’un pays défende ses intérêts.\n\nJe parle le langage des nations, Emmanuel Macron parle le langage de l’Union européenne. Ce n’est pas le même langage.",
-      "also_by": [
-        "Rassemblement National"
-      ]
+      "author_name": "Le Point",
+      "published_at": "2026-11-19 20:20",
+      "text": "« Je comprends parfaitement votre indignation chère Anne-Cécile Mailfert. Dommage toutefois .. » \n\nAprès une polémique sur Franceinfo, la princesse Maria-Carolina de Bourbon,  rappelle à Anne-Cécile Mailfert un SMS envoyé après les révélations sur ses liens avec Jordan Bardella."
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-18 20:40",
-      "text": "États-Unis : Hakeem Jeffries en passe de devenir le premier président noir de la Chambre des représentants\n➡️ https://l.leparisien.fr/MP69",
+      "published_at": "2026-11-19 20:21",
+      "text": "Présidentielle 2027 : l’alliance avec Marine Tondelier « devrait pouvoir se faire », estime Jean-Luc Mélenchon https://l.leparisien.fr/9FFW",
       "also_by": [
         "Le Parisien | politique"
       ]
     },
     {
-      "author_name": "Le Crapaud",
-      "published_at": "2026-11-18 20:40",
-      "text": "\n[Cite @nayibbukele] Kado mwen pou pèp ayisyen an nan anivèsè Batay Vètyè a ❤️"
-    },
-    {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-18 20:40",
-      "text": "Jean Dujardin insulté après avoir refusé de choisir entre le RN et LFI : « Reviens au cinéma muet », « bourgeois de merde » https://www.fdesouche.com/2026/11/18/jean-dujardin-insulte-refus-choisir-rn-lfi-vote-blanc/"
-    },
-    {
-      "author_name": "Marine Le Pen",
-      "published_at": "2026-11-18 20:41",
-      "text": "Nous avons vraiment besoin de partenariats avec l’Inde. Un partenariat, ce n’est pas seulement la France qui vend à l’Inde.\n\nNotre vision commune rend les partenariats à la fois plus riches et plus efficaces.",
-      "also_by": [
-        "Rassemblement National"
-      ]
-    },
-    {
-      "author_name": "Marine Le Pen",
-      "published_at": "2026-11-18 20:41",
-      "text": "Dans l’histoire de France, des femmes ont évidemment joué un rôle fondamental.\n\nIl ne faut pas penser que les Français n’ont pas la volonté d’élire une femme. Aujourd’hui, il est possible que cela arrive.",
-      "also_by": [
-        "Rassemblement National"
-      ]
-    },
-    {
-      "author_name": "Le Point",
-      "published_at": "2026-11-18 20:42",
-      "text": "L’arche de Noé en vue https://l.lepoint.fr/gRx"
-    },
-    {
-      "author_name": "Le Crapaud",
-      "published_at": "2026-11-18 20:42",
-      "text": "[Retweet de @Le_Crapaud47] 🚨Exclusivité🚨\n\nLa véritable raison derrière la rencontre de Donald Trump, Vladimir Poutine et Xi Jinping :"
-    },
-    {
       "author_name": "CNEWS",
-      "published_at": "2026-11-18 20:42",
-      "text": "Propos de Jean Dujardin sur la présidentielle : «Refuser de choisir entre LFI et le RN, c'est se désigner comme cible pour la gauche radicale», a estimé Mathieu Bock-Côté, sociologue et éditorialiste. \n\nToute l'info est à retrouver sur https://cnews.fr"
+      "published_at": "2026-11-19 20:23",
+      "text": "«Marine Tondelier s'incline devant Jean-Luc Mélenchon ?» : l'édito de Mathieu Bock-Côté dans #Facealinfo"
     },
     {
-      "author_name": "Marine Le Pen",
-      "published_at": "2026-11-18 20:44",
-      "text": "Les femmes se sous-estiment souvent et les hommes se surestiment parfois.\n\nLes femmes doivent avoir confiance en elles, défendre leur place et arrêter de penser qu’il leur faut plus de diplômes que les hommes pour réussir.",
-      "also_by": [
-        "Rassemblement National"
-      ]
+      "author_name": "LCP",
+      "published_at": "2026-11-19 20:23",
+      "text": "Passoires thermiques: \"La contrainte DPE a créé un véritable carnage sur le marché locatif, avec un effondrement de l'offre, et nous estimons que l'indicateur, le DPE, n'est pas suffisamment fiable pour faire l'alpha et l'oméga de la politique du logement\", réagit @FalconFrederic"
     },
     {
-      "author_name": "Hexagone - La France en chiffres",
-      "published_at": "2026-11-18 20:44",
-      "text": "[Retweet de @Hexagone_org] Depuis les prévisions de mai, des indicateurs majeurs se dégradent pour la France en 2027 :\n\n• Dette : 122 % du produit intérieur brut (PIB), contre 120 %\n• Chômage : 9,2 %, contre 8,7 %\n• Croissance : +0,6 %, contre +1,1 %"
+      "author_name": "Civilisation",
+      "published_at": "2026-11-19 20:24",
+      "text": "[Retweet de @24hPujadas] ▶️#Retraite par capitalisation : la fin du tabou\n\nLes faits rien que les faits avec Lucile Devillers @luciledevillers🔍\nImages et montage : Perrine Combeau et Abel Dos Reis\n\n🔄Retrouvez #24HPujadas sur #LCI - canal 15"
     },
     {
-      "author_name": "Régis Le Sommier",
-      "published_at": "2026-11-18 20:46",
-      "text": "[Retweet de @alancelin] 🔴 EXCLUSIF : « L’Empire à l’heure des revers »\n\nEn direct sur QG, ce jeudi 19 novembre à 20h30, retrouvez-moi avec @LeSommierRgis, grand reporter, directeur @Omerta_officiel, @1NikolaMirkovic et @akrambelkaid du Monde diplo\n\nUne soirée exceptionnelle, à ne pas manquer 🔥"
+      "author_name": "Gilbert Collard",
+      "published_at": "2026-11-19 20:24",
+      "text": "Ils font presque de la peine !"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-18 20:46",
-      "text": "« Un être de lumière extraordinaire » : l’influenceuse Cata Amatista décède à 25 ans après un grave cancer du cerveau\n➡️ https://l.leparisien.fr/tQ9G"
+      "published_at": "2026-11-19 20:25",
+      "text": "🔵 INFO LE PARISIEN | Comment Marine Le Pen prépare (déjà) son entre-deux-tours de la présidentielle\n\nAu RN, une équipe spécifique prépare d’ores et déjà ce moment, pour ne pas réitérer le «bordel intersidéral» de 2022\n➡️ https://l.leparisien.fr/jTqf"
     },
     {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-18 20:46",
-      "text": "Saint-Barthélemy-d’Agenais (47) : son fils de 4 ans pleure avant l’école, elle enregistre sa maîtresse et finit convoquée par la justice",
-      "also_by": [
-        "Pierre Sautarel"
-      ]
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-19 20:27",
+      "text": "⁉️ Vous avez manqué #LesVraiesVoix ? Retrouvez le replay de l'émission du 19 novembre 2026 \n\n📺 Le replay : https://youtu.be/r4XyEhKOMag"
+    },
+    {
+      "author_name": "Comité Trump France",
+      "published_at": "2026-11-19 20:27",
+      "text": "[Retweet de @SwordOfSalomon] 🚨🏦 SIGNALEMENT : Fouzi Boukezzoula (@FbkzS12), nationaliste algérien 🇩🇿résidant à Paris et ingénieur informatique depuis 13 ans à la @SocieteGenerale, publie sur X des contenus antisémites, fait l’apologie du terrorisme islamiste et affiche son soutien au Hamas et à la"
+    },
+    {
+      "author_name": "Comité Trump France",
+      "published_at": "2026-11-19 20:28",
+      "text": "😅😅"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-19 20:28",
+      "text": "Du centre aux droites, tous les candidats soutiennent l’introduction d’une dose de capitalisation, mais pas tous de façon obligatoire : Le Pen, Retailleau, Lisnard et Philippe y sont pour, Attal, contre.\n➡️ https://l.lepoint.fr/B3J"
+    },
+    {
+      "author_name": "LCP",
+      "published_at": "2026-11-19 20:29",
+      "text": "Louer les passoires thermiques: \"C'est du populisme pur et dur\", critique @Inakiechaniz, qui pointe \"des problèmes de santé publique\" et de pouvoir d'achat, avec des dépenses de chauffage et de rafraîchissement plus élevées"
+    },
+    {
+      "author_name": "Comité Trump France",
+      "published_at": "2026-11-19 20:29",
+      "text": "[Retweet de @MarineDauvret] « Édouard, je t’en supplie, viens à ma primaire ! »\n\nDavid Lisnard en est-il réduit à supplier la macronie, lui qui prétend renverser la table ?"
+    },
+    {
+      "author_name": "L'Express",
+      "published_at": "2026-11-19 20:29",
+      "text": "En levant 81 milliards de dollars lors d’une introduction en Bourse record, le laboratoire dirigé par Dario Amodei se hisse sur le toit du monde. Mais Anthropic devra faire face à de lourdes...\n\n➡️ https://l.lexpress.fr/235"
+    },
+    {
+      "author_name": "Causeur.fr",
+      "published_at": "2026-11-19 20:30",
+      "text": "Sécurité sociale : le piège des coupes budgétaires à courte vue... @causeur https://www.causeur.fr/securite-sociale-coupes-budgetaires-sante-mutuelles-osteopathie-337634"
+    },
+    {
+      "author_name": "Polémia",
+      "published_at": "2026-11-19 20:30",
+      "text": "Décryptage de l'enquête Périclès (8/20)\n\n79 % des électeurs jugent que la France est un pays en déclin. 21 % seulement la voient en progrès.\n\nCe constat traverse tous les camps : 94 % des électeurs du Rassemblement national, 82 % de ceux de droite, 69 % de ceux du Nouveau Front"
+    },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-19 20:31",
+      "text": "Gabriel Attal : le coup de com' raté ? → https://l.lefigaro.fr/c2XA"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-19 20:31",
+      "text": "Plus de 500 kg de viande en décomposition « pour une meute de chiens » : les locataires d’un immeuble de Brest évacués en urgence\n➡️ https://l.leparisien.fr/YiVw"
+    },
+    {
+      "author_name": "LCP",
+      "published_at": "2026-11-19 20:32",
+      "text": "Pour @corinne_jolly, présidente de @pap_fr, la baisse de l'offre locative est liée à un \"manque de rentabilité de la location\". Elle pointe la hausse des taux d'intérêt et \"les différentes normes\" qui empêchent de louer et entraînent également \"un manque d'investisseurs\""
+    },
+    {
+      "author_name": "Valeurs actuelles",
+      "published_at": "2026-11-19 20:34",
+      "text": "🗞️ ENTRETIEN. Légitime défense, maintien de l’ordre, sanction pénale : face à notre pays qui s’embrase, l’avocat pénaliste plaide pour un véritable choc d’autorité. Alors qu’il publie La France a besoin de nous et lance son mouvement, Concorde, il entend… https://l.valeursactuelles.com/ZOP"
+    },
+    {
+      "author_name": "Ministère de l'Intérieur",
+      "published_at": "2026-11-19 20:35",
+      "text": "[Retweet de @Prefet62] En raison des intempéries, une évacuation préventive de 300 personnes est en cours dans les communes de Montreuil-sur-Mer et de Neuville-sous-Montreuil.\n\nIsabelle Fradin-Thirode, sous-préfète de l'arrondissement de Montreuil-sur-Mer, est présente sur place afin de coordonner les"
+    },
+    {
+      "author_name": "Tribune Populaire🌐",
+      "published_at": "2026-11-19 20:37",
+      "text": "🇺🇸🇷🇺🇺🇦 FLASH INFO – Séquence énorme où Elon Musk reconnaît que les États-Unis ont également une responsabilité dans le conflit ukrainien, notamment à travers les opérations de la CIA !\n\n« La Russie est l’agresseur, mais il est également vrai que nous, en tant qu’Américains, avons"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-19 20:37",
+      "text": "« Maintenant je peux marcher, plus besoin de canne » : à Orléans, deux policiers équipés d’un exosquelette grâce à leurs collègues\n➡️ https://l.leparisien.fr/AAub"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-19 20:38",
+      "text": "🔴 15 pompiers ont été blessés https://mrf.lu/2M3jC"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-19 20:38",
+      "text": "Présidentielle : «Edouard Philippe prouve qu’il n’est pas un leader», tacle Véronique Jacquier, dans #HDPros2\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Médias-Presse-Info",
+      "published_at": "2026-11-19 20:39",
+      "text": "Ignace – Sommet à Shenzhen sans la France ni l’UE\n\nhttps://www.medias-presse.info/ignace-sommet-a-shenzhen-sans-la-france-ni-lue/254217/"
+    },
+    {
+      "author_name": "LCP",
+      "published_at": "2026-11-19 20:39",
+      "text": "Prolongation de l'encadrement des loyers: \"C'est un vrai soulagement\", reconnaît le rapporteur du texte, @Inakiechaniz. \"C'est une mesure qui est plébiscitée par les Français, y compris par les propriétaires\""
+    },
+    {
+      "author_name": "Florian Philippot",
+      "published_at": "2026-11-19 20:42",
+      "text": "Bravo à Franck Ferrand ! (cf vidéo ⤵️)\n\n« La seule question qui se pose en 2027 c’est de savoir si on est pour ou contre la poursuite du projet européen ! » \n\n« Je voterai pour le Frexit ! »\n\n« Il faut sortir de l’Union européenne et de l’euro. C’est le vrai, le seul débat !\n\n«\n[Cite @TVMAG] «Je voterai pour le candidat qui sera favorable à la sortie de l’Union européenne», affirme Franck Ferrand au #BuzzTV"
+    },
+    {
+      "author_name": "Marc Vanguard",
+      "published_at": "2026-11-19 20:43",
+      "text": "[Retweet de @jean_bapti18450] @franceinfo Pourquoi interroger des militantes plutôt que des scientifiques ?"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-19 20:44",
+      "text": "Pas-de-Calais : « fatigués », « démunis », les riverains redoutent de nouvelles inondations https://ow.ly/YKpY106J2yZ"
+    },
+    {
+      "author_name": "Tribune Populaire🌐",
+      "published_at": "2026-11-19 20:45",
+      "text": "📂🇫🇷 ARCHIVE – Quand Emmanuel Macron lui-même rejetait l’idée d’une ingérence américaine en Ukraine, avant le déclenchement de la guerre !\n\n« C’est un conte ! Un mauvais conte ! »\n\nAujourd’hui, l’homme le plus riche des États-Unis confirme le « mauvais conte »..\n[Cite @TribunePop23] 🇺🇸🇷🇺🇺🇦 FLASH INFO – Séquence énorme où Elon Musk reconnaît que les États-Unis ont également une responsabilité dans le conflit ukrainien, notamment à travers les opérations de la CIA !\n\n« La Russie est l’agresseur, mais il est également vrai que nous, en tant qu’Américains, avons"
+    },
+    {
+      "author_name": "LCP",
+      "published_at": "2026-11-19 20:45",
+      "text": "Hommage des députés après la mort de David Habib, deux avocats accusent le ministre de l'Intérieur après les violences du 17 octobre, les inégalités salariales. L'actualité de l'Assemblée par @MarcoPaumier"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-19 20:46",
+      "text": "Présidentielle : André Vallini et Gilles-William Goldnadel estiment que Les Écologistes vont rejoindre Jean-Luc Mélenchon, dans #HDPros2\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-19 20:46",
+      "text": "« Je vais t’égorger à la Samuel Paty » : garde à vue prolongée pour l’adolescent qui avait menacé un professeur d’histoire en visio\n➡️ https://l.leparisien.fr/orP9"
     },
     {
       "author_name": "Les Patriotes",
-      "published_at": "2026-11-18 20:47",
-      "text": "[Retweet de @62PATRIOTES] ♦️ÉVÉNEMENT MERCREDI 25/11 à 19h\n➡️ INSCRIPTION ICI : https://les-patriotes.fr/kintzheim/\nFlorian Philippot en Alsace pour une grande réunion publique !\nÀ Kintzheim (67) Entrée gratuite. Ouvert à tous !"
+      "published_at": "2026-11-19 20:47",
+      "text": "[Retweet de @LIreLand1984] C'est inacceptable de voir que la France n'a plus sa diplomatie et sa liberté puisqu'elle est actuellement soumise à l'UE et à leur folie furieuse de guerre. Merci de partager la vidéo de Florian Philippot ⤵️ \n#Paix\n#FrexitVite\nhttps://youtu.be/IcKKhOIf_GE?si=pozReBc-XzeZIlwW"
     },
     {
       "author_name": "Les Patriotes",
-      "published_at": "2026-11-18 20:47",
-      "text": "[Retweet de @FrancoisDESCAM7] 👍CE VENDREDI, PRENEZ PART AU DIALOGUE👍\nsur https://youtube.com/@FLORIANPHILIPPOT1"
+      "published_at": "2026-11-19 20:47",
+      "text": "[Retweet de @LesPatriotes92] Nouveau délire de l'Arcom.\nNous avons manifestés par deux fois contre cette institution liberticide."
     },
     {
-      "author_name": "Les Patriotes",
-      "published_at": "2026-11-18 20:47",
-      "text": "[Retweet de @vetopatriote] Réformer la Constitution grâce au référendum, comme l’avait fait le Général de Gaulle en s’appuyant sur son article 11, c’est possible.\n\nN’en déplaise à Richard Ferrand, cette brillante analyse de @f_philippot candidat à la Présidentielle, le démontre.\n\nLes Patriotes sont prêts."
+      "author_name": "Comité Trump France",
+      "published_at": "2026-11-19 20:47",
+      "text": "Macron est définitivement un nihiliste radical, à tous les niveaux.\n[Cite @jon_delorraine] 🔴🇫🇷🇺🇸 ALERTE INFO - Emmanuel Macron doit recevoir Kamala Harris à dîner à l’Élysée ce vendredi 20 novembre, en pleines tensions diplomatiques entre Paris et Washington.\n\nL'ancienne vice-présidente américaine est pressentie comme une possible candidate démocrate à la"
     },
+    {
+      "author_name": "Médias-Presse-Info",
+      "published_at": "2026-11-19 20:48",
+      "text": "📺 L’ACTU DE LA SEMAINE EN VIDÉO\n📆 Du 13 au 19 novembre 2026\n\n🇫🇷 Marine Le Pen veut suspendre l’aide financière à Kiev si elle est élue\n🇺🇦 Que font les soldats français en Ukraine ?\n🇨🇳 Trump, Poutine et Xi à Shenzhen\n\n▶️ Les 5 sujets de la semaine en moins de 3 minutes avec MPI."
+    },
+    {
+      "author_name": "Comité Trump France",
+      "published_at": "2026-11-19 20:48",
+      "text": "[Retweet de @DrClownPhD] What really happened at the Trump-Xi-Putin summit. 🌍"
+    }
+  ],
+  "context": [
     {
       "author_name": "Occidentis",
       "published_at": "2026-11-18 20:49",
@@ -6931,6 +6830,11 @@
       "text": "[Retweet de @notredameparis] 🙏 Ce soir, @notredameparis s’illumine en rouge pour alerter sur les persécutions de chrétiens de par le monde.\n\n1 chrétien sur 6 vit dans un pays où la liberté religieuse est bafouée : 413 millions de chrétiens sont persécutés, menacés, et discriminés. \n\n🙏 Avec la #RedWeek,"
     },
     {
+      "author_name": "Tribune Populaire🌐",
+      "published_at": "2026-11-18 21:01",
+      "text": "[Retweet de @ame_ism] Emmanuel Macron était un candidat \"hors système\" au même titre que Coluche, selon #FranceInfox. \nNos médias du \"service public\" vivent décidément dans un sacré monde parallèle..."
+    },
+    {
       "author_name": "CNEWS",
       "published_at": "2026-11-18 21:01",
       "text": "«Gérald Darmanin aurait été meilleur qu'Edouard Philippe», souligne Joseph Macé-Scaron, journaliste et essayiste, dans #HDPros2\n\nToute l'info est à retrouver sur https://cnews.fr"
@@ -6964,6 +6868,11 @@
       "author_name": "Eric Ciotti",
       "published_at": "2026-11-18 21:04",
       "text": "Au Palais Sarde pour célébrer les 10 ans de l’Initiative d’Excellence d’Université Côte d’Azur !\n\nAncien étudiant de cette université, je suis fier de son parcours. Avec 32 000 étudiants et près de 1 800 enseignants-chercheurs, elle incarne l’avenir de notre territoire par la"
+    },
+    {
+      "author_name": "Pierre Sautarel",
+      "published_at": "2026-11-18 21:07",
+      "text": "[Retweet de @F_Desouche] Saint-Barthélemy-d’Agenais (47) : son fils de 4 ans pleure avant l’école, elle enregistre sa maîtresse et finit convoquée par la justice"
     },
     {
       "author_name": "Alain Weber",
@@ -7553,6 +7462,26 @@
       "author_name": "CNEWS",
       "published_at": "2026-11-18 23:20",
       "text": "«La France sera le deuxième pays le plus endetté sur la décennie 2017-2027», avance François Pierrard, directeur général de l’Observatoire Hexagone, dans #SoirInfo\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Rassemblement National",
+      "published_at": "2026-11-18 23:21",
+      "text": "[Retweet de @MLP_officiel] Il est parfaitement normal qu’un pays défende ses intérêts.\n\nJe parle le langage des nations, Emmanuel Macron parle le langage de l’Union européenne. Ce n’est pas le même langage."
+    },
+    {
+      "author_name": "Rassemblement National",
+      "published_at": "2026-11-18 23:21",
+      "text": "[Retweet de @MLP_officiel] Nous avons vraiment besoin de partenariats avec l’Inde. Un partenariat, ce n’est pas seulement la France qui vend à l’Inde.\n\nNotre vision commune rend les partenariats à la fois plus riches et plus efficaces."
+    },
+    {
+      "author_name": "Rassemblement National",
+      "published_at": "2026-11-18 23:21",
+      "text": "[Retweet de @MLP_officiel] Dans l’histoire de France, des femmes ont évidemment joué un rôle fondamental.\n\nIl ne faut pas penser que les Français n’ont pas la volonté d’élire une femme. Aujourd’hui, il est possible que cela arrive."
+    },
+    {
+      "author_name": "Rassemblement National",
+      "published_at": "2026-11-18 23:21",
+      "text": "[Retweet de @MLP_officiel] Les femmes se sous-estiment souvent et les hommes se surestiment parfois.\n\nLes femmes doivent avoir confiance en elles, défendre leur place et arrêter de penser qu’il leur faut plus de diplômes que les hommes pour réussir."
     },
     {
       "author_name": "Le Point",
