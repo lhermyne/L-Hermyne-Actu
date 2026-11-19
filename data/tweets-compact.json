@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-19 02:15",
-  "period": "du 2026-11-18 02:15 au 2026-11-19 02:15",
-  "new_period": "du 2026-11-18 20:00 au 2026-11-19 02:15",
-  "context_period": "du 2026-11-18 02:15 au 2026-11-18 20:00",
+  "generated_at": "2026-11-19 02:27",
+  "period": "du 2026-11-18 02:27 au 2026-11-19 02:27",
+  "new_period": "du 2026-11-18 20:00 au 2026-11-19 02:27",
+  "context_period": "du 2026-11-18 02:27 au 2026-11-18 20:00",
   "coverage_complete": true,
   "new_count": 291,
-  "context_count": 1510,
-  "duplicates_merged": 100,
+  "context_count": 1509,
+  "duplicates_merged": 99,
   "empty_removed": 10,
   "new": [
     {
@@ -1525,14 +1525,6 @@
     }
   ],
   "context": [
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-18 02:18",
-      "text": "« Au mépris des lois de notre nation » : l’ex-champion du monde de boxe Linares, détenu par ICE, va être expulsé des États-Unis\n➡️ https://l.leparisien.fr/orPT",
-      "also_by": [
-        "Le Parisien | politique"
-      ]
-    },
     {
       "author_name": "Bruno Attal",
       "published_at": "2026-11-18 02:33",

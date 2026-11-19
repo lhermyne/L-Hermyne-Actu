@@ -1,13 +1,13 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-19T01:15:17.782Z",
+  "updated_at": "2026-11-19T01:27:14.997Z",
   "window_hours": 24,
-  "window_start": "2026-11-18T01:15:17.782Z",
+  "window_start": "2026-11-18T01:27:14.997Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1911,
+  "count": 1909,
   "tweets": [
     {
       "id": "2123222392004845606",
@@ -24825,32 +24825,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/Bruno_Attal_/status/2122865732249702817"
-    },
-    {
-      "id": "2122862233680335145",
-      "created_at": "2026-11-18T01:19:32.000Z",
-      "author": "leparisien_pol",
-      "author_name": "Le Parisien | politique",
-      "type": "tweet",
-      "text": "« Au mépris des lois de notre nation » : l’ex-champion du monde de boxe Linares, détenu par ICE, va être expulsé des États-Unis\n➡️ https://l.leparisien.fr/7Wmf",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/leparisien_pol/status/2122862233680335145"
-    },
-    {
-      "id": "2122862084212011473",
-      "created_at": "2026-11-18T01:18:56.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "« Au mépris des lois de notre nation » : l’ex-champion du monde de boxe Linares, détenu par ICE, va être expulsé des États-Unis\n➡️ https://l.leparisien.fr/orPT",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2122862084212011473"
     }
   ]
 }
