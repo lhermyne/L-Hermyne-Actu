@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-19 19:38",
-  "period": "du 2026-11-18 19:38 au 2026-11-19 19:38",
-  "new_period": "du 2026-11-19 08:00 au 2026-11-19 19:38",
-  "context_period": "du 2026-11-18 19:38 au 2026-11-19 08:00",
+  "generated_at": "2026-11-19 19:48",
+  "period": "du 2026-11-18 19:48 au 2026-11-19 19:48",
+  "new_period": "du 2026-11-19 08:00 au 2026-11-19 19:48",
+  "context_period": "du 2026-11-18 19:48 au 2026-11-19 08:00",
   "coverage_complete": true,
-  "new_count": 1223,
-  "context_count": 453,
-  "duplicates_merged": 90,
+  "new_count": 1232,
+  "context_count": 442,
+  "duplicates_merged": 89,
   "empty_removed": 9,
   "new": [
     {
@@ -5833,7 +5833,10 @@
     {
       "author_name": "Identité Libertés",
       "published_at": "2026-11-19 18:44",
-      "text": "La prochaine victoire sera avec vous."
+      "text": "La prochaine victoire sera avec vous.",
+      "also_by": [
+        "Damien Rieu"
+      ]
     },
     {
       "author_name": "Fdesouche.com est une revue de presse",
@@ -6243,88 +6246,54 @@
       "author_name": "Sud Radio",
       "published_at": "2026-11-19 19:37",
       "text": "‼️ Le RN au cœur d'une nouvelle enquête autour de fuites impliquant un préfet https://www.sudradio.fr/societe/le-rn-au-coeur-dune-nouvelle-enquete-autour-de-fuites-impliquant-un-prefet"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "LCP",
-      "published_at": "2026-11-18 19:40",
-      "text": "Violence, temps d’écran, poids économique, première industrie culturelle...\nÀ quelques heures de la sortie de GTA VI, nous avons cherché à savoir si le regard porté sur les jeux vidéo avait évolué. À lire. >> https://bit.ly/4iRntAM"
     },
     {
-      "author_name": "Jordan Bardella",
-      "published_at": "2026-11-18 19:41",
-      "text": "Nous voulons lutter contre la vie chère, par des baisses de taxes sur l'énergie, l'alimentation et les carburants, et la relance de constructions de logements, qui aura un impact positif sur les prix des loyers pour les locataires.",
-      "also_by": [
-        "Rassemblement National"
-      ]
+      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
+      "published_at": "2026-11-19 19:40",
+      "text": "https://x.com/i/article/2123485459657736192"
     },
     {
       "author_name": "LCP",
-      "published_at": "2026-11-18 19:42",
-      "text": "Retraite par capitalisation: \"Actuellement, elle ne recueille chaque année qu'une vingtaine de milliards et ne distribue que 9 milliards\", pointe @sterdyniak, fondateur des Économistes atterrés, qui juge qu'investir dans \"le logement est beaucoup plus important\""
+      "published_at": "2026-11-19 19:41",
+      "text": "Encadrement des loyers: l'Assemblée nationale prolonge l'expérimentation du dispositif, au terme d'une âpre bataille dans le cadre de la niche parlementaire des députés socialistes\n https://lcp.fr/actualites/encadrement-des-loyers-l-assemblee-prolonge-l-experimentation-du-dispositif-au-terme-d"
     },
     {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-18 19:42",
-      "text": "«Il est inquiétant de voir en France se développer des actes antichrétiens», souligne Gabrielle Cluzel, journaliste, dans #Facealinfo\n\nToute l'info est à retrouver sur https://cnews.fr"
+      "author_name": "LCP",
+      "published_at": "2026-11-19 19:43",
+      "text": "Rencontre Chine-États-Unis-Russie: Pour Cyrille Bret, expert en géopolitique, Xi Jinping \"est le pivot du nouvel ordre mondial\" : \"des trois, il n'est pas en guerre, c'est lui qui porte une déclaration de paix mondiale, c'est lui qui se pose en médiateur universel pour tous les"
+    },
+    {
+      "author_name": "Damien Rieu",
+      "published_at": "2026-11-19 19:44",
+      "text": "[Retweet de @FrenchCarcan] 🔴 Fatima Ouassak : Quand on voit qui casse, ce sont beaucoup de noirs et d'arabes […] Notre fierté, c'est que ce sont nos enfants. Ces enfants-là, demain, ils vont changer le pays et ils vont même changer l'Europe, qui est considérée comme blanche et chrétienne.\"\n\n✅ @FOuassak"
+    },
+    {
+      "author_name": "Nicolas Dupont-Aignan",
+      "published_at": "2026-11-19 19:44",
+      "text": "Grand entretien avec Louis Fouché :\n\"Les laboratoires font-ils la loi ?\"\n\n📺 À retrouver sur YouTube👇\n\nhttps://youtu.be/pQAxBsq5qc8"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-19 19:45",
+      "text": "🔴 Les clefs d'une vie - Romain Sardou au micro de Jacques Pessis\n➡️  Romain Sardou : après 18 ans de recherches, il a écrit la suite de sa saga moyenâgeuse.  Il signe aussi le livret et la mise en scène d’une comédie musicale « Une seconde avant noël », aux Folies – Bergère.\n\n📻"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-18 19:43",
-      "text": "Présidentielle 2027 : Lisnard et Retailleau appellent Philippe à rejoindre la primaire… mais se divisent sur la participation de Zemmour\n➡️ https://l.leparisien.fr/SSdP"
+      "published_at": "2026-11-19 19:46",
+      "text": "Jugé pour une folle course-poursuite sur l’A6, le rappeur Zola prouve son innocence… en se photographiant devant son four\n➡️ https://l.leparisien.fr/aCSt"
     },
     {
-      "author_name": "Jordan Bardella",
-      "published_at": "2026-11-18 19:43",
-      "text": "Nous voulons permettre à l'ensemble des chefs d'entreprise d'augmenter les salaires de 10% sans charges : c'est une solution qui concerne potentiellement 15 millions de salariés.",
-      "also_by": [
-        "Rassemblement National"
-      ]
+      "author_name": "Alain Weber",
+      "published_at": "2026-11-19 19:46",
+      "text": "Pendant que la Commission européenne réglemente ce qu’elle n’a pas, l’intelligence artificielle, et nous donne des leçons de souveraineté numérique, une IA chinoise met ses systèmes informatiques à genoux pendant dix jours. 🤷🤷🤣🤣\n\nNous, nous réglementons, la Chine crée…\n[Cite @kubernan] La Commission européenne piratée par un outil d’IA chinois open source\n\nUn outil de pentest autonome, publié sur GitHub en juillet par un développeur chinois, a mis hors service pendant plus de dix jours des systèmes internes de la Commission. Sysper (fiches de paie, congés,"
     },
     {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-18 19:44",
-      "text": "⚖️ Le comédien Philippe Caubère renvoyé en procès pour viols et proxénétisme : https://www.sudradio.fr/?p=932210"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-18 19:45",
-      "text": "🔴 Les clefs d'une vie - MB 14 au micro de Jacques Pessis\n➡️  MB 14 : révélé par  The Voice, il est rappeur, chanteur lyrique, acteur et champion de beatboxing : il fait de la musique en imitant les instruments avec sa bouche\n\n📻 RDV à 21h sur https://sudradio.fr"
-    },
-    {
-      "author_name": "Samuel Lafont",
-      "published_at": "2026-11-18 19:45",
-      "text": "[Retweet de @Anastas77581540] Est ce qu’Éric Zemmour a intérêt à participer à la primaire de la droite ? \n\n#Reconquête #Zemmour #Presidentielle2027"
-    },
-    {
-      "author_name": "LCP",
-      "published_at": "2026-11-18 19:45",
-      "text": "Retraite par capitalisation: \"Si vous avez 25 ans, 30 ans, 35 ans devant vous, l'accumulation de capital, elle est certaine\", juge Philippe Setbon, président de l'Association française de la gestion financière, qui indique un âge pivot de \"40 ans\" car il \"faut du temps pour"
-    },
-    {
-      "author_name": "Le Crayon",
-      "published_at": "2026-11-18 19:45",
-      "text": "VOTEZ | Selon toi, faut-il généraliser la semaine de 4 jours ?"
-    },
-    {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-18 19:46",
-      "text": "Présidentielle 2027 : Lisnard et Retailleau appellent Philippe à rejoindre la primaire… mais se divisent sur la participation de Zemmour https://l.leparisien.fr/EJb7"
-    },
-    {
-      "author_name": "Boulevard Voltaire",
-      "published_at": "2026-11-18 19:48",
-      "text": "Programme du RN sur les retraites : dernier clou dans le cercueil de la politique familiale | Par Georges Michel\nLe RN veut tout simplement supprimer les majorations de pension pour les pères de familles nombreuses. \n \nhttps://www.bvoltaire.fr/programme-du-rn-sur-les-retraites-dernier-clou-dans-le-cercueil-de-la-politique-familiale/?fsp_sid=26775",
-      "also_by": [
-        "Gabrielle Cluzel"
-      ]
-    },
-    {
-      "author_name": "Eric Ciotti",
-      "published_at": "2026-11-18 19:48",
-      "text": "Heureux de lancer à Nice, aux côtés de @ca_ginesy et de Gilles Casu, la 42e édition du concours « Un des Meilleurs Apprentis de France » !\n\nCe concours célèbre le travail, le mérite, le talent de notre jeunesse et la transmission des savoir-faire.\n\nMerci aux Meilleurs Ouvriers de"
-    },
+      "author_name": "CNEWS",
+      "published_at": "2026-11-19 19:47",
+      "text": "Lycées : Charlotte d’Ornellas revient sur la volonté de LFI d’amnistier les mineurs condamnés, dans #Facealinfo\n\nToute l'info est à retrouver sur https://cnews.fr"
+    }
+  ],
+  "context": [
     {
       "author_name": "LCP",
       "published_at": "2026-11-18 19:48",
@@ -6555,6 +6524,16 @@
       "author_name": "Rassemblement National",
       "published_at": "2026-11-18 20:05",
       "text": "[Retweet de @J_Bardella] Marine Le Pen va réparer notre système des retraites comme aucun autre candidat ne le propose : nous le réparons à l'entrée, tout au long de la vie, et aussi vers la sortie, avec des baisses de charges et de cotisations pour les travailleurs seniors."
+    },
+    {
+      "author_name": "Rassemblement National",
+      "published_at": "2026-11-18 20:05",
+      "text": "[Retweet de @J_Bardella] Nous voulons lutter contre la vie chère, par des baisses de taxes sur l'énergie, l'alimentation et les carburants, et la relance de constructions de logements, qui aura un impact positif sur les prix des loyers pour les locataires."
+    },
+    {
+      "author_name": "Rassemblement National",
+      "published_at": "2026-11-18 20:05",
+      "text": "[Retweet de @J_Bardella] Nous voulons permettre à l'ensemble des chefs d'entreprise d'augmenter les salaires de 10% sans charges : c'est une solution qui concerne potentiellement 15 millions de salariés."
     },
     {
       "author_name": "Rassemblement National",
@@ -7323,6 +7302,11 @@
       "author_name": "Le Parisien",
       "published_at": "2026-11-18 21:49",
       "text": "Épuisement physique et mental, nuits à l’hôtel ou dans la cave : six Français sur dix ont souffert de la canicule, selon un sondage https://l.leparisien.fr/rBZL"
+    },
+    {
+      "author_name": "Gabrielle Cluzel",
+      "published_at": "2026-11-18 21:50",
+      "text": "[Retweet de @BVoltaire] Programme du RN sur les retraites : dernier clou dans le cercueil de la politique familiale | Par Georges Michel\nLe RN veut tout simplement supprimer les majorations de pension pour les pères de familles nombreuses. \n \nhttps://www.bvoltaire.fr/programme-du-rn-sur-les-retraites-dernier-clou-dans-le-cercueil-de-la-politique-familiale/?fsp_sid=26775"
     },
     {
       "author_name": "Le Point",
