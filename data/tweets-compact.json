@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-19 03:15",
-  "period": "du 2026-11-18 03:15 au 2026-11-19 03:15",
-  "new_period": "du 2026-11-18 20:00 au 2026-11-19 03:15",
-  "context_period": "du 2026-11-18 03:15 au 2026-11-18 20:00",
+  "generated_at": "2026-11-19 03:45",
+  "period": "du 2026-11-18 03:45 au 2026-11-19 03:45",
+  "new_period": "du 2026-11-18 20:00 au 2026-11-19 03:45",
+  "context_period": "du 2026-11-18 03:45 au 2026-11-18 20:00",
   "coverage_complete": true,
   "new_count": 296,
-  "context_count": 1505,
-  "duplicates_merged": 99,
+  "context_count": 1504,
+  "duplicates_merged": 100,
   "empty_removed": 10,
   "new": [
     {
@@ -1549,15 +1549,13 @@
     {
       "author_name": "Le Parisien | politique",
       "published_at": "2026-11-19 03:14",
-      "text": "« Il ment » : Elon Musk s’en prend à Volodymyr Zelensky au sujet de limitations de Starshield en Ukraine\n➡️ https://l.leparisien.fr/kKvY"
+      "text": "« Il ment » : Elon Musk s’en prend à Volodymyr Zelensky au sujet de limitations de Starshield en Ukraine\n➡️ https://l.leparisien.fr/kKvY",
+      "also_by": [
+        "Le Parisien"
+      ]
     }
   ],
   "context": [
-    {
-      "author_name": "Damien Rieu",
-      "published_at": "2026-11-18 03:43",
-      "text": "[Retweet de @PaulFortune1975] Vidéo très intéressante. On y apprend que l'invasion migratoire n'est pas le fruit d'un plan machiavélique mais d'un mélange de beaucoup de nullité et de lâcheté  politique, d'aveuglement et d'un peu d'idéologie.\nQuand on pense que tout cela aurait pu être évité avec un peu de"
-    },
     {
       "author_name": "Le Parisien | politique",
       "published_at": "2026-11-18 03:56",

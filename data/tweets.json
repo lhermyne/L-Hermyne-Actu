@@ -1,14 +1,27 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-19T02:15:28.835Z",
+  "updated_at": "2026-11-19T02:45:34.451Z",
   "window_hours": 24,
-  "window_start": "2026-11-18T02:15:28.835Z",
+  "window_start": "2026-11-18T02:45:34.451Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
   "count": 1910,
   "tweets": [
+    {
+      "id": "2123242155523371332",
+      "created_at": "2026-11-19T02:29:12.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "« Il ment » : Elon Musk s’en prend à Volodymyr Zelensky au sujet de limitations de Starshield en Ukraine\n➡️ https://l.leparisien.fr/MP6e",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2123242155523371332"
+    },
     {
       "id": "2123238413109432338",
       "created_at": "2026-11-19T02:14:20.000Z",
@@ -24825,19 +24838,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/leparisien_pol/status/2122886524945457584"
-    },
-    {
-      "id": "2122883323987169377",
-      "created_at": "2026-11-18T02:43:20.000Z",
-      "author": "DamienRieu",
-      "author_name": "Damien Rieu",
-      "type": "retweet",
-      "text": "Vidéo très intéressante. On y apprend que l'invasion migratoire n'est pas le fruit d'un plan machiavélique mais d'un mélange de beaucoup de nullité et de lâcheté  politique, d'aveuglement et d'un peu d'idéologie.\nQuand on pense que tout cela aurait pu être évité avec un peu de",
-      "retweeted_author": "PaulFortune1975",
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/DamienRieu/status/2122883323987169377"
     }
   ]
 }
