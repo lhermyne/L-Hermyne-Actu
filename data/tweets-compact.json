@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-19 03:45",
-  "period": "du 2026-11-18 03:45 au 2026-11-19 03:45",
-  "new_period": "du 2026-11-18 20:00 au 2026-11-19 03:45",
-  "context_period": "du 2026-11-18 03:45 au 2026-11-18 20:00",
+  "generated_at": "2026-11-19 04:15",
+  "period": "du 2026-11-18 04:15 au 2026-11-19 04:15",
+  "new_period": "du 2026-11-18 20:00 au 2026-11-19 04:15",
+  "context_period": "du 2026-11-18 04:15 au 2026-11-18 20:00",
   "coverage_complete": true,
-  "new_count": 296,
-  "context_count": 1504,
-  "duplicates_merged": 100,
+  "new_count": 297,
+  "context_count": 1501,
+  "duplicates_merged": 99,
   "empty_removed": 10,
   "new": [
     {
@@ -1553,39 +1553,21 @@
       "also_by": [
         "Le Parisien"
       ]
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-19 03:59",
+      "text": "En Chine, photo historique de Xi Jinping, Donald Trump et Vladimir Poutine ensemble, qui débutent leur rencontre\n➡️ https://l.leparisien.fr/Rbk4",
+      "also_by": [
+        "Le Parisien | politique"
+      ]
     }
   ],
   "context": [
     {
       "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-18 03:56",
-      "text": "« Il est plus préparé » : Gérald Darmanin estime que Mélenchon gagnera l’élection présidentielle en cas de second tour face à Marine Le Pen https://l.leparisien.fr/UprS"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-18 03:57",
-      "text": "Au tribunal, le naufrage du policier qui a voulu interpeller Michel Zecler\n\nDroit dans ses bottes, l'agent accusé d’avoir lancé l’interpellation violente du producteur en 2020 à Paris, a continué d’invoquer le bien-fondé de son action, provoquant l’exaspération ➡️"
-    },
-    {
-      "author_name": "Damien Rieu",
-      "published_at": "2026-11-18 04:06",
-      "text": "[Retweet de @gudmundson_per] Danmarks statsministern vill inte ha \"folkutbyte\": \n\"Jag förespråkar inte ett mångkulturellt samhälle där kulturer likställs.\" \"Jag stödjer inte heller ett storskaligt folkutbyte. Det måste finnas en stark majoritetskultur\", säger Mette Frederiksen.\nhttps://www.bt.dk/debat/mette-frederiksen-i-borgerlig-tabloid-jeg-er-ikke-tilhaenger-af-en-befolkningsudskiftning",
-      "also_by": [
-        "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱"
-      ]
-    },
-    {
-      "author_name": "Alain Weber",
-      "published_at": "2026-11-18 04:10",
-      "text": "Je viens de découvrir l’histoire bouleversante de Kim Lavaud et je me dois de la relayer.\n\nLe 12 juin 2021, Kim, une jeune diplomate française de seulement 24 ans, décède du paludisme à Luanda, en Angola. Malgré les appels à l’aide de ses parents et les alertes qui auraient été\n[Cite @cyprien_ronze] 🇫🇷🇦🇴 En 2021, je suis attaché économique et financier à l'ambassade de France en Belgique.\n\nLe 12 juin 2021, comme tous les matins, je me rends à mon bureau, rue de la Loi, dans le quartier européen. Je m'installe, j'ouvre mon ordinateur, je parcours mes mails.\n\nEt là, stupeur."
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-18 04:13",
-      "text": "« Il est lucide et conscient » : le cacique brésilien Raoni a quitté l’hôpital après cinq jours de soins\n➡️ https://l.leparisien.fr/VzjZ",
-      "also_by": [
-        "Le Parisien | politique"
-      ]
+      "published_at": "2026-11-18 04:23",
+      "text": "« Il est lucide et conscient » : le cacique brésilien Raoni a quitté l’hôpital après cinq jours de soins\n➡️ https://l.leparisien.fr/dYMR"
     },
     {
       "author_name": "Le Parisien",
@@ -3164,6 +3146,11 @@
       "author_name": "Le Point",
       "published_at": "2026-11-18 09:33",
       "text": "Dans ses prévisions hivernales, RTE confirme l’abondance de la production française. Mais l’électrification patine, et la France reste exposée à la flambée des prix du gaz.\n\nPar @GeWoessner\n➡️ https://l.lepoint.fr/7de"
+    },
+    {
+      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
+      "published_at": "2026-11-18 09:33",
+      "text": "[Retweet de @gudmundson_per] Danmarks statsministern vill inte ha \"folkutbyte\": \n\"Jag förespråkar inte ett mångkulturellt samhälle där kulturer likställs.\" \"Jag stödjer inte heller ett storskaligt folkutbyte. Det måste finnas en stark majoritetskultur\", säger Mette Frederiksen.\nhttps://www.bt.dk/debat/mette-frederiksen-i-borgerlig-tabloid-jeg-er-ikke-tilhaenger-af-en-befolkningsudskiftning"
     },
     {
       "author_name": "CNEWS",
