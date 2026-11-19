@@ -1,13 +1,13 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-19 23:20",
-  "period": "du 2026-11-18 23:20 au 2026-11-19 23:20",
-  "new_period": "du 2026-11-19 20:00 au 2026-11-19 23:20",
-  "context_period": "du 2026-11-18 23:20 au 2026-11-19 20:00",
+  "generated_at": "2026-11-19 23:50",
+  "period": "du 2026-11-18 23:50 au 2026-11-19 23:50",
+  "new_period": "du 2026-11-19 20:00 au 2026-11-19 23:50",
+  "context_period": "du 2026-11-18 23:50 au 2026-11-19 20:00",
   "coverage_complete": true,
-  "new_count": 215,
-  "context_count": 1438,
+  "new_count": 226,
+  "context_count": 1419,
   "duplicates_merged": 88,
   "empty_removed": 8,
   "new": [
@@ -1068,7 +1068,10 @@
     {
       "author_name": "Le Parisien",
       "published_at": "2026-11-19 23:09",
-      "text": "« Je quitte le mouvement » : Yannick Jadot claque la porte des Écologistes https://l.leparisien.fr/9FFG"
+      "text": "« Je quitte le mouvement » : Yannick Jadot claque la porte des Écologistes https://l.leparisien.fr/9FFG",
+      "also_by": [
+        "Le Parisien | politique"
+      ]
     },
     {
       "author_name": "Frontières",
@@ -1103,126 +1106,76 @@
     {
       "author_name": "Le Parisien | politique",
       "published_at": "2026-11-19 23:16",
-      "text": "Donald Trump accusé de s’être assoupi pendant le discours de Xi Jinping lors du sommet en Chine\n➡️ https://l.leparisien.fr/Hfsb"
-    },
-    {
-      "author_name": "Jean-Yves Le Gallou",
-      "published_at": "2026-11-19 23:19",
-      "text": "[Retweet de @marc_vanguard] 1️⃣ Ce n'est pas un cliché : le niveau des élèves du privé est clairement supérieur à celui mesuré dans le public.\n\n👉 Un élève de 4e en public dans l'éducation prioritaire a en moyenne le niveau en lecture d'un élève de 6e dans le privé ⬇️"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-18 23:20",
-      "text": "«La France sera le deuxième pays le plus endetté sur la décennie 2017-2027», avance François Pierrard, directeur général de l’Observatoire Hexagone, dans #SoirInfo\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-18 23:21",
-      "text": "[Retweet de @MLP_officiel] Il est parfaitement normal qu’un pays défende ses intérêts.\n\nJe parle le langage des nations, Emmanuel Macron parle le langage de l’Union européenne. Ce n’est pas le même langage."
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-18 23:21",
-      "text": "[Retweet de @MLP_officiel] Nous avons vraiment besoin de partenariats avec l’Inde. Un partenariat, ce n’est pas seulement la France qui vend à l’Inde.\n\nNotre vision commune rend les partenariats à la fois plus riches et plus efficaces."
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-18 23:21",
-      "text": "[Retweet de @MLP_officiel] Dans l’histoire de France, des femmes ont évidemment joué un rôle fondamental.\n\nIl ne faut pas penser que les Français n’ont pas la volonté d’élire une femme. Aujourd’hui, il est possible que cela arrive."
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-18 23:21",
-      "text": "[Retweet de @MLP_officiel] Les femmes se sous-estiment souvent et les hommes se surestiment parfois.\n\nLes femmes doivent avoir confiance en elles, défendre leur place et arrêter de penser qu’il leur faut plus de diplômes que les hommes pour réussir."
-    },
-    {
-      "author_name": "Le Point",
-      "published_at": "2026-11-18 23:25",
-      "text": "Chant de révolte, hymne, geai moqueur… Lors des récentes manifestations comme sur les réseaux sociaux, la saga dystopique de Suzanne Collins fournit des symboles à la jeunesse mobilisée.\n➡️ https://l.lepoint.fr/Z54"
-    },
-    {
-      "author_name": "Alain Weber",
-      "published_at": "2026-11-18 23:27",
-      "text": "Sacré @realmarcel1, jamais à l’abri d’une connerie, jamais à l’abri d’une sortie profondément antisémite, jamais à l’abri d’une nazification de ceux qui ont le mauvais goût de ne pas partager son avis, les sots…\n[Cite @BanonTristane] Évidemment qu’il est toujours en ligne…et tiens-toi bien chou, il le restera longtemps! \nAllez, bonne lecture, j’attends ta plainte!🫶🏼\n\nhttps://www.lesechos.fr/weekend/chroniques/reseau-sociaux-un-enseignant-derriere-le-compte-antisemite-realmarcel-2263048"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-18 23:27",
-      "text": "«Jean Dujardin témoigne d'un certain malaise de beaucoup de Français», souligne Karima Brikh, journaliste, dans #SoirInfo\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Cercle Aristote",
-      "published_at": "2026-11-18 23:27",
-      "text": "Encore aujourd’hui, l’histoire de Brigitte et Emmanuel est présentée comme une histoire d’amour. Sortez les mouchoirs braves gens. Quelle belle histoire !\n\nChangeons un peu l’histoire : imaginons un ouvrier de chez Renault de 39 ans, qui tombe amoureux d’une stagiaire de 15 ans,"
-    },
-    {
-      "author_name": "Identité Libertés",
-      "published_at": "2026-11-18 23:28",
-      "text": "[Retweet de @_AgnesMarion] Après Raphaël Arnault il y a 15 jours, c'est au tour de Rima Hassan d'être annoncée à #Lyon. Neuf mois après la mort de #Quentin, à 2 kms du lieu de son supplice, et alors même que les révélations de @linfiltremedia les mettent toujours plus en cause. Ces gens sont nés avant la"
-    },
-    {
-      "author_name": "Alain Weber",
-      "published_at": "2026-11-18 23:28",
-      "text": "[Retweet de @celine_pina] Chez les miliciens de la Jeune garde, quand on tabasse quelqu’un à mort, on n’a pas de remords. On gère juste les désagréments politiques générés. Et il y a des gens qui se croient honorables qui votent LFI…"
-    },
-    {
-      "author_name": "Alain Weber",
-      "published_at": "2026-11-18 23:29",
-      "text": "[Retweet de @dr_l_alexandre] Tao Lin, chercheur chez @AnthropicAI estime qu’à cause de l’IA  « Le travail humain disparaîtra. La quasi-totalité des humains sur Terre deviendront définitivement inemployables. »\n\nVous êtes d’accord ?",
-      "also_by": [
-        "Damien Rieu"
-      ]
-    },
-    {
-      "author_name": "Alain Weber",
-      "published_at": "2026-11-18 23:29",
-      "text": "[Retweet de @brivael] Est-ce que quand tu te sens mal, tu vas chercher une nouvelle subvention ?"
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-18 23:30",
-      "text": "«Il faut retrouver la croissance, laisser la liberté d'entreprendre», a réagi Sophie de Menthon dans Bienvenue en IDF. L'entrepreneuse française est revenue sur les mobilisations des entreprises ces derniers jours. Pour elle, le mot «entreprise» est absent dans le débat public."
-    },
-    {
-      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
-      "published_at": "2026-11-18 23:30",
-      "text": "[Retweet de @dannyconversano] Juste en passant, je vous annonce que je vais essayer de déplacer une partie de ma communauté vidéo sur KICK, Youtube m'a encore viré une vidéo pour une broutille même pas illégale (100% certain de gagner au Tribunal si on m'y traînait pour ça) ; leurs conditions d'utilisation"
-    },
-    {
-      "author_name": "Alain Weber",
-      "published_at": "2026-11-18 23:33",
-      "text": "@JPatrierLeitus est bien indulgent avec @marinetondelier, il parle de capitulation, j’y verrais plutôt une gourmande collaboration… quelques sièges aux législatives…\n[Cite @JPatrierLeitus] 🚨La capitulation!"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-18 23:37",
-      "text": "GTA VI : les candidats à la présidentielle surfent sur le phénomène pour faire campagne https://www.cnews.fr/france/2026-11-18/gta-vi-les-candidats-la-presidentielle-surfent-sur-le-phenomene-pour-faire"
-    },
-    {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-18 23:39",
-      "text": "À Caracas, le chef du Pentagone annonce un accord de coopération militaire avec le Venezuela\n➡️ https://l.leparisien.fr/BNh6",
+      "text": "Donald Trump accusé de s’être assoupi pendant le discours de Xi Jinping lors du sommet en Chine\n➡️ https://l.leparisien.fr/Hfsb",
       "also_by": [
         "Le Parisien"
       ]
     },
     {
-      "author_name": "ThinkerView",
-      "published_at": "2026-11-18 23:39",
-      "text": "[Retweet de @L_ThinkTank] ❗️ [ 🇷🇺 RUSSIE | 🇻🇳 VIETNAM ]\n\n🔸 La Russie déploie 2 bombardiers à capacité nucléaire au Vietnam pour la première fois depuis l'ère soviétique."
+      "author_name": "Jean-Yves Le Gallou",
+      "published_at": "2026-11-19 23:19",
+      "text": "[Retweet de @marc_vanguard] 1️⃣ Ce n'est pas un cliché : le niveau des élèves du privé est clairement supérieur à celui mesuré dans le public.\n\n👉 Un élève de 4e en public dans l'éducation prioritaire a en moyenne le niveau en lecture d'un élève de 6e dans le privé ⬇️"
     },
     {
-      "author_name": "Jon De Lorraine",
-      "published_at": "2026-11-18 23:39",
-      "text": "Et hop, -5% pour Edouard Philippe.\n[Cite @EPhilippe_LH] Ce matin, j’ai présenté le premier volet de mon programme. Je l’ai voulu massif, car l’heure est à la rupture, et sérieux, car la situation de la France l’exige.\n\nAvec le collectif des Voix de la campagne, nous irons le présenter partout en France. \n\nNous avons un seul objectif :"
+      "author_name": "Jean-Yves Le Gallou",
+      "published_at": "2026-11-19 23:20",
+      "text": "[Retweet de @BaptisteNatifs] Le centre-gauche danois plus courageux que \"l'extrême droite\" française..."
     },
     {
-      "author_name": "Valeurs actuelles",
-      "published_at": "2026-11-18 23:40",
-      "text": "🗞️ Le jeu GTA 6 sera en ligne ce 18 novembre à minuit. Violent et amoral, il s'annonce comme un phénomène de ventes à l'échelle planétaire.\nhttps://l.valeursactuelles.com/zMV"
+      "author_name": "Frontières",
+      "published_at": "2026-11-19 23:30",
+      "text": "« J’ai envie de quitter la voie publique à cause du manque de considération et de ce que l’État ne met pas en place. Ça devient très compliqué de rester motivé », témoigne un agent de la BAC.\n\n📺 Grand reportage - POLICIERS, MARTYRS DE LA RÉPUBLIQUE"
     },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-19 23:30",
+      "text": "L'avocate générale a requis jeudi six, cinq et quatre ans de prison.→https://l.lefigaro.fr/9RIO"
+    },
+    {
+      "author_name": "Civitas International",
+      "published_at": "2026-11-19 23:32",
+      "text": "[Retweet de @ecoleslibres] 🏫 📚 De 3 000 à 135 000 élèves, de 100 à 2 156 écoles hors contrat depuis 1994. Un essor, une liberté à défendre ! Les enfants n’appartiennent pas à l’État !\n\nRejoignez les Comités de défense des écoles libres !\ncomitesecoleslibres@gmail.com"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-19 23:33",
+      "text": "La Maison Blanche confisque les téléphones des journalistes à bord d’Air Force One\n➡️ https://l.leparisien.fr/lhLZ",
+      "also_by": [
+        "Le Parisien | politique"
+      ]
+    },
+    {
+      "author_name": "Tribune Populaire🌐",
+      "published_at": "2026-11-19 23:34",
+      "text": "Paris Match, toujours dans les bons coups pour redynamiser un début de campagne pas très réussi…\n\nÇa a marché avec Macron, alors ils se disent on tente aussi avec Teddy Riner.\n\nLogique. C'est macroniste."
+    },
+    {
+      "author_name": "Alain Weber",
+      "published_at": "2026-11-19 23:35",
+      "text": "Un petit moment de détente sur @BFMTV avec la couverture de @ParisMatch représentant Teddy Riner.\n\nDans ces moments dramatiques, un fou rire partagé, fait du bien…"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-19 23:42",
+      "text": "« Un pic de trafic jamais atteint » : comment la sortie de GTA 6 met les réseaux Internet français sous tension\n➡️ https://l.leparisien.fr/7Wmv"
+    },
+    {
+      "author_name": "Tribune Populaire🌐",
+      "published_at": "2026-11-19 23:45",
+      "text": "📂🇫🇷FLASH INFO - Le siège du RN perquisitionné après des soupçons de fuites au ministère de l’Intérieur !\n\nJulien Odoul, porte-parole du RN, ne souhaite \"pas communiquer sur cette affaire en cours\" pour l’instant.."
+    },
+    {
+      "author_name": "Alain Weber",
+      "published_at": "2026-11-19 23:46",
+      "text": "🚨🚨🚨 Attention, l’escalade commence : la Russie frappe l’ambassade néerlandaise à Kiev. \n\nLe 17 novembre, sept missiles de l’entreprise néerlandaise Destinus frappent le pont de Crimée avec l’assistance technique de ses employés.\n\nLe 18 novembre, Moscou interpelle"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-19 23:48",
+      "text": "Le suspect a reconnu \"partiellement\" les faits https://mrf.lu/2MmNJ"
+    }
+  ],
+  "context": [
     {
       "author_name": "CNEWS",
       "published_at": "2026-11-18 23:50",
@@ -1487,6 +1440,11 @@
       "also_by": [
         "Le Parisien | politique"
       ]
+    },
+    {
+      "author_name": "Cercle Aristote",
+      "published_at": "2026-11-19 04:50",
+      "text": "[Retweet de @Cercle_Aristote] Encore aujourd’hui, l’histoire de Brigitte et Emmanuel est présentée comme une histoire d’amour. Sortez les mouchoirs braves gens. Quelle belle histoire !\n\nChangeons un peu l’histoire : imaginons un ouvrier de chez Renault de 39 ans, qui tombe amoureux d’une stagiaire de 15 ans,"
     },
     {
       "author_name": "Thaïs d’Escufon",
@@ -3451,6 +3409,11 @@
       "author_name": "Frontières",
       "published_at": "2026-11-19 10:16",
       "text": "🚨 Jean-Luc MÉLENCHON appelle à SÉVÈREMENT PUNIR les POLICIERS qui ont MANIFESTÉ devant BEAUVAU. (Le Figaro)"
+    },
+    {
+      "author_name": "Damien Rieu",
+      "published_at": "2026-11-19 10:17",
+      "text": "[Retweet de @dr_l_alexandre] Tao Lin, chercheur chez @AnthropicAI estime qu’à cause de l’IA  « Le travail humain disparaîtra. La quasi-totalité des humains sur Terre deviendront définitivement inemployables. »\n\nVous êtes d’accord ?"
     },
     {
       "author_name": "Samuel Lafont",
