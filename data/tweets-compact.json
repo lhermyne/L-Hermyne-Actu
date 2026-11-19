@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-19 04:15",
-  "period": "du 2026-11-18 04:15 au 2026-11-19 04:15",
-  "new_period": "du 2026-11-18 20:00 au 2026-11-19 04:15",
-  "context_period": "du 2026-11-18 04:15 au 2026-11-18 20:00",
+  "generated_at": "2026-11-19 04:45",
+  "period": "du 2026-11-18 04:45 au 2026-11-19 04:45",
+  "new_period": "du 2026-11-18 20:00 au 2026-11-19 04:45",
+  "context_period": "du 2026-11-18 04:45 au 2026-11-18 20:00",
   "coverage_complete": true,
-  "new_count": 297,
-  "context_count": 1501,
-  "duplicates_merged": 99,
+  "new_count": 298,
+  "context_count": 1499,
+  "duplicates_merged": 98,
   "empty_removed": 10,
   "new": [
     {
@@ -1561,22 +1561,14 @@
       "also_by": [
         "Le Parisien | politique"
       ]
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-18 04:23",
-      "text": "« Il est lucide et conscient » : le cacique brésilien Raoni a quitté l’hôpital après cinq jours de soins\n➡️ https://l.leparisien.fr/dYMR"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-18 04:26",
-      "text": "« Ils ont confirmé leur étroite coopération » : la Première ministre japonaise a rencontré Donald Trump avant le sommet US-Chine-Russie\n➡️ https://l.leparisien.fr/Rbkc",
-      "also_by": [
-        "Le Parisien | politique"
-      ]
-    },
+      "published_at": "2026-11-19 04:24",
+      "text": "« Il était un très grand patron » : Bertrand Méheut, ancien président de Canal +, décède lors d’un « voyage à l’étranger »\n➡️ https://l.leparisien.fr/WdOg"
+    }
+  ],
+  "context": [
     {
       "author_name": "Le Parisien",
       "published_at": "2026-11-18 04:48",

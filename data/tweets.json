@@ -1,14 +1,27 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-19T03:15:40.131Z",
+  "updated_at": "2026-11-19T03:45:45.921Z",
   "window_hours": 24,
-  "window_start": "2026-11-18T03:15:40.131Z",
+  "window_start": "2026-11-18T03:45:45.921Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1907,
+  "count": 1905,
   "tweets": [
+    {
+      "id": "2123256145557258616",
+      "created_at": "2026-11-19T03:24:47.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "« Il était un très grand patron » : Bertrand Méheut, ancien président de Canal +, décède lors d’un « voyage à l’étranger »\n➡️ https://l.leparisien.fr/WdOg",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2123256145557258616"
+    },
     {
       "id": "2123250441668730888",
       "created_at": "2026-11-19T03:02:08.000Z",
@@ -24760,45 +24773,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/le_Parisien/status/2122899608192139487"
-    },
-    {
-      "id": "2122896147610243086",
-      "created_at": "2026-11-18T03:34:17.000Z",
-      "author": "leparisien_pol",
-      "author_name": "Le Parisien | politique",
-      "type": "tweet",
-      "text": "« Ils ont confirmé leur étroite coopération » : la Première ministre japonaise a rencontré Donald Trump avant le sommet US-Chine-Russie\n➡️ https://l.leparisien.fr/ZkRq",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/leparisien_pol/status/2122896147610243086"
-    },
-    {
-      "id": "2122894307216547995",
-      "created_at": "2026-11-18T03:26:58.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "« Ils ont confirmé leur étroite coopération » : la Première ministre japonaise a rencontré Donald Trump avant le sommet US-Chine-Russie\n➡️ https://l.leparisien.fr/Rbkc",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2122894307216547995"
-    },
-    {
-      "id": "2122893361694577011",
-      "created_at": "2026-11-18T03:23:13.000Z",
-      "author": "leparisien_pol",
-      "author_name": "Le Parisien | politique",
-      "type": "tweet",
-      "text": "« Il est lucide et conscient » : le cacique brésilien Raoni a quitté l’hôpital après cinq jours de soins\n➡️ https://l.leparisien.fr/dYMR",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/leparisien_pol/status/2122893361694577011"
     }
   ]
 }
