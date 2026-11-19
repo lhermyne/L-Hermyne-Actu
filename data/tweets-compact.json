@@ -1,13 +1,13 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-19 02:45",
-  "period": "du 2026-11-18 02:45 au 2026-11-19 02:45",
-  "new_period": "du 2026-11-18 20:00 au 2026-11-19 02:45",
-  "context_period": "du 2026-11-18 02:45 au 2026-11-18 20:00",
+  "generated_at": "2026-11-19 03:15",
+  "period": "du 2026-11-18 03:15 au 2026-11-19 03:15",
+  "new_period": "du 2026-11-18 20:00 au 2026-11-19 03:15",
+  "context_period": "du 2026-11-18 03:15 au 2026-11-18 20:00",
   "coverage_complete": true,
-  "new_count": 292,
-  "context_count": 1507,
+  "new_count": 296,
+  "context_count": 1505,
   "duplicates_merged": 99,
   "empty_removed": 10,
   "new": [
@@ -1527,22 +1527,32 @@
       "author_name": "Le Parisien",
       "published_at": "2026-11-19 02:42",
       "text": "🔵 Info Le Parisien | L’auteur présumé du tir de mortier contre la députée LFI Farida Amrani à Évry a été interpellé et placé en garde à vue\n\nIl s’est livré à la police ce mercredi après-midi ➡️ https://l.leparisien.fr/z98t"
-    }
-  ],
-  "context": [
+    },
+    {
+      "author_name": "Alain Weber",
+      "published_at": "2026-11-19 02:46",
+      "text": "Mais c’est trop tard, Monsieur Breton, et vous le savez. Vous essayez de sauver les apparences, mais plus personne n’est dupe…\n\nPendant que vous, par pure idéologie et pour avoir les voix des écolos, vous fermiez Fessenheim et les allemands toutes leurs centrales,\n\nPendant que\n[Cite @ThierryBreton] Face à Trump, Poutine et Xi Jinping, il est absolument indispensable que les Européens soient unis. \n\nJe ne vois pas beaucoup d’avenir à un pays isolé dans ce monde brutal."
+    },
     {
       "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-18 03:00",
-      "text": "Guerre au Moyen-Orient : les États-Unis visent une île iranienne, Téhéran réplique en ciblant des pays du Golfe\n➡️ https://l.leparisien.fr/tQ92",
+      "published_at": "2026-11-19 02:50",
+      "text": "« Je ne suis pas MAGA », « je me sens bête d’avoir dépensé autant d’argent » : Elon Musk prend ses distances d’avec Donald Trump\n➡️ https://l.leparisien.fr/Uprp",
       "also_by": [
         "Le Parisien"
       ]
     },
     {
-      "author_name": "Le Point",
-      "published_at": "2026-11-18 03:00",
-      "text": "« Jupiter », « Hunger Games », « Les Braves », « Camembert », « Fais-moi un signe », « Gabin »...\n\n➡️ https://l.lepoint.fr/mYT\nPar @WACHTHAUSEN"
+      "author_name": "Alain Weber",
+      "published_at": "2026-11-19 02:54",
+      "text": "[Retweet de @BierunZ] @alainpaulweber Souvenir du massacre du marché de Noël à Magdebourg en 🇩🇪 en 2024 par le Saoudien Taleb al-Abdulmohsen\nCondamné à la réclusion à perpétuité le 26 juin 2026\n6 morts et plus de 300 blessés, certains mutilés à vie\nAndré, 9 ans y était venu en famille\n@Riposte_R @brivael @starsky007"
     },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-19 03:14",
+      "text": "« Il ment » : Elon Musk s’en prend à Volodymyr Zelensky au sujet de limitations de Starshield en Ukraine\n➡️ https://l.leparisien.fr/kKvY"
+    }
+  ],
+  "context": [
     {
       "author_name": "Damien Rieu",
       "published_at": "2026-11-18 03:43",
