@@ -1,13 +1,13 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-19 06:16",
-  "period": "du 2026-11-18 06:16 au 2026-11-19 06:16",
-  "new_period": "du 2026-11-18 20:00 au 2026-11-19 06:16",
-  "context_period": "du 2026-11-18 06:16 au 2026-11-18 20:00",
+  "generated_at": "2026-11-19 06:46",
+  "period": "du 2026-11-18 06:46 au 2026-11-19 06:46",
+  "new_period": "du 2026-11-18 20:00 au 2026-11-19 06:46",
+  "context_period": "du 2026-11-18 06:46 au 2026-11-18 20:00",
   "coverage_complete": true,
-  "new_count": 302,
-  "context_count": 1480,
+  "new_count": 335,
+  "context_count": 1460,
   "duplicates_merged": 92,
   "empty_removed": 10,
   "new": [
@@ -1589,125 +1589,180 @@
       "author_name": "Sud Radio",
       "published_at": "2026-11-19 05:30",
       "text": "📈💰Les salaires des grands patrons du CAC40 en hausse de 16% en 2025, est-ce acceptable ou indécent ?\n\nVotre avis nous intéresse dans le #GrandMatin ! Réagissez en commentaires."
-    }
-  ],
-  "context": [
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-19 05:49",
+      "text": "Grenades, fusils et… produits radioactifs : le troublant arsenal d’un habitant de Saint-Malo\n➡️ https://l.leparisien.fr/N0Jl"
+    },
     {
       "author_name": "Sud Radio",
-      "published_at": "2026-11-18 06:20",
-      "text": "🔵 #Presidentielle2027 : Marine Le Pen dévoile sa réforme des retraites à un an de l'élection\n\nhttps://www.sudradio.fr/societe/travailler-plus-partir-plus-tot-le-pen-promet-de-reformer-les-retraites-des-son-arrivee-au-pouvoir"
+      "published_at": "2026-11-19 05:50",
+      "text": "🚆Le gouvernement loue 27 locomotives neuves pour relancer les trains de nuit\n\nhttps://www.sudradio.fr/societe/trains-de-nuit-letat-va-louer-des-locomotives-neuves-et-renover-les-vieux-corail-de-la-sncf"
     },
     {
-      "author_name": "Le Point",
-      "published_at": "2026-11-18 06:20",
-      "text": "FOG – La stratégie secrète de Mélenchon, alchimiste de la révolution\n\n🖋️ L'ÉDITO de @fogiesbert https://l.lepoint.fr/vsc"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-18 06:21",
-      "text": "Des précipitations importantes. ➡️ https://mrf.lu/2wXbH"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-18 06:22",
-      "text": "Retraites : la droite et le centre critiquent le plan présenté par Marine Le Pen https://ow.ly/nvpB106IV96"
-    },
-    {
-      "author_name": "JDNews",
-      "published_at": "2026-11-18 06:23",
-      "text": "Plan épargne retraite : la bonne idée pour compléter sa pension ? https://ow.ly/EMEO106IV9m",
-      "also_by": [
-        "Le JDD"
-      ]
+      "author_name": "Ni Oubli Ni Pardon",
+      "published_at": "2026-11-19 05:50",
+      "text": "10/2022 Stephen Colbert, présentateur de l’émission The Late Show, accompagne son invité, le Dr Anthony Fauci, à la pharmacie d’à côté, pour recevoir son rappel COVID, afin de démontrer que le vaccin est sûr et sans puce électronique ! #SpécialUS🇺🇸"
     },
     {
       "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-18 06:24",
-      "text": "Guerre en Ukraine : la Russie utiliserait des rapports falsifiés et une ligne de front fictive pour peser sur les négociations\n➡️ https://l.leparisien.fr/quQJ"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-18 06:28",
-      "text": "Alicia Keys, John Legend et plein d’autres… Jay-Z constitue un casting de rêve pour le show de la mi-temps du Super Bowl\n➡️ https://l.leparisien.fr/bOI7"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-18 06:28",
-      "text": "Une nouvelle étape dans sa campagne. ➡️ https://mrf.lu/2wXHp"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-18 06:29",
-      "text": "Sophie Binet refuse de parler à CNEWS mais cette dernière a répondu à une chaîne d'information libanaise proche de Bachar al-Assad. Pour Yoann Usaï, journaliste, «cela en dit long sur le personnage», dans #LaMatinale\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-18 06:30",
-      "text": "Pierre Moscovici favorable à une réforme des retraites.→https://l.lefigaro.fr/6kBf"
-    },
-    {
-      "author_name": "Quenel+",
-      "published_at": "2026-11-18 06:31",
-      "text": "[Retweet de @MbalaDieudo] Rendez-vous compte que des gens condamnés pour corruption, vol, viol, pédophilie, voire pire (et c’est déjà pas mal), n’ont aucun problème à louer des salles, souvent gratuitement... aux frais de l’État !\n\nEt moi, même en fusionnant toutes mes condamnations en tant qu’humoriste,"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-18 06:33",
-      "text": "💬 «On a souvent eu le sentiment que les rôles étaient inversés, les victimes accusées de s’enrichir sur le dos des assureurs»\n\nAu procès de l'explosion de la rue de Trévise, qui a fait 4 morts et 224 blessés, les parties civiles ont dénoncé la maltraitance des assureurs,"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-18 06:35",
-      "text": "Gérald Darmanin a déclaré que «Jean-Luc Mélenchon, face à Marine Le Pen, gagnera l'élection». Pour le journaliste, Yoann Usaï, «le ministre de la Justice veut faire peur et mettre la pression sur le bloc central», dans #LaMatinale"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-18 06:36",
-      "text": "Epuisés par le mouvement lycéen, les CRS posent le bouclier https://ow.ly/lvSN106IVay"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-18 06:36",
-      "text": "La course à l'atome. ➡️ https://mrf.lu/2wXVJ"
-    },
-    {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-18 06:37",
-      "text": "« Honteux et humilié » : un ex-ami de Will Smith l’accuse d’agression sexuelle et le poursuit en justice aux États-Unis\n➡️ https://l.leparisien.fr/WdOH",
+      "published_at": "2026-11-19 05:51",
+      "text": "Le ton monte entre le Yemen et l’Arabie saoudite, les capitales Sanaa et Riyad visées par des frappes\n➡️ https://l.leparisien.fr/orPz",
       "also_by": [
         "Le Parisien"
       ]
     },
     {
-      "author_name": "L'Express",
-      "published_at": "2026-11-18 06:38",
-      "text": "L'économiste de l'université de Berkeley décortique pour L'Express les mesures économiques proposées par le candidat de La France insoumise. \"Un programme qui n’a rien à envier aux régimes...\n\n➡️ https://l.lexpress.fr/LZL"
+      "author_name": "Alain Weber",
+      "published_at": "2026-11-19 05:52",
+      "text": "HA : Bukele, quinze jours pour faire mieux que l’ONU en trente ans !\n\nQuelle formidable leçon d’efficacité et de détermination le président salvadorien est en train d’infliger à la communauté internationale !\n😄\nAvec quelque 2 500 militaires, Nayib Bukele a engagé une véritable"
     },
     {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-18 06:39",
-      "text": "💰Crédits municipaux : les Français se tournent de plus en plus vers le prêt sur gage\n\n🗣️Caroline de Santis (directrice commerciale crédit municipal de Nîmes) : \"Retraités, étudiants... Une augmentation de 35% de clients par rapport à 2025\" #PetitMatin\n\n📻https://www.sudradio.fr/"
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-19 06:00",
+      "text": "Face aux menaces venant de Russie ou d’Iran, les autorités doivent se préparer aux scénarios les plus noirs. Le ministère de l’Intérieur a joué un premier exercice d’attaques ce mercredi dans l’Hérault. →https://l.lefigaro.fr/x9RQ"
+    },
+    {
+      "author_name": "L'Express",
+      "published_at": "2026-11-19 06:01",
+      "text": "Treize ans d’attente pour les fans, un marketing XXL et des milliards de dollars de recettes attendues… Le professeur et analyste expert du monde vidéoludique, Joost van Dreunen, décrypte...\n\n➡️ https://l.lexpress.fr/ps1"
     },
     {
       "author_name": "Europe 1",
-      "published_at": "2026-11-18 06:40",
-      "text": "🔵 [LA QUESTION DU JOUR]: Entre 60 et 62 ans comme le propose le RN : est-ce le bon âge pour partir à la retraite ?\nRépondez ici : https://ow.ly/bCve50Ybq9T"
+      "published_at": "2026-11-19 06:03",
+      "text": "Sondage - 69% des Français ne font pas confiance au gouvernement pour garantir l’ordre public https://ow.ly/PIzS106IZ9g"
+    },
+    {
+      "author_name": "Causeur.fr",
+      "published_at": "2026-11-19 06:04",
+      "text": "\"Cliveden, grâce à son festival, est devenu un haut lieu littéraire. On peut y observer l’aristocratie britannique, encore debout malgré les scandales et la disparition de l’Empire. Jeunes loups de Reform, tories vieillissants et cabillaud tiède sont au menu. Le déclin, certes,"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-19 06:05",
+      "text": "🎙️ Votez ici. ➡️ https://mrf.lu/2MT7X"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-19 06:08",
+      "text": "⚽️Ligue des champions féminine : le PSG s'incline face à Chelsea à Londres\n\nLes chances de qualification des Parisiennes sont de plus en plus compromises\nhttps://www.sudradio.fr/sport-rugby/sport/ligue-des-champions-feminine-denouement-cruel-mais-pas-immerite-pour-le-psg-a-chelsea"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-19 06:09",
+      "text": "📰 La une du Parisien du 19 novembre\n\n➡️ https://l.leparisien.fr/gyEp"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-19 06:16",
+      "text": "🔴 Suivez notre direct. ➡️ https://mrf.lu/2MTW0"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-19 06:18",
+      "text": "Plus d'un électeur sur trois dit qu'il n'irait pas voter en cas de second tour Mélenchon-Le Pen, selon un sondage, qui rapporte une abstention jamais vue pour une finale présidentielle.\n\nAvec ce duel, 38 % des sondés ne se déplaceraient pas ➡️ https://l.leparisien.fr/XoXf"
     },
     {
       "author_name": "Alain Weber",
-      "published_at": "2026-11-18 06:43",
-      "text": "Le naufrage du gauchisme universitaire…\n\nEn lisant les revendications des étudiants grévistes de la Sorbonne Nouvelle, j’ai d’abord cru à un gag. \n\nHélas, il semblerait que ces gens soient parfaitement sérieux.\n\nEntendons-nous bien, par sérieux je veux dire qu’ils ne\n[Cite @denisedetralala] Les revendications des étudiants grévistes de l'Université Sorbonne Nouvelle (Paris 3) sont proprement stupéfiantes et inadmissibles  @PhBaptiste. À en juger par un tract distribué sur le campus, ils exigent notamment :\n\n- La mise sous tutelle de l'université : supprimer"
+      "published_at": "2026-11-19 06:19",
+      "text": "[Retweet de @paul_amar2] « Khmers Rouges »"
+    },
+    {
+      "author_name": "Ministère des Armées et des Anciens combattants",
+      "published_at": "2026-11-19 06:20",
+      "text": "[Retweet de @EtatMajorFR] 🌊 Du cercle Arctique à la Méditerranée, l'OTAN veille au quotidien à la défense des approches de l'Alliance ⚓\n \nRetour sur la mission d'un patrouilleur de haute mer 🇫🇷 déployé avec son drone embarqué en Baltique dans le cadre de l'opération de l'OTAN Baltic Sentry 🚢\n \n🔍"
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-19 06:23",
+      "text": "À son arrivée en Chine, la délégation de Vladimir Poutine exhibe sa « valise nucléaire » à la télévision russe\n➡️ https://l.leparisien.fr/z98q",
+      "also_by": [
+        "Le Parisien"
+      ]
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-19 06:24",
+      "text": "Rencontre Trump-Xi-Poutine : nouveau Yalta à Shenzen ? Sueurs froides dans les chancelleries européennes https://ow.ly/SATm106IZef"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-18 06:43",
-      "text": "Alors que la statue de la Vierge à Porto-Vecchio a été profanée le 1er octobre dernier, le motif antireligieux n'a pas été retenu par le parquet. Une incompréhension pour le maire de Porto-Vecchio, Jean-Christophe Angelini, dans #LaMatinale"
+      "published_at": "2026-11-19 06:29",
+      "text": "Un examen de deux semaines. ➡️ https://mrf.lu/2MTJ3"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-19 06:31",
+      "text": "🔵 [LA QUESTION DU JOUR]: Êtes-vous choqué que Jean-Luc Mélenchon veuille amnistier tous les casseurs ?\nRépondez ici : https://ow.ly/bCve50Ybq9T"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-19 06:34",
+      "text": "Face au couac de la primaire de la droite et du centre, Édouard Philippe croit en sa stratégie https://ow.ly/sQ2I106IZmj"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-18 06:44",
-      "text": "Une affaire particulièrement glaçante. ➡️ https://mrf.lu/2wXw2"
+      "published_at": "2026-11-19 06:34",
+      "text": "Yoann Usaï, journaliste politique CNEWS, sur une campagne publicitaire polémique à Paris : «La mairie de Paris n'a qu'à développer, armer la police municipale et renforcer la sécurité dans les transports», dans #LaMatinale\n\nToute l'info est à retrouver sur https://cnews.fr"
     },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-19 06:34",
+      "text": "Yoann Usaï réagit à la proposition de LFI concernant les violences dans les lycées : «C'est une incitation à recommencer, un permis pour aller toujours plus loin dans les violences» #LaMatinale\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "L'Express",
+      "published_at": "2026-11-19 06:35",
+      "text": "Pour cet expert reconnu de la politique étrangère russe, le chef du Kremlin ne cherche pas réellement à discuter de l'architecture de sécurité européenne pour le moment. La rencontre tripartite...\n\n➡️ https://l.lexpress.fr/P4u https://l.lexpress.fr/P4u"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-19 06:37",
+      "text": "Budget européen : le tour de passe-passe d’Antonio Costa pour arracher un accord avant Noël\n\nPar @Eberretta https://l.lepoint.fr/Th8"
+    },
+    {
+      "author_name": "Le Crapaud",
+      "published_at": "2026-11-19 06:37",
+      "text": "GTA VI est sorti et le monde semble s'arrêter pour ceux qui n'y jouent pas (comme moi)"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-19 06:39",
+      "text": "Les faits remontent à 2020. ➡️ https://mrf.lu/2MtTh"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-19 06:40",
+      "text": "Gérard Nouchi, commerçant pillé le 17 octobre à Marseille : «Depuis le 17 octobre, on ne voit rien venir. Les aides ne sont pas arrivées. On est seuls», dans #LaMatinale\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-19 06:43",
+      "text": "Harold Hyman, journaliste international CNEWS : «La Russie est très dépendante du commerce ordinaire avec la Chine», dans #LaMatinale\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-19 06:43",
+      "text": "Vents violents : voici les 52 départements placés en vigilance jaune ce jeudi https://www.cnews.fr/france/2026-11-19/vents-violents-voici-les-52-departements-places-en-vigilance-jaune-ce-jeudi"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-19 06:45",
+      "text": "[Retweet de @nikitakarachoi] @NicolasBastuck @LePoint « Le parquet s’acharne contre moi » : l’avocate Marie Dosé s’explique sur l’affaire Caubère https://www.lepoint.fr/societe/le-parquet-sacharne-contre-moi-lavocate-marie-dose-sexplique-sur-laffaire-caubere-STHPJXE64JC4BADGYJI7TJ7OS4/ #Société via @LePoint"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-19 06:45",
+      "text": "⛽️ Stations-service indépendantes : \"Le gouvernement a organisé un suicide collectif. 300 à 500 stations vont mourir\"\n\n🗣️Jacques Vaysse (@FNA_artisanauto) : \"La situation est catastrophique. @RolandLescure a été étonné que l'aide ne marche pas partout\" #GrandMatin"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-19 06:45",
+      "text": "Shanhui Zhang, depuis la Chine, affirme que : «La Chine ne cherche pas à être une ultrapuissance du monde, elle cherche à être une plate-forme qui rassemble» #LaMatinale\n\nToute l'info est à retrouver sur https://cnews.fr"
+    }
+  ],
+  "context": [
     {
       "author_name": "Sud Radio",
       "published_at": "2026-11-18 06:48",
@@ -1753,6 +1808,11 @@
       "author_name": "Sud Radio",
       "published_at": "2026-11-18 06:54",
       "text": "💵Peut-on parler salaire entre collègues sans créer de la discorde ?\n\n🗣️\"Faire de la pédagogie\", \"garder la confidence\"... les explications de @pymtwit #PetitMatin\n\n📻https://www.sudradio.fr/"
+    },
+    {
+      "author_name": "Le JDD",
+      "published_at": "2026-11-18 06:55",
+      "text": "Plan épargne retraite : la bonne idée pour compléter sa pension ? https://ow.ly/EMEO106IV9m"
     },
     {
       "author_name": "Marc Vanguard",
@@ -4133,6 +4193,14 @@
       "author_name": "CNEWS",
       "published_at": "2026-11-18 11:19",
       "text": "Mobilisation des policiers : «L'État a également perdu le contrôle de son propre bouclier républicain», déclare Ivan Rioufol, journaliste, dans #100Frontieres\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-18 11:19",
+      "text": "« Honteux et humilié » : un ex-ami de Will Smith l’accuse d’agression sexuelle et le poursuit en justice aux États-Unis\n➡️ https://l.leparisien.fr/rBZ9",
+      "also_by": [
+        "Le Parisien"
+      ]
     },
     {
       "author_name": "Le Figaro Culture",
