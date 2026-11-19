@@ -1,14 +1,27 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-19T01:27:14.997Z",
+  "updated_at": "2026-11-19T01:45:23.333Z",
   "window_hours": 24,
-  "window_start": "2026-11-18T01:27:14.997Z",
+  "window_start": "2026-11-18T01:45:23.333Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1909,
+  "count": 1908,
   "tweets": [
+    {
+      "id": "2123230399606276584",
+      "created_at": "2026-11-19T01:42:29.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "🔵 Info Le Parisien | L’auteur présumé du tir de mortier contre la députée LFI Farida Amrani à Évry a été interpellé et placé en garde à vue\n\nIl s’est livré à la police ce mercredi après-midi ➡️ https://l.leparisien.fr/z98t",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2123230399606276584"
+    },
     {
       "id": "2123222392004845606",
       "created_at": "2026-11-19T01:10:40.000Z",
@@ -24799,32 +24812,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/leparisien_pol/status/2122872546953707539"
-    },
-    {
-      "id": "2122867052431958069",
-      "created_at": "2026-11-18T01:38:40.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "Sketchs, vidéos sur les réseaux sociaux… Peut-on encore rire au détriment des enfants ?\n➡️ https://l.leparisien.fr/nDfP",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2122867052431958069"
-    },
-    {
-      "id": "2122865732249702817",
-      "created_at": "2026-11-18T01:33:26.000Z",
-      "author": "Bruno_Attal_",
-      "author_name": "Bruno Attal",
-      "type": "retweet",
-      "text": "Je porte plainte contre Aymeric Caron.\n\nDans le cadre de mon travail de journaliste, j’ai réalisé, à la suite des événements de Crépol, une émission donnant la parole à des victimes\ndu racisme anti-blanc.\n\nStop aux insultes et intimidations de la part de ce député.",
-      "retweeted_author": "christine_kelly",
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/Bruno_Attal_/status/2122865732249702817"
     }
   ]
 }
