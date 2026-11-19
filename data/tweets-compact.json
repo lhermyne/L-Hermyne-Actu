@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-19 01:45",
-  "period": "du 2026-11-18 01:45 au 2026-11-19 01:45",
-  "new_period": "du 2026-11-18 20:00 au 2026-11-19 01:45",
-  "context_period": "du 2026-11-18 01:45 au 2026-11-18 20:00",
+  "generated_at": "2026-11-19 02:15",
+  "period": "du 2026-11-18 02:15 au 2026-11-19 02:15",
+  "new_period": "du 2026-11-18 20:00 au 2026-11-19 02:15",
+  "context_period": "du 2026-11-18 02:15 au 2026-11-18 20:00",
   "coverage_complete": true,
-  "new_count": 287,
-  "context_count": 1511,
-  "duplicates_merged": 99,
+  "new_count": 291,
+  "context_count": 1510,
+  "duplicates_merged": 100,
   "empty_removed": 10,
   "new": [
     {
@@ -1499,14 +1499,32 @@
       "author_name": "Le Parisien",
       "published_at": "2026-11-19 01:40",
       "text": "🔵 Info Le Parisien | Un chirurgien de l’hôpital Bichat à Paris écroué, soupçonné d’avoir violé une pharmacienne lors d’une soirée d’internes ➡️ https://l.leparisien.fr/HfsK"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-19 01:52",
+      "text": "Action à 83 dollars, objectif 68 milliards… Malgré les remous dans l’IA, Anthropic vise haut pour son introduction en Bourse à New York\n➡️ https://l.leparisien.fr/ew0z",
+      "also_by": [
+        "Le Parisien | politique"
+      ]
+    },
+    {
+      "author_name": "François Asselineau 🇫🇷",
+      "published_at": "2026-11-19 01:56",
+      "text": "📺 Retrouvez\n𝗟𝗘 𝗗𝗜𝗥𝗘𝗖𝗧 𝗻°𝟭𝟯𝟱\nqui a eu lieu le\n𝗠𝗘𝗥𝗖𝗥𝗘𝗗𝗜 𝟭𝟴 𝗡𝗢𝗩𝗘𝗠𝗕𝗥𝗘 𝟮𝟬𝟮𝟲\nde 20h30 à 22h45\n----------\n⚠️ 𝘾𝙡𝙞𝙦𝙪𝙚𝙯 𝙞𝙘𝙞 ⤵️\nhttps://www.youtube.com/live/LIkQbykub9w?is=apymLymanUp_YR0Q\n=========="
+    },
+    {
+      "author_name": "Valeurs actuelles",
+      "published_at": "2026-11-19 02:07",
+      "text": "🗞️ La COP31 qui se déroule en ce moment – dans une indifférence notoire – à Antalya, en Turquie, vient d’opérer un changement de slogan stratégique : on ne parle plus de diminuer le recours aux énergies fossiles mais d’accélérer l’électrification du mond… https://l.valeursactuelles.com/V2b"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-19 02:10",
+      "text": "80 000 euros. C’est le prix de la nouvelle G-Shock, entièrement taillée dans le saphir. La montre incassable préférée de la pop culture joue désormais dans la cour des grands. Pourquoi Casio ose, et qui va craquer.\n\nPar @ArthurFryd\n➡️ https://l.lepoint.fr/zzD"
     }
   ],
   "context": [
-    {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-18 01:53",
-      "text": "« Ils flottent et viennent s’échouer sur le rivage » : des débris d’une fusée de SpaceX récupérés sur une plage du Mexique\n➡️ https://l.leparisien.fr/iLaK"
-    },
     {
       "author_name": "Le Parisien",
       "published_at": "2026-11-18 02:18",

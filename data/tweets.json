@@ -1,14 +1,79 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-19T00:45:12.246Z",
+  "updated_at": "2026-11-19T01:15:17.782Z",
   "window_hours": 24,
-  "window_start": "2026-11-18T00:45:12.246Z",
+  "window_start": "2026-11-18T01:15:17.782Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1907,
+  "count": 1911,
   "tweets": [
+    {
+      "id": "2123222392004845606",
+      "created_at": "2026-11-19T01:10:40.000Z",
+      "author": "LePoint",
+      "author_name": "Le Point",
+      "type": "tweet",
+      "text": "80 000 euros. C’est le prix de la nouvelle G-Shock, entièrement taillée dans le saphir. La montre incassable préférée de la pop culture joue désormais dans la cour des grands. Pourquoi Casio ose, et qui va craquer.\n\nPar @ArthurFryd\n➡️ https://l.lepoint.fr/zzD",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/LePoint/status/2123222392004845606"
+    },
+    {
+      "id": "2123221561943675117",
+      "created_at": "2026-11-19T01:07:22.000Z",
+      "author": "Valeurs",
+      "author_name": "Valeurs actuelles",
+      "type": "tweet",
+      "text": "🗞️ La COP31 qui se déroule en ce moment – dans une indifférence notoire – à Antalya, en Turquie, vient d’opérer un changement de slogan stratégique : on ne parle plus de diminuer le recours aux énergies fossiles mais d’accélérer l’électrification du mond… https://l.valeursactuelles.com/V2b",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/Valeurs/status/2123221561943675117"
+    },
+    {
+      "id": "2123218749977399463",
+      "created_at": "2026-11-19T00:56:12.000Z",
+      "author": "f_asselineau",
+      "author_name": "François Asselineau 🇫🇷",
+      "type": "tweet",
+      "text": "📺 Retrouvez\n𝗟𝗘 𝗗𝗜𝗥𝗘𝗖𝗧 𝗻°𝟭𝟯𝟱\nqui a eu lieu le\n𝗠𝗘𝗥𝗖𝗥𝗘𝗗𝗜 𝟭𝟴 𝗡𝗢𝗩𝗘𝗠𝗕𝗥𝗘 𝟮𝟬𝟮𝟲\nde 20h30 à 22h45\n----------\n⚠️ 𝘾𝙡𝙞𝙦𝙪𝙚𝙯 𝙞𝙘𝙞 ⤵️\nhttps://www.youtube.com/live/LIkQbykub9w?is=apymLymanUp_YR0Q\n==========",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/f_asselineau/status/2123218749977399463"
+    },
+    {
+      "id": "2123217763510735119",
+      "created_at": "2026-11-19T00:52:16.000Z",
+      "author": "leparisien_pol",
+      "author_name": "Le Parisien | politique",
+      "type": "tweet",
+      "text": "Action à 83 dollars, objectif 68 milliards… Malgré les remous dans l’IA, Anthropic vise haut pour son introduction en Bourse à New York\n➡️ https://l.leparisien.fr/fqD6",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/leparisien_pol/status/2123217763510735119"
+    },
+    {
+      "id": "2123217756141039690",
+      "created_at": "2026-11-19T00:52:15.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "Action à 83 dollars, objectif 68 milliards… Malgré les remous dans l’IA, Anthropic vise haut pour son introduction en Bourse à New York\n➡️ https://l.leparisien.fr/ew0z",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2123217756141039690"
+    },
     {
       "id": "2123214710732435481",
       "created_at": "2026-11-19T00:40:09.000Z",
@@ -24786,19 +24851,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/le_Parisien/status/2122862084212011473"
-    },
-    {
-      "id": "2122855724845867478",
-      "created_at": "2026-11-18T00:53:40.000Z",
-      "author": "leparisien_pol",
-      "author_name": "Le Parisien | politique",
-      "type": "tweet",
-      "text": "« Ils flottent et viennent s’échouer sur le rivage » : des débris d’une fusée de SpaceX récupérés sur une plage du Mexique\n➡️ https://l.leparisien.fr/iLaK",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/leparisien_pol/status/2122855724845867478"
     }
   ]
 }
