@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-19 05:15",
-  "period": "du 2026-11-18 05:15 au 2026-11-19 05:15",
-  "new_period": "du 2026-11-18 20:00 au 2026-11-19 05:15",
-  "context_period": "du 2026-11-18 05:15 au 2026-11-18 20:00",
+  "generated_at": "2026-11-19 05:45",
+  "period": "du 2026-11-18 05:45 au 2026-11-19 05:45",
+  "new_period": "du 2026-11-18 20:00 au 2026-11-19 05:45",
+  "context_period": "du 2026-11-18 05:45 au 2026-11-18 20:00",
   "coverage_complete": true,
-  "new_count": 300,
-  "context_count": 1497,
-  "duplicates_merged": 98,
+  "new_count": 302,
+  "context_count": 1494,
+  "duplicates_merged": 94,
   "empty_removed": 10,
   "new": [
     {
@@ -1579,42 +1579,23 @@
       "author_name": "Thaïs d’Escufon",
       "published_at": "2026-11-19 05:08",
       "text": "[Retweet de @AntonioTweets2] 🚨BREAKING: A French woman who was sexually assaulted in her own home by a Tunisian migrant received only a six-month suspended sentence and €3,000 fine for her attacker.\n\nAfter speaking out on national television, saying the main danger for women in France comes from Black"
+    },
+    {
+      "author_name": "Ni Oubli Ni Pardon",
+      "published_at": "2026-11-19 05:16",
+      "text": "12/2021 Igor Bogdanoff : « Nous pensons très sincèrement que Didier Raoult, dont le parcours scientifique est incontestable et supérieur à la plupart de ceux qui le critiquent, nous pensons qu'il détient des réponses. Parce que les molécules dont il parle, ce sont des molécules"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-19 05:30",
+      "text": "📈💰Les salaires des grands patrons du CAC40 en hausse de 16% en 2025, est-ce acceptable ou indécent ?\n\nVotre avis nous intéresse dans le #GrandMatin ! Réagissez en commentaires."
     }
   ],
   "context": [
     {
-      "author_name": "JDNews",
-      "published_at": "2026-11-18 05:17",
-      "text": "La droite française décryptée : le jeu des quatre familles https://ow.ly/95cL106IUTZ",
-      "also_by": [
-        "Le JDD"
-      ]
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-18 05:21",
-      "text": "« Il ne peut pas rester une minute de plus » : Benyamin Netanyahou, le coup tordu de trop\n➡️ https://l.leparisien.fr/WdOm",
-      "also_by": [
-        "Le Parisien | politique"
-      ]
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-18 05:27",
-      "text": "🗳️Primaire de la droite et du centre : @BrunoRetailleau peut-il se relancer ? #Presidentielle2027 \n\nVotre avis nous intéresse dans le #GrandMatin ! Réagissez en commentaires."
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-18 05:39",
-      "text": "🗳️Primaire de la droite et du centre : @BrunoRetailleau peut-il se relancer ? #Presidentielle2027 \n\nVotre avis nous intéresse dans le #GrandMatin ! Réagissez en commentaires.\n\n🎙️Bruno Retailleau est l'invité politique de Sud Radio, de 8h30 à 9h"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-18 05:45",
-      "text": "États-Unis : les démocrates s’imposent en Alaska, après deux semaines de dépouillement, confortant leur marge au Sénat\n➡️ https://l.leparisien.fr/sVep",
-      "also_by": [
-        "Le Parisien | politique"
-      ]
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-18 05:46",
+      "text": "États-Unis : les démocrates s’imposent en Alaska, après deux semaines de dépouillement, confortant leur marge au Sénat\n➡️ https://l.leparisien.fr/J62v"
     },
     {
       "author_name": "Sud Radio",
@@ -3673,6 +3654,14 @@
       "author_name": "Bruno Attal",
       "published_at": "2026-11-18 10:23",
       "text": "« ON PEUT RIGOLER »\n\nNe jamais oublier que Jean-Luc Melenchon rigole de la MORT des policiers."
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-18 10:23",
+      "text": "« Il ne peut pas rester une minute de plus » : Benyamin Netanyahou, le coup tordu de trop\n➡️ https://l.leparisien.fr/fqDQ",
+      "also_by": [
+        "Le Parisien | politique"
+      ]
     },
     {
       "author_name": "Le JDD",
