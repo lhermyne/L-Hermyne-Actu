@@ -1,12 +1,12 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-20 03:21",
-  "period": "du 2026-11-19 03:21 au 2026-11-20 03:21",
-  "new_period": "du 2026-11-19 20:00 au 2026-11-20 03:21",
-  "context_period": "du 2026-11-19 03:21 au 2026-11-19 20:00",
+  "generated_at": "2026-11-20 03:51",
+  "period": "du 2026-11-19 03:51 au 2026-11-20 03:51",
+  "new_period": "du 2026-11-19 20:00 au 2026-11-20 03:51",
+  "context_period": "du 2026-11-19 03:51 au 2026-11-19 20:00",
   "coverage_complete": true,
-  "new_count": 256,
+  "new_count": 257,
   "context_count": 1377,
   "duplicates_merged": 87,
   "empty_removed": 8,
@@ -1340,18 +1340,18 @@
     {
       "author_name": "Le Parisien | politique",
       "published_at": "2026-11-20 03:10",
-      "text": "Suspectés d’envoyer du fentanyl aux États-Unis, un Guatémaltèque et un Mexicain arrêtés à Guatemala et bientôt extradés\n➡️ https://l.leparisien.fr/fqDC"
+      "text": "Suspectés d’envoyer du fentanyl aux États-Unis, un Guatémaltèque et un Mexicain arrêtés à Guatemala et bientôt extradés\n➡️ https://l.leparisien.fr/fqDC",
+      "also_by": [
+        "Le Parisien"
+      ]
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-20 03:45",
+      "text": "« Un massacre horrible » : l’Arabie saoudite accusée par les Houthis d’avoir tué 19 civils dans un bateau près du Yémen\n➡️ https://l.leparisien.fr/z98L"
     }
   ],
   "context": [
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-19 03:29",
-      "text": "« Il ment » : Elon Musk s’en prend à Volodymyr Zelensky au sujet de limitations de Starshield en Ukraine\n➡️ https://l.leparisien.fr/MP6e",
-      "also_by": [
-        "Régis Le Sommier"
-      ]
-    },
     {
       "author_name": "Le Parisien",
       "published_at": "2026-11-19 03:59",
@@ -6069,6 +6069,14 @@
       "author_name": "LCP",
       "published_at": "2026-11-19 15:40",
       "text": "🔐 Vos données personnelles en danger ?\n\nVotre compte a été piraté ? Votre identité ? Votre entreprise a subi une cyberattaque ? Venez partager votre expérience et poser vos questions directement aux députés sur le plateau de LCP.\n\n👉 Pour participer, inscrivez-vous ici :"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-19 15:41",
+      "text": "« Il ment » : Elon Musk s’en prend à Volodymyr Zelensky au sujet de limitations de Starshield en Ukraine\n➡️ https://l.leparisien.fr/gyEL",
+      "also_by": [
+        "Régis Le Sommier"
+      ]
     },
     {
       "author_name": "Ligne Droite • La matinale de RC",
