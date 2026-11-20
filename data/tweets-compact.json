@@ -1,13 +1,13 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-21 00:57",
-  "period": "du 2026-11-20 00:57 au 2026-11-21 00:57",
-  "new_period": "du 2026-11-20 20:00 au 2026-11-21 00:57",
-  "context_period": "du 2026-11-20 00:57 au 2026-11-20 20:00",
+  "generated_at": "2026-11-21 00:59",
+  "period": "du 2026-11-20 00:59 au 2026-11-21 00:59",
+  "new_period": "du 2026-11-20 20:00 au 2026-11-21 00:59",
+  "context_period": "du 2026-11-20 00:59 au 2026-11-20 20:00",
   "coverage_complete": true,
   "new_count": 232,
-  "context_count": 1395,
+  "context_count": 1394,
   "duplicates_merged": 85,
   "empty_removed": 6,
   "new": [
@@ -1200,11 +1200,6 @@
     }
   ],
   "context": [
-    {
-      "author_name": "Thaïs d’Escufon",
-      "published_at": "2026-11-20 00:58",
-      "text": "Random act of whiteness of the day."
-    },
     {
       "author_name": "Le Parisien",
       "published_at": "2026-11-20 01:07",

@@ -1,13 +1,13 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-20T23:57:01.251Z",
+  "updated_at": "2026-11-20T23:59:35.961Z",
   "window_hours": 24,
-  "window_start": "2026-11-19T23:57:01.251Z",
+  "window_start": "2026-11-19T23:59:35.961Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1718,
+  "count": 1717,
   "tweets": [
     {
       "id": "2123928378445078718",
@@ -22329,19 +22329,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/le_Parisien/status/2123568866299203951"
-    },
-    {
-      "id": "2123566509268336931",
-      "created_at": "2026-11-19T23:58:04.000Z",
-      "author": "ThaisEscufon",
-      "author_name": "Thaïs d’Escufon",
-      "type": "tweet",
-      "text": "Random act of whiteness of the day.",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "en",
-      "url": "https://x.com/ThaisEscufon/status/2123566509268336931"
     }
   ]
 }
