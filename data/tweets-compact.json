@@ -1,13 +1,13 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-20 01:50",
-  "period": "du 2026-11-19 01:50 au 2026-11-20 01:50",
-  "new_period": "du 2026-11-19 20:00 au 2026-11-20 01:50",
-  "context_period": "du 2026-11-19 01:50 au 2026-11-19 20:00",
+  "generated_at": "2026-11-20 02:13",
+  "period": "du 2026-11-19 02:13 au 2026-11-20 02:13",
+  "new_period": "du 2026-11-19 20:00 au 2026-11-20 02:13",
+  "context_period": "du 2026-11-19 02:13 au 2026-11-19 20:00",
   "coverage_complete": true,
-  "new_count": 252,
-  "context_count": 1384,
+  "new_count": 253,
+  "context_count": 1380,
   "duplicates_merged": 87,
   "empty_removed": 8,
   "new": [
@@ -1306,38 +1306,23 @@
     {
       "author_name": "Le Parisien | politique",
       "published_at": "2026-11-20 01:50",
-      "text": "« Des signaux d’alerte très clairs » : la Californie ouvre une enquête sur Nvidia et les ventes de puces à la Chine\n➡️ https://l.leparisien.fr/C54z"
+      "text": "« Des signaux d’alerte très clairs » : la Californie ouvre une enquête sur Nvidia et les ventes de puces à la Chine\n➡️ https://l.leparisien.fr/C54z",
+      "also_by": [
+        "Le Parisien"
+      ]
     },
     {
       "author_name": "Le Parisien",
       "published_at": "2026-11-20 01:50",
       "text": "« Sur le podium des trimestres les plus secs et chauds depuis 1991 » : la Guadeloupe placée en alerte sécheresse généralisée\n➡️ https://l.leparisien.fr/4315"
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-20 02:09",
+      "text": "Les Bourses de Tokyo et Séoul chutent, l’IA inquiète malgré Anthropic\n➡️ https://l.leparisien.fr/GgWW"
     }
   ],
   "context": [
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-19 01:52",
-      "text": "Action à 83 dollars, objectif 68 milliards… Malgré les remous dans l’IA, Anthropic vise haut pour son introduction en Bourse à New York\n➡️ https://l.leparisien.fr/ew0z",
-      "also_by": [
-        "Le Parisien | politique"
-      ]
-    },
-    {
-      "author_name": "François Asselineau 🇫🇷",
-      "published_at": "2026-11-19 01:56",
-      "text": "📺 Retrouvez\n𝗟𝗘 𝗗𝗜𝗥𝗘𝗖𝗧 𝗻°𝟭𝟯𝟱\nqui a eu lieu le\n𝗠𝗘𝗥𝗖𝗥𝗘𝗗𝗜 𝟭𝟴 𝗡𝗢𝗩𝗘𝗠𝗕𝗥𝗘 𝟮𝟬𝟮𝟲\nde 20h30 à 22h45\n----------\n⚠️ 𝘾𝙡𝙞𝙦𝙪𝙚𝙯 𝙞𝙘𝙞 ⤵️\nhttps://www.youtube.com/live/LIkQbykub9w?is=apymLymanUp_YR0Q\n=========="
-    },
-    {
-      "author_name": "Valeurs actuelles",
-      "published_at": "2026-11-19 02:07",
-      "text": "🗞️ La COP31 qui se déroule en ce moment – dans une indifférence notoire – à Antalya, en Turquie, vient d’opérer un changement de slogan stratégique : on ne parle plus de diminuer le recours aux énergies fossiles mais d’accélérer l’électrification du mond… https://l.valeursactuelles.com/V2b"
-    },
-    {
-      "author_name": "Le Point",
-      "published_at": "2026-11-19 02:10",
-      "text": "80 000 euros. C’est le prix de la nouvelle G-Shock, entièrement taillée dans le saphir. La montre incassable préférée de la pop culture joue désormais dans la cour des grands. Pourquoi Casio ose, et qui va craquer.\n\nPar @ArthurFryd\n➡️ https://l.lepoint.fr/zzD"
-    },
     {
       "author_name": "Le Parisien",
       "published_at": "2026-11-19 02:42",
