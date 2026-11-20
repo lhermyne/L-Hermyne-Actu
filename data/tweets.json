@@ -1,13 +1,13 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-20T17:58:27.443Z",
+  "updated_at": "2026-11-20T17:58:57.465Z",
   "window_hours": 24,
-  "window_start": "2026-11-19T17:58:27.443Z",
+  "window_start": "2026-11-19T17:58:57.465Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1746,
+  "count": 1744,
   "tweets": [
     {
       "id": "2123837948571340840",
@@ -22680,32 +22680,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/Ligne__Droite/status/2123476399612932605"
-    },
-    {
-      "id": "2123476049824473197",
-      "created_at": "2026-11-19T17:58:37.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "Guerre en Ukraine : « Des remarques controversées », un ministre de Zelensky sur la sellette après une interview polémique\n➡️ https://l.leparisien.fr/8mzZ",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2123476049824473197"
-    },
-    {
-      "id": "2123476015993196800",
-      "created_at": "2026-11-19T17:58:29.000Z",
-      "author": "CNEWS",
-      "author_name": "CNEWS",
-      "type": "tweet",
-      "text": "Jean Plantu, sur la sortie de son livre «On m'a piqué ma gauche» : «Il y a une intolérance qui s’est installée à gauche», dans #Facealinfo\n\nToute l'info est à retrouver sur https://cnews.fr",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/CNEWS/status/2123476015993196800"
     }
   ]
 }
