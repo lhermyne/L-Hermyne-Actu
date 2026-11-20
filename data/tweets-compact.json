@@ -1,13 +1,13 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-20 05:22",
-  "period": "du 2026-11-19 05:22 au 2026-11-20 05:22",
-  "new_period": "du 2026-11-19 20:00 au 2026-11-20 05:22",
-  "context_period": "du 2026-11-19 05:22 au 2026-11-19 20:00",
+  "generated_at": "2026-11-20 05:52",
+  "period": "du 2026-11-19 05:52 au 2026-11-20 05:52",
+  "new_period": "du 2026-11-19 20:00 au 2026-11-20 05:52",
+  "context_period": "du 2026-11-19 05:52 au 2026-11-19 20:00",
   "coverage_complete": true,
-  "new_count": 270,
-  "context_count": 1371,
+  "new_count": 276,
+  "context_count": 1367,
   "duplicates_merged": 89,
   "empty_removed": 8,
   "new": [
@@ -1425,38 +1425,43 @@
     {
       "author_name": "Le Parisien | politique",
       "published_at": "2026-11-20 05:21",
-      "text": "Nayib Bukele, le président autoritaire du Salvador et proche de Trump, sera candidat pour un troisième mandat\n➡️ https://l.leparisien.fr/rBZT"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-19 05:30",
-      "text": "📈💰Les salaires des grands patrons du CAC40 en hausse de 16% en 2025, est-ce acceptable ou indécent ?\n\nVotre avis nous intéresse dans le #GrandMatin ! Réagissez en commentaires."
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-19 05:49",
-      "text": "Grenades, fusils et… produits radioactifs : le troublant arsenal d’un habitant de Saint-Malo\n➡️ https://l.leparisien.fr/N0Jl"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-19 05:50",
-      "text": "🚆Le gouvernement loue 27 locomotives neuves pour relancer les trains de nuit\n\nhttps://www.sudradio.fr/societe/trains-de-nuit-letat-va-louer-des-locomotives-neuves-et-renover-les-vieux-corail-de-la-sncf"
-    },
-    {
-      "author_name": "Ni Oubli Ni Pardon",
-      "published_at": "2026-11-19 05:50",
-      "text": "10/2022 Stephen Colbert, présentateur de l’émission The Late Show, accompagne son invité, le Dr Anthony Fauci, à la pharmacie d’à côté, pour recevoir son rappel COVID, afin de démontrer que le vaccin est sûr et sans puce électronique ! #SpécialUS🇺🇸"
-    },
-    {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-19 05:51",
-      "text": "Le ton monte entre le Yemen et l’Arabie saoudite, les capitales Sanaa et Riyad visées par des frappes\n➡️ https://l.leparisien.fr/orPz",
+      "text": "Nayib Bukele, le président autoritaire du Salvador et proche de Trump, sera candidat pour un troisième mandat\n➡️ https://l.leparisien.fr/rBZT",
       "also_by": [
         "Le Parisien"
       ]
     },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-20 05:38",
+      "text": "🟢Si Marine Tondelier s’allie avec Mélenchon, sauve-t-elle les Écologistes ou les sacrifie-t-elle ? #Presidentielle2027\n\n👇Votre avis nous intéresse dans le #GrandMatin ! Réagissez en commentaires."
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-20 05:41",
+      "text": "Sondage présidentielle 2027 : Gabriel Attal en tête d’une primaire du centre et de la droite sans Édouard Philippe https://l.leparisien.fr/RbkM"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-20 05:42",
+      "text": "Prothèses, voix trafiquées, secret absolu… Les incroyables coulisses de «Mascarade» sur Prime Video\n\nDans ce programme qui débarque ce vendredi sur la plate-forme, maquillage, prothèses et voix transformées rendent huit célébrités françaises méconnaissables à l’écran\n➡️"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-20 05:50",
+      "text": "🔴#Toulouse : une hausse inquiétante des homicides liés au trafic de drogue en 2026\n\n👇48 meurtres et tentatives de meurtre ont été recensés depuis le début de l'année\nhttps://www.sudradio.fr/societe/plus-de-reglements-de-comptes-dans-la-region-de-toulouse-que-dans-celle-de-marseille"
+    },
+    {
+      "author_name": "Ni Oubli Ni Pardon",
+      "published_at": "2026-11-20 05:50",
+      "text": "10/2021 Bernard Jomier, sénateur et médecin : « Et au-delà de la contravention, la mise en place d'un passeport vaccinal, sur le modèle récemment décidé en Écosse, c'est-à-dire limité à certaines situations à haut risque, pourrait effectivement renforcer le vote de l'obligation."
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-20 05:53",
+      "text": "Guerre en Ukraine : la France va livrer deux Mirage 2000-5F et des munitions à Kiev d’ici la fin de l’année 2026\n➡️ https://l.leparisien.fr/v2KO"
+    }
+  ],
+  "context": [
     {
       "author_name": "Alain Weber",
       "published_at": "2026-11-19 05:52",
@@ -1539,6 +1544,11 @@
       "author_name": "Europe 1",
       "published_at": "2026-11-19 06:31",
       "text": "🔵 [LA QUESTION DU JOUR]: Êtes-vous choqué que Jean-Luc Mélenchon veuille amnistier tous les casseurs ?\nRépondez ici : https://ow.ly/bCve50Ybq9T"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-19 06:31",
+      "text": "Le ton monte entre le Yemen et l’Arabie saoudite, les capitales Sanaa et Riyad visées par des frappes\n➡️ https://l.leparisien.fr/Os3b"
     },
     {
       "author_name": "Europe 1",
