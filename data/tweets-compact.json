@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-20 03:51",
-  "period": "du 2026-11-19 03:51 au 2026-11-20 03:51",
-  "new_period": "du 2026-11-19 20:00 au 2026-11-20 03:51",
-  "context_period": "du 2026-11-19 03:51 au 2026-11-19 20:00",
+  "generated_at": "2026-11-20 04:21",
+  "period": "du 2026-11-19 04:21 au 2026-11-20 04:21",
+  "new_period": "du 2026-11-19 20:00 au 2026-11-20 04:21",
+  "context_period": "du 2026-11-19 04:21 au 2026-11-19 20:00",
   "coverage_complete": true,
-  "new_count": 257,
-  "context_count": 1377,
-  "duplicates_merged": 87,
+  "new_count": 259,
+  "context_count": 1376,
+  "duplicates_merged": 88,
   "empty_removed": 8,
   "new": [
     {
@@ -1348,18 +1348,26 @@
     {
       "author_name": "Le Parisien | politique",
       "published_at": "2026-11-20 03:45",
-      "text": "« Un massacre horrible » : l’Arabie saoudite accusée par les Houthis d’avoir tué 19 civils dans un bateau près du Yémen\n➡️ https://l.leparisien.fr/z98L"
+      "text": "« Un massacre horrible » : l’Arabie saoudite accusée par les Houthis d’avoir tué 19 civils dans un bateau près du Yémen\n➡️ https://l.leparisien.fr/z98L",
+      "also_by": [
+        "Le Parisien"
+      ]
+    },
+    {
+      "author_name": "Aldo Sterone",
+      "published_at": "2026-11-20 04:03",
+      "text": "Tout le monde prend ses distances avec Trump. Il est arrivé comme une nouvelle chance pour l’Amérique, mais il s’est avéré être un escroc.\n[Cite @le_Parisien] « Je ne suis pas MAGA », « je me sens bête d’avoir dépensé autant d’argent » : Elon Musk prend ses distances d’avec Donald Trump\n➡️ https://l.leparisien.fr/bOIG"
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-20 04:08",
+      "text": "En pleins soupçons d’espionnage, la Maison Blanche confisque les téléphones des journalistes à bord d’Air Force One de retour de Chine\n➡️ https://l.leparisien.fr/yIxU",
+      "also_by": [
+        "Le Parisien"
+      ]
     }
   ],
   "context": [
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-19 03:59",
-      "text": "En Chine, photo historique de Xi Jinping, Donald Trump et Vladimir Poutine ensemble, qui débutent leur rencontre\n➡️ https://l.leparisien.fr/Rbk4",
-      "also_by": [
-        "Le Parisien | politique"
-      ]
-    },
     {
       "author_name": "Le Parisien",
       "published_at": "2026-11-19 04:24",
