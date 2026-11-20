@@ -1,12 +1,12 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-20 02:13",
-  "period": "du 2026-11-19 02:13 au 2026-11-20 02:13",
-  "new_period": "du 2026-11-19 20:00 au 2026-11-20 02:13",
-  "context_period": "du 2026-11-19 02:13 au 2026-11-19 20:00",
+  "generated_at": "2026-11-20 02:21",
+  "period": "du 2026-11-19 02:21 au 2026-11-20 02:21",
+  "new_period": "du 2026-11-19 20:00 au 2026-11-20 02:21",
+  "context_period": "du 2026-11-19 02:21 au 2026-11-19 20:00",
   "coverage_complete": true,
-  "new_count": 253,
+  "new_count": 254,
   "context_count": 1380,
   "duplicates_merged": 87,
   "empty_removed": 8,
@@ -1320,6 +1320,11 @@
       "author_name": "Le Parisien | politique",
       "published_at": "2026-11-20 02:09",
       "text": "Les Bourses de Tokyo et Séoul chutent, l’IA inquiète malgré Anthropic\n➡️ https://l.leparisien.fr/GgWW"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-20 02:18",
+      "text": "🔵 INFO LE PARISIEN | «Ganito», le commanditaire du home jacking de Donnarumma, transféré à la prison de haute sécurité de Condé-sur-Sarthe\n\nLa décision a été prise en raison de la dangerosité de son profil et de sa capacité corruptive\n\nNos infos ➡️ https://l.leparisien.fr/sVex"
     }
   ],
   "context": [
