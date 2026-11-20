@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-20 02:21",
-  "period": "du 2026-11-19 02:21 au 2026-11-20 02:21",
-  "new_period": "du 2026-11-19 20:00 au 2026-11-20 02:21",
-  "context_period": "du 2026-11-19 02:21 au 2026-11-19 20:00",
+  "generated_at": "2026-11-20 02:51",
+  "period": "du 2026-11-19 02:51 au 2026-11-20 02:51",
+  "new_period": "du 2026-11-19 20:00 au 2026-11-20 02:51",
+  "context_period": "du 2026-11-19 02:51 au 2026-11-19 20:00",
   "coverage_complete": true,
-  "new_count": 254,
-  "context_count": 1380,
-  "duplicates_merged": 87,
+  "new_count": 255,
+  "context_count": 1378,
+  "duplicates_merged": 88,
   "empty_removed": 8,
   "new": [
     {
@@ -1319,37 +1319,38 @@
     {
       "author_name": "Le Parisien | politique",
       "published_at": "2026-11-20 02:09",
-      "text": "Les Bourses de Tokyo et Séoul chutent, l’IA inquiète malgré Anthropic\n➡️ https://l.leparisien.fr/GgWW"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-20 02:18",
-      "text": "🔵 INFO LE PARISIEN | «Ganito», le commanditaire du home jacking de Donnarumma, transféré à la prison de haute sécurité de Condé-sur-Sarthe\n\nLa décision a été prise en raison de la dangerosité de son profil et de sa capacité corruptive\n\nNos infos ➡️ https://l.leparisien.fr/sVex"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-19 02:42",
-      "text": "🔵 Info Le Parisien | L’auteur présumé du tir de mortier contre la députée LFI Farida Amrani à Évry a été interpellé et placé en garde à vue\n\nIl s’est livré à la police ce mercredi après-midi ➡️ https://l.leparisien.fr/z98t"
-    },
-    {
-      "author_name": "Alain Weber",
-      "published_at": "2026-11-19 02:46",
-      "text": "Mais c’est trop tard, Monsieur Breton, et vous le savez. Vous essayez de sauver les apparences, mais plus personne n’est dupe…\n\nPendant que vous, par pure idéologie et pour avoir les voix des écolos, vous fermiez Fessenheim et les allemands toutes leurs centrales,\n\nPendant que\n[Cite @ThierryBreton] Face à Trump, Poutine et Xi Jinping, il est absolument indispensable que les Européens soient unis. \n\nJe ne vois pas beaucoup d’avenir à un pays isolé dans ce monde brutal."
-    },
-    {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-19 02:50",
-      "text": "« Je ne suis pas MAGA », « je me sens bête d’avoir dépensé autant d’argent » : Elon Musk prend ses distances d’avec Donald Trump\n➡️ https://l.leparisien.fr/Uprp",
+      "text": "Les Bourses de Tokyo et Séoul chutent, l’IA inquiète malgré Anthropic\n➡️ https://l.leparisien.fr/GgWW",
       "also_by": [
         "Le Parisien"
       ]
     },
     {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-20 02:18",
+      "text": "🔵 INFO LE PARISIEN | «Ganito», le commanditaire du home jacking de Donnarumma, transféré à la prison de haute sécurité de Condé-sur-Sarthe\n\nLa décision a été prise en raison de la dangerosité de son profil et de sa capacité corruptive\n\nNos infos ➡️ https://l.leparisien.fr/sVex"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-20 02:44",
+      "text": "« C’est mon droit de naissance ! » : la folle histoire de ce Français en prison pour avoir attaqué la Pierre du Destin en Écosse\n➡️ https://l.leparisien.fr/aCSG",
+      "also_by": [
+        "Le Parisien | politique"
+      ]
+    }
+  ],
+  "context": [
+    {
       "author_name": "Alain Weber",
       "published_at": "2026-11-19 02:54",
       "text": "[Retweet de @BierunZ] @alainpaulweber Souvenir du massacre du marché de Noël à Magdebourg en 🇩🇪 en 2024 par le Saoudien Taleb al-Abdulmohsen\nCondamné à la réclusion à perpétuité le 26 juin 2026\n6 morts et plus de 300 blessés, certains mutilés à vie\nAndré, 9 ans y était venu en famille\n@Riposte_R @brivael @starsky007"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-19 03:11",
+      "text": "« Je ne suis pas MAGA », « je me sens bête d’avoir dépensé autant d’argent » : Elon Musk prend ses distances d’avec Donald Trump\n➡️ https://l.leparisien.fr/DjC9",
+      "also_by": [
+        "Le Parisien | politique"
+      ]
     },
     {
       "author_name": "Le Parisien | politique",
