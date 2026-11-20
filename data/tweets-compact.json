@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-20 02:51",
-  "period": "du 2026-11-19 02:51 au 2026-11-20 02:51",
-  "new_period": "du 2026-11-19 20:00 au 2026-11-20 02:51",
-  "context_period": "du 2026-11-19 02:51 au 2026-11-19 20:00",
+  "generated_at": "2026-11-20 03:21",
+  "period": "du 2026-11-19 03:21 au 2026-11-20 03:21",
+  "new_period": "du 2026-11-19 20:00 au 2026-11-20 03:21",
+  "context_period": "du 2026-11-19 03:21 au 2026-11-19 20:00",
   "coverage_complete": true,
-  "new_count": 255,
-  "context_count": 1378,
-  "duplicates_merged": 88,
+  "new_count": 256,
+  "context_count": 1377,
+  "duplicates_merged": 87,
   "empty_removed": 8,
   "new": [
     {
@@ -1336,28 +1336,19 @@
       "also_by": [
         "Le Parisien | politique"
       ]
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-20 03:10",
+      "text": "Suspectés d’envoyer du fentanyl aux États-Unis, un Guatémaltèque et un Mexicain arrêtés à Guatemala et bientôt extradés\n➡️ https://l.leparisien.fr/fqDC"
     }
   ],
   "context": [
     {
-      "author_name": "Alain Weber",
-      "published_at": "2026-11-19 02:54",
-      "text": "[Retweet de @BierunZ] @alainpaulweber Souvenir du massacre du marché de Noël à Magdebourg en 🇩🇪 en 2024 par le Saoudien Taleb al-Abdulmohsen\nCondamné à la réclusion à perpétuité le 26 juin 2026\n6 morts et plus de 300 blessés, certains mutilés à vie\nAndré, 9 ans y était venu en famille\n@Riposte_R @brivael @starsky007"
-    },
-    {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-19 03:11",
-      "text": "« Je ne suis pas MAGA », « je me sens bête d’avoir dépensé autant d’argent » : Elon Musk prend ses distances d’avec Donald Trump\n➡️ https://l.leparisien.fr/DjC9",
+      "published_at": "2026-11-19 03:29",
+      "text": "« Il ment » : Elon Musk s’en prend à Volodymyr Zelensky au sujet de limitations de Starshield en Ukraine\n➡️ https://l.leparisien.fr/MP6e",
       "also_by": [
-        "Le Parisien | politique"
-      ]
-    },
-    {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-19 03:14",
-      "text": "« Il ment » : Elon Musk s’en prend à Volodymyr Zelensky au sujet de limitations de Starshield en Ukraine\n➡️ https://l.leparisien.fr/kKvY",
-      "also_by": [
-        "Le Parisien",
         "Régis Le Sommier"
       ]
     },
@@ -3235,6 +3226,14 @@
       "author_name": "Les Patriotes",
       "published_at": "2026-11-19 10:06",
       "text": "[Retweet de @LaureAngeOrange] 🚨ALERTE ENFUMAGE\nRéforme des retraites RN = ralliement au néolibéralisme: Elle cache une régression sociale majeure pour les précaires à temps partiel, les pères de famille nombreuse, les chômeurs...⤵️\n➡️DEBAT URGENT LE PEN anti FREXIT vs. PHILIPPOT pro FREXIT sur les retraites!"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-19 10:06",
+      "text": "« Je ne suis pas MAGA », « je me sens bête d’avoir dépensé autant d’argent » : Elon Musk prend ses distances d’avec Donald Trump\n➡️ https://l.leparisien.fr/bOIG",
+      "also_by": [
+        "Le Parisien | politique"
+      ]
     },
     {
       "author_name": "CNEWS",
