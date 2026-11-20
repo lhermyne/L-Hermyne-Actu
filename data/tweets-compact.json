@@ -1,13 +1,13 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-20 01:20",
-  "period": "du 2026-11-19 01:20 au 2026-11-20 01:20",
-  "new_period": "du 2026-11-19 20:00 au 2026-11-20 01:20",
-  "context_period": "du 2026-11-19 01:20 au 2026-11-19 20:00",
+  "generated_at": "2026-11-20 01:50",
+  "period": "du 2026-11-19 01:50 au 2026-11-20 01:50",
+  "new_period": "du 2026-11-19 20:00 au 2026-11-20 01:50",
+  "context_period": "du 2026-11-19 01:50 au 2026-11-19 20:00",
   "coverage_complete": true,
-  "new_count": 247,
-  "context_count": 1388,
+  "new_count": 252,
+  "context_count": 1384,
   "duplicates_merged": 87,
   "empty_removed": 8,
   "new": [
@@ -1284,34 +1284,37 @@
       "author_name": "Thaïs d’Escufon",
       "published_at": "2026-11-20 00:58",
       "text": "Random act of whiteness of the day."
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
-      "published_at": "2026-11-19 01:24",
-      "text": "[Retweet de @dannyconversano] 🟢🇪🇺🚨 - Non, ce n'est pas l'Union européenne qui gère notre politique d'immigration légale. Et cela, dans aucun pays européen. L'immigration légale est de loin celle qui importe chez nous le plus d'extra-européens. En France, comme en Allemagne, en Lituanie ou en Pologne.\n\nCe"
-    },
-    {
-      "author_name": "Tanguy David",
-      "published_at": "2026-11-19 01:25",
-      "text": "[Retweet de @BastionMediaFR] 🔴🇫🇷 𝗙𝗟𝗔𝗦𝗛 𝗜𝗡𝗙𝗢 — Rima Hassan est attendue ce vendredi à Lyon, neuf mois après la mort de Quentin Deranque, frappé à mort par des antifas en marge de sa précédente venue dans la ville.\n\nElle doit y tenir une conférence et une séance de dédicace de son livre « Palestine"
-    },
-    {
-      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
-      "published_at": "2026-11-19 01:25",
-      "text": "[Retweet de @DamienRieu] 🇩🇰 « Je souhaite un Danemark qui soit danois (…) nous sommes une souche originelle ethniquement danoise (…) il faut une culture qui reste majoritaire. »\n\nMette Frederiksen, 1er ministre socialiste danoise. \n\nTraduction IA"
     },
     {
       "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-19 01:36",
-      "text": "« Il y a 30 ans dans un climat tout à fait différent » : la députée RN Laure Lavalette accusée d’avoir cautionné des écrits antisémites https://l.leparisien.fr/yIxo"
+      "published_at": "2026-11-20 01:20",
+      "text": "« Il y avait trop de réunions » : Donald Trump place l’échec de la rencontre avec Kim Jong Un sur le compte d’un agenda trop chargé\n➡️ https://l.leparisien.fr/TEnI",
+      "also_by": [
+        "Le Parisien"
+      ]
+    },
+    {
+      "author_name": "Médias-Presse-Info",
+      "published_at": "2026-11-20 01:37",
+      "text": "Vendredi 20 novembre – Saint Félix de Valois, Confesseur\n\nhttps://www.medias-presse.info/vendredi-20-novembre-saint-felix-de-valois-confesseur-2/253201/"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-19 01:40",
-      "text": "🔵 Info Le Parisien | Un chirurgien de l’hôpital Bichat à Paris écroué, soupçonné d’avoir violé une pharmacienne lors d’une soirée d’internes ➡️ https://l.leparisien.fr/HfsK"
+      "published_at": "2026-11-20 01:44",
+      "text": "Aube : le village de Bourguignons frappé par une tornade, 60 habitations touchées et une jument tuée\n➡️ https://l.leparisien.fr/Qt7j"
     },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-20 01:50",
+      "text": "« Des signaux d’alerte très clairs » : la Californie ouvre une enquête sur Nvidia et les ventes de puces à la Chine\n➡️ https://l.leparisien.fr/C54z"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-20 01:50",
+      "text": "« Sur le podium des trimestres les plus secs et chauds depuis 1991 » : la Guadeloupe placée en alerte sécheresse généralisée\n➡️ https://l.leparisien.fr/4315"
+    }
+  ],
+  "context": [
     {
       "author_name": "Le Parisien",
       "published_at": "2026-11-19 01:52",
@@ -2416,6 +2419,11 @@
       "author_name": "Sud Radio",
       "published_at": "2026-11-19 08:40",
       "text": "🔵@EPhilippe_LH est il fatigué ?  #Presidentielle2027\n\n🗣️@NathalieLoiseau  : \"Dans toutes les campagnes, il y a toujours quelques marins d'eau douce, des grognons, des fatigués\" #GrandMatin\n\n📻 https://www.sudradio.fr/"
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-19 08:40",
+      "text": "« Il y a 30 ans dans un climat tout à fait différent » : la députée RN Laure Lavalette accusée d’avoir cautionné des écrits antisémites https://l.leparisien.fr/h1yu"
     },
     {
       "author_name": "Marion Maréchal",
