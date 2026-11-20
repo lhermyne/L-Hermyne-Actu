@@ -1,13 +1,13 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-20 23:29",
-  "period": "du 2026-11-19 23:29 au 2026-11-20 23:29",
-  "new_period": "du 2026-11-20 20:00 au 2026-11-20 23:29",
-  "context_period": "du 2026-11-19 23:29 au 2026-11-20 20:00",
+  "generated_at": "2026-11-20 23:59",
+  "period": "du 2026-11-19 23:59 au 2026-11-20 23:59",
+  "new_period": "du 2026-11-20 20:00 au 2026-11-20 23:59",
+  "context_period": "du 2026-11-19 23:59 au 2026-11-20 20:00",
   "coverage_complete": true,
-  "new_count": 185,
-  "context_count": 1423,
+  "new_count": 201,
+  "context_count": 1410,
   "duplicates_merged": 83,
   "empty_removed": 6,
   "new": [
@@ -943,78 +943,93 @@
     {
       "author_name": "Le Parisien | politique",
       "published_at": "2026-11-20 23:29",
-      "text": "« J’adorerais le voir revenir » : Donald Trump exhorte Nvidia à donner une « deuxième chance » à Jensen Huang\n➡️ https://l.leparisien.fr/fqDl"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Frontières",
-      "published_at": "2026-11-19 23:30",
-      "text": "« J’ai envie de quitter la voie publique à cause du manque de considération et de ce que l’État ne met pas en place. Ça devient très compliqué de rester motivé », témoigne un agent de la BAC.\n\n📺 Grand reportage - POLICIERS, MARTYRS DE LA RÉPUBLIQUE"
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-19 23:30",
-      "text": "L'avocate générale a requis jeudi six, cinq et quatre ans de prison.→https://l.lefigaro.fr/9RIO"
-    },
-    {
-      "author_name": "Civitas International",
-      "published_at": "2026-11-19 23:32",
-      "text": "[Retweet de @ecoleslibres] 🏫 📚 De 3 000 à 135 000 élèves, de 100 à 2 156 écoles hors contrat depuis 1994. Un essor, une liberté à défendre ! Les enfants n’appartiennent pas à l’État !\n\nRejoignez les Comités de défense des écoles libres !\ncomitesecoleslibres@gmail.com"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-19 23:33",
-      "text": "La Maison Blanche confisque les téléphones des journalistes à bord d’Air Force One\n➡️ https://l.leparisien.fr/lhLZ",
+      "text": "« J’adorerais le voir revenir » : Donald Trump exhorte Nvidia à donner une « deuxième chance » à Jensen Huang\n➡️ https://l.leparisien.fr/fqDl",
       "also_by": [
-        "Le Parisien | politique"
+        "Le Parisien"
       ]
     },
     {
-      "author_name": "Tribune Populaire🌐",
-      "published_at": "2026-11-19 23:34",
-      "text": "Paris Match, toujours dans les bons coups pour redynamiser un début de campagne pas très réussi…\n\nÇa a marché avec Macron, alors ils se disent on tente aussi avec Teddy Riner.\n\nLogique. C'est macroniste."
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-20 23:30",
+      "text": "Le Bénin a adressé à la France une demande de restitution.→https://l.lefigaro.fr/c2XX"
+    },
+    {
+      "author_name": "ThinkerView",
+      "published_at": "2026-11-20 23:31",
+      "text": "[Retweet de @PhilippeMurer] Coup d’Etat de l’Arcom.\n\nSi le PS, Édouard Philipe refusent d’aller sur des médias alternatifs, ceux-ci ne pourront plus inviter d’autres candidats sauf à être en faute / l’Arcom: ils risquent de sauter !\n✅Il est scandaleux que l’Arcom veuille réguler les médias alternatifs et"
+    },
+    {
+      "author_name": "ThinkerView",
+      "published_at": "2026-11-20 23:32",
+      "text": "[Retweet de @nicolasberrod] 🩸 Le \"tabou\" persistant des AVC, qui \"explosent\" chez les jeunes : \"Ça m’est tombé dessus en pleine nuit, je me suis levée et je suis tombée. Je ne voyais plus rien, j’avais très mal à la tête… À ce moment-là, j’ai compris que c’était grave.\" ⤵️\n\n1/6\n\nhttps://www.leparisien.fr/societe/sante/explosion-des-avc-chez-les-jeunes-un-tabou-persistant-on-ne-pense-pas-que-ca-peut-etre-grave-29-10-2026-YK2Q6IFVT5CKFO3YI6H5QPXFNU.php"
+    },
+    {
+      "author_name": "Reprenons le contrôle !",
+      "published_at": "2026-11-20 23:35",
+      "text": "[Retweet de @CH_Gallois] Il était prêt à entrer dans un gouvernement macroniste, mais à part ça, il a toujours combattu le macronisme. 🤡\n\nMacron de la Croisette."
+    },
+    {
+      "author_name": "ThinkerView",
+      "published_at": "2026-11-20 23:37",
+      "text": "[Retweet de @vivelacommune__] Merci à @Thinker_View pour cette interview\n\nQuel plaisir d'entendre parler de Murray Bookchin et du communisme libertaire!\n\nMerci à Désobéissance fertile de nous partager leur expérience et leur vision de la résilience, de la vie et d'un futur enviable ❤️\n\nhttps://m.youtube.com/watch?v=wjdrsXb8CdM"
+    },
+    {
+      "author_name": "ThinkerView",
+      "published_at": "2026-11-20 23:39",
+      "text": "Vous avez déjà vu y une flash mob organisé par 5 potes youtubeurs à plus d'un million d'abonnés ? \n\nFaites pas les malins avec nous !"
     },
     {
       "author_name": "Alain Weber",
-      "published_at": "2026-11-19 23:35",
-      "text": "Un petit moment de détente sur @BFMTV avec la couverture de @ParisMatch représentant Teddy Riner.\n\nDans ces moments dramatiques, un fou rire partagé, fait du bien…"
+      "published_at": "2026-11-20 23:39",
+      "text": "Ils ne se cachent même plus pour étaler leur antisémitisme…\n\nRien de plus répugnant que les listes…"
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-20 23:43",
+      "text": "Une juridiction « hors de contrôle » : Donald Trump s’attaque une nouvelle fois à la Cour pénale internationale\n➡️ https://l.leparisien.fr/Qt73"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-20 23:44",
+      "text": "De la traque de Mohamed Merah aux portes du RN, l’ancien numéro deux de Beauvau s’est imposé comme un préfet à poigne. Son itinéraire met en lumière les liens tissés entre certains hauts fonctionnaires et le parti de Marine Le Pen.\n\nPar @Joseph1LeCorre\n➡️ https://l.lepoint.fr/wet"
+    },
+    {
+      "author_name": "Jean-Yves Le Gallou",
+      "published_at": "2026-11-20 23:47",
+      "text": "[Retweet de @FrRemigration] @MLP_officiel un petit message pour vous.\n\nLors du débat du lundi 16 novembre, vous avez fait part de votre volonté de retirer les subventions publiques à des associations dites « politisées ».\n\nPour vous aider dans cette démarche, voici une liste d’associations participant"
+    },
+    {
+      "author_name": "Jean-Yves Le Gallou",
+      "published_at": "2026-11-20 23:49",
+      "text": "« . Le « grand retour au foyer » est la réponse au grand remplacement. »\n@MartinSellner_\n[Cite @MartinSellner_] 2,6 Million is a good start.\n\nAnd much more is possible, because Remigration does not equal Deportation. \nThere are about 13 million foreigners in Germany.\nMass Naturalization needs to stop. Criminals must leave. Social burdens must leave. Cultural burdens must leave.\n\nAt the"
+    },
+    {
+      "author_name": "Jean-Yves Le Gallou",
+      "published_at": "2026-11-20 23:51",
+      "text": "[Retweet de @MartinSellner_] 🇫🇷 I am taking the French government to court!\n\nMy French lawyer, Pierre-Vincent Lambert, has prepared a perfect legal challenge against the nationwide entry ban imposed on me by the French State on October 28, 2026. These are our arguments:\n\n1. No actual threat to public"
+    },
+    {
+      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
+      "published_at": "2026-11-20 23:52",
+      "text": "[Retweet de @dannyconversano] @Eyck_z_Denesle @JRochedy Mais j'en ai rien à cirer, si tu veux pas lire de livres, c'est à ton cerveau que tu fais du mal. Le porno dans ce cas-là écrase les jeux vidéo, c'est quoi cet argument ? Je m'en fous complètement de la \"popularité\" d'un média, tu es absolument débile, ma parole. Avec ta fleur de"
+    },
+    {
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-20 23:54",
+      "text": "Un chat dépecé et empalé à Six-Fours-les-Plages (83) : Mohamed Y., migrant sous OQTF libéré de CRA la veille des faits et mis en cause dans une agression au couteau, écope de 2 ans de prison ferme et d’une ITF définitive (MàJ)\n\nhttps://www.fdesouche.com/2026/11/20/indignation-apres-la-decouverte-dun-chat-depece-et-empale-a-six-fours-83-un-mois-plus-tard-mohamed-y-migrant-sous-oqtf-deja-mis-en-cause-dans-une-agression-au-couteau-avoue-en-garde-a-vue-i/"
+    },
+    {
+      "author_name": "Jean-Yves Le Gallou",
+      "published_at": "2026-11-20 23:55",
+      "text": "L’état de droit est le nom donné à tout ce qui conforte le régime d’#ExtremeCentre \n\n https://lesobservateurs.ch/decryptage-media-un-etat-de-droit-cest-quoi/"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-19 23:42",
-      "text": "« Un pic de trafic jamais atteint » : comment la sortie de GTA 6 met les réseaux Internet français sous tension\n➡️ https://l.leparisien.fr/7Wmv"
-    },
-    {
-      "author_name": "Tribune Populaire🌐",
-      "published_at": "2026-11-19 23:45",
-      "text": "📂🇫🇷FLASH INFO - Le siège du RN perquisitionné après des soupçons de fuites au ministère de l’Intérieur !\n\nJulien Odoul, porte-parole du RN, ne souhaite \"pas communiquer sur cette affaire en cours\" pour l’instant.."
-    },
-    {
-      "author_name": "Alain Weber",
-      "published_at": "2026-11-19 23:46",
-      "text": "🚨🚨🚨 Attention, l’escalade commence : la Russie frappe l’ambassade néerlandaise à Kiev. \n\nLe 17 novembre, sept missiles de l’entreprise néerlandaise Destinus frappent le pont de Crimée avec l’assistance technique de ses employés.\n\nLe 18 novembre, Moscou interpelle"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-19 23:48",
-      "text": "Le suspect a reconnu \"partiellement\" les faits https://mrf.lu/2MmNJ"
-    },
-    {
-      "author_name": "Valeurs actuelles",
-      "published_at": "2026-11-19 23:51",
-      "text": "🗞️ DÉCRYPTAGE. Le rapport annuel 2026 de l’OIDAC (Observatory on Intolerance and Discrimination against Christians in Europe) recense 2 465 crimes et incidents de haine antichrétiens en 2025. Et, la France est en tête.\nhttps://l.valeursactuelles.com/5LB"
-    },
-    {
-      "author_name": "Alain Weber",
-      "published_at": "2026-11-19 23:54",
-      "text": "🚨🚨🚨🚨 Attention, la Russie vient-elle d’adresser un terrible avertissement à la France ?\n\nDeux jours après le bombardement du pont de Crimée avec des missiles de fabrication néerlandaise, un drone russe endommage l’ambassade des Pays-Bas à Kiev.\n\nVladimir Poutine avait annoncé"
-    },
-    {
-      "author_name": "Clément Macchi",
-      "published_at": "2026-11-19 23:58",
-      "text": "À chaque nouveau numéro je mettrai à jour la compilation des introductions de l’invité, je pense qu’on tient un truc"
-    },
+      "published_at": "2026-11-20 23:56",
+      "text": "Manifestation du 21 novembre à Paris : 16 stations de métro et RER fermées ce samedi\n➡️ https://l.leparisien.fr/MP6Q"
+    }
+  ],
+  "context": [
     {
       "author_name": "Le Point",
       "published_at": "2026-11-20 00:00",
