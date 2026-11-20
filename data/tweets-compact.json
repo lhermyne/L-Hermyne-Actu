@@ -1,13 +1,13 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-20 23:59",
-  "period": "du 2026-11-19 23:59 au 2026-11-20 23:59",
-  "new_period": "du 2026-11-20 20:00 au 2026-11-20 23:59",
-  "context_period": "du 2026-11-19 23:59 au 2026-11-20 20:00",
+  "generated_at": "2026-11-21 00:29",
+  "period": "du 2026-11-20 00:29 au 2026-11-21 00:29",
+  "new_period": "du 2026-11-20 20:00 au 2026-11-21 00:29",
+  "context_period": "du 2026-11-20 00:29 au 2026-11-20 20:00",
   "coverage_complete": true,
-  "new_count": 201,
-  "context_count": 1410,
+  "new_count": 224,
+  "context_count": 1403,
   "duplicates_merged": 83,
   "empty_removed": 6,
   "new": [
@@ -833,7 +833,10 @@
     {
       "author_name": "Le Parisien",
       "published_at": "2026-11-20 22:58",
-      "text": "« Je ne reconnais plus mon parti » : après la main tendue de Marine Tondelier à Jean-Luc Mélenchon, un député quitte les Écologistes https://l.leparisien.fr/AAue"
+      "text": "« Je ne reconnais plus mon parti » : après la main tendue de Marine Tondelier à Jean-Luc Mélenchon, un député quitte les Écologistes https://l.leparisien.fr/AAue",
+      "also_by": [
+        "Le Parisien | politique"
+      ]
     },
     {
       "author_name": "Agence France-Presse",
@@ -986,7 +989,10 @@
     {
       "author_name": "Le Parisien | politique",
       "published_at": "2026-11-20 23:43",
-      "text": "Une juridiction « hors de contrôle » : Donald Trump s’attaque une nouvelle fois à la Cour pénale internationale\n➡️ https://l.leparisien.fr/Qt73"
+      "text": "Une juridiction « hors de contrôle » : Donald Trump s’attaque une nouvelle fois à la Cour pénale internationale\n➡️ https://l.leparisien.fr/Qt73",
+      "also_by": [
+        "Le Parisien"
+      ]
     },
     {
       "author_name": "Le Point",
@@ -1027,52 +1033,124 @@
       "author_name": "Le Parisien",
       "published_at": "2026-11-20 23:56",
       "text": "Manifestation du 21 novembre à Paris : 16 stations de métro et RER fermées ce samedi\n➡️ https://l.leparisien.fr/MP6Q"
-    }
-  ],
-  "context": [
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-20 23:59",
+      "text": "Macron dénonce un « agenda agressif » de la Russie sur le « territoire européen », un « pari irresponsable »\n➡️ https://l.leparisien.fr/kKvP"
+    },
     {
       "author_name": "Le Point",
-      "published_at": "2026-11-20 00:00",
-      "text": "Ils sont insultés, pris pour cible, incriminés quand des manifestants sont blessés. Nous avons suivi la manifestation parisienne du 17 novembre du côté des compagnies républicaines de sécurité (CRS).\n\n➡️ https://l.lepoint.fr/IyG\nPar @RachelBinhas"
+      "published_at": "2026-11-20 23:59",
+      "text": "En 1991, l’Algérie devait choisir entre deux désastres. La France n’en est pas là. Mais certains vertiges électoraux ont un inquiétant air de famille.\n\n🖋️ LA CHRONIQUE de @daoud_kamel\n➡️ https://l.lepoint.fr/O1H"
+    },
+    {
+      "author_name": "ThinkerView",
+      "published_at": "2026-11-21 00:00",
+      "text": "Vous voulez qu'on réagisse concernant l'ARCOM qui veut contrôler le net ? \n\nGenre on les étrille bien comme il faut ainsi que tout le cloaque médiatique qui va avec ?"
     },
     {
       "author_name": "Le Figaro",
-      "published_at": "2026-11-20 00:00",
-      "text": "Quels sont les métiers du privé qui offrent les meilleurs salaires en France ?\nhttps://l.lefigaro.fr/0cf2"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-20 00:01",
-      "text": "« L’enfant terrible du Pacifique » : une violente tempête inonde les rues de Los Angeles et San Francisco\n➡️ https://l.leparisien.fr/EJbm",
-      "also_by": [
-        "Le Parisien | politique"
-      ]
-    },
-    {
-      "author_name": "Jon De Lorraine",
-      "published_at": "2026-11-20 00:02",
-      "text": "Gaby le clown.\nUn sketch à 1000 milliards."
-    },
-    {
-      "author_name": "Objectif Remigration",
-      "published_at": "2026-11-20 00:06",
-      "text": "La seule boussole pour « protéger et défendre les intérêts de la France et des Français », c’est la Remigration.\n[Cite @GabrielAttal] J’ai été Premier ministre.\nJ’ai été responsable de la défense nationale et garant de la disponibilité de notre dissuasion nucléaire. \n\nJ’ai déjà eu à me projeter face à cette immense responsabilité qu’est la dissuasion.\n\nDans un monde de plus en plus dangereux, il faut être prêt"
+      "published_at": "2026-11-21 00:00",
+      "text": "Allan Brunon, élu municipal d’opposition à Grenoble, est poursuivi.→https://l.lefigaro.fr/BLre"
     },
     {
       "author_name": "Jean-Yves Le Gallou",
-      "published_at": "2026-11-20 00:14",
-      "text": "[Retweet de @Ligne__Droite] 💥 \"Le seul racisme systémique dans ce pays, c’est le racisme antifrançais : celui qui culpabilise les Français et refuse même de reconnaître les motivations racistes lorsqu’ils sont victimes d’agressions ou de meurtres.\"\n\n🗣️ Pour dénoncer cette injustice, @gannat_JEG appelle à"
+      "published_at": "2026-11-21 00:02",
+      "text": "Comment saccager l’harmonie d’un village de la Creuse  juste pour une action de propagande ?"
     },
     {
-      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
-      "published_at": "2026-11-20 00:18",
-      "text": "- Les Community Managers des politiques français : Eh, faut absolument qu'on surfe sur la sortie de GTA VI pour être dans le coup !\n- Les politiques : Ah oui ? C'est quoi ?\n- Un jeu vidéo très célèbre\n- Mais... ça respecte nos valeurs, au moins ?\n- ... Hum... oui, oui, t'inquiète"
+      "author_name": "Clément Macchi",
+      "published_at": "2026-11-21 00:03",
+      "text": "Avec un happening en pleine émission dans laquelle je débarque pour le ratio en live\n[Cite @LCI] 🔴 Dimanche 22 novembre sur #LCI\n\n#Objectif2027Dimanche, une émission présentée par Anne-Chloé Bottet (@AcBottet)\n\n⏰ À 11h30, elle recevra Arnaud Péricard (@Arnaud_Pericard), porte-parole Horizons, maire de Saint-Germain en Laye (Yvelines)"
+    },
+    {
+      "author_name": "Valeurs actuelles",
+      "published_at": "2026-11-21 00:09",
+      "text": "🗞️ TRIBUNE. À Varsovie, la crise politique s’aggrave, entre tensions institutionnelles et bras de fer avec Bruxelles. Au-delà du cas polonais, elle révèle un malaise européen : malgré les milliards versés, l’Union peine à créer un véritable sentiment d’a… https://l.valeursactuelles.com/usH"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-21 00:09",
+      "text": "🔵 INFO LE PARISIEN | « Toute la classe s’en prenait à Camélia » \n\nLes proches de la jeune fille de 17 ans ont déposé ce vendredi une plainte avec constitution de partie civile. Son ancien proviseur, lui, pourrait être prochainement sanctionné\n\n➡️ https://l.leparisien.fr/h1yF"
+    },
+    {
+      "author_name": "Cercle Aristote",
+      "published_at": "2026-11-21 00:09",
+      "text": "[Retweet de @PhilippeMurer] La forte baisse du pétrole alors que rien n’est réglé dans le golfe persique annonce vraisemblablement une récession mondiale.\nLe Nasdaq qui perd 20% / à ses sommets aussi.\nCc @ruseurope @Cercle_Aristote"
+    },
+    {
+      "author_name": "Alain Weber",
+      "published_at": "2026-11-21 00:11",
+      "text": "Donc Ursula von der Leyen qui fait la leçon à tout le monde, gère tellement bien son administration, qu’elle n’est pas certaine de pouvoir payer les salaires 2027/2028…\n\nSi ce n’était aussi dramatique, cela me ferait rire…"
+    },
+    {
+      "author_name": "Cercle Aristote",
+      "published_at": "2026-11-21 00:11",
+      "text": "[Retweet de @Cercle_Aristote] La perversion totale de la société\n\nPourquoi le libéralisme est-il une impasse ? Jean-Luc Schaffhauser répond à cette question en s’appuyant sur son expérience politique et sa vision chrétienne de la société. \n\nRetrouvez l'entretien complet avec Jean-Luc Schauffauser :"
+    },
+    {
+      "author_name": "Cercle Aristote",
+      "published_at": "2026-11-21 00:11",
+      "text": "[Retweet de @Cercle_Aristote] Si vous aidez quelqu'un en conflit avec un autre, que vous lui donnez de l'argent et des armes, que vous réparez ses armes, que vous lui dites où tirer, cela ne fait pas de vous un complice.\n\nEt l'autre ne doit pas vous attaquer.\n\n(Ils planent très haut ces gens)"
+    },
+    {
+      "author_name": "Cercle Aristote",
+      "published_at": "2026-11-21 00:11",
+      "text": "[Retweet de @Cercle_Aristote] Petit cadeau de l'UE, une nouvelle fois."
+    },
+    {
+      "author_name": "Cercle Aristote",
+      "published_at": "2026-11-21 00:11",
+      "text": "[Retweet de @Cercle_Aristote] Seule l’UE nous vassalise.\n\nEt l’UE est vassalisée aux démocrates US. C’est bien pour cela qu’il faut sortir de cet enfer pour redevenir libre."
+    },
+    {
+      "author_name": "Cercle Aristote",
+      "published_at": "2026-11-21 00:11",
+      "text": "[Retweet de @Cercle_Aristote] Des nouvelles du fameux couple franco-allemand… 🤡\n\nLes Allemands veulent nous imposer leurs vues. Et les dirigeants français se couchent. \n\nVichysme du temps de paix."
+    },
+    {
+      "author_name": "Cercle Aristote",
+      "published_at": "2026-11-21 00:12",
+      "text": "[Retweet de @Cercle_Aristote] Corrompus, drogués, et ça donne ensuite des leçons.\n\nIl est temps de donner un grand coup de balais."
+    },
+    {
+      "author_name": "Cercle Aristote",
+      "published_at": "2026-11-21 00:12",
+      "text": "[Retweet de @Cercle_Aristote] Tant qu’il gagne, il joue.\n\nEt les Français perdent."
+    },
+    {
+      "author_name": "Cercle Aristote",
+      "published_at": "2026-11-21 00:12",
+      "text": "[Retweet de @Cercle_Aristote] 🔴 À PROPOS DE L’ARCOM QUI CONTRÔLERA LES TEMPS DE PAROLE 🔴\n\nC’est assez flou et cela pourrait peut-être affecter le travail du Cercle.\n\nC’est pourquoi nous pourrions faire un pas de côté et parler d’autre chose. \nD’un univers inventé par exemple (toute ressemblance sera"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-21 00:16",
+      "text": "La nouvelle création originale de Netflix retrace l’ascension fulgurante puis la chute de Sam Bankman-Fried et de sa compagne, un couple au cœur de l’une des plus grandes fraudes financières de l’histoire récente.\n\nPar @katiadlb\n➡️ https://l.lepoint.fr/zzC"
+    },
+    {
+      "author_name": "ThinkerView",
+      "published_at": "2026-11-21 00:18",
+      "text": "Notre prochain invité politique sera François Asselineau @f_asselineau ! \nNe venez pas nous faire chier. Bande de pa**sites entretenus avec notre argent.\nOn invite qui on veut, quand on veut et le temps qu’on veut. Point."
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-20 00:24",
-      "text": "17 octobre : «On a eu affaire à une guérilla urbaine», décrit Rudy Manna, dans #SoirInfo\n\nToute l'info est à retrouver sur https://cnews.fr"
+      "published_at": "2026-11-21 00:19",
+      "text": "Joseph Thouvenel sur le rapprochement stratégique des écologistes vers LFI : «Ce qui change, c'est que Marine Tondelier ne pèse presque plus rien dans les sondages», dans #SoirInfoWE\n\nToute l'info est à retrouver sur https://cnews.fr"
     },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-21 00:22",
+      "text": "Soupçonné d’avoir fourni au RN des documents judiciaires couverts par le secret, le préfet du Loiret, haut fonctionnaire atypique et fort en gueule, a été convoqué ce vendredi matin par le ministre de l’Intérieur\n\nPortrait ➡️ https://l.leparisien.fr/iLai"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-21 00:23",
+      "text": "«En réalité, entre les Écologistes et la France insoumise, il y a l'épaisseur d'un papier de cigarette», estime François Constantini, dans #SoirInfoWE\n\nToute l'info est à retrouver sur https://cnews.fr"
+    }
+  ],
+  "context": [
     {
       "author_name": "Le Figaro",
       "published_at": "2026-11-20 00:30",
@@ -4022,6 +4100,11 @@
       "author_name": "LCP",
       "published_at": "2026-11-20 11:22",
       "text": "#Budget de la Sécu : « On a eu la totale : réforme des retraites, 37 heures, gel des prestations. Chaque année c’est la même rengaine. La droite sénatoriale est obsédée pour faire les poches des Français en laissant les plus aisés tranquilles » @Cardon_Remi #ParlementHebdo"
+    },
+    {
+      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
+      "published_at": "2026-11-20 11:22",
+      "text": "[Retweet de @dannyconversano] - Les Community Managers des politiques français : Eh, faut absolument qu'on surfe sur la sortie de GTA VI pour être dans le coup !\n- Les politiques : Ah oui ? C'est quoi ?\n- Un jeu vidéo très célèbre\n- Mais... ça respecte nos valeurs, au moins ?\n- ... Hum... oui, oui, t'inquiète"
     },
     {
       "author_name": "Le Figaro",
