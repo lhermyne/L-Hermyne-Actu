@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-20 17:28",
-  "period": "du 2026-11-19 17:28 au 2026-11-20 17:28",
-  "new_period": "du 2026-11-20 08:00 au 2026-11-20 17:28",
-  "context_period": "du 2026-11-19 17:28 au 2026-11-20 08:00",
+  "generated_at": "2026-11-20 17:58",
+  "period": "du 2026-11-19 17:58 au 2026-11-20 17:58",
+  "new_period": "du 2026-11-20 08:00 au 2026-11-20 17:58",
+  "context_period": "du 2026-11-19 17:58 au 2026-11-20 08:00",
   "coverage_complete": true,
-  "new_count": 1001,
-  "context_count": 655,
-  "duplicates_merged": 86,
+  "new_count": 1064,
+  "context_count": 603,
+  "duplicates_merged": 89,
   "empty_removed": 4,
   "new": [
     {
@@ -2836,7 +2836,10 @@
     {
       "author_name": "Institut ILIADE",
       "published_at": "2026-11-20 12:27",
-      "text": "🎄 NOS EXPOSANTS SE PRÉPARENT !\n\nArtisans, créateurs, artistes et passionnés de belles choses mettent la dernière main à leurs créations pour vous retrouver au Marché de Noël de l’Institut Iliade !\n\nBijoux, coutellerie, sculpture sur bois, artisanat européen, curiosités,"
+      "text": "🎄 NOS EXPOSANTS SE PRÉPARENT !\n\nArtisans, créateurs, artistes et passionnés de belles choses mettent la dernière main à leurs créations pour vous retrouver au Marché de Noël de l’Institut Iliade !\n\nBijoux, coutellerie, sculpture sur bois, artisanat européen, curiosités,",
+      "also_by": [
+        "Jean-Yves Le Gallou"
+      ]
     },
     {
       "author_name": "Le Parisien | politique",
@@ -3780,7 +3783,10 @@
     {
       "author_name": "Jean-Yves Le Gallou",
       "published_at": "2026-11-20 14:35",
-      "text": "[Retweet de @PeterColumns] Le Danemark est le pays européen le mieux géré d'Europe avec des débats rationnels, de la croissance (4.5% prévu en 2026), une faible dette, une immigration maitrisée, une politique de remigration, et ce n'est pas un hasard s'ils expliquent ne pas vouloir du changement de peuple."
+      "text": "[Retweet de @PeterColumns] Le Danemark est le pays européen le mieux géré d'Europe avec des débats rationnels, de la croissance (4.5% prévu en 2026), une faible dette, une immigration maitrisée, une politique de remigration, et ce n'est pas un hasard s'ils expliquent ne pas vouloir du changement de peuple.",
+      "also_by": [
+        "Thaïs d’Escufon"
+      ]
     },
     {
       "author_name": "Jean-Yves Le Gallou",
@@ -4910,7 +4916,10 @@
     {
       "author_name": "Polémia",
       "published_at": "2026-11-20 17:02",
-      "text": "Décryptage de l'enquête Périclès (11/20)\n\n61 % des électeurs jugent l'islam incompatible avec les valeurs politiques et culturelles de la France : 72 % des électeurs de droite, 85 % de ceux du RN, 56 % de ceux de la majorité présidentielle, et 39 % de ceux du Nouveau Front"
+      "text": "Décryptage de l'enquête Périclès (11/20)\n\n61 % des électeurs jugent l'islam incompatible avec les valeurs politiques et culturelles de la France : 72 % des électeurs de droite, 85 % de ceux du RN, 56 % de ceux de la majorité présidentielle, et 39 % de ceux du Nouveau Front",
+      "also_by": [
+        "Jean-Yves Le Gallou"
+      ]
     },
     {
       "author_name": "Le Figaro",
@@ -4985,7 +4994,10 @@
     {
       "author_name": "Florian Philippot",
       "published_at": "2026-11-20 17:16",
-      "text": "À 19h ce vendredi 20/11 grand direct YouTube d’actualité sur ma chaîne ! 🇫🇷"
+      "text": "À 19h ce vendredi 20/11 grand direct YouTube d’actualité sur ma chaîne ! 🇫🇷",
+      "also_by": [
+        "Les Patriotes"
+      ]
     },
     {
       "author_name": "Gilbert Collard",
@@ -5099,291 +5111,330 @@
       "author_name": "Le Parisien",
       "published_at": "2026-11-20 17:27",
       "text": "Un prêt participatif à 3 % d’intérêts : le skipper Louis Duc embarque le grand public dans son nouveau projet de course\n➡️ https://l.leparisien.fr/xXgM"
-    }
-  ],
-  "context": [
+    },
+    {
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-20 17:28",
+      "text": "GTA VI : pour l’imam Rachid Eljay, l’islam, à travers le Coran, interdit aux personnes qui se revendiquent musulmanes d’y jouer"
+    },
+    {
+      "author_name": "Radio Courtoisie",
+      "published_at": "2026-11-20 17:29",
+      "text": "De l’antisémitisme de gauche au désaveu de Mediapart https://x.com/i/broadcasts/2BlQbWVgbgLzzX"
+    },
+    {
+      "author_name": "Rassemblement National",
+      "published_at": "2026-11-20 17:30",
+      "text": "L’Alsace, à vous de jouer ! Mercredi soir, Jordan Bardella dédicace « Gouverner » à Haguenau.\n\nVenez chercher votre exemplaire signé ! 🇫🇷"
+    },
+    {
+      "author_name": "Jean-Yves Le Gallou",
+      "published_at": "2026-11-20 17:30",
+      "text": "[Retweet de @Bousquet_FR] Monsieur @GabrielAttal REFUSE de reconnaître l'expression \"racisme anti-blanc\" parce qu’il ne serait pas SYSTÉMIQUE.\n\nQu'on en finisse une bonne fois pour toutes avec ces foutaises : IL N’Y A PAS DE DISCRIMINATION À L’EMBAUCHE DES NOIRS ET DES ARABES !\n\nC’est même le contraire ⤵️"
+    },
+    {
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-20 17:30",
+      "text": "Dans son Autobiographie de 1821, Thomas Jefferson se souvient de ses années en France. Il rend hommage à la bienveillance des Français et à leur fidélité dans les relations d’amitié.\n\n https://www.fdesouche.com/2026/11/20/phrase-du-jour-jefferson-1821-20261120/"
+    },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-20 17:30",
+      "text": "Le géant de l’IA Anthropic chute de 9 % pour sa deuxième séance à Wall Street. →https://l.lefigaro.fr/BLrp"
+    },
+    {
+      "author_name": "VA+",
+      "published_at": "2026-11-20 17:30",
+      "text": "🔴 « Mais ils sont où les candidats du Frexit ? » : Franck Ferrand plaide pour une sortie de l'Union européenne et de l'euro.\n\n« Je voterai si possible pour le candidat [...] favorable à la sortie de l'Union européenne », affirme-t-il, envisageant un vote blanc faute de candidat."
+    },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-19 17:28",
-      "text": "L’alerte de Thierry Breton : « Les Français ne doivent pas se contenter d’être les derniers de la classe » https://l.leparisien.fr/C545",
+      "published_at": "2026-11-20 17:31",
+      "text": "The Strokes en concert au festival Off Track sur l’hippodrome de Longchamp en 2027… Découvrez le prix des places\n➡️ https://l.leparisien.fr/Hfsm"
+    },
+    {
+      "author_name": "UNI",
+      "published_at": "2026-11-20 17:32",
+      "text": "L’@UNEF nous attribue des propos tenus par des militants d’extrême gauche … Pire encore, ils oublient qu’en avril 1941, lors d'un congrès à Tain-l'Hermitage, leurs représentants adressaient un message de soutien au maréchal Pétain et à sa politique et adoptaient parmi d'autres,\n[Cite @uni_lyon] 1/3 Le naufrage de l’UNEF est total.  Pour gratter quelques voix et nous discréditer, ils nous attribuent des faits que nous avons nous même dénoncés.  Quand on n'a plus ni bilan ni idées, il ne reste que la calomnie et la bassesse. Honte à vous.\n\nUne plainte sera déposée."
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-20 17:32",
+      "text": "🔴 Émission spéciale avec @PatSebastien : \"Ils m'ont toujours traité de beauf\" #LesVraiesVoix\n\n🎙️ \"Peut-être qu'en France, on est très intelligents et que le reste, c'est des cons, mais je pense que c'est surtout l'inverse\"\n\n📺 https://SudRadio.fr"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-20 17:33",
+      "text": "« Napoléon est un dictateur au sens romain » https://l.lepoint.fr/t4p"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-20 17:35",
+      "text": "«Ils n'ont pas eu peur de prendre des mesures comme celles de remise en cause» : Marc Warnod revient sur la politique migratoire du Danemark, évoquant notamment celle du regroupement familial, dans #PunchlineWE\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Ni Oubli Ni Pardon",
+      "published_at": "2026-11-20 17:35",
+      "text": "🔴 RAPPEL 🥳"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-20 17:35",
+      "text": "Présidentielle 2027 : les influenceurs devront respecter l’égalité du temps de parole, les questions que ça pose https://l.leparisien.fr/2lBW",
       "also_by": [
         "Le Parisien | politique"
       ]
     },
     {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-19 17:29",
-      "text": "🔴 90 % des Français préfèrent l'entrepreneuriat aux patrons : \"En France, on a une mauvaise culture de l'entreprise\" #LesVraiesVoix\n\n🎙️ @alainafflelou : \"L'échec fait partie de la réussite\"\n\n📺 https://SudRadio.fr"
-    },
-    {
-      "author_name": "Radio Courtoisie",
-      "published_at": "2026-11-19 17:29",
-      "text": "Mélenchon chez les patrons : virage politique ou coup de communication ? https://x.com/i/broadcasts/2JQeWbOePzoVkr"
-    },
-    {
-      "author_name": "TVL",
-      "published_at": "2026-11-19 17:30",
-      "text": "📚 Rendez-vous vendredi à partir de 20 heures au café Régalia (Paris XVe) pour le lancement du 55e numéro de la revue @Livr_arbitres dédiée à la Russie, « laboratoire des idéologies »."
-    },
-    {
-      "author_name": "Valeurs actuelles",
-      "published_at": "2026-11-19 17:30",
-      "text": "🗞️ Qui fait campagne pour David Lisnard et qui lui prête une oreille attentive ?\nhttps://l.valeursactuelles.com/rmN"
-    },
-    {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-19 17:30",
-      "text": "En 1869, Ernest Renan conclut une réflexion sur l’histoire politique française par une formule devenue célèbre. Il associe le nom de la France à une ambition qui refuse la médiocrité.\n\n https://www.fdesouche.com/2026/11/19/phrase-du-jour-renan-1869-20261119/"
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-19 17:30",
-      "text": "Parmi les sept blessés, quatre l'ont été grièvement.→https://l.lefigaro.fr/Cl5M"
-    },
-    {
-      "author_name": "Tribune Populaire🌐",
-      "published_at": "2026-11-19 17:31",
-      "text": "📂📺FLASH INFO - Présidentielle 2027 : l'Arcom impose le pluralisme aux créateurs de contenus !\n\nC'est officiel depuis ce jeudi 19 novembre. Pour la première fois, les YouTubeurs, podcasteurs et influenceurs qui couvrent régulièrement la politique devront respecter les règles de"
-    },
-    {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-19 17:31",
-      "text": "Eugénie Bastié sur GTA 6 : \"Les mêmes qui nous expliquent que les mots tuent et qu'un dessin animé Disney transmet le patriarcat trouvent absolument génial un jeu vidéo où on bute des innocents à bout portant pour s'amuser.\""
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-19 17:31",
-      "text": "Violence des mineurs : «Assez responsables pour voter, mais irresponsables de leurs actes», s’indigne François de Rugy, dans #Punchline\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Le JDD",
-      "published_at": "2026-11-19 17:31",
-      "text": "Audiovisuel public : le comique Merwane Benlazar raille «la cuisine du Blanc moyen» sur les ondes de France Inter https://ow.ly/4CMq106J1C4"
+      "author_name": "Jean-Yves Le Gallou",
+      "published_at": "2026-11-20 17:36",
+      "text": "[Retweet de @JrmCortier] Tribune de MLP sur le business politique et idéologique des associations de gauche sur le dos des contribuables au detriment des patriotes et au profit des bolchos. \nCe n'est pas un petit sujet. C une ingénierie sur laquelle repose 50 ans de terrorisme intellectuel"
     },
     {
       "author_name": "Sénat",
-      "published_at": "2026-11-19 17:31",
-      "text": "🔴 Le Sénat a adopté à l'unanimité la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant\n\n344 voix pour ✅\n0 voix contre ❌\n\n🔗 En savoir plus : https://www.senat.fr/lessentiel/ppl26-032.pdf\n\n@f_puissat / Philippe Mouiller"
+      "published_at": "2026-11-20 17:37",
+      "text": "💰Interrogé notamment sur la dette, \"Les plus riches doivent contribuer au bien commun\" a déclaré @Ph_Aghion, @NobelPrize d'économie, devant la commission des affaires européennes (présidée par @ronan_legleut), soulignant qu'il est \"plus facile de demander des efforts aux"
     },
     {
-      "author_name": "Nicolas Dupont-Aignan",
-      "published_at": "2026-11-19 17:31",
-      "text": "Les Français doivent savoir ce qu’il se passera si l’on reste dans l’Union européenne…\n\nJe suis le seul candidat qui se donnera tous les leviers d’action nécessaires pour redresser la France. Les autres resteront les caisses enregistreuses de Bruxelles.\n\nAidez-nous à résister !"
+      "author_name": "AgoraVox",
+      "published_at": "2026-11-20 17:37",
+      "text": "[Retweet de @26stress] Dette publique et système financier : comprendre les circuits de transfert des richesses - AgoraVox le média citoyen https://www.agoravox.fr/actualites/economie/article/dette-publique-et-systeme-273534 via @AgoraVox"
+    },
+    {
+      "author_name": "Médias-Presse-Info",
+      "published_at": "2026-11-20 17:38",
+      "text": "Rencontre trilatérale historique entre Trump, Poutine et Xi. L’Europe grande absente\n\nhttps://www.medias-presse.info/rencontre-trilaterale-historique-trump-poutine-et-xi-europe-absente/254234/"
+    },
+    {
+      "author_name": "Médias-Presse-Info",
+      "published_at": "2026-11-20 17:38",
+      "text": "La Chine, les États-Unis et la Russie publient une « Déclaration commune de paix »\n\nhttps://www.medias-presse.info/chine-etats-unis-russie-declaration-commune-paix/254237/"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-19 17:33",
-      "text": "« Ce manque immense que le temps n’efface pas » : trois ans après, l’hommage des parents de Thomas, tué à Crépol\n➡️ https://l.leparisien.fr/1RHb"
+      "published_at": "2026-11-20 17:38",
+      "text": "Un village ariégeois offre des bons d’essence à ses habitants\n➡️ https://l.leparisien.fr/DjCK"
     },
     {
-      "author_name": "Le Point",
-      "published_at": "2026-11-19 17:34",
-      "text": "De ses 465 millions de jeux vendus aux milliards de dollars générés par GTA V, la saga aligne des chiffres vertigineux. Retour sur l’ascension d’un phénomène mondial.\n\nPar @Nounsette\n➡️ https://l.lepoint.fr/t4H"
-    },
-    {
-      "author_name": "Le Crayon",
-      "published_at": "2026-11-19 17:34",
-      "text": "« Il m'a proposé 1 000 € pour recruter une fille. » ⚠️\n\nLa journaliste Tess Aibar s'est glissée \"Dans la peau d’une influenceuse\" pour enquêter de l'intérieur. \n\nDerrière le mythe de \"l'argent facile\" : sollicitations s*xuelles et proxénétisme 2.0 en DM."
+      "author_name": "Médias-Presse-Info",
+      "published_at": "2026-11-20 17:39",
+      "text": "Bulletin N° 317 – Centre d’Analyse Politico-Stratégique – Shenzhen centre du monde, guerre des ponts, gauche belliciste. – 20 novembre 2026\n\nhttps://www.medias-presse.info/bulletin-n-317-centre-danalyse-politico-strategique-shenzhen-centre-du-monde-guerre-des-ponts-gauche-belliciste-20-novembre-2026/254205/"
     },
     {
       "author_name": "Sud Radio",
-      "published_at": "2026-11-19 17:34",
-      "text": "‼️ @alainafflelou évoque ses craintes vis-à-vis du climat politique actuel #LesVraiesVoix\n\n🎙️ \"Ça fait peur, on est en train de retomber très bas. On nous conseille de retirer les mezouzah des portes, de ne pas dire qui on est, de ne pas nous montrer\"\n\n📺 https://SudRadio.fr"
+      "published_at": "2026-11-20 17:39",
+      "text": "🎙️ @PatSebastien : \"Le seul qui puisse nous sortir de la merde, c'est @lisnard. J'en ai marre qu'on attise la haine, le pays a besoin d'être rassemblé\" #LesVraiesVoix\n\n📺 https://SudRadio.fr"
     },
     {
-      "author_name": "Ni Oubli Ni Pardon",
-      "published_at": "2026-11-19 17:35",
-      "text": "🔴 RAPPEL"
+      "author_name": "Médias-Presse-Info",
+      "published_at": "2026-11-20 17:39",
+      "text": "De la réalité historique à la bande dessinée « Les Aventuriers de la Comète » – Nouvelle aventure aux éditions du Puy du Fou\n\nhttps://www.medias-presse.info/de-la-realite-historique-a-la-bande-dessinee-les-aventuriers-de-la-comete-nouvelle-aventure-aux-editions-du-puy-du-fou/254245/"
     },
     {
-      "author_name": "Samuel Lafont",
-      "published_at": "2026-11-19 17:36",
-      "text": "Ça parle beaucoup de physique vs démat' avec GTA 6.\n\nVos derniers jeux, vous les avez achetés sous quel format ? Et le remake d'Ocarina of Time ? \nCertains ont préco l'AES+ ici ?"
+      "author_name": "Comité Trump France",
+      "published_at": "2026-11-20 17:39",
+      "text": "C'est malheureusement bien ça."
+    },
+    {
+      "author_name": "Médias-Presse-Info",
+      "published_at": "2026-11-20 17:39",
+      "text": "Ignace – Marine Tondelier veut rallier Mélenchon\n\nhttps://www.medias-presse.info/ignace-marine-tondelier-veut-rallier-melenchon/254257/"
+    },
+    {
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-20 17:40",
+      "text": "[POINT DE VUE] L'eurodéputée Céline Imart défend Retailleau et la France des doudounes… | Par Arnaud Florac\nTout vêtement est politique. Fillon est tombé pour deux costumes Arnys. \n \nhttps://www.bvoltaire.fr/point-de-vue-leurodeputee-celine-imart-defend-retailleau-et-la-france-des-doudounes/"
     },
     {
       "author_name": "Europe 1",
-      "published_at": "2026-11-19 17:37",
-      "text": "\"Les voitures chinoises sont dopées à la technologie, les jeunes aiment les couleurs, aiment les belles formes, donc on revient vers une automobile passion, qu'on avait un peu oubliée en Europe.\" affirme Luc Chatel #Europe1 #PascalPraudEtVous @PascalPraud"
+      "published_at": "2026-11-20 17:41",
+      "text": "Sexualité : «On a complètement oublié d'être dans quelque chose d'individuel», regrette Sophie Pilcer https://ow.ly/F3S4106JbE6"
     },
     {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-19 17:37",
-      "text": "« On est tombé de notre chaise » : dans une impasse, Marine Tondelier tend la main à Jean-Luc Mélenchon https://l.leparisien.fr/h1yx"
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-20 17:43",
+      "text": "Ceuta : hausse inédite des violences depuis l’arrivée massive de migrants | Par  @ClemdeLongraye\nDepuis l’invasion de l’enclave espagnole, les agressions sexuelles ont ainsi augmenté de 650 %. \n \nhttps://www.bvoltaire.fr/ceuta-hausse-inedite-des-violences-depuis-larrivee-massive-de-migrants/"
     },
     {
-      "author_name": "Front Populaire",
-      "published_at": "2026-11-19 17:37",
-      "text": "La France pourrait perdre 15 milliards d’aides dans le cadre du prochain budget de la PAC.\n\nLa ministre de l’Agriculture Annie Genevard concède qu’il va falloir « se battre ». En langage souverainiste, on dit « quémander ». 👇\nhttps://frontpopulaire.fr/international/contents/agriculture-et-futur-budget-de-la-pac-la-france-cocue_tco_31984276"
+      "author_name": "Europe 1",
+      "published_at": "2026-11-20 17:44",
+      "text": "\"Tout le monde dans la cour de récréation jouait à cela. Il faut quand même se dire qu'il y a 300 millions de personnes dans le monde qui ont joué à GTA V.\" déclare @JulesTorres17 #Europe1 #PascalPraudEtVous @PascalPraud"
+    },
+    {
+      "author_name": "L'Express",
+      "published_at": "2026-11-20 17:44",
+      "text": "D’un côté, le programme de Jean-Luc Mélenchon. De l’autre, les auteurs Fayard. Si les extrêmes cartonnent, c’est plus compliqué pour les autres…\n\n➡️ https://l.lexpress.fr/fgW https://l.lexpress.fr/fgW"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-20 17:44",
+      "text": "Drame de Crépol : «On est dans le déni le plus total», déplore François Pupponi, ancien député, dans #PunchlineWE\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Quenel+",
+      "published_at": "2026-11-20 17:44",
+      "text": "[Retweet de @PlusQuenel] @MbalaDieudo Pour suivre les projets :https://quenelplus.com/gqa"
+    },
+    {
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-20 17:45",
+      "text": "« Si les arabophones deviennent plus nombreux que les francophones en France, Jean-François Copé dira-t-il, comme pour le voile, qu’il est trop tard pour agir ? »\n@gabriellecluzel sur Face à l’Info (@CNEWS)"
+    },
+    {
+      "author_name": "Eric Ciotti",
+      "published_at": "2026-11-20 17:45",
+      "text": "À la caserne Magnan, avec Bernard Chaix, Christelle D’Intorni et les lieutenants-colonels Olivier Riquier et Olivier Pauletti, pour la remise du drapeau historique restauré des sapeurs-pompiers de Nice !\n\nUn emblème de plus de 125 ans, symbole de courage, de sacrifice et de"
+    },
+    {
+      "author_name": "Alain Weber",
+      "published_at": "2026-11-20 17:45",
+      "text": "« Que Mélenchon ait pompé Chavez… ».\n\nJe suis étonné que @SophiaAram parle aussi ouvertement de la vie intime du leader minimo… 🤔.         Quel manque de délicatesse si Chikirou devait l’apprendre ainsi… 🙄\n[Cite @SophiaAram] Que Mélenchon ait pompé Chavez n’étonne personne, en revanche je trouve ça fou qu’il y ait des gens pour croire que ce qui a ruiné le Venezuela sauverait la France. 🤦🏽‍♀️"
+    },
+    {
+      "author_name": "Agence France-Presse",
+      "published_at": "2026-11-20 17:45",
+      "text": "💼 Le ministre du Travail et des Solidarités, Jean-Pierre Farandou, s'est dit favorable à la suppression de l'abattement de 10 % appliqué aux pensions de retraite pour le calcul de l'impôt sur le revenu.\n\n➡️ https://u.afp.com/SF2T"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-20 17:45",
+      "text": "🎮  GTA VI : comment y jouer des heures sans dégrader sa santé\nhttps://www.sudradio.fr/?p=933236"
+    },
+    {
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-20 17:46",
+      "text": "Huit ans après son inauguration dans le XVIIIe arrondissement de Paris, aucun train de marchandises n’a desservi le terminal de Chapelle International. Le premier est envisagé au mieux en 2030.\n\nhttps://www.fdesouche.com/2023/09/19/chapelle-international-le-quartier-flambant-neuf-du-nord-de-paris-ou-presque-personne-ne-veut-habiter/"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-19 17:38",
-      "text": "Quatre mois après avoir entassé 12 (douze !) enfants dans un véhicule une heure durant, pour esquiver un contrôle de conformité, les deux assistantes maternelles d'Yerres (qui s'occupaient de 17 enfants) ont comparu devant la justice.\n\nLa plus jeune avait 3 mois, il faisait 36"
+      "published_at": "2026-11-20 17:46",
+      "text": "« Ne pas rester seul pour éviter de flancher » : ces étudiants tiraillés entre soutien à la colère et angoisse pour l’avenir\n➡️ https://l.leparisien.fr/Os3U"
     },
     {
-      "author_name": "Élysée",
-      "published_at": "2026-11-19 17:40",
-      "text": "EN DIRECT | Réunion de la Coalition des volontaires à Berlin : conférence de presse. https://x.com/i/broadcasts/2POeLjmERXzolo",
-      "also_by": [
-        "Gouvernement"
-      ]
+      "author_name": "Damien Rieu",
+      "published_at": "2026-11-20 17:46",
+      "text": "[Retweet de @PeterColumns] Ce système doit être réduit en cendres. Il est complètement anormal que les bas salaires bénéficient d'autant d'exonérations de charges. C'est une véritable incitation à devenir une économie du tiers-monde.\n\nLe plus fou est d'appliquer ces exonérations à une immigration à bas"
+    },
+    {
+      "author_name": "Le Média en 4⃣-4⃣-2⃣",
+      "published_at": "2026-11-20 17:47",
+      "text": "Euro numérique : Bruxelles veut encadrer votre portefeuille, la BCE prépare déjà les essais \nhttps://lemediaen442.fr/euro-numerique-bruxelles-veut-encadrer-votre-portefeuille-la-bce-prepare-deja-les-essais/ \n\nBruxelles discute encore des règles du portefeuille. À Francfort, la BCE prépare les essais."
+    },
+    {
+      "author_name": "Le Figaro Culture",
+      "published_at": "2026-11-20 17:48",
+      "text": "Sinatra a un rhume, de Gay Talese : un portrait unique du crooner par le dernier prince du Nouveau Journalisme https://l.lefigaro.fr/Xf0S"
+    },
+    {
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-20 17:49",
+      "text": "Aux yeux d’Audrey Pulvar, les Français de souche sont déjà morts | Par  @samuel_pinxit\nPartant d'une analyse sémantique hasardeuse de la « souche », Audrey Pulvar nous déclare finis. \n \nhttps://www.bvoltaire.fr/aux-yeux-daudrey-pulvar-les-francais-de-souche-sont-deja-morts/"
+    },
+    {
+      "author_name": "Damien Rieu",
+      "published_at": "2026-11-20 17:50",
+      "text": "[Retweet de @AmauryBucco] ➡️ Bel exemple de ce que la (parfois très politique) PQR peut faire, très insidieusement, pour transformer la victime (une jeune femme visée par des menaces en raison de son engagement politique à droite) en coupable :"
+    },
+    {
+      "author_name": "Eric Ciotti",
+      "published_at": "2026-11-20 17:50",
+      "text": "Ce drapeau porte la mémoire de 11 sapeurs-pompiers niçois morts pour la France durant la Première Guerre mondiale et de 3 autres durant la Seconde.\n\n« Unis pour ne pas subir » : cette devise incarne un esprit de corps transmis de génération en génération, que nous devons"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-20 17:50",
+      "text": "Les élus, rassemblés pour leur Congrès annuel à Paris, du 24 au 26 novembre, sont plus que jamais en première ligne. Et doivent rivaliser d’imagination pour pallier les manques de l’État.\n\n➡️ https://l.lepoint.fr/oMT\nPar @Jeromecordelier"
+    },
+    {
+      "author_name": "Marion Maréchal",
+      "published_at": "2026-11-20 17:50",
+      "text": "Le scandaleux refus du parquet de Grenoble de reconnaître le caractère raciste anti-Blanc de l’attaque du bal de Crépol."
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-20 17:51",
+      "text": "Toulon : un homme de 32 ans condamné à deux ans de prison pour avoir tué et dépecé une chatte\n➡️ https://l.leparisien.fr/aCS4"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-20 17:51",
+      "text": "Oise : un bébé de 14 mois retrouvé seul, oublié dans une crèche fermée https://ow.ly/Th5y106JbMW"
+    },
+    {
+      "author_name": "Nicolas Dupont-Aignan",
+      "published_at": "2026-11-20 17:51",
+      "text": "En cette journée mondiale de l’enfance, j’ai signé le Pacte citoyen contre la pédocriminalité, porté par Karl Zéro.\n\nSes 15 mesures d’urgence seront au cœur de mon projet présidentiel.\n\nLa protection de nos enfants sera ma priorité absolue. Face à la pédocriminalité, aucune"
+    },
+    {
+      "author_name": "Aldo Sterone",
+      "published_at": "2026-11-20 17:52",
+      "text": "On ne quitte pas l'UE par un vote"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-20 17:53",
+      "text": "Cargo échoué sur une plage landaise : pourquoi les conditions météo compliquent les opérations\n➡️ https://l.leparisien.fr/UprV"
+    },
+    {
+      "author_name": "Observatoire de l'immigration et de la démographie",
+      "published_at": "2026-11-20 17:53",
+      "text": "🇩🇰 Le nombre de nouvelles demandes d'asile reçues au Danemark a baissé de 85% en dix ans (2014-2024).\n\n🇫🇷 Sur la même période : il a augmenté de 120% en France.  \n\nLe gouvernement danois poursuit un objectif officiel de « zéro demandeur d'asile »."
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-20 17:53",
+      "text": "Le journaliste politique d'Europe 1 Louis de Raguenel revient sur le déploiement des effectifs de police lors des manifestations, dans #PunchlineWE\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "LCP",
+      "published_at": "2026-11-20 17:53",
+      "text": "Logement: location des passoires thermiques, mesures pour relancer la construction... Ce que contient le projet de loi avant le vote prévu mardi à l'Assemblée nationale\nhttps://lcp.fr/actualites/logement-passoires-thermiques-mesures-pour-relancer-la-construction-ce-que-contient-le"
+    },
+    {
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-20 17:54",
+      "text": "« Ce sont les Noirs et les Arabes ! » : Fatima Ouassak fait l’éloge des casseurs | Par  @jeankastoff\nLa militante célèbre les casseurs, revendique la conquête de territoires et appelle à constituer des maquis en France. \n \nhttps://www.bvoltaire.fr/ce-sont-les-noirs-et-les-arabes-fatima-ouassak-fait-leloge-des-casseurs/"
+    },
+    {
+      "author_name": "Alain Weber",
+      "published_at": "2026-11-20 17:54",
+      "text": "C’est toujours particulièrement riche d’enseignements, d’écouter ou de lire @AlexDevecchio.\n[Cite @AlexDevecchio] Notre pays est englué dans la crise économique et profondément fracturé sur le plan identitaire, d'où le pessimisme ambiant. S'y ajoute le sentiment largement partagé d'une impuissance des politiques à résoudre les problèmes des Français : le pouvoir n'a plus le pouvoir et les"
+    },
+    {
+      "author_name": "Tocsin",
+      "published_at": "2026-11-20 17:55",
+      "text": "🏛️ Politocs !\n\n🎙️ 2027 : David Lisnard veut faire exploser le système Macron\n\n🗣️ @QuentinHoster \nhttps://youtu.be/UvbL1le3UFg"
     },
     {
       "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-19 17:41",
-      "text": "Présidentielle 2027 : elle avait quitté LFI en 2024, la députée Clémentine Autain appelle à soutenir Jean-Luc Mélenchon\n➡️ https://l.leparisien.fr/tQ9J",
+      "published_at": "2026-11-20 17:55",
+      "text": "Après son film autobiographique, Melania Trump revient avec une série documentaire en deux parties sur Amazon Prime\n➡️ https://l.leparisien.fr/kKvy",
       "also_by": [
         "Le Parisien"
       ]
     },
     {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-19 17:42",
-      "text": "Activités qui interrogent, mission en cours... Les Américains publient une photo d'un étrange avion spatial chinois https://ow.ly/Xc6s106J1MS"
-    },
-    {
-      "author_name": "Boulevard Voltaire",
-      "published_at": "2026-11-19 17:43",
-      "text": "[Retweet de @GabrielBendayan] Mais quel niveau de socialisme sera suffisant pour eux en fait ?"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-19 17:44",
-      "text": "« Cela faisait 24 ans qu’il siégeait sur nos bancs » : le député David Habib est décédé à 65 ans, annonce la présidente de l’Assemblée https://l.leparisien.fr/bOIv",
-      "also_by": [
-        "Le Parisien | politique"
-      ]
-    },
-    {
-      "author_name": "Tribune Populaire🌐",
-      "published_at": "2026-11-19 17:44",
-      "text": "Quand le système perd la main, l'un de ses grands réflexes est de restreindre les libertés, celle de manifester comme celle de s'exprimer. \n\nC'est méthodique, étape par étape, en misant sur l'amnésie des gens..\n[Cite @TribunePop23] 📂📺FLASH INFO - Présidentielle 2027 : l'Arcom impose le pluralisme aux créateurs de contenus !\n\nC'est officiel depuis ce jeudi 19 novembre. Pour la première fois, les YouTubeurs, podcasteurs et influenceurs qui couvrent régulièrement la politique devront respecter les règles de"
-    },
-    {
-      "author_name": "Boulevard Voltaire",
-      "published_at": "2026-11-19 17:45",
-      "text": "📺 « Beaucoup de victimes d’actes anti-Chrétiens ne vont pas porter plainte. Il arrive même, en cas d’acte anti-Chrétien dans une église, que le clergé minimise. Mais on ne peut pas sacrifier la vérité sur l’autel du vivre-ensemble. »\n@gabriellecluzel sur Face à l’Info (@CNEWS)"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-19 17:46",
-      "text": "Présidentielle 2027 : François de Rugy et Éric Naulleau en désaccord sur le lancement de campagne de Teddy Riner, dans #Punchline\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Clément Macchi",
-      "published_at": "2026-11-19 17:46",
-      "text": "C’est le sondage de l’année"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-19 17:46",
-      "text": "Automobile français : \"Vous êtes champion du monde dans votre catégorie, vous arrêtez votre catégorie et j'ai une mauvaise nouvelle, la compétition va se faire dans une autre catégorie que vous ne maîtrisez pas\" explique Luc Chatel #Europe1 #PascalPraudEtVous @PascalPraud"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-19 17:46",
-      "text": "« On peut travailler et être pauvre », l’alerte du Secours Catholique sur la précarité en Eure-et-Loir\n➡️ https://l.leparisien.fr/WdOa"
-    },
-    {
-      "author_name": "Boulevard Voltaire",
-      "published_at": "2026-11-19 17:47",
-      "text": "Un temple vandalisé : les protestants, eux aussi, victimes d'actes antichrétiens | Par Eric de Mascureau\nTroisième attaque en deux mois : symptôme d'une haine antichrétienne croissante et d'une impunité persistante. \n \nhttps://www.bvoltaire.fr/un-temple-vandalise-les-protestants-eux-aussi-victimes-dactes-antichretiens/?fsp_sid=26837"
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-19 17:47",
-      "text": "[Retweet de @LeFigaroTV] «Édouard Philippe a raison de ne pas vouloir de primaire. Quand on n'a plus rien à dire, on doit faire une primaire ?»\n\nLe coup de gueule d'Henri Guaino, auteur de «Aurons-nous enfin un président» (@EditionsFayard) dans Points de Vue."
-    },
-    {
-      "author_name": "Bruno Attal",
-      "published_at": "2026-11-19 17:50",
-      "text": "Corbière qui traite de raciste tous ses contradicteurs et qui menace un policier noir parce-qu’il serait trop violent.\n\n« Je suis député moi !! »"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-19 17:51",
-      "text": "«LFI et ses proxys d’extrême gauche ont rempli les jeunes cervelles d’une logique de violence», dénonce Eric Naulleau https://www.cnews.fr/france/2026-11-19/lfi-et-ses-proxys-dextreme-gauche-ont-rempli-les-jeunes-cervelles-dune-logique-de"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-19 17:51",
-      "text": "Un second tour Mélenchon-Le Pen ? «Que répondre à ça ? Bien sûr que ça m’inquiète», nous répond Nicola Sirkis.\n\nTournée record, show immersif à l’Atelier des Lumières, nouveaux concerts, manifestations lycéennes, présidentielle… Le leader d'Indochine se confie ➡️"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-19 17:52",
-      "text": "\"Si vous cantonnez la filière industrielle européenne sur l'électrique, elle ne sera plus dans le coup pour avoir des débouchés dans ces continents émergents.\" souligne Luc Chatel #Europe1 #PascalPraudEtVous @PascalPraud"
-    },
-    {
-      "author_name": "LCP",
-      "published_at": "2026-11-19 17:53",
-      "text": "\"Des enfants en poussette aspergés de gaz\": après les événements du 17 octobre, l'avocat Arié Alimi dénonce un \"état de guerre entre l’État et sa population\" https://lcp.fr/actualites/des-enfants-en-poussette-asperges-de-gaz-l-avocat-arie-alimi-denonce-un-etat-de-guerre"
-    },
-    {
-      "author_name": "ISSEP",
-      "published_at": "2026-11-19 17:54",
-      "text": "IMMIGRATION : EST-IL ENCORE TEMPS D’AGIR ?\n\nLe Club de l’ISSEP a le plaisir de recevoir @NPM_OID, directeur général et cofondateur de l’@ObservatoireID, pour une conférence consacrée à l’un des grands enjeux de notre temps.\n\nÀ l’occasion de la présentation de son ouvrage «"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-19 17:54",
-      "text": "\"Les américains investissent les chinois innovent, les européens réglementent. C'est ça la réalité.\" déplore Luc Chatel sur #Europe1 dans #PascalPraudEtVous @PascalPraud"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-19 17:54",
-      "text": "🎮 GTA IV : les jeux vidéo accentuent-ils la violence ? #LesVraiesVoix\n\n🎙️ \"Il faut faire la différence entre le virtuel et le réel. Mais si tout le monde n'est pas capable d'avoir ce recul, le problème est psychologique\" @PhDavidMtb\n\n📺 https://SudRadio.fr"
-    },
-    {
-      "author_name": "L'Express",
-      "published_at": "2026-11-19 17:54",
-      "text": "Le 16 novembre, le Premier ministre travailliste a prononcé un grand discours de politique étrangère pour mettre à plat dix années \"d'erreurs\" suite au Brexit. Avant le sommet entre le Royaume-Uni...\n\n➡️ https://l.lexpress.fr/8dP"
+      "author_name": "Le Point",
+      "published_at": "2026-11-20 17:56",
+      "text": "De Sylvestre II à Toutankhamon : 8 mystères avec et sans boule de gomme\n\nPar @Joseph1LeCorre https://l.lepoint.fr/kbg"
     },
     {
       "author_name": "Gendarmerie nationale",
-      "published_at": "2026-11-19 17:54",
-      "text": "#Intempéries 🌧️ Dans le #PasDeCalais, après avoir procédé à l'évacuation d'écoles, les #gendarmes, aux côtés des autres services de l'État et des habitants, mettent en sécurité la population suite aux intempéries.\n#Gendarmerie"
-    },
-    {
-      "author_name": "Le Point",
-      "published_at": "2026-11-19 17:55",
-      "text": "Contrairement à ce qu’affirment ses détracteurs, l’envoi par la France d’une mission militaire de soutien ne constitue ni une entrée en guerre ni une forme de « cobelligérance ». Explications.\n\n🖋️ LA CHRONIQUE de @Michel_Goya\n➡️ https://l.lepoint.fr/5rV"
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-19 17:56",
-      "text": "La France s’impose bien plus de normes contraignantes que ce qu’exige l’Europe, et elles étouffent nos entreprises, nos artisans et nos filières.\n\nPour libérer notre économie, nous supprimerons toutes ces contraintes superflues."
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-19 17:56",
-      "text": "Le directeur de la prison d’Aix-Luynes mis en examen et écroué pour détention d’images pédopornographiques\n➡️ https://l.leparisien.fr/2lBQ"
-    },
-    {
-      "author_name": "Tocsin",
-      "published_at": "2026-11-19 17:57",
-      "text": "JTTTV du 19/11 : le mascu radar, la nouvelle idée de génie de la mairie de Paris ! https://x.com/i/broadcasts/2qVOzPrmNaLrRA"
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-19 17:57",
-      "text": "La commande publique, financée par l’impôt des Français, doit en priorité soutenir l’activité et l’emploi sur notre territoire.\n\nNous instaurerons la priorité nationale dans les marchés publics, afin que nos entreprises, nos artisans et nos territoires en soient les premiers"
+      "published_at": "2026-11-20 17:56",
+      "text": "#Hommage 🇫🇷 Les honneurs militaires ont été rendus à Châteaulin à l'Adjudant Jordan STELLA, décédé en mission. Cérémonie présidée par @MariePierreV, ministre déléguée auprès du ministre de l’Intérieur, en présence du général d'armée Hubert Bonneau, Directeur Général de la"
     },
     {
       "author_name": "Europe 1",
-      "published_at": "2026-11-19 17:57",
-      "text": "Tirs de mortier dans les lycées : «Vous iriez au boulot si vous savez que vous pouvez vous faire tirer dessus ?», témoigne un père https://ow.ly/ZpBl106J1QW"
+      "published_at": "2026-11-20 17:57",
+      "text": "GTA VI : \"C'est un phénomène culturel et transgénérationnel.\" déclare Arthur, auditeur, sur #Europe1 dans #PascalPraudEtVous @PascalPraud"
     },
     {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-19 17:58",
-      "text": "🎮 GTA IV : les jeux vidéo accentuent-ils la violence ? #LesVraiesVoix\n\n🎙️ \"Je n'aimerais pas que mes enfants jouent avec ces choses-là. Le problème étant qu'aujourd'hui les jeunes sont tributaires de ça\" @alainafflelou\n\n📺 https://SudRadio.fr"
-    },
-    {
-      "author_name": "L’Infiltré",
-      "published_at": "2026-11-19 17:58",
-      "text": "« La justice manque de moyens, mais au sommet de la magistrature certains touchent jusqu’à 6500€ d’indemnités par mois et en plus de leur salaire »\n\nLes révélations de @JulesTorres17 sur le Conseil supérieur de la Magistrature.\n\n👉 Abonnez-vous à L’Infiltré à –50 % :"
-    },
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-20 17:57",
+      "text": "[Retweet de @BVoltaire] Red Week : les monuments français s'illuminent pour les chrétiens persécutés | Par Quitterie de Prémesnil\nDu 15 au 22 novembre, l'AED illumine en rouge cathédrales et monuments pour alerter sur les persécutions chrétiennes. \n \nhttps://www.bvoltaire.fr/red-week-les-monuments-francais-silluminent-pour-les-chretiens-persecutes/?fsp_sid=26815"
+    }
+  ],
+  "context": [
     {
       "author_name": "Le Figaro Culture",
       "published_at": "2026-11-19 17:59",
@@ -5719,6 +5770,11 @@
       "author_name": "Gabrielle Cluzel",
       "published_at": "2026-11-19 18:25",
       "text": "Maintenant, nous sommes considérés comme morts.\n[Cite @F_Desouche] « Les Français de souche entre parenthèse, une souche est ce qu'il reste après l'abattage d'un arbre, donc une partie morte. »\n​Audrey Pulvar sur le prêt des salons de l'Hôtel de Ville et 3 000 € de traiteur offerts pour une asso pro-vote des étrangers aux élections locales."
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-19 18:26",
+      "text": "Présidentielle 2027 : elle avait quitté LFI en 2024, la députée Clémentine Autain appelle à soutenir Jean-Luc Mélenchon\n➡️ https://l.leparisien.fr/nDf4"
     },
     {
       "author_name": "Samuel Lafont",
@@ -8231,6 +8287,11 @@
       "author_name": "Europe 1",
       "published_at": "2026-11-20 07:17",
       "text": "Salvador : le président Nayib Bukele candidat pour un troisième mandat https://ow.ly/NPmZ106J9cP"
+    },
+    {
+      "author_name": "Gouvernement",
+      "published_at": "2026-11-20 07:17",
+      "text": "[Retweet de @Elysee] EN DIRECT | Réunion de la Coalition des volontaires à Berlin : conférence de presse. https://x.com/i/broadcasts/2POeLjmERXzolo"
     },
     {
       "author_name": "Gouvernement",
