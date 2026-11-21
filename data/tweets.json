@@ -1,14 +1,53 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-21T01:59:57.231Z",
+  "updated_at": "2026-11-21T02:30:02.776Z",
   "window_hours": 24,
-  "window_start": "2026-11-20T01:59:57.231Z",
+  "window_start": "2026-11-20T02:30:02.776Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1717,
+  "count": 1718,
   "tweets": [
+    {
+      "id": "2123965728625721677",
+      "created_at": "2026-11-21T02:24:25.000Z",
+      "author": "Thinker_View",
+      "author_name": "ThinkerView",
+      "type": "tweet",
+      "text": "N’est-ce pas l’Arcom ou plus exactement son prédécesseur, le CSA qui avait convoqué l’ensemble des responsables des rédactions des chaînes d’information pour les inviter à :  \"que les chaînes « calment un peu le jeu » \" sur la couverture du mouvement des Gilets jaunes ?\n\nOn",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/Thinker_View/status/2123965728625721677"
+    },
+    {
+      "id": "2123963074260427133",
+      "created_at": "2026-11-21T02:13:52.000Z",
+      "author": "Thinker_View",
+      "author_name": "ThinkerView",
+      "type": "tweet",
+      "text": "\"l’instance a déjà pris langue, selon nos informations, avec cinq créateurs de contenu d’information parmi les plus influents : HugoDécrypte, Gaspard G, Guillaume Pley, Sam Zirah et Thinkerview.\" \n\nHey @AudeDassonville Michaël Moreau vos informations c'est de la merde , on a",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/Thinker_View/status/2123963074260427133"
+    },
+    {
+      "id": "2123959630204399784",
+      "created_at": "2026-11-21T02:00:11.000Z",
+      "author": "dannyconversano",
+      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
+      "type": "retweet",
+      "text": "AmRen 2026: Thaïs d’Escufon (@ThaisEscufon) tells @prestonbates what mass immigration looks like in France and what’s next for America if nothing changes.",
+      "retweeted_author": "Tomhennessey69",
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "en",
+      "url": "https://x.com/dannyconversano/status/2123959630204399784"
+    },
     {
       "id": "2123956178807857317",
       "created_at": "2026-11-21T01:46:28.000Z",
@@ -22303,32 +22342,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/le_Parisien/status/2123605929434214537"
-    },
-    {
-      "id": "2123599958074941757",
-      "created_at": "2026-11-20T02:10:59.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "Gérard Depardieu et Michel Houellebecq accusés d’avoir participé à un viol en réunion lors du tournage du film «Thalasso»\n\nL’acteur et l’auteur sont visés par une plainte pour des faits survenus huit ans plus tôt sous les caméras de l’équipe du film\n➡️ https://l.leparisien.fr/h1y2",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2123599958074941757"
-    },
-    {
-      "id": "2123599723160371396",
-      "created_at": "2026-11-20T02:10:03.000Z",
-      "author": "leparisien_pol",
-      "author_name": "Le Parisien | politique",
-      "type": "tweet",
-      "text": "Suspectés d’envoyer du fentanyl aux États-Unis, un Guatémaltèque et un Mexicain arrêtés à Guatemala et bientôt extradés\n➡️ https://l.leparisien.fr/fqDC",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/leparisien_pol/status/2123599723160371396"
     }
   ]
 }
