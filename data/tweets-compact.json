@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-21 07:30",
-  "period": "du 2026-11-20 07:30 au 2026-11-21 07:30",
-  "new_period": "du 2026-11-20 20:00 au 2026-11-21 07:30",
-  "context_period": "du 2026-11-20 07:30 au 2026-11-20 20:00",
+  "generated_at": "2026-11-21 07:56",
+  "period": "du 2026-11-20 07:56 au 2026-11-21 07:56",
+  "new_period": "du 2026-11-20 20:00 au 2026-11-21 07:56",
+  "context_period": "du 2026-11-20 07:56 au 2026-11-20 20:00",
   "coverage_complete": true,
-  "new_count": 299,
-  "context_count": 1291,
-  "duplicates_merged": 68,
+  "new_count": 312,
+  "context_count": 1265,
+  "duplicates_merged": 67,
   "empty_removed": 5,
   "new": [
     {
@@ -1527,7 +1527,10 @@
     {
       "author_name": "Le Parisien | politique",
       "published_at": "2026-11-21 07:29",
-      "text": "« Elle a joué un rôle moteur » : dans la lignée de la France, la colère sociale s’organise en Europe\n➡️ https://l.leparisien.fr/43BF"
+      "text": "« Elle a joué un rôle moteur » : dans la lignée de la France, la colère sociale s’organise en Europe\n➡️ https://l.leparisien.fr/43BF",
+      "also_by": [
+        "Le Parisien"
+      ]
     },
     {
       "author_name": "Le Parisien",
@@ -1538,158 +1541,74 @@
       "author_name": "Le Figaro",
       "published_at": "2026-11-21 07:30",
       "text": "Les «gilets jaunes» et l’ultragauche veulent relancer le mouvement de colère sociale. →https://l.lefigaro.fr/gXtg"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-20 07:30",
-      "text": "Marine Tondelier / Jean-Luc Mélenchon : le grand numéro du retournement de veste !\n\n➡️ Écoutez l'édito de @Laurent7Tessier dans #Europe1Matin #Europe1"
-    },
-    {
-      "author_name": "Damien Rieu",
-      "published_at": "2026-11-20 07:31",
-      "text": "[Retweet de @teddywang86] I Showed an AI Her Own Face in a Mirror"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-20 07:32",
-      "text": "🍽️\"Il faut faire un bon cassoulet !\" \n\n🇦🇷 @MichelSarran1 président du jury, 100 dégustateurs, chef venu d'Ushuaïa... Le championnat du monde de cassoulet en Argentine avec @carriere_eric (@ChevaliersDu Fiel) aux manettes ! #GrandMatin\n\n📻https://www.sudradio.fr/"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-20 07:32",
-      "text": "«Si la gauche danoise veut moins d'immigration, la gauche française la trouve-t-elle du coup raciste ?», s'interroge Yoann Usaï https://www.cnews.fr/monde/2026-11-20/si-la-gauche-danoise-veut-moins-dimmigration-la-gauche-francaise-la-trouve-t-elle"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-20 07:32",
-      "text": "Miss France 2026 Hinaupoko Devèze se confie sur son année de règne\n\nLa dernière reine de beauté va rendre sa couronne le 12 décembre prochain sur TF1\n\nElle nous raconte son année exceptionnelle \n\n➡️ https://l.leparisien.fr/pMox"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-20 07:32",
-      "text": "La chronique économique d'Éric de Riedmatten du 20/11/2026 dans #LaMatinale"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-20 07:33",
-      "text": "Une scène spectaculaire. ➡️ https://mrf.lu/2M8Ck"
-    },
-    {
-      "author_name": "Stourm!",
-      "published_at": "2026-11-20 07:33",
-      "text": "Rennes : « Sale Blanche ! » Une mère et sa fille de 11 ans menacées d’être poignardées en pleine rue\n\nLire notre 👉 https://stourm.news/?p=6858"
-    },
-    {
-      "author_name": "Comité Trump France",
-      "published_at": "2026-11-20 07:37",
-      "text": "[Retweet de @j_bg] 🔴 En France, la parole publique relève du juge, pas d’une administration ‼️\n\nÀ l'attention de Madame Braun-Pivet, Présidente de l'Assemblée Nationale  (@YaelBRAUNPIVET) et Monsieur Larcher, Président du Sénat (@gerard_larcher)\n\nLe 19 novembre 2026, l’Arcom a annoncé son"
-    },
-    {
-      "author_name": "Alain Weber",
-      "published_at": "2026-11-20 07:38",
-      "text": "[Retweet de @mthistoria] @alainpaulweber Bonjour Alain \n\nVous avez pleinement raison \n\nC’est écologistes hystériques & ignares ont confisqué l’écologie réelle au profit d’un discours moralisateur, d’un dogmatisme rigide et d’une prétention à incarner seuls le bien commun.\n\nL’indignation ne tient pas lieu de compétence."
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-20 07:38",
-      "text": "La France taxe peu les retraités. ➡️ https://mrf.lu/2M8Lr"
     },
     {
       "author_name": "Le Point",
-      "published_at": "2026-11-20 07:39",
-      "text": "« Il frappait avec une chaussure la tête de Quentin Deranque alors inconscient au sol »\n\n🔴 EXCLUSIF \nParmi les 14 mis en examen, Jacques-Élie Favrot, assistant parlementaire de Raphaël Arnault, aurait, aux yeux des enquêteurs, joué un rôle moteur dans les violences ayant causé",
-      "also_by": [
-        "Reprenons le contrôle !"
-      ]
+      "published_at": "2026-11-21 07:33",
+      "text": "On consommait déjà du cannabis il y a 2 800 ans https://l.lepoint.fr/Z58"
     },
     {
-      "author_name": "Stourm!",
-      "published_at": "2026-11-20 07:39",
-      "text": "20 novembre 1932 : les nationalistes bretons sabotent le train du président français pour protester contre la célébration de l’annexion de la Bretagne par la France\n\nLire notre article 👉 https://stourm.news/?p=6851"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-20 07:41",
-      "text": "La joie contagieuse de Christophe Maé en concert à l’Accor Arena\n\nLe chanteur de 51 ans a livré un show ultrafestif et bouillonnant à l’Accor Arena où il revient pour un deuxième soir ce vendredi\n\n➡️ https://l.leparisien.fr/cGA5"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-20 07:41",
-      "text": "⚽️Emmanuel Galasso : \"Pour le bien du football mondial, Philippe Diallo doit remplacer Infantino à la tête de la FIFA. Mais c’est loin d’être gagné !\" #GrandMatin\n\n📻https://www.sudradio.fr/"
-    },
-    {
-      "author_name": "Tatiana Ventôse 🇫🇷🏹✨",
-      "published_at": "2026-11-20 07:43",
-      "text": "[Retweet de @FrenchCarcan] 🔴 Fatima Ouassak : Quand on voit qui casse, ce sont beaucoup de noirs et d'arabes […] Notre fierté, c'est que ce sont nos enfants. Ces enfants-là, demain, ils vont changer le pays et ils vont même changer l'Europe, qui est considérée comme blanche et chrétienne.\"\n\n✅ @FOuassak",
-      "also_by": [
-        "Pierre Sautarel"
-      ]
-    },
-    {
-      "author_name": "Stourm!",
-      "published_at": "2026-11-20 07:43",
-      "text": "🇮🇲 L’île de Man dévoile un nouveau tartan célébrant son identité celtique\n\nLire notre article 👉 https://stourm.news/?p=6854"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-20 07:44",
-      "text": "La campagne pour l’élection présidentielle s’accélère, bien que le casting ne soit pas encore terminé\n\nDominique de Villepin pourrait (enfin) annoncer ce vendredi sa candidature au scrutin\n\nSuivez notre direct➡️ https://l.leparisien.fr/TEn2"
-    },
-    {
-      "author_name": "L'Express",
-      "published_at": "2026-11-20 07:44",
-      "text": "Dix ans après le référendum du Brexit, le nouveau gouvernement britannique veut tourner la page. Plus facile à dire qu'à faire.\n\n➡️ https://l.lexpress.fr/6mb"
-    },
-    {
-      "author_name": "Valeurs actuelles",
-      "published_at": "2026-11-20 07:44",
-      "text": "🗞️ DÉCRYPTAGE. Ne plus sortir qu’avec quelqu’un qui vote comme soi, cacher ses idées pour séduire : à l’heure où l’écart idéologique se creuse entre jeunes femmes et jeunes hommes, la politique s’invite dans les histoires d’amour.\nhttps://l.valeursactuelles.com/RWe"
-    },
-    {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-20 07:46",
-      "text": "DIRECT. Présidentielle 2027 : vers une candidature de Dominique de Villepin ? Suivez l’actualité politique du jour\n➡️ https://l.leparisien.fr/DjCd",
-      "also_by": [
-        "Le Parisien"
-      ]
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-20 07:47",
-      "text": "«Cette technologie apporte plus de sécurité» : Europe 1 a testé la voiture autonome dans Paris https://ow.ly/oLLO106Ja2u"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-20 07:49",
-      "text": "💥\"Il n'y a qu'une voie capitale pour relever La France : la croissance !\"\n\n🗣️@erwanlenoan, fondateur du collectif \"Trop c'est trop !\", alerte les candidats à la #Presidentielle2027 sur des incohérences fiscales dans le Budget #GrandMatin\n\n📻https://www.sudradio.fr/"
+      "author_name": "Institut ILIADE",
+      "published_at": "2026-11-21 07:34",
+      "text": "21 novembre 1695, Henry Purcell s'éteint à Londres. \n\nhttps://youtu.be/zAyywrxD0-I?is=IEV1C1FRbyTEkNQV"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-20 07:51",
-      "text": "La chronique économique de Marc Touati du 20/11/2026 dans #LaMatinale"
+      "published_at": "2026-11-21 07:35",
+      "text": "Les explications de Claude Moniquet, spécialiste terrorisme et renseignements, sur l'IA, nouvelle arme des pirates informatiques, dans #LaMatinaleWE\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "L'Express",
+      "published_at": "2026-11-21 07:35",
+      "text": "Le scandale qui éclabousse l'ancien patron de Nvidia fait dégringoler le cours de Bourse de l'entreprise. Et incite les Etats-Unis à renforcer leurs contrôles à l'export de puces vers la Chine.\n\n➡️ https://l.lexpress.fr/A7G par @anne_cagan https://l.lexpress.fr/A7G"
+    },
+    {
+      "author_name": "Institut ILIADE",
+      "published_at": "2026-11-21 07:39",
+      "text": "[Retweet de @acormierd] Très bonne introduction à Oswald Spengler, à son œuvre phare Le Déclin de l'Occident et à sa réception de sa parution à aujourd'hui.\n\nLe brillant et érudit @DavidEngels12 toujours agréable à lire, tout en nuances et en profondeur."
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-21 07:40",
+      "text": "GTA VI : son succès s'explique par un «réalisme bluffant» selon un spécialiste des jeux vidéos https://ow.ly/siSO106Jihg"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-21 07:45",
+      "text": "👶🏿  En Afrique subsaharienne près d'un enfant sur deux n'est pas déclaré à la naissance\n\n🗣️   @MicheleVianes  : \"Sans acte de naissance, un enfant n’existe pas juridiquement. Ce n’est pas un simple dossier administratif : c’est un combat fondamental pour l’identité, la dignité,"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-21 07:45",
+      "text": "Nicolas Pouvreau-Monti apporte une explication complète sur ces pays européens qui veulent un hub migratoire de retour au Rwanda, dans #LaMatinaleWE\n\nToute l'info est à retrouver sur https://cnews.fr"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-20 07:51",
-      "text": "L’étau se resserre autour de Gérard Depardieu, visé par une nouvelle plainte, pour «viol et agressions sexuelles en réunion»\n\nUne information révélée une semaine avant un autre rendez-vous judiciaire concernant l'acteur de 77 ans\n➡️ https://l.leparisien.fr/tQ98"
+      "published_at": "2026-11-21 07:49",
+      "text": "Le Pas-de-Calais maintenu en vigilance orange, la Canche atteint son niveau maximum\n➡️ https://l.leparisien.fr/Up60"
     },
     {
-      "author_name": "Nicolas Dupont-Aignan",
-      "published_at": "2026-11-20 07:53",
-      "text": "Les Français doivent savoir ce qu’il se passera si l’on reste dans l’Union européenne…\n\nJe suis le seul candidat qui se donnera tous les leviers d’action nécessaires pour redresser la France. Les autres resteront les caisses enregistreuses de Bruxelles."
+      "author_name": "CNEWS",
+      "published_at": "2026-11-21 07:49",
+      "text": "Alors que le Pas-de-Calais est touché par les inondations, Delphine Lepretre rassure : «Nous avons mis en sécurité les habitants», dans #LaMatinaleWE\n\nToute l'info est à retrouver sur https://cnews.fr"
     },
     {
-      "author_name": "Ligne Droite • La matinale de RC",
-      "published_at": "2026-11-20 07:55",
-      "text": "[Retweet de @F_Desouche] Distribution de tracts du RN tendue devant la gare de Vitry-sur-Seine (94) : des jets de bouteilles en verre ont visé l'élu RN Kevin Nader et des militants, l'un d'eux touché va porter plainte."
+      "author_name": "Europe 1",
+      "published_at": "2026-11-21 07:51",
+      "text": "L'édito international de @MichelFayad sur #Europe1 #Europe1Matin"
     },
     {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-20 07:56",
-      "text": "🔴Le trafic partiellement interrompu sur la Ligne H toute la journée pour la deuxième fois consécutive après un nouveau vol de câbles\n➡️ https://l.leparisien.fr/iLaY"
+      "author_name": "MARSAULT",
+      "published_at": "2026-11-21 07:53",
+      "text": "Je me félicite tous les jours de ne pas avoir de télé à la maison.\n[Cite @le_Parisien] « À certains yeux je suis juste arabe » : Amel, élève de la « Star Academy », interprète un morceau évoquant le racisme qu’elle subit\n\n➡️ https://l.leparisien.fr/gyEf"
     },
+    {
+      "author_name": "Damien Rieu",
+      "published_at": "2026-11-21 07:55",
+      "text": "[Retweet de @tropdecomptes] Dans le cadre du lancement du \"Mascuradar\" lancé par la mairie de Paris. Je signale à l'adjointe au maire Mme @BGomes_75 un cas grave de masculinisme.\n\nLa librairie islamique Al Kitab située Boulevard de Ménilmontant à Paris 11e fait la pub sur son compte instagram d'un livre"
+    }
+  ],
+  "context": [
     {
       "author_name": "Europe 1",
       "published_at": "2026-11-20 07:57",
@@ -2288,6 +2207,11 @@
       "author_name": "Agence France-Presse",
       "published_at": "2026-11-20 09:00",
       "text": "Le sénateur Yannick Jadot, rallié à Raphaël Glucksmann, a annoncé jeudi son départ du parti Les Écologistes, après que sa cheffe Marine Tondelier s'est dite prête à une coalition autour de la candidature de Jean-Luc Mélenchon."
+    },
+    {
+      "author_name": "Pierre Sautarel",
+      "published_at": "2026-11-20 09:00",
+      "text": "[Retweet de @FrenchCarcan] 🔴 Fatima Ouassak : Quand on voit qui casse, ce sont beaucoup de noirs et d'arabes […] Notre fierté, c'est que ce sont nos enfants. Ces enfants-là, demain, ils vont changer le pays et ils vont même changer l'Europe, qui est considérée comme blanche et chrétienne.\"\n\n✅ @FOuassak"
     },
     {
       "author_name": "Le Figaro",
@@ -3499,6 +3423,11 @@
       "author_name": "Sud Radio",
       "published_at": "2026-11-20 10:47",
       "text": "🔎  C'est quoi cette affaire de \"taupe\" qui aurait transmis des informations au #RN ?\n\n https://www.sudradio.fr/?p=932776"
+    },
+    {
+      "author_name": "Reprenons le contrôle !",
+      "published_at": "2026-11-20 10:47",
+      "text": "[Retweet de @LePoint] « Il frappait avec une chaussure la tête de Quentin Deranque alors inconscient au sol »\n\n🔴 EXCLUSIF \nParmi les 14 mis en examen, Jacques-Élie Favrot, assistant parlementaire de Raphaël Arnault, aurait, aux yeux des enquêteurs, joué un rôle moteur dans les violences ayant causé"
     },
     {
       "author_name": "ThinkerView",
