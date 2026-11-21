@@ -1,14 +1,40 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-21T00:29:41.332Z",
+  "updated_at": "2026-11-21T00:59:46.622Z",
   "window_hours": 24,
-  "window_start": "2026-11-20T00:29:41.332Z",
+  "window_start": "2026-11-20T00:59:46.622Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1718,
+  "count": 1716,
   "tweets": [
+    {
+      "id": "2123942261834867188",
+      "created_at": "2026-11-21T00:51:10.000Z",
+      "author": "Thinker_View",
+      "author_name": "ThinkerView",
+      "type": "retweet",
+      "text": "The Irish Government and the EU is now trying to starve me and my family into submission. \n\nTheir collective punishment and persecution of me and my family in Ireland is accelerating. \n\nEvery element of our lives crippled. no way to fight it in an Irish court\n\nPlease speak out.",
+      "retweeted_author": "BowesChay",
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "en",
+      "url": "https://x.com/Thinker_View/status/2123942261834867188"
+    },
+    {
+      "id": "2123940963009605758",
+      "created_at": "2026-11-21T00:46:01.000Z",
+      "author": "Thinker_View",
+      "author_name": "ThinkerView",
+      "type": "quote",
+      "text": "That's my Juan ....",
+      "retweeted_author": null,
+      "quoted_author": "clementetv_",
+      "quoted_text": "If The Big Short was made in 2026",
+      "lang": "en",
+      "url": "https://x.com/Thinker_View/status/2123940963009605758"
+    },
     {
       "id": "2123932310848381107",
       "created_at": "2026-11-21T00:11:38.000Z",
@@ -22290,58 +22316,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/le_Parisien/status/2123583251864231965"
-    },
-    {
-      "id": "2123579772718453117",
-      "created_at": "2026-11-20T00:50:46.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "« Sur le podium des trimestres les plus secs et chauds depuis 1991 » : la Guadeloupe placée en alerte sécheresse généralisée\n➡️ https://l.leparisien.fr/4315",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2123579772718453117"
-    },
-    {
-      "id": "2123579624982512053",
-      "created_at": "2026-11-20T00:50:11.000Z",
-      "author": "leparisien_pol",
-      "author_name": "Le Parisien | politique",
-      "type": "tweet",
-      "text": "« Des signaux d’alerte très clairs » : la Californie ouvre une enquête sur Nvidia et les ventes de puces à la Chine\n➡️ https://l.leparisien.fr/C54z",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/leparisien_pol/status/2123579624982512053"
-    },
-    {
-      "id": "2123578188660158508",
-      "created_at": "2026-11-20T00:44:29.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "Aube : le village de Bourguignons frappé par une tornade, 60 habitations touchées et une jument tuée\n➡️ https://l.leparisien.fr/Qt7j",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2123578188660158508"
-    },
-    {
-      "id": "2123576370726916542",
-      "created_at": "2026-11-20T00:37:15.000Z",
-      "author": "InfoMdia",
-      "author_name": "Médias-Presse-Info",
-      "type": "tweet",
-      "text": "Vendredi 20 novembre – Saint Félix de Valois, Confesseur\n\nhttps://www.medias-presse.info/vendredi-20-novembre-saint-felix-de-valois-confesseur-2/253201/",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/InfoMdia/status/2123576370726916542"
     }
   ]
 }
