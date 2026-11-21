@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-21 03:30",
-  "period": "du 2026-11-20 03:30 au 2026-11-21 03:30",
-  "new_period": "du 2026-11-20 20:00 au 2026-11-21 03:30",
-  "context_period": "du 2026-11-20 03:30 au 2026-11-20 20:00",
+  "generated_at": "2026-11-21 04:00",
+  "period": "du 2026-11-20 04:00 au 2026-11-21 04:00",
+  "new_period": "du 2026-11-20 20:00 au 2026-11-21 04:00",
+  "context_period": "du 2026-11-20 04:00 au 2026-11-20 20:00",
   "coverage_complete": true,
   "new_count": 248,
-  "context_count": 1386,
-  "duplicates_merged": 78,
+  "context_count": 1384,
+  "duplicates_merged": 79,
   "empty_removed": 6,
   "new": [
     {
@@ -1266,7 +1266,10 @@
     {
       "author_name": "Daniel Conversano ⏩ e/acc 🚀",
       "published_at": "2026-11-21 03:00",
-      "text": "[Retweet de @Tomhennessey69] AmRen 2026: Thaïs d’Escufon (@ThaisEscufon) tells @prestonbates what mass immigration looks like in France and what’s next for America if nothing changes."
+      "text": "[Retweet de @Tomhennessey69] AmRen 2026: Thaïs d’Escufon (@ThaisEscufon) tells @prestonbates what mass immigration looks like in France and what’s next for America if nothing changes.",
+      "also_by": [
+        "Thaïs d’Escufon"
+      ]
     },
     {
       "author_name": "ThinkerView",
@@ -1280,19 +1283,6 @@
     }
   ],
   "context": [
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-20 03:34",
-      "text": "Suspectés d’envoyer du fentanyl aux États-Unis, un Guatémaltèque et un Mexicain arrêtés à Guatemala et bientôt extradés\n➡️ https://l.leparisien.fr/ew0v"
-    },
-    {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-20 03:45",
-      "text": "« Un massacre horrible » : l’Arabie saoudite accusée par les Houthis d’avoir tué 19 civils dans un bateau près du Yémen\n➡️ https://l.leparisien.fr/z98L",
-      "also_by": [
-        "Le Parisien"
-      ]
-    },
     {
       "author_name": "Aldo Sterone",
       "published_at": "2026-11-20 04:03",
