@@ -1,15 +1,15 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-21 12:31",
-  "period": "du 2026-11-20 12:31 au 2026-11-21 12:31",
-  "new_period": "du 2026-11-21 08:00 au 2026-11-21 12:31",
-  "context_period": "du 2026-11-20 12:31 au 2026-11-21 08:00",
+  "generated_at": "2026-11-21 13:01",
+  "period": "du 2026-11-20 13:01 au 2026-11-21 13:01",
+  "new_period": "du 2026-11-21 08:00 au 2026-11-21 13:01",
+  "context_period": "du 2026-11-20 13:01 au 2026-11-21 08:00",
   "coverage_complete": true,
-  "new_count": 393,
-  "context_count": 1006,
-  "duplicates_merged": 78,
-  "empty_removed": 3,
+  "new_count": 422,
+  "context_count": 962,
+  "duplicates_merged": 84,
+  "empty_removed": 4,
   "new": [
     {
       "author_name": "Tocsin",
@@ -144,7 +144,8 @@
       "published_at": "2026-11-21 08:23",
       "text": "[Retweet de @BlaiseElise] Depuis la campagne de dons de @tvlofficiel, Youtube a décidé d'invisibiliser nos contenus dans une proportion hallucinante ! Hier, malgré notre million d'abonnés, moins de 60 000 personnes ont vu apparaître le Jt sur leur page ! ( - de 6% des abonnés ! )\nCette censure insidieuse",
       "also_by": [
-        "Cercle Aristote"
+        "Cercle Aristote",
+        "Régis Le Sommier"
       ]
     },
     {
@@ -698,7 +699,10 @@
     {
       "author_name": "Hexagone - La France en chiffres",
       "published_at": "2026-11-21 09:57",
-      "text": "🔴 1 minute 30 pour comprendre le dérapage général des comptes publics dans la décennie 2017-2027. \n\n«En moyenne, les pays européens se sont désendettés. L'Allemagne s'est endettée de 3 points de PIB. L'Italie de 5 points. Et la France ? De 23 points !»"
+      "text": "🔴 1 minute 30 pour comprendre le dérapage général des comptes publics dans la décennie 2017-2027. \n\n«En moyenne, les pays européens se sont désendettés. L'Allemagne s'est endettée de 3 points de PIB. L'Italie de 5 points. Et la France ? De 23 points !»",
+      "also_by": [
+        "ThinkerView"
+      ]
     },
     {
       "author_name": "Police nationale",
@@ -1680,7 +1684,10 @@
     {
       "author_name": "L’Infiltré",
       "published_at": "2026-11-21 12:00",
-      "text": "Le RN et LFI bientôt invités au « Davos provençal » ?\n\nSelon nos informations, le Cercle des économistes doit décider s’il ouvre enfin les Rencontres d’Aix aux deux partis, absents de l’édition 2026.\n\nEn coulisses, les discussions s’annoncent tendues.\n\n👉 L’Infiltré à -50% :"
+      "text": "Le RN et LFI bientôt invités au « Davos provençal » ?\n\nSelon nos informations, le Cercle des économistes doit décider s’il ouvre enfin les Rencontres d’Aix aux deux partis, absents de l’édition 2026.\n\nEn coulisses, les discussions s’annoncent tendues.\n\n👉 L’Infiltré à -50% :",
+      "also_by": [
+        "Frontières"
+      ]
     },
     {
       "author_name": "Agence France-Presse",
@@ -1978,7 +1985,10 @@
     {
       "author_name": "Le Parisien | politique",
       "published_at": "2026-11-21 12:29",
-      "text": "Inde : onze morts et 180 hospitalisations après des intoxications à de l’alcool présumé frelaté\n➡️ https://l.leparisien.fr/C5uL"
+      "text": "Inde : onze morts et 180 hospitalisations après des intoxications à de l’alcool présumé frelaté\n➡️ https://l.leparisien.fr/C5uL",
+      "also_by": [
+        "Le Parisien"
+      ]
     },
     {
       "author_name": "Médias-Presse-Info",
@@ -2009,237 +2019,157 @@
       "author_name": "Polémia",
       "published_at": "2026-11-21 12:30",
       "text": "Décryptage de l'enquête Périclès (14/20)\n\nStatut de fonctionnaire. En dehors des forces de l'ordre, de la justice et de l'armée, 65 % des électeurs de droite (58 % de l'ensemble) veulent le supprimer. Ils sont 72 % au RN, 56 % dans la majorité présidentielle, 42 % au Nouveau"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Cercle Aristote",
-      "published_at": "2026-11-20 12:32",
-      "text": "La perversion totale de la société\n\nPourquoi le libéralisme est-il une impasse ? Jean-Luc Schaffhauser répond à cette question en s’appuyant sur son expérience politique et sa vision chrétienne de la société. \n\nRetrouvez l'entretien complet avec Jean-Luc Schauffauser :"
-    },
-    {
-      "author_name": "Occidentis",
-      "published_at": "2026-11-20 12:33",
-      "text": "🚨⚡️ « On est encore dans des archétypes où les hommes noirs seraient des dangers permanents envers la féminité blanche » affirme Estelle Depris intervenante d’une émission animée par la députée LFI Nadège Abomangoli."
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-20 12:34",
-      "text": "La France défiera l'Espagne !\n\nZinedine Zidane et ses joueurs ont rendez-vous fin mars pour les quarts de finale de cette Ligue des nations\n\nSuivez notre direct ➡️ https://l.leparisien.fr/h1yc"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-20 12:36",
-      "text": "Le politologue Jean-Christophe Gallien réagit à la \"Une\" hors contexte de Teddy Riner : «Paris Match lui fait très mal dans sa campagne» #100Frontieres\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Bruno Attal",
-      "published_at": "2026-11-20 12:37",
-      "text": "Oui tu es très mal éduquée. À cause de qui ?"
+      "published_at": "2026-11-21 12:33",
+      "text": "Patrick Modiano, Élise Lespade, François d’Epenoux… Notre sélection livres de la semaine\n➡️ https://l.leparisien.fr/43Be"
     },
     {
       "author_name": "Frontières",
-      "published_at": "2026-11-20 12:37",
-      "text": "[Retweet de @DavidAlaime] 🚨 ALERTE - Un RETRAITÉ donne UNE LEÇON DE VIE aux bloqueurs D’EXTRÊME GAUCHE.\n\nCe type d’image, c’est que sur Frontières et l’émission 100%Frontières !\n\nPour accéder à tous nos contenus, abonnez-vous ! En + c’est le BLACK FRIDAY. -50% : https://www.frontieresmedia.fr/nos-abonnements"
+      "published_at": "2026-11-21 12:33",
+      "text": "Une étude universitaire évalue le taux d’infractions des mineurs masculins marocains à près de 8 fois celui des Espagnols \n\nhttps://www.frontieresmedia.fr/immigration/espagne-une-etude-universitaire-evalue-le-taux-dinfractions-des-mineurs-masculins-marocains-a-pre---20933"
     },
     {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-20 12:37",
-      "text": "\"La haine de soi, c'est un truc de bourgeois.\" affirme @WatrigantArthur #EliotDevalEtVous @deval_eliot #Europe1"
+      "author_name": "Le Point",
+      "published_at": "2026-11-21 12:35",
+      "text": "🎧 BRUITS DE CAMPAGNE #3. Au menu de cet épisode : une primaire enterrée le soir même de sa naissance, un Sarkozy qui voit déjà Le Pen à l’Élysée et des énarques qui se préparent à servir le RN. ⤵️\nhttps://l.lepoint.fr/RkI"
     },
     {
-      "author_name": "UNI",
-      "published_at": "2026-11-20 12:38",
-      "text": "[Retweet de @uniparisidf] 🍷Un apéro du Beaujolais nouveau réussi pour l’UNI Paris !\n\n🇫🇷 Étudiants et lycéens de droite, rejoignez l’UNI !"
+      "author_name": "Le JDD",
+      "published_at": "2026-11-21 12:35",
+      "text": "Rouen : des antifas font taire un élu RN en plein conseil municipal, des élus de gauche applaudissent https://ow.ly/KlGZ106JiHM"
+    },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-21 12:36",
+      "text": "Budget de l’UE : Paris rejette le nouveau projet qui prévoit 204 milliards d'euros et une taxe numérique → https://l.lefigaro.fr/zwjX"
+    },
+    {
+      "author_name": "Jon De Lorraine",
+      "published_at": "2026-11-21 12:37",
+      "text": "🔴🇫🇷 INSOLITE | Dominique de Villepin propose de nationaliser les autoroutes dans son programme présidentiel pour 2027.\n\nPetit détail : c’est ce même Dominique de Villepin qui, Premier ministre en 2005, avait décidé de privatiser les sociétés d’autoroutes.\n\n(Programme « Réussir à"
+    },
+    {
+      "author_name": "ThinkerView",
+      "published_at": "2026-11-21 12:40",
+      "text": "[Retweet de @RossDynamicsLab] This one's pretty good. Only took about 4 years"
+    },
+    {
+      "author_name": "Ministère des Armées et des Anciens combattants",
+      "published_at": "2026-11-21 12:41",
+      "text": "[Retweet de @MarineNationale] C’était cette semaine dans nos unités 🌎\n\nA l'occasion d'une escale au Vietnam, les forces françaises ont conduit des exercices de sauvetage en mer avec les garde-côtes vietnamiens. Ces activités contribuent au développement des procédures communes et au renforcement de la"
+    },
+    {
+      "author_name": "ThinkerView",
+      "published_at": "2026-11-21 12:41",
+      "text": "[Retweet de @AutismCapital] We should have listened to him"
     },
     {
       "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-20 12:39",
-      "text": "Italie : l’aéroport de Gênes fermé pendant deux heures après le survol de drones près de la piste\n➡️ https://l.leparisien.fr/orPk",
+      "published_at": "2026-11-21 12:42",
+      "text": "Corps retrouvé dans une valise, vidéosurveillance et cavale de dix jours : le suspect d’un meurtre à Athènes arrêté à Strasbourg\n➡️ https://l.leparisien.fr/KxXU",
       "also_by": [
         "Le Parisien"
       ]
     },
     {
-      "author_name": "TVL",
-      "published_at": "2026-11-20 12:40",
-      "text": "🇫🇷 Crédité d'environ 4 % des intentions de vote pour la présidentielle de 2027, Gabriel Attal reconnaît ne pas avoir réussi à convaincre les Français.\n\nInvité de l'émission L'Heure de vérité sur France 2, le président de Renaissance a admis qu'il ne parvenait pas, pour le moment,"
+      "author_name": "L'Express",
+      "published_at": "2026-11-21 12:43",
+      "text": "Dans un documentaire allemand, la militante suédoise se moque des marches pour le climat qu'elle a créées.\n\n➡️ https://l.lexpress.fr/FkY"
+    },
+    {
+      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
+      "published_at": "2026-11-21 12:43",
+      "text": "écoutez, je m'attendais à tout sauf à des réactions aussi vives suite à ma critique de GTA. Pas connu ça depuis que j'ai donné mon avis sur les meufs tatouées.\n\nY'a des choses importantes dans la vie, d'autres non. Je vais pas me battre sur ce sujet de merde.\nMais il y a un fait"
+    },
+    {
+      "author_name": "ThinkerView",
+      "published_at": "2026-11-21 12:45",
+      "text": "[Retweet de @bfmbusiness] Urgo a réussi à créer une peau artificielle 🔬🧬\n\nC'est une véritable prouesse technologique et une première mondiale : Urgo a réussi à créer de la peau artificielle en laboratoire, prête à être greffée aux grands brulés. Une innovation 100% française.\n\n🎙️ Hélène Cornet"
+    },
+    {
+      "author_name": "Régis Le Sommier",
+      "published_at": "2026-11-21 12:46",
+      "text": "[Retweet de @DestinationTele] 💥BIM !\nCNEWS encore et toujours très largement 1ère chaîne info hier vendredi\nCNEWS : 3,9%\nBFMTV : 2,7%\nLCI : 2,6%\nFRANCE INFO : 1,2%\n\nSpoil : CNEWS va être 1ère chaîne info en novembre et de très loin devant BFMTV 😉"
+    },
+    {
+      "author_name": "Régis Le Sommier",
+      "published_at": "2026-11-21 12:46",
+      "text": "[Retweet de @MarioNawfal] 🚨🇺🇸🇷🇺🇺🇦 Russia reportedly OPEN to NATO-STYLE security guarantees for Ukraine in exchange for KEEPING captured territory!\n\nA U.S. official tells the NY Post that Moscow could accept protections resembling NATO's Articles 4 and 5. \n\nUkraine would receive security guarantees"
+    },
+    {
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-21 12:47",
+      "text": "[POINT DE VUE] Familles nombreuses : la variable d'ajustement budgétaire du RN ? | Par Philippe Kerlouan\nSouhaitons que le parti de Jordan Bardella se ravise et revienne à la logique familiale qui avait, à juste titre, prévalu en 1945 ! \n \nhttps://www.bvoltaire.fr/point-de-vue-familles-nombreuses-la-variable-dajustement-budgetaire-du-rn/"
+    },
+    {
+      "author_name": "Régis Le Sommier",
+      "published_at": "2026-11-21 12:47",
+      "text": "[Retweet de @AMK_Mapping_] Ukraine's 475th Assault Regiment claims it cleared 204 km² in recent counterattacks in northeastern Kharkiv Oblast.\n\nDeepstate (and other Ukrainian sources) don't seem to agree. \n\nI don't have any info from the ground on this sector, but from the open sources I've followed during"
     },
     {
       "author_name": "Europe 1",
-      "published_at": "2026-11-20 12:40",
-      "text": "Ligue des nations : les Bleus héritent de l'Espagne en quarts de finale https://ow.ly/UIfP106JaQr"
+      "published_at": "2026-11-21 12:47",
+      "text": "« La diplomatie française n'existe plus depuis plusieurs années », assure Jacques Sapir https://ow.ly/sQkX106JiIk"
     },
     {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-20 12:40",
-      "text": "\"Depuis ce matin, nous avons reçu deux signalements d'agression verbale de racisme anti-blanc.\" explique @YannBaly #Europe1 #EliotDevalEtVous @deval_eliot"
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-21 12:47",
+      "text": "[Retweet de @FrancoisDESCAM7] LE PROJET #RN SUR LES RETRAITES est très violent avec son propre électorat !\n⚠️C’est un projet de RÉGRESSION SOCIALE MAJEURE !⚠️\n\n[Extrait du DIRECT de Florian PHILIPPOT (20/11/26) à retrouver sur https://youtu.be/-vaZJoojfEI]"
     },
     {
-      "author_name": "Le JDD",
-      "published_at": "2026-11-20 12:40",
-      "text": "«C’est les patrons qui sont responsables du pillage» : Elsa Marcel réclame 200 millions d’euros au patronat https://ow.ly/KWFn106JaQu"
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-21 12:48",
+      "text": "[Retweet de @FrancoisDESCAM7] 💥Merz : \"Désormais aucun Etat membre de l’UE ne pourra échapper à l’obligation d’aide à l’Ukraine !\"\n\nIL N’Y A PLUS DE VETO NATIONAL EN 🇪🇺UE !\n\n➡️Game Over pour Marine Le Pen qui prétendait arrêter l’aide à l’Ukraine une fois élue, sans sortir de l’UE !\n[https://youtu.be/-vaZJoojfEI]"
     },
     {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-20 12:41",
-      "text": "Racisme anti-blanc : \"Je ne comprends pas pourquoi il y a ces condamnations à géométrie variable.\" déplore @deval_eliot #Europe1 #EliotDevalEtVous"
-    },
-    {
-      "author_name": "Pierre Sautarel",
-      "published_at": "2026-11-20 12:41",
-      "text": "[Retweet de @torevas] @FrDesouche Sans parler de la galaxie du groupe SOS de Borello..."
-    },
-    {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-20 12:41",
-      "text": "Dans l’arrondissement bruxellois, près de 2 000 personnes et 1 500 véhicules ont été contrôlés. Bilan global : 39 fermetures judiciaires, 14 personnes présentées au parquet et plusieurs saisies.\n\nhttps://www.fdesouche.com/2026/11/20/bruxelles-galerie-agora-32-commerces-fermes-police-produits-illegaux-novembre-2026/"
-    },
-    {
-      "author_name": "Valeurs actuelles",
-      "published_at": "2026-11-20 12:42",
-      "text": "🗞️ SONDAGE EXCLUSIF. Le pouvoir d’achat reste la première préoccupation des Français, selon un sondage Ifop pour Valeurs Actuelles de novembre 2026.\nhttps://l.valeursactuelles.com/jrT"
-    },
-    {
-      "author_name": "Marc Vanguard",
-      "published_at": "2026-11-20 12:42",
-      "text": "🔴 Combien d'immigrés viennent vraiment en France chaque année ?\n\nCette question ne va cesser d'agiter les débats politiques et les cellules de fact-checking.\n\nJ'avais fait un thread sur le sujet il y a 18 mois.\n\n1⃣ EN RÉSUMÉ\n\n👉 Il n'y a pas \"un\" chiffre de référence, mais ~500\n[Cite @marc_vanguard] 🔴 COMBIEN D'IMMIGRÉS arrivent vraiment en France chaque année ?\n\n👉 En réalité, politiques et journalistes se prennent souvent les pieds dans le tapis !\n\nNe faites pas leurs erreurs : lisez ce fil et enregistrez-le dans vos signets ⬇️"
-    },
-    {
-      "author_name": "Le Crayon",
-      "published_at": "2026-11-20 12:42",
-      "text": "Bloquer le pays, plus démocratique que de voter ?\n\nLe sociologue et chercheur au FNRS Manuel Cervera-Marzal (reçu à l’occasion de sa participation aux Rencontres Michel Serres à Agen) se prête à notre format Vrai/Faux."
-    },
-    {
-      "author_name": "Ligne Droite • La matinale de RC",
-      "published_at": "2026-11-20 12:42",
-      "text": "💥 \"C’est un jeu où il ne faut pas gagner, c’est très chiant. On dirait un jeu de gauche.\"\n\n🗣️ @a_degalzain se penche sur le jeu anti-masculiniste (et catastrophique), grassement financé par la mairie de Paris.\n\n👉 Pour nous soutenir : https://soutenir.rc.fr\n\n🎙️ Avec"
+      "author_name": "ThinkerView",
+      "published_at": "2026-11-21 12:49",
+      "text": "[Retweet de @nym] Surveillance states don’t announce themselves.\n\nThey arrive as child safety bills."
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-20 12:43",
-      "text": "Des faits qui remontent au mois de juillet. ➡️ https://mrf.lu/2MvV2"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-20 12:44",
-      "text": "«CNews assassin» : nos journalistes ont été, une fois de plus, rejetés d'une manifestation organisée cette fois-ci contre la loi \"permis de tuer\" dans #100frontiere\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Tocsin",
-      "published_at": "2026-11-20 12:45",
-      "text": "⚠️« Si on m’avait dit la vérité, je n’y serais pas allé ! Et je pense que pour beaucoup de Français, c’est le même cas ! »\n\n💉« Aujourd’hui, ce n’est même plus un débat de savoir si on est pro-vax ou anti-vaccin. Si on m’avait dit ce que l’on a découvert après avec Frédéric"
-    },
-    {
-      "author_name": "Agence France-Presse",
-      "published_at": "2026-11-20 12:45",
-      "text": "🌍 Climat : dernière ligne droite à la COP31, où les discussions risquent de se prolonger avec près de 200 pays qui tentent d'arracher un accord, sur fond de bras de fer autour des énergies fossiles.\n\n➡️ https://u.afp.com/SFBp"
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-20 12:47",
-      "text": "[Retweet de @Marie_Haddad] @Le_Figaro « Autant de raison qui me conduisent aujourd’hui à dire devant vous je suis candidat à l’élection présidentielle de 2027 », déclare Dominique de Villepin. Une déclaration qui déclenche les applaudissements de ses soutiens"
-    },
-    {
-      "author_name": "Le Point",
-      "published_at": "2026-11-20 12:47",
-      "text": "En cas d’arrivée du RN ou de LFI au pouvoir, les agents publics auraient peu de moyens de « résister ».\n\n➡️ https://l.lepoint.fr/DQc\nPar @NicolasBastuck"
-    },
-    {
-      "author_name": "Pierre Sautarel",
-      "published_at": "2026-11-20 12:49",
-      "text": "[Retweet de @CameliaCams] Ce matin, gare #SaintLazare : cours de maths en plein hall pour les élèves du lycée #Condorcet, bloqué."
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-20 12:49",
-      "text": "Guerre en Ukraine : « Une avancée considérable », Trump et Poutine d’accord pour discuter d’une protection de type Otan pour Kiev\n➡️ https://l.leparisien.fr/wZNO"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-20 12:49",
-      "text": "\"Il faut se méfier des sondages de second tour, parce qu'ils ne tiennent pas compte de l'offre définitive du premier tour.\" souligne @antoandre #EliotDevalEtVous @deval_eliot #Europe1"
-    },
-    {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-20 12:50",
-      "text": "Au Salvador, Nayib Bukele s’est officiellement porté candidat à un troisième mandat, après la suppression des limites à la réélection. Son bilan sécuritaire reste populaire, mais la réforme est contestée.\nhttps://www.fdesouche.com/2026/11/20/salvador-nayib-bukele-depose-sa-candidature-pour-un-troisieme-mandat-apres-la-suppression-des-limites-a-la-reelection/"
-    },
-    {
-      "author_name": "LCP",
-      "published_at": "2026-11-20 12:50",
-      "text": "Main tendue par Marine Tondelier à Jean-Luc Mélenchon: une \"trahison\" selon Yannick Jadot, qui quitte les Écologistes https://lcp.fr/actualites/main-tendue-par-marine-tondelier-a-jean-luc-melenchon-une-trahison-selon-yannick-jadot"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-20 12:50",
-      "text": "Mathias Leboeuf réagit au projet de loi policière : «Il suffit qu'un agent de police se sente en légitime défense pour qu'il puisse légitimer son acte, c'est ça qui est extrêmement dangereux» dans #100Frontières\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Damien Rieu",
-      "published_at": "2026-11-20 12:51",
-      "text": "Vous pensez que l’@Arcom_fr va bientôt me demander de faire 50% de tweets de gauche ?"
-    },
-    {
-      "author_name": "Occidentis",
-      "published_at": "2026-11-20 12:51",
-      "text": "🚨⚡️ Suite à la disparition d’une cargaison de 387 kilos de cocaïne une MAGISTRATE a été placée en garde à vue. Un puissant narcotrafiquant marseillais, aurait été renseigné par un policier véreux sur la tenue des opérations policières. (Le Figaro)"
+      "published_at": "2026-11-21 12:50",
+      "text": "Un problème parfois difficile à évoquer. ➡️ https://mrf.lu/2B26w"
     },
     {
       "author_name": "Ni Oubli Ni Pardon",
-      "published_at": "2026-11-20 12:51",
-      "text": "10/2023 John Legend, dans une pub pour Pfizer : « Et comment puis-je maintenir à jour ma protection contre la COVID 19 ? Avec un vaccin COVID cette saison, conçu pour les variants récents. » #SpécialUS🇺🇸"
+      "published_at": "2026-11-21 12:50",
+      "text": "01/2025 Paul Denton (alias Nils Wilcke), journaliste, influenceur : « L’épidémie de grippe atteint un niveau de décès jamais atteint depuis 5 ans. En cause, une faible couverture vaccinale : à peine 35,2 % chez les personnes ciblées, 41 % chez les vieux et 19 % pour les plus"
     },
     {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-20 12:51",
-      "text": "\"La nouveauté de cette campagne, c'est que le logiciel politique français a changé.\" explique @WatrigantArthur #EliotDevalEtVous @deval_eliot #Europe1"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-20 12:52",
-      "text": "«Cassez-vous, cassez-vous» : Guillaume Foucqueteau violemment rejeté d'une manifestation https://www.cnews.fr/france/2026-11-20/cassez-vous-cassez-vous-guillaume-foucqueteau-violemment-rejete-dune"
-    },
-    {
-      "author_name": "Le Média en 4⃣-4⃣-2⃣",
-      "published_at": "2026-11-20 12:52",
-      "text": "Dominique de Villepin se déclare candidat à la présidentielle de 2027 \nhttps://lemediaen442.fr/dominique-de-villepin-se-declare-candidat-a-la-presidentielle-de-2027/ \n\nL’ancien Premier ministre de Jacques Chirac a annoncé sa candidature ce 20 novembre. En août 2025, Marcel D. et Pierre de Brague posaient déjà la question sur Radio 2.2. \n\nNous"
-    },
-    {
-      "author_name": "Le JDD",
-      "published_at": "2026-11-20 12:56",
-      "text": "Soissons : un homme tente de faire exploser une station-service en criant «Allah Akbar» https://ow.ly/YhfV106JaRx"
-    },
-    {
-      "author_name": "Frontières",
-      "published_at": "2026-11-20 12:56",
-      "text": "🚨 ALERTE - NOUVELLE EXPLOSION D’AUDIENCES.\n\n📺 478 000 TÉLÉSPECTATEURS pour le GRAND REPORTAGE de Jordan Florentin sur CNEWS dédié aux policiers.\n\n💥 Soutenez Frontières, votre média de terrain ! \n\n👉 Profitez de notre Black Friday (-50%) : https://www.frontieresmedia.fr/nos-abonnements"
+      "author_name": "Le Point",
+      "published_at": "2026-11-21 12:50",
+      "text": "À cinq mois de la présidentielle, les débats se concentrent sur le pouvoir d’achat, les retraites ou l’immigration. \n\nMais qui s’interroge sur la manière dont Marine Le Pen exercerait le pouvoir nucléaire ? ➡️ https://l.lepoint.fr/JOz"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-20 12:57",
-      "text": "Candidature de Villepin, inondations dans le Nord et record de ventes pour GTA VI : les infos à retenir ce midi\n➡️ https://l.leparisien.fr/uUii"
+      "published_at": "2026-11-21 12:51",
+      "text": "💬«J’ai mis la lampe frontale et j’ai exploré mes grottes»\n\nAdèle Castillon confirme tous les espoirs placés en elle en 2023 avec un nouveau disque qui allie la force de textes brillants, intimes et cash \n\nL’un des meilleurs albums francophones de l’année \n\nRencontre ➡️"
     },
     {
-      "author_name": "Tocsin",
-      "published_at": "2026-11-20 13:00",
-      "text": "🏳️‍🌈 Ryan Guézouze balance les grands noms du showbiz !\n\nRéécouter l'émission 🔗https://www.youtube.com/live/rddvtvONzJA?si=k4vBjax5HXBAWVTu"
+      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
+      "published_at": "2026-11-21 12:57",
+      "text": "[Retweet de @JoinLifespan] Vitamin D3 at 2,000 IU a day preserves about 140 base pairs of telomere length over four years in the VITAL trial https://doi.org/10.1016/j.ajcnut.2025.05.003"
     },
     {
-      "author_name": "TVL",
-      "published_at": "2026-11-20 13:00",
-      "text": "🇺🇸 Après avoir dépensé plus de 400 millions de dollars pour soutenir les républicains, Elon Musk prend ses distances avec le mouvement MAGA.\n\nLe patron de Tesla et SpaceX a affirmé ne pas se considérer comme un partisan inconditionnel du mouvement de Donald Trump.\n\nLe"
+      "author_name": "CNEWS",
+      "published_at": "2026-11-21 12:58",
+      "text": "Présidentielle 2027 : Éric Zemmour lance sa campagne ce samedi avec un grand meeting à Toulon, en terrain conquis\n\nToute l'info est à retrouver sur https://cnews.fr"
     },
     {
-      "author_name": "VA+",
-      "published_at": "2026-11-20 13:00",
-      "text": "🔴 « ALLAH AKBAR » | Un homme a tenté de faire exploser une station-service TotalEnergies à Soissons, selon Europe 1.\n\nIl aurait ouvert sept bouteilles de gaz, un briquet à la main, avant d'être interpellé.\n\nConnu des services de police, il a été placé en garde à vue."
+      "author_name": "Bruno Attal",
+      "published_at": "2026-11-21 12:58",
+      "text": "Salut Cyril Hanouna \n\nOk je suis partant pour un duel avec @sebastiendelogu \n\nCa va faire de l’audience tu as raison…\n[Cite @Cyrilhanouna] L'Heure de vérité, je l'ai regardée hier, et je vous dis ce qui ne va pas selon moi ! #TBT9"
     },
     {
-      "author_name": "Ligne Droite • La matinale de RC",
-      "published_at": "2026-11-20 13:00",
-      "text": "💥 \"Et si, par cette démission fracassante, Arnaud Viviant, archétype du boomer de gauche, avait cherché à se racheter une image de radicalité après des dizaines d’années d’hédonisme germanopratin passées à naviguer entre Thierry Ardisson et le Prix de Flore ?\"\n\n🗣️ L’édito de"
-    },
+      "author_name": "Le Point",
+      "published_at": "2026-11-21 12:59",
+      "text": "🎆 Le 29 novembre, les Suisses voteront pour l’interdiction, ou non, des feux d’artifice bruyants.\n\nEt d’autres pays européens en ont assez, explique notre chroniqueur helvète Richard Werly. ➡️ https://l.lepoint.fr/soR"
+    }
+  ],
+  "context": [
     {
       "author_name": "Le Parisien | politique",
       "published_at": "2026-11-20 13:01",
@@ -6635,6 +6565,11 @@
       "author_name": "Alain Weber",
       "published_at": "2026-11-21 00:11",
       "text": "Donc Ursula von der Leyen qui fait la leçon à tout le monde, gère tellement bien son administration, qu’elle n’est pas certaine de pouvoir payer les salaires 2027/2028…\n\nSi ce n’était aussi dramatique, cela me ferait rire…"
+    },
+    {
+      "author_name": "Cercle Aristote",
+      "published_at": "2026-11-21 00:11",
+      "text": "[Retweet de @Cercle_Aristote] La perversion totale de la société\n\nPourquoi le libéralisme est-il une impasse ? Jean-Luc Schaffhauser répond à cette question en s’appuyant sur son expérience politique et sa vision chrétienne de la société. \n\nRetrouvez l'entretien complet avec Jean-Luc Schauffauser :"
     },
     {
       "author_name": "Cercle Aristote",
