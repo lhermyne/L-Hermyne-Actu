@@ -1,15 +1,15 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-21 16:16",
-  "period": "du 2026-11-20 16:16 au 2026-11-21 16:16",
-  "new_period": "du 2026-11-21 08:00 au 2026-11-21 16:16",
-  "context_period": "du 2026-11-20 16:16 au 2026-11-21 08:00",
+  "generated_at": "2026-11-21 16:33",
+  "period": "du 2026-11-20 16:33 au 2026-11-21 16:33",
+  "new_period": "du 2026-11-21 08:00 au 2026-11-21 16:33",
+  "context_period": "du 2026-11-20 16:33 au 2026-11-21 08:00",
   "coverage_complete": true,
-  "new_count": 658,
-  "context_count": 690,
-  "duplicates_merged": 84,
-  "empty_removed": 7,
+  "new_count": 673,
+  "context_count": 670,
+  "duplicates_merged": 82,
+  "empty_removed": 6,
   "new": [
     {
       "author_name": "Tocsin",
@@ -3324,7 +3324,10 @@
     {
       "author_name": "Le Parisien | politique",
       "published_at": "2026-11-21 16:08",
-      "text": "« La guerre s’étend jusqu’à nos portes » : un hélicoptère russe soupçonné d’avoir violé l’espace aérien de la Finlande, après une attaque de drone\n➡️ https://l.leparisien.fr/Le29"
+      "text": "« La guerre s’étend jusqu’à nos portes » : un hélicoptère russe soupçonné d’avoir violé l’espace aérien de la Finlande, après une attaque de drone\n➡️ https://l.leparisien.fr/Le29",
+      "also_by": [
+        "Le Parisien"
+      ]
     },
     {
       "author_name": "CNEWS",
@@ -3380,130 +3383,87 @@
       "author_name": "Boulevard Voltaire",
       "published_at": "2026-11-21 16:17",
       "text": "[VIVE LA FRANCE] À Saint-Maur-des-Fossés, des collégiens montent sur scène pour célébrer le sacre de Saint Louis | Par Albane Comte\n48 collégiens se mobilisent pour faire revivre une page majeure de l’Histoire de France, huit siècles après. \n \nhttps://www.bvoltaire.fr/vive-la-france-a-saint-maur-des-fosses-des-collegiens-montent-sur-scene-pour-celebrer-le-sacre-de-saint-louis/"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Le Média en 4⃣-4⃣-2⃣",
-      "published_at": "2026-11-20 16:17",
-      "text": "Balzac : le Hussard raconte pourquoi les cours de français nous donnent si peu envie de le lire \nhttps://lemediaen442.fr/balzac-le-hussard-raconte-pourquoi-les-cours-de-francais-nous-donnent-si-peu-envie-de-le-lire/ \n\nAvant de devenir un classique du programme, Balzac était un imprimeur ruiné qui écrivait pour payer ses dettes."
-    },
-    {
-      "author_name": "Tocsin",
-      "published_at": "2026-11-20 16:17",
-      "text": "🎙️Un intellectuel déconstruit la réalité du clivage droite-gauche ! – Arnaud Imatz\n\n🔗 https://youtu.be/u9CQ2yNS6OQ\n\n🗣️ Arnaud Imatz"
-    },
-    {
-      "author_name": "VA+",
-      "published_at": "2026-11-20 16:19",
-      "text": "🔴 DANEMARK | « Je ne suis pas partisane d'un grand remplacement de la population », déclare Mette Frederiksen.\n\nLa Première ministre sociale-démocrate rejette également le multiculturalisme et défend une culture danoise majoritaire.\n\nDes propos vivement critiqués à gauche."
-    },
-    {
-      "author_name": "Boulevard Voltaire",
-      "published_at": "2026-11-20 16:19",
-      "text": "[Retweet de @mascureau] Je ne suis pas journaliste de formation, mais d'expérience et s’il y a bien un principe fondamental dans notre profession, c’est celui de citer ses sources. Or, la source de votre article prétendument « exclusif » porte un nom : @jean_bexon !"
-    },
-    {
-      "author_name": "Boulevard Voltaire",
-      "published_at": "2026-11-20 16:19",
-      "text": "[Retweet de @jean_bexon] C'est peut être moi qui suis fou. \n\nMais en relisant soigneusement l'article présenté comme exclu du Point, je ne peux sincèrement qu'y voir une reprise/synthèse (bien menée il faut le dire) de mon travail. \nJ'ai sûrement tort. \n\nMêmes angles. Mêmes pistes d'enquête. Mêmes axes",
-      "also_by": [
-        "Gabrielle Cluzel"
-      ]
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-20 16:20",
-      "text": "« Je ne reconnais plus mon parti » : après la main tendue de Marine Tondelier à Jean-Luc Mélenchon, un député quitte les Écologistes https://l.leparisien.fr/MP6V",
-      "also_by": [
-        "Le Parisien | politique"
-      ]
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-20 16:20",
-      "text": "«Chacune des mesures préconisées par le Danemark est impossible à évoquer dans le débat public français» : l'analyse de Raphaël Stainville sur les mesures strictes prises par le Danemark contre l'immigration, dans #100Actu\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Le Crayon",
-      "published_at": "2026-11-20 16:22",
-      "text": "Les personnages féminins dans les jeux vidéo sont-ils forcés ?\n\nUn échange avec Bob Legob (de son vrai nom Stéphane Aicardi), streamer et créateur de contenu et Anna Bressans, directrice artistique, enseignante, conférencière et présidente de Women in Games France."
-    },
-    {
-      "author_name": "Valeurs actuelles",
-      "published_at": "2026-11-20 16:22",
-      "text": "✒️ LA LETTRE DE RASTIGNAC - Les délices du Palais du Luxembourg\n\n🔗 https://l.valeursactuelles.com/Whi"
-    },
-    {
-      "author_name": "Jean-Yves Le Gallou",
-      "published_at": "2026-11-20 16:22",
-      "text": "Un ministre, un préfet pour inaugurer un banc. La #Propagande ne prend pas de vacances… La laideur non plus..Notez  la rupture de l’harmonie du village : le banc en métal rouge qui rompt l’atmosphère paisible qui émane des pierres. \n@RenaudCamus"
     },
     {
       "author_name": "Le Point",
-      "published_at": "2026-11-20 16:24",
-      "text": "Pourquoi les grands rôles du répertoire n’ont rien à voir avec la couleur de la peau https://l.lepoint.fr/NAW"
+      "published_at": "2026-11-21 16:18",
+      "text": "L’ŒIL DU PATRON. À la tête du groupe agroalimentaire LSDH, Emmanuel Vasseneix dénonce une fiscalité qui pénalise les entreprises. \n\nTaxe Zucman, TVA sociale, centralisation… Le patron plaide pour un changement de modèle. ➡️ https://l.lepoint.fr/QuC"
     },
     {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-20 16:24",
-      "text": "« C’est un privilège » : à 12 ans, elles contestent la gratuité d’emprunt à la médiathèque réservée aux mentions « très bien »\n➡️ https://l.leparisien.fr/uUiA"
+      "author_name": "Dreuz",
+      "published_at": "2026-11-21 16:20",
+      "text": "Israël en première ligne – le Live de la confrontation Israël-Iran – 21 novembre 2026 https://www.dreuz.com/2026/11/israel-en-premiere-ligne-le-live-de-la-confrontation-israel-iran-21-novembre-2026-334081.html"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-20 16:27",
-      "text": "«Il nie l'existence d'un racisme anti-Blancs qui tue des Blancs» : Ivan Rioufol revient sur l'interview de Gabriel Attal, qui a refusé de reprendre l'expression «racisme anti-Blancs», dans #100Actu\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-20 16:27",
-      "text": "⚖️ Gérard Depardieu et Michel Houellebecq sous enquête pour viols en réunion\nhttps://www.sudradio.fr/?p=933196"
-    },
-    {
-      "author_name": "Polémia",
-      "published_at": "2026-11-20 16:28",
-      "text": "💶 Le Conseil d’État a jugé le 17 novembre que l’État n’a pas à rembourser l’agglomération Pays basque pour son centre d’accueil de migrants de Bayonne, financé à hauteur d’environ 900 000 euros.\n\nLe centre Pausa, à Bayonne, a été créé par la communauté d’agglomération Pays"
-    },
-    {
-      "author_name": "Damien Rieu",
-      "published_at": "2026-11-20 16:29",
-      "text": "[Retweet de @Hexagone_org] 🔴 L'Arcom annonce encadrer les podcasts politiques. Ces formats donnent-ils la parole aux différents camps ? \n\nNous avons fait la liste des invités politiques des 4 principaux podcasts d'actualité et de politique en 2026... ⤵️\n1/3"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-20 16:29",
-      "text": "« La solution n’est pas évidente » : Vincent Chriqui, l’homme des primaires de droite… qui n’en veut plus\n➡️ https://l.leparisien.fr/J62Z"
-    },
-    {
-      "author_name": "TVL",
-      "published_at": "2026-11-20 16:30",
-      "text": "🇸🇻 Nayib Bukele, qui a envoyé des forces armées salvadoriennes en Haïti pour lutter contre les gangs de narcotrafiquants, a publié une vidéo dans laquelle des hélicoptères frappent une villa luxueuse appartenant à un chef de gang."
-    },
-    {
-      "author_name": "Comité Trump France",
-      "published_at": "2026-11-20 16:30",
-      "text": "Les français payent encore plus d'impôt pour au final sucer le Hamas\n[Cite @Mediaminds13] @TrumpFrance Je trouve que les Américains paient beaucoup trop d’impôts pour, au final, sucer Israël."
+      "published_at": "2026-11-21 16:21",
+      "text": "«L'opposition droite-gauche n'a jamais été aussi présente chez les jeunes», constate Mehdy Raïche, analyste politique, dans #100Actu\n\nToute l'info est à retrouver sur https://cnews.fr"
     },
     {
       "author_name": "Le Figaro",
-      "published_at": "2026-11-20 16:30",
-      "text": "Guerre en Ukraine : les Européens iront à Moscou s’ils ont toute leur place dans les négociations →https://l.lefigaro.fr/iFGH"
+      "published_at": "2026-11-21 16:21",
+      "text": "[Retweet de @aldricmee] À 200 m de Nation, important déploiement policier rue de Montreuil. «À bas l’État policier !», scandent des manifestants. «Genre, là, ils peuvent nous tirer dessus maintenant ?», lance l’un d’eux, en référence au texte sur la présomption d’usage légal des armes adopté vendredi."
     },
     {
-      "author_name": "CourrierDesStratèges",
-      "published_at": "2026-11-20 16:31",
-      "text": "⛔️Quel risque d'une crise de la dette avant les présidentielles  ❓Le 19 novembre, l'État a placé 12 Md€ avec trois fois plus d'offres, mais à 4,09 % contre 2,76 %. S&P le 27/11, budget le 17/12, Fitch en février.\nhttps://www.lecourrierdesstrateges.fr/quel-risque-dune-crise-de-la-dette-avant-les-presidentielles/"
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-21 16:21",
+      "text": "« C’est Pac-Man, il a mangé Retailleau » : Philippe et Attal bousculés par le phénomène Lisnard\n\n➡️ https://l.leparisien.fr/DjEw",
+      "also_by": [
+        "Le Parisien"
+      ]
     },
     {
-      "author_name": "L'Incorrect",
-      "published_at": "2026-11-20 16:31",
-      "text": "Les critiques littéraires du mois.\n\nMémoires d’un estomac — Sidney Whiting ; Via Veneto — Colette Fellous ; Midgar — Noham Selcer ; Les Chemins écarquillés — Aurélien Blanchard.\n\nÀ lire dans le numéro 102.\n\n🔗 https://boutique.lincorrect.org/magazine-papier/numero-102?utm_source=x&utm_medium=social&utm_campaign=2026-11-20_n102-r-livres-quatre-critiques-01"
+      "author_name": "Causeur.fr",
+      "published_at": "2026-11-21 16:26",
+      "text": "[Retweet de @Pascal_Louvrier] C’est le week-end, et au théâtre Montparnasse il y a l’immense Catherine Hiegel dans la pièce « Suzanne ». C’est excellent! Suzanne Valadon face à son fils, Maurice Utrillo. Mon article dans @Causeur 👇@TMontparnasse \n\nhttps://www.causeur.fr/suzanne-valadon-femme-libre-337692"
+    },
+    {
+      "author_name": "Causeur.fr",
+      "published_at": "2026-11-21 16:26",
+      "text": "[Retweet de @StubbsJeremy] Avec @HaroldTribune_"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-21 16:27",
+      "text": "Une institution niçoise débarque à Paris ➡️ https://mrf.lu/2BcfY"
     },
     {
       "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-20 16:32",
-      "text": "Après l’agression de mercredi dans le quartier de La Saulaie, le jeune de 17 ans a été transporté à l’hôpital Lyon Sud. Son pronostic vital n’est plus engagé. Deux suspects ont été placés en garde à vue.\n\nhttps://www.fdesouche.com/2026/11/20/oullins-pierre-benite-69-adolescent-17-ans-cinq-coups-couteau-deux-interpellations-novembre-2026/"
+      "published_at": "2026-11-21 16:28",
+      "text": "L'enquête sur le braquage d'un bureau de tabac a conduit les gendarmes à démanteler un réseau de stupéfiants : quatorze interpellations, une arme saisie et plusieurs placements en détention provisoire.  https://www.fdesouche.com/2026/11/21/villefranche-de-rouergue-12-un-braquage-revele-un-trafic-de-cocaine-quatorze-interpellations-et-une-arme-saisie/"
     },
+    {
+      "author_name": "Sarah Knafo",
+      "published_at": "2026-11-21 16:28",
+      "text": "Merci pour votre incroyable accueil à Toulon !\n\n👉 https://youtube.com/live/DvPGcz-3NHY"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-21 16:29",
+      "text": "🏃‍♂️ Quels sports font perdre le plus de calories ? Le classement des disciplines les plus efficaces\nhttps://www.sudradio.fr/sport-rugby/sport/quels-sports-font-perdre-le-plus-de-calories-le-classement-des-disciplines-les-plus-efficaces"
+    },
+    {
+      "author_name": "OMERTA",
+      "published_at": "2026-11-21 16:30",
+      "text": "UNE FRANCE SURENDETTEE : LES FRANÇAIS PAYERONT \n@geraldautier , financier, essayiste, est l'invité d'Omerta afin de répondre à des questions portant sur la dette publique française. Comment une France surendettée peut-elle s'en sortir ? Y aura-t-il un krach ? Qui remboursera ?"
+    },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-21 16:30",
+      "text": "[Retweet de @vincentroux88] L’armée finlandaise a détecté une «attaque de drone» contre un cargo russe dans le golfe de Finlande\nA lire le passionnant récit @cyrille_louis évoque les multiples tentatives russes de déstabilisation des pays frontaliers du nord de l'Europe.\n\nhttps://www.lefigaro.fr/international/finlande-l-armee-a-detecte-une-attaque-de-drone-contre-un-cargo-russe-dans-le-golfe-de-finlande-20261121?utm_source=app&utm_medium=share&utm_campaign=android_Figaro"
+    },
+    {
+      "author_name": "L'Incorrect",
+      "published_at": "2026-11-21 16:31",
+      "text": "Dans le journal d’Éric Naulleau.\n\nChaque mois, L’Incorrect demande à un écrivain à l’œil aiguisé de confier à ses lecteurs quelques pages de son journal récent.\n\nÀ lire dans le numéro 102.\n\n🔗 https://boutique.lincorrect.org/magazine-papier/numero-102?utm_source=x&utm_medium=social&utm_campaign=2026-11-21_n102-r-journal-eric-naulleau"
+    },
+    {
+      "author_name": "Valeurs actuelles",
+      "published_at": "2026-11-21 16:32",
+      "text": "[Retweet de @wdeguerpel] Discours de Sarah Knafo : la députée européenne fait le procès du leader insoumis au meeting d’Éric Zemmour.\n\n« La République de Jean-Luc Mélenchon, c’est la République des Misérables, celle où chacun dépend de son bon vouloir. » @Valeurs"
+    }
+  ],
+  "context": [
     {
       "author_name": "Boulevard Voltaire",
       "published_at": "2026-11-20 16:34",
@@ -3606,6 +3566,11 @@
       "author_name": "Europe 1",
       "published_at": "2026-11-20 16:46",
       "text": "New York : Zohran Mamdani repousse la fermeture de la prison de Rikers Island à 2032 https://ow.ly/1eCH106JbbS"
+    },
+    {
+      "author_name": "Gabrielle Cluzel",
+      "published_at": "2026-11-20 16:46",
+      "text": "[Retweet de @jean_bexon] C'est peut être moi qui suis fou. \n\nMais en relisant soigneusement l'article présenté comme exclu du Point, je ne peux sincèrement qu'y voir une reprise/synthèse (bien menée il faut le dire) de mon travail. \nJ'ai sûrement tort. \n\nMêmes angles. Mêmes pistes d'enquête. Mêmes axes"
     },
     {
       "author_name": "Gabrielle Cluzel",
@@ -6154,6 +6119,14 @@
       "text": "« À ce stade, je n’ai pas convaincu » : le va-tout de Gabriel Attal pour la présidentielle https://l.leparisien.fr/XoXC"
     },
     {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-20 22:58",
+      "text": "« Je ne reconnais plus mon parti » : après la main tendue de Marine Tondelier à Jean-Luc Mélenchon, un député quitte les Écologistes https://l.leparisien.fr/AAue",
+      "also_by": [
+        "Le Parisien | politique"
+      ]
+    },
+    {
       "author_name": "Agence France-Presse",
       "published_at": "2026-11-20 23:00",
       "text": "💰 La Bourse de New York a pris l'eau vendredi, malmenée par les lourdes pertes des valeurs associées à l'intelligence artificielle, un jour à peine après la cotation historique du géant du secteur, Anthropic."
@@ -6232,6 +6205,11 @@
       "author_name": "ThinkerView",
       "published_at": "2026-11-20 23:24",
       "text": "[Retweet de @rynex20] Ça fait sauter le pont ça rigole et maintenant que les russes ripostent ça chiale 🤡"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-20 23:25",
+      "text": "« C’est un privilège » : à 12 ans, elles contestent la gratuité d’emprunt à la médiathèque réservée aux mentions « très bien »\n➡️ https://l.leparisien.fr/BNhl"
     },
     {
       "author_name": "ThinkerView",
