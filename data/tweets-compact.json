@@ -1,15 +1,15 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-21 13:01",
-  "period": "du 2026-11-20 13:01 au 2026-11-21 13:01",
-  "new_period": "du 2026-11-21 08:00 au 2026-11-21 13:01",
-  "context_period": "du 2026-11-20 13:01 au 2026-11-21 08:00",
+  "generated_at": "2026-11-21 13:31",
+  "period": "du 2026-11-20 13:31 au 2026-11-21 13:31",
+  "new_period": "du 2026-11-21 08:00 au 2026-11-21 13:31",
+  "context_period": "du 2026-11-20 13:31 au 2026-11-21 08:00",
   "coverage_complete": true,
-  "new_count": 422,
-  "context_count": 962,
-  "duplicates_merged": 84,
-  "empty_removed": 4,
+  "new_count": 456,
+  "context_count": 923,
+  "duplicates_merged": 85,
+  "empty_removed": 5,
   "new": [
     {
       "author_name": "Tocsin",
@@ -1707,7 +1707,10 @@
     {
       "author_name": "Marine Le Pen",
       "published_at": "2026-11-21 12:00",
-      "text": "Je serai ce dimanche l’invitée de @Ben_Duhamel pour « Franc-jeu », à partir de 13h20, sur France 3 et France Inter."
+      "text": "Je serai ce dimanche l’invitée de @Ben_Duhamel pour « Franc-jeu », à partir de 13h20, sur France 3 et France Inter.",
+      "also_by": [
+        "Rassemblement National"
+      ]
     },
     {
       "author_name": "Le Parisien",
@@ -1770,7 +1773,10 @@
     {
       "author_name": "Jordan Bardella",
       "published_at": "2026-11-21 12:04",
-      "text": "Retrouvons-nous mercredi prochain à Haguenau pour une nouvelle séance de dédicaces de « GOUVERNER ».\n\nJe compte sur vous !"
+      "text": "Retrouvons-nous mercredi prochain à Haguenau pour une nouvelle séance de dédicaces de « GOUVERNER ».\n\nJe compte sur vous !",
+      "also_by": [
+        "Rassemblement National"
+      ]
     },
     {
       "author_name": "Le Parisien",
@@ -1855,7 +1861,10 @@
     {
       "author_name": "OMERTA",
       "published_at": "2026-11-21 12:15",
-      "text": "SOMMET DE L’APEC: LES DESSOUS D’UNE RENCONTRE HISTORIQUE \nLes trois plus grosses puissances nucléaires sont réunies en Chine. Une première historique qui dessine les contours du monde du futur. https://youtu.be/8zGrD_c1rXc"
+      "text": "SOMMET DE L’APEC: LES DESSOUS D’UNE RENCONTRE HISTORIQUE \nLes trois plus grosses puissances nucléaires sont réunies en Chine. Une première historique qui dessine les contours du monde du futur. https://youtu.be/8zGrD_c1rXc",
+      "also_by": [
+        "Régis Le Sommier"
+      ]
     },
     {
       "author_name": "Le Figaro",
@@ -2167,214 +2176,179 @@
       "author_name": "Le Point",
       "published_at": "2026-11-21 12:59",
       "text": "🎆 Le 29 novembre, les Suisses voteront pour l’interdiction, ou non, des feux d’artifice bruyants.\n\nEt d’autres pays européens en ont assez, explique notre chroniqueur helvète Richard Werly. ➡️ https://l.lepoint.fr/soR"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-20 13:01",
-      "text": "Présidentielle 2027 : dettes, place de la jeunesse, « guerre civile »… Ce qu’il faut retenir de l’annonce de la candidature de Dominique de Villepin https://l.leparisien.fr/C54o"
     },
     {
-      "author_name": "Pierre Sautarel",
-      "published_at": "2026-11-20 13:02",
-      "text": "Villepin se rêve en Mélenchon de droite. C’est surtout un Édouard Philippe de gauche."
+      "author_name": "Kroc Blanc",
+      "published_at": "2026-11-21 13:02",
+      "text": "GTA VI marquera le début de la fin du cinéma traditionnel. Après lui, la contemplation passive d’un film paraîtra d’une insoutenable fadeur."
     },
     {
-      "author_name": "L'Express",
-      "published_at": "2026-11-20 13:02",
-      "text": "Fin juillet, un missile russe Kh-101 était déjà tombé en Pologne, s'écrasant dans une zone inhabitée.\n\n➡️ https://l.lexpress.fr/lIR"
-    },
-    {
-      "author_name": "Reprenons le contrôle !",
-      "published_at": "2026-11-20 13:03",
-      "text": "« Personne n’a le courage de dire la vérité aux Français sur les finances du pays » ?\n[Cite @Cobra_FX_] En off, de plus en plus de politiques souhaitent que la BCE prenne le relais. Parce qu’aucun n’a le courage de dire la vérité aux français sur les finances du pays et encore moins d’être celui qui réformera - et cramera son avenir. À 6 mois d’une présidentielle, c’est criminel."
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-20 13:05",
-      "text": "⚠️  Médicaments contre le rhume : attention aux mélanges dangereux et au surdosage\n \n💊  Notre décryptage et nos conseils : https://www.sudradio.fr/?p=932897"
-    },
-    {
-      "author_name": "Sarah Knafo",
-      "published_at": "2026-11-20 13:06",
-      "text": "Dominique de Villepin est un intermittent du spectacle politique. Il réapparaît sur scène à chaque élection présidentielle, veut être en haut de l'affiche et rejoue à l'infini son grand numéro, la tirade de l'ONU.\n\nMais il oublie de raconter la fin de sa dernière tournée. En juin\n[Cite @BFMTV] 🔴 ALERTE INFO\nDominique de Villepin annonce être candidat à la présidentielle https://www.bfmtv.com/politique/direct-presidentielle-2027-vives-tensions-chez-les-ecologistes-apres-la-main-tendue-de-marine-tondelier-a-lfi-dominique-de-villepin-en-route-vers-une-candidature_LN-202611200201.html#article_567363"
-    },
-    {
-      "author_name": "Tocsin",
-      "published_at": "2026-11-20 13:06",
-      "text": "📻Avons-nous encore besoin de nos dirigeants ? Azalbert pose la question qui fâche !\n\n🔗 https://youtu.be/-R5iNMnoeTs\n\n🗣️ Xavier Azalbert (@xazalbert)"
-    },
-    {
-      "author_name": "Valeurs actuelles",
-      "published_at": "2026-11-20 13:06",
-      "text": "🗞️ En dénonçant les subventions publiques accordées à la Ligues des droits de l'homme, Marine Le Pen ouvre un nouveau front dans la campagne.\nhttps://l.valeursactuelles.com/KkO"
-    },
-    {
-      "author_name": "Alain Weber",
-      "published_at": "2026-11-20 13:07",
-      "text": "Il ne manquait plus que lui !\n\nLes calamités, ça vole en escadrille, après Teddy Riner…\n\nVoilà que Dominique de Villepin, le petit télégraphiste du Qatar, l’homme dont les relations d’affaires avec certains dirigeants africains, disons autoritaires, ont suscité tant de"
-    },
-    {
-      "author_name": "L’Infiltré",
-      "published_at": "2026-11-20 13:07",
-      "text": "🔴 Boycotter CNews ? Les avocats ont dit NON !\n\nLe Syndicat des avocats de France voulait remettre en question la présence de la profession dans certains « médias populistes ».\n\nRésultat du vote : 16 voix pour, 64 contre !\n\n👉 L’Infiltré révèle les coulisses (-50%) :"
-    },
-    {
-      "author_name": "Le Point",
-      "published_at": "2026-11-20 13:09",
-      "text": "Dominique de Villepin, le gaulliste rouge\n\nPar @smahrane https://l.lepoint.fr/ThA"
-    },
-    {
-      "author_name": "Ligne Droite • La matinale de RC",
-      "published_at": "2026-11-20 13:09",
-      "text": "💥 \"70 % des Français n’ont pas confiance dans la capacité de l’État à assurer leur sécurité. Et un Français sur trois a envisagé d’acquérir légalement une arme.\"\n\n🗣️ @BAUDRILLER présente le dernier numéro de @Valeurs avec un entretien de @MontbrialAvocat : \"L’État ne nous"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-20 13:09",
-      "text": "Lufthansa va supprimer 1 000 postes au sein de sa principale compagnie aérienne\n➡️ https://l.leparisien.fr/WdO7"
-    },
-    {
-      "author_name": "Tribune Populaire🌐",
-      "published_at": "2026-11-20 13:09",
-      "text": "FLASH INFO – Ce matin, un missile de croisière russe Kh-101 s'est écrasé dans un champ de Nowy Lipowiec, près du village de Chmielek (comté de Biłgoraj), dans l'est de la Pologne. \n\nLe site se trouve à une cinquantaine de kilomètres de la frontière ukrainienne.\n\nL'impact a eu"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-20 13:10",
-      "text": "😱 #GenerationBercoff avec @andrebercoff et @alonzoceline : la crise pétrolière de 1973\n\n🗣️ André Bercoff :\"Ce choc pétrolier a été un séisme. Ça a été un vrai basculement\"\n\n📻 Suivez le direct sur https://sudradio.fr et réagissez au 0 826 300 300"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-20 13:10",
-      "text": "Présidentielle 2027 : « David Lisnard a une vie en dehors de la politique, il ne répond pas comme un homme politique », observe Arthur de Watrigant https://ow.ly/AxHp106JaSM"
-    },
-    {
-      "author_name": "Revue éléments",
-      "published_at": "2026-11-20 13:12",
-      "text": "🇺🇸Trump 2026, autopsie d’une apocalypse\nDans l’immédiat après-guerre, Raymond Abellio décrivait un Occident confisqué par l’Amérique. \nAujourd’hui, Trump, pompier incendiaire d’un monde en déséquilibre, précipite la fin d'une époque⤵️ \nhttps://www.revue-elements.com/trump-2026-autopsie-dune-apocalypse/"
-    },
-    {
-      "author_name": "Boulevard Voltaire",
-      "published_at": "2026-11-20 13:14",
-      "text": "[BRÈVE] Présidentielle 2027 : Dominique de Villepin officialise sa candidature | Par Boulevard Voltaire\nL’ancien chef du gouvernement a annoncé sa candidature à l’Élysée, dénonçant le « pourrissement de la France ». \n \nhttps://www.bvoltaire.fr/breve-presidentielle-2027-dominique-de-villepin-officialise-sa-candidature/?fsp_sid=26883"
-    },
-    {
-      "author_name": "Tocsin",
-      "published_at": "2026-11-20 13:15",
-      "text": "💥 « Ça veut dire que la justice couvre les défauts, les erreurs et les mensonges de l’administration ! »\n\n💉« Moi, je veux savoir quel est le positionnement de la justice. Parce que si la justice se positionne là-dessus en disant que ce qu’on dit est faux, alors que ce sont des"
-    },
-    {
-      "author_name": "Tribune Populaire🌐",
-      "published_at": "2026-11-20 13:17",
-      "text": "🇫🇷📂 FLASH INFO – Hugues Moutouh, ancien secrétaire général du ministère de l'Intérieur, est soupçonné d'avoir transmis au RN des informations sur des enquêtes visant le parti !\n\nLaurent Nuñez l'a convoqué et juge les faits « très graves s'ils sont avérés ».\n\nVu les échos qui"
-    },
-    {
-      "author_name": "CourrierDesStratèges",
-      "published_at": "2026-11-20 13:18",
-      "text": "🇫🇷Donc le 39 ième ....\nhttps://x.com/franceinfo/status/2123730981232488576?a=V6mvc1NLl82jXdgM8zg&s=20\n[Cite @franceinfo] 🔴 L’ancien Premier ministre de Jacques Chirac annonce sa candidature à l’élection présidentielle de 2027. Il s’ajoute aux 38 candidats déjà déclarés à cette élection. #franceinfo"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-20 13:19",
-      "text": "L’humoriste Tatiana s’en prend violemment à Vianney sur Radio Nova\n➡️ https://l.leparisien.fr/Lecn"
-    },
-    {
-      "author_name": "Jon De Lorraine",
-      "published_at": "2026-11-20 13:20",
-      "text": "🔴🇫🇷 CLASH VIOLENT entre Éric Naulleau et Mourad Boudjellal en plein direct !\n\nMourad Boudjellal accuse Éric Naulleau d'être d'extrême droite. La réponse est cinglante.\n\n🗣️ Éric Naulleau : « Vous êtes incapable de me citer un seul propos d'extrême droite et vous me traitez"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-20 13:22",
-      "text": "🇫🇷 Dominique de Villepin est candidat à l'élection présidentielle \n\n👉🏻 Le pari est lancé https://www.sudradio.fr/?p=933036"
-    },
-    {
-      "author_name": "Objectif Remigration",
-      "published_at": "2026-11-20 13:22",
-      "text": "Les journaux français ne veulent surtout pas qu’un peuple lutte pour assurer sa continuité ethno-culturelle.\n[Cite @LePoint] En quelques phrases, Mette Frederiksen a franchi toutes les limites que la social-démocratie européenne s’était fixées en matière migratoire. \n\nL'extrême-droite savoure.\n\n@Eberretta\n\n➡️ https://l.lepoint.fr/808"
-    },
-    {
-      "author_name": "Reprenons le contrôle !",
-      "published_at": "2026-11-20 13:24",
-      "text": "Ceci n’est pas une ingérence 🇪🇺🇩🇪😂\n\n« En coulisses, Berlin œuvre pour donner à l’UE plus de souplesse pour lever des fonds. Selon un diplomate européen consulté par le média, le plan consiste à s’assurer que l’aide à l’Ukraine soit décidée par une majorité qualifiée, sans que\n[Cite @LePoint] Aide à l’Ukraine : le plan de Berlin pour parer à une victoire de Le Pen https://l.lepoint.fr/Z5k"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-20 13:25",
-      "text": "💰 #GenerationBercoff avec @andrebercoff et @alonzoceline sur la crise pétrolière de 1973\n\n🗣️ André Bercoff :\"C'était la première fois dans l'histoire que l'occident se retrouvait dans une situation de dépendance\"\n\n📻 Suivez le direct sur https://sudradio.fr et réagissez au 0"
-    },
-    {
-      "author_name": "Tocsin",
-      "published_at": "2026-11-20 13:25",
-      "text": "🚨 « Il a eu le culot de comparer leurs liens d’intérêts financiers à mon lien d’intérêt du cœur, c’est-à-dire la perte de mon épouse ! »\n\n⚠️« Monsieur Molimard, qui a commencé par donner ses liens d’intérêts, m’a dit : \"Mais Monsieur Doyer, vous pouvez aussi nous parler de votre"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-20 13:25",
-      "text": "Neige, réservations en hausse et retraite aux flambeaux : Perpignan lance la saison de ski catalane\n➡️ https://l.leparisien.fr/TEnZ"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-20 13:25",
-      "text": "Nouvel appel à la grève dans la fonction publique le 1er décembre https://ow.ly/327O106JaTL"
-    },
-    {
-      "author_name": "Ni Oubli Ni Pardon",
-      "published_at": "2026-11-20 13:25",
-      "text": "03/2021 Pauline Chaste, cheffe du service de pédopsychiatrie de l'hôpital Necker, a déclaré : « On sait que lors du premier confinement, il y a eu des effets très importants sur la maltraitance. » Elle a ajouté : « Ce qu'on voit, c'est que depuis le deuxième confinement, il y a"
-    },
-    {
-      "author_name": "Tribune Populaire🌐",
-      "published_at": "2026-11-20 13:26",
-      "text": "📂🇫🇷FLASH INFO - Des enquêteurs ont eu la surprise de tomber nez à nez avec un procureur adjoint du parquet de Paris dans les locaux du RN lors de la perquisition !\n\nCette réaction montre que l'affaire est grave et que c'est actuellement la panique au RN.."
-    },
-    {
-      "author_name": "Le Point",
-      "published_at": "2026-11-20 13:26",
-      "text": "La grande saga de Rockstar Games, présentée comme un espace de liberté absolue, est un cocktail entre loi de la jungle et enfermement dans un destin tout tracé.\n\nPar @SamuelDufay @kevinbadeau\n➡️ https://l.lepoint.fr/0xM"
-    },
-    {
-      "author_name": "Florian Philippot",
-      "published_at": "2026-11-20 13:27",
-      "text": "Incroyable et si révélateur LAPSUS de Macron en direct ! \n(cf vidéo ⤵️)\n\n« Pour nous Ukrainiens…Euh !… »\n\n➡️ Son pays c’est l’UE, c’est l’Ukraine…mais ce n’est jamais la France !\nDEHORS !"
-    },
-    {
-      "author_name": "Les Patriotes",
-      "published_at": "2026-11-20 13:27",
-      "text": "[Retweet de @cricricook] Ce soir à 19h c'est Direct avec @f_philippot  sur sa chaîne Youtube 🇨🇵✊\nUn vendredi 20 novembre bien chargé !\n\n♦️- Brigitte et Macron : le livre choc !\n- Ukraine : refus des soldats français ?!\n- Cyberpannes en série : le hasard ?…\n- Présidentielle : le scénario nouveau qui se"
-    },
-    {
-      "author_name": "Les Patriotes",
-      "published_at": "2026-11-20 13:28",
-      "text": "[Retweet de @FrancoisDESCAM7] 👍C'est ce soir sur https://youtube.com/@FLORIANPHILIPPOT1\nAu programme:\n🟠Brigitte et Macron: le livre choc !\n🟠Ukraine: refus des soldats français ?!\n🟠Cyberpannes en série: le hasard ?…\n🟠Présidentielle: le scénario nouveau qui se dessine !\n…+ toute l’actualité et vos questions EN DIRECT !"
+      "author_name": "ThinkerView",
+      "published_at": "2026-11-21 13:02",
+      "text": "[Retweet de @donnfelker] The lyrics tell a story ... a story of that's both accurate, interesting, and slightly terrifying at the time."
     },
     {
       "author_name": "Le Figaro",
-      "published_at": "2026-11-20 13:29",
-      "text": "Les cours d'eau continuent à gonfler dans le Pas-de-Calais, placé en vigilance orange pluie-inondation jusqu'à 14h00 ce vendredi 20 novembre, où 450 personnes ont été évacuées ces dernières 24 heures selon la préfecture. Il est tombé jusqu'à plus de 100 mm sur le sud-ouest du"
+      "published_at": "2026-11-21 13:04",
+      "text": "L’armée finlandaise a détecté une «attaque de drone» contre un cargo russe dans le golfe de Finlande → https://l.lefigaro.fr/Rpc3"
     },
     {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-20 13:30",
-      "text": "🤯 #GenerationBercoff avec @andrebercoff et @alonzoceline : Quand André Bercoff a voulu racheter la ville de Bordeaux en 1980\n\n🗣️ \"Je me suis fait passer pour un agent des Émirats. J'ai monté une imposture dans le journal Sud Ouest\"\n\n📻 Suivez le direct sur"
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-21 13:05",
+      "text": "« Nous sommes plus proches de lui que de Lisnard » : chez les macronistes, la tentation Hollande\n➡️ https://l.leparisien.fr/quVY"
     },
     {
-      "author_name": "LCP",
-      "published_at": "2026-11-20 13:30",
-      "text": "🍽️À 14h dans Politique, à table ! @carole Tolila et @JPmontanay reçoivent à déjeuner\n@magnierdavid2, député RN de l'Oise"
+      "author_name": "L'Express",
+      "published_at": "2026-11-21 13:06",
+      "text": "De retour d’Asie, Donald Trump a multiplié les déclarations décousues lors d’une conférence de presse à la Maison-Blanche.\n\n➡️ https://l.lexpress.fr/JYC"
+    },
+    {
+      "author_name": "Bouli ☃️",
+      "published_at": "2026-11-21 13:07",
+      "text": "Mise à jour :\n[Cite @bouliboulibouli] @Otomo_Tak A la surprise générale, Macron = Hollande."
     },
     {
       "author_name": "Europe 1",
-      "published_at": "2026-11-20 13:30",
-      "text": "Présidentielle : « David Lisnard fait passer l’intérêt du pays avant son égo », assure David, auditeur https://ow.ly/FGX9106JaU0"
+      "published_at": "2026-11-21 13:07",
+      "text": "« Pas de danger dramatique» mais la France est «en grande souffrance» économique selon Jacques Sapir https://ow.ly/GcE3106JiIU"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-21 13:07",
+      "text": "« Nous sommes plus proches de lui que de Lisnard » : chez les macronistes, la tentation Hollande https://l.leparisien.fr/7WD1"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-21 13:08",
+      "text": "🔴  Vous avez manqué #ParlonsImmo ce samedi ? Retrouvez l'émission complète : https://www.sudradio.fr/programme/parlons-immo"
+    },
+    {
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-21 13:09",
+      "text": "[Retweet de @BVoltaire] Ceuta : hausse inédite des violences depuis l’arrivée massive de migrants | Par  @ClemdeLongraye\nDepuis l’invasion de l’enclave espagnole, les agressions sexuelles ont ainsi augmenté de 650 %. \n \nhttps://www.bvoltaire.fr/ceuta-hausse-inedite-des-violences-depuis-larrivee-massive-de-migrants/"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-21 13:11",
+      "text": "🚗 Vous avez manqué On parle auto ?\n\nRetrouvez l'émission intégrale : https://www.sudradio.fr/programme/sud-radio-on-parle-auto"
+    },
+    {
+      "author_name": "Valeurs actuelles",
+      "published_at": "2026-11-21 13:11",
+      "text": "🗞️ Le Conseil de Paris a adopté vendredi 20 novembre un vœu proposant de donner à la place du 7e arrondissement le nom de la résistante et historienne Suzanne Citron. La conseillère de Paris Emmanuelle Dauvergne a défendu le souvenir de l’écrivain monarc… https://l.valeursactuelles.com/X7u"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-20 13:30",
-      "text": "«Rien n'interdis au titre de la liberté d'expression de s'exprimer sur un procès», Me Florence Rouas défend l'écriture d'un livre remettant en cause la décision de justice de l'affaire Pélicot #PoliceJustice7J\n\nToute l'info est à retrouver sur https://cnews.fr"
+      "published_at": "2026-11-21 13:12",
+      "text": "Michel Onfray, philosophe et essayiste, dans #FaceaMichelOnfray sur la primaire de la droite et du centre : «Il y a une bataille d'egos considérable»\n\nToute l'info est à retrouver sur https://cnews.fr"
     },
+    {
+      "author_name": "Philippe de Villiers",
+      "published_at": "2026-11-21 13:12",
+      "text": "Votre fidélité me touche et m'encourage. \nMerci à tous d'être au rendez-vous, semaine après semaine !\n\n🔗 Le replay est disponible ici : https://youtu.be/ENOtxRKDBCE\n\n#FaceAPhilippeDeVilliers #FADV #CNews"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-21 13:12",
+      "text": "Un million d'euros qui ne changera finalement rien à son quotidien. ➡️ https://mrf.lu/2BGGt"
+    },
+    {
+      "author_name": "Bouli ☃️",
+      "published_at": "2026-11-21 13:14",
+      "text": "1976 : début du regroupement familial\n2026 :"
+    },
+    {
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-21 13:17",
+      "text": "À Paris, la mairie transforme ses panneaux publicitaires en outils de propagande | Par  @sl_guil\nDiversité, masculinisme, euthanasie : la mairie de Paris affiche ses convictions aux frais du contribuable. \n \nhttps://www.bvoltaire.fr/a-paris-la-mairie-transforme-ses-panneaux-publicitaires-en-outils-de-propagande/"
+    },
+    {
+      "author_name": "ThinkerView",
+      "published_at": "2026-11-21 13:17",
+      "text": "[Retweet de @CerfiaFR] 🇫🇷🎮 INSOLITE | « Il m'a quand même piqué ma PlayStation ! » \n\nJean-Luc Mélenchon accuse Alexis Corbière de lui avoir VOLÉ sa console après la polémique autour du jeu Assassin’s Creed Unity qu'ils accusaient de dénigrer la Révolution française. \n\nCorbière réplique sur X : « Ce"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-21 13:18",
+      "text": "🔎 Stratèges numériques, les Insoumis s’appuient sur une galaxie de créateurs de contenus en vue de la présidentielle 2027.\n\nNous avons interrogé trois d’entre eux. ➡️ https://l.lepoint.fr/mY2"
+    },
+    {
+      "author_name": "Le Jarl",
+      "published_at": "2026-11-21 13:19",
+      "text": "La scène est dingue et se passe à Toulouse. Ce policier pourchasse un individu plus rapide que lui et décide de réquisitionner un vélo pour tenter de le rattraper. La propriétaire du vélo finit par poursuivre à son tour le policier !  \nIl n’y a rien qui va dans cette vidéo 🤣 🤣"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-21 13:20",
+      "text": "Michel Onfray sur une primaire de la droite et du centre: «Si la droite n'est pas capable de s'unir, M. Le Pen ferait un excellent score au premier tour mais pas au second», dans #FaceaMichelOnfray\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-21 13:20",
+      "text": "Michel Onfray, philosophe et essayiste, dans #FaceaMichelOnfray : «Nous sommes dans une culture de lutte des classes»\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-21 13:22",
+      "text": "Primaire de la droite et du centre : «Il y a une bataille d'egos considérable», tacle Michel Onfray https://www.cnews.fr/videos/france/2026-11-21/primaire-de-la-droite-et-du-centre-il-y-une-bataille-degos-considerable"
+    },
+    {
+      "author_name": "Bouli ☃️",
+      "published_at": "2026-11-21 13:22",
+      "text": "[Retweet de @_BarboDoll_] Le gaz de Soissons."
+    },
+    {
+      "author_name": "AgoraVox",
+      "published_at": "2026-11-21 13:24",
+      "text": "[Retweet de @LCanardR] Le #NPA et le Comité français du réseau européen de solidarité avec l’#Ukraine (#RESU)⤵️\nhttps://www.agoravox.fr/tribune-libre/article/le-npa-et-le-comite-francais-du-273879\n\nvia @AgoraVox"
+    },
+    {
+      "author_name": "Cercle Aristote",
+      "published_at": "2026-11-21 13:24",
+      "text": "[Retweet de @Cercle_Aristote] 🔴 À PROPOS DE L’ARCOM QUI CONTRÔLERA LES TEMPS DE PAROLE 🔴\n\nC’est assez flou et cela pourrait peut-être affecter le travail du Cercle.\n\nC’est pourquoi nous pourrions faire un pas de côté et parler d’autre chose. \nD’un univers inventé par exemple (toute ressemblance sera"
+    },
+    {
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-21 13:25",
+      "text": "Une enquête judiciaire vise de possibles fuites d'informations confidentielles du ministère de l'Intérieur vers le RN. Perquisitions à Beauvau et au siège du parti.  https://www.fdesouche.com/2026/11/21/soupcons-fuites-ministere-interieur-rn-perquisition-siege-2026/"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-21 13:25",
+      "text": "Michel Onfray, philosophe et essayiste, dans #FaceaMichelOnfray : «La jeunesse c'est un peu une génération perdue, c'est la génération Macron»\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Ni Oubli Ni Pardon",
+      "published_at": "2026-11-21 13:25",
+      "text": "11/2026 Alice Weidel, coprésidente de l'AfD, a déclaré : « Saviez-vous que BioNTech n'avait jamais mis de produit commercialisable sur le marché auparavant ? » Elle a ajouté : « Les dommages qui sont apparus, ce n'est pas le Covid long. Ce sont des effets secondaires des vaccins,"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-21 13:26",
+      "text": "« J’ai mis la lampe frontale et j’ai exploré mes grottes » : avec « (Re) belle », Adèle Castillon signe un deuxième album choc\n➡️ https://l.leparisien.fr/RbYz"
+    },
+    {
+      "author_name": "Bruno Attal",
+      "published_at": "2026-11-21 13:28",
+      "text": "Les policiers de l’affaire Zecler sont innocents.\nLa présomption d’innocence n’a jamais été respectée pour eux.\nIls avaient contre eux : Les racailles, les médias, l’administration, la gauche et l’extreme gauche, le showbisness, la justice et même le président de la République.\n[Cite @Bruno_Attal_] Voici la vidéo où l’on voit le criminel Michel Zecler s’emparer de la matraque du policier et tenter d’enfermer les policiers."
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-21 13:29",
+      "text": "💬 L’Université libre de Bruxelles retire ses cours à un professeur, sous la pression d’étudiants militants\n\nPar @RachelBinhas https://l.lepoint.fr/KWk #ARelire\nhttps://l.lepoint.fr/KWk"
+    },
+    {
+      "author_name": "Bouli ☃️",
+      "published_at": "2026-11-21 13:30",
+      "text": "[Retweet de @ToadVousEpie] MDR"
+    },
+    {
+      "author_name": "TVL",
+      "published_at": "2026-11-21 13:31",
+      "text": "🎙️« Pourquoi le gouvernement ukrainien veut-il toujours plus d'argent ? »\n\nJacques Sapir sur TVL🔻\nhttps://youtu.be/bjKgStMTB_Y"
+    }
+  ],
+  "context": [
     {
       "author_name": "TVL",
       "published_at": "2026-11-20 13:32",
@@ -4083,6 +4057,11 @@
     {
       "author_name": "Les Patriotes",
       "published_at": "2026-11-20 17:16",
+      "text": "[Retweet de @62PATRIOTES] 👍C'est ce soir sur https://youtube.com/@FLORIANPHILIPPOT1\nAu programme:\n🟠Brigitte et Macron: le livre choc !\n🟠Ukraine: refus des soldats français ?!\n🟠Cyberpannes en série: le hasard ?…\n🟠Présidentielle: le scénario nouveau qui se dessine !\n…+ toute l’actualité et vos questions EN DIRECT !"
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-20 17:16",
       "text": "[Retweet de @FrancoisDESCAM7] 👌PURE LOGIQUE !\nSORTIR DE L’UE PAR LE 🇫🇷FREX!T\n➡️C’est réaliser 60 MILLIARDS D'ÉCONOMIE PAR AN et\n➡️C'est réaliser 75 MILLIARDS DE RECETTES SUPPLÉMENTAIRES PAR AN !\n\nLire (p.15) Nos Grandes orientations pour un PROJET PATRIOTE : https://les-patriotes.fr/projetpourlafrance/"
     },
     {
@@ -5002,6 +4981,11 @@
       "author_name": "Alain Weber",
       "published_at": "2026-11-20 18:42",
       "text": "Dans l’enclave espagnole de Ceuta, les crimes sexuels ont augmentés de 650%.\n\nÉtant bien entendu que les viols entre migrants ne sont dénoncés ou déclarés que s’ils nécessitent une hospitalisation.\n\nJe préfère être préventif, celui qui fera un lien entre ce chiffre et\n[Cite @RadioGenoa] In Ceuta, sexual violence has increased by 650%."
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-20 18:43",
+      "text": "L’humoriste Tatiana s’en prend violemment à Vianney sur Radio Nova\n➡️ https://l.leparisien.fr/EJbE"
     },
     {
       "author_name": "Sud Radio",
