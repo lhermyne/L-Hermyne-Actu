@@ -1,14 +1,66 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-20T23:59:35.961Z",
+  "updated_at": "2026-11-21T00:29:41.332Z",
   "window_hours": 24,
-  "window_start": "2026-11-19T23:59:35.961Z",
+  "window_start": "2026-11-20T00:29:41.332Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1717,
+  "count": 1718,
   "tweets": [
+    {
+      "id": "2123932310848381107",
+      "created_at": "2026-11-21T00:11:38.000Z",
+      "author": "Thinker_View",
+      "author_name": "ThinkerView",
+      "type": "tweet",
+      "text": "L’Arcom prétend vouloir encadrer Internet ?\nQuelle sera la prochaine étape ?\nPasser au crible l’ensemble de nos réseaux sociaux pour juger si notre parole est conforme ?\nFace à ce type de signal précurseur, alors que tous les indicateurs économiques et géopolitiques sont au",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/Thinker_View/status/2123932310848381107"
+    },
+    {
+      "id": "2123929527181038061",
+      "created_at": "2026-11-21T00:00:34.000Z",
+      "author": "Thinker_View",
+      "author_name": "ThinkerView",
+      "type": "retweet",
+      "text": "La Commission veut utiliser le DSA pour contrôler dans nos élections. \n\nLa Commission vient de lancer une consultation sur de nouvelles lignes directrices concernant les élections, destinées aux plateformes comme X, Instagram et les autres.\n\nDepuis quand la Commission doit-elle",
+      "retweeted_author": "v_joron",
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/Thinker_View/status/2123929527181038061"
+    },
+    {
+      "id": "2123929507187106221",
+      "created_at": "2026-11-21T00:00:29.000Z",
+      "author": "LePoint",
+      "author_name": "Le Point",
+      "type": "tweet",
+      "text": "Séparé de la danseuse sur glace Nathalie Péchalat, l’acteur a posé pour la première fois aux côtés de sa nouvelle compagne, la journaliste culinaire Aurélie Chaigneau.\n➡️ https://l.lepoint.fr/kbU",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/LePoint/status/2123929507187106221"
+    },
+    {
+      "id": "2123929256346657002",
+      "created_at": "2026-11-20T23:59:30.000Z",
+      "author": "Bruno_Attal_",
+      "author_name": "Bruno Attal",
+      "type": "tweet",
+      "text": "J’avais tout prévu sur l’affaire Zecler.\n\nJe vous raconte tout bientôt",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/Bruno_Attal_/status/2123929256346657002"
+    },
     {
       "id": "2123928378445078718",
       "created_at": "2026-11-20T23:56:00.000Z",
@@ -22290,45 +22342,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/InfoMdia/status/2123576370726916542"
-    },
-    {
-      "id": "2123573599273377968",
-      "created_at": "2026-11-20T00:26:14.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "« Il y avait trop de réunions » : Donald Trump place l’échec de la rencontre avec Kim Jong Un sur le compte d’un agenda trop chargé\n➡️ https://l.leparisien.fr/cGA0",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2123573599273377968"
-    },
-    {
-      "id": "2123572221243445250",
-      "created_at": "2026-11-20T00:20:46.000Z",
-      "author": "leparisien_pol",
-      "author_name": "Le Parisien | politique",
-      "type": "tweet",
-      "text": "« Il y avait trop de réunions » : Donald Trump place l’échec de la rencontre avec Kim Jong Un sur le compte d’un agenda trop chargé\n➡️ https://l.leparisien.fr/TEnI",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/leparisien_pol/status/2123572221243445250"
-    },
-    {
-      "id": "2123568866299203951",
-      "created_at": "2026-11-20T00:07:26.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "« Un bref entretien de courtoisie » : Emmanuel Macron va rencontrer l’ex vice-présidente des États-Unis Kamala Harris vendredi à Paris\n➡️ https://l.leparisien.fr/pMo3",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2123568866299203951"
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-21 00:59",
-  "period": "du 2026-11-20 00:59 au 2026-11-21 00:59",
-  "new_period": "du 2026-11-20 20:00 au 2026-11-21 00:59",
-  "context_period": "du 2026-11-20 00:59 au 2026-11-20 20:00",
+  "generated_at": "2026-11-21 01:29",
+  "period": "du 2026-11-20 01:29 au 2026-11-21 01:29",
+  "new_period": "du 2026-11-20 20:00 au 2026-11-21 01:29",
+  "context_period": "du 2026-11-20 01:29 au 2026-11-20 20:00",
   "coverage_complete": true,
-  "new_count": 232,
-  "context_count": 1394,
-  "duplicates_merged": 85,
+  "new_count": 236,
+  "context_count": 1393,
+  "duplicates_merged": 83,
   "empty_removed": 6,
   "new": [
     {
@@ -1197,25 +1197,29 @@
       "author_name": "Cercle Aristote",
       "published_at": "2026-11-21 00:56",
       "text": "[Retweet de @RomainBESS85] @jnbarrot @francediplo @FranceenUkraine @gouvernementFR @EmmanuelMacron @SebLecornu Rappelez moi qui a bombardé l'ambassade de la République Populaire de Chine à Belgrade en 1999?"
+    },
+    {
+      "author_name": "Bruno Attal",
+      "published_at": "2026-11-21 00:59",
+      "text": "J’avais tout prévu sur l’affaire Zecler.\n\nJe vous raconte tout bientôt"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-21 01:00",
+      "text": "Séparé de la danseuse sur glace Nathalie Péchalat, l’acteur a posé pour la première fois aux côtés de sa nouvelle compagne, la journaliste culinaire Aurélie Chaigneau.\n➡️ https://l.lepoint.fr/kbU"
+    },
+    {
+      "author_name": "ThinkerView",
+      "published_at": "2026-11-21 01:00",
+      "text": "[Retweet de @v_joron] La Commission veut utiliser le DSA pour contrôler dans nos élections. \n\nLa Commission vient de lancer une consultation sur de nouvelles lignes directrices concernant les élections, destinées aux plateformes comme X, Instagram et les autres.\n\nDepuis quand la Commission doit-elle"
+    },
+    {
+      "author_name": "ThinkerView",
+      "published_at": "2026-11-21 01:11",
+      "text": "L’Arcom prétend vouloir encadrer Internet ?\nQuelle sera la prochaine étape ?\nPasser au crible l’ensemble de nos réseaux sociaux pour juger si notre parole est conforme ?\nFace à ce type de signal précurseur, alors que tous les indicateurs économiques et géopolitiques sont au"
     }
   ],
   "context": [
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-20 01:07",
-      "text": "« Un bref entretien de courtoisie » : Emmanuel Macron va rencontrer l’ex vice-présidente des États-Unis Kamala Harris vendredi à Paris\n➡️ https://l.leparisien.fr/pMo3",
-      "also_by": [
-        "Le Parisien | politique"
-      ]
-    },
-    {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-20 01:20",
-      "text": "« Il y avait trop de réunions » : Donald Trump place l’échec de la rencontre avec Kim Jong Un sur le compte d’un agenda trop chargé\n➡️ https://l.leparisien.fr/TEnI",
-      "also_by": [
-        "Le Parisien"
-      ]
-    },
     {
       "author_name": "Médias-Presse-Info",
       "published_at": "2026-11-20 01:37",
@@ -2670,6 +2674,11 @@
       "author_name": "Bouli ☃️",
       "published_at": "2026-11-20 09:12",
       "text": "Fin de règne interminable : Macron n'a plus rien à faire et enchaîne les célébrations bidon."
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-20 09:15",
+      "text": "« Un bref entretien de courtoisie » : Emmanuel Macron va rencontrer l’ex vice-présidente des États-Unis Kamala Harris vendredi à Paris\n➡️ https://l.leparisien.fr/Rbku"
     },
     {
       "author_name": "Sud Radio",
