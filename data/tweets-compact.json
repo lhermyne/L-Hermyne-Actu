@@ -1,13 +1,13 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-22 02:06",
-  "period": "du 2026-11-21 02:06 au 2026-11-22 02:06",
-  "new_period": "du 2026-11-21 20:00 au 2026-11-22 02:06",
-  "context_period": "du 2026-11-21 02:06 au 2026-11-21 20:00",
+  "generated_at": "2026-11-22 02:13",
+  "period": "du 2026-11-21 02:13 au 2026-11-22 02:13",
+  "new_period": "du 2026-11-21 20:00 au 2026-11-22 02:13",
+  "context_period": "du 2026-11-21 02:13 au 2026-11-21 20:00",
   "coverage_complete": true,
   "new_count": 175,
-  "context_count": 1024,
+  "context_count": 1023,
   "duplicates_merged": 85,
   "empty_removed": 9,
   "new": [
@@ -906,11 +906,6 @@
     }
   ],
   "context": [
-    {
-      "author_name": "ThinkerView",
-      "published_at": "2026-11-21 02:13",
-      "text": "[Retweet de @GenreSuprColide] This has been a crazy week of online and network outages.  Why not make a song about it?\n\nSong: Unrelated\n\nFeaturing @claudia_popstar \nMade with Claude Code and @slopcannontv \n#SlopCore"
-    },
     {
       "author_name": "Le Point",
       "published_at": "2026-11-21 02:18",

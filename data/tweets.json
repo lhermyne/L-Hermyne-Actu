@@ -1,13 +1,13 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-22T01:06:36.550Z",
+  "updated_at": "2026-11-22T01:13:46.836Z",
   "window_hours": 24,
-  "window_start": "2026-11-21T01:06:36.550Z",
+  "window_start": "2026-11-21T01:13:46.836Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1293,
+  "count": 1292,
   "tweets": [
     {
       "id": "2124301627402170660",
@@ -16804,19 +16804,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/LePoint/status/2123949098856264036"
-    },
-    {
-      "id": "2123947903035273702",
-      "created_at": "2026-11-21T01:13:35.000Z",
-      "author": "Thinker_View",
-      "author_name": "ThinkerView",
-      "type": "retweet",
-      "text": "This has been a crazy week of online and network outages.  Why not make a song about it?\n\nSong: Unrelated\n\nFeaturing @claudia_popstar \nMade with Claude Code and @slopcannontv \n#SlopCore",
-      "retweeted_author": "GenreSuprColide",
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "en",
-      "url": "https://x.com/Thinker_View/status/2123947903035273702"
     }
   ]
 }
