@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-22 03:37",
-  "period": "du 2026-11-21 03:37 au 2026-11-22 03:37",
-  "new_period": "du 2026-11-21 20:00 au 2026-11-22 03:37",
-  "context_period": "du 2026-11-21 03:37 au 2026-11-21 20:00",
+  "generated_at": "2026-11-22 04:07",
+  "period": "du 2026-11-21 04:07 au 2026-11-22 04:07",
+  "new_period": "du 2026-11-21 20:00 au 2026-11-22 04:07",
+  "context_period": "du 2026-11-21 04:07 au 2026-11-21 20:00",
   "coverage_complete": true,
   "new_count": 183,
-  "context_count": 1015,
-  "duplicates_merged": 84,
+  "context_count": 1014,
+  "duplicates_merged": 83,
   "empty_removed": 9,
   "new": [
     {
@@ -947,19 +947,6 @@
   ],
   "context": [
     {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-21 03:38",
-      "text": "Bigfoot : Donald Trump déclassifie les documents sur la créature mystérieuse\n➡️ https://l.leparisien.fr/YiVp",
-      "also_by": [
-        "Le Parisien"
-      ]
-    },
-    {
-      "author_name": "Thaïs d’Escufon",
-      "published_at": "2026-11-21 03:56",
-      "text": "[Retweet de @Tomhennessey69] AmRen 2026: Thaïs d’Escufon (@ThaisEscufon) tells @prestonbates what mass immigration looks like in France and what’s next for America if nothing changes."
-    },
-    {
       "author_name": "ThinkerView",
       "published_at": "2026-11-21 04:39",
       "text": "https://www.youtube.com/watch?v=Xb8-50OrAIs&list=RDXb8-50OrAIs&start_radio=1\n[Cite @jacksonhinkle] 😂🇮🇷🇮🇱 This “Iranian” Zionist claimed he could speak Farsi — so I put him to the test…"
@@ -1492,6 +1479,11 @@
       "author_name": "Europe 1",
       "published_at": "2026-11-21 08:31",
       "text": "\"Il reste à peine six semaines avant la fin de l'année et beaucoup de salariés vont laisser de l'argent sur la table\"\n\n➡️ Écoutez \"Votre argent vos placements\" avec @jjmanceau, journaliste chez @MagazineCapital tous les samedis et dimanches à 8h24 dans #Europe1Matin #Europe1"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-21 08:32",
+      "text": "Bigfoot : Donald Trump déclassifie les documents sur la créature mystérieuse\n➡️ https://l.leparisien.fr/Yise"
     },
     {
       "author_name": "CNEWS",
