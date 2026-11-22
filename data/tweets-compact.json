@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-22 14:10",
-  "period": "du 2026-11-21 14:10 au 2026-11-22 14:10",
-  "new_period": "du 2026-11-22 08:00 au 2026-11-22 14:10",
-  "context_period": "du 2026-11-21 14:10 au 2026-11-22 08:00",
+  "generated_at": "2026-11-22 14:40",
+  "period": "du 2026-11-21 14:40 au 2026-11-22 14:40",
+  "new_period": "du 2026-11-22 08:00 au 2026-11-22 14:40",
+  "context_period": "du 2026-11-21 14:40 au 2026-11-22 08:00",
   "coverage_complete": true,
-  "new_count": 462,
-  "context_count": 703,
-  "duplicates_merged": 56,
+  "new_count": 493,
+  "context_count": 667,
+  "duplicates_merged": 58,
   "empty_removed": 5,
   "new": [
     {
@@ -2360,189 +2360,164 @@
       "author_name": "Marine Le Pen",
       "published_at": "2026-11-22 14:09",
       "text": "Si le Planning familial considère qu’il a un rôle absolument essentiel à jouer auprès de milliers de jeunes filles, qu'il arrête de faire de la politique.\n\nLa règle sera pour tout le monde : si vous réclamez des subventions publiques, vous ne faites pas de politique."
-    }
-  ],
-  "context": [
+    },
     {
       "author_name": "Ni Oubli Ni Pardon",
-      "published_at": "2026-11-21 14:10",
-      "text": "🔴 CoronaCircus\n\n07/2021 Le gouvernement a autorisé la réouverture des discothèques après 15 mois de fermeture, avec un accès « réservé uniquement aux personnes qui peuvent produire un pass sanitaire » et une jauge de 75 % en intérieur. Le masque y était « recommandé, mais pas"
+      "published_at": "2026-11-22 14:10",
+      "text": "03/2020 La ville de Lyon a fermé « jusqu'à nouvel ordre » l'ensemble de ses parcs, jardins publics et aires de jeux, dont le parc de la Tête d'Or et ses 117 hectares, le parc Gerland et le parc Blandan, au premier jour du confinement. Le week-end précédent, des dizaines de"
+    },
+    {
+      "author_name": "Marine Le Pen",
+      "published_at": "2026-11-22 14:13",
+      "text": "La France a déjà versé six milliards d’euros par an à l’Ukraine, sans compter le prêt sur lequel elle s'est engagée auprès de l'Union européenne. \n\nJ’ai réitéré auprès de l’ambassadeur d’Ukraine le souhait de continuer l’aide humanitaire et la formation de soldats ukrainiens,"
+    },
+    {
+      "author_name": "Kroc Blanc",
+      "published_at": "2026-11-22 14:14",
+      "text": "[Retweet de @Angel_Paradize] La Corse est fière de vous faire voir la Vierge réparée ✨🕯️🇫🇷🏴‍☠️\n​Notre Vierge restaurée brille à nouveau en Corse ! ✨🙏🕯️"
+    },
+    {
+      "author_name": "Marine Le Pen",
+      "published_at": "2026-11-22 14:15",
+      "text": "David Lisnard a sollicité d’entrer dans le gouvernement de Michel Barnier, avec le président Emmanuel Macron. Je le crois très souple dans ses ambitions.\n\nS'il faut alléger les normes et engager la simplification de l'économie, je considère en revanche qu'on ne peut pas passer le"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-22 14:17",
+      "text": "[Retweet de @CNEWS_Sport] «Il n’avait pas besoin de faire ça» https://mrf.lu/2BSPY"
+    },
+    {
+      "author_name": "Marine Le Pen",
+      "published_at": "2026-11-22 14:18",
+      "text": "Nous sommes les seuls à avoir demandé, le 5 novembre, qu’on réunisse le Congrès pour faire voter une règle d’or, maintenant, pas en attendant la prochaine présidentielle.\n\nJe suis ravie qu’Emmanuel Macron nous ait entendus, mais nous souhaitons savoir quels seraient les contours"
+    },
+    {
+      "author_name": "Marine Le Pen",
+      "published_at": "2026-11-22 14:21",
+      "text": "Nous avons fait de nombreuses propositions pour réindustrialiser notre pays, notamment la baisse des impôts de production de 20 milliards d'euros.\n\nIl faudra aussi que les efforts que nous ferons permettent de soulager le pouvoir d'achat des Français, notamment par la baisse de"
+    },
+    {
+      "author_name": "Marine Le Pen",
+      "published_at": "2026-11-22 14:22",
+      "text": "Quand on décide de prendre des mesures, il faut mesurer leur acceptabilité sociale.\n\nToujours demander des efforts à ceux qui travaillent, ce n'est plus possible. J’ai pris la décision inverse : je baisserai les dépenses contraintes."
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-22 14:22",
+      "text": "Un scandale qui fait du bruit https://mrf.lu/2BSKf"
+    },
+    {
+      "author_name": "Marine Le Pen",
+      "published_at": "2026-11-22 14:24",
+      "text": "Quand on baisse la TVA sur l'énergie, il n’y a pas que les salariés qui en profitent : les retraités, les chômeurs, les jeunes aussi en profitent.\n\nL’énergie, c’est un besoin de première nécessité : je ne demanderai pas aux Français de venir avec leur déclaration d’impôts à la"
     },
     {
       "author_name": "Le Point",
-      "published_at": "2026-11-21 14:10",
-      "text": "[Retweet de @GeWoessner] Comment LFI mène la bataille du stream - À lire, une enquête passionnante de @Barto_Simono sur le rôle majeur (et effrayant) des influenceurs pour modeler le débat public. 👇https://www.lepoint.fr/politique/comment-lfi-mene-la-bataille-du-stream-RUEWRTXIXZAOHEW6SIGQKANXEM/ #Politique via @LePoint"
+      "published_at": "2026-11-22 14:24",
+      "text": "La maire de Nantes et numéro 2 du PS revient sur les défis de son mandat et appelle au rassemblement de la gauche face au risque d’une victoire de Marine Le Pen à l’élection présidentielle.\n\n➡️ https://l.lepoint.fr/q2B\nPar @PeifferVal"
     },
     {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-21 14:11",
-      "text": "Manifestation à Paris : vers une baisse de la mobilisation ? 30.000 manifestants sont attendus\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-21 14:11",
-      "text": "Premières sommations des forces de l'ordre à Nantes en direct, dans #100Actu\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Dreuz",
-      "published_at": "2026-11-21 14:14",
-      "text": "La vidéo la plus dingue que vous verrez aujourd'hui : des camions en provenance de Chine en route vers l'Iran.\n[Cite @Gloz111] תיעוד הכי מטורף שתיראו היום: משאיות המגיעות מסין בדרכן לאיראן."
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-21 14:15",
-      "text": "🧠 Un excès de dopamine peut-il nous rendre addict au sucre, à la nicotine, à l’alcool, au sexe ?\n\n🗣️ Patrick Martini :\"Oui. Le sexe va doubler la podamine, la cocaine c'est 2,5 fois plus haut que le niveau de base\" #ParlonsForme avec @alonzoceline et Patrick Martini"
-    },
-    {
-      "author_name": "Gouvernement",
-      "published_at": "2026-11-21 14:15",
-      "text": "[Retweet de @EmmanuelMacron] Roger Boulanger avait refusé de se soumettre à la barbarie nazie.\n\nDéporté au Struthof, dernier témoin français de ce camp, il avait fait de sa vie un combat pour la mémoire.\n\nSa voix s’est éteinte. Pas son message. À nous tous de le transmettre. Ne jamais oublier."
+      "author_name": "Revue éléments",
+      "published_at": "2026-11-22 14:25",
+      "text": "[Retweet de @Revue_elements] 🗳️« Je n’attends presque rien de 2027, si ce n’est qu’il nous rapproche du moment où l’on pourra enfin penser la politique en dehors des seules stratégies d’appareils et des mesquines ambitions individuelles, et œuvrer véritablement à la recherche du bien commun.\nQue le centre,"
     },
     {
       "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-21 14:16",
-      "text": "« L’anglais ne cesse de prendre de l’ampleur » : au Sénégal, la langue française chute de son piédestal\n➡️ https://l.leparisien.fr/J6A9"
+      "published_at": "2026-11-22 14:25",
+      "text": "Soupçons de fuite vers le RN : Marine Le Pen dit n’avoir « jamais reçu d’information confidentielle » du préfet Hugues Moutouh https://l.leparisien.fr/Qt9R"
     },
     {
-      "author_name": "Boulevard Voltaire",
-      "published_at": "2026-11-21 14:17",
-      "text": "Pari perdu pour La Comtesse de Monte-Cristo | Par  @VicRiquetti\nLa série qui a couté 26 millions d'euros et portée par Audrey Fleurot n'a, pour l'instant, pas séduit les spectateurs. \n \nhttps://www.bvoltaire.fr/pari-perdu-pour-la-comtesse-de-monte-cristo/"
-    },
-    {
-      "author_name": "Valeurs actuelles",
-      "published_at": "2026-11-21 14:21",
-      "text": "[Retweet de @wdeguerpel] 🔴 Le 6 mars 2022, à Toulon, Marion Maréchal montait sur scène pour annoncer son ralliement à Éric Zemmour. \n\nPrès de 5 ans après, le candidat revient dans le Var, terre de force du RN, pour son premier meeting de campagne. Il espère y retrouver l’élan qui lui manque dans les"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-21 14:22",
-      "text": "🔴La mobilisation parisienne s’élance, plus d’un millier de personnes présentes\nSuivez notre direct ➡️ https://l.leparisien.fr/PcSi"
-    },
-    {
-      "author_name": "Boulevard Voltaire",
-      "published_at": "2026-11-21 14:23",
-      "text": "[Retweet de @jean_bexon] 🔴🔴 EXCLU BV | Adrian Besseyre, un des meurtriers présumés de Quentin, a d’abord trouvé refuge, lors de sa cavale, dans la circo du député LFI Raphaël Arnault."
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-21 14:23",
-      "text": "[Retweet de @aldricmee] Bonjour à tous et bienvenue dans cette enfilade consacrée à l’acte VI de la mobilisation contre la vie chère, ce samedi 21 novembre.\n\nÀ Paris, le cortège doit s’élancer à 14h de la place de la République en direction de Nation, par le boulevard Voltaire. @Le_Figaro"
-    },
-    {
-      "author_name": "Boulevard Voltaire",
-      "published_at": "2026-11-21 14:23",
-      "text": "[Retweet de @GabrielBendayan] J'aimerais avoir le droit d'aller aux toilettes le matin sans demander l'autorisation à l'État, c'est possible ?"
-    },
-    {
-      "author_name": "Radio Courtoisie",
-      "published_at": "2026-11-21 14:24",
-      "text": "🎙️ Ce soir à 19h30 sur Radio Courtoisie\n\nLibre Journal de Benjamin Blanchard\n\nL’exception culturelle est-elle le seul patriotisme encore acceptable ? Le français s’appauvrit-il ou se renouvelle-t-il ?\n\nPour cette émission spéciale, Jean Ernice reçoit Anton Maristel et Anthony"
+      "author_name": "Catholiques de France",
+      "published_at": "2026-11-22 14:26",
+      "text": "Le Décalogue de l’Autorité dans l’Éducation https://catholiquedefrance.fr/le-decalogue-de-lautorite-dans-leducation/"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-21 14:25",
-      "text": "Fanny Beets, fondatrice du collectif de «Tours : le droit d'étudier», réagit aux mobilisations en cours : «II a eu une perte financière pour des études fantômes», dans #100Actu\n\nToute l'info est à retrouver sur https://cnews.fr"
+      "published_at": "2026-11-22 14:26",
+      "text": "Un pincement au cœur https://mrf.lu/2BSl6"
     },
     {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-21 14:26",
-      "text": "🌵 « Le silence, c'est là où on est totalement libre »\n\n🎙️ Dans son Dictionnaire amoureux du désert, paru chez Plon, Blanche de Richemont raconte comment ses années dans le Sahara lui ont appris à vivre pleinement. Une invitation à prendre du recul dans #ParlonsFemmes au micro de"
+      "author_name": "Marine Le Pen",
+      "published_at": "2026-11-22 14:26",
+      "text": "Pour les entreprises, nous n'avons pas proposé seulement une baisse des impôts de production. Nous ferons une grande réforme de la formation. Nous proposerons aussi un suramortissement des investissements pour la robotisation, et surtout, la baisse massive des normes.\n\nIl faut"
     },
     {
-      "author_name": "Le Point",
-      "published_at": "2026-11-21 14:27",
-      "text": "Le Goncourt sénégalais Mbougar Sarr témoigne de l’importance du Premier congrès des intellectuels et artistes noirs dont Présence africaine célèbre le 70e anniversaire à Paris. ⤵️\nhttps://l.lepoint.fr/5rQ"
+      "author_name": "Marine Le Pen",
+      "published_at": "2026-11-22 14:28",
+      "text": "Une élection n’est jamais gagnée d'avance.\n\nNous allons faire campagne comme si nous étions à 15 %, c'est ce que nous ferons avec Jordan Bardella et nos équipes tout au long de cette campagne."
     },
     {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-21 14:30",
-      "text": "🧠 Au quotidien comment peut on contrôler ces pics de dopamine ?\n\n🗣️ Patrick Martini :\"Il n'y a pas de solution miracle pour tout le monde : on peut utiliser une plante, de la L-Dopa\" #ParlonsForme avec @alonzoceline et Patrick Martini\n\nhttps://youtu.be/_AhTWH6tkpY"
+      "author_name": "Le Crayon",
+      "published_at": "2026-11-22 14:30",
+      "text": "L'humain : le futur chat d'appartement de l'IA ?\n\nFace à une super-intelligence artificielle omnipotente, que deviendra l'humanité ? Pour Maxime Fournes, ancien ingénieur et fondateur de Pause AI, notre meilleure chance de survie ressemble à la vie d'un chat dans un appartement."
     },
     {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-21 14:30",
-      "text": "🩼 Handicap : entreprendre autrement et changer le regard sur l’emploi\n\n🗣️ @a_martinsmisse en parle dans #FautQueÇaChange avec ses invités à partir de 19h30\n\n➡️ L’émission à retrouver ici : https://www.sudradio.fr/programme/sud-radio-faut-que-ca-change"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-21 14:30",
-      "text": "⁉️ Vous avez manqué #ParlonsFemmes ? Retrouvez le replay de l'émission avec @Blanchederichem au micro de @judith_beller \n\n📺 Le replay : https://www.sudradio.fr/programme/parlons-femmes"
-    },
-    {
-      "author_name": "Damien Rieu",
-      "published_at": "2026-11-21 14:30",
-      "text": "Beaucoup d’étudiants qui découvrent le marché de l’emploi sont surpris : n’ayant jamais eu affaire à la sélection, surnotés toute leur scolarité, diplômés de l’inutile, ils se pensent meilleurs qu’ils ne le sont aux yeux des recruteurs.\n\nLe choc de la désillusion crée la colère"
-    },
-    {
-      "author_name": "Le Média en 4⃣-4⃣-2⃣",
-      "published_at": "2026-11-21 14:30",
-      "text": "Michel Zecler tabassé pour défaut de masque : trois policiers condamnés pour violences racistes et faux procès-verbal \nhttps://lemediaen442.fr/affaire-michel-zecler-trois-policiers-condamnes-pour-violences-racistes-et-faux-proces-verbal/ \n\nLa cour criminelle de Paris a condamné en première instance les trois policiers pour violences aggravées et faux en écriture publique."
-    },
-    {
-      "author_name": "Causeur.fr",
-      "published_at": "2026-11-21 14:30",
-      "text": "[Causeur #150] Retrouvez un entretien de 6 pages avec Erik Tegnér, le bad boy de la presse, dans notre nouveau numéro. En vente maintenant !\n\nhttps://www.causeur.fr/entretien-erik-tegner-frontieres-causeur-336656"
-    },
-    {
-      "author_name": "Eric Zemmour",
-      "published_at": "2026-11-21 14:30",
-      "text": "🟣 Suivez en direct sur Youtube mon meeting de lancement de campagne à Toulon.\n\n➡️ https://youtube.com/live/DvPGcz-3NHY"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-21 14:30",
-      "text": "Le cortège s'élance de la place de la République à Paris, pour le sixième samedi de manifestation, en direct dans #100Actu\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-21 14:31",
-      "text": "[Retweet de @nicolasberrod] 💉 La vaccination contre la #grippe débute moins vite que l'an dernier chez les personnes âgées, avec 10 % de doses délivrées en moins au bout d'un mois de campagne.\n\n\"Il y a un démarrage un peu poussif, mais il n’est pas du tout trop tard pour se faire vacciner.\"\n\nA dérouler ⤵️"
-    },
-    {
-      "author_name": "Clément Macchi",
-      "published_at": "2026-11-21 14:31",
-      "text": "[Retweet de @anthonyyylp] Aujourd'hui, Édouard Philippe est passé en dessous des 10%. Ou peut etre hier, je ne sais plus. J'ai reçu un message de Clément Macchi \"Édouard Philippe n'est plus testé pour le second tour. Le Pen-Mélenchon assuré.\" Je ne dais pas ce que ça veut dire, c'était peut être hier."
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-21 14:32",
-      "text": "Suivez la manifestation du 21 novembre -> https://l.lefigaro.fr/QUNM"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-21 14:32",
-      "text": "«Emmanuel Macron fait du théâtre, mais quand on est chef de l'État, il faut agir», raille Michel Onfray https://www.cnews.fr/videos/france/2026-11-21/emmanuel-macron-fait-du-theatre-mais-quand-est-chef-de-letat-il-faut-agir"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-21 14:35",
-      "text": "🔴 Suivez notre direct ➡️ https://mrf.lu/2BTdH"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-21 14:35",
-      "text": "Le point sur le début de la journée de mobilisation à Marseille, en direct dans #100Actu\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-21 14:36",
-      "text": "Depuis sa sortie jeudi, la folie GTA 6 s’invite partout, y compris dans les résidences pour personnes âgées. \n\nReportage à Serris en Seine-et-Marne avec des «gamers» aux cheveux blancs\n\n➡️ https://l.leparisien.fr/or01"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-21 14:37",
-      "text": "Championnat des nations : le XV de France à un match de la finale https://ow.ly/HQv3106JiLR"
+      "author_name": "Agence France-Presse",
+      "published_at": "2026-11-22 14:30",
+      "text": "🇮🇩 Indonésie : au moins trois personnes ont perdu la vie et 36 sont portées disparues dans l'incendie d'une usine de confiseries à l'ouest de la capitale Jakarta."
     },
     {
       "author_name": "Jon De Lorraine",
-      "published_at": "2026-11-21 14:38",
-      "text": "🔴🇵🇱🇪🇪🇫🇮 RÉCAPITULATIF | Des missiles russes tombent en Pologne, l’Estonie déclenche une alerte aux drones et un cargo russe est frappé dans le golfe de Finlande.\n\n🇵🇱 POLOGNE\nVendredi 20 novembre. Trois engins venus de Russie s’écrasent dans le sud-est du pays lors d’une attaque"
+      "published_at": "2026-11-22 14:30",
+      "text": "🔴🇫🇷 INSOLITE - Gabriel Attal se considère meilleur et avec plus de sang froid que Donald Trump.\n(Difficile de se retenir sans exploser de rire)"
     },
     {
       "author_name": "Sud Radio",
-      "published_at": "2026-11-21 14:40",
-      "text": "🧠 Dopamine : entre plaisir et addiction\n\n👉🏻 Vous avez loupé #ParlonsForme ? Retrouvez le replay du 21/11 au micro de @alonzoceline et Patrick Martini\n\nhttps://youtu.be/_AhTWH6tkpY"
+      "published_at": "2026-11-22 14:32",
+      "text": "💵L’IA devient-elle notre banquier ?\n\n🗣️ @r_garilli : \"Utiliser l'IA est une bonne pratique. L'IA emmène une démocratisation de la gestion financière pour tous les particuliers\" #LeNumeriquePourTous\n\n📻 https://www.sudradio.fr/"
     },
+    {
+      "author_name": "Tatiana Ventôse 🇫🇷🏹✨",
+      "published_at": "2026-11-22 14:34",
+      "text": "Chaque jour qui passe le cirque Barnum nous donne une nouvelle raison de couper les subventions à la culture.\n[Cite @LBleuBlancRouge] Je suis sans voix 😶😳"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-22 14:36",
+      "text": "Marine Le Pen dit n'avoir « jamais reçu d’information confidentielle » du préfet Moutouh https://ow.ly/YLR0106Jo63"
+    },
+    {
+      "author_name": "Frontières",
+      "published_at": "2026-11-22 14:36",
+      "text": "Édouard Philippe ne serait qualifié au second tour des présidentielles uniquement en cas de candidature unique de la droite et du centre d’après un sondage\n\nhttps://www.frontieresmedia.fr/politique/presidentielle-2027-edouard-philippe-qualifie-au-second-tour-uniquement-en-cas-de-candidature-uniq---20953"
+    },
+    {
+      "author_name": "Nicolas Dupont-Aignan",
+      "published_at": "2026-11-22 14:36",
+      "text": "Après avoir ruiné la France en creusant une dette abyssale et en multipliant les déficits, Emmanuel Macron voudrait désormais inscrire une « règle d’or » budgétaire dans la Constitution !\nQuel cynisme ! Après avoir dilapidé l’argent des Français pendant dix ans, il voudrait\n[Cite @CerfiaFR] 🇫🇷🏛️ FLASH | Emmanuel Macron réfléchirait à convoquer le Congrès à Versailles en janvier pour inscrire une « règle d'or » budgétaire dans la Constitution.\n\nCette règle obligerait l'État et la Sécurité sociale à suivre une trajectoire de retour à l'équilibre des comptes publics."
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-22 14:36",
+      "text": "Ils font briller Nantes : Gilles Rampillon, le premier coach de Zidane https://l.lepoint.fr/Z5A"
+    },
+    {
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-22 14:37",
+      "text": "[LE GÉNIE FRANÇAIS] Alain Prost, un des plus grands pilotes automobiles | Par Antoine de Quelen\nAvec Hamilton, Schumacher, Fangio et Senna, Prost a fait la renommée mondiale de la Formule 1. \n \nhttps://www.bvoltaire.fr/le-genie-francais-alain-prost-un-des-plus-grands-pilotes-automobiles/"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-22 14:38",
+      "text": "Lors de la présidentielle de 2022, 13.437 élus sur les quelque 42.000 habilités avaient accordé leur signature à un candidat https://mrf.lu/2BmkT"
+    },
+    {
+      "author_name": "Eric Zemmour",
+      "published_at": "2026-11-22 14:38",
+      "text": "Vous n’êtes pas responsable de cette réalité, vous faites tout pour l’empêcher."
+    },
+    {
+      "author_name": "Damien Rieu",
+      "published_at": "2026-11-22 14:39",
+      "text": "Gros budget cadeau de Noël en perspective pour mini-rieu 1."
+    },
+    {
+      "author_name": "Médias-Presse-Info",
+      "published_at": "2026-11-22 14:40",
+      "text": "Conférence - \"Connaissance élémentaire de la franc-maçonnerie » avec le professeur Franck Bouscau à l’Association Sainte Geneviève. - https://www.medias-presse.info/conference-connaissance-elementaire-de-la-franc-maconnerie-avec-le-professeur-franck-bouscau-a-lassociation-sain..."
+    }
+  ],
+  "context": [
     {
       "author_name": "Ni Oubli Ni Pardon",
       "published_at": "2026-11-21 14:41",
