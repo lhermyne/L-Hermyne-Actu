@@ -1,13 +1,13 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-22 16:10",
-  "period": "du 2026-11-21 16:10 au 2026-11-22 16:10",
-  "new_period": "du 2026-11-22 08:00 au 2026-11-22 16:10",
-  "context_period": "du 2026-11-21 16:10 au 2026-11-22 08:00",
+  "generated_at": "2026-11-22 16:41",
+  "period": "du 2026-11-21 16:41 au 2026-11-22 16:41",
+  "new_period": "du 2026-11-22 08:00 au 2026-11-22 16:41",
+  "context_period": "du 2026-11-21 16:41 au 2026-11-22 08:00",
   "coverage_complete": true,
-  "new_count": 601,
-  "context_count": 552,
+  "new_count": 635,
+  "context_count": 523,
   "duplicates_merged": 76,
   "empty_removed": 5,
   "new": [
@@ -2860,7 +2860,10 @@
     {
       "author_name": "RECONQUÊTE !",
       "published_at": "2026-11-22 15:26",
-      "text": "C’était Toulon ! 🚀\n\nRevivez le premier meeting de campagne d’Éric Zemmour et de Sarah Knafo : https://www.youtube.com/live/DvPGcz-3NHY?is=e2d0TuSFn7A2_1Zz"
+      "text": "C’était Toulon ! 🚀\n\nRevivez le premier meeting de campagne d’Éric Zemmour et de Sarah Knafo : https://www.youtube.com/live/DvPGcz-3NHY?is=e2d0TuSFn7A2_1Zz",
+      "also_by": [
+        "Eric Zemmour"
+      ]
     },
     {
       "author_name": "Alain Weber",
@@ -3124,173 +3127,182 @@
       "author_name": "Le Point",
       "published_at": "2026-11-22 16:10",
       "text": "Treize ans après le premier film, le phénomène est intact, et un troisième volet se profile déjà.\n\n➡️ https://l.lepoint.fr/QuE\nPar @ThibaultCealic"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Le JDD",
-      "published_at": "2026-11-21 16:11",
-      "text": "Présidentielle 2027 : fronde chez les Écologistes, 70 cadres défient Tondelier sur son rapprochement avec Mélenchon https://ow.ly/alRZ106JiRh"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-21 16:11",
-      "text": "Ille-et-Vilaine : un gagnant à l’EuroMillions ne s’est jamais manifesté, son gain définitivement perdu\n➡️ https://l.leparisien.fr/6alo"
-    },
-    {
-      "author_name": "L'Express",
-      "published_at": "2026-11-21 16:11",
-      "text": "Les Etats-Unis viennent de perdre, après vingt-six ans, leur statut de pays ayant éliminé la rougeole. Pour Tom Frieden, ancien directeur des CDC sous Barack Obama et aujourd’hui à la tête de l’ONG...\n\n➡️ https://l.lexpress.fr/4pE"
-    },
-    {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-21 16:12",
-      "text": "Deux hommes tirent à l’arme de guerre sur un city-stade de la Faourette. Au Mirail, une autre intervention fait trois policiers légèrement blessés, sans lien établi entre les deux faits.  https://www.fdesouche.com/2026/11/21/toulouse-31-tirs-a-la-kalachnikov-a-la-faourette-mortier-pres-des-policiers-trois-agents-blesses-lors-dune-autre-intervention/"
-    },
-    {
-      "author_name": "Le Point",
-      "published_at": "2026-11-21 16:12",
-      "text": "📷 Le photographe Alain Keler, toujours sur la brèche\n\nPar @eschapasse https://l.lepoint.fr/gRb"
-    },
-    {
-      "author_name": "Le Figaro Culture",
-      "published_at": "2026-11-21 16:13",
-      "text": "Giraud, l’autre libérateur : une biographie hors norme du général rival de De Gaulle, grand oublié de l’histoire https://l.lefigaro.fr/mKJ7"
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-21 16:14",
-      "text": "[Retweet de @aldricmee] Premier face-à-face peu avant 16h, rue Alexandre-Dumas (11e). Des manifestants scandent des slogans antipolice devant les gendarmes mobiles. «Sortez les FFP2 !», lance l’un d’eux. Les gendarmes quittent finalement la rue sans intervenir."
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-21 16:14",
-      "text": "[Retweet de @aldricmee] Appel à décapiter Emmanuel Macron dans le cortège parisien. Boulevard Voltaire, deux manifestants brandissent des pancartes sans équivoque : «Louis XVI, on l’a décapité…», proclame l’une. «…Macron, on peut recommencer», complète l’autre."
-    },
-    {
-      "author_name": "Boulevard Voltaire",
-      "published_at": "2026-11-21 16:17",
-      "text": "[VIVE LA FRANCE] À Saint-Maur-des-Fossés, des collégiens montent sur scène pour célébrer le sacre de Saint Louis | Par Albane Comte\n48 collégiens se mobilisent pour faire revivre une page majeure de l’Histoire de France, huit siècles après. \n \nhttps://www.bvoltaire.fr/vive-la-france-a-saint-maur-des-fosses-des-collegiens-montent-sur-scene-pour-celebrer-le-sacre-de-saint-louis/"
-    },
-    {
-      "author_name": "Le Point",
-      "published_at": "2026-11-21 16:18",
-      "text": "L’ŒIL DU PATRON. À la tête du groupe agroalimentaire LSDH, Emmanuel Vasseneix dénonce une fiscalité qui pénalise les entreprises. \n\nTaxe Zucman, TVA sociale, centralisation… Le patron plaide pour un changement de modèle. ➡️ https://l.lepoint.fr/QuC"
-    },
-    {
-      "author_name": "Dreuz",
-      "published_at": "2026-11-21 16:20",
-      "text": "Israël en première ligne – le Live de la confrontation Israël-Iran – 21 novembre 2026 https://www.dreuz.com/2026/11/israel-en-premiere-ligne-le-live-de-la-confrontation-israel-iran-21-novembre-2026-334081.html"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-21 16:21",
-      "text": "«L'opposition droite-gauche n'a jamais été aussi présente chez les jeunes», constate Mehdy Raïche, analyste politique, dans #100Actu\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-21 16:21",
-      "text": "[Retweet de @aldricmee] À 200 m de Nation, important déploiement policier rue de Montreuil. «À bas l’État policier !», scandent des manifestants. «Genre, là, ils peuvent nous tirer dessus maintenant ?», lance l’un d’eux, en référence au texte sur la présomption d’usage légal des armes adopté vendredi."
-    },
-    {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-21 16:21",
-      "text": "« C’est Pac-Man, il a mangé Retailleau » : Philippe et Attal bousculés par le phénomène Lisnard\n\n➡️ https://l.leparisien.fr/DjEw",
-      "also_by": [
-        "Le Parisien"
-      ]
+      "published_at": "2026-11-22 16:12",
+      "text": "Au lieu de lui prodiguer des soins d'urgence, le médecin réanimateur lui a injecté du propofol ➡️  https://mrf.lu/2Bd9s"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-21 16:22",
-      "text": "« La guerre s’étend jusqu’à nos portes » : un hélicoptère russe soupçonné d’avoir violé l’espace aérien de la Finlande, après une attaque de drone\n➡️ https://l.leparisien.fr/jTeB"
-    },
-    {
-      "author_name": "RECONQUÊTE !",
-      "published_at": "2026-11-21 16:22",
-      "text": "[Retweet de @knafo_sarah] Allez-vous deviner de qui je vais parler dans mon discours ? \n\nÀ tout de suite sur YouTube : https://youtube.com/live/DvPGcz-3NHY"
-    },
-    {
-      "author_name": "Causeur.fr",
-      "published_at": "2026-11-21 16:26",
-      "text": "[Retweet de @Pascal_Louvrier] C’est le week-end, et au théâtre Montparnasse il y a l’immense Catherine Hiegel dans la pièce « Suzanne ». C’est excellent! Suzanne Valadon face à son fils, Maurice Utrillo. Mon article dans @Causeur 👇@TMontparnasse \n\nhttps://www.causeur.fr/suzanne-valadon-femme-libre-337692"
-    },
-    {
-      "author_name": "Causeur.fr",
-      "published_at": "2026-11-21 16:26",
-      "text": "[Retweet de @StubbsJeremy] Avec @HaroldTribune_"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-21 16:27",
-      "text": "Une institution niçoise débarque à Paris ➡️ https://mrf.lu/2BcfY"
-    },
-    {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-21 16:28",
-      "text": "L'enquête sur le braquage d'un bureau de tabac a conduit les gendarmes à démanteler un réseau de stupéfiants : quatorze interpellations, une arme saisie et plusieurs placements en détention provisoire.  https://www.fdesouche.com/2026/11/21/villefranche-de-rouergue-12-un-braquage-revele-un-trafic-de-cocaine-quatorze-interpellations-et-une-arme-saisie/"
-    },
-    {
-      "author_name": "Sarah Knafo",
-      "published_at": "2026-11-21 16:28",
-      "text": "Merci pour votre incroyable accueil à Toulon !\n\n👉 https://youtube.com/live/DvPGcz-3NHY"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-21 16:29",
-      "text": "🏃‍♂️ Quels sports font perdre le plus de calories ? Le classement des disciplines les plus efficaces\nhttps://www.sudradio.fr/sport-rugby/sport/quels-sports-font-perdre-le-plus-de-calories-le-classement-des-disciplines-les-plus-efficaces"
-    },
-    {
-      "author_name": "OMERTA",
-      "published_at": "2026-11-21 16:30",
-      "text": "UNE FRANCE SURENDETTEE : LES FRANÇAIS PAYERONT \n@geraldautier , financier, essayiste, est l'invité d'Omerta afin de répondre à des questions portant sur la dette publique française. Comment une France surendettée peut-elle s'en sortir ? Y aura-t-il un krach ? Qui remboursera ?",
+      "published_at": "2026-11-22 16:12",
+      "text": "Liban : trois personnes interpellées après avoir transporté « clandestinement 264 kg d’explosifs depuis le territoire syrien »\n➡️ https://l.leparisien.fr/SS5O",
       "also_by": [
-        "Régis Le Sommier"
+        "Le Parisien | politique"
       ]
     },
     {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-21 16:30",
-      "text": "[Retweet de @vincentroux88] L’armée finlandaise a détecté une «attaque de drone» contre un cargo russe dans le golfe de Finlande\nA lire le passionnant récit @cyrille_louis évoque les multiples tentatives russes de déstabilisation des pays frontaliers du nord de l'Europe.\n\nhttps://www.lefigaro.fr/international/finlande-l-armee-a-detecte-une-attaque-de-drone-contre-un-cargo-russe-dans-le-golfe-de-finlande-20261121?utm_source=app&utm_medium=share&utm_campaign=android_Figaro"
-    },
-    {
-      "author_name": "L'Incorrect",
-      "published_at": "2026-11-21 16:31",
-      "text": "Dans le journal d’Éric Naulleau.\n\nChaque mois, L’Incorrect demande à un écrivain à l’œil aiguisé de confier à ses lecteurs quelques pages de son journal récent.\n\nÀ lire dans le numéro 102.\n\n🔗 https://boutique.lincorrect.org/magazine-papier/numero-102?utm_source=x&utm_medium=social&utm_campaign=2026-11-21_n102-r-journal-eric-naulleau"
+      "author_name": "Eric Zemmour",
+      "published_at": "2026-11-22 16:13",
+      "text": "Je supprimerai la CSG pour tous les actifs de France. Chaque salarié, chaque fonctionnaire, chaque agriculteur, chaque indépendant verra son revenu mensuel augmenter de 10 %.\n\nTant qu'il reste un euro de déficit, la dette s'aggrave. Celui qui se satisfait de passer sous la barre"
     },
     {
       "author_name": "Valeurs actuelles",
-      "published_at": "2026-11-21 16:32",
-      "text": "[Retweet de @wdeguerpel] Discours de Sarah Knafo : la députée européenne fait le procès du leader insoumis au meeting d’Éric Zemmour.\n\n« La République de Jean-Luc Mélenchon, c’est la République des Misérables, celle où chacun dépend de son bon vouloir. » @Valeurs"
+      "published_at": "2026-11-22 16:15",
+      "text": "🗞️ REPORTAGE. Devant 2 500 fidèles, loin de la ferveur de 2022, le président de Reconquête a tenté de retrouver son élan. Mais à Toulon, la curiosité allait d’abord à son ancienne directrice de campagne. https://l.valeursactuelles.com/EBG"
     },
     {
-      "author_name": "Eric Ciotti",
-      "published_at": "2026-11-21 16:33",
-      "text": "[Retweet de @pompier_nice] « Il était hors de question pour nous, qu’on laisse partir notre drapeau en lambeaux! » souligne le Lt Colonel Olivier RIQUIER 🫡🇫🇷\n#pompier_nice"
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-22 16:15",
+      "text": "«La chirurgie esthétique comme l’augmentation de la fréquentation des salles de sport sont le reflet de notre société du contrôle et du culte de la performance. Je ne trouve cela ni décadent ni déplorable», s’avance Nathalie Azoulai dans Libre à Vous présenté par Guyonne de"
     },
     {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-21 16:34",
-      "text": "« Attirer l’attention » : opposé à l’accueil de demandeurs d’asile, un village anglais organise un référendum pour son indépendance\n➡️ https://l.leparisien.fr/PcSr",
-      "also_by": [
-        "Le Parisien"
-      ]
+      "author_name": "Tribune Populaire🌐",
+      "published_at": "2026-11-22 16:16",
+      "text": "[Retweet de @R_DeCastelnau] Jusqu’au bout, ce type se sera comporté comme une vilaine petite crapule. Le voilà qui envisage une nouvelle magouille. En pleine campagne présidentielle, convoquer le Congrès (Assemblée nationale et Sénat réunis) pour adopter une révision constitutionnelle qui n’a aucune"
+    },
+    {
+      "author_name": "Tribune Populaire🌐",
+      "published_at": "2026-11-22 16:16",
+      "text": "[Retweet de @albertlevy1234] Macron rêve de Versailles pour constitutionnaliser l’austérité.\n\nLouis XVI y convoqua les États généraux en 1789. Il croyait sauver son pouvoir.\n\nLes monarques finissants ont ceci en commun : ils ne voient jamais venir le peuple !"
+    },
+    {
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-22 16:17",
+      "text": "[VOS COMMENTAIRES] « J’ai raison, puisque je suis de gôôche » | Par Boulevard Voltaire\n« Aujourd’hui on agresse les journalistes parce qu’ils seraient fascistes. Et demain, à qui le tour ? » \n \nhttps://www.bvoltaire.fr/vos-commentaires-jai-raison-puisque-je-suis-de-gooche/"
+    },
+    {
+      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
+      "published_at": "2026-11-22 16:17",
+      "text": "[Retweet de @Matt_Bracken48] @RupertLowe10"
+    },
+    {
+      "author_name": "Alain Weber",
+      "published_at": "2026-11-22 16:19",
+      "text": "Pendant plus d’une minute, j’ai cru à un miracle.\n\nCopé était devenu honnête intellectuellement !\n\nAlleluia ! J’étais déjà à genoux pour louer Dieu, lorsqu’il est arrivé à la fin de sa phrase.\n\nEt la, patatras, il à renvoyé le RN et LFI dos à dos.\n\nUne longue tirade sur la\n[Cite @BFMTV] Agression des journalistes de BFMTV à Lyon: “Cette violence est devenue ordinaire, et c’est une honte absolue”, dénonce Jean-François Copé, maire LR de Meaux"
+    },
+    {
+      "author_name": "Le JDD",
+      "published_at": "2026-11-22 16:22",
+      "text": "Érosion côtière : les communes face à une facture colossale, la piste de nouvelles taxes https://ow.ly/EkOH106Jocy"
+    },
+    {
+      "author_name": "Jon De Lorraine",
+      "published_at": "2026-11-22 16:22",
+      "text": "\"On est la pour taffer nous, cassez-vous\"\n\"Pourquoi vous nous faites chier ? \nAllez faire chier Macron\"\n\nDes Français en ont marre des manifestants qui bloquent des rues."
+    },
+    {
+      "author_name": "Jean-Yves Le Gallou",
+      "published_at": "2026-11-22 16:22",
+      "text": "En bon français cela veut dire que #Nuñez a laissé faire le tour des lycées par un député LFI entouré des ses hommes de main qui tiraient au mortier dur des bâtiments publics… \nLe même Nuñez qui reproche au préfet #Moutouh d avoir permis que se tienne tranquillement le congrès\n[Cite @duralexsl] 🔴⚖️ ÉMEUTES | Selon le ministre Jeanbrun, Louis Boyard (LFI) était systématiquement suivi « d'hommes cagoulés qui tiraient au mortier sur les forces de l'ordre » quand il faisait le tour des lycées au début du mouvement.\n\nIl ajoute que lorsque Louis Boyard a été contacté par les"
+    },
+    {
+      "author_name": "Damien Rieu",
+      "published_at": "2026-11-22 16:23",
+      "text": "Qui d’autres que nous est persécuté, nié dans sa substance, son origine, sont droit à exister et demeurer ? \nPersonne.\n[Cite @MarianneleMag] Nos ancêtres les Gaulois ? \"Nous en sommes beaucoup trop éloignés pour en revendiquer l’héritage\" https://l.marianne.net/If8"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-21 16:35",
-      "text": "Le commissariat de Lourdes a fait appel à une chaman pour « désenvoûter » les lieux, une « initiative personnelle » selon la préfecture\n➡️ https://l.leparisien.fr/1Rz8"
+      "published_at": "2026-11-22 16:25",
+      "text": "PSG : Désiré Doué souffre d’une rupture du ligament croisé antérieur du genou droit, une absence de plusieurs mois attendue\n➡️ https://l.leparisien.fr/1Rzu"
     },
     {
-      "author_name": "Ni Oubli Ni Pardon",
-      "published_at": "2026-11-21 16:36",
-      "text": "03/2020 À Seattle, la peur du coronavirus vide les rues et les restaurants. #VillesFantômes🇺🇸\n \n#NiOubliNiPardon #Mémoire #Archives #Covid"
+      "author_name": "Damien Rieu",
+      "published_at": "2026-11-22 16:26",
+      "text": "Les Milanais ont même des entrepôts aéroportuaires Armani 😂"
     },
     {
       "author_name": "Le Point",
-      "published_at": "2026-11-21 16:40",
-      "text": "🍷 Cette sélection nous emmène dans le Médoc, à la rencontre de propriétés familiales, de générations de vignerons et de vins qui ont chacun leur personnalité.\n\n➡️ https://l.lepoint.fr/YUU"
+      "published_at": "2026-11-22 16:27",
+      "text": "Les Espagnols sont appelés à voter, dimanche 29 novembre, pour renouveler leur Parlement. Malgré son aura à l’international, le Premier ministre espagnol Pedro Sanchez se trouve sur la sellette.\n\n➡️ https://l.lepoint.fr/PHU"
     },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-22 16:27",
+      "text": "Les paysages de certains départements vont blanchir, en ce début de semaine ➡️  https://mrf.lu/2B0tC"
+    },
+    {
+      "author_name": "Le JDD",
+      "published_at": "2026-11-22 16:28",
+      "text": "«La France ne sera jamais islamique» : Tibo InShape ciblé par des militants identitaires https://ow.ly/X4Yq106JocO"
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-22 16:28",
+      "text": "[Retweet de @Patriotes71] https://youtube.com/shorts/qYORyteqSl8?is=ibyhYsZEyvPf_ngn"
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-22 16:28",
+      "text": "[Retweet de @LesPatriotes64] 🇫🇷Un rendez-vous incontournable pour tous ceux qui aiment la France !⤵️\n\n🔶Réunion publique à Kintzheim (67) en Alsace avec @f_philippot le mercredi 25 novembre à 19 h 00 !\n\n✅Entrée gratuite\n✅Ouvert à tous, adhérents et non adhérents\nINSCRIPTION ICI : https://les-patriotes.fr/kintzheim/"
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-22 16:28",
+      "text": "[Retweet de @62PATRIOTES] 💪💪🇸🇰Bravo Robert FICO @RobertFicoSVK !💪💪"
+    },
+    {
+      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
+      "published_at": "2026-11-22 16:30",
+      "text": "évident.\n[Cite @Libert_Aryen_] Être étranger devrait être une circonstance aggravante pour n'importe quel crime commis en France, pour la simple et bonne raison qu'on n'a pas à abuser de l'hospitalité de son pays d'accueil."
+    },
+    {
+      "author_name": "Agence France-Presse",
+      "published_at": "2026-11-22 16:30",
+      "text": "🏁 F1 : Ferrari voit une nouvelle fois rouge, avec Charles Leclerc encore dans le viseur après avoir provoqué un nouvel accrochage avec son coéquipier Lewis Hamilton samedi soir en fin de Grand Prix, trois semaines après un incident au Mexique.\n\n➡️ https://u.afp.com/SFLH"
+    },
+    {
+      "author_name": "L'Incorrect",
+      "published_at": "2026-11-22 16:31",
+      "text": "Dans les villages chrétiens des montagnes du Kurdistan irakien.\n\nLe reportage d’Antonin Dubois, dans L’Incorrect n°102.\n\n🔗 https://boutique.lincorrect.org/magazine-papier/numero-102?utm_source=x&utm_medium=social&utm_campaign=2026-11-22_n102-e-kurdistan"
+    },
+    {
+      "author_name": "Alain Weber",
+      "published_at": "2026-11-22 16:34",
+      "text": "HAÏTI depuis ce matin : nouvelle offensive contre les gangs !\n\nDès 4 heures, les forces haïtiennes ont lancé une importante opération contre les bastions criminels de Gran Ravin et Ti Bwa, à Martissant. \n\nLes force salvadoriennes et haïtiennes avancent plus rapidement que prévu."
+    },
+    {
+      "author_name": "Ni Oubli Ni Pardon",
+      "published_at": "2026-11-22 16:35",
+      "text": "03/2020 Les rues de la ville touristique tunisienne de Sidi Bou Saïd sont quasiment désertes. La Tunisie a jusqu'à présent signalé 89 cas confirmés de la maladie Covid-19 et trois décès. #VillesFantômes🇹🇳\n \n#NiOubliNiPardon #Mémoire #Archives #Covid"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-22 16:35",
+      "text": "« Chatouilles », coups et intimidations sur les enfants... Le procès de la nounou et de son mari divise Camaret-sur-Mer\n➡️ https://l.leparisien.fr/RbYF"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-22 16:36",
+      "text": "«Morris» : un livre évènement des archives complètes du créateur de Lucky Luke https://ow.ly/JjYR106Joeq"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-22 16:36",
+      "text": "« J’ai retrouvé ma force et ma confiance »\n\nÀ 70 ans, Colette soulève 90 kg. À 81 ans, Alain enchaîne les tractions. Avec une même ambition : garder son autonomie et sa liberté. Preuve qu’il n’y a pas d’âge pour se muscler.\n\n➡️ https://l.lepoint.fr/4lP\nPar @lamoureuxnath"
+    },
+    {
+      "author_name": "Le JDD",
+      "published_at": "2026-11-22 16:37",
+      "text": "«Je n’imagine pas un PSG qui ne soit pas élégant» : Javier Pastore se confie sur son amour de Paris https://ow.ly/6Ho0106Joew"
+    },
+    {
+      "author_name": "Le Média en 4⃣-4⃣-2⃣",
+      "published_at": "2026-11-22 16:37",
+      "text": "Aide à mourir : Nicole Delépine dénonce la loi et réclame des soins palliatifs partout en France \nhttps://lemediaen442.fr/aide-a-mourir-nicole-delepine-denonce-la-loi-et-reclame-des-soins-palliatifs-partout-en-france/ \n\nSur TV Libertés, la pédiatre et oncologue Nicole Delépine conteste la loi sur l’aide à mourir et pose une question simple. Comment parler de choix quand"
+    },
+    {
+      "author_name": "L'Express",
+      "published_at": "2026-11-22 16:38",
+      "text": "Avec \"Ce que nous pouvons savoir\", le grand romancier britannique Ian McEwan réussit une dystopie vertigineuse. A quand le prix Nobel ?\n\n➡️ https://l.lexpress.fr/IAd"
+    },
+    {
+      "author_name": "Sarah Knafo",
+      "published_at": "2026-11-22 16:40",
+      "text": "Je vous donne rendez-vous demain matin à 7h40 sur RTL.\n\nJe compte sur vous !"
+    }
+  ],
+  "context": [
     {
       "author_name": "Le Média en 4⃣-4⃣-2⃣",
       "published_at": "2026-11-21 16:45",
@@ -4600,6 +4612,11 @@
       "text": "Horlogerie : le grand retour des montres françaises face à une Suisse en perte de vitesse https://ow.ly/J8kW106JjUI"
     },
     {
+      "author_name": "Régis Le Sommier",
+      "published_at": "2026-11-21 19:31",
+      "text": "[Retweet de @Omerta_officiel] UNE FRANCE SURENDETTEE : LES FRANÇAIS PAYERONT \n@geraldautier , financier, essayiste, est l'invité d'Omerta afin de répondre à des questions portant sur la dette publique française. Comment une France surendettée peut-elle s'en sortir ? Y aura-t-il un krach ? Qui remboursera ?"
+    },
+    {
       "author_name": "CNEWS",
       "published_at": "2026-11-21 19:35",
       "text": "«Nous sommes devant une extension du domaine de la censure, qui préfère se faire appeler régulation» : Mathieu Bock-Côté, essayiste et sociologue, revient sur la volonté de l'Arcom d'encadrer les podcasts dans #FaceaBockCote\n\nToute l'info est à retrouver sur"
@@ -5189,6 +5206,14 @@
       "author_name": "Les Patriotes",
       "published_at": "2026-11-21 21:39",
       "text": "[Retweet de @vetopatriote] Oui nous avons crié \nMacron Démission\nMacron Dehors \nMacron Destitution \nMacron Dégage\n\nCet homme cristallise les haines…\n\nLe départ de Macron apaisera le pays,et il est nécessaire mais c’est le retour de notre SOUVERAINETÉ qui règlera réellement le problème,\npar le FREXIT !🇫🇷"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-21 21:39",
+      "text": "« C’est Pac-Man, il a mangé Retailleau » : Philippe et Attal bousculés par le phénomène Lisnard\n\n➡️ https://l.leparisien.fr/8mWd",
+      "also_by": [
+        "Le Parisien | politique"
+      ]
     },
     {
       "author_name": "Le Point",
