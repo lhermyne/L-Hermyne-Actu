@@ -1,14 +1,40 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-22T01:13:46.836Z",
+  "updated_at": "2026-11-22T01:37:16.274Z",
   "window_hours": 24,
-  "window_start": "2026-11-21T01:13:46.836Z",
+  "window_start": "2026-11-21T01:37:16.274Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1292,
+  "count": 1290,
   "tweets": [
+    {
+      "id": "2124314754416033881",
+      "created_at": "2026-11-22T01:31:19.000Z",
+      "author": "D_Conversano",
+      "author_name": "Daniel Conversano",
+      "type": "retweet",
+      "text": "【衝撃】イーロン・マスクが「宇宙には人類しかいないかもしれない」と発言したぞwwwww\n\n記者「宇宙人っておるん？」\nイーロン「正直、分からないね」\n\n記者「9,000基も衛星飛ばしてるやろ？」\nイー「一度も宇宙船を避けたことがないんだ」\n\n記者「宇宙人おらんの！？ｗｗ」",
+      "retweeted_author": "Via00Via",
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "ja",
+      "url": "https://x.com/D_Conversano/status/2124314754416033881"
+    },
+    {
+      "id": "2124313464403263831",
+      "created_at": "2026-11-22T01:26:12.000Z",
+      "author": "LePoint",
+      "author_name": "Le Point",
+      "type": "tweet",
+      "text": "PÉPITES DE L’HISTOIRE. Colomb découvre l’Amérique en 1492 à cause d’une erreur de calcul. C’est parce qu’il a laissé son labo en désordre que Fleming découvre la pénicilline à son retour de congés en 1928…\n\nPar @Joseph1LeCorre @lefebvreclaire\n➡️ https://l.lepoint.fr/GiN",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/LePoint/status/2124313464403263831"
+    },
     {
       "id": "2124301627402170660",
       "created_at": "2026-11-22T00:39:10.000Z",
@@ -16752,58 +16778,6 @@
       "quoted_text": null,
       "lang": "en",
       "url": "https://x.com/Thinker_View/status/2123955518066872717"
-    },
-    {
-      "id": "2123953273224720572",
-      "created_at": "2026-11-21T01:34:56.000Z",
-      "author": "Thinker_View",
-      "author_name": "ThinkerView",
-      "type": "retweet",
-      "text": "David Kennedy -ancien hacker à la NSA- révèle qu'il travaille activement sur une cyberattaque en direct où un \"essaim d'agents\" d'IA -environ 30 agents- a contourné l'authentification à deux facteurs, volé des données et chiffré l'ensemble du système d'une entreprise : \"Tout cela",
-      "retweeted_author": "_SaxX_",
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/Thinker_View/status/2123953273224720572"
-    },
-    {
-      "id": "2123953110485701084",
-      "created_at": "2026-11-21T01:34:17.000Z",
-      "author": "Thinker_View",
-      "author_name": "ThinkerView",
-      "type": "retweet",
-      "text": "Elle n’a pas tort. \n\nLa technologie est partie trop loin.",
-      "retweeted_author": "BlackBondPtv",
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/Thinker_View/status/2123953110485701084"
-    },
-    {
-      "id": "2123949797887418561",
-      "created_at": "2026-11-21T01:21:07.000Z",
-      "author": "Thinker_View",
-      "author_name": "ThinkerView",
-      "type": "retweet",
-      "text": "AI companies: “We value your privacy.”\n\nAlso them:",
-      "retweeted_author": "jurlycat",
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "en",
-      "url": "https://x.com/Thinker_View/status/2123949797887418561"
-    },
-    {
-      "id": "2123949098856264036",
-      "created_at": "2026-11-21T01:18:20.000Z",
-      "author": "LePoint",
-      "author_name": "Le Point",
-      "type": "tweet",
-      "text": "Malédictions, manuscrit illisible, chambre d’Ambre volatilisée, etc. : ces énigmes, parfois résolues, ont traversé les siècles.\n➡️ https://l.lepoint.fr/mY5",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/LePoint/status/2123949098856264036"
     }
   ]
 }
