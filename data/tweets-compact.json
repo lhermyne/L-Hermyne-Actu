@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-22 07:38",
-  "period": "du 2026-11-21 07:38 au 2026-11-22 07:38",
-  "new_period": "du 2026-11-21 20:00 au 2026-11-22 07:38",
-  "context_period": "du 2026-11-21 07:38 au 2026-11-21 20:00",
+  "generated_at": "2026-11-22 08:09",
+  "period": "du 2026-11-21 08:09 au 2026-11-22 08:09",
+  "new_period": "du 2026-11-21 20:00 au 2026-11-22 08:09",
+  "context_period": "du 2026-11-21 08:09 au 2026-11-21 20:00",
   "coverage_complete": true,
-  "new_count": 237,
-  "context_count": 964,
-  "duplicates_merged": 78,
+  "new_count": 257,
+  "context_count": 938,
+  "duplicates_merged": 77,
   "empty_removed": 9,
   "new": [
     {
@@ -1219,142 +1219,109 @@
       "author_name": "CNEWS",
       "published_at": "2026-11-22 07:37",
       "text": "Claude Moniquet apporte des explications sur la menace terroriste toujours élevée en France : «La Russie est devenue un acteur du terrorisme d'État », dans #LaMatinaleWE\n\nToute l'info est à retrouver sur https://cnews.fr"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Institut ILIADE",
-      "published_at": "2026-11-21 07:39",
-      "text": "[Retweet de @acormierd] Très bonne introduction à Oswald Spengler, à son œuvre phare Le Déclin de l'Occident et à sa réception de sa parution à aujourd'hui.\n\nLe brillant et érudit @DavidEngels12 toujours agréable à lire, tout en nuances et en profondeur."
     },
     {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-21 07:40",
-      "text": "GTA VI : son succès s'explique par un «réalisme bluffant» selon un spécialiste des jeux vidéos https://ow.ly/siSO106Jihg"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-21 07:45",
-      "text": "👶🏿  En Afrique subsaharienne près d'un enfant sur deux n'est pas déclaré à la naissance\n\n🗣️   @MicheleVianes  : \"Sans acte de naissance, un enfant n’existe pas juridiquement. Ce n’est pas un simple dossier administratif : c’est un combat fondamental pour l’identité, la dignité,"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-21 07:45",
-      "text": "Nicolas Pouvreau-Monti apporte une explication complète sur ces pays européens qui veulent un hub migratoire de retour au Rwanda, dans #LaMatinaleWE\n\nToute l'info est à retrouver sur https://cnews.fr"
+      "author_name": "Le Point",
+      "published_at": "2026-11-22 07:40",
+      "text": "Avant d’acheter une voiture électrique de seconde main, un diagnostic de sa batterie s’impose. Voici comment faire.\n\n➡️ https://l.lepoint.fr/80l\nPar @yvesmaro"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-21 07:49",
-      "text": "Le Pas-de-Calais maintenu en vigilance orange, la Canche atteint son niveau maximum\n➡️ https://l.leparisien.fr/Up60"
+      "published_at": "2026-11-22 07:40",
+      "text": "Pluie-inondation : l’Ain et le Jura en vigilance orange ce dimanche, le Pas-de-Calais toujours en alerte crues\n➡️ https://l.leparisien.fr/fqhx"
     },
     {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-21 07:49",
-      "text": "Alors que le Pas-de-Calais est touché par les inondations, Delphine Lepretre rassure : «Nous avons mis en sécurité les habitants», dans #LaMatinaleWE\n\nToute l'info est à retrouver sur https://cnews.fr"
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-22 07:41",
+      "text": "😷 La grippe est-elle sur le point de sévir ? #GrandMatinWeekEnd\n\n🗣️ Roger Rua : \"La vaccination obligatoire pour les personnes de plus de 65 ans reste la meilleure solution\"\n\n📻 https://sudradio.fr\n☎️ 0 826 300 300"
     },
     {
       "author_name": "Europe 1",
-      "published_at": "2026-11-21 07:51",
+      "published_at": "2026-11-22 07:42",
+      "text": "« David Lisnard recherche sans doute une forme de protection, mais @l_amf , l’Association des maires de France  ne peut en aucun cas être un plan B pour un élu. » @laurent_sceaux avec @adelaflechere"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-22 07:42",
+      "text": "Principale cause du changement climatique. ➡️ https://mrf.lu/2BD87"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-22 07:45",
+      "text": "Ceuta : «Les signalements d'agressions sexuelles ont bondi de 650% depuis l'arrivée massive des migrants», explique notre correpondant https://www.cnews.fr/monde/2026-11-22/ceuta-les-signalements-dagressions-sexuelles-ont-bondi-de-650-depuis-larrivee"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-22 07:46",
+      "text": "🌍  Retour sur la Cop31 avec @JouzelJean, ancien vice-président du GIEC #GrandMatinWeekEnd\n\n🗣️ \"Elle passe côté de l'essentiel, il n'y a aucune ambition alors nous sommes à un tournant !\"\n\n📻 https://sudradio.fr\n☎️ 0 826 300 300"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-22 07:49",
+      "text": "Budget : Emmanuel Macron réfléchirait à convoquer le Congrès pour instaurer une règle d'or https://ow.ly/1yIa106JnAk"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-22 07:50",
       "text": "L'édito international de @MichelFayad sur #Europe1 #Europe1Matin"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-21 07:51",
-      "text": "La chronique économique de Sandy Prenois du 21/11/2026 dans #LaMatinaleWE"
+      "published_at": "2026-11-22 07:51",
+      "text": "Le docteur Bruno Megarbane s'explique sur la grippe, épidémie précoce cette année, et avertit : «La vaccination protège du risque de faire une forme grave de la maladie», dans #LaMatinaleWE\n\nToute l'info est à retrouver sur https://cnews.fr"
     },
     {
-      "author_name": "MARSAULT",
-      "published_at": "2026-11-21 07:53",
-      "text": "Je me félicite tous les jours de ne pas avoir de télé à la maison.\n[Cite @le_Parisien] « À certains yeux je suis juste arabe » : Amel, élève de la « Star Academy », interprète un morceau évoquant le racisme qu’elle subit\n\n➡️ https://l.leparisien.fr/gyEf"
+      "author_name": "Le JDD",
+      "published_at": "2026-11-22 07:52",
+      "text": "Brexit : dix ans après, le Royaume-Uni surclasse-t-il vraiment la France ? L’analyse de Marc Touati https://ow.ly/EPWN106JnBr"
     },
     {
-      "author_name": "Damien Rieu",
-      "published_at": "2026-11-21 07:55",
-      "text": "[Retweet de @tropdecomptes] Dans le cadre du lancement du \"Mascuradar\" lancé par la mairie de Paris. Je signale à l'adjointe au maire Mme @BGomes_75 un cas grave de masculinisme.\n\nLa librairie islamique Al Kitab située Boulevard de Ménilmontant à Paris 11e fait la pub sur son compte instagram d'un livre"
+      "author_name": "Europe 1",
+      "published_at": "2026-11-22 07:54",
+      "text": "Vent debout contre la taxe foncière !\n\n➡️ Écoutez Bienvenue chez vous avec Christophe Bordet sur #Europe1 #Europe1Matin"
     },
     {
       "author_name": "Sud Radio",
-      "published_at": "2026-11-21 07:57",
-      "text": "💳 Réforme du crédit à la consommation #GrandMatinWeekEnd\n\n🗣️ @NathalieJanson1 : \"Ces derniers mois, on est dans une situation économique sombre. Les Français les plus modestes en pâtissent, il y a de plus en plus de dossiers de surendettement\"\n\n📻https://sudradio.fr\n☎️0 826"
-    },
-    {
-      "author_name": "Damien Rieu",
-      "published_at": "2026-11-21 07:57",
-      "text": "Amusant de voir que cette gauche qui dénonce le masculinisme est la même qui défend aussi matin, midi et soir la religion islamique ultra-giga masculiniste."
-    },
-    {
-      "author_name": "Damien Rieu",
-      "published_at": "2026-11-21 07:58",
-      "text": "[Retweet de @Historionome] \"Il y a longtemps eu des Allemands au Danemark donc ne pas vouloir des centaines de milliers d'Africains et d'Afghans est contraire à l'histoire danoise\""
-    },
-    {
-      "author_name": "EuroLibertés",
-      "published_at": "2026-11-21 07:58",
-      "text": "Vive le Festival du Rex : sans lui, <i>Le Seigneur des anneaux</i> n’aurait pas existé https://www.bvoltaire.fr/vive-le-festival-du-rex-sans-lui-le-seigneur-des-anneaux-naurait-pas-existe/"
+      "published_at": "2026-11-22 07:55",
+      "text": "🇫🇷  Présidence de l'@l_amf #GrandMatinWeekEnd\n\n🗣️ Philippe Laurent (@laurent_sceaux) : \"Je ne pensais pas que @davidlisnard se représenterait alors qu'il est candidat à la #Présidentielle2027. C'est une instrumentalisation de l'AMF, ce n'est pas éthiquement correct. Il faut un"
     },
     {
       "author_name": "Tocsin",
-      "published_at": "2026-11-21 08:00",
-      "text": "🎤 Un ténor chante pipi sur les nazis lors des manifs !\n\nRéécouter l'émission 🔗https://www.youtube.com/live/ZJVAmShiqRI?si=X58x08YdaOWQdoE_"
-    },
-    {
-      "author_name": "Agence France-Presse",
-      "published_at": "2026-11-21 08:00",
-      "text": "🇧🇩🇲🇲 Plus d'un million de Rohingyas vivent entassés dans des conditions très précaires à la frontière entre le Bangladesh et la Birmanie, accueillis après avoir fui la répression de l'armée birmane depuis 2017, reconnue comme génocide par la Cour internationale de justice."
-    },
-    {
-      "author_name": "Causeur.fr",
-      "published_at": "2026-11-21 08:00",
-      "text": "[Causeur #150 La jeunesse est un naufrage] Retrouvez les analyses de Charles Rojzman dans notre nouveau numéro. En vente actuellement !\n\nhttps://boutique.causeur.fr/"
+      "published_at": "2026-11-22 08:00",
+      "text": "🏊🏼‍♂️ BHL fait le show à la piscine !\n\nRéécouter l'émission 🔗https://www.youtube.com/live/tCSGEy6G89k?si=01Pg0pQ8ERimDf6R"
     },
     {
       "author_name": "Polémia",
-      "published_at": "2026-11-21 08:00",
-      "text": "Décryptage de l'enquête Périclès (13/20)\n\nGPA. 54 % des électeurs de droite veulent maintenir son interdiction, contre 48 % de l'ensemble des électeurs. La droite se partage : 84 % de la droite intégrale, 55 % de la régalienne, 37 % de la progressiste et 24 % de la libérale."
+      "published_at": "2026-11-22 08:00",
+      "text": "Décryptage de l'enquête Périclès (17/20)\n\n93 % des électeurs du Rassemblement national placent le RN à droite, et 57 % à l'extrême droite. Seuls 4 % le disent ni de gauche ni de droite.\n\nMarine Le Pen revendique d'être « ni de droite ni de gauche, mais de France ». Les électeurs"
     },
     {
-      "author_name": "Aldo Sterone",
-      "published_at": "2026-11-21 08:03",
-      "text": "Cette femme pleure toutes les larmes de son corps parce que le capitaine du voilier a refusé de s'arrêter pour un bateau plein de migrants. Elle n'en dort pas la nuit. Et à ton avis, il a bien fait le capitaine ?"
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-22 08:00",
+      "text": "Franz-Olivier Giesbert : «Dans nombre de médias, la meute LFIste impose sa loi» → https://l.lefigaro.fr/15mv"
     },
     {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-21 08:04",
-      "text": "Guerre en Ukraine : une grande première pour la Lettonie, Riga présente deux nouveaux drones navals pour défier la marine russe\n➡️ https://l.leparisien.fr/8mWJ",
-      "also_by": [
-        "Le Parisien | politique"
-      ]
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-21 08:04",
-      "text": "🇫🇷 #Présidentielle2027 : Mélenchon a-t-il définitivement plié le match à gauche ? #GrandMatinWeekEnd\n\n🗣️ Baptistes, auditeur : \"Oui, le match est plié. Glucksmann n'a pas de programme, les écolos font n'importe quoi. Force est de constater que Mélenchon, lui, c'est carré\""
+      "author_name": "Yann Vallerie (Breizh-Info)",
+      "published_at": "2026-11-22 08:05",
+      "text": "Europe : les violences antichrétiennes explosent, la France en tête du triste classement\nhttps://www.breizh-info.com/2026/11/22/265672/europe-les-violences-antichretiennes-explosent-la-france-en-tete-du-triste-classement/"
     },
     {
       "author_name": "Ni Oubli Ni Pardon",
-      "published_at": "2026-11-21 08:05",
-      "text": "🔴 DEVOIR DE MÉMOIRE\n\nEmmanuelle Ducros, journaliste.\n\n👉 Lien de vérification\nhttps://t.me/Ni_Oubli_Ni_Pardon/876"
+      "published_at": "2026-11-22 08:05",
+      "text": "🔴 DEVOIR DE MÉMOIRE\n\nPr Mathieu Molimard, pharmacologue.\n\n👉 Lien de vérification\nhttps://t.me/Ni_Oubli_Ni_Pardon/103"
     },
     {
-      "author_name": "Damien Rieu",
-      "published_at": "2026-11-21 08:06",
-      "text": "[Retweet de @RafaelSereti] Une femme musulmane : « Je ne veux pas que mes enfants  portent le nom de mon mari français » 💥\nLe racisme à géométrie variable."
+      "author_name": "CNEWS",
+      "published_at": "2026-11-22 08:06",
+      "text": "L'édito de Bertrand Deckers : «William et Kate en Inde : le passé des Windsor», dans #LaMatinaleWE"
     },
     {
-      "author_name": "Le Figaro Culture",
-      "published_at": "2026-11-21 08:06",
-      "text": "Sur le fleuve : Édouard Cortès descend la Loire en pirogue pour mieux remonter à la source https://l.lefigaro.fr/nHYi"
-    },
-    {
-      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
-      "published_at": "2026-11-21 08:08",
-      "text": "[Retweet de @jylgallou] Le préfet des Hauts de Seine et le TA de Cergy ont interdit le forum européen de @_Polemia sur la #remigration au motif que celle-ci pourrait prendre en compte  des préoccupations ethno culturelles. Cela s’appelle le réel. Merci aux Danois de briser un tabou mortifère pour tous"
-    },
-    {
-      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
-      "published_at": "2026-11-21 08:08",
-      "text": "[Retweet de @VaubanBooks] So Mette Frederiksen is now \"far right,\" according to Le Monde, or at least risks becoming so if she keeps it up. Confirmation, if such were still needed, that immigration-driven population replacement is *the* only true fault line of contemporary politics throughout the West..."
-    },
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-22 08:07",
+      "text": "🏉🇫🇷  XV de France : la masterclass de Kalvin Gourgues contre l'Argentine\n\nhttps://www.sudradio.fr/sport-rugby/rugby/xv-de-france-kalvin-gourgues-au-four-et-au-moulin"
+    }
+  ],
+  "context": [
     {
       "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
       "published_at": "2026-11-21 08:09",
