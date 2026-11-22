@@ -1,25 +1,35 @@
 {
-  "updated_at": "2026-11-22 09:09",
+  "updated_at": "2026-11-22 09:39",
   "last_run": {
-    "run_at": "2026-11-22 09:09",
-    "run_at_utc": "2026-11-22T08:09:15.225Z",
-    "fetched": 99,
-    "new_tweets": 45,
-    "saturation": 0.45,
+    "run_at": "2026-11-22 09:39",
+    "run_at_utc": "2026-11-22T08:39:20.668Z",
+    "fetched": 100,
+    "new_tweets": 33,
+    "saturation": 0.33,
     "gap_detected": false,
     "gap_minutes": 0,
-    "message": "Aucun trou détecté : 45 nouveaux tweets sur 99 récupérés."
+    "message": "Aucun trou détecté : 33 nouveaux tweets sur 100 récupérés."
   },
   "last_24h": {
     "runs": 51,
     "runs_with_gap": 0,
     "total_gap": "0 min",
-    "new_tweets": 1296,
+    "new_tweets": 1292,
     "max_new_tweets_per_run": 64,
     "max_saturation": 0.67
   },
   "advice": "Fréquence suffisante : aucun trou sur les dernières 24 h.",
   "runs": [
+    {
+      "run_at": "2026-11-22 09:39",
+      "run_at_utc": "2026-11-22T08:39:20.668Z",
+      "fetched": 100,
+      "new_tweets": 33,
+      "saturation": 0.33,
+      "gap_detected": false,
+      "gap_minutes": 0,
+      "message": "Aucun trou détecté : 33 nouveaux tweets sur 100 récupérés."
+    },
     {
       "run_at": "2026-11-22 09:09",
       "run_at_utc": "2026-11-22T08:09:15.225Z",
@@ -3579,26 +3589,6 @@
       "gap_detected": false,
       "gap_minutes": 0,
       "message": "Aucun trou détecté : 25 nouveaux tweets sur 95 récupérés."
-    },
-    {
-      "run_at": "2026-11-15 09:24",
-      "run_at_utc": "2026-11-15T08:24:58.404Z",
-      "fetched": 97,
-      "new_tweets": 20,
-      "saturation": 0.21,
-      "gap_detected": false,
-      "gap_minutes": 0,
-      "message": "Aucun trou détecté : 20 nouveaux tweets sur 97 récupérés."
-    },
-    {
-      "run_at": "2026-11-15 09:11",
-      "run_at_utc": "2026-11-15T08:11:32.743Z",
-      "fetched": 98,
-      "new_tweets": 39,
-      "saturation": 0.4,
-      "gap_detected": false,
-      "gap_minutes": 0,
-      "message": "Aucun trou détecté : 39 nouveaux tweets sur 98 récupérés."
     }
   ]
 }
