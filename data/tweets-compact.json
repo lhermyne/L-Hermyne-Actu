@@ -1,15 +1,15 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-22 22:13",
-  "period": "du 2026-11-21 22:13 au 2026-11-22 22:13",
-  "new_period": "du 2026-11-22 20:00 au 2026-11-22 22:13",
-  "context_period": "du 2026-11-21 22:13 au 2026-11-22 20:00",
+  "generated_at": "2026-11-22 22:43",
+  "period": "du 2026-11-21 22:43 au 2026-11-22 22:43",
+  "new_period": "du 2026-11-22 20:00 au 2026-11-22 22:43",
+  "context_period": "du 2026-11-21 22:43 au 2026-11-22 20:00",
   "coverage_complete": true,
-  "new_count": 116,
-  "context_count": 977,
-  "duplicates_merged": 83,
-  "empty_removed": 2,
+  "new_count": 130,
+  "context_count": 963,
+  "duplicates_merged": 81,
+  "empty_removed": 3,
   "new": [
     {
       "author_name": "Tocsin",
@@ -599,92 +599,79 @@
       "author_name": "Europe 1",
       "published_at": "2026-11-22 22:13",
       "text": "Tentative de cambriolage au domicile de l'attaquant du PSG Désiré Doué https://ow.ly/N1lR106Jpfj"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-21 22:13",
-      "text": "«Dans les sondages, la police et la gendarmerie recueillent la confiance d'une écrasante majorité de la population», rappelle Frédéric Lauze, secrétaire général de SCPN Police, dans #100PolitiqueWE\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-21 22:15",
-      "text": "L’ancien sélectionneur des Bleus a mis en scène avec humour sa nouvelle vie loin des terrains dans une publicité → https://l.lefigaro.fr/BLrr"
-    },
-    {
-      "author_name": "Nice Provence Info",
-      "published_at": "2026-11-21 22:16",
-      "text": "[Retweet de @FranceRsistanc1] RUSSIE 🇷🇺 / UKRAINE  \n\nRothschild en 2022 : « Si Poutine gagne, ON NE FIXERA PLUS LES RÈGLES DU MONDE »\n \nTout est dit. Ce n’est pas une crise, c’est une GUERRE À MORT\n\nD’un côté, les financiers globaux qui veulent leur SUPRÉMATIE MONDIALE. De l'autre,les peuples et les nations💥"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-21 22:17",
-      "text": "François Ruffin a annoncé ce samedi qu'il retirait sa candidature à l'élection présidentielle ➡️  https://mrf.lu/2BRFq"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-21 22:17",
-      "text": "«Le 17 octobre a éclipsé toutes les autres colères sociales», constate Lara Tchekov, journaliste au JDD, dans #100PolitiqueWE\n Toute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Jon De Lorraine",
-      "published_at": "2026-11-21 22:19",
-      "text": "MAIS QUELLE DIFFÉRENCE ENTRE LE PS ET LES LR ???\nÉcoutez ça 😂😂😂😂😂😂"
-    },
-    {
-      "author_name": "Jon De Lorraine",
-      "published_at": "2026-11-21 22:28",
-      "text": "Quelques posts de Donald Trump sur son application."
-    },
-    {
-      "author_name": "Tanguy David",
-      "published_at": "2026-11-21 22:31",
-      "text": "[Retweet de @CerfiaFR] 🌍💊 FLASH | Le daraxonrasib, une pilule contre le CANCER du pancréas, est salué comme la plus grande AVANCÉE depuis des décennies.\n\nLors d'un essai sur 61 patients au stade avancé, les tumeurs ont cessé de grossir chez 90 % d'entre eux. Elles ont rétréci ou disparu chez plus de"
-    },
-    {
-      "author_name": "Boulevard Voltaire",
-      "published_at": "2026-11-21 22:36",
-      "text": "[REPORTAGE] « Gauche révolutionnaire et islam sont alliés pour nous faire taire » | Par  @SevilliaYves\nToulon : pour son premier grand meeting de campagne, Éric Zemmour s'est frontalement opposé à Jean-Luc Mélenchon. \n \nhttps://www.bvoltaire.fr/reportage-gauche-revolutionnaire-et-islam-sont-allies-pour-nous-faire-taire/"
-    },
-    {
-      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
-      "published_at": "2026-11-21 22:37",
-      "text": "[Retweet de @LibrairieRCamus] Amina Damerdji raconte dans *Dans la gueule du loup* sa soirée chez Renaud Camus, au château de Plieux. Dans *L’Incorrect*, Romaric Sangars confronte son récit au nouveau roman de Camus, La Libération du territoire."
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-21 22:37",
-      "text": "Blocus des lycées et des universités : «J'ai peur pour mon diplôme», s'inquiète Chloé, étudiante à la faculté de Tours rattachée à l'UNI, dans #100PolitiqueWE\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-21 22:39",
-      "text": "Haute-Savoie : une femme retrouvée morte dans sa voiture au fond du lac d’Annecy, trois semaines après sa disparition\n➡️ https://l.leparisien.fr/Le2v"
-    },
-    {
-      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
-      "published_at": "2026-11-21 22:39",
-      "text": "[Retweet de @jylgallou] Le délire liberticide s’aggrave! Le parquet de Paris a engagé une procédure de bannissement numérique du site de @1RiposteLaique  : c’est le retour de la censure préalable alors qu’elle avait disparue ( sauf périodes de guerre ) depuis 1881. Soutien !\n@CercleDL @Ligne__Droite"
     },
     {
       "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-21 22:40",
-      "text": "Mexique : violents affrontements après l’arrestation du narcotrafiquant « Chapo Isidro », l’un des criminels les plus recherchés par le FBI\n➡️ https://l.leparisien.fr/quVU",
-      "also_by": [
-        "Le Parisien"
-      ]
+      "published_at": "2026-11-22 22:15",
+      "text": "Philippe Laurent défie David Lisnard : « L’AMF a besoin d’un président à temps plein ! »\n➡️ https://l.leparisien.fr/AALu"
     },
     {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-21 22:41",
-      "text": "Depuis janvier, 68 enquêtes ont été ouvertes ➡️ https://mrf.lu/2BsN5"
+      "author_name": "LCP",
+      "published_at": "2026-11-22 22:15",
+      "text": "\"Le Mediator a alimenté le sentiment de ne plus pouvoir faire confiance à aucun médicament et ce n'est pas vrai (...) beaucoup sont très utiles et il faut les utiliser en confiance (...) par exemple, le vaccin contre la Covid\", dit Irène Frachon, pneumologue et lanceuse d'alerte"
+    },
+    {
+      "author_name": "Bouli ☃️",
+      "published_at": "2026-11-22 22:15",
+      "text": "[Retweet de @sidounours] @EPhilippePM Excellente idée d'abandonner le dernier secteur où nous sommes les plus forts au monde.\n\nBravo !"
+    },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-22 22:15",
+      "text": "David Lisnard assure qu’il ne gouvernera pas avec le RN et qu’il n’a pas «voulu devenir ministre macroniste» →"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-22 22:18",
+      "text": "Dans « Ménagères. L’art de penser avec une serpillière », la philosophe Peggy Avez dépoussière nos idées reçues sur les activités domestiques.\n\n➡️ https://l.lepoint.fr/FZR"
+    },
+    {
+      "author_name": "LCP",
+      "published_at": "2026-11-22 22:20",
+      "text": "Mediator: \"J'ai été témoin d'un crime immense (...) cela dépasse ma simple personne et cela m'a mis hors de moi\", témoigne la pneumologue et lanceuse d'alerte Irène Frachon"
     },
     {
       "author_name": "Alain Weber",
-      "published_at": "2026-11-21 22:43",
-      "text": "Biolay 😳😳, c’est quoi Biolay ??\n\nBenjamin Biolay contre Pierre Perret : quand la prétention se prend pour du génie !\n\n« Je n’ai jamais pu l’encadrer. La vieillesse n’est pas une excuse à tout. »\n\nVoilà donc comment Benjamin Bioloy parle de Pierre Perret, 92 ans. \n\nQuelle"
+      "published_at": "2026-11-22 22:25",
+      "text": "Macron : après avoir vidé les caisses, il veut installer un cadenas !\n\nCet homme est vraiment incroyable…\n\nIl fallait quand même oser ! Après presque dix ans à la tête de l’État, il découvre soudain les vertus de la rigueur budgétaire. \n\nLui qui a laissé la dette publique\n[Cite @Le_Figaro] Budget : Emmanuel Macron réfléchirait à convoquer le Congrès pour instaurer une règle d'or → https://l.lefigaro.fr/q0FD"
     },
+    {
+      "author_name": "Florian Philippot",
+      "published_at": "2026-11-22 22:29",
+      "text": "La guerre est en train de déborder partout en Europe (cf ⤵️)\n\nL’UE, Macron, les otaniens sont en train de réussir leur coup : nous jeter dans la guerre.\n\n➡️ Plus temps de papoter, l’heure est grave, très grave.\nMacron doit être destitué\nIl faut quitter l’UE et l’OTAN\nLa France"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-22 22:30",
+      "text": "Il n'est pas obligatoire de partir à la retraite dès lors qu'on atteint l'âge de celle-ci ➡️ https://mrf.lu/2BbTp"
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-22 22:31",
+      "text": "[Retweet de @FrancoisDESCAM7] 💣💥Déclaration choc de Franck FERRAND (Historien, journaliste, écrivain polémiste) : Il votera pour le candidat du 🇫🇷FREX!T\n\n- « C’est le vrai, le grand, le seul débat » !\n\n[https://youtu.be/-vaZJoojfEI]"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-22 22:33",
+      "text": "Journalistes agressés : «Ce n'est plus possible d'avoir une profession menacée à ce point en France», dénonce Hélène Roué, journaliste politique, dans #100PolitiqueWE\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-22 22:34",
+      "text": "« Complètement contraire à nos valeurs » : Alice Rufo recarde Benjamin Haddad après sa sortie sur les centres pour migrants au Rwanda https://l.leparisien.fr/043I"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-22 22:35",
+      "text": "Les Français passent déjà plus de temps à la retraite que la plupart de leurs voisins. Abaisser encore l’âge de départ pèserait sur l’emploi, la croissance et les actifs.\n\n➡️ https://l.lepoint.fr/DQY"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-22 22:43",
+      "text": "Choose France : 273 projets valorisés et près de 15 milliards d'euros d'investissements nouveaux https://ow.ly/c5XH106Jphy"
+    }
+  ],
+  "context": [
     {
       "author_name": "J'SUIS PAS CONTENT TV",
       "published_at": "2026-11-21 22:43",
@@ -759,6 +746,11 @@
       "author_name": "Alain Weber",
       "published_at": "2026-11-21 23:23",
       "text": "Aucun commentaire n’est nécessaire, elle est brillante, souriante et consensuelle !\n\nUne certitude, l’avenir de la politique française sera féminin, et je m’en réjouis !\n\nNon pas pour une quelconque et grotesque question d’égalité, mais parce que nous avons quelques femmes qui"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-21 23:24",
+      "text": "Mexique : violents affrontements après l’arrestation du narcotrafiquant « Chapo Isidro », l’un des criminels les plus recherchés par le FBI\n➡️ https://l.leparisien.fr/2lyk"
     },
     {
       "author_name": "Tribune Populaire🌐",
@@ -4389,6 +4381,11 @@
       "author_name": "Tribune Populaire🌐",
       "published_at": "2026-11-22 15:56",
       "text": "[Retweet de @BassemTH69] 🚨 Une enfant de 10 ans au cœur d'accusations gravissimes visant Père Bourrass. Merci à The Punisher, GameMixTreize et Farouk pour leur travail et leur vigilance.\n\nDès le début, j'ai dit que cette histoire était louche et j'ai laissé 48 h pour porter plainte. Cette gamine, c'est"
+    },
+    {
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-22 15:57",
+      "text": "[Retweet de @BVoltaire] [REPORTAGE] « Gauche révolutionnaire et islam sont alliés pour nous faire taire » | Par  @SevilliaYves\nToulon : pour son premier grand meeting de campagne, Éric Zemmour s'est frontalement opposé à Jean-Luc Mélenchon. \n \nhttps://www.bvoltaire.fr/reportage-gauche-revolutionnaire-et-islam-sont-allies-pour-nous-faire-taire/"
     },
     {
       "author_name": "Boulevard Voltaire",
