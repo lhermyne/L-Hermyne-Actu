@@ -1,14 +1,53 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-22T04:08:05.215Z",
+  "updated_at": "2026-11-22T04:38:16.371Z",
   "window_hours": 24,
-  "window_start": "2026-11-21T04:08:05.215Z",
+  "window_start": "2026-11-21T04:38:16.371Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1289,
+  "count": 1291,
   "tweets": [
+    {
+      "id": "2124361116578979932",
+      "created_at": "2026-11-22T04:35:33.000Z",
+      "author": "leJDD",
+      "author_name": "Le JDD",
+      "type": "tweet",
+      "text": "«Je ne veux pas de petits tyrans dans les unités !» : le patron de la gendarmerie répond au malaise des troupes https://ow.ly/bmyK106JlRB",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/leJDD/status/2124361116578979932"
+    },
+    {
+      "id": "2124361114012074280",
+      "created_at": "2026-11-22T04:35:32.000Z",
+      "author": "leJDD",
+      "author_name": "Le JDD",
+      "type": "tweet",
+      "text": "Rugby : à moins d’un an de sa Coupe du monde, l’Australie inquiète toujours https://ow.ly/y5fh106JlRz",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/leJDD/status/2124361114012074280"
+    },
+    {
+      "id": "2124356149105275139",
+      "created_at": "2026-11-22T04:15:49.000Z",
+      "author": "NiONiPardon",
+      "author_name": "Ni Oubli Ni Pardon",
+      "type": "tweet",
+      "text": "04/2021 Alors que l’OMS a déconseillé l'hydroxychloroquine comme traitement préventif de la maladie liée au Covid-19, le chef du service des maladies infectieuses de l’hôpital de Fann à Dakar n’a jamais cessé de l'utiliser, en association avec une autre molécule :",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/NiONiPardon/status/2124356149105275139"
+    },
     {
       "id": "2124352234720743776",
       "created_at": "2026-11-22T04:00:15.000Z",
@@ -16752,19 +16791,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/NiONiPardon/status/2124002435362439527"
-    },
-    {
-      "id": "2123994000512229684",
-      "created_at": "2026-11-21T04:16:46.000Z",
-      "author": "NiONiPardon",
-      "author_name": "Ni Oubli Ni Pardon",
-      "type": "tweet",
-      "text": "01/2022 David Pujadas dans Les Indispensables : « Les pays les plus vaccinés sont les pays les plus touchés par l'épidémie aujourd'hui. C’est vrai ou faux ? »\n\nFanny Weil : « Eh bien David, c'est vrai ! C’est le cas des pays européens, à commencer par la France. 90 % des plus de",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/NiONiPardon/status/2123994000512229684"
     }
   ]
 }
