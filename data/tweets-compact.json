@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-22 23:13",
-  "period": "du 2026-11-21 23:13 au 2026-11-22 23:13",
-  "new_period": "du 2026-11-22 20:00 au 2026-11-22 23:13",
-  "context_period": "du 2026-11-21 23:13 au 2026-11-22 20:00",
+  "generated_at": "2026-11-22 23:27",
+  "period": "du 2026-11-21 23:27 au 2026-11-22 23:27",
+  "new_period": "du 2026-11-22 20:00 au 2026-11-22 23:27",
+  "context_period": "du 2026-11-21 23:27 au 2026-11-22 20:00",
   "coverage_complete": true,
-  "new_count": 152,
-  "context_count": 952,
-  "duplicates_merged": 85,
+  "new_count": 159,
+  "context_count": 947,
+  "duplicates_merged": 89,
   "empty_removed": 3,
   "new": [
     {
@@ -405,12 +405,18 @@
     {
       "author_name": "Marine Le Pen",
       "published_at": "2026-11-22 21:24",
-      "text": "La France a perdu beaucoup d’influence en Afrique, au profit de la Chine et de la Russie.\n\n Je veux bâtir avec les pays africains des relations d’équité et de respect, des partenariats pour le développement, et une coopération ferme sur l’immigration."
+      "text": "La France a perdu beaucoup d’influence en Afrique, au profit de la Chine et de la Russie.\n\n Je veux bâtir avec les pays africains des relations d’équité et de respect, des partenariats pour le développement, et une coopération ferme sur l’immigration.",
+      "also_by": [
+        "Rassemblement National"
+      ]
     },
     {
       "author_name": "Marine Le Pen",
       "published_at": "2026-11-22 21:25",
-      "text": "Emmanuel Macron parle la langue de l’Union européenne, moi je parle la langue des nations.\n\nAvec la Chine, nous pourrons parler franchement de ce qui pénalise notre économie, et conclure des partenariats sans que personne ne perde ni sa souveraineté ni ses intérêts."
+      "text": "Emmanuel Macron parle la langue de l’Union européenne, moi je parle la langue des nations.\n\nAvec la Chine, nous pourrons parler franchement de ce qui pénalise notre économie, et conclure des partenariats sans que personne ne perde ni sa souveraineté ni ses intérêts.",
+      "also_by": [
+        "Rassemblement National"
+      ]
     },
     {
       "author_name": "Le Point",
@@ -420,7 +426,10 @@
     {
       "author_name": "Marine Le Pen",
       "published_at": "2026-11-22 21:27",
-      "text": "L’Égypte a joué un rôle extrêmement important dans le conflit israélo-palestien, elle détient la clé de la solution.\n \nJe soutiens la solution à deux États, mais reconnaître aujourd’hui l’État palestinien, c’est reconnaître le Hamas. Cela ne l’affaiblira pas, au contraire."
+      "text": "L’Égypte a joué un rôle extrêmement important dans le conflit israélo-palestien, elle détient la clé de la solution.\n \nJe soutiens la solution à deux États, mais reconnaître aujourd’hui l’État palestinien, c’est reconnaître le Hamas. Cela ne l’affaiblira pas, au contraire.",
+      "also_by": [
+        "Rassemblement National"
+      ]
     },
     {
       "author_name": "CNEWS",
@@ -435,7 +444,10 @@
     {
       "author_name": "Marine Le Pen",
       "published_at": "2026-11-22 21:29",
-      "text": "La liberté de navigation conditionne la façon dont l’énergie et la nourriture arrivent dans le monde. La France doit continuer à la protéger.\n\nLes menaces sur Bab el-Mandeb toucheront l’Égypte, la France et l’Europe tout entière. Cela m’inquiète."
+      "text": "La liberté de navigation conditionne la façon dont l’énergie et la nourriture arrivent dans le monde. La France doit continuer à la protéger.\n\nLes menaces sur Bab el-Mandeb toucheront l’Égypte, la France et l’Europe tout entière. Cela m’inquiète.",
+      "also_by": [
+        "Rassemblement National"
+      ]
     },
     {
       "author_name": "Eric Zemmour",
@@ -791,34 +803,44 @@
       "author_name": "Le Parisien",
       "published_at": "2026-11-22 23:13",
       "text": "L'Opéra de Paris accusé d’avoir effacé l’identité juive d’un personnage\n\nSur son site, le personnage de Bérénice dans « La Clémence de Titus » est présenté comme une princesse africaine. Un choix du metteur en scène critiqué par plusieurs personnalités \n➡️ https://l.leparisien.fr/sVc8"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-21 23:14",
-      "text": "«Les policiers n'osent plus agir», avance David Alaime, journaliste, dans #100PolitiqueWE\n\nToute l'info est à retrouver sur https://cnews.fr"
     },
     {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-21 23:20",
-      "text": "Larges vainqueurs de l’Argentine (45-17) ce samedi soir, Dupont et ses partenaires terminent premiers de la poule Nord https://l.lefigaro.fr/yNkh"
-    },
-    {
-      "author_name": "Le Crapaud",
-      "published_at": "2026-11-21 23:23",
-      "text": "[Retweet de @Le_Crapaud47] L’avenir de l’Homme blanc ?"
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-22 23:15",
+      "text": "Les médias officiels algériens relancent la demande de libération de Smaïl R., agent consulaire détenu en France pour son rôle présumé dans l'enlèvement d'Amir DZ.  https://www.fdesouche.com/2026/11/22/france-algerie-agent-consulaire-smail-r-amir-dz-liberation-tensions-novembre-2026/"
     },
     {
       "author_name": "Alain Weber",
-      "published_at": "2026-11-21 23:23",
-      "text": "Aucun commentaire n’est nécessaire, elle est brillante, souriante et consensuelle !\n\nUne certitude, l’avenir de la politique française sera féminin, et je m’en réjouis !\n\nNon pas pour une quelconque et grotesque question d’égalité, mais parce que nous avons quelques femmes qui"
+      "published_at": "2026-11-22 23:15",
+      "text": "Gabriel Attal, à donc, selon lui bien entendu, plus d’expérience et de sang -froid que Donald Trump !\n\nCela s’est effectivement constaté lorsqu’il a appelé à voter LFI, et rendu la France ingouvernable durant 2 ans, et ce uniquement pour ne pas perdre trop la face… 🙄🙄\n[Cite @jon_delorraine] 🔴🇫🇷 INSOLITE - Gabriel Attal se considère meilleur et avec plus de sang froid que Donald Trump.\n(Difficile de se retenir sans exploser de rire)"
     },
     {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-21 23:24",
-      "text": "Mexique : violents affrontements après l’arrestation du narcotrafiquant « Chapo Isidro », l’un des criminels les plus recherchés par le FBI\n➡️ https://l.leparisien.fr/2lyk"
+      "author_name": "CNEWS",
+      "published_at": "2026-11-22 23:16",
+      "text": "La loi des séries s'abat sur Désiré Doué ➡️ https://mrf.lu/2Bb-y"
     },
+    {
+      "author_name": "Jean-Yves Le Gallou",
+      "published_at": "2026-11-22 23:24",
+      "text": "La soi disant affaire #Moutouh est tout simplement grotesque. La réalité est plus simple il a brillamment assuré la sécurité du congrès du #RN comme  il en avait démocratiquement la responsabilité, ce qui en creux montrait l’incurie de #Nunez dans la maîtrise de la situation face\n[Cite @LeHuffPost] Ce mail du service du préfet Moutouh au cœur de l’affaire des fuites vers le RN\nhttps://www.huffingtonpost.fr/france/article/ce-mail-du-service-du-prefet-hugues-moutouh-au-c-ur-de-l-affaire-des-fuites-vers-le-rn_362738.html"
+    },
+    {
+      "author_name": "Kermit",
+      "published_at": "2026-11-22 23:24",
+      "text": "Au delà de l’immigration et de son lot de problème, l’ennemi numéro un des français de souche c’est le blanc bénévole qui joue contre son équipe, des traitres de la pire espèce.\n[Cite @Portes_Thomas] Le racisme anti-blancs n’existe pas."
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-22 23:24",
+      "text": "Présidentielle 2027 : CBS, Financial Times, télé égyptienne… Marine Le Pen en campagne dans les médias internationaux, sans jamais quitter la France\n➡️ https://l.leparisien.fr/GgUO"
+    },
+    {
+      "author_name": "Tanguy David",
+      "published_at": "2026-11-22 23:25",
+      "text": "[Retweet de @CerfiaFR] 🇫🇷 FLASH | La Guadeloupe est sous le CHOC après le MEURTRE d'Alexis Gabriele, un chirurgien-dentiste engagé contre les coupures d'eau. \n\nCe père de deux petites filles, a été tué par balles dans sa voiture samedi matin à Pointe-à-Pitre, en Guadeloupe, alors qu'il partait faire"
+    }
+  ],
+  "context": [
     {
       "author_name": "Tribune Populaire🌐",
       "published_at": "2026-11-21 23:27",
