@@ -1,14 +1,66 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-22T00:06:18.752Z",
+  "updated_at": "2026-11-22T00:36:31.361Z",
   "window_hours": 24,
-  "window_start": "2026-11-21T00:06:18.752Z",
+  "window_start": "2026-11-21T00:36:31.361Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1291,
+  "count": 1294,
   "tweets": [
+    {
+      "id": "2124300593623646371",
+      "created_at": "2026-11-22T00:35:03.000Z",
+      "author": "InfoMdia",
+      "author_name": "Médias-Presse-Info",
+      "type": "tweet",
+      "text": "Dimanche 22 novembre - Vingt-sixième et dernier dimanche après la Pentecôte - Sainte Cécile, Vierge et Martyre. - https://www.medias-presse.info/26e-dimanche-pentecote-22-novembre-vingt-sixieme-et-dernier/253397/ - Messe du vingt-quatrième et dernier dimanche après la Pentecôt...",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/InfoMdia/status/2124300593623646371"
+    },
+    {
+      "id": "2124299725755105367",
+      "created_at": "2026-11-22T00:31:36.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "Ajaccio : le parquet ouvre une enquête après un coup de feu à proximité du domicile de l’avocate Anna-Maria Sollacaro\n➡️ https://l.leparisien.fr/nDg5",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2124299725755105367"
+    },
+    {
+      "id": "2124296233220980950",
+      "created_at": "2026-11-22T00:17:44.000Z",
+      "author": "dannyconversano",
+      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
+      "type": "quote",
+      "text": "100%.",
+      "retweeted_author": null,
+      "quoted_author": "isaacrrr7",
+      "quoted_text": "🚨 ÚLTIMA HORA: Se ha revelado que, durante 36 meses consecutivos, el 100% de las agresiones sexuales denunciadas en Oslo (Noruega) fueron cometidas por inmigrantes no occidentales.",
+      "lang": "qst",
+      "url": "https://x.com/dannyconversano/status/2124296233220980950"
+    },
+    {
+      "id": "2124293519850516827",
+      "created_at": "2026-11-22T00:06:57.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "🔴 Il a été placé en garde à vue au commissariat de Montreuil\n➡️ https://l.leparisien.fr/XoHr",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2124293519850516827"
+    },
     {
       "id": "2124292580816879671",
       "created_at": "2026-11-22T00:03:13.000Z",
@@ -16778,19 +16830,6 @@
       "quoted_text": "If The Big Short was made in 2026",
       "lang": "en",
       "url": "https://x.com/Thinker_View/status/2123940963009605758"
-    },
-    {
-      "id": "2123932310848381107",
-      "created_at": "2026-11-21T00:11:38.000Z",
-      "author": "Thinker_View",
-      "author_name": "ThinkerView",
-      "type": "tweet",
-      "text": "L’Arcom prétend vouloir encadrer Internet ?\nQuelle sera la prochaine étape ?\nPasser au crible l’ensemble de nos réseaux sociaux pour juger si notre parole est conforme ?\nFace à ce type de signal précurseur, alors que tous les indicateurs économiques et géopolitiques sont au",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/Thinker_View/status/2123932310848381107"
     }
   ]
 }
