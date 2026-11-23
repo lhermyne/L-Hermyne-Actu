@@ -1,14 +1,27 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-23T02:14:33.171Z",
+  "updated_at": "2026-11-23T02:44:38.889Z",
   "window_hours": 24,
-  "window_start": "2026-11-22T02:14:33.171Z",
+  "window_start": "2026-11-22T02:44:38.889Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1200,
+  "count": 1202,
   "tweets": [
+    {
+      "id": "2124693858436915696",
+      "created_at": "2026-11-23T02:37:45.000Z",
+      "author": "alainpaulweber",
+      "author_name": "Alain Weber",
+      "type": "tweet",
+      "text": "Ségolène Royal a t’elle encore de la Famille ?\n\nSi oui, il faut venir la chercher. Il ne faut plus la laisser comme ça, seule. J’ai cru, il y a un an et demi, à un naufrage, aujourd’hui je me rends compte que c’est beaucoup plus grave que cela !\n\nCe que j’ai entendu ce soir sur",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/alainpaulweber/status/2124693858436915696"
+    },
     {
       "id": "2124680538023981206",
       "created_at": "2026-11-23T01:44:49.000Z",
@@ -1204,6 +1217,19 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/_LesPatriotes/status/2124616854417400128"
+    },
+    {
+      "id": "2124616648812322823",
+      "created_at": "2026-11-22T21:30:57.000Z",
+      "author": "_LesPatriotes",
+      "author_name": "Les Patriotes",
+      "type": "retweet",
+      "text": "La guerre est en train de déborder partout en Europe (cf ⤵️)\n\nL’UE, Macron, les otaniens sont en train de réussir leur coup : nous jeter dans la guerre.\n\n➡️ Plus temps de papoter, l’heure est grave, très grave.\nMacron doit être destitué\nIl faut quitter l’UE et l’OTAN\nLa France",
+      "retweeted_author": "f_philippot",
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/_LesPatriotes/status/2124616648812322823"
     },
     {
       "id": "2124616500333912256",
