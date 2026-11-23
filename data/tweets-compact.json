@@ -1,15 +1,15 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-23 22:23",
-  "period": "du 2026-11-22 22:23 au 2026-11-23 22:23",
-  "new_period": "du 2026-11-23 20:00 au 2026-11-23 22:23",
-  "context_period": "du 2026-11-22 22:23 au 2026-11-23 20:00",
+  "generated_at": "2026-11-23 22:53",
+  "period": "du 2026-11-22 22:53 au 2026-11-23 22:53",
+  "new_period": "du 2026-11-23 20:00 au 2026-11-23 22:53",
+  "context_period": "du 2026-11-22 22:53 au 2026-11-23 20:00",
   "coverage_complete": true,
-  "new_count": 166,
-  "context_count": 1321,
-  "duplicates_merged": 95,
-  "empty_removed": 4,
+  "new_count": 185,
+  "context_count": 1305,
+  "duplicates_merged": 97,
+  "empty_removed": 3,
   "new": [
     {
       "author_name": "Tocsin",
@@ -52,7 +52,10 @@
     {
       "author_name": "Le Parisien | politique",
       "published_at": "2026-11-23 20:01",
-      "text": "Le sénateur, soutien de Raphaël Glucksmann, a créé son propre parti, furieux de la main tendue par Marine Tondelier à Jean-Luc Mélenchon. Tandis que, chez les Écologistes, certains plaident encore pour une candidature autonome à la présidentielle.\n\n➡️ https://l.leparisien.fr/YisI"
+      "text": "Le sénateur, soutien de Raphaël Glucksmann, a créé son propre parti, furieux de la main tendue par Marine Tondelier à Jean-Luc Mélenchon. Tandis que, chez les Écologistes, certains plaident encore pour une candidature autonome à la présidentielle.\n\n➡️ https://l.leparisien.fr/YisI",
+      "also_by": [
+        "Le Parisien"
+      ]
     },
     {
       "author_name": "Boulevard Voltaire",
@@ -442,7 +445,10 @@
     {
       "author_name": "Jordan Bardella",
       "published_at": "2026-11-23 21:07",
-      "text": "Nous avons proposé dans cette campagne le plus grand plan de nettoyage des finances publiques depuis le plan Pinay-Rueff de 1958, et nous sommes favorables à l'instauration d'une règle d'or budgétaire."
+      "text": "Nous avons proposé dans cette campagne le plus grand plan de nettoyage des finances publiques depuis le plan Pinay-Rueff de 1958, et nous sommes favorables à l'instauration d'une règle d'or budgétaire.",
+      "also_by": [
+        "Rassemblement National"
+      ]
     },
     {
       "author_name": "Tribune Populaire🌐",
@@ -867,92 +873,107 @@
       "author_name": "Une Bonne Droite 👊🏻",
       "published_at": "2026-11-23 22:21",
       "text": "\n[Cite @LBleuBlancRouge] 🔴😳 HALLUCINANT ! \n\nAprès avoir laissé entendre plus tôt dans l’interview qu’elle rallierait sûrement Mélenchon, Ségolène Royal nage en PLEIN DÉLIRE ce soir sur LCI ! \n\nElle affirme que si le RN est élu, les gens tueraient des Noirs et Arabes, avec la complicité de CNews et"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Alain Weber",
-      "published_at": "2026-11-22 22:25",
-      "text": "Macron : après avoir vidé les caisses, il veut installer un cadenas !\n\nCet homme est vraiment incroyable…\n\nIl fallait quand même oser ! Après presque dix ans à la tête de l’État, il découvre soudain les vertus de la rigueur budgétaire. \n\nLui qui a laissé la dette publique\n[Cite @Le_Figaro] Budget : Emmanuel Macron réfléchirait à convoquer le Congrès pour instaurer une règle d'or → https://l.lefigaro.fr/q0FD"
     },
     {
-      "author_name": "Florian Philippot",
-      "published_at": "2026-11-22 22:29",
-      "text": "La guerre est en train de déborder partout en Europe (cf ⤵️)\n\nL’UE, Macron, les otaniens sont en train de réussir leur coup : nous jeter dans la guerre.\n\n➡️ Plus temps de papoter, l’heure est grave, très grave.\nMacron doit être destitué\nIl faut quitter l’UE et l’OTAN\nLa France",
-      "also_by": [
-        "Les Patriotes"
-      ]
+      "author_name": "Bouli ☃️",
+      "published_at": "2026-11-23 22:24",
+      "text": "LCI permet à Thierry Breton de donner son avis sur l'immigration, le référendum permettrait aux 66 millions d'autres Français de donner le leur.\n[Cite @ThierryBreton] Je suis contre un référendum sur l’immigration. Quelle question poserait-on exactement ? \n\nIl y a des lois, au niveau national comme européen : appliquons-les."
     },
     {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-22 22:30",
-      "text": "Il n'est pas obligatoire de partir à la retraite dès lors qu'on atteint l'âge de celle-ci ➡️ https://mrf.lu/2BbTp"
+      "author_name": "Jon De Lorraine",
+      "published_at": "2026-11-23 22:24",
+      "text": "Segolène Royal fait campagne pour LFI."
     },
     {
-      "author_name": "Les Patriotes",
-      "published_at": "2026-11-22 22:31",
-      "text": "[Retweet de @FrancoisDESCAM7] 💣💥Déclaration choc de Franck FERRAND (Historien, journaliste, écrivain polémiste) : Il votera pour le candidat du 🇫🇷FREX!T\n\n- « C’est le vrai, le grand, le seul débat » !\n\n[https://youtu.be/-vaZJoojfEI]"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-22 22:33",
-      "text": "Journalistes agressés : «Ce n'est plus possible d'avoir une profession menacée à ce point en France», dénonce Hélène Roué, journaliste politique, dans #100PolitiqueWE\n\nToute l'info est à retrouver sur https://cnews.fr"
+      "author_name": "Bouli ☃️",
+      "published_at": "2026-11-23 22:25",
+      "text": "[Retweet de @coldhealing] Claude took 250k pages to explain what Riemann grasped with pure masculine intuition"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-22 22:34",
-      "text": "« Complètement contraire à nos valeurs » : Alice Rufo recarde Benjamin Haddad après sa sortie sur les centres pour migrants au Rwanda https://l.leparisien.fr/043I"
+      "published_at": "2026-11-23 22:26",
+      "text": "Nooance, The CurrentBody, Therabody… Ils sont en tête de gondole de ce Black Friday avec beaucoup de promotions agressives et des contenus sponsorisés sur les réseaux sociaux\n\n➡️ https://l.leparisien.fr/IH8e"
+    },
+    {
+      "author_name": "Jordan Bardella",
+      "published_at": "2026-11-23 22:26",
+      "text": "Nous voulons porter une espérance française, parce que nous aimons notre pays.\n\nNous ne dirigerons pas la France pour le Rassemblement National : nous la dirigerons pour l'histoire, nous voulons remettre un peu d'éternité dans l'instant et que la France soit fidèle à sa promesse."
+    },
+    {
+      "author_name": "Bouli ☃️",
+      "published_at": "2026-11-23 22:29",
+      "text": "[Retweet de @KarenAdhar] Le Figaro, journal à la ligne conservatrice,a publié sur son site 8 articles en 2 semaines sur le procès des policiers dans l'affaire Michel Zecler, avec un parti pris/anglage engagé. Tous ont été écrits par un journaliste, Stéphane Durand-Souffland. Ce qui éclaire le paradoxe.➡️"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-23 22:29",
+      "text": "Un retour des températures hivernales est attendu cette semaine dans l’Hexagone. ➡️ https://mrf.lu/2BJXg"
+    },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-23 22:30",
+      "text": "Totalement relaxé en appel après avoir été condamné à deux ans de suspension pour une douzaine de griefs par son université, l'enseignant-chercheur André Quaderi témoigne de la difficulté de reprendre sereinement ses fonctions. Ses étudiants, faute de communication de"
     },
     {
       "author_name": "Le Point",
-      "published_at": "2026-11-22 22:35",
-      "text": "Les Français passent déjà plus de temps à la retraite que la plupart de leurs voisins. Abaisser encore l’âge de départ pèserait sur l’emploi, la croissance et les actifs.\n\n➡️ https://l.lepoint.fr/DQY"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-22 22:43",
-      "text": "Choose France : 273 projets valorisés et près de 15 milliards d'euros d'investissements nouveaux https://ow.ly/c5XH106Jphy"
+      "published_at": "2026-11-23 22:30",
+      "text": "Le service de sécurité ukrainien a frappé avec des drones navals deux navires russes en Libye. Une nouvelle démonstration de la capacité de Kiev à porter la guerre contre la Russie bien au-delà de l’Ukraine.\n\nPar @ClementMchrt\n➡️ https://l.lepoint.fr/mY6"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-22 22:45",
-      "text": "Une méthode de surveillance moderne ➡️ https://mrf.lu/2BbDv"
+      "published_at": "2026-11-23 22:35",
+      "text": "Jules Torres : «La France insoumise concentre 75% des sanctions dans l'enceinte de l'Assemblée nationale», dans #100Politique\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Jon De Lorraine",
+      "published_at": "2026-11-23 22:38",
+      "text": "Et il y en a qui n’y sont jamais rentrés et qui donnent des leçons à tout le monde.\nIls nous soûlent ces politiciens déconnectés.\n[Cite @BFMTV] \"Le problème de l'économie française c'est que les jeunes rentrent trop tard sur le marché du travail\", note Jordan Bardella"
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-23 22:44",
+      "text": "« Raciste que vous êtes » : l’échange électrique entre Léa Balage El Mariky et Julien Odoul sur la préférence nationale https://l.leparisien.fr/pMKT",
+      "also_by": [
+        "Le Parisien"
+      ]
+    },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-23 22:44",
+      "text": "EN DIRECT - Présidentielle 2027 : Yannick Jadot, en rupture avec Marine Tondelier, crée un nouveau parti écologiste → https://l.lefigaro.fr/zwvb"
+    },
+    {
+      "author_name": "Jon De Lorraine",
+      "published_at": "2026-11-23 22:44",
+      "text": "🔴🇫🇷 ALERTE INFO - Jean-François Copé declare : \"Tout le monde le sait, David Lisnard a vraiment voulu rentrer dans le gouvernement Macron\", \" JE VOUS LE CONFIRME\""
+    },
+    {
+      "author_name": "Valeurs actuelles",
+      "published_at": "2026-11-23 22:46",
+      "text": "🗞️ De Shenzhen à Berlin, la semaine dernière, la recomposition en marche du monde s’est accélérée sous l’égide de Trump, Poutine et Xi Jiping.\nhttps://l.valeursactuelles.com/X7f"
+    },
+    {
+      "author_name": "Alain Weber",
+      "published_at": "2026-11-23 22:48",
+      "text": "[Retweet de @AlexandreJardin] MACRON, L’EUROPE ET LE GRAND ABSENT : LE PEUPLE FRANÇAIS\nÀ la lecture du récit de ce dîner entre Emmanuel Macron et une soixantaine de dirigeants des plus grandes entreprises européennes, une question s’impose : le président de la République se préoccupe-t-il de ce que les"
     },
     {
       "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
-      "published_at": "2026-11-22 22:46",
-      "text": "[Retweet de @VaubanBooks] “The small tribes of the Orinoco no longer exist; of their dialect there only remain a dozen or so words uttered in the tree-tops by parakeets that have been freed, like Agrippina’s thrush that chirped Greek words from the balustrades of the Roman palaces. Such will be, sooner or"
+      "published_at": "2026-11-23 22:51",
+      "text": "[Retweet de @LibrairieRCamus] « Avec son humour, son sens de l’autodérision, son grand style, Renaud Camus aborde l’un des sujets les plus brûlants de la politique française en esquivant les ornières de l’acrimonie. Il s’agira donc de guerre civile, de coup d’État, d’Europe, mais tout aussi bien de comtesses"
     },
     {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-22 22:47",
-      "text": "Après le succès de « Samuel », Émilie Tronche renoue avec la préadolescence\n\nAprès le carton de sa série animée « Samuel » et le livre éponyme, l’autrice et illustratrice revient avec une formidable BD, « l’Été de Bérénice ». Nous l’avons rencontrée\n\n➡️ https://l.leparisien.fr/uUx6"
-    },
-    {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-22 22:48",
-      "text": "Orgeval (78). Le footballeur international français Désiré Doué victime d’une tentative de cambriolage de son domicile lors du match PSG/Nice  https://www.fdesouche.com/2026/11/22/orgeval-78-le-footballeur-international-francais-desire-doue-victime-dune-tentative-de-cambriolage-de-son-domicile-lors-du-match-psg-nice/"
-    },
-    {
-      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
-      "published_at": "2026-11-22 22:49",
-      "text": "[Retweet de @SpaceFromGreece] @RenaudCamus !"
-    },
-    {
-      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
-      "published_at": "2026-11-22 22:49",
-      "text": "[Retweet de @XavierTher83534] @FBBlackler Ceci dit, le relâchement vestimentaire et de tenue dans l’espace occidental est patent. C’est ce que @RenaudCamus appelle le Petit remplacement. Il touche les individus de toute origine et de toute classe sociale. Il suffit de regarder le film le Joli mai de Chris Marker pour en"
+      "author_name": "Le Point",
+      "published_at": "2026-11-23 22:51",
+      "text": "Le troisième gala organisé pour les plus gros détenteurs du $TRUMP n’a plus rien du rendez-vous prisé des débuts. Alors que sa cryptomonnaie s’effondre, le président américain doit désormais faire face à la menace d’enquêtes démocrates sur son enrichissement.\n➡️"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-22 22:50",
-      "text": "«Les propos de Jean-Luc Mélenchon conduisent à une tension exacerbée contre les journalistes et contre nos collègues», note Hubert Gimenez, délégué de Paris Un1té, dans #100PolitiqueWE\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
-      "published_at": "2026-11-22 22:50",
-      "text": "[Retweet de @la_logomachie] @RenaudCamus Cher Monsieur Camus, ci-dessous une petite vidéo qui ne vous apprendra sans doute rien, vous qui êtes le spécialiste du sujet, mais je me permets de solliciter votre bienveillance. Hervé Le Bras juge l'immigration « assez modérée » ; mon Socrate a simplement refait le calcul avec"
-    },
+      "published_at": "2026-11-23 22:53",
+      "text": "Maxime Legay : «Ségolène Royal est prête à toutes les outrances médiatiques pour continuer à exister», dans #100Politique\n\nToute l'info est à retrouver sur https://cnews.fr"
+    }
+  ],
+  "context": [
     {
       "author_name": "Alain Weber",
       "published_at": "2026-11-22 22:53",
