@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-23 09:17",
-  "period": "du 2026-11-22 09:17 au 2026-11-23 09:17",
-  "new_period": "du 2026-11-22 20:00 au 2026-11-23 09:17",
-  "context_period": "du 2026-11-22 09:17 au 2026-11-22 20:00",
+  "generated_at": "2026-11-23 09:47",
+  "period": "du 2026-11-22 09:47 au 2026-11-23 09:47",
+  "new_period": "du 2026-11-22 20:00 au 2026-11-23 09:47",
+  "context_period": "du 2026-11-22 09:47 au 2026-11-22 20:00",
   "coverage_complete": true,
-  "new_count": 415,
-  "context_count": 755,
-  "duplicates_merged": 93,
+  "new_count": 456,
+  "context_count": 717,
+  "duplicates_merged": 94,
   "empty_removed": 4,
   "new": [
     {
@@ -2052,7 +2052,10 @@
     {
       "author_name": "Le Parisien",
       "published_at": "2026-11-23 09:00",
-      "text": "Midterms 2026 : en Caroline du Nord, la députée républicaine Virginia Foxx finalement battue dans un vote ultra-serré\n➡️ https://l.leparisien.fr/h1Q1"
+      "text": "Midterms 2026 : en Caroline du Nord, la députée républicaine Virginia Foxx finalement battue dans un vote ultra-serré\n➡️ https://l.leparisien.fr/h1Q1",
+      "also_by": [
+        "Le Parisien | politique"
+      ]
     },
     {
       "author_name": "Le Média en 4⃣-4⃣-2⃣",
@@ -2166,208 +2169,214 @@
       "author_name": "Sud Radio",
       "published_at": "2026-11-23 09:14",
       "text": "❌ Laurent Jacobelli : « David Lisnard, c'est le Macron de la Croisette »\n\nhttps://www.sudradio.fr/linvite-politique/laurent-jacobelli-david-lisnard-le-macron-de-la-croisette"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Alain Weber",
-      "published_at": "2026-11-22 09:17",
-      "text": "🚨🚨😡😡 Amnesty International : quand les droits de l’homme deviennent un instrument idéologique !\n\nDécerner à Francesca Albanese le titre d’\"Ambassadrice de la conscience\" est une véritable provocation.\n\nCette personnalité, dont les prises de position sur Israël ont prouvé son"
     },
     {
-      "author_name": "Front Populaire",
-      "published_at": "2026-11-22 09:18",
-      "text": "✒️ « Politiser l’amitié : de Saint-Just à Clémence Guetté »\n\nÀ lire ici 👇\nhttps://frontpopulaire.fr/opinions/contents/politiser-lamitie-de-saint-just-a-clemence-guette_tco_31983047"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-22 09:18",
-      "text": "🇫🇷 #Présidentielle2027 : faut-il une primaire à droite ? #GrandMatinWeekEnd\n\n🗣️ @HenriGuainoReel : \"Je suis radicalement opposé au système des primaires. C'est l'instrument du système des partis, vous devenez prisonnier de votre socle électoral\"\n\n📻 https://sudradio.fr\n☎️ 0"
-    },
-    {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-22 09:19",
-      "text": "Budget de l’État : Emmanuel Macron envisagerait de convoquer le Congrès pour instaurer une règle d’or https://l.leparisien.fr/Osaf"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-22 09:22",
-      "text": "Alors que les violences se poursuivent, Sabrina Medjebeur regrette : «Les forces de l'ordre sont devenues l'ennemi numéro un», dans #HDProsWE\n\nToute l'info est à retrouver sur https://cnews.fr"
+      "author_name": "Le Figaro Culture",
+      "published_at": "2026-11-23 09:18",
+      "text": "Royaume-Uni : le concert du rappeur Don Toliver interrompu après la diffusion d’une «substance inconnue», des milliers de personnes évacuées https://l.lefigaro.fr/vB49"
     },
     {
       "author_name": "Europe 1",
-      "published_at": "2026-11-22 09:23",
-      "text": "« La règle d’or budgétaire est un danger », estime Hadrien Clouet https://ow.ly/5Yeh106JnXq"
+      "published_at": "2026-11-23 09:19",
+      "text": "D. Lisnard : « Tout le monde s’attendait à cette affiche au 2ème tour entre JL Mélenchon et M Le Pen. Tout d’un coup il surgit et il bouscule ce scénario prévu par les journalistes », analyse le journaliste Paul Amar #HDPros @PascalPraud #Europe1"
+    },
+    {
+      "author_name": "Comité Trump France",
+      "published_at": "2026-11-23 09:20",
+      "text": "Ouch, ça fait mal."
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-23 09:21",
+      "text": "Association des maires de France : un premier obstacle inattendu sur la route de David Lisnard https://ow.ly/YH3J106JseY"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-23 09:21",
+      "text": "D. Lisnard : « Il n’est pas cas contact du macronisme. Et il semblerait qu’une majorité de concitoyens ne souhaite pas une saison 3 du macronimse donc il bénéficie de cette ressource », analyse Olivier Dartigolles  #HDPros @PascalPraud #Europe1"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-23 09:21",
+      "text": "Alors que, dans un sondage, David Lisnard a, pour la première fois, dépassé l'ancien Premier ministre Édouard Philippe, Olivier Dartigolles livre son analyse : «David Lisnard n'est pas \"cas contact\" du macronisme», dans #HDPros"
+    },
+    {
+      "author_name": "Damien Rieu",
+      "published_at": "2026-11-23 09:22",
+      "text": "Le racisme anti blanc est le seul racisme systémique car il est le seul racisme toléré voir encouragé par le système."
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-22 09:23",
-      "text": "Affaire Nvidia : le gendarme boursier américain va enquêter sur les pratiques comptables de la société américaine\n➡️ https://l.leparisien.fr/N0nL"
+      "published_at": "2026-11-23 09:22",
+      "text": "« Une insulte odieuse » : en Italie, un joueur condamné pour viol en réunion porte un brassard contre les violences faites aux femmes\n➡️ https://l.leparisien.fr/Le2A"
     },
     {
-      "author_name": "L'Express",
-      "published_at": "2026-11-22 09:25",
-      "text": "L'établissement huppé, géré par le médiatique Tony Gomez, est devenu le repaire d'une nouvelle génération, du RN à CNews.\n\n➡️ https://l.lexpress.fr/Hq8"
+      "author_name": "Occidentis",
+      "published_at": "2026-11-23 09:22",
+      "text": "🚨⚡️ Dans la Vienne, le maire de Mirabeau a été roué de coups après être intervenu suite à des dégradations commises dans la rue par un groupe d’hommes alcoolisés. (La Nouvelle République)"
     },
     {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-22 09:25",
-      "text": "🎾 Masters ATP Turin : Zverev et Alcaraz s'affrontent pour le titre\n\nhttps://www.sudradio.fr/sport-rugby/sport/masters-atp-alcaraz-retrouve-zverev-pour-une-explication-finale"
-    },
-    {
-      "author_name": "Ni Oubli Ni Pardon",
-      "published_at": "2026-11-22 09:25",
-      "text": "02/2020 Carla Bruni-Sarkozy, au défilé de la marque Céline, aux Invalides : « On se fait la bise, c’est dingue ! Parce qu’on est de la vieille génération, nous ! On n’a peur de rien, on n’est pas féministe, on ne craint pas le coronavirus, nada ! »"
+      "author_name": "Sarah Knafo",
+      "published_at": "2026-11-23 09:23",
+      "text": "Je me suis fixé un objectif personnel dans cette campagne, tout faire pour empêcher l'arrivée au pouvoir de Jean-Luc Mélenchon."
     },
     {
       "author_name": "Sud Radio",
-      "published_at": "2026-11-22 09:29",
-      "text": "🇫🇷 #Présidentielle2027 : quelle solution ?#GrandMatinWeekEnd\n\n🗣️ @HenriGuainoReel : \"@davidlisnard, @BrunoRetailleau, @GabrielAttal, @EPhilippe_LH ? Ils ne disent pas que des bêtises, mais je ne voterai pour aucun d'eux\"\n\n📻 https://sudradio.fr\n☎️ 0 826 300 300"
+      "published_at": "2026-11-23 09:24",
+      "text": "🔴Le RN à la recherche des parrainages pour @J_Bardella ? #GrandMatin\n\n🗣️@ljacobelli : \"Non, on ne peut pas laisser imaginer que @MLP_officiel n'aille pas au bout. Il faut être raisonnable, on ne va pas étudier des scénarios farfelus\"\n\n📻https://www.sudradio.fr/"
     },
     {
-      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
-      "published_at": "2026-11-22 09:30",
-      "text": "Rien à ajouter. Le Bloc Génocidaire s’affole.\n[Cite @jylgallou] Le délire liberticide de l’#ExtremeCentre s’aggrave encore : \n-menaces d’interdiction de  @Cnews \n-Interdiction du forum européen de @_polemia sur la #remigration pour menace contre « l’ordre public immatériel » (sic!) et l’atteinte à la dignité humaine (re sic! )\n-volonté de"
+      "author_name": "Europe 1",
+      "published_at": "2026-11-23 09:25",
+      "text": "« Une primaire, c’est une machine à perdre », estime le journaliste Paul Amar #HDPros @PascalPraud #Europe1"
     },
     {
-      "author_name": "Agence France-Presse",
-      "published_at": "2026-11-22 09:30",
-      "text": "🇵🇰 Au milieu de rizières et de champs au Pakistan, des agriculteurs tentent d'écrire une nouvelle page de l'action climatique en réclamant à de grandes entreprises allemandes de les dédommager pour les inondations \"apocalyptiques\" de l'été 2022 ⤵️"
+      "author_name": "LCP",
+      "published_at": "2026-11-23 09:26",
+      "text": "Finances publiques: pourquoi Emmanuel Macron rouvre le débat sur la \"règle d’or\" de 2011 https://lcp.fr/actualites/finances-publiques-pourquoi-emmanuel-macron-rouvre-le-debat-sur-la-regle-d-or-de-2011"
     },
     {
-      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
-      "published_at": "2026-11-22 09:30",
-      "text": "[Retweet de @visitnorthyork] Decline can always be reversed 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\nIn May 1992, the Wensleydale Creamery in Hawes was closed, 59 jobs were lost and the cheese was moved to Lancashire.\n\nSix months later, a management buyout brought it back and today Yorkshire Wensleydale has protected status.\n\nIn 1965, Goathland"
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-23 09:26",
+      "text": "Après les accusations de « chasse aux pauvres », le maire de La Rochelle annonce des mesures en faveur des SDF\n➡️ https://l.leparisien.fr/1Rzx"
     },
     {
-      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
-      "published_at": "2026-11-22 09:31",
-      "text": "[Retweet de @VaubanBooks] \"To this day, the corpses of women and children continue to be discovered at the bottom of abandoned building sites, just like bombs from wars past are from time to time unearthed in our towns.\" - Jean Raspail, The Camp of the Saints"
+      "author_name": "Radio Courtoisie",
+      "published_at": "2026-11-23 09:29",
+      "text": "🎙️ Ce lundi 23 novembre sur Radio Courtoisie\n\nNe manquez pas Restons courtois à 17 h 30. Pierre-Alexandre Bouclay reçoit Benjamin Blanchard, directeur général de SOS Chrétiens d’Orient.\n\n👉 Faites défiler le carrousel pour découvrir le programme du jour dès 10 h.\n\n🎧 Écoutez-nous"
+    },
+    {
+      "author_name": "Frontières",
+      "published_at": "2026-11-23 09:30",
+      "text": "« Je veux savoir qui veut ma tête et pourquoi »\n\n🚨 ALERTE - Le préfet Hugues Moutouh annonce DÉPOSER PLAINTE. Ce dernier est suspecté d’avoir fait fuiter des informations au RN. (Le Figaro)"
     },
     {
       "author_name": "Le JDD",
-      "published_at": "2026-11-22 09:32",
-      "text": "Le Pen verrouille son référendum, Philippe morigène ses troupes… Les indiscrets du JDD https://ow.ly/tmhn106JnXK"
+      "published_at": "2026-11-23 09:30",
+      "text": "Crèches : seulement 16 000 places créées sur les 100 000 promises par le gouvernement\n\nAlors que le gouvernement promettait 100 000 nouvelles places d’accueil, seules 15 966 ont été créées. Fermetures de crèches, pénurie de personnel et départs à la retraite des assistantes"
+    },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-23 09:30",
+      "text": "Le Pen attaque Lisnard et son projet de «broyer» le code du travail.→https://l.lefigaro.fr/Sgfh"
+    },
+    {
+      "author_name": "Identité Libertés",
+      "published_at": "2026-11-23 09:30",
+      "text": "[Retweet de @LaurenceTrochu] La Corse n’a pas détourné le regard : elle a agi et restauré.\n\nSi la justice n’a pas retenu le caractère antichrétien des faits, la mobilisation locale, elle, ne l’a pas ignoré et n’hésite pas à rappeler l’importance de défendre nos symboles et notre héritage culturel et chrétien"
+    },
+    {
+      "author_name": "Dreuz",
+      "published_at": "2026-11-23 09:31",
+      "text": "Film catastrophe sur Gaza : un scénario bâclé https://www.dreuz.com/2026/11/film-catastrophe-sur-gaza-un-scenario-bacle-334243.html"
+    },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-23 09:31",
+      "text": "[Retweet de @GuilPerrault] De Sean Connery à Robert Pattinson: James Bond, histoire d’un défenseur de l’Occident. Mon grand récit. https://www.lefigaro.fr/vox/histoire/de-sean-connery-a-robert-pattinson-james-bond-histoire-d-un-defenseur-de-l-occident-20261121"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-23 09:31",
+      "text": "Comment fonctionnerait la règle d'or budgétaire qu'Emmanuel Macron souhaite instaurer ? https://ow.ly/WM6z106Jsff"
+    },
+    {
+      "author_name": "Dreuz",
+      "published_at": "2026-11-23 09:32",
+      "text": "Yana Grinshpun face aux réseaux terroristes infiltrés à la Sorbonne – entretien exclusif Dreuz https://www.dreuz.com/2026/11/yana-grinshpun-face-aux-reseaux-terroristes-infiltres-a-la-sorbonne-entretien-exclusif-dreuz-334228.html"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-23 09:34",
+      "text": "👕 Nuances de vert, bande colorée et effet tie-dye : à quoi ressemble le nouveau maillot third du PSG dévoilé ce lundi\n➡️ https://l.leparisien.fr/kKMC"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-23 09:35",
+      "text": "💧Accès à l'eau potable : 27 départements en alerte renforcée\n\nhttps://www.sudradio.fr/societe/les-restrictions-dacces-a-leau-potable-saggravent-en-france-ou-comment-pourquoi"
+    },
+    {
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-23 09:35",
+      "text": "[Retweet de @BVoltaire] [TRIBUNE] Et maintenant Villepin : n’en jetez plus, la cour est pleine ! | Par  @st_buffetaut\nCette bousculade d’individus surtout préoccupés de l’estime qu’ils ont d’eux-mêmes est insultante pour les Français. \n \nhttps://www.bvoltaire.fr/tribune-et-maintenant-villepin-nen-jetez-plus-la-cour-est-pleine/"
     },
     {
       "author_name": "Le Média en 4⃣-4⃣-2⃣",
-      "published_at": "2026-11-22 09:32",
-      "text": "Piratage du FBI : une intrusion signalée dans le fichier national de la police américaine \nhttps://lemediaen442.fr/piratage-du-fbi-une-intrusion-signalee-dans-le-fichier-national-de-la-police-americaine/ \n\nSamedi 21 novembre, Associated Press a recoupé l’existence de l’enquête auprès d’une source anonyme. Le FBI a refusé de commenter. \n\nInterrogé sur Fox News, Donald"
+      "published_at": "2026-11-23 09:35",
+      "text": "La corvette russe Merkury a sombré en Libye, la guerre en Ukraine menace de s’étendre à la Méditerranée \nhttps://lemediaen442.fr/la-corvette-russe-merkury-a-sombre-en-libye-la-guerre-en-ukraine-menace-de-setendre-a-la-mediterranee/ \n\nÀ l’aube du 22 novembre, une explosion a embrasé un navire de guerre russe à quai à Benghazi. Les images satellites montrent que le Merkury a sombré."
     },
     {
-      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
-      "published_at": "2026-11-22 09:33",
-      "text": "[Retweet de @GenevieveRuelle] « Un autre terme souvent mis en avant dans le cadre de la légende noire est celui de génocide. La colonisation Nord-Sud aurait été un génocide. Innombrables sont les jeunes noirs et Arabes qui s'expriment sur les réseaux sociaux, et qui souvent ont tété la haine de leur pays"
+      "author_name": "Agence France-Presse",
+      "published_at": "2026-11-23 09:36",
+      "text": "🇺🇸 Les démocrates disposeront de la plus large majorité depuis 1992 à la Chambre des représentants, après la victoire de Chuck Hubbard en Caroline du Nord, ultime duel des élections du 3 novembre qui restait à trancher.\n\n➡️ https://u.afp.com/SFaw"
     },
     {
-      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
-      "published_at": "2026-11-22 09:33",
-      "text": "[Retweet de @RomainEvenement] Si l'on souhaite rendre hommage à des jeunes gens morts accidentellement après une poursuite avec la police, je propose plutôt une plaque pour Sébastien Deyzieu, militant de la cause nationale et européenne, mort à 22 ans, poursuivit par la police de Pasqua, à l'issue une"
+      "author_name": "Dreuz",
+      "published_at": "2026-11-23 09:37",
+      "text": "Le Conseil de la paix et les Occidentaux attendent que le Hamas démilitarise. Ils n’ont rien compris https://www.dreuz.com/2026/11/le-conseil-de-la-paix-et-les-occidentaux-attendent-que-le-hamas-demilitarise-ils-nont-rien-compris-334251.html"
     },
     {
-      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
-      "published_at": "2026-11-22 09:34",
-      "text": "[Retweet de @oldspeak_books] https://oldspeakbookshop.co.uk/products/The-Camp-of-the-Saints-p773170264"
+      "author_name": "Le JDD",
+      "published_at": "2026-11-23 09:37",
+      "text": "Présidentielle 2027 : Lisnard devance Philippe, Riner au coude-à-coude avec Retailleau, selon un nouveau sondage https://ow.ly/efgt106Jsfp"
+    },
+    {
+      "author_name": "Valeurs actuelles",
+      "published_at": "2026-11-23 09:37",
+      "text": "🔴 [SONDAGE] David Lisnard devance Édouard Philippe et distance Bruno Retailleau dans un sondage Toluna Harris Interactive publié ce lundi, confirmant la progression du candidat de Nouvelle Énergie.\n\n🔗 https://l.valeursactuelles.com/Tcc"
+    },
+    {
+      "author_name": "Alain Weber",
+      "published_at": "2026-11-23 09:38",
+      "text": "Incontestablement… \n\nDans la lutte contre nos traditions, le problème n’est pas les musulmans, le problème est surtout ceux qui s’arrogent le droit de parler pour eux…\n\nLes associations diverses qui tentent de justifier une utilité usurpée et de gratter quelques subventions"
+    },
+    {
+      "author_name": "Dreuz",
+      "published_at": "2026-11-23 09:38",
+      "text": "La rue contre les urnes https://www.dreuz.com/2026/11/la-rue-contre-les-urnes-334264.html"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-22 09:34",
-      "text": "« Il est très pénible » : Cemil Sanli, ce journaliste militant qui sème la zizanie à l’Élysée https://l.leparisien.fr/z9IP",
-      "also_by": [
-        "Le Parisien | politique",
-        "ThinkerView"
-      ]
+      "published_at": "2026-11-23 09:39",
+      "text": "Sur les volcans d’Auvergne, le «Sonneur des puys» fait vibrer sa cornemuse… et les réseaux sociaux\n➡️ https://l.leparisien.fr/PcS0"
     },
     {
-      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
-      "published_at": "2026-11-22 09:34",
-      "text": "[Retweet de @RealJarTaylor] Good grief. Another white idiot. Imitating blacks is bad enough, but at a sacred shrine?! I wish Japanese had beaten him bloody."
+      "author_name": "Médias-Presse-Info",
+      "published_at": "2026-11-23 09:39",
+      "text": "🇫🇷 🪙 Macron voulait savoir ce qu’il pouvait faire pour la France. Le puits lui a suggéré de libérer l’Élysée. 😂 #Humour #Macron"
     },
     {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-22 09:35",
-      "text": "🇫🇷 #Présidentielle2027 : @davidlisnard propose une primaire \"d'Attal à Zemmour\" #GrandMatinWeekEnd\n\n🗣️ @emiliezap : \"Avec cette proposition, il casse la primaire, elle ne peut pas être aussi large. Il a compris qu'il a du succès et qu'il a intérêt à surfer sur sa popularité en"
+      "author_name": "Dreuz",
+      "published_at": "2026-11-23 09:39",
+      "text": "Yana Grinshpun face aux réseaux terroristes infiltrés à la Sorbonne - entretien exclusif Dreuz"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-22 09:35",
-      "text": "L'édito d'Eliot Deval. ➡️ https://mrf.lu/2Bj-s"
+      "published_at": "2026-11-23 09:42",
+      "text": "Après les propos polémiques de Ségolène Royal, Paul Amar revient sur les précédents dérapages de l'ancienne ministre : «Ségolène Royal a une relation trouble et troublante avec l'Algérie», dans #HDPros"
+    },
+    {
+      "author_name": "Le JDD",
+      "published_at": "2026-11-23 09:42",
+      "text": "Malgré un tirage porté à 300 000 exemplaires, L’Avenir en commun, le programme présidentiel de Jean-Luc Mélenchon, ralentit en librairie : 10 835 exemplaires vendus cette semaine, selon GfK. L’ouvrage recule à la troisième place, désormais dépassé par le livre de Sarah Knafo.\n\n🔗"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-23 09:46",
+      "text": "Choose France, France 2030... À Toulouse, Emmanuel Macron veut défendre son bilan économique https://ow.ly/80T3106JsfB"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-22 09:36",
-      "text": "Miss Picardie obtient la meilleure note au quiz, six candidates classées juste derrière elle\n➡️ https://l.leparisien.fr/FnRG"
+      "published_at": "2026-11-23 09:46",
+      "text": "Des dessins de Picasso sur les murs : l’incroyable appartement de Dora Maar, l’ancienne muse de l’artiste, mis en vente à Paris\n➡️ https://l.leparisien.fr/iLPS"
     },
     {
-      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
-      "published_at": "2026-11-22 09:37",
-      "text": "[Retweet de @BreitbartNews] Danish Prime Minister Mette Frederiksen has broken the taboo among Western liberals of discussing the \"Great Replacement,\" declaring herself an opponent of the multicultural project and taking a stand to preserve the ethnic character of her nation. https://trib.al/hI09trh"
-    },
-    {
-      "author_name": "Cercle Aristote",
-      "published_at": "2026-11-22 09:39",
-      "text": "Ça faisait longtemps qu’on n’avait pas ressorti le bon Bruno.\n[Cite @CNEWS] Le docteur Bruno Megarbane s'explique sur la grippe, épidémie précoce cette année, et avertit : «La vaccination protège du risque de faire une forme grave de la maladie», dans #LaMatinaleWE\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
-      "published_at": "2026-11-22 09:40",
-      "text": "J’aime bien Renaud Camus https://politiqart.fr/jaime-bien-renaud-camus/"
-    },
-    {
-      "author_name": "Cercle Aristote",
-      "published_at": "2026-11-22 09:40",
-      "text": "[Retweet de @I_Katchanovski] Orwellian: Zelensky celebrates 13 anniversary of \"Revolution of Dignity\" start by visiting memorial to Maidan activists killed by Maidan snipers from Hotel Ukraina & other Maidan-controlled locations in false-flag massacre to overthrow Ukrainian government."
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-22 09:41",
-      "text": "Violences sexistes et sexuelles : le « questionnaire Geffray » fait une arrivée bancale dans les écoles, collèges et lycées\n➡️ https://l.leparisien.fr/KxXd"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-22 09:41",
-      "text": "«Jean-Luc Mélenchon veut détruire le système», fustige Alain Destexhe, dans #HDProsWE\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-22 09:42",
-      "text": "🇫🇷 #Présidentielle2027 : @davidlisnard peut-il faire dérailler le duel Mélenchon-Le Pen au second tour ? #GrandMatinWeekEnd\n\n🗣️ @ThayWilliam : \"Il monte car il propose de renverser un système dont les Français ne veulent plus. Ils en ont marre de payer pour tous les autres en"
-    },
-    {
-      "author_name": "Nice Provence Info",
-      "published_at": "2026-11-22 09:42",
-      "text": "Remèdes écartés : eau de Quinton\nLa France a inventé cette technique, elle est la première à la supprimer\nhttps://nice-provence.info/2026/11/22/remedes-ecartes-eau-de-quinton/"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-22 09:45",
-      "text": "Comment Auchan est-il devenu un géant de la distribution ?\n\nComment un petit magasin ouvert à Roubaix en 1961 est-il devenu l’un des plus grands empires de la distribution… avant de voir son modèle profondément remis en question ?\n\n🎙️ Cette semaine dans Osez Entreprendre, nous"
-    },
-    {
-      "author_name": "Cercle Aristote",
-      "published_at": "2026-11-22 09:45",
-      "text": "Jusqu’au bout, foutage de gueule et provocation.\n[Cite @BFMTV] Budget 2027: Emmanuel Macron réfléchit à convoquer le Congrès à Versailles en janvier pour instaurer une règle d'or dans la Constitution\nhttps://l.bfmtv.com/NVW5"
-    },
-    {
-      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
-      "published_at": "2026-11-22 09:45",
-      "text": "[Retweet de @politiqart] https://politiqart.fr/andy-warhol/ #popart #serigraphie #marchedelart @Drouot"
-    },
-    {
-      "author_name": "Ni Oubli Ni Pardon",
-      "published_at": "2026-11-22 09:45",
-      "text": "Cette archive est libre d’accès et indépendante.\n\nElle existe parce que certains estiment que l’oubli n’est pas une option.\n\nL’ensemble des ressources et moyens de soutien est disponible ici :\n🔗 https://linktr.ee/nionip"
-    },
-    {
-      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
-      "published_at": "2026-11-22 09:46",
-      "text": "[Retweet de @drdanielschatz] Ord och inga visor från Danmarks socialdemokratiska statsminister Mette Frederiksen:\n\n”Det växer fram en fiende mitt ibland oss, i vårt eget samhälle.\n\nDet handlar om Hamasanhängare. Om människor som vill se lagstiftning där Koranen står över vår demokrati.”"
-    },
-    {
-      "author_name": "Institut ILIADE",
-      "published_at": "2026-11-22 09:47",
-      "text": "🎙 Radio Courtoisie et l’Institut Iliade vous convient à écouter la nouvelle édition du Libre journal du lundi soir, « Vive la civilisation européenne ! », le lundi 23 novembre 2026 de 19h30 à 21h00.\n\nQuel est le rapport des Européens à la santé ?\n\nL’Europe a largement inventé la"
-    },
+      "author_name": "Kroc Blanc",
+      "published_at": "2026-11-23 09:47",
+      "text": "Putain de peuple de lâches, chaque voiture qui passe est un coup de poignard dans mon cœur.\nNos dirigeants ont transformé des lions en agneaux débiles."
+    }
+  ],
+  "context": [
     {
       "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
       "published_at": "2026-11-22 09:47",
@@ -3412,6 +3421,15 @@
       "author_name": "Fdesouche.com est une revue de presse",
       "published_at": "2026-11-22 12:13",
       "text": "Face à la baisse des naissances, 69 % approuvent une politique nataliste bien plus ambitieuse. Le recours à l’immigration ne convainc que 28 % des sondés. Les chiffres de l’Ifop.\n https://www.fdesouche.com/2026/11/22/natalite-ifop-69-pour-cent-politique-nataliste-28-immigration-2026/"
+    },
+    {
+      "author_name": "ThinkerView",
+      "published_at": "2026-11-22 12:13",
+      "text": "https://www.youtube.com/watch?v=0pJhnQD0D24\n[Cite @le_Parisien] « Il est très pénible » : Cemil Sanli, ce journaliste militant qui sème la zizanie à l’Élysée https://l.leparisien.fr/z9IP",
+      "also_by": [
+        "Le Parisien",
+        "Le Parisien | politique"
+      ]
     },
     {
       "author_name": "Jean-Yves Le Gallou",
