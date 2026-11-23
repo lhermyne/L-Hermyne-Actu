@@ -1,25 +1,35 @@
 {
-  "updated_at": "2026-11-23 01:44",
+  "updated_at": "2026-11-23 02:14",
   "last_run": {
-    "run_at": "2026-11-23 01:44",
-    "run_at_utc": "2026-11-23T00:44:16.470Z",
+    "run_at": "2026-11-23 02:14",
+    "run_at_utc": "2026-11-23T01:14:22.106Z",
     "fetched": 93,
-    "new_tweets": 4,
-    "saturation": 0.04,
+    "new_tweets": 0,
+    "saturation": 0,
     "gap_detected": false,
     "gap_minutes": 0,
-    "message": "Aucun trou détecté : 4 nouveaux tweets sur 93 récupérés."
+    "message": "Aucun trou détecté : 0 nouveaux tweets sur 93 récupérés."
   },
   "last_24h": {
-    "runs": 52,
+    "runs": 51,
     "runs_with_gap": 0,
     "total_gap": "0 min",
-    "new_tweets": 1201,
+    "new_tweets": 1200,
     "max_new_tweets_per_run": 55,
     "max_saturation": 0.63
   },
   "advice": "Fréquence suffisante : aucun trou sur les dernières 24 h.",
   "runs": [
+    {
+      "run_at": "2026-11-23 02:14",
+      "run_at_utc": "2026-11-23T01:14:22.106Z",
+      "fetched": 93,
+      "new_tweets": 0,
+      "saturation": 0,
+      "gap_detected": false,
+      "gap_minutes": 0,
+      "message": "Aucun trou détecté : 0 nouveaux tweets sur 93 récupérés."
+    },
     {
       "run_at": "2026-11-23 01:44",
       "run_at_utc": "2026-11-23T00:44:16.470Z",
@@ -3579,26 +3589,6 @@
       "gap_detected": false,
       "gap_minutes": 0,
       "message": "Aucun trou détecté : 7 nouveaux tweets sur 95 récupérés."
-    },
-    {
-      "run_at": "2026-11-16 01:57",
-      "run_at_utc": "2026-11-16T00:57:41.646Z",
-      "fetched": 95,
-      "new_tweets": 0,
-      "saturation": 0,
-      "gap_detected": false,
-      "gap_minutes": 0,
-      "message": "Aucun trou détecté : 0 nouveaux tweets sur 95 récupérés."
-    },
-    {
-      "run_at": "2026-11-16 01:48",
-      "run_at_utc": "2026-11-16T00:48:16.298Z",
-      "fetched": 95,
-      "new_tweets": 3,
-      "saturation": 0.03,
-      "gap_detected": false,
-      "gap_minutes": 0,
-      "message": "Aucun trou détecté : 3 nouveaux tweets sur 95 récupérés."
     }
   ]
 }
