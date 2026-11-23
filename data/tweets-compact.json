@@ -1,13 +1,13 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-23 13:49",
-  "period": "du 2026-11-22 13:49 au 2026-11-23 13:49",
-  "new_period": "du 2026-11-23 08:00 au 2026-11-23 13:49",
-  "context_period": "du 2026-11-22 13:49 au 2026-11-23 08:00",
+  "generated_at": "2026-11-23 14:20",
+  "period": "du 2026-11-22 14:20 au 2026-11-23 14:20",
+  "new_period": "du 2026-11-23 08:00 au 2026-11-23 14:20",
+  "context_period": "du 2026-11-22 14:20 au 2026-11-23 08:00",
   "coverage_complete": true,
-  "new_count": 579,
-  "context_count": 704,
+  "new_count": 623,
+  "context_count": 669,
   "duplicates_merged": 102,
   "empty_removed": 4,
   "new": [
@@ -333,7 +333,10 @@
     {
       "author_name": "Sarah Knafo",
       "published_at": "2026-11-23 08:37",
-      "text": "Le nom d'Éric Zemmour est devenu un symbole. S'il est dans la primaire, c'est une primaire de la droite. S'il n'y est pas, c'est la primaire du bloc central.\n\nEt chacun comprendra que le candidat de la droite, c'est celui de Reconquête."
+      "text": "Le nom d'Éric Zemmour est devenu un symbole. S'il est dans la primaire, c'est une primaire de la droite. S'il n'y est pas, c'est la primaire du bloc central.\n\nEt chacun comprendra que le candidat de la droite, c'est celui de Reconquête.",
+      "also_by": [
+        "RECONQUÊTE !"
+      ]
     },
     {
       "author_name": "Cercle Aristote",
@@ -706,7 +709,10 @@
     {
       "author_name": "Sarah Knafo",
       "published_at": "2026-11-23 09:23",
-      "text": "Je me suis fixé un objectif personnel dans cette campagne, tout faire pour empêcher l'arrivée au pouvoir de Jean-Luc Mélenchon."
+      "text": "Je me suis fixé un objectif personnel dans cette campagne, tout faire pour empêcher l'arrivée au pouvoir de Jean-Luc Mélenchon.",
+      "also_by": [
+        "RECONQUÊTE !"
+      ]
     },
     {
       "author_name": "Sud Radio",
@@ -1202,7 +1208,10 @@
     {
       "author_name": "Sarah Knafo",
       "published_at": "2026-11-23 10:34",
-      "text": "📺 « Je demande à M. Lecornu le coût des aides sociales aux étrangers ! »\n\nJ’étais l’invitée de la matinale de RTL. Regardez mon entretien complet. ⤵️\n\nhttps://youtu.be/UaiZRoBl4Ao?si=HO9Hb4UZPenMSPHV"
+      "text": "📺 « Je demande à M. Lecornu le coût des aides sociales aux étrangers ! »\n\nJ’étais l’invitée de la matinale de RTL. Regardez mon entretien complet. ⤵️\n\nhttps://youtu.be/UaiZRoBl4Ao?si=HO9Hb4UZPenMSPHV",
+      "also_by": [
+        "RECONQUÊTE !"
+      ]
     },
     {
       "author_name": "Le JDD",
@@ -1310,7 +1319,10 @@
     {
       "author_name": "Eric Zemmour",
       "published_at": "2026-11-23 10:51",
-      "text": "Je veux vous rendre votre liberté de parler, votre liberté de posséder et aussi votre liberté de dépenser.\n\nUn pays où personne ne sait où va l'argent n'est pas un pays libre. Un pays où l'on travaille pour l'État dès le 16 de chaque mois n'est pas un pays libre. Le pays le plus"
+      "text": "Je veux vous rendre votre liberté de parler, votre liberté de posséder et aussi votre liberté de dépenser.\n\nUn pays où personne ne sait où va l'argent n'est pas un pays libre. Un pays où l'on travaille pour l'État dès le 16 de chaque mois n'est pas un pays libre. Le pays le plus",
+      "also_by": [
+        "RECONQUÊTE !"
+      ]
     },
     {
       "author_name": "Thaïs d’Escufon",
@@ -2347,7 +2359,10 @@
     {
       "author_name": "Eric Zemmour",
       "published_at": "2026-11-23 12:34",
-      "text": "📺 Nous supprimerons l’Arcom !"
+      "text": "📺 Nous supprimerons l’Arcom !",
+      "also_by": [
+        "RECONQUÊTE !"
+      ]
     },
     {
       "author_name": "Le Parisien",
@@ -2960,7 +2975,10 @@
     {
       "author_name": "Le Parisien | politique",
       "published_at": "2026-11-23 13:47",
-      "text": "« Mon souvenir de cette polémique ? Surjouée » : Marine Tondelier revient sur le « tollé » né de sa réponse sur Pompidou https://l.leparisien.fr/BNwG"
+      "text": "« Mon souvenir de cette polémique ? Surjouée » : Marine Tondelier revient sur le « tollé » né de sa réponse sur Pompidou https://l.leparisien.fr/BNwG",
+      "also_by": [
+        "Le Parisien"
+      ]
     },
     {
       "author_name": "Clément Macchi",
@@ -2981,211 +2999,235 @@
       "author_name": "Valeurs actuelles",
       "published_at": "2026-11-23 13:50",
       "text": "🗞️ CHRONIQUE. Jean-Luc Mélenchon juge que la conception actuelle de la propriété « n’est plus supportable ». https://l.valeursactuelles.com/cFU"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-22 13:49",
-      "text": "L'hiver pointe-t-il le bout de son nez ? ➡️ https://mrf.lu/2BSL-"
-    },
-    {
-      "author_name": "Marine Le Pen",
-      "published_at": "2026-11-22 13:50",
-      "text": "Notre réforme, c’est entre 40 et 42 annuités de cotisation. À compter du 1er janvier 2028, avec la réforme Borne, ce sera 64 ans et 43 années de cotisation.\n\nNotre réforme des retraites est plus juste pour les Français.",
-      "also_by": [
-        "Rassemblement National"
-      ]
-    },
-    {
-      "author_name": "Marine Le Pen",
-      "published_at": "2026-11-22 13:51",
-      "text": "Nous allons mettre en place des charges supplémentaires sur les temps partiels en dessous du mi-temps, afin d'obliger les entreprises à offrir des mi-temps plutôt que des tiers-temps.\n\nC'est une mesure qui permettra d’éviter les temps partiels subis.",
-      "also_by": [
-        "Rassemblement National"
-      ]
-    },
-    {
-      "author_name": "Marine Le Pen",
-      "published_at": "2026-11-22 13:53",
-      "text": "Ceux qui ont commencé à travailler avant 20 ans occupent généralement des métiers manuels difficiles. Il est normal qu’après une carrière complète, ils partent à 60 ans.\n\nAujourd’hui, celui qui commence plus tard cotise moins que celui qui commence plus tôt. C’est profondément",
-      "also_by": [
-        "Rassemblement National"
-      ]
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-22 13:53",
-      "text": "🔵EXCLUSIF | Les confidences cash de Marine avant la sortie de son deuxième album\n➡️ https://l.leparisien.fr/bOin"
+      "published_at": "2026-11-23 13:50",
+      "text": "« Voilà un projet qui fait du bien ! » : à Castres, le salon de thé sauvé de la fermeture\n➡️ https://l.leparisien.fr/8mW5"
     },
     {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-22 13:55",
-      "text": "Une association qui fait de la politique, c’est un parti politique. Elle ne peut pas être financée par les impôts des Français.\n\nAvec nous, les subventions iront aux associations qui servent nos territoires, pas aux chasseuses de subventions militantes."
-    },
-    {
-      "author_name": "Alain Weber",
-      "published_at": "2026-11-22 13:56",
-      "text": "Ses soutiens, et elle-même dans ses interventions, avancent une lecture différente :\n\n- **Un critère de nationalité et de statut, pas de race :** selon cette lecture, ses propositions portent sur les étrangers en situation irrégulière, les délinquants étrangers ou l'accès aux\n[Cite @alainpaulweber] @marcmor29185715 L’avis de Meta : La réponse dépend de la définition que l'on prend, parce que les deux mots ont un sens strict et un usage beaucoup plus large dans le débat public.\n\n## Ce que recouvrent les mots au sens littéral\n\n**Racisme, sens strict :** une idéologie qui part du postulat de"
-    },
-    {
-      "author_name": "Marine Le Pen",
-      "published_at": "2026-11-22 13:56",
-      "text": "Dès le premier enfant et dans les dix années qui suivent, une femme perd 39 % de ses revenus. On ne retrouve pas cela chez les pères.\n\nNous passerons la majoration pour les mères de famille de 10 % à 12 % pour compenser ce qu'elles perdent lors de leur carrière, du fait d'avoir",
-      "also_by": [
-        "Rassemblement National"
-      ]
+      "author_name": "ThinkerView",
+      "published_at": "2026-11-23 13:51",
+      "text": "[Retweet de @moi2626] Qu'est devenue cette enfant qui avait déjà tout compris à l'époque ?"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-22 13:57",
-      "text": "Marine Le Pen dit n’avoir «jamais reçu d’information confidentielle» du préfet Hugues Moutouh\n➡️ https://l.leparisien.fr/xXGZ"
+      "published_at": "2026-11-23 13:53",
+      "text": "« Joue-la comme Manaudou » sur l’Équipe TV : c’est quoi ce nouveau programme avec Florent et Laure ?\n➡️ https://l.leparisien.fr/Vzvk"
     },
     {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-22 13:58",
-      "text": "La flambée des prix de l’énergie pèse lourdement sur les familles comme sur nos petits commerces.\n\n@MLP_officiel ramènera la TVA de 20 % à 5,5 % sur le fioul, l’électricité, le gaz et les carburants, pour redonner une bouffée d’oxygène à tous les Français, salariés comme"
+      "author_name": "Occidentis",
+      "published_at": "2026-11-23 13:54",
+      "text": "🚨 Le Kremlin met en garde contre une ESCALADE après l’attaque d'un cargo russe frappé par l’Ukraine samedi dernier en mer Baltique. (AFP)"
     },
     {
-      "author_name": "Marine Le Pen",
-      "published_at": "2026-11-22 13:58",
-      "text": "Avec notre réforme, les mères de famille gagnent entre un an et deux ans et demi de cotisation, et elles pourront partir plus tôt.\n\nAvec la réforme Borne, les huit trimestres accordés ne servent à rien. Avec nous, ils serviront aux mères à partir plus tôt.",
-      "also_by": [
-        "Rassemblement National"
-      ]
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-22 14:00",
-      "text": "🎙️ Dans #CestExcellent, @judith_beller reçoit @alexgoude, auteur et metteur en scène, qui présente actuellement quatre spectacles à l’Apollo Théâtre et David Rathgeber, chef étoilé Michelin à la tête du restaurant L’Assiette à Paris\n\n📻 À suivre sur https://sudradio.fr"
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-22 14:01",
-      "text": "COP31 : l'Union européenne s'oppose à l'adoption de la décision finale qui «ne répond pas aux exigences du moment» → https://l.lefigaro.fr/Wny6"
-    },
-    {
-      "author_name": "Valeurs actuelles",
-      "published_at": "2026-11-22 14:01",
-      "text": "🗞️ Trois ans après l’exode forcé de 120 000 Arméniens du Haut-Karabagh, leur sort reste largement absent du débat public. Réunis à l’Assemblée nationale le 16 novembre, responsables politiques et acteurs associatifs ont appelé la France à faire de leur r… https://l.valeursactuelles.com/aoS"
-    },
-    {
-      "author_name": "Marine Le Pen",
-      "published_at": "2026-11-22 14:01",
-      "text": "Le pilier de capitalisation, c’est un formidable progrès social : l’ensemble des travailleurs vont pouvoir bénéficier d’une retraite complémentaire sans avoir à cotiser plus.\n\nJe ne souhaite pas mettre fin à notre système par répartition, sinon nous devrons augmenter les",
-      "also_by": [
-        "Rassemblement National"
-      ]
-    },
-    {
-      "author_name": "Marine Le Pen",
-      "published_at": "2026-11-22 14:02",
-      "text": "Pour un salaire moyen, un jeune qui commence à travailler aujourd’hui touchera à la fin de sa carrière 80 000 euros de capital.\n\nCe pilier de capitalisation, nous l’avons construit de manière intelligente. Personne n’en sera victime, tout le monde en sera bénéficiaire.",
-      "also_by": [
-        "Rassemblement National"
-      ]
-    },
-    {
-      "author_name": "Causeur.fr",
-      "published_at": "2026-11-22 14:03",
-      "text": "📚 Monsieur Nostalgie est un homme prévoyant, il anticipe les cadeaux de Noël. Un mois avant la fatidique échéance, il vous propose une sélection de livres à mettre sous le sapin. Il y aura de l’anglomanie, de la noblesse, du travail dans les vignes et des dessins inspirés…"
-    },
-    {
-      "author_name": "TVL",
-      "published_at": "2026-11-22 14:04",
-      "text": "🎙️« En acceptant de se rendre au sommet de l'APEC, Donald Trump, d'une certaine manière, se rend chez son adversaire. C'est le président chinois qui joue à domicile »\n\nJacques Sapir sur TVL🔻\nhttps://youtu.be/bjKgStMTB_Y"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-22 14:04",
-      "text": "« Aucun luthier n’a réussi à atteindre une telle précision » : la guitare mythique de Django Reinhardt ressuscitée par Selmer\n➡️ https://l.leparisien.fr/or07"
-    },
-    {
-      "author_name": "Marine Le Pen",
-      "published_at": "2026-11-22 14:04",
-      "text": "Supprimer les subventions des associations qui font de la politique, ce n’est pas du chantage. C’est un principe de respect envers ce que versent les Français au budget de l’État.\n\nLes associations qui font de la politique, ça s’appelle des partis politiques.",
-      "also_by": [
-        "Rassemblement National"
-      ]
-    },
-    {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-22 14:05",
-      "text": "Le combattant russe Amir Aliev a été interpellé le 20 novembre à l'Adidas Arena à Paris juste après une victoire à l'ARES 45, dans le cadre d'une plainte pour viol présumé à Montreuil.  https://www.fdesouche.com/2026/11/22/paris-75-le-combattant-de-mma-amir-aliev-interpelle-apres-sa-victoire-a-lares/"
-    },
-    {
-      "author_name": "Ministère des Armées et des Anciens combattants",
-      "published_at": "2026-11-22 14:05",
-      "text": "[Retweet de @EtatMajorFR] Exercice KOALICJA de la Force Multinationale - Ukraine (MNF-U) : les 2 800 militaires participants sont en 🇵🇱 et s'entraînent ensemble sur le terrain.\n \nRéunissant 11 nations, KOALICJA 26.2 entraîne la MNF-U à déployer ses moyens interarmées de manière rapide, coordonnée et"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-22 14:06",
-      "text": "La mission BepiColombo est entrée dans l'orbite de Mercure après huit ans de voyage https://ow.ly/OtBW106Jo5h"
-    },
-    {
-      "author_name": "Thaïs d’Escufon",
-      "published_at": "2026-11-22 14:06",
-      "text": "[Retweet de @Pirata1716601] Serio, tenemos que empezar a ignorar el llanto femenino por un par de decadas o nos vamos a suicidar todos por esa estúpida empatia que casualmente solo beneficia a chorros, violadores y asesinos."
-    },
-    {
-      "author_name": "Le Point",
-      "published_at": "2026-11-22 14:07",
-      "text": "Calendriers de l’Avent 2026 : notre sélection de 9 pépites pour patienter jusqu’à Noël\n\nPar @hugo25phalle https://l.lepoint.fr/bSX"
-    },
-    {
-      "author_name": "Marine Le Pen",
-      "published_at": "2026-11-22 14:07",
-      "text": "Aujourd'hui, de nombreuses petites associations, qui font du lien social dans les territoires ne bénéficient que très peu des subventions parce qu'elles sont captées par des associations qui font de la politique.\n\nIl faut que les règles soient justes pour tout le monde.",
-      "also_by": [
-        "Rassemblement National"
-      ]
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-22 14:09",
-      "text": "[Retweet de @MLP_officiel] En l'état, notre système de retraites n’est pas soutenable.\n\nNous permettrons aux Français de pouvoir partir plus tôt, avec un âge d'ouverture des droits entre 60 et 62 ans, mais pour cela, nous devons augmenter le taux d'activité en France, qui est de huit points inférieur à"
-    },
-    {
-      "author_name": "Marine Le Pen",
-      "published_at": "2026-11-22 14:09",
-      "text": "Si le Planning familial considère qu’il a un rôle absolument essentiel à jouer auprès de milliers de jeunes filles, qu'il arrête de faire de la politique.\n\nLa règle sera pour tout le monde : si vous réclamez des subventions publiques, vous ne faites pas de politique."
-    },
-    {
-      "author_name": "Ni Oubli Ni Pardon",
-      "published_at": "2026-11-22 14:10",
-      "text": "03/2020 La ville de Lyon a fermé « jusqu'à nouvel ordre » l'ensemble de ses parcs, jardins publics et aires de jeux, dont le parc de la Tête d'Or et ses 117 hectares, le parc Gerland et le parc Blandan, au premier jour du confinement. Le week-end précédent, des dizaines de"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-22 14:13",
-      "text": "Une salariée démissionnaire avait refusé une mission à l’étranger pendant son préavis : la justice lui donne raison\n➡️ https://l.leparisien.fr/38oY"
-    },
-    {
-      "author_name": "Marine Le Pen",
-      "published_at": "2026-11-22 14:13",
-      "text": "La France a déjà versé six milliards d’euros par an à l’Ukraine, sans compter le prêt sur lequel elle s'est engagée auprès de l'Union européenne. \n\nJ’ai réitéré auprès de l’ambassadeur d’Ukraine le souhait de continuer l’aide humanitaire et la formation de soldats ukrainiens,"
+      "author_name": "ThinkerView",
+      "published_at": "2026-11-23 13:56",
+      "text": "[Retweet de @Gendarmerie] #Arnaque🚨 Faux courrier de l’Urssaf : des entreprises sont ciblées par une arnaque réclamant 2 376 € au titre de l’OETH/DOETH 2027.\n⚠️ Ne vous fiez pas aux apparences ! Ne procédez à aucun virement sans avoir vérifié la demande directement auprès de l’Urssaf."
     },
     {
       "author_name": "Kroc Blanc",
-      "published_at": "2026-11-22 14:14",
-      "text": "[Retweet de @Angel_Paradize] La Corse est fière de vous faire voir la Vierge réparée ✨🕯️🇫🇷🏴‍☠️\n​Notre Vierge restaurée brille à nouveau en Corse ! ✨🙏🕯️"
+      "published_at": "2026-11-23 13:56",
+      "text": "Même les macronistes au sein de l'assemblée nationale, responsables de la situation actuelle du pays, se plaignent de la bordelification du Frankistan.\n[Cite @YaelBRAUNPIVET] C’est inacceptable. L’hémicycle est un lieu sacré de notre démocratie. La parole qui s’y exprime tient sa légitimité du mandat confié par les Français ou des institutions de la République.\n\nAucun visiteur n’a le droit de s’approprier l’hémicycle pour y tourner une vidéo et en"
     },
     {
-      "author_name": "Marine Le Pen",
-      "published_at": "2026-11-22 14:15",
-      "text": "David Lisnard a sollicité d’entrer dans le gouvernement de Michel Barnier, avec le président Emmanuel Macron. Je le crois très souple dans ses ambitions.\n\nS'il faut alléger les normes et engager la simplification de l'économie, je considère en revanche qu'on ne peut pas passer le"
+      "author_name": "Le Média en 4⃣-4⃣-2⃣",
+      "published_at": "2026-11-23 13:57",
+      "text": "À Porto-Vecchio, la statue de la Vierge Marie de nouveau dégradée au lendemain de sa réinstallation \nhttps://lemediaen442.fr/a-porto-vecchio-la-statue-de-la-vierge-marie-de-nouveau-degradee-au-lendemain-de-sa-reinstallation/ \n\nPrès d’un millier de personnes ont assisté samedi 21 novembre au retour de la statue de la Vierge Marie sur le rond-point du Stabiacciu. Elle avait été"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-23 13:57",
+      "text": "🔵 Présidentielle 2027 : Glucksmann, Pécresse, Payan… Les appels à changer la date du second tour prévu le dimanche 2 mai se multiplient\n➡️ https://l.leparisien.fr/dYkU",
+      "also_by": [
+        "Le Parisien | politique"
+      ]
+    },
+    {
+      "author_name": "Clément Macchi",
+      "published_at": "2026-11-23 13:57",
+      "text": "Ce qui me fait rire, c’est que ce meeting était prévu depuis longtemps pour aller chasser sur les terres de Philippe qui était perçu, à l’heure de l’organisation, comme son seul et principal adversaire pour la qualification au second tour. Il se retrouve désormais à lui mettre 9\n[Cite @JLMelenchon] 🔴️️️️ Le samedi 5 décembre, rendez-vous à 15h pour le meeting de Jean-Luc Mélenchon au Havre !\n\n👉️️ Retrouvez toutes les informations sur : https://actionpopulaire.fr/evenements/4bee6511-ca5c-4b6f-91e4-106df23fcb51/\n\n⏩️️️️️️️ Le direct sur Youtube : https://youtube.com/live/G_SLHQgnbGk"
+    },
+    {
+      "author_name": "Eric Zemmour",
+      "published_at": "2026-11-23 13:58",
+      "text": "Vous avez vu comment Sarah a répliqué à Mélenchon sur la propriété ? \n\nÇa lui a fait tout drôle ! Il est plus habitué à discuter avec Mathilde Panot qu'avec Sarah Knafo.\n\nPasser de Panot à Knafo, forcément, ça fait un choc !"
+    },
+    {
+      "author_name": "ThinkerView",
+      "published_at": "2026-11-23 13:58",
+      "text": "[Retweet de @BFMTV] Cédric Herrou interpellé et placé en garde à vue pour \"provocation publique et directe\"\nhttps://l.bfmtv.com/Hl3o"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-22 14:17",
-      "text": "[Retweet de @CNEWS_Sport] «Il n’avait pas besoin de faire ça» https://mrf.lu/2BSPY"
+      "published_at": "2026-11-23 13:58",
+      "text": "«Un cocktail molotov allumé sur une personne dépositaire de l'autorité publique, c'est 12 mois avec sursis. Tant qu'on continue sur cette voie, l'impunité prospèrera», déplore Stanislas Gaudon d'Alliance Police dans #PoliceJustice24H"
     },
     {
-      "author_name": "Marine Le Pen",
-      "published_at": "2026-11-22 14:18",
-      "text": "Nous sommes les seuls à avoir demandé, le 5 novembre, qu’on réunisse le Congrès pour faire voter une règle d’or, maintenant, pas en attendant la prochaine présidentielle.\n\nJe suis ravie qu’Emmanuel Macron nous ait entendus, mais nous souhaitons savoir quels seraient les contours"
+      "author_name": "Ligne Droite • La matinale de RC",
+      "published_at": "2026-11-23 14:00",
+      "text": "🤜 Pacte rompu avec l'État : les Français passent à \"l'autodéfense totale\"\n🗣️ @LierdeXavier, journaliste pour Radio Courtoisie\nEntretien complet :\n👉 https://youtu.be/VNlfF5_hTcQ\n🎙️ Avec @Liselotte_Dtrl sur @radiocourtoisie"
     },
+    {
+      "author_name": "RECONQUÊTE !",
+      "published_at": "2026-11-23 14:00",
+      "text": "[Retweet de @knafo_sarah] Mélenchon veut créer une police du logement. Des inspecteurs qui entrent chez vous pour vous contrôler !\n\nImaginez que Mathilde Panot sonne à votre porte. Déjà, ça fait peur !\n\nDerrière elle, Manon Aubry relève le compteur de votre frigo, Danièle Obono épluche les factures de vos"
+    },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-23 14:00",
+      "text": "«On n’est pas dans GTA VI».→https://l.lefigaro.fr/H35N"
+    },
+    {
+      "author_name": "RECONQUÊTE !",
+      "published_at": "2026-11-23 14:00",
+      "text": "[Retweet de @knafo_sarah] Il existe en France un propriétaire qui n'a rien à craindre de Jean-Luc Mélenchon. Il s'appelle Jean-Luc Mélenchon.\n\nUn appartement de 110 m² en plein Paris, une maison dans le Loiret, une retraite par capitalisation. La collectivisation, c'est pour vous. La propriété, c'est pour"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-23 14:01",
+      "text": "Présidentielle 2027 : Génération.s, le parti fondé par Benoît Hamon, annonce soutenir la candidature de Jean-Luc Mélenchon\n➡️ https://l.leparisien.fr/yIf9"
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-23 14:02",
+      "text": "Présidentielle 2027 : Génération.s, le parti fondé par Benoît Hamon, annonce soutenir la candidature de Jean-Luc Mélenchon https://l.leparisien.fr/uUxF"
+    },
+    {
+      "author_name": "VA+",
+      "published_at": "2026-11-23 14:03",
+      "text": "🔴 « Il faut aussi en finir avec les mesures racistes [...] comme l'interdiction de l'abaya et la loi de 2004 sur le port du voile. »\n\nLors d'un meeting de Révolution Permanente, Nawel, lycéenne en Seine-Saint-Denis, réclame la fin de ces interdictions à l'école."
+    },
+    {
+      "author_name": "Agence France-Presse",
+      "published_at": "2026-11-23 14:03",
+      "text": "🇬🇧🎤 Royaume-Uni : des milliers de personnes ont été évacuées dimanche soir d'un concert du rappeur américain Don Toliver à Manchester, après la dispersion d'une \"substance inconnue\" dans la foule qui a entraîné des effets indésirables chez des spectateurs.\n\n➡️"
+    },
+    {
+      "author_name": "MARSAULT",
+      "published_at": "2026-11-23 14:03",
+      "text": "Histoire de voir ce que ça donnait, j’ai peint un Eugène. J’ai utilisé des peintures délicates spécifiques à l’univers artistique, mais ça ne fonctionnait pas. Puis j’ai trouvé une peinture industrielle, et je vous présente le Eugène Édition Noire.\nhttps://editionsmagnus.fr/products/eugene-edition-noire ➡️"
+    },
+    {
+      "author_name": "Observatoire du journalisme (Ojim)",
+      "published_at": "2026-11-23 14:03",
+      "text": "🚨Énorme désinformation de FranceInfo : le service public présente Azelma Signaux comme \"co porte-parole des Gilets jaunes\". \n\nElle est en réalité porte-parole d’un groupe de 236 abonnés sur X, ancienne candidate pour la NUPES et  membre du parti d’Aymeric Caron."
+    },
+    {
+      "author_name": "L'Express",
+      "published_at": "2026-11-23 14:03",
+      "text": "L'idée nourrit depuis des mois les débats entre les candidats à la présidentielle. Mais avancer la date suppose de respecter un cadre constitutionnel particulièrement rigide.\n\n➡️ https://l.lexpress.fr/bX3"
+    },
+    {
+      "author_name": "Le Jarl",
+      "published_at": "2026-11-23 14:03",
+      "text": "Finalement, ce sont les gendarmes qui sont allés chercher Cédric Herrou chez lui. Il a été placé en garde à vue. Mais rassurez-vous, je parie que la justice saura faire preuve de clémence. Il est LFI, après tout…"
+    },
+    {
+      "author_name": "TVL",
+      "published_at": "2026-11-23 14:04",
+      "text": "🎥 Mali, Burkina Faso, Niger, Tchad, Sénégal : depuis 2022, cinq pays africains ont mis l'armée française à la porte. Comment la France a-t-elle perdu l'Afrique ? @LeSommierRgis, directeur de la rédaction d'@Omerta_officiel, présente le 4e hors-série du magazine.\n\nLe ZOOM sur TVL"
+    },
+    {
+      "author_name": "Aldo Sterone",
+      "published_at": "2026-11-23 14:04",
+      "text": "Beaucoup de gens ne réalisent pas la relation littérale entre l'intelligence artificielle et la troisième guerre mondiale.\n\nTous ces jeunes qui n'ont plus de travail à cause de l'IA, tu en fais quoi ?"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-23 14:04",
+      "text": "Les ventes de produits premier prix en hausse : Michel-Édouard Leclerc constate «un appauvrissement d’une partie de la population»\n➡️ https://l.leparisien.fr/6ald"
+    },
+    {
+      "author_name": "Frontières",
+      "published_at": "2026-11-23 14:05",
+      "text": "« Parce que Bardella, Le Pen, Zemmour et les autres ne vont pas disparaître en mai prochain. Les groupes néo-nazis, non plus. La police radicalisée, non plus. Vous le savez déjà, l’affrontement avec ce système est inévitable »\n\nLes propos d’Anasse Kazib en lancement de campagne."
+    },
+    {
+      "author_name": "Causeur.fr",
+      "published_at": "2026-11-23 14:05",
+      "text": "🥊 \"Rocky est sans doute le meilleur antidote contre toute velléité de voter à gauche...\"\n\nhttps://www.causeur.fr/rocky-le-symbole-de-l-amerique-50-ans-saga-rocky-sylvester-stallone-337851"
+    },
+    {
+      "author_name": "Valeurs actuelles",
+      "published_at": "2026-11-23 14:06",
+      "text": "🗞️ Lors d'un débat télévisé dimanche 22 novembre, Ségolène Royal est revenue sur la possibilité du Rassemblement National d'accéder au pouvoir en 2027.\nhttps://l.valeursactuelles.com/4aX"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-23 14:06",
+      "text": "« Bien plus qu’un simple concours de beauté » : la Russie organise l’improbable élection de « Miss Gardienne de prison »\n➡️ https://l.leparisien.fr/GgUw",
+      "also_by": [
+        "Le Parisien | politique"
+      ]
+    },
+    {
+      "author_name": "Comité Trump France",
+      "published_at": "2026-11-23 14:07",
+      "text": "[Retweet de @vivien_hoch] À science-po, il est désormais suspect d'avoir une culture personnelle. \n\nL'endoformation culturelle, qui se cultive à travers les heures personnelles passées à lire, écrire, penser, méditer, discuter, tout ce qui relève de la manducation spirituelle, ne peut plus être invoquée"
+    },
+    {
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-23 14:09",
+      "text": "[Retweet de @BVoltaire] Macron bouge encore : il veut convoquer le Congrès pour la règle d'or budgétaire | Par  @FredericSirgant\nMarine Le Pen l'avait proposée début octobre. Un moyen d'éviter une crise financière dans les prochains mois ? \n \nhttps://www.bvoltaire.fr/macron-bouge-encore-il-veut-convoquer-le-congres-pour-la-regle-dor-budgetaire/"
+    },
+    {
+      "author_name": "Occidentis",
+      "published_at": "2026-11-23 14:10",
+      "text": "🚨⚡️ Le procureur de Marseille, Nicolas Bessone, affirme qu’« il y avait pas mal de personnes ÉTRANGÈRES en situation IRRÉGULIÈRE » lors des violences du 17 octobre, estimant que cela correspond à « l’image de la sociologie de Marseille »."
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-23 14:10",
+      "text": "Des ados volent une pelleteuse et sèment le chaos près de Toulouse\n➡️ https://l.leparisien.fr/9Fbb"
+    },
+    {
+      "author_name": "Jean-Yves Le Gallou",
+      "published_at": "2026-11-23 14:12",
+      "text": "[Retweet de @Bousquet_FR] C'est mieux que ça : en 2005, Le Monde relayait une pétition contre les \"ratonnades anti-Blancs\", signée par Bernard Kouchner, Alain Kinkielkraut, Jacques Julliard, etc. Après que 1000 jeunes de banlieue avaient fondu sur des lycéens blancs lors des manifs contre la loi Fillon."
+    },
+    {
+      "author_name": "Alain Weber",
+      "published_at": "2026-11-23 14:13",
+      "text": "L’avantage avec les députés de la France Insoumise, est qu’ils sont tellement peu pourvus en neurones, qu’ils fournissent les bâtons pour se faire battre !\n\nAujourd’hui Benjamin Lucas, surnommé \"simplet\" par ses collègues, parle de délation et de collaboration pour Sébastien"
+    },
+    {
+      "author_name": "Jordan Bardella",
+      "published_at": "2026-11-23 14:13",
+      "text": "Je serai aujourd’hui à 19h30 l’invité de @SoMabrouk dans #100Mabrouk sur @BFMTV."
+    },
+    {
+      "author_name": "Tocsin",
+      "published_at": "2026-11-23 14:14",
+      "text": "🎙️ « Mettez votre épargne dans des biens qui ne sont pas saisissables » les conseils de Gégé du Bunker\n\n🔗 https://youtu.be/dBzHaL5Jcbs\n\n🗣️ @LeBunkerBtc"
+    },
+    {
+      "author_name": "Tocsin",
+      "published_at": "2026-11-23 14:15",
+      "text": "💥« Un juge censé protéger votre domicile autorise n’importe qui, en plus cagoulé, à entrer chez vous ! On est passé dans un autre régime ! »\n\n⚠️ « En 2025, la Cour de cassation dit que, s’il y a des fonctionnaires qui ne sont pas autorisés par le listing et qui entrent sur les"
+    },
+    {
+      "author_name": "Nicolas Dupont-Aignan",
+      "published_at": "2026-11-23 14:17",
+      "text": "La France devient-elle un pays où il ne fait plus bon investir ? Le constat du Telegraph sur les difficultés des entreprises britanniques à se développer chez nous devrait nous alerter.\n\nCommerces pillés, coûts de protection en hausse, fiscalité pénalisante : les entreprises font"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-23 14:18",
+      "text": "Emmanuel Macron menace de ne pas signer, alors que Friedrich Merz conditionne tout à l’Ukraine. Un jeu de poker menteur sur le budget européen qui va durer jusqu’en décembre.\n\n🖋️ L'ÉDITO de @Eberretta\n➡️ https://l.lepoint.fr/gR6"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-23 14:19",
+      "text": "L’un des plus importants exercices militaires jamais réalisé par l’armée allemande : Berlin effectue ses premiers essais de drones kamikazes\n➡️ https://l.leparisien.fr/OsaR"
+    },
+    {
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-23 14:19",
+      "text": "Cléon (76) : un père et ses deux fils interpellés dans un camp de gens du voyage après le déraillement du TER Rouen–Caen qui avait fait 44 blessés (MàJ)  https://www.fdesouche.com/2026/11/23/un-train-deraille-en-normandie-44-blesses-et-une-jeune-femme-de-18-ans-en-urgence-absolue-les-premiers-elements-de-lenquete-privilegient-lhypothese-dun-objet-non-identifie-percute-sur-la-voie/"
+    }
+  ],
+  "context": [
     {
       "author_name": "Marine Le Pen",
       "published_at": "2026-11-22 14:21",
