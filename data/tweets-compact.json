@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-23 14:50",
-  "period": "du 2026-11-22 14:50 au 2026-11-23 14:50",
-  "new_period": "du 2026-11-23 08:00 au 2026-11-23 14:50",
-  "context_period": "du 2026-11-22 14:50 au 2026-11-23 08:00",
+  "generated_at": "2026-11-23 15:20",
+  "period": "du 2026-11-22 15:20 au 2026-11-23 15:20",
+  "new_period": "du 2026-11-23 08:00 au 2026-11-23 15:20",
+  "context_period": "du 2026-11-22 15:20 au 2026-11-23 08:00",
   "coverage_complete": true,
-  "new_count": 662,
-  "context_count": 635,
-  "duplicates_merged": 101,
+  "new_count": 704,
+  "context_count": 592,
+  "duplicates_merged": 104,
   "empty_removed": 5,
   "new": [
     {
@@ -1678,7 +1678,10 @@
     {
       "author_name": "Le Figaro Culture",
       "published_at": "2026-11-23 11:30",
-      "text": "Guy Marchand, compagnon de route de la DGSE ? →https://l.lefigaro.fr/4eUk"
+      "text": "Guy Marchand, compagnon de route de la DGSE ? →https://l.lefigaro.fr/4eUk",
+      "also_by": [
+        "Le Figaro"
+      ]
     },
     {
       "author_name": "Le Figaro",
@@ -3129,7 +3132,10 @@
     {
       "author_name": "TVL",
       "published_at": "2026-11-23 14:04",
-      "text": "🎥 Mali, Burkina Faso, Niger, Tchad, Sénégal : depuis 2022, cinq pays africains ont mis l'armée française à la porte. Comment la France a-t-elle perdu l'Afrique ? @LeSommierRgis, directeur de la rédaction d'@Omerta_officiel, présente le 4e hors-série du magazine.\n\nLe ZOOM sur TVL"
+      "text": "🎥 Mali, Burkina Faso, Niger, Tchad, Sénégal : depuis 2022, cinq pays africains ont mis l'armée française à la porte. Comment la France a-t-elle perdu l'Afrique ? @LeSommierRgis, directeur de la rédaction d'@Omerta_officiel, présente le 4e hors-série du magazine.\n\nLe ZOOM sur TVL",
+      "also_by": [
+        "Régis Le Sommier"
+      ]
     },
     {
       "author_name": "Aldo Sterone",
@@ -3426,229 +3432,222 @@
       "author_name": "Fdesouche.com est une revue de presse",
       "published_at": "2026-11-23 14:46",
       "text": "Marine Le Pen persiste : le Planning familial privé de subventions s’il continue d’appeler à voter contre le RN (MàJ)\n https://www.fdesouche.com/2026/11/23/marine-le-pen-la-ligue-des-droits-de-lhomme-cest-devenu-un-ramassis-de-gauchistes/"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-22 14:52",
-      "text": "💰\"L’IA ne conseille pas les opportunités\"\n\n🗣️Baptiste Bruneau (@CORUM_LEpargne) : \"Elle maîtrise les données du passé et recommande la même chose à tout le monde. Chez nous, on garde de la lucidité\" #LeNumeriquePourTous\n\n📻 https://www.sudradio.fr/"
-    },
-    {
-      "author_name": "Une Bonne Droite 👊🏻",
-      "published_at": "2026-11-22 14:52",
-      "text": "Ce qui est fascinant, c'est qu'on en soit arrivé à devoir expliquer une évidence pareille.\n\nL'argent public, c'est l'argent de TOUS les Français. Pas une petite cagnotte dans laquelle les gauchistes peuvent venir piocher pour financer leurs combats idéologiques.\n\nVous voulez\n[Cite @MLP_officiel] Si le Planning familial considère qu’il a un rôle absolument essentiel à jouer auprès de milliers de jeunes filles, qu'il arrête de faire de la politique.\n\nLa règle sera pour tout le monde : si vous réclamez des subventions publiques, vous ne faites pas de politique."
-    },
-    {
-      "author_name": "Valeurs actuelles",
-      "published_at": "2026-11-22 14:52",
-      "text": "[Retweet de @wdeguerpel] 🔴 Présidentielle 2027 : à Toulon, Éric Zemmour lance sa campagne dans l’ombre de Sarah Knafo - @Valeurs \nhttps://www.valeursactuelles.com/clubvaleurs/politique/presidentielle-2027-a-toulon-eric-zemmour-lance-sa-campagne-dans-lombre-de-sarah-knafo"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-22 14:53",
-      "text": "La situation reste préoccupante dans le Pas-de-Calais https://mrf.lu/2BmzY"
+      "published_at": "2026-11-23 14:50",
+      "text": "Environ 10.000 nouveaux cas chaque année en France. ➡️ https://mrf.lu/2BwlR"
     },
     {
-      "author_name": "Mila ✨",
-      "published_at": "2026-11-22 14:54",
-      "text": "[Retweet de @CerfiaFR] 🇫🇷⚖️ FLASH | Les analyses ont détecté de l'alcool, de la cocaïne et une dose toxique de méthadone dans le corps de Christophe M., le manifestant mort à Paris le 17 octobre.\n\nAucune trace du gaz lacrymogène n'a été retrouvée. (Radio France)"
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-23 14:50",
+      "text": "Présidentielle 2027 : la deuxième réunion en vue d’une primaire entre Lisnard, Retailleau et Attal reportée\n\nDésormais, tout est suspendu à l’initiative lancée par Gérard Larcher, qui souhaite réunir physiquement les trois élus avec Édouard Philippe.\nhttps://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-la-deuxieme-reunion-en-vue-d-une-primaire-entre-david-lisnard-bruno-retailleau-et-gabriel-attal-reportee-20261123"
     },
     {
-      "author_name": "Kroc Blanc",
-      "published_at": "2026-11-22 14:54",
-      "text": "[Retweet de @Vatp8f] Kroc Blanc n'en peut plus de la victimisation incessante des noirs."
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-22 14:54",
-      "text": "La situation «pas totalement stabilisée» après les crues dans le Pas-de-Calais, selon le préfet\n➡️ https://l.leparisien.fr/6alY"
-    },
-    {
-      "author_name": "Mila ✨",
-      "published_at": "2026-11-22 14:55",
-      "text": "[Retweet de @VincLapierre] Cette scène d’anthologie n’est pas une mise en scène. Cet Algérien est vraiment venu me dire que j’exagérais la dangerosité de Belleville avant de se faire brancher au bout de 3 secondes par un Tunisien sans papier. J’ai même dû le défendre mdr. Révélateur."
-    },
-    {
-      "author_name": "Mila ✨",
-      "published_at": "2026-11-22 14:55",
-      "text": "[Retweet de @mrvicfer] Quand tu ouvres X, tu réalises que le monde entier en a raz le bol de l'Islam."
+      "author_name": "Frontières",
+      "published_at": "2026-11-23 14:52",
+      "text": "« C’est inacceptable. L’hémicycle est un lieu sacré de notre démocratie »\n\n🚨 Yaël Braun-Pivet SCANDALISÉE par cette vidéo tournée au sein de l’hémicycle, où des jeunes expliquent que des individus comme ADAMA TRAORÉ ont été “assassinés par la République”."
     },
     {
       "author_name": "Le Média en 4⃣-4⃣-2⃣",
-      "published_at": "2026-11-22 14:56",
-      "text": "Coudy parodie le Legend Tour avec Nicolas Sarkozy en coach de vie \nhttps://lemediaen442.fr/coudy-parodie-le-legend-tour-avec-nicolas-sarkozy-en-coach-de-vie/ \n\nSa méthode pour surmonter une épreuve consiste à en faire un livre à 22 euros."
+      "published_at": "2026-11-23 14:52",
+      "text": "Guerre en Ukraine : Mélenchon appelle la France à discuter avec Moscou pour éviter un affrontement \nhttps://lemediaen442.fr/guerre-en-ukraine-melenchon-appelle-la-france-a-discuter-avec-moscou-pour-eviter-un-affrontement/ \n\nÀ Sciences Po, Jean-Luc Mélenchon a mis Paris en garde contre un affrontement avec la Russie. La présence de militaires français en Ukraine avait déjà"
     },
     {
-      "author_name": "Boulevard Voltaire",
-      "published_at": "2026-11-22 14:56",
-      "text": "[Retweet de @BVoltaire] 22 novembre 1902 : Leclerc, aux origines d'un grand destin militaire | Par Eric de Mascureau\nBrillant officier, ses choix feront de lui un rebelle pour Vichy, un ennemi pour Hitler et un héros pour la France. \n \nhttps://www.bvoltaire.fr/22-novembre-1902-leclerc-aux-origines-dun-grand-destin-militaire/"
-    },
-    {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-22 14:57",
-      "text": "« Il est très pénible » : Cemil Sanli, ce journaliste militant qui sème la zizanie à l’Élysée https://l.leparisien.fr/PcSK"
+      "author_name": "Alain Weber",
+      "published_at": "2026-11-23 14:53",
+      "text": "Pendant ce temps en Belgique, toujours pas de gouvernement !\n\n😄😄"
     },
     {
       "author_name": "Le JDD",
-      "published_at": "2026-11-22 14:58",
-      "text": "Retraités : Marine Le Pen s'oppose à la suppression de l'abattement fiscal de 10 % https://ow.ly/WlGx106Jo6H"
-    },
-    {
-      "author_name": "Boulevard Voltaire",
-      "published_at": "2026-11-22 14:58",
-      "text": "[Retweet de @BVoltaire] Mélenchon devancé pour la 2e place par Philippe ou Glucksmann, selon un sondage | Par  @FredericSirgant\nQuel que soit le second, Marine Le Pen est toujours en tête au premier tour et donnée très haut : 37 à 38 %. \n \nhttps://www.bvoltaire.fr/melenchon-devance-pour-la-2e-place-par-philippe-ou-glucksmann-selon-un-sondage/"
+      "published_at": "2026-11-23 14:54",
+      "text": "Le post-libéralisme, réconcilier les élites et le peuple autour du bien commun https://ow.ly/qrrl106JswK"
     },
     {
       "author_name": "Sud Radio",
-      "published_at": "2026-11-22 14:59",
-      "text": "⚽ Paris SG : blessure de Doué et Kvaratskhelia, mercato à l'horizon\nhttps://www.sudradio.fr/sport-rugby/sport/ligue-1-pour-paris-apres-la-blessure-de-doue-une-recrue-et-vite"
+      "published_at": "2026-11-23 14:56",
+      "text": "🗣️ Périco Légasse :\"Protégeons nos associations de ceux qui veulent les faire taire ou en faire des partis politiques\" #LaFranceDansTousSesEtats\n\n📻 Suivez le direct sur https://sudradio.fr et réagissez au 0 826 300 300"
     },
     {
       "author_name": "Le Point",
-      "published_at": "2026-11-22 14:59",
-      "text": "Après la guerre froide, voici la guerre des mots lancée par le président algérien qui menace de s’en prendre militairement à son voisin, sans le nommer. Bluff ?\n\n➡️ https://l.lepoint.fr/Iye\nPar @westernculturel"
+      "published_at": "2026-11-23 14:56",
+      "text": "Interrogée sur une éventuelle alliance avec David Lisnard, la candidate RN à la présidentielle a critiqué son ambition radicale de débureaucratiser la France. \n\nCette pique traduit la crédibilité qu’a acquise le Cannois à droite.\n➡️ https://l.lepoint.fr/VwV"
     },
     {
-      "author_name": "Frontières",
-      "published_at": "2026-11-22 15:00",
-      "text": "Frontières est tous les jours sur le terrain, pour montrer ce qu’aucun média ne diffuse.\n\nPour découvrir toutes nos exclusivités. Abonnez-vous à Frontières avec l’offre Black Friday (-50%) : https://www.frontieresmedia.fr/nos-abonnements"
-    },
-    {
-      "author_name": "Tocsin",
-      "published_at": "2026-11-22 15:00",
-      "text": "🏠 Xavier Bertrand en visite à l’EPHAD !\n\nRéécouter l'émission 🔗https://www.youtube.com/live/fm5qQ9zkhmw?si=QL26lZHlCNGCRX6V"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-22 15:00",
-      "text": "💻 Agentice est une entreprise française qui développe une plateforme d'intelligence artificielle\n\n🗣️ Axel Viard sera l'invité de #GraineDeBoss avec Thomas Binet de 20h00 à 20h30\n\n📻 Graine de Boss avec Thomas Binet\n🗓️ Tous les dimanches à 20h sur Sud Radio\n📩 Pour candidater,"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-22 15:00",
-      "text": "[Retweet de @CNEWS_Sport] Une performance historique https://mrf.lu/2BmhJ"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-22 15:01",
-      "text": "L'Espagnol Marc Marquez (Ducati) champion du monde de MotoGP pour la 8e fois https://ow.ly/HWwT106Jo6Q"
+      "author_name": "ThinkerView",
+      "published_at": "2026-11-23 14:57",
+      "text": "\n[Cite @Portes_Thomas] Des images glaçantes. \n\nLe bruit des bottes. \n\nEspagne 2026.\n\nDans une quinzaine de villes des militants fascistes se sont réunis en faisant des saluts nazis pour célébrer la mémoire du dictateur Franco et le fondateur de la Falange, José Antonio Primo de Rivera.\n\nL’extrême"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-22 15:01",
-      "text": "🔴Un mort dans une frappe russe près de Kiev, les écoles d’Odessa fermées faute d’électricité et d’eau\n➡️ https://l.leparisien.fr/GgUK"
-    },
-    {
-      "author_name": "Boulevard Voltaire",
-      "published_at": "2026-11-22 15:02",
-      "text": "[Retweet de @BVoltaire] [EXCLU] Derrière le procès de Femmeblancherie, l’instrumentalisation politique du masculinisme | Par  @alienordep\nConsulté par BV, le rapport d’enquête sur Femmeblancherie livre une définition pour le moins extensive du masculinisme. \n \nhttps://www.bvoltaire.fr/exclu-derriere-le-proces-de-femmeblancherie-linstrumentalisation-politique-du-masculinisme/"
-    },
-    {
-      "author_name": "Boulevard Voltaire",
-      "published_at": "2026-11-22 15:03",
-      "text": "[Retweet de @gabriellecluzel] C’est tellement caricatural qu’on dirait un sketch. Les « gens dans le métro », un peu harassés par leur boulot, doivent sans doute demander pardon de ne pas être « élégants », « nonchalants », « sensuels », ni « pétillants » comme les « nomades »."
-    },
-    {
-      "author_name": "Causeur.fr",
-      "published_at": "2026-11-22 15:03",
-      "text": "🐈‍⬛ \"Chaque semaine, Philippe Lacoche nous donne des nouvelles de Picardie…\"\n\nhttps://www.causeur.fr/ces-chats-que-lon-aime-337651"
-    },
-    {
-      "author_name": "Boulevard Voltaire",
-      "published_at": "2026-11-22 15:03",
-      "text": "[Retweet de @jean_bexon] On parle de tout ça sur Cnews à 18h30 chez Eliot Deval !"
-    },
-    {
-      "author_name": "Boulevard Voltaire",
-      "published_at": "2026-11-22 15:03",
-      "text": "[Retweet de @jean_bexon] Claude Weill parle de thèse des accusés à raison. \n\nJe dirais même que JLM reprend le récit (mensonger) façonné par les suspect du meurtre.\n\nCe faisant, il propage de la désinformation. \n\nFaut-il un French response contre la guerre civile informationnelle ?"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-22 15:03",
-      "text": "Inondations dans le Pas-de-Calais : situation toujours complexe\nhttps://www.sudradio.fr/societe/crues-dans-le-pas-de-calais-la-situation-nest-pas-totalement-stabilisee-annonce-le-prefet"
-    },
-    {
-      "author_name": "Frontières",
-      "published_at": "2026-11-22 15:05",
-      "text": "Une salle du centre pastoral catholique Sainte-Thérèse a accueilli des prières musulmanes vendredi à Chalon-sur-Saône\n\nhttps://www.frontieresmedia.fr/societe/chalon-une-salle-du-centre-pastoral-sainte-therese-accueille-des-prieres-musulmanes---20955"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-22 15:06",
-      "text": "Présidentielle 2027 : Philippe Laurent estime que l’AMF « ne peut pas être un plan B » pour David Lisnard https://ow.ly/fEkM106Jo7b"
+      "published_at": "2026-11-23 14:57",
+      "text": "Haro sur les affiches réalisées grâce à l’intelligence artificielle à Banyuls\n➡️ https://l.leparisien.fr/9FbS"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-22 15:06",
-      "text": "Un nouvel incident en mer Baltique sur fond de guerre en Ukraine https://mrf.lu/2BmHY"
+      "published_at": "2026-11-23 14:58",
+      "text": "«Je ne comprends pas le lien entre les centres d'hébergement et la délinquance», révèle Maître Florence Rouas, avocate pénaliste, dans #PoliceJustice24H\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
+      "published_at": "2026-11-23 14:58",
+      "text": "Le Jour ni l’Heure 9331 : couple qui demanda à être photographié, Notre-Dame-la-Grande, Poitiers, Vienne, jeudi 29 octobre 2026, 15:33:43"
+    },
+    {
+      "author_name": "Rassemblement National",
+      "published_at": "2026-11-23 14:59",
+      "text": "[Retweet de @ljacobelli] J’ai reçu à ma permanence des Français qui se mettaient en arrêt maladie parce que le coût de l’essence rendait le travail moins rentable que de rester chez eux !\n\nAvec @MLP_officiel, nous proposons de baisser la TVA sur l’énergie de 20 % à 5,5 % et d’exonérer de cotisations"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-23 14:59",
+      "text": "Des faits qui se multiplient partout en Europe. ➡️ https://mrf.lu/2BMG8"
+    },
+    {
+      "author_name": "Gouvernement",
+      "published_at": "2026-11-23 14:59",
+      "text": "La deuxième édition du sommet « Choose France » édition France, le 23 novembre 2026, réunit plus de 200 entreprises françaises à Paris pour soutenir l'investissement et l'emploi dans les territoires. 🇫🇷 \n\nhttps://www.info.gouv.fr/actualite/choose-france-celebre-aussi-les-entreprises-tricolores-pariant-sur-la-france"
+    },
+    {
+      "author_name": "Le Crayon",
+      "published_at": "2026-11-23 14:59",
+      "text": "GTA 6 est-il un jeu \"trop woke\" ?\n\nOn a décrypté le sujet avec Stéphane Aicardi (alias Bob legob, streamer historique de GTA RP), Anna Bressans (présidente de Women in Games), Olivier Mauco (auteur, analyste du jeu vidéo, game designer de jeux) et Michael Stora (psychologue)."
+    },
+    {
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-23 15:00",
+      "text": "« Ce qui était mieux avant, c’est qu’il y avait l’espérance d’une amélioration. Mais la vie de la plupart des boomers n’a pas été si facile que ça. »\n\nHenri Guaino a accordé un entretien exceptionnel à @SevilliaYves ⤵️\nhttps://www.bvoltaire.fr/linvite-henri-guaino-maintenant-cest-du-vote-utile-fonde-sur-la-haine/"
+    },
+    {
+      "author_name": "Le JDD",
+      "published_at": "2026-11-23 15:00",
+      "text": "Catherine Nay, les secrets d'une reine des coulisses du pouvoir https://ow.ly/mijj106Jsx1"
+    },
+    {
+      "author_name": "Ligne Droite • La matinale de RC",
+      "published_at": "2026-11-23 15:00",
+      "text": "🤜 25 objections logiques pour démonter le wokisme\n🗣️ Michaël Rabier, auteur de \"Objections : 25 réponses logiques au wokisme\" aux éditions @EdArtilleur \nEntretien complet :\n👉 https://youtu.be/Fv01pXvzzOs\n🎙️ Avec @RicharddeSeze sur @radiocourtoisie"
+    },
+    {
+      "author_name": "Rassemblement National",
+      "published_at": "2026-11-23 15:00",
+      "text": "Pour que la France retrouve sa force, sa prospérité et sa fierté, chaque voix compte ! Engagez-vous pour faire gagner Marine Le Pen et engager la Renaissance de la France !\n\nRejoignez-nous : https://marinelepen.com/"
+    },
+    {
+      "author_name": "Agence France-Presse",
+      "published_at": "2026-11-23 15:00",
+      "text": "🇫🇷⚖️ Procès en vue pour l'ancien maire de Nice Christian Estrosi, son épouse Laura Tenoudji-Estrosi, France Télévisions et le journal La Tribune sur les conditions d'organisation d'événements subventionnés par la municipalité et gérés par ces médias, également employeurs de la"
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-23 15:00",
+      "text": "Présidentielle 2027 : David Lisnard refuse de dire pour qui il votera en cas de duel entre Édouard Philippe et Marine Le Pen au second tour https://l.leparisien.fr/nDgp",
+      "also_by": [
+        "Le Parisien"
+      ]
+    },
+    {
+      "author_name": "Eric Zemmour",
+      "published_at": "2026-11-23 15:01",
+      "text": "Pour la vice-présidente LFI de l’Assemblée nationale, on a le droit d’être islamiste. Mais on ne devrait pas être contre l’invasion migratoire, que tous les Français voient.\n\nChère Madame, choisissez votre camp : la liberté ou la censure.\n\nMoi, je suis pour la liberté absolue."
+    },
+    {
+      "author_name": "LCP",
+      "published_at": "2026-11-23 15:01",
+      "text": "Présidentielle: Génération.s officialise son soutien à Jean-Luc Mélenchon https://lcp.fr/actualites/presidentielle-generations-officialise-son-soutien-a-jean-luc-melenchon-445502"
     },
     {
       "author_name": "Tocsin",
-      "published_at": "2026-11-22 15:06",
-      "text": "🔔🔔 DEMANDEZ LE PROGRAMME 🔔🔔\n\n🔗 https://www.youtube.com/watch?v=vCcaM0XcRLU\n\nDemain matin dès 7H30, retrouvez Clémence @Houdiakova  et toute son équipe pour une matinale sans concession sur l’actualité !\n\nAu menu :\n\n🚀 Vaccination forcée : les dernières images choc !\n🔸Roman Lefebvre\nÉleveur de"
+      "published_at": "2026-11-23 15:01",
+      "text": "📻 Accusés de complicité de crimes contre l’Humanité, SOS Chrétiens d’Orient enfin acquittés !\n\n🔗 https://youtu.be/D3SuuIcr7jY \n\n🗣️ Benjamin Blanchard Directeur général de SOS Chrétiens d’Orient\n@SOSCdOrient"
     },
     {
-      "author_name": "L'HERMYNE ⚜️",
-      "published_at": "2026-11-22 15:08",
-      "text": "[Retweet de @tibrez] Quand #Mélenchon sera à l’étape du \"papy gentil\" ressortez cette vidéo."
+      "author_name": "L'Express",
+      "published_at": "2026-11-23 15:02",
+      "text": "L'agressivité de Vladimir Poutine est encouragée par la flagornerie de Donald Trump à son égard.\n\n➡️ https://l.lexpress.fr/kzO"
     },
     {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-22 15:10",
-      "text": "💵Vous avez manqué #LeNumeriquePourTous avec\n@VanessaPerez_VP et ses invités : @r_garilli et Baptiste Bruneau (@CORUM_LEpargne) \n\n👉Argent et intelligence artificielle : L’IA peut-elle être un bon banquier ?\n\n📻Le replay : https://sudradio.fr/programme/le-numerique-pour-tous"
+      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
+      "published_at": "2026-11-23 15:02",
+      "text": "Le Jour ni l’Heure 1967 : château (hôtel) de Pondres, XVIIe-XVIIe s., Villevieille, Gard, mercredi 28 août 2019, 08:30:32"
+    },
+    {
+      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
+      "published_at": "2026-11-23 15:05",
+      "text": "Le Jour ni l’Heure 9260 : le cavalier Constantin, c. 1180-1200 (l’empereur Constantin-le-Grand, 272-337), Poitiers, Vienne, baptistère Saint-Jean, IVe-VIe s., jeudi 29 octobre 2026, 14:15:14"
+    },
+    {
+      "author_name": "Objectif Remigration",
+      "published_at": "2026-11-23 15:07",
+      "text": "Vu à Chambéry."
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-23 15:07",
+      "text": "« Ce n’est que le début » : les démocrates préparent une offensive contre l’empire crypto de Trump https://l.lepoint.fr/FZq"
+    },
+    {
+      "author_name": "Le JDD",
+      "published_at": "2026-11-23 15:08",
+      "text": "«S’unir pour faire advenir le meilleur» : le parti Génération.s fondé par Hamon rallie Mélenchon https://ow.ly/BkqJ106JsxY"
+    },
+    {
+      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
+      "published_at": "2026-11-23 15:09",
+      "text": "Le Jour ni l’Heure 1647 : Thomas Couture, 1815-1879, portrait, 1850, d’Alfred Bruyas, 1821-1877, Montpellier, musée Fabre, mardi 27 août 2019, 11:54:38"
     },
     {
       "author_name": "Ni Oubli Ni Pardon",
-      "published_at": "2026-11-22 15:10",
-      "text": "12/2021 Gal Gadot, l’actrice qui interprète Wonder Woman, a participé à la promotion du vaccin contre le coronavirus dans le cadre du programme CNN Heroes. De plus, le Dr Richard Pan, sénateur de l’État de Californie, a fait référence au soutien de Gal Gadot à la vaccination sur"
+      "published_at": "2026-11-23 15:10",
+      "text": "07/2021 Akhenaton : « Avec le groupe IAM, nous sommes contre le pass sanitaire, contre la vaccination obligatoire. Il en va de nos libertés et surtout de l'avenir de nos enfants. Nous aimerions aussi que les gens qui ont un tant soit peu de conscience dans le corps médical,"
     },
     {
-      "author_name": "Florian Philippot",
-      "published_at": "2026-11-22 15:16",
-      "text": "Élection présidentielle : clarification et grosse surprise ! \nÇa y est on entre dans le dur ⤵️\n\n- Retraits de candidatures, effondrement des candidats macronistes, hypothèse Lagarde « joker du Système » qui s’affine, MLP en tête mais perd quelques plumes car on entre dans le"
+      "author_name": "Valeurs actuelles",
+      "published_at": "2026-11-23 15:11",
+      "text": "🗞️ C’est une véritable cabale que subit le chanteur de 92 ans depuis la sortie de son dernier album : Benjamin Biolay rejoint la meute LFI et s’attaque à Pierre Perret.\n\n🔗 https://l.valeursactuelles.com/jrO"
     },
     {
-      "author_name": "Les Patriotes",
-      "published_at": "2026-11-22 15:16",
-      "text": "[Retweet de @LesPatriotes64] ⚠️PROJET PRÉSIDENTIEL Florian @f_philippot➡️LES 6 PRINCIPALES MESURES POUR L'ÉNERGIE⤵️⚠️"
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-23 15:11",
+      "text": "Le conseil d’administration du géant américain des puces IA annonce le retour aux manettes de son dirigeant, poussé vers la sortie après sa liaison avec une espionne chinoise présumée. →https://l.lefigaro.fr/mKnF"
     },
     {
-      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
-      "published_at": "2026-11-22 15:16",
-      "text": "Hello @georgesimion : I support your party, your conservative values, and your liberal vision. But when will you make the fight against legal immigration in Romania - which is transforming Bucharest, Brașov, and Cluj, etc. - your top priority?\nIn 10 years, it WILL BE TOO LATE."
+      "author_name": "Alain Weber",
+      "published_at": "2026-11-23 15:12",
+      "text": "Jensen Huang : le retour d’un patron hors du commun !\n\nJensen Huang retrouve la tête de Nvidia. \n\nUne nouvelle qui ne peut que réjouir ceux qui admirent cet entrepreneur visionnaire, artisan de l’extraordinaire ascension de son entreprise.\n\nPour Nvidia, ses salariés et ses"
     },
     {
-      "author_name": "Les Patriotes",
-      "published_at": "2026-11-22 15:16",
-      "text": "[Retweet de @Chr63391Chris] Présidentielle 2027 : clarification et grosse surprise ! https://youtu.be/T9gLmFfsj_s?is=6DVbnd7EMoVoJ2bU via @YouTube"
+      "author_name": "Jon De Lorraine",
+      "published_at": "2026-11-23 15:13",
+      "text": "🔴🇺🇸 ALERTE INFO | Coup de théâtre chez NVIDIA : Jensen Huang est officiellement réintégré à son poste de PDG, onze jours après sa démission.\n\nLe conseil d'administration, qui refusait encore son retour la semaine dernière, fait volte-face après les appels de Donald Trump et de"
     },
     {
-      "author_name": "Les Patriotes",
-      "published_at": "2026-11-22 15:16",
-      "text": "[Retweet de @Chr63391Chris] L’UE signe un accord fou avec l’Indonésie : la France sacrifiée ! https://youtube.com/shorts/qYORyteqSl8?is=gxaCR03KPEjeTADv via @YouTube"
+      "author_name": "Tocsin",
+      "published_at": "2026-11-23 15:15",
+      "text": "⚠️« Notre assujettissement à l’empire américain est de plus en plus prononcé ! »\n\n🇺🇸« On nous parlait des États-Unis d’Europe dans les années 50 pour éviter l’écrasement de l’Europe entre l’URSS et les États-Unis. Ensuite, dans les années 80-90, il fallait une Europe forte pour"
     },
     {
-      "author_name": "Les Patriotes",
-      "published_at": "2026-11-22 15:17",
-      "text": "[Retweet de @vetopatriote] Pour signer la pétition nationale NON AU PAQUET PHARMACEUTIQUE EUROPÉEN qui impose la vaccination obligatoire !\n✍️https://les-patriotes.fr/non-au-paquet-pharmaceutique-europeen/"
+      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
+      "published_at": "2026-11-23 15:15",
+      "text": "Les victoires de l’infréquentable Renaud Camus https://www.causeur.fr/grand-remplacement-fatima-ouassak-mette-frederiksen-les-victoires-de-l-infrequentable-renaud-camus-337840"
     },
     {
       "author_name": "Boulevard Voltaire",
-      "published_at": "2026-11-22 15:17",
-      "text": "Savez-vous qui est J.J. Cale, le meilleur musicien le plus inconnu du monde ? | Par Nicolas Gauthier\nEric Clapton n’a jamais enregistré un seul album sans qu’y figure au moins un ou deux titres signés de J.J. Cale. \n \nhttps://www.bvoltaire.fr/savez-vous-qui-est-j-j-cale-le-meilleur-musicien-le-plus-inconnu-du-monde/"
+      "published_at": "2026-11-23 15:16",
+      "text": "[Retweet de @BVoltaire] Merwane Benlazar, « horrible bougnoule » qui méprise la cuisine du « Blanc » | Par  @jeankastoff\nAprès ses précédentes polémiques, Merwane Benlazar récidive en raillant les habitudes culinaires des Français. \n \nhttps://www.bvoltaire.fr/merwane-benlazar-horrible-bougnoule-qui-meprise-la-cuisine-du-blanc/"
     },
     {
-      "author_name": "Le Média en 4⃣-4⃣-2⃣",
-      "published_at": "2026-11-22 15:17",
-      "text": "Père d’extrême droite, mère vietnamienne : qui est Olivier Faure ? — Pierre de Brague \nhttps://lemediaen442.fr/olivier-faure-ps-melenchon-glucksmann-2027/ \n\nOlivier Faure a ouvert à Raphaël Glucksmann les portes de la liste socialiste aux européennes. Comment son allié est-il devenu son rival ? \n\nSur Radio 2.2, Marcel D."
+      "author_name": "Europe 1",
+      "published_at": "2026-11-23 15:16",
+      "text": "#Cauet souhaite un joyeux anniversaire à @Foucault_JP sur #Europe1 @cauetofficiel"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-22 15:20",
-      "text": "[Retweet de @CNEWS_Sport] Un diagnostic redouté https://mrf.lu/2Bm4R"
-    },
+      "published_at": "2026-11-23 15:18",
+      "text": "🔴 Alerte info. ➡️ https://mrf.lu/2BMpm"
+    }
+  ],
+  "context": [
     {
       "author_name": "Le Parisien",
       "published_at": "2026-11-22 15:20",
@@ -4080,6 +4079,11 @@
       "author_name": "Damien Rieu",
       "published_at": "2026-11-22 16:26",
       "text": "Les Milanais ont même des entrepôts aéroportuaires Armani 😂"
+    },
+    {
+      "author_name": "Valeurs actuelles",
+      "published_at": "2026-11-22 16:27",
+      "text": "[Retweet de @wdeguerpel] 🔴 Présidentielle 2027 : à Toulon, Éric Zemmour lance sa campagne dans l’ombre de Sarah Knafo - @Valeurs \nhttps://www.valeursactuelles.com/clubvaleurs/politique/presidentielle-2027-a-toulon-eric-zemmour-lance-sa-campagne-dans-lombre-de-sarah-knafo"
     },
     {
       "author_name": "Le Point",
