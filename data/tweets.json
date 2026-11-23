@@ -1,14 +1,27 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-23T02:44:38.889Z",
+  "updated_at": "2026-11-23T03:03:55.118Z",
   "window_hours": 24,
-  "window_start": "2026-11-22T02:44:38.889Z",
+  "window_start": "2026-11-22T03:03:55.118Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1202,
+  "count": 1203,
   "tweets": [
+    {
+      "id": "2124698135045841107",
+      "created_at": "2026-11-23T02:54:45.000Z",
+      "author": "alainpaulweber",
+      "author_name": "Alain Weber",
+      "type": "retweet",
+      "text": "Pas besoin de sondages pour mesurer l'ennui le dimanche, alors que j'étais tranquille, j'ai regardé plusieurs fois des posts sur x quand j'avais besoin de faire une pause, résultats, journalistes agressés\nMenace existentielle sur Israël, critiques sur Pierre Perret, alors que",
+      "retweeted_author": "ElisabethSktty",
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/alainpaulweber/status/2124698135045841107"
+    },
     {
       "id": "2124693858436915696",
       "created_at": "2026-11-23T02:37:45.000Z",
