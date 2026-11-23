@@ -1,14 +1,53 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-23T04:15:22.774Z",
+  "updated_at": "2026-11-23T04:45:28.692Z",
   "window_hours": 24,
-  "window_start": "2026-11-22T04:15:22.774Z",
+  "window_start": "2026-11-22T04:45:28.692Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1201,
+  "count": 1200,
   "tweets": [
+    {
+      "id": "2124722936955465997",
+      "created_at": "2026-11-23T04:33:18.000Z",
+      "author": "SudRadio",
+      "author_name": "Sud Radio",
+      "type": "tweet",
+      "text": "🇫🇷🇷🇼 Rwanda : cinq pays européens veulent y ouvrir un centre pour migrants expulsés. \n\n👉La France doit-elle y prendre part ou est-ce \"contraire à ses valeurs\"\n\n📻Vos réactions seront reprises dans le #GrandMatin de 7h à 10h. Réagissez en commentaires.",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/SudRadio/status/2124722936955465997"
+    },
+    {
+      "id": "2124722196954165297",
+      "created_at": "2026-11-23T04:30:21.000Z",
+      "author": "Le_Figaro",
+      "author_name": "Le Figaro",
+      "type": "tweet",
+      "text": "Sur le modèle de la piste Labarde, réservée aux amateurs de moto, un projet d’équipement adapté aux rodéos automobiles est à l’étude pour éradiquer un phénomène qui gâche la vie de certains riverain → https://l.lefigaro.fr/15Dg",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/Le_Figaro/status/2124722196954165297"
+    },
+    {
+      "id": "2124718647172034843",
+      "created_at": "2026-11-23T04:16:15.000Z",
+      "author": "NiONiPardon",
+      "author_name": "Ni Oubli Ni Pardon",
+      "type": "tweet",
+      "text": "🔴 CoronaCircus\n\n02/2021 En Espagne, combinaisons intégrales, gants, masques... Les assesseurs des bureaux de vote spéciaux ouverts en Catalogne pour accueillir les malades du Covid ou les personnes en quarantaine. Malgré ce dispositif sanitaire très strict, l'élection a été",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/NiONiPardon/status/2124718647172034843"
+    },
     {
       "id": "2124698135045841107",
       "created_at": "2026-11-23T02:54:45.000Z",
@@ -15569,58 +15608,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/leparisien_pol/status/2124364607741423940"
-    },
-    {
-      "id": "2124363573363450020",
-      "created_at": "2026-11-22T04:45:19.000Z",
-      "author": "Le_Figaro",
-      "author_name": "Le Figaro",
-      "type": "tweet",
-      "text": "Ils ont partagé cinq ans de vie commune et la création d’un album, en 1992 → https://l.lefigaro.fr/sauZ",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/Le_Figaro/status/2124363573363450020"
-    },
-    {
-      "id": "2124361116578979932",
-      "created_at": "2026-11-22T04:35:33.000Z",
-      "author": "leJDD",
-      "author_name": "Le JDD",
-      "type": "tweet",
-      "text": "«Je ne veux pas de petits tyrans dans les unités !» : le patron de la gendarmerie répond au malaise des troupes https://ow.ly/bmyK106JlRB",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/leJDD/status/2124361116578979932"
-    },
-    {
-      "id": "2124361114012074280",
-      "created_at": "2026-11-22T04:35:32.000Z",
-      "author": "leJDD",
-      "author_name": "Le JDD",
-      "type": "tweet",
-      "text": "Rugby : à moins d’un an de sa Coupe du monde, l’Australie inquiète toujours https://ow.ly/y5fh106JlRz",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/leJDD/status/2124361114012074280"
-    },
-    {
-      "id": "2124356149105275139",
-      "created_at": "2026-11-22T04:15:49.000Z",
-      "author": "NiONiPardon",
-      "author_name": "Ni Oubli Ni Pardon",
-      "type": "tweet",
-      "text": "04/2021 Alors que l’OMS a déconseillé l'hydroxychloroquine comme traitement préventif de la maladie liée au Covid-19, le chef du service des maladies infectieuses de l’hôpital de Fann à Dakar n’a jamais cessé de l'utiliser, en association avec une autre molécule :",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/NiONiPardon/status/2124356149105275139"
     }
   ]
 }
