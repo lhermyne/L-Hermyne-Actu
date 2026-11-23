@@ -1,14 +1,40 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-23T01:44:27.504Z",
+  "updated_at": "2026-11-23T02:14:33.171Z",
   "window_hours": 24,
-  "window_start": "2026-11-22T01:44:27.504Z",
+  "window_start": "2026-11-22T02:14:33.171Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1202,
+  "count": 1200,
   "tweets": [
+    {
+      "id": "2124680538023981206",
+      "created_at": "2026-11-23T01:44:49.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "Royaume-Uni : Theresa May exhorte le Premier ministre Andy Burnham à « accepter » le Brexit\n➡️ https://l.leparisien.fr/or0n",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2124680538023981206"
+    },
+    {
+      "id": "2124680520378278378",
+      "created_at": "2026-11-23T01:44:45.000Z",
+      "author": "f_asselineau",
+      "author_name": "François Asselineau 🇫🇷",
+      "type": "tweet",
+      "text": "C'EST BIENTÔT !\n🗓 𝟮𝟴 𝗡𝗢𝗩𝗘𝗠𝗕𝗥𝗘\n𝗚𝗥𝗔𝗡𝗗𝗘 𝗥𝗘𝗨𝗡𝗜𝗢𝗡 𝗣𝗨𝗕𝗟𝗜𝗤𝗨𝗘\n𝗙𝗥𝗔𝗡𝗖̧𝗢𝗜𝗦 𝗔𝗦𝗦𝗘𝗟𝗜𝗡𝗘𝗔𝗨 𝗔 𝗡𝗜𝗖𝗘\n15h Ouverture des portes\n16h Discours programmatique\n17h Réponses aux questions du public\n19-20h Buffet offert\nBoutique/Photos/Dédicaces\nENTRÉE",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/f_asselineau/status/2124680520378278378"
+    },
     {
       "id": "2124678602440810928",
       "created_at": "2026-11-23T01:37:08.000Z",
@@ -15582,58 +15608,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/leparisien_pol/status/2124351176300769394"
-    },
-    {
-      "id": "2124321837584953724",
-      "created_at": "2026-11-22T01:59:28.000Z",
-      "author": "ThaisEscufon",
-      "author_name": "Thaïs d’Escufon",
-      "type": "quote",
-      "text": "I’m literally the only white girl in the subway car.\n\nAmericans, you’re being replaced too. Wake up!\nYou have the right to be the majority in the country you built!",
-      "retweeted_author": null,
-      "quoted_author": "ThaisEscufon",
-      "quoted_text": "I’m sorry to tell you this, but I just landed in NYC and it’s way worse than Paris, even tho Paris is headed in the same direction.\n\nI’m litteraly counting white people. \nIt’s full of immigrants, it’s filthy, everywhere smells like weed…\n\nSuch a shame for this city you could",
-      "lang": "en",
-      "url": "https://x.com/ThaisEscufon/status/2124321837584953724"
-    },
-    {
-      "id": "2124318601544937837",
-      "created_at": "2026-11-22T01:46:37.000Z",
-      "author": "dannyconversano",
-      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
-      "type": "quote",
-      "text": "Le profil des quelques agresseurs sexuels en Roumanie va vous étonner.\nInde.",
-      "retweeted_author": null,
-      "quoted_author": "ccLeanRime",
-      "quoted_text": "Pedeapsa cu moartea trebuie reintrodusa",
-      "lang": "fr",
-      "url": "https://x.com/dannyconversano/status/2124318601544937837"
-    },
-    {
-      "id": "2124318496670523413",
-      "created_at": "2026-11-22T01:46:12.000Z",
-      "author": "alainpaulweber",
-      "author_name": "Alain Weber",
-      "type": "retweet",
-      "text": "@alainpaulweber Je suis entièrement d’accord ! Sarah Knafo impressionne par son intelligence, sa maîtrise des dossiers, la clarté de sa pensée et son éloquence.\n\nMais n’oublions pas Éric Zemmour ! Lors de ce meeting, il a lui aussi démontré une remarquable culture historique, une vision",
-      "retweeted_author": "Ciceron2100",
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/alainpaulweber/status/2124318496670523413"
-    },
-    {
-      "id": "2124318473136304275",
-      "created_at": "2026-11-22T01:46:06.000Z",
-      "author": "alainpaulweber",
-      "author_name": "Alain Weber",
-      "type": "retweet",
-      "text": "@alainpaulweber J'y étais : 2 discours construits, intelligents, à écouter avec attention, sans hystérie. Et 1 conviction : le crépuscule 🇫🇷 précède l'aube! 🙏🏻",
-      "retweeted_author": "PapetBouvar",
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/alainpaulweber/status/2124318473136304275"
     }
   ]
 }
