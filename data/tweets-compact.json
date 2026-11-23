@@ -1,12 +1,12 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-23 04:03",
-  "period": "du 2026-11-22 04:03 au 2026-11-23 04:03",
-  "new_period": "du 2026-11-22 20:00 au 2026-11-23 04:03",
-  "context_period": "du 2026-11-22 04:03 au 2026-11-22 20:00",
+  "generated_at": "2026-11-23 04:14",
+  "period": "du 2026-11-22 04:14 au 2026-11-23 04:14",
+  "new_period": "du 2026-11-22 20:00 au 2026-11-23 04:14",
+  "context_period": "du 2026-11-22 04:14 au 2026-11-22 20:00",
   "coverage_complete": true,
-  "new_count": 202,
+  "new_count": 203,
   "context_count": 904,
   "duplicates_merged": 93,
   "empty_removed": 4,
@@ -977,6 +977,11 @@
       "author_name": "CNEWS",
       "published_at": "2026-11-23 00:10",
       "text": "«Les espaces \"no kids\" sont un non-sens absolu», estime Hélène Roué, journaliste politique, dans #100PolitiqueWE\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "L'HERMYNE ⚜️",
+      "published_at": "2026-11-23 00:14",
+      "text": "@JLMelenchon @davidlisnard @Villepin @EPhilippe_LH @Fabien_Roussel @f_philippot @MLP_officiel ℹ️ Méthode\n\nClassement hebdo calculé à partir d’Instagram, X, TikTok et Facebook.\n\nProgression pondérée par réseau et corrigée selon l’audience de chaque plateforme.\n\nDétails et historique : https://lhermyne.github.io/L_Hermyne/monitor_dashboard.html#methodologie"
     },
     {
       "author_name": "Le Jarl",

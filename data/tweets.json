@@ -1,13 +1,13 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-23T03:03:55.118Z",
+  "updated_at": "2026-11-23T03:14:46.923Z",
   "window_hours": 24,
-  "window_start": "2026-11-22T03:03:55.118Z",
+  "window_start": "2026-11-22T03:14:46.923Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1203,
+  "count": 1204,
   "tweets": [
     {
       "id": "2124698135045841107",
@@ -268,6 +268,19 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/le_jarl/status/2124643217672999296"
+    },
+    {
+      "id": "2124642593761878436",
+      "created_at": "2026-11-22T23:14:02.000Z",
+      "author": "L_hermyne",
+      "author_name": "L'HERMYNE ⚜️",
+      "type": "tweet",
+      "text": "@JLMelenchon @davidlisnard @Villepin @EPhilippe_LH @Fabien_Roussel @f_philippot @MLP_officiel ℹ️ Méthode\n\nClassement hebdo calculé à partir d’Instagram, X, TikTok et Facebook.\n\nProgression pondérée par réseau et corrigée selon l’audience de chaque plateforme.\n\nDétails et historique : https://lhermyne.github.io/L_Hermyne/monitor_dashboard.html#methodologie",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/L_hermyne/status/2124642593761878436"
     },
     {
       "id": "2124641731064856580",
