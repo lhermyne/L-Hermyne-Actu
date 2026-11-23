@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-23 06:15",
-  "period": "du 2026-11-22 06:15 au 2026-11-23 06:15",
-  "new_period": "du 2026-11-22 20:00 au 2026-11-23 06:15",
-  "context_period": "du 2026-11-22 06:15 au 2026-11-22 20:00",
+  "generated_at": "2026-11-23 06:46",
+  "period": "du 2026-11-22 06:46 au 2026-11-23 06:46",
+  "new_period": "du 2026-11-22 20:00 au 2026-11-23 06:46",
+  "context_period": "du 2026-11-22 06:46 au 2026-11-22 20:00",
   "coverage_complete": true,
-  "new_count": 217,
-  "context_count": 892,
-  "duplicates_merged": 92,
+  "new_count": 230,
+  "context_count": 882,
+  "duplicates_merged": 93,
   "empty_removed": 4,
   "new": [
     {
@@ -1152,59 +1152,77 @@
       "author_name": "Le Parisien | politique",
       "published_at": "2026-11-23 06:15",
       "text": "Guerre en Ukraine : au moins 14 morts lors de frappes russes dans la région de Kiev\n➡️ https://l.leparisien.fr/quVh"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-22 06:16",
-      "text": "La magie de Noël va de nouveau s’emparer de Paris. ➡️ https://mrf.lu/2BL76"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-22 06:17",
-      "text": "📰 La une du Parisien du 22 novembre\n\n➡️ https://l.leparisien.fr/lhTi"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-22 06:18",
-      "text": "Subvocal : de lunettes qui permettent d’écrire… sans taper et sans parler !\n\n➡️ Sur les réseaux avec @lauratenoudji sur #Europe1 #Europe1Matin"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-22 06:23",
-      "text": "Pour Quentin Gérard, journaliste le JDD, «David Lisnard joue sur les deux tableaux», dans #LaMatinaleWE\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-22 06:27",
-      "text": "Présidentielle : Éric Zemmour se pose en «candidat de la liberté de parler» face «au totalitarisme d'atmosphère» https://ow.ly/24ME106Jmfu"
-    },
-    {
-      "author_name": "Le JDD",
-      "published_at": "2026-11-22 06:28",
-      "text": "Présidentielle 2027 : IA, réseaux sociaux, adhésions… les secrets de la «hype Lisnard» https://ow.ly/AZ5s106Jmgz"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-22 06:29",
-      "text": "La chronique internationale d'Harold Hyman du 22/11/2026 dans #LaMatinaleWE"
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-22 06:30",
-      "text": "La circonstance aggravante de racisme, écartée au stade de l’instruction, a été retenue par le verdict mais les peines sont inférieures aux réquisitions → https://l.lefigaro.fr/NTHt"
-    },
-    {
-      "author_name": "Aldo Sterone",
-      "published_at": "2026-11-22 06:33",
-      "text": "« Je suis remplie d’une immense compassion et d’un sentiment d’injustice. En partie de la colère aussi, car le capitaine m’a semblé indifférent » \n\nOn en sait plus aujourd'hui au sujet de la blogueuse polonaise \"Blondynka na autostopie\". Certains médias disent qu'elle aurait"
     },
     {
       "author_name": "Sud Radio",
-      "published_at": "2026-11-22 06:37",
-      "text": "🇫🇷 #Présidentielles2027 : @davidlisnard a-t-il les moyens de faire dérailler le scénario d'un duel Mélenchon-Le Pen au second tour ? \n\n🗨️ Votre avis nous intéresse dans le #GrandMatinWeekEnd avec @JFAchilli ! Réagissez en commentaires  \n\n📻 https://sudradio.fr\n☎️ 0 826 300"
+      "published_at": "2026-11-23 06:16",
+      "text": "🇫🇷 Choose France : Emmanuel Macron présente 200 nouveaux projets industriels ce lundi, dans un contexte de tension\n\nhttps://www.sudradio.fr/societe/choose-france-273-projets-valorises-et-pres-de-15-milliards-deuros-dinvestissements-nouveaux"
     },
+    {
+      "author_name": "L'Express",
+      "published_at": "2026-11-23 06:19",
+      "text": "Le maire de Cannes progresse, tandis que la candidate RN fléchit, mais les motivations des sondés réservent des surprises.\n\n➡️ https://l.lexpress.fr/tBa"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-23 06:20",
+      "text": "Dans l’Oise, un cortège de mariage a bloqué ce week-end la RN31 à coups de tirs de feux d’artifice. Le récit de Marc Rollang, ancien capitaine de gendarmerie et rédacteur pour La Voix du Gendarme dans #LaMatinale\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-23 06:21",
+      "text": "Présidentielle : Catherine Vautrin veut préparer les candidats au rôle de chef des Armées https://ow.ly/QiuH106Jrhi"
+    },
+    {
+      "author_name": "Régis Le Sommier",
+      "published_at": "2026-11-23 06:22",
+      "text": "[Retweet de @AMK_Mapping_] Claims by pro-Ukrainian propaganda accounts of Ukrainian breakthroughs in Sumy Oblast to the international border and incursions into Kursk Oblast are completely false. \n\nAs I previously reported, limited counterattacks and clearing operations are taking place in a few areas,"
+    },
+    {
+      "author_name": "Régis Le Sommier",
+      "published_at": "2026-11-23 06:23",
+      "text": "[Retweet de @jaredkushner] President Trump’s willingness to consider Article 5-like security guarantees for Ukraine is a critical feature to achieving lasting peace. Russia’s willingness to discuss such guarantees is a major step forward and potential indication that it is serious about peace.\n\nA credible"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-23 06:25",
+      "text": "Un investissement de 15 milliards d'euros a déjà été annoncé https://mrf.lu/2Bpvf"
+    },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-23 06:30",
+      "text": "Chirurgien-dentiste et père de famille, Alexis Gabriele a été abattu alors qu’il faisait son jogging samedi → https://l.lefigaro.fr/Emxd"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-23 06:30",
+      "text": "🔵 Présidentielle 2027 : David Lisnard double Édouard Philippe dans un sondage, Marine Le Pen perd jusqu’à 5 points\n➡️ https://l.leparisien.fr/043w",
+      "also_by": [
+        "Le Parisien | politique"
+      ]
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-23 06:36",
+      "text": "Aéronautique : comment le chinois Comac veut bousculer Airbus et Boeing dans les années à venir https://ow.ly/AnQq106Jroo"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-23 06:37",
+      "text": "🩺 Caminor : des dépistages du cancer du poumon dans les quartiers populaires\n\n🗣️Pr. Valérie Gounant : \"Les précaires sont deux fois plus à risque que les autres. On va au pied des tours pour donner accès à la prévention\" #PetitMatin\n\n📻https://www.sudradio.fr/"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-23 06:39",
+      "text": "🔴 Intempéries : le Pas-de-Calais en vigilance orange crues, la Corse en alerte vents, des rafales jusqu’à 150 km/h attendues\n➡️ https://l.leparisien.fr/ewmS"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-23 06:41",
+      "text": "🎾Alcaraz remporte les #ATPFinals pour la première fois ! \n\nhttps://www.sudradio.fr/sport-rugby/sport/masters-atp-carlos-alcaraz-reste-sur-son-nuage"
+    }
+  ],
+  "context": [
     {
       "author_name": "ThinkerView",
       "published_at": "2026-11-22 06:48",
