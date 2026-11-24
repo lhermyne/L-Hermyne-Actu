@@ -1,12 +1,12 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-24 01:18",
-  "period": "du 2026-11-23 01:18 au 2026-11-24 01:18",
-  "new_period": "du 2026-11-23 20:00 au 2026-11-24 01:18",
-  "context_period": "du 2026-11-23 01:18 au 2026-11-23 20:00",
+  "generated_at": "2026-11-24 01:24",
+  "period": "du 2026-11-23 01:24 au 2026-11-24 01:24",
+  "new_period": "du 2026-11-23 20:00 au 2026-11-24 01:24",
+  "context_period": "du 2026-11-23 01:24 au 2026-11-23 20:00",
   "coverage_complete": true,
-  "new_count": 250,
+  "new_count": 251,
   "context_count": 1239,
   "duplicates_merged": 102,
   "empty_removed": 2,
@@ -1311,6 +1311,11 @@
       "author_name": "Jon De Lorraine",
       "published_at": "2026-11-24 01:17",
       "text": "Bravo à Darius Rochebin qui fait mention de Soros à Gabriel Zucman. Évidemment, il ne dit pas être financé par ce milliardaire.\n[Cite @jon_delorraine] On avait prouvé que Zucman était financé par l’UE et Soros.\nMais les plateaux continuent de le mettre en avant comme si de rien n'était."
+    },
+    {
+      "author_name": "Jon De Lorraine",
+      "published_at": "2026-11-24 01:20",
+      "text": "Bravo à Darius Rochebin qui fait mention de Soros à Gabriel Zucman. \nÉvidemment, Zucman ne dit pas être financé par Soros.\n[Cite @jon_delorraine] Gabriel Zucman est directeur de l'UE Tax Observatory qui a des partenariats et est principalement financé par une agence norvégienne et dans sa fondation on voit l'Open Society foundation.\nSource : le site UE Tax Observatory et le rapport 2023-2024."
     }
   ],
   "context": [
