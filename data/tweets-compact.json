@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-24 01:54",
-  "period": "du 2026-11-23 01:54 au 2026-11-24 01:54",
-  "new_period": "du 2026-11-23 20:00 au 2026-11-24 01:54",
-  "context_period": "du 2026-11-23 01:54 au 2026-11-23 20:00",
+  "generated_at": "2026-11-24 02:24",
+  "period": "du 2026-11-23 02:24 au 2026-11-24 02:24",
+  "new_period": "du 2026-11-23 20:00 au 2026-11-24 02:24",
+  "context_period": "du 2026-11-23 02:24 au 2026-11-23 20:00",
   "coverage_complete": true,
-  "new_count": 253,
-  "context_count": 1236,
-  "duplicates_merged": 102,
+  "new_count": 254,
+  "context_count": 1235,
+  "duplicates_merged": 103,
   "empty_removed": 2,
   "new": [
     {
@@ -1320,20 +1320,23 @@
     {
       "author_name": "Le Parisien | politique",
       "published_at": "2026-11-24 01:33",
-      "text": "Nvidia : Donald Trump (encore) accusé de s’être enrichi après avoir fait pression pour le retour de Jensen Huang à la tête du groupe\n➡️ https://l.leparisien.fr/043H"
+      "text": "Nvidia : Donald Trump (encore) accusé de s’être enrichi après avoir fait pression pour le retour de Jensen Huang à la tête du groupe\n➡️ https://l.leparisien.fr/043H",
+      "also_by": [
+        "Le Parisien"
+      ]
     },
     {
       "author_name": "Médias-Presse-Info",
       "published_at": "2026-11-24 01:35",
       "text": "Mardi 24 novembre – Saint Jean de la Croix, Confesseur et Docteur - Saint Chrysogone, Martyr. - https://www.medias-presse.info/mardi-24-novembre-saint-jean-de-la-croix-confesseur-et-docteur-saint-chrysogone-martyr-2/253404/ - Dans l'Ordre du Carmel : fête de première classe Sa..."
+    },
+    {
+      "author_name": "Alain Weber",
+      "published_at": "2026-11-24 02:24",
+      "text": "Pierre Perret et Nick Conrad : deux poids, deux mesures ?\n\nTreize associations viennent de déposer plainte contre Pierre Perret, 92 ans, pour sa chanson \"Les Antisémites\".\n\nL’ampleur de cette mobilisation me laisse pour le moins perplexe.\n\nSouvenons-nous du rappeur Nick Conrad"
     }
   ],
   "context": [
-    {
-      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
-      "published_at": "2026-11-23 02:23",
-      "text": "[Retweet de @jon_delorraine] 🔴🇫🇷 FLASH - Gérald Darmanin pense que Jean-Luc Mélenchon gagnera face à Marine Le Pen."
-    },
     {
       "author_name": "Régis Le Sommier",
       "published_at": "2026-11-23 02:31",
