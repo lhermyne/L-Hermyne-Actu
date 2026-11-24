@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-24 07:55",
-  "period": "du 2026-11-23 07:55 au 2026-11-24 07:55",
-  "new_period": "du 2026-11-23 20:00 au 2026-11-24 07:55",
-  "context_period": "du 2026-11-23 07:55 au 2026-11-23 20:00",
+  "generated_at": "2026-11-24 08:26",
+  "period": "du 2026-11-23 08:26 au 2026-11-24 08:26",
+  "new_period": "du 2026-11-23 20:00 au 2026-11-24 08:26",
+  "context_period": "du 2026-11-23 08:26 au 2026-11-23 20:00",
   "coverage_complete": true,
-  "new_count": 345,
-  "context_count": 1144,
-  "duplicates_merged": 99,
+  "new_count": 380,
+  "context_count": 1100,
+  "duplicates_merged": 96,
   "empty_removed": 2,
   "new": [
     {
@@ -1795,248 +1795,184 @@
       "author_name": "Le Parisien",
       "published_at": "2026-11-24 07:55",
       "text": "« Hors de question que j’aille en Pologne ou en Inde » : après l’annonce de fermeture du site de l’Oise, plus de 200 salariés d’OP Mobility manifestent\n➡️ https://l.leparisien.fr/or0p"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-23 07:55",
-      "text": "La chronique santé du Dr Milhau du 23/11/2026"
     },
     {
-      "author_name": "Jean-Yves Le Gallou",
-      "published_at": "2026-11-23 07:56",
-      "text": "[Retweet de @pierremarieseve] Visiblement, les magistrats de gauche ont le droit d’avoir des opinions politiques, mais pas les magistrats de droite !"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-23 07:58",
-      "text": "Emmanuel Macron confie que l’adoption d’une règle d’or budgétaire « peut être une idée à explorer »\n➡️ https://l.leparisien.fr/Qt9B",
-      "also_by": [
-        "Le Parisien | politique"
-      ]
-    },
-    {
-      "author_name": "Marc Vanguard",
-      "published_at": "2026-11-23 08:00",
-      "text": "Bonjour @grok, cette personne souffre de grandes difficultés de compréhension.\n\nPeux-tu lui expliquer très simplement comment les statistiques des condamnations pénales en Suisse divisent le nombre de résidents condamnés par la population résidente ?\n\nC'est compliqué pour lui.\n[Cite @meme_gauche] @marc_vanguard @grok Touchant de vous voir confirmer l'exclusion des touristes... au dénominateur. Mais avez-vous vérifié votre numérateur ? Vos condamnations incluent les frontaliers et les sans-papiers, qui ne sont pas dans votre \"population résidente\". Diviser l'un par l'autre, c'est une faute"
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-23 08:00",
-      "text": "«S’il y a encore de la volatilité d’ici janvier, réfléchir à une règle d’or du type de celle de 2011 peut être une idée à explorer».\nhttps://l.lefigaro.fr/37VH"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-23 08:00",
-      "text": "«Les services secrets ukrainiens auraient mis en place une structure pour mener une guerre clandestine mondiale», explique cet expert https://www.cnews.fr/france/2026-11-23/les-services-secrets-ukrainiens-auraient-mis-en-place-une-structure-pour-mener"
+      "author_name": "Europe 1",
+      "published_at": "2026-11-24 07:57",
+      "text": "Règle d’or : l’hommage du vice à la vertue\n\n➡️ Écoutez l’édito politique de @abrezet du lundi au vendredi à 7h50 sur #Europe1"
     },
     {
       "author_name": "Sud Radio",
-      "published_at": "2026-11-23 08:01",
-      "text": "🔴François Hollande, \"jamais un non-candidat n'a été autant en campagne\" #GrandMatin\n\n🗣️@francoisedegois : \"Dans ce radeau de la Méduse du centre-gauche, il fait figure de sauveur\"\n\n📻https://www.sudradio.fr/"
-    },
-    {
-      "author_name": "Jean-Yves Le Gallou",
-      "published_at": "2026-11-23 08:01",
-      "text": "Bon anniversaire @1RiposteLaique ! \nPour son entrée dans sa  20 e année  le régime d’#ExtremeCentre a offert à Riposte laïque un bien singulier hommage : le parquet de Paris a demandé le bannissement numérique du site qui existe pourtant contre vents et marées depuis 2007. Avec",
-      "also_by": [
-        "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱"
-      ]
+      "published_at": "2026-11-24 07:58",
+      "text": "🗣️@regismailhot : \"De Villepin, on dirait le comte de Monte-Cristo qui sort de chez Franck Provost !\" #Presidentielle2027\n\n📻https://www.sudradio.fr/"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-23 08:03",
-      "text": "L'édito de Paul Sugy : «2027 : le RN se prépare» dans #LaMatinale"
+      "published_at": "2026-11-24 07:58",
+      "text": "La chronique santé du Dr Milhau du 24/11/2026"
+    },
+    {
+      "author_name": "Dreuz",
+      "published_at": "2026-11-24 07:58",
+      "text": "La haine antichrétienne, antisémite et anti-Blanc s’installe à Rouen dans l’indifférence https://buff.ly/mhKEcPN"
+    },
+    {
+      "author_name": "Nicolas Dupont-Aignan",
+      "published_at": "2026-11-24 08:00",
+      "text": "Je propose de passer le SMIC à 1600 euros nets, en le finançant par une baisse des cotisations salariales et patronales.\n\nCette mesure est ESSENTIELLE pour redonner un peu d’air aux plus modestes et relancer notre consommation, aujourd’hui à l’arrêt."
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-24 08:00",
+      "text": "🍳L'œuf mayo, emblème du zinc français, a son nouveau champion du monde !\n\n👇Un gagnant de Top Chef sacré !\n\nhttps://www.sudradio.fr/societe/a"
+    },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-24 08:02",
+      "text": "Une des plus importantes opérations de l’industrie pharmaceutique mondiale.→https://l.lefigaro.fr/tIOB"
+    },
+    {
+      "author_name": "Dreuz",
+      "published_at": "2026-11-24 08:02",
+      "text": "Avertissement de Ted Cruz aux Démocrates du Texas: Ne vous reposez pas sur vos lauriers ! https://buff.ly/OxczKQS"
+    },
+    {
+      "author_name": "Jon De Lorraine",
+      "published_at": "2026-11-24 08:04",
+      "text": "Le déclassement, c'est ça. \nAucun candidat à l'élection présidentielle n’en parle et pourtant le pouvoir d'achat des Français fond comme neige au soleil à cause de l'inflation."
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-24 08:04",
+      "text": "Crise économique oblige, les Français sont contraints de piocher dans leurs économies https://mrf.lu/2Pc02"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-24 08:05",
+      "text": "« Le journal spirituel du pape François », publié ce mardi par le Vatican, montre un pontife sous un jour inédit, dont le sacerdoce représenta un véritable chemin de croix.\n\nPar @Jeromecordelier\n➡️ https://l.lepoint.fr/vsJ"
+    },
+    {
+      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
+      "published_at": "2026-11-24 08:05",
+      "text": "[Retweet de @GenevieveRuelle] « La preuve est faite que l'information est totalement manipulée, qu'elle est dispensée non pas en fonction de l'importance relative réelle des événements rapportés, mais uniquement en fonction des répercussions que pourrait avoir, que l'on craint que n'ait, la vérité brute des"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-24 08:05",
+      "text": "L'édito de Paul Sugy : «Emmanuel Macron ne se résout pas à devoir partir» dans #LaMatinale"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-24 08:06",
+      "text": "«Je ne peux pas oublier le puissant râle de sa voix» : dans un journal intime, le défunt pape François assure avoir vu le diable trois fois\n➡️ https://l.leparisien.fr/yIfJ"
+    },
+    {
+      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
+      "published_at": "2026-11-24 08:06",
+      "text": "[Retweet de @CeJourHistoire] Il a 37 ans, six enfants et une blessure à la tête. Il vient de s'échapper d'un hôpital tenu par les Allemands, par une fenêtre.\n\nQuatre ans plus tard, il entre dans Paris à la tête d'une division blindée.\n\nPhilippe de Hauteclocque est né le 22 novembre 1902, au château de"
+    },
+    {
+      "author_name": "Dreuz",
+      "published_at": "2026-11-24 08:07",
+      "text": "Génocide : ces juges qui pourraient faire d’Israël un état paria https://buff.ly/5FBlaT9"
+    },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-24 08:07",
+      "text": "Colombie: les images des dégâts de l'attentat à la voiture piégée qui a détruit une rue de Villavicencio\nUn attentat à la voiture piégée a détruit le 23 novembre le siège du gouvernement régional et d'autres bâtiments à Villavicencio, dans le centre de la Colombie, sur fond de"
+    },
+    {
+      "author_name": "Dreuz",
+      "published_at": "2026-11-24 08:09",
+      "text": "Edouard Philippe : ni massif, ni sérieux https://buff.ly/RiJ5YqI"
+    },
+    {
+      "author_name": "Le Jarl",
+      "published_at": "2026-11-24 08:09",
+      "text": "Ils ont tellement inhibé nos policiers que ce que je vais te raconter lors des interventions de l’équipe de sécurité sur la dalle du Colombier va te faire halluciner ! \nÉmission à retrouver sur YouTube sur : Touche pas à mon flic.\nAvec @Bruno_Attal_"
     },
     {
       "author_name": "L'Express",
-      "published_at": "2026-11-23 08:04",
-      "text": "Le gouvernement a annoncé la fin de la plate-forme en 2028. Pour les responsables d'écoles et d'universités, faire table rase de ce qui existe aujourd’hui serait une erreur mais des pistes...\n\n➡️ https://l.lexpress.fr/yV1"
+      "published_at": "2026-11-24 08:09",
+      "text": "C'est dans les pays Baltes et dans toute l'Europe centrale et orientale que l'effervescence démocratique est la plus intense.\n\n➡️ https://l.lexpress.fr/VPn"
     },
     {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-23 08:04",
-      "text": "« On nous traite de manipulateurs » : ces parents d’enfants victimes qui accusent les mairies de protéger les « agresseurs »\n➡️ https://l.leparisien.fr/C5uT"
+      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
+      "published_at": "2026-11-24 08:09",
+      "text": "« Avec son humour, son sens de l’autodérision, son grand style, Renaud Camus aborde l’un des sujets les plus brûlants de la politique française en esquivant les ornières de l’acrimonie. Il s’agira donc de guerre civile, de coup d’État, d’Europe, mais tout aussi bien de comtesses\n[Cite @LibrairieRCamus] « Avec son humour, son sens de l’autodérision, son grand style, Renaud Camus aborde l’un des sujets les plus brûlants de la politique française en esquivant les ornières de l’acrimonie. Il s’agira donc de guerre civile, de coup d’État, d’Europe, mais tout aussi bien de comtesses"
     },
     {
-      "author_name": "Jean-Yves Le Gallou",
-      "published_at": "2026-11-23 08:05",
-      "text": "[Retweet de @ArnaudRerolle] 📺 Cela fait maintenant trois ans qu’avec @periclesfrance nous contribuons au débat public en créant ou en soutenant des initiatives citoyennes comme des think tanks, des écoles de formation, des mouvements militants ou des outils technologiques.\n\nÀ l’approche de l’élection"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-23 08:06",
-      "text": "🇫🇷 Dominique de @Villepin candidat à la #Presidentielle2027 \n\n🗣️@regismailhot : \"Avec De Villepin, on est à mi-chemin entre un rendez-vous Tinder et une soirée libertine à l'Académie française !\" #GrandMatin\n\n📻https://www.sudradio.fr/"
-    },
-    {
-      "author_name": "Le Point",
-      "published_at": "2026-11-23 08:06",
-      "text": "Téléthon : comment la thérapie génique a changé le quotidien de Sacha face à la myopathie de Duchenne\n\nPar @AdeliaPaolillo https://l.lepoint.fr/yTU"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-23 08:07",
-      "text": "Des propos qui ont indigné  https://mrf.lu/2BFv6"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-23 08:10",
-      "text": "« Pour moi, c’est du gâchis ! » : un des plus grands centres de recherches de l’Oise va fermer, 250 emplois menacés\n➡️ https://l.leparisien.fr/FnRE",
-      "also_by": [
-        "ThinkerView"
-      ]
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-23 08:11",
-      "text": "Marchés de Noël : à Lille, les premiers visiteurs se laissent gagner par la magie des fêtes https://ow.ly/EiaG106JrGc"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-23 08:12",
-      "text": "Ce dimanche, la statue de la sainte Vierge à Porto-Vecchio, profanée il y a deux mois, a été de nouveau prise pour cible. Le tribunal doit rendre son jugement aujourd'hui, les enjeux du verdict décryptés par la correspondante CNEWS en Corse Kristina Luzi dans #LaMatinale"
-    },
-    {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-23 08:13",
-      "text": "Sur LCI, Ségolène Royal a déclaré que si l’extrême droite / le RN arrivait au pouvoir, « ils vont tuer des Noirs et des Arabes », en lien avec la théorie du « grand remplacement »."
-    },
-    {
-      "author_name": "Jean-Yves Le Gallou",
-      "published_at": "2026-11-23 08:13",
-      "text": "[Retweet de @SociologenHD] Mette Frederiksen, Denmark’s prime minister, has caused a stir across Europe by setting out her views on migration.\n\nBut here is the essential point: the views she expressed on the Borgerlig Tabloid podcast are ones she has held for many years.\n\nI have attached two screenshots"
+      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
+      "published_at": "2026-11-24 08:10",
+      "text": "Le Jour ni l’Heure 0498 : En Lomagne — dans la Garrière, Plieux, Gers, mercredi 18 novembre 2026, 16:58:32"
     },
     {
       "author_name": "Agence France-Presse",
-      "published_at": "2026-11-23 08:14",
-      "text": "Le plan blanc a été déclenché dimanche au CHU de la Guadeloupe, en plein transfert vers un nouveau site, après \"une cyberattaque de grande ampleur\", survenue samedi soir.\n\n➡️ https://u.afp.com/SFEj"
+      "published_at": "2026-11-24 08:10",
+      "text": "🇺🇸🇨🇳 Le gouvernement américain a placé sur une liste noire lundi la société singapourienne Megaspeed et ses filiales, suspectées d'avoir détourné des puces dernier cri Nvidia vers la Chine malgré l'embargo en vigueur.\n\n➡️ https://u.afp.com/SFDt"
     },
     {
-      "author_name": "Alain Weber",
-      "published_at": "2026-11-23 08:14",
-      "text": "Michel Zecler, la victimisation à outrance est pathétique \n\nMichel Zecler : cinq ans de prison pour chacun des policiers, et ce ne serait toujours pas assez ?\n\nJe l’avais écrit dès le verdict : les trois policiers qui ont passé Michel Zecler à tabac ont commis des actes"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-23 08:14",
-      "text": "Benjamin Biolay s’attaque à Pierre Perret après sa chanson sur LFI : « Je n’ai jamais pu l’encadrer »\n\n➡️ Écoutez l'édito de @Laurent7Tessier dans #Europe1Matin #Europe1"
+      "author_name": "Damien Rieu",
+      "published_at": "2026-11-24 08:12",
+      "text": "[Retweet de @OlivierBabeau] Chaque jour, et presque chaque minute, confirme que l’IA est le plus grand enjeu, la révolution la plus violente, la plus profonde, la plus incroyable de l’histoire de l’humanité qui va absolument tout changer à l’économie, à la société, à la politique et à l’être humain. \n\nEt"
     },
     {
       "author_name": "Sud Radio",
-      "published_at": "2026-11-23 08:14",
-      "text": "🔴@ELevyCauseur : \"Sur les réseaux, c'est un Far-West. Finalement, je préfère l'anarchie au communisme !\" #GrandMatin\n\n📺L’ARCOM veut imposer les mêmes règles de pluralisme que les médias aux créateurs de contenus\n\n📻https://www.sudradio.fr/"
+      "published_at": "2026-11-24 08:14",
+      "text": "💰\"Il y a un angle mort derrière cette règle d’or budgétaire\"\n\n🗣️@ELevyCauseur : \"Macron, le recordman de la dette publique, se préoccupe tellement du sérieux de ses successeurs qu’il leur attache les mains dans le dos\" #GrandMatin\n\n📻https://www.sudradio.fr/"
+    },
+    {
+      "author_name": "Le Figaro Culture",
+      "published_at": "2026-11-24 08:16",
+      "text": "Goût pour la récupération, passion pour les marionnettes et le théâtre : André Derain, une âme d’enfant joueur mis à l’honneur à Troyes https://l.lefigaro.fr/ZzJE"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-23 08:15",
-      "text": "«L’OM est une équipe qui surperforme» : le constat froid du capitaine du Mans après la remontada de son équipe au Vélodrome\n➡️ https://l.leparisien.fr/v2qX"
+      "published_at": "2026-11-24 08:17",
+      "text": "« Maman, j’ai raté l’avion » : 34 ans après, l’acteur Macaulay Culkin va retrouver son rôle culte de Kevin\n➡️ https://l.leparisien.fr/MPjr"
     },
     {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-23 08:18",
-      "text": "«C’est un lynchage médiatique qui est commandé».→https://l.lefigaro.fr/Cl3g"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-23 08:18",
-      "text": "Mort d’un homme d’honneur\n\n➡️ Retrouvez l’édito international de Vincent Hervouët du lundi au jeudi à 7h40 sur #Europe1"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-23 08:18",
-      "text": "«L'extrême gauche est prête à sacrifier les jeunes», estime François-Xavier Bellamy, eurodéputé et vice-président du parti Les Républicains, interrogé sur les blocages lycéens et la possibilité d'une année blanche dans #LaGrandeInterview"
-    },
-    {
-      "author_name": "Le Média en 4⃣-4⃣-2⃣",
-      "published_at": "2026-11-23 08:18",
-      "text": "Brexit : le ministre britannique Ed Miliband n’exclut pas un retour du Royaume-Uni dans l’UE https://lemediaen442.fr/brexit-le-ministre-britannique-ed-miliband-nexclut-pas-un-retour-du-royaume-uni-dans-lue/\n\nAprès trois nouveaux accords avec Bruxelles, le ministre britannique des Affaires étrangères laisse ouverte l’hypothèse d’une réadhésion à terme. En 2016, 51,9 %"
+      "author_name": "Marion Maréchal",
+      "published_at": "2026-11-24 08:18",
+      "text": "Les résultats des élections syndicales au Conseil supérieur de la magistrature sont implacables : alors que 80% des Français réclament une justice plus ferme, plus de 80% des magistrats votant choisissent des listes de gauche et d’extrême gauche. \n\nCet écart abyssal entre les\n[Cite @pierremarieseve] 🔴 Il y avait des élections dans la magistrature la semaine dernière !\n\nLes magistrats élisaient leurs représentants au Conseil Supérieur de la Magistrature (l'instance qui juge les juges).\n\nSiège :\n- USM (centre-gauche) 58,3% ⬇️\n- SM (extrême-gauche) 30% ⬇️\n- Unité"
     },
     {
       "author_name": "Le Point",
-      "published_at": "2026-11-23 08:18",
-      "text": "Atteint de la myopathie de Duchenne, Sacha a reçu une thérapie génique expérimentale à l’âge de 6 ans. Sa mère, Hélène, raconte leur parcours engagé aux côtés de l’AFM-Téléthon pour faire avancer la recherche.\n\nPar @AdeliaPaolillo\n➡️ https://l.lepoint.fr/PHN"
+      "published_at": "2026-11-24 08:19",
+      "text": "Vendredi, à Bruxelles, Andy Burnham et Nigel Farage ont rejoué le référendum de 2016, l’un en prêcheur, l’autre en humoriste.\n\n Et Theresa May est venue s’en mêler.\n\n🖋️ L'ÉDITO de @Eberretta\n➡️ https://l.lepoint.fr/Qug"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-24 08:20",
+      "text": "«Méfiez-vous des contrefaçons, de ceux qui, sous l'apparence de la nouveauté, ne veulent rien changer», lance Éric Ciotti, président de l’Union des droites pour la République et maire de Nice, interrogé sur une primaire de la droite et du centre dans #LaGrandeInterview"
     },
     {
       "author_name": "Europe 1",
-      "published_at": "2026-11-23 08:19",
-      "text": "David Lisnard, bulle médiatique ou réalité politique\n\n➡️ Écoutez l’édito politique de @vtremolet du lundi au vendredi à 7h50 sur #Europe1"
-    },
-    {
-      "author_name": "Gilbert Collard",
-      "published_at": "2026-11-23 08:20",
-      "text": "Un jour ou l'autre le drapeau revient sur les décombres !"
-    },
-    {
-      "author_name": "Reprenons le contrôle !",
-      "published_at": "2026-11-23 08:21",
-      "text": "[Retweet de @CH_Gallois] Mensonges, diffamation et propos complètement délirants : il serait temps que Ségolène Royal aille consulter."
-    },
-    {
-      "author_name": "Reprenons le contrôle !",
-      "published_at": "2026-11-23 08:21",
-      "text": "[Retweet de @CH_Gallois] Benjamin Duhamel n’est pas du tout intéressé par le programme de la favorite à l’élection présidentielle. Il ne pose que des questions pourries dans le but de tenter de la coincer.\n\nMarine répond brillamment à chacune d’entre elles, mais cela en dit long sur le niveau"
+      "published_at": "2026-11-24 08:20",
+      "text": "Primaire de la droite : \"C'est la primaire de ceux qui veulent que rien ne change\" déclare @eciotti #LaGrandeInterview #Europe1"
     },
     {
       "author_name": "Causeur.fr",
-      "published_at": "2026-11-23 08:22",
-      "text": "Tant qu’il y aura des films @causeur https://www.causeur.fr/tant-quil-y-aura-des-films-paper-tiger-de-james-gray-337637"
+      "published_at": "2026-11-24 08:22",
+      "text": "Innovation: Paris lance un radar pour flasher les machos @causeur https://www.causeur.fr/mascuradar-la-chasse-aux-machos-est-ouverte-dans-la-capitale-337551"
     },
     {
-      "author_name": "Reprenons le contrôle !",
-      "published_at": "2026-11-23 08:22",
-      "text": "[Retweet de @Guillaume_Bigot] 🔴 La réforme des retraites défendue par @MLP_officiel entend rétablir la justice sociale tout en maîtrisant les dépenses publiques.\n\nElle prévoit également d’introduire une part de capitalisation pour chacun, sans cotisation supplémentaire.\n\n#Marine2027 #RN"
+      "author_name": "Eric Zemmour",
+      "published_at": "2026-11-24 08:22",
+      "text": "Quand on vous dit que c'est contraire à la Constitution, c'est faux : c'est contraire à la jurisprudence du Conseil constitutionnel.\n\nJe ne céderai pas au diktat des juristes. Je soumettrai mes mesures sur l'immigration au peuple, par référendum, comme le général de Gaulle."
     },
     {
-      "author_name": "Clément Macchi",
-      "published_at": "2026-11-23 08:22",
-      "text": "📊 Présidentielle 2027 - vague 10\n@harrisint_fr x @RTLFrance \n\nNet recul de Le Pen (30-31%), stabilisation de Mélenchon à un haut niveau (18-19%), Lisnard (11-12%) devance Philippe (9-10%) et l’entièreté des candidats de la droite et du centre pour la première fois. Le bloc"
-    },
-    {
-      "author_name": "Police nationale",
-      "published_at": "2026-11-23 08:22",
-      "text": "Nouvelle semaine, nouveau récap de l’actualité police nationale !"
-    },
-    {
-      "author_name": "Reprenons le contrôle !",
-      "published_at": "2026-11-23 08:24",
-      "text": "Stupéfiant, non ?\n[Cite @Telegraph] Sir Tony Blair and Baroness May have become the latest former prime ministers to warn Andy Burnham against seeking to rejoin the EU\n\n🔗 https://www.telegraph.co.uk/news/2026/11/22/accept-brexit-and-move-on-theresa-may-tells-burnham/?WT.mc_id=tmgoff_tw_post_on-theresa-may-tells-burnham/"
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-24 08:26",
+      "text": "NBA : touché au dos, Victor Wembanyama forfait pour la première fois de la saison\n➡️ https://l.leparisien.fr/m7N1"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-23 08:24",
-      "text": "La direction générale de la police nationale (DGPN) a saisi la justice  https://mrf.lu/2BFwD"
-    },
-    {
-      "author_name": "Reprenons le contrôle !",
-      "published_at": "2026-11-23 08:24",
-      "text": "[Retweet de @OL_C3307] Point critique soulevé depuis des années par l’association @SOSMAIRES 👇"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-23 08:25",
-      "text": "Blocus des lycées et universités : \"il y a des élèves qui n'ont pas cours depuis deux mois et demi [...] et qui sont privées de la possibilité même de pouvoir continuer leur formation. C'est une injustice révoltante.\" déclare @fxbellamy #LaGrandeInterview #Europe1"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-23 08:25",
-      "text": "«Je ne comprends pas la candidature d'Éric Zemmour», lance François-Xavier Bellamy, eurodéputé et vice-président du parti Les Républicains, interrogé sur une éventuelle primaire de la droite dans #LaGrandeInterview"
-    },
-    {
-      "author_name": "Reprenons le contrôle !",
-      "published_at": "2026-11-23 08:25",
-      "text": "[Retweet de @OL_C3307] Et les banques qui refusent les comptes de mandataires dans le cadre d’élections démocratiques devraient également être hors la loi et sanctionnées"
-    },
-    {
-      "author_name": "Ligne Droite • La matinale de RC",
-      "published_at": "2026-11-23 08:25",
-      "text": "💥 \"Si la France poursuit la tendance actuelle, la part de musulmans présents sur le territoire s’élèverait à 20 % en 2070, contre 9 % actuellement.\"\n\n🗣️ @magdadHfl décrypte l’évolution démographique et religieuse en France et en Europe à l’horizon 2070.\n\n👉 Pour nous soutenir :"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-23 08:26",
-      "text": "💰Macron va-t-il convoquer un Congrès pour adopter \"une règle d’or budgétaire ?\" #GrandMatin\n\n🗣️Jean Petaux (chercheur @Spirales__) : \"En France, on voit un changement qui pourrait permettre à une majorité de se dégager\" \n\n📻Écoutez #ParlonsCash et réagissez sur"
-    },
+      "published_at": "2026-11-24 08:26",
+      "text": "«Édouard Philippe, c'est l'homme de la dette. Certains diront que c'est Monsieur Macron en moins bien», lâche Éric Ciotti, président de l’Union des droites pour la République dans #LaGrandeInterview\n\nToute l'info est à retrouver sur https://cnews.fr"
+    }
+  ],
+  "context": [
     {
       "author_name": "Sud Radio",
       "published_at": "2026-11-23 08:26",
@@ -2299,6 +2235,11 @@
       "author_name": "Le Point",
       "published_at": "2026-11-23 08:53",
       "text": "L’intelligence artificielle vient de contribuer à résoudre une énigme mathématique de 1859. Mais « la preuve formalisée n’est que la partie émergée de l’iceberg », explique au « Point » Hugo Duminil-Copin, médaille Fields 2022. L’aventure intellectuelle ne fait que commencer !"
+    },
+    {
+      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
+      "published_at": "2026-11-23 08:54",
+      "text": "[Retweet de @jylgallou] Bon anniversaire @1RiposteLaique ! \nPour son entrée dans sa  20 e année  le régime d’#ExtremeCentre a offert à Riposte laïque un bien singulier hommage : le parquet de Paris a demandé le bannissement numérique du site qui existe pourtant contre vents et marées depuis 2007. Avec"
     },
     {
       "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
@@ -4045,6 +3986,11 @@
       "author_name": "Europe 1",
       "published_at": "2026-11-23 12:21",
       "text": "\"Entre diffamation et incitation à la haine c'est assez étonnant d'entendre ce genre de propos dans la bouche d'une femme qui s'était présentée au présidentiel il y a déjà quelques années.\" s'étonne Mike, auditeur, #ChristineKellyEtVous @christine_kelly #Europe1"
+    },
+    {
+      "author_name": "ThinkerView",
+      "published_at": "2026-11-23 12:21",
+      "text": "[Retweet de @le_Parisien] « Pour moi, c’est du gâchis ! » : un des plus grands centres de recherches de l’Oise va fermer, 250 emplois menacés\n➡️ https://l.leparisien.fr/FnRE"
     },
     {
       "author_name": "Sud Radio",
