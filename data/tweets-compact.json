@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-24 04:54",
-  "period": "du 2026-11-23 04:54 au 2026-11-24 04:54",
-  "new_period": "du 2026-11-23 20:00 au 2026-11-24 04:54",
-  "context_period": "du 2026-11-23 04:54 au 2026-11-23 20:00",
+  "generated_at": "2026-11-24 05:24",
+  "period": "du 2026-11-23 05:24 au 2026-11-24 05:24",
+  "new_period": "du 2026-11-23 20:00 au 2026-11-24 05:24",
+  "context_period": "du 2026-11-23 05:24 au 2026-11-23 20:00",
   "coverage_complete": true,
-  "new_count": 267,
-  "context_count": 1226,
-  "duplicates_merged": 104,
+  "new_count": 268,
+  "context_count": 1225,
+  "duplicates_merged": 105,
   "empty_removed": 2,
   "new": [
     {
@@ -1398,15 +1398,18 @@
     {
       "author_name": "Le Parisien | politique",
       "published_at": "2026-11-24 04:41",
-      "text": "« Il y aura une grande clarification » : à l’Assemblée nationale, le groupe sans queue ni tête de Gabriel Attal https://l.leparisien.fr/bOi4"
+      "text": "« Il y aura une grande clarification » : à l’Assemblée nationale, le groupe sans queue ni tête de Gabriel Attal https://l.leparisien.fr/bOi4",
+      "also_by": [
+        "Le Parisien"
+      ]
+    },
+    {
+      "author_name": "Ni Oubli Ni Pardon",
+      "published_at": "2026-11-24 05:16",
+      "text": "🔴 CoronaCircus\n\n05/2020 Après les rues, ce sont les plages qui sont désinfectées à Cannes, avec un mélange d'eau de mer et d'eau oxygénée diluée à 0,5 %. De quoi rassurer les baigneurs qui pourront bientôt poser leur serviette sur le sable.\n\nTous les liens \n👉"
     }
   ],
   "context": [
-    {
-      "author_name": "Ni Oubli Ni Pardon",
-      "published_at": "2026-11-23 05:16",
-      "text": "🔴 CoronaCircus\n\n02/2021 En Espagne, combinaisons intégrales, gants, masques... Les assesseurs des bureaux de vote spéciaux ouverts en Catalogne pour accueillir les malades du Covid ou les personnes en quarantaine. Malgré ce dispositif sanitaire très strict, l'élection a été"
-    },
     {
       "author_name": "Le Figaro",
       "published_at": "2026-11-23 05:30",

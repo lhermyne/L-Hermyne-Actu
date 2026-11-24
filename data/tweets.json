@@ -1,14 +1,40 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-24T03:54:49.986Z",
+  "updated_at": "2026-11-24T04:24:55.327Z",
   "window_hours": 24,
-  "window_start": "2026-11-23T03:54:49.986Z",
+  "window_start": "2026-11-23T04:24:55.327Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1599,
+  "count": 1600,
   "tweets": [
+    {
+      "id": "2125081078725517789",
+      "created_at": "2026-11-24T04:16:25.000Z",
+      "author": "NiONiPardon",
+      "author_name": "Ni Oubli Ni Pardon",
+      "type": "tweet",
+      "text": "🔴 CoronaCircus\n\n05/2020 Après les rues, ce sont les plages qui sont désinfectées à Cannes, avec un mélange d'eau de mer et d'eau oxygénée diluée à 0,5 %. De quoi rassurer les baigneurs qui pourront bientôt poser leur serviette sur le sable.\n\nTous les liens \n👉",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/NiONiPardon/status/2125081078725517789"
+    },
+    {
+      "id": "2125077846062428624",
+      "created_at": "2026-11-24T04:03:35.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "« Il y aura une grande clarification » : à l’Assemblée nationale, le groupe sans queue ni tête de Gabriel Attal https://l.leparisien.fr/uUxE",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2125077846062428624"
+    },
     {
       "id": "2125072271035310556",
       "created_at": "2026-11-24T03:41:26.000Z",
@@ -20782,19 +20808,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/Le_Figaro/status/2124722196954165297"
-    },
-    {
-      "id": "2124718647172034843",
-      "created_at": "2026-11-23T04:16:15.000Z",
-      "author": "NiONiPardon",
-      "author_name": "Ni Oubli Ni Pardon",
-      "type": "tweet",
-      "text": "🔴 CoronaCircus\n\n02/2021 En Espagne, combinaisons intégrales, gants, masques... Les assesseurs des bureaux de vote spéciaux ouverts en Catalogne pour accueillir les malades du Covid ou les personnes en quarantaine. Malgré ce dispositif sanitaire très strict, l'élection a été",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/NiONiPardon/status/2124718647172034843"
     }
   ]
 }
