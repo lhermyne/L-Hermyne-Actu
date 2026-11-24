@@ -1,14 +1,40 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-24T00:24:08.971Z",
+  "updated_at": "2026-11-24T00:54:16.558Z",
   "window_hours": 24,
-  "window_start": "2026-11-23T00:24:08.971Z",
+  "window_start": "2026-11-23T00:54:16.558Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1594,
+  "count": 1593,
   "tweets": [
+    {
+      "id": "2125025370407661952",
+      "created_at": "2026-11-24T00:35:04.000Z",
+      "author": "InfoMdia",
+      "author_name": "Médias-Presse-Info",
+      "type": "tweet",
+      "text": "Mardi 24 novembre – Saint Jean de la Croix, Confesseur et Docteur - Saint Chrysogone, Martyr. - https://www.medias-presse.info/mardi-24-novembre-saint-jean-de-la-croix-confesseur-et-docteur-saint-chrysogone-martyr-2/253404/ - Dans l'Ordre du Carmel : fête de première classe Sa...",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/InfoMdia/status/2125025370407661952"
+    },
+    {
+      "id": "2125025082007511224",
+      "created_at": "2026-11-24T00:33:55.000Z",
+      "author": "leparisien_pol",
+      "author_name": "Le Parisien | politique",
+      "type": "tweet",
+      "text": "Nvidia : Donald Trump (encore) accusé de s’être enrichi après avoir fait pression pour le retour de Jensen Huang à la tête du groupe\n➡️ https://l.leparisien.fr/043H",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/leparisien_pol/status/2125025082007511224"
+    },
     {
       "id": "2125021621987774593",
       "created_at": "2026-11-24T00:20:10.000Z",
@@ -20691,45 +20717,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/dannyconversano/status/2124675161605673421"
-    },
-    {
-      "id": "2124663215162270078",
-      "created_at": "2026-11-23T00:35:59.000Z",
-      "author": "Valeurs",
-      "author_name": "Valeurs actuelles",
-      "type": "tweet",
-      "text": "🗞️ Pendant plus d'un an, le journaliste Alexandre Massé du Bois a suivi le quotidien d'un trafiquant de cocaïne. Dans son livre Profession dealer, publié aux éditions Tallandier, il raconte les rouages d'un trafic organisé comme une entreprise, la banali… https://l.valeursactuelles.com/pjx",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/Valeurs/status/2124663215162270078"
-    },
-    {
-      "id": "2124662980000268351",
-      "created_at": "2026-11-23T00:35:03.000Z",
-      "author": "InfoMdia",
-      "author_name": "Médias-Presse-Info",
-      "type": "tweet",
-      "text": "Lundi 23 novembre - Saint Clément Premier, Pape et Martyr - Sainte Félicité, Martyre. - https://www.medias-presse.info/lundi-23-novembre-saint-clement-premier-pape-et-martyr-sainte-felicite-martyre/253402/ - Sanctoral Saint Clément Premier, Pape et Martyr - “L’Agneau de Dieu l...",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/InfoMdia/status/2124662980000268351"
-    },
-    {
-      "id": "2124661402015355100",
-      "created_at": "2026-11-23T00:28:47.000Z",
-      "author": "dannyconversano",
-      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
-      "type": "retweet",
-      "text": "🔴🔴RÉCAP BV I Gravité du meurtre de Quentin I\n\n(garanti sans IA)\n\nLa justice n'est pas une institution qui penche à l'ultra-droite, il va sans dire et c'est heureux.\n\nCertains juges lyonnais sont même proches de la Jeune garde antifa.\n\nPreuve en est, une tribune a été co-signée",
-      "retweeted_author": "jean_bexon",
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/dannyconversano/status/2124661402015355100"
     }
   ]
 }
