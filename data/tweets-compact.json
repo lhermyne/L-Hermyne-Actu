@@ -1,13 +1,13 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-24 06:55",
-  "period": "du 2026-11-23 06:55 au 2026-11-24 06:55",
-  "new_period": "du 2026-11-23 20:00 au 2026-11-24 06:55",
-  "context_period": "du 2026-11-23 06:55 au 2026-11-23 20:00",
+  "generated_at": "2026-11-24 07:25",
+  "period": "du 2026-11-23 07:25 au 2026-11-24 07:25",
+  "new_period": "du 2026-11-23 20:00 au 2026-11-24 07:25",
+  "context_period": "du 2026-11-23 07:25 au 2026-11-23 20:00",
   "coverage_complete": true,
-  "new_count": 295,
-  "context_count": 1195,
+  "new_count": 316,
+  "context_count": 1170,
   "duplicates_merged": 102,
   "empty_removed": 2,
   "new": [
@@ -1511,7 +1511,10 @@
     {
       "author_name": "Le Parisien | politique",
       "published_at": "2026-11-24 06:43",
-      "text": "« Cela relève des variations saisonnières d’une année électorale » : Marine Le Pen, un automne en pente douce dans les sondages https://l.leparisien.fr/DjE8"
+      "text": "« Cela relève des variations saisonnières d’une année électorale » : Marine Le Pen, un automne en pente douce dans les sondages https://l.leparisien.fr/DjE8",
+      "also_by": [
+        "Le Parisien"
+      ]
     },
     {
       "author_name": "Une Bonne Droite 👊🏻",
@@ -1542,137 +1545,114 @@
       "author_name": "CNEWS",
       "published_at": "2026-11-24 06:55",
       "text": "Une thématique forte à quelques mois de la présidentielle 2027 https://mrf.lu/2PtHs"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-23 06:56",
-      "text": "«Un événement qui marque l'existence» : la légende du cyclisme Jeannie Longo va rencontrer le pape Léon XIV https://ow.ly/CLRU106JrrA"
     },
     {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-23 07:00",
-      "text": "Guerre en Ukraine : au moins 14 morts lors de frappes russes dans la région de Kiev\n➡️ https://l.leparisien.fr/2lya"
+      "author_name": "CNEWS",
+      "published_at": "2026-11-24 06:57",
+      "text": "[Retweet de @CNEWS_Sport] Un rebond est-il possible après la lourde défaite contre Côme (1-9) ? https://mrf.lu/2PtH_"
     },
     {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-23 07:00",
-      "text": "Le 23 novembre 1944, la 2e DB du général Leclerc entre dans Strasbourg. Un drapeau tricolore hissé sur la cathédrale accomplit le serment prononcé à Koufra en 1941.  https://www.fdesouche.com/2026/11/23/23-novembre-1944-liberation-strasbourg-serment-koufra-leclerc/"
+      "author_name": "Observatoire de l'immigration et de la démographie",
+      "published_at": "2026-11-24 06:59",
+      "text": "[Retweet de @ithomasmore] 📺 Les 50 décisions qui ont coulé la France en documentaire\n\n10/13 · La fin de l’universalité des allocations familiales (2015)\n\nExtrait du documentaire diffusé sur @CNEWS le 29 octobre avec Nicolas Pouvreau-Monti, de l'@ObservatoireID.\n\n▶ Notre rapport : https://bit.ly/4vESRIg"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-24 07:00",
+      "text": "Alors que seulement 59% des parents ont «confiance dans le système éducatif», Jean-Baptiste Nouailhac, cofondateur des écoles Excellence Ruralités, livre sa méthode pour la restaurer dans #LaMatinaleToute l'info est à retrouver sur https://cnews.fr"
     },
     {
       "author_name": "Le Figaro",
-      "published_at": "2026-11-23 07:00",
-      "text": "Présidentielle 2027 : David Lisnard voit une primaire comme «un moyen d'exclure les macronistes» → https://l.lefigaro.fr/9Rii"
+      "published_at": "2026-11-24 07:00",
+      "text": "Graver dans la Constitution une règle d’or budgétaire pour imposer l’équilibre des comptes publics est la seule façon de préserver notre modèle social et de redonner confiance aux investisseurs, argumente-t-elle. →https://l.lefigaro.fr/Wnye"
     },
     {
-      "author_name": "Le Point",
-      "published_at": "2026-11-23 07:00",
-      "text": "💬 Âge biologique, cellules sénescentes, horloges épigénétiques : le Dr Éric Verdin, directeur du Buck Institute en Californie, décrypte les nouvelles pistes pour vieillir en meilleure santé.\n\nPar @Heloiserambert\n➡️ https://l.lepoint.fr/HJZ"
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-24 07:00",
+      "text": "🍽️ 118 tables françaises font partie de La Liste, ce palmarès mondial comptant un millier d'adresses dans plus de 70 pays\n\nGuy Savoy à Paris et l'Assiette Champenoise dans la Marne obtiennent la note de 99,5/100, ex aequo avec les meilleurs du monde\n\n➡️ https://l.leparisien.fr/uUxL"
     },
     {
-      "author_name": "L'Express",
-      "published_at": "2026-11-23 07:00",
-      "text": "Il y a un an, des pirates s'infiltraient dans une trentaine d'installations polonaises. Le black-out a été évité de justesse. Mais éoliennes, panneaux solaires, batteries et réseaux de chaleur...\n\n➡️ https://l.lexpress.fr/QyM"
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-24 07:00",
+      "text": "Le 24 novembre 1793, la Convention fixe le calendrier républicain : vendémiaire, décades et fêtes transformées. À Aurillac, la foire de la Saint-Géraud devient celle du Navet.  https://www.fdesouche.com/2026/11/24/24-novembre-1793-decret-calendrier-republicain-an-ii/"
     },
     {
-      "author_name": "Gendarmerie nationale",
-      "published_at": "2026-11-23 07:01",
-      "text": "#MondayMotivation 😃 Aujourd'hui, on vous partage le sourire d'un camarade gendarme mobile ! 🇫🇷\n📸 Gnd Combe"
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-24 07:01",
+      "text": "🐈Pourquoi votre chat est-il agressif ?\n\n🗣️ \"Mauvais sevrage\", \"faire comprendre l'auto-contrôle\"... Les explications d'Anne-Laure Brami, vétérinaire #PetitMatin\n\n📞Vous avez une question sur vos animaux de compagnie ? Posez-la à notre vétérinaire au 0826 300 300"
     },
     {
-      "author_name": "Gilbert Collard",
-      "published_at": "2026-11-23 07:03",
-      "text": "Quand Ségolène oublie de prendre son traitement !"
+      "author_name": "Le Crapaud",
+      "published_at": "2026-11-24 07:02",
+      "text": "Allemagne 🇩🇪\n\nLes attentes VS la réalité"
     },
     {
       "author_name": "Ligne Droite • La matinale de RC",
-      "published_at": "2026-11-23 07:04",
-      "text": "[Retweet de @AudugeSophie] Rendez-vous demain 7h30 dans la matinale de @Ligne__Droite pour comprendre l’effondrement de l’école publique et le pseudo mouvement  lycéen qui engage la perte des générations qu’il prétend représenter. À lire dans L’Éducation nationale en perdition, 📖 Ed. Fayard."
-    },
-    {
-      "author_name": "L'Express",
-      "published_at": "2026-11-23 07:05",
-      "text": "[Retweet de @ericmandonnet] Le Pen a toujours eu une hantise : qu'apparaisse un candidat qui bouscule le paysage de l’élection. Avant l'été, elle interroge un interlocuteur : \"Alors, Lecornu va se lancer ?\" C'est Lisnard qui surgit.\n@LEXPRESS : Les leçons du baromètre @harrisint_fr \nhttps://www.lexpress.fr/politique/elections/lascension-de-david-lisnard-le-recul-de-marine-le-pen-les-enseignements-du-barometre-toluna-harris-O6AAC2RGUBCPTCCAWMEEMZUADE/"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-23 07:05",
-      "text": "💰 #Budget2027 : Macron envisage d'inscrire une \"règle d'or\" dans la Constitution\n\nhttps://www.sudradio.fr/societe/macron-pourrait-faire-inscrire-une-regle-dor-dans-la-constitution"
-    },
-    {
-      "author_name": "LCP",
-      "published_at": "2026-11-23 07:08",
-      "text": "Suspension des prestations sociales, peines planchers, responsabilité pénale à 16 ans... Les députés LR à l'offensive sur la sécurité https://lcp.fr/actualites/suspension-des-prestations-sociales-peines-planchers-responsabilite-penale-a-16-ans-les"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-23 07:08",
-      "text": "🚆 RER C : le trafic interrompu sur une partie de la ligne ce lundi matin\n➡️ https://l.leparisien.fr/cGJA"
+      "published_at": "2026-11-24 07:03",
+      "text": "[Retweet de @RLC_officiel] 🔴 7h12 – Âge légal à 60 ans, capitalisation : le programme du RN sur les retraites est-il tenable ? Avec @CH_Gallois, président de @RLC_officiel 👇"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-23 07:09",
-      "text": "Le candidat libéral progresse https://mrf.lu/2BFN2"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-23 07:11",
-      "text": "Présidentielle 2027 : Lisnard double Philippe dans un sondage, Le Pen perd jusqu'à 5 points https://ow.ly/ba77106Jrso"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-23 07:11",
-      "text": "Pour elle, une voiture plus petite, moins rutilante et souvent d’occasion : la femme, « parent pauvre » des automobilistes\n➡️ https://l.leparisien.fr/PcSQ"
-    },
-    {
-      "author_name": "Le Point",
-      "published_at": "2026-11-23 07:14",
-      "text": "Téléthon : le combat de Sacha contre la myopathie https://l.lepoint.fr/LKG"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-23 07:14",
-      "text": "«On suspecte les services secrets ukrainiens d'avoir mis sur pied une infrastructure permettant de mener une guerre clandestine mondiale», révèle le spécialiste renseignements Claude Moniquet dans #LaMatinale, après qu'un navire russe a été frappé au large de la Libye"
-    },
-    {
-      "author_name": "L'Express",
-      "published_at": "2026-11-23 07:14",
-      "text": "Une proposition glissée dans le programme du candidat LFI laisse entendre que cette ambition pourrait s'étendre bien au-delà de l'université.\n\n➡️ https://l.lexpress.fr/jQh"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-23 07:17",
-      "text": "💶 Automobile : avec le déclin du moteur thermique, «l’avantage fiscal de l’électrique ne survivra pas», assure un expert\n\nLa France devra bien trouver une solution pour compenser les milliards d'euros obtenus par les taxes sur les carburants et la TVA\n\nBercy démine : il reste du"
+      "published_at": "2026-11-24 07:05",
+      "text": "L'édito de Quentin Gérard : «Une députée LFI banalise l'islamisme»"
     },
     {
       "author_name": "Sud Radio",
-      "published_at": "2026-11-23 07:17",
-      "text": "🇫🇷  \"Parrainer, c'est afficher un camp. Mon devoir est de manifester une neutralité\" #GrandMatin\n\n🗣️ @eric_menassi (maire de Trèbes) a toujours refusé de parrainer des candidats et ne compte pas changer pour la #Presidentielle2027  \n\n📻https://www.sudradio.fr/"
+      "published_at": "2026-11-24 07:05",
+      "text": "🚨Sport auto : Peugeot arrête les compétitions internationales, dont les 24 Heures du Mans\n\nhttps://www.sudradio.fr/sport-rugby/sport/sport-auto-stellantis-arrete-les-competitions-internationales-dont-les-24-heures-du-mans"
     },
     {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-23 07:21",
-      "text": "🔴Magnanville, Conflans, Rambouillet, Trappes… Gérard Larcher évoque dix ans d’attentats dans «ses» Yvelines \n➡️ https://l.leparisien.fr/lhTf",
-      "also_by": [
-        "Le Parisien"
-      ]
+      "author_name": "CNEWS",
+      "published_at": "2026-11-24 07:07",
+      "text": "La transmission du savoir se perdrait-elle en France ?  https://mrf.lu/2PtMB"
     },
     {
-      "author_name": "Le JDD",
-      "published_at": "2026-11-23 07:21",
-      "text": "«Ce qui commence comme un suicide assisté s’achève par une euthanasie» : les recommandations de la HAS contestées https://ow.ly/7lbj106JrsU"
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-24 07:07",
+      "text": "Dermatos, déserts médicaux et esthétique : un fâcheux symbole\n➡️ https://l.leparisien.fr/Hf4n"
     },
     {
       "author_name": "Le Point",
-      "published_at": "2026-11-23 07:21",
-      "text": "Cancers masculins : les signes qui doivent vous pousser à consulter, selon un oncologue https://l.lepoint.fr/HJD"
+      "published_at": "2026-11-24 07:07",
+      "text": "En Corse, la Vierge de Porto-Vecchio de nouveau dégradée le jour du verdict\n\nPar @JulianMattei https://l.lepoint.fr/yTj"
     },
     {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-23 07:21",
-      "text": "A Lyon, un nouvel immeuble sans clim et sans chauffage promet une température intérieure de 20 à 26 degrés https://ow.ly/bu9I106JrsY"
+      "author_name": "CNEWS",
+      "published_at": "2026-11-24 07:10",
+      "text": "«Il y a un risque de déploiement nucléaire russe dans l'espace», affirme le spécialiste terrorisme et renseignements Claude Moniquet dans #LaMatinale, alors que l’Otan s’inquiète d’un lancement russe imminent. \n\nToute l'info est à retrouver sur https://cnews.fr"
     },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-24 07:12",
+      "text": "«Je serai un meilleur PDG cette fois» : Jensen Huang acclamé à son retour chez Nvidia, les Bourses s’envolent\n➡️ https://l.leparisien.fr/rBOu"
+    },
+    {
+      "author_name": "Damien Rieu",
+      "published_at": "2026-11-24 07:14",
+      "text": "[Retweet de @daveeyyy_] Yuval Noah Harari: AI could destroy humanity without killing a single human being.\n\n\"My biggest fear is that it's not a specific scenario like AI creating a virus or killer robots.\"\n\n\"It's really that in five or 10 or 20 years, all humans will just have no idea what is happening"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-24 07:17",
+      "text": "Certains météorologues parlent maintenant d'un «Méga El Niño» https://mrf.lu/2PtK8"
+    },
+    {
+      "author_name": "Valeurs actuelles",
+      "published_at": "2026-11-24 07:20",
+      "text": "🗞️ Vingt ans après les émeutes de 2005, Emmanuel Grégoire veut inscrire les noms de Zyed Benna et Bouna Traoré dans l’espace public parisien. Une initiative que la droite dénonce comme une instrumentalisation de leur mort au service d’une lecture militan… https://l.valeursactuelles.com/YY5"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-24 07:20",
+      "text": "Pénurie de dermatologues : le décret polémique qui plafonne à 30 % la part d’activité esthétique des médecins\n➡️ https://l.leparisien.fr/SS5H"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-24 07:25",
+      "text": "👨‍⚕️ Tercis-les-Bains (Landes) est la commune “la mieux dotée du pays en professionnels de santé par habitant” \n\n🩺Hikmat Chahine (maire) : \"On nous a pris pour des fous. Mais on a ouvert une maison de santé avec 20 médecins pour 1370 habitants.\"\n\n📻https://www.sudradio.fr/"
+    }
+  ],
+  "context": [
     {
       "author_name": "CNEWS",
       "published_at": "2026-11-23 07:25",
