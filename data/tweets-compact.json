@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-25 20:59",
-  "period": "du 2026-11-24 20:59 au 2026-11-25 20:59",
-  "new_period": "du 2026-11-25 08:00 au 2026-11-25 20:59",
-  "context_period": "du 2026-11-24 20:59 au 2026-11-25 08:00",
+  "generated_at": "2026-11-25 21:29",
+  "period": "du 2026-11-24 21:29 au 2026-11-25 21:29",
+  "new_period": "du 2026-11-25 08:00 au 2026-11-25 21:29",
+  "context_period": "du 2026-11-24 21:29 au 2026-11-25 08:00",
   "coverage_complete": false,
-  "new_count": 1309,
-  "context_count": 139,
-  "duplicates_merged": 93,
+  "new_count": 1345,
+  "context_count": 118,
+  "duplicates_merged": 98,
   "empty_removed": 8,
   "new": [
     {
@@ -3030,7 +3030,10 @@
     {
       "author_name": "Jean-Yves Le Gallou",
       "published_at": "2026-11-25 14:22",
-      "text": "[Retweet de @pierremarieseve] Un énorme scandale.\n\nDes magistrats tiennent un stand à la Fête de l'Huma et aux universités d'été de LFI CHAQUE ANNEE sans que personne ne s'en émeuve. Mais lorsqu'un magistrat prend un café à titre privé avec un autre magistrat engagé à droite, c'est enquête directe.\n\nRappelons"
+      "text": "[Retweet de @pierremarieseve] Un énorme scandale.\n\nDes magistrats tiennent un stand à la Fête de l'Huma et aux universités d'été de LFI CHAQUE ANNEE sans que personne ne s'en émeuve. Mais lorsqu'un magistrat prend un café à titre privé avec un autre magistrat engagé à droite, c'est enquête directe.\n\nRappelons",
+      "also_by": [
+        "Institut pour la Justice"
+      ]
     },
     {
       "author_name": "Occidentis",
@@ -6435,7 +6438,10 @@
     {
       "author_name": "CNEWS",
       "published_at": "2026-11-25 20:01",
-      "text": "Dans #Facealinfo, le directeur général de l'Observatoire de l'immigration et de la démographie, Nicolas Pouvreau-Monti, évoque le \"Livre blanc de l'immigration\" qui détaille 140 propositions à ce sujet\n\nToute l'info est à retrouver sur https://cnews.fr"
+      "text": "Dans #Facealinfo, le directeur général de l'Observatoire de l'immigration et de la démographie, Nicolas Pouvreau-Monti, évoque le \"Livre blanc de l'immigration\" qui détaille 140 propositions à ce sujet\n\nToute l'info est à retrouver sur https://cnews.fr",
+      "also_by": [
+        "Observatoire de l'immigration et de la démographie"
+      ]
     },
     {
       "author_name": "Tribune Populaire🌐",
@@ -6743,7 +6749,10 @@
     {
       "author_name": "Le Parisien",
       "published_at": "2026-11-25 20:55",
-      "text": "« Ça va nous occuper la semaine » : au Salon des maires, Teddy Riner crispe sur la guerre en Ukraine https://l.leparisien.fr/z9iI"
+      "text": "« Ça va nous occuper la semaine » : au Salon des maires, Teddy Riner crispe sur la guerre en Ukraine https://l.leparisien.fr/z9iI",
+      "also_by": [
+        "Le Parisien | politique"
+      ]
     },
     {
       "author_name": "Eric Zemmour",
@@ -6764,125 +6773,192 @@
       "author_name": "Le Point",
       "published_at": "2026-11-25 20:58",
       "text": "PER : faut-il le garder après 70 ans ? https://l.lepoint.fr/80Q"
-    }
-  ],
-  "context": [
+    },
     {
       "author_name": "Sud Radio",
-      "published_at": "2026-11-24 21:00",
-      "text": "🗝️ Les Clefs d'une vie - Didier  Barbelivien\n🗣  Didier Barbelivien : dans son nouvel album, il raconte ses 20 ans et peint un tableau de la France des années 70 . Avec nostalgie et émotion.\n\n💻 L'émission : https://youtu.be/YDaPsBtEv74 \n@manuelapromo"
+      "published_at": "2026-11-25 21:00",
+      "text": "🗝️ Les Clefs d'une vie - Philippe Balland\n🗣  Philippe Balland : il a été reporter de guerre, il a produit des centaines de reportages . Aujourd’hui,  romancier , il signe un thriller où le lecteur se demande « qui va tuer qui ? »\n\n💻 L'émission : https://youtu.be/r75io4MBk6A"
     },
     {
-      "author_name": "Une Bonne Droite 👊🏻",
-      "published_at": "2026-11-24 21:00",
-      "text": "Les gauchistes du tertiaire qui ne disaient rien quand l'immigration massive mettaient les ouvriers français au chômage mais qui se plaignent maintenant que l'IA menace LEUR boulot, on vous voit…\n@stonetoss",
-      "also_by": [
-        "L'HERMYNE ⚜️"
-      ]
-    },
-    {
-      "author_name": "Causeur.fr",
-      "published_at": "2026-11-24 21:00",
-      "text": "Javier Milei, l’insolent succès @causeur https://www.causeur.fr/argentine-economie-javier-milei-la-tronconneuse-ca-marche-337897"
-    },
-    {
-      "author_name": "LCP",
-      "published_at": "2026-11-24 21:01",
-      "text": "Accord électoral entre Génération.s et LFI : Sophie Taillé-Polian dénonce \"une stratégie perdante\" https://lcp.fr/actualites/accord-electoral-entre-generations-et-lfi-sophie-taille-polian-denonce-une-strategie"
+      "author_name": "Europe 1",
+      "published_at": "2026-11-25 21:00",
+      "text": "Michel Khan , Président de l'IREF était l'invité de La France Bouge avec @elisabeth_assayag sur #europe1"
     },
     {
       "author_name": "Les Braves",
-      "published_at": "2026-11-24 21:01",
-      "text": "🔴 BRAVACTU : RÉSISTANCE FISCALE - Z€RO pour Macron ! https://x.com/i/broadcasts/2evjqRqoYAgWMp"
+      "published_at": "2026-11-25 21:00",
+      "text": "🔴 BRAVACTU : Qui pille les actifs Européens ? https://x.com/i/broadcasts/2vyYPeAbVNALbL"
     },
     {
-      "author_name": "Assemblée nationale",
-      "published_at": "2026-11-24 21:02",
-      "text": "🔴 Enquête sur les évènements liés aux manifestations du 17 octobre 2026 : audition de Patrice Faure, préfet de police de Paris, dans le cadre des travaux de la commission des lois. \n#DirectAN https://x.com/i/broadcasts/2KoLadYbmAnYge"
+      "author_name": "UNI",
+      "published_at": "2026-11-25 21:00",
+      "text": "➡️ Blocage, drogues, prostitution et \"salle de sexe\" pour mineurs : les dérives de l'extrême gauche à l'image de mai 68.\n\n💥L'université du Mirail s'érige comme un camp d'entraînement à la révolution où la drogue circule librement sur le campus : et ni l'université, ni l'État ne"
     },
     {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-24 21:02",
-      "text": "« Le Premier ministre n’a saisi aucune de nos mains tendues » : les députés socialistes face à l’inconnu du budget\n➡️ https://l.leparisien.fr/xXG1",
-      "also_by": [
-        "Le Parisien | politique"
-      ]
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-25 21:00",
+      "text": "L'Insoumis appelle David Lisnard à se mettre en retrait de l'AMF.→https://l.lefigaro.fr/dycV"
     },
     {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-24 21:06",
-      "text": "Dès le 30 novembre, Uber va permettre d’acheter des billets de train et défie SNCF Connect et Trainline\n➡️ https://l.leparisien.fr/PcSC"
+      "author_name": "Causeur.fr",
+      "published_at": "2026-11-25 21:01",
+      "text": "Candidate… sous réserve de la météo judiciaire @causeur https://www.causeur.fr/marine-le-pen-candidate-sous-reserve-de-la-meteo-judiciaire-337912"
     },
     {
-      "author_name": "Agence France-Presse",
-      "published_at": "2026-11-24 21:08",
-      "text": "🥚 \"Le temps passe, les œufs durent\" : fidèle à sa devise, le championnat du monde de l'œuf mayonnaise a rassemblé amateurs et chefs à Saint-Ouen, près de Paris, qui ont chacun proposé leur propre version de cette entrée emblématique des bistrots français ⤵️"
+      "author_name": "CNEWS",
+      "published_at": "2026-11-25 21:01",
+      "text": "Affaire Nahel : «C'est l'abandon clair, net et précis de l'État, vis-à-vis de son corps défendant», déplore Sabrina Medjebeur, essayiste et sociologue, dans#HDPros2\n\nToute l'info est à retrouver sur https://cnews.fr"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-24 21:11",
-      "text": "« Un show sans tabou, ni limite » : en Haute-Loire, la venue d’AD Laurent star du X dans une discothèque fait polémique\n➡️ https://l.leparisien.fr/043U"
+      "published_at": "2026-11-25 21:02",
+      "text": "Violences conjugales : burn-out, bas salaires… Les écoutantes du 3919 en grève pour la première fois\n➡️ https://l.leparisien.fr/RbRo"
+    },
+    {
+      "author_name": "Collectif Némésis",
+      "published_at": "2026-11-25 21:03",
+      "text": "[Retweet de @yona_faedda] Parce que ce n’est pas à moi d’avoir peur."
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-25 21:04",
+      "text": "⚽ C'est parti pour PSG-AS Rome !\n\nInvaincus en Ligue des champions, les Parisiens visent une cinquième victoire de rang dans la compétition\n\nSuivez le match avec nous ➡️ https://l.leparisien.fr/m7ZB"
+    },
+    {
+      "author_name": "Le Média en 4⃣-4⃣-2⃣",
+      "published_at": "2026-11-25 21:04",
+      "text": "Didier Barbelivien, qui admirait Emmanuel Macron en 2018, dézingue ses deux mandats \nhttps://lemediaen442.fr/didier-barbelivien-qui-admirait-emmanuel-macron-en-2018-dezingue-ses-deux-mandats/ \n\nLe maître des horloges avait inspiré une chanson. Il a surtout fini par faire trouver le temps long à son auteur."
+    },
+    {
+      "author_name": "TVL",
+      "published_at": "2026-11-25 21:05",
+      "text": "🎥 Bistro Libertés reçoit Fabrice @epelboin, entrepreneur et enseignant, mais surtout grand spécialiste de la \"high tech\" et de la cybersécurité, pour évoquer les nouveaux visages de la censure.\n\nBistro Libertés sur TVL 🔻\nhttps://youtu.be/2rgO9UDchh0"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-25 21:05",
+      "text": "Dans les coulisses du MES, le pompier de la zone euro\n\nPar @philippinerbt https://l.lepoint.fr/2D0"
+    },
+    {
+      "author_name": "Une Bonne Droite 👊🏻",
+      "published_at": "2026-11-25 21:06",
+      "text": "Un ami enseignant en REP dans un collège (donc 2 Blancs max par classe) expliquait que les pauvres élèves puaient tellement que ça devenait dur à supporter tous les jours. Dès la première heure de classe le matin. C'est triste car les gosses n'y sont pour rien mais c'est encore\n[Cite @bouliboulibouli] Le groupe sent bon."
+    },
+    {
+      "author_name": "Jordan Bardella",
+      "published_at": "2026-11-25 21:09",
+      "text": "Avec ce livre, les Français sauront à quelles valeurs et à quels principes nous tenons, quelle sera notre méthode de gouvernement s'ils nous font confiance, et vers quelle voie nous voulons mener le pays. #Huguenau\n\nC'est, envers les électeurs français, une marque de respect et"
+    },
+    {
+      "author_name": "Bruno Attal",
+      "published_at": "2026-11-25 21:09",
+      "text": "Une journaliste de @Mediapart fait un article sur ma réintégration dans la police.\nSans aucun doute à charge.\n\nMerci Monsieur le Président Macron de nous dire que Mediapart ce n’est pas sérieux."
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-25 21:10",
+      "text": "Ça commence mal ! La Roma trouve déjà la faille et mène 0-1 face au PSG\n\nSuivez le match avec nous ➡️ https://l.leparisien.fr/jTcC"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-25 21:10",
+      "text": "« Le climat a changé » : une réponse qui en dit long sur le rapport du Rassemblement national à son passé. @SophiaAram revient sur les déclarations de Laure Lavalette, porte-parole du RN, et sur l’absence de regrets face à un engagement néofasciste.\n\n➡️ https://l.lepoint.fr/zzM"
     },
     {
       "author_name": "Valeurs actuelles",
-      "published_at": "2026-11-24 21:12",
-      "text": "🗞️ ENTRETIEN. Le Parti populaire (PP), le grand parti conservateur libéral, a tendu la main aux nationalistes de Vox pour gouverner l’Espagne si la droite gagne les législatives du 29 novembre. Député européen de Vox et directeur de sa fondation, Disenso… https://l.valeursactuelles.com/5LC"
-    },
-    {
-      "author_name": "Assemblée nationale",
-      "published_at": "2026-11-24 21:15",
-      "text": "Suivez la séance publique #DirectAN https://x.com/i/broadcasts/2lgYAbozpEQNWa"
-    },
-    {
-      "author_name": "Actu & Politique",
-      "published_at": "2026-11-24 21:17",
-      "text": "🚨‼️🇫🇷 ALERTE INFO - Édouard Philippe propose à David Lisnard un débat télévisé « dans les deux prochaines semaines ». (LCI)"
-    },
-    {
-      "author_name": "Identité Libertés",
-      "published_at": "2026-11-24 21:18",
-      "text": "[Retweet de @P_Vardon] 🗣️ « SALE FRANÇAIS ! » ou « SALE BLANC ! », pour @lemondefr ce n’est pas du racisme.\n\n🎙️Dans ma chronique sur @Ligne__Droite, je me suis occupé du Monde et des fariboles universitaires du racisme systémique."
+      "published_at": "2026-11-25 21:11",
+      "text": "🗞️ Après deux semaines de campagne présidentielle et une entrée dans l'arène politique marquée par plusieurs attaques sur sa candidature et ses affaires, Teddy Riner s'exprime sur sa situation dans un entretien accordé au Parisien ce mercredi.\nhttps://l.valeursactuelles.com/QE7"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-24 21:21",
-      "text": "Face au quasi-monopole chinois sur les minerais rares et aux tensions d’approvisionnement, l’Élysée souhaite créer une réserve nationale, pilotée par la Caisse des dépôts, opérationnelle dès 2027\n\nExplications ➡️ https://l.leparisien.fr/aCFC"
+      "published_at": "2026-11-25 21:12",
+      "text": "Château à l’abandon des frères Bogdanoff : « On est coincés dans une situation successorale très complexe », explique la fille d’Igor\n➡️ https://l.leparisien.fr/m7ZH"
     },
     {
-      "author_name": "Tribune Populaire🌐",
-      "published_at": "2026-11-24 21:23",
-      "text": "J'explique depuis presque cinq ans qu'une élite démocratiquement élue a ruiné notre pays, non pas par incompétence ou par bêtise, mais de manière consentante, en sachant pertinemment que ça finirait comme ça.\n\nEt derrière tout ça, il y a les intérêts financiers des banques qui\n[Cite @TribunePop23] 2004, GDF : Sarkozy promet que GDF ne sera pas privatisé, puis l’entreprise est fusionnée avec Suez en 2008.\n\n2004, l’or : 589 tonnes, un cinquième des réserves, vendues par Sarkozy entre 2004 et 2009 au plus bas des cours.\n\n2005, le non ignoré : 54,7 % de « non » au traité"
+      "author_name": "Samuel Lafont",
+      "published_at": "2026-11-25 21:14",
+      "text": "Avec les Français, pour les Français.\n[Cite @ZemmourEric] 🎶 « T’as voulu voir Vesoul et on a vu Vesoul. »\n\nMerci pour votre accueil si chaleureux à la 730e foire de la Sainte-Catherine à Vesoul !\n\nCes rendez-vous populaires et joyeux font vivre l’esprit français. Ravi d’y avoir participé à vos côtés aujourd’hui !"
     },
     {
-      "author_name": "L’Infiltré",
-      "published_at": "2026-11-24 21:24",
-      "text": "« Dimitry Vanheulle, militant à La Jeune Garde, proche de Raphaël Arnault, se vante d’avoir violemment frappé un homme 15 jours avant l’affaire Quentin »\n\nNouvelles révélations de @Jules_Laurans dans L’Infiltré.\n\nÀ lire ici (-50%) : https://www.frontieresmedia.fr/linfiltre/linfiltre-9"
+      "author_name": "Le Point",
+      "published_at": "2026-11-25 21:16",
+      "text": "Souvenons-nous. \n\nEn 2018, une jeune Bruxelloise blonde de 22 ans à l’humour absurde, le sourire angélique et la voix chuchotée, débarque sur la grande scène avec « La Loi de Murphy », « La thune » et « Tout oublier » \n\nAvec « Instinct », son troisième album à virée électro,"
     },
     {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-24 21:27",
-      "text": "« On peut avoir, sur une journée, 1 000 migrants qui passent chez nous » : Arnaud Jonglez, habitant de Neufchâtel-Hardelot (62), témoigne des intrusions répétées sur son terrain et dans son jardin."
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-25 21:17",
+      "text": "« Chacun son rythme » : chez les maires, un salon, deux ambiances pour Raphaël Glucksmann et François Hollande https://l.leparisien.fr/nDGn",
+      "also_by": [
+        "Le Parisien"
+      ]
     },
     {
-      "author_name": "Jon De Lorraine",
-      "published_at": "2026-11-24 21:27",
-      "text": "🔴🇫🇷 INSOLITE - Édouard Philippe se compare au boxeur Mohamed Ali. (Pourtant dès que ça ne va pas il se couche pour fermer Fessenheim, envoyer des LBD sur les gilets jaunes)"
+      "author_name": "Europe 1",
+      "published_at": "2026-11-25 21:20",
+      "text": "Périscolaire à Paris : un animateur poursuivi pour agressions sexuelles, relâché sous bracelet électronique https://ow.ly/NK3E106JEXR"
     },
     {
-      "author_name": "Eric Ciotti",
-      "published_at": "2026-11-24 21:28",
-      "text": "[Retweet de @CharlesEspeidel] Sur @CNEWS , comme toujours, @eciotti , serein, pragmatique et factuel. \n\nBravo ! Comme, j’en suis sûr, beaucoup de nos adhérents et sympathisants, je suis fier et très heureux de vous avoir suivi dès la création de @partiudr \n\nTrès heureux aussi de soutenir la campagne de"
+      "author_name": "Marine Le Pen",
+      "published_at": "2026-11-25 21:20",
+      "text": "On parle beaucoup du CAC 40, mais la réalité de la France, ce sont trois millions et demi de petites entreprises. Si chacune embauchait une personne de plus, il y aurait trois millions et demi de chômeurs en moins.\n\nNous leur rendrons de l'oxygène en baissant leurs impôts."
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-25 21:21",
+      "text": "« On a des jus incroyables » : pour le champagne, c’est l’année de toutes les opportunités\n\nPar @Dupont_LePoint https://l.lepoint.fr/VwI"
+    },
+    {
+      "author_name": "Rassemblement National",
+      "published_at": "2026-11-25 21:23",
+      "text": "Imposer une hausse du SMIC de 10 % mettrait à genoux des entreprises déjà fragilisées, alors que 71 000 ont déjà fait faillite.\n\n@MLP_officiel propose une autre voie : si un employeur augmente ses salariés de 10 %, jusqu’à 3 SMIC, les charges sur cette hausse seront gelées"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-24 21:28",
-      "text": "Statue de la Vierge vandalisée à Porto-Vecchio en Corse : «Cette décision c'est la négation du peuple Corse», déplore Pascal-Pierre Garbarini, avocat, dans #HDPros2\n\nToute l'info est à retrouver sur https://cnews.fr"
+      "published_at": "2026-11-25 21:23",
+      "text": "Alors que Teddy Riner a indiqué que \"l'Ukraine n'est pas notre guerre\", pour le sénateur honoraire belge, Alain Destexhe, le candidat déclaré à l'élection présidentielle «a parfaitement raison», dans #LHeureInter \n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Marine Le Pen",
+      "published_at": "2026-11-25 21:24",
+      "text": "La France a subi un choc inflationniste depuis dix ans : 33 % d'augmentation sur l'alimentation, près de 62 % sur l'énergie.\n\nNous baisserons la TVA de 20 % à 5,5 % sur l'électricité, le gaz, le fioul et le carburant, et nous créerons un panier de 100 produits de première"
+    },
+    {
+      "author_name": "Sarah Knafo",
+      "published_at": "2026-11-25 21:25",
+      "text": "🎄🎅 L’édition de Noël du Casse du siècle paraît cette semaine ! \n\n400 000 lecteurs ont fait du Casse du siècle le livre le plus vendu de France pendant trois mois, et le premier des essais chaque semaine depuis sa sortie. \n\n🎁 Il lui reste à passer de vos mains à celles des gens"
+    },
+    {
+      "author_name": "Une Bonne Droite 👊🏻",
+      "published_at": "2026-11-25 21:26",
+      "text": "[Retweet de @Le_Crapaud47] @Grogneur Il faut arrêter avec « nous sommes tous dans le même camp, arrêtons de nous tirer dans les pattes ». \nJe ne suis pas dans le camp des LR et des Macronistes libéraux.\n\nPour moi le problème économique est secondaire, mon combat premier est celui de l’identité et du grand"
+    },
+    {
+      "author_name": "Alain Weber",
+      "published_at": "2026-11-25 21:26",
+      "text": "L’écœurant Jean-Marc Schiappa, oui, le père de…, dans une répugnante diatribe antisémite 🤢🤢.\n\nDerrière l’insupportable laïcard procédurier, qui attaque chaque croix sur la voie publique se cache un homme qui recycle les pires tropes antisémites : instrumentalisation de"
+    },
+    {
+      "author_name": "Marine Le Pen",
+      "published_at": "2026-11-25 21:26",
+      "text": "Les salaires sont écrasés en France. Mais si l'on oblige les entreprises à augmenter le SMIC de 10 %, beaucoup ne s'en relèveront pas : 71 000 ont déjà fait faillite.\n\nNous ne souhaitons pas imposer de hausse du SMIC. Nous ne fragiliserons pas davantage nos entreprises."
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-24 21:28",
-      "text": "Cinq militaires ont été tués mardi soir dans le crash d'un hélicoptère de l'armée lors d'un exercice à Eskisehir, dans le centre-ouest de la Turquie. https://mrf.lu/2PznT"
+      "published_at": "2026-11-25 21:27",
+      "text": "Le député et président du groupe LIOT à l’Assemblée nationale Christophe Naegelen a annoncé à CNEWS soutenir David Lisnard lors de la prochaine présidentielle. https://mrf.lu/2PBy_"
     },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-25 21:27",
+      "text": "Grandes-Serres : une nouvelle vie pour le patrimoine industriel de Pantin https://l.lepoint.fr/6Iw"
+    },
+    {
+      "author_name": "Marine Le Pen",
+      "published_at": "2026-11-25 21:28",
+      "text": "Entre un SMIC et un SMIC et demi, les charges flambent et passent de 6 % à 30 %.\n\nNous, ce que nous proposons, c'est de donner la possibilité aux entreprises d’augmenter les salaires de 10 %, et jusqu'à trois fois le SMIC, nous gèlerons les charges afférentes pendant cinq ans."
+    }
+  ],
+  "context": [
     {
       "author_name": "Occidentis",
       "published_at": "2026-11-24 21:30",
@@ -7173,6 +7249,11 @@
       "author_name": "Jean Bexon",
       "published_at": "2026-11-24 22:47",
       "text": "[Retweet de @jean_bexon] 🔴🔴 EXCLU BV | L'appartement de Blandine, militante antifa de la Jeune garde et proche d'un des meurtriers présumés, aurait servi de refuge après le lynchage mortel de Quentin, pour un des suspects aujourd'hui incarcérés.\nAu moment des faits, Blandine était en Colombie."
+    },
+    {
+      "author_name": "L'HERMYNE ⚜️",
+      "published_at": "2026-11-24 22:48",
+      "text": "[Retweet de @BonneDroite] Les gauchistes du tertiaire qui ne disaient rien quand l'immigration massive mettaient les ouvriers français au chômage mais qui se plaignent maintenant que l'IA menace LEUR boulot, on vous voit…\n@stonetoss"
     },
     {
       "author_name": "CNEWS",
