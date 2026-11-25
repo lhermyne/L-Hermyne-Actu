@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-25 22:00",
-  "period": "du 2026-11-24 22:00 au 2026-11-25 22:00",
-  "new_period": "du 2026-11-25 20:00 au 2026-11-25 22:00",
-  "context_period": "du 2026-11-24 22:00 au 2026-11-25 20:00",
+  "generated_at": "2026-11-25 22:30",
+  "period": "du 2026-11-24 22:30 au 2026-11-25 22:30",
+  "new_period": "du 2026-11-25 20:00 au 2026-11-25 22:30",
+  "context_period": "du 2026-11-24 22:30 au 2026-11-25 20:00",
   "coverage_complete": false,
-  "new_count": 176,
-  "context_count": 1319,
-  "duplicates_merged": 98,
+  "new_count": 226,
+  "context_count": 1303,
+  "duplicates_merged": 100,
   "empty_removed": 5,
   "new": [
     {
@@ -786,7 +786,10 @@
     {
       "author_name": "Marine Le Pen",
       "published_at": "2026-11-25 21:45",
-      "text": "Ceux qui ont un titre de séjour, qui sont présents légalement dans notre pays et qui travaillent n'ont pas vocation à ce qu'on leur demande de partir.\n\nEn revanche, s'ils se retrouvent au chômage, et qu'ils n'ont plus de droits, ils devront repartir chez eux."
+      "text": "Ceux qui ont un titre de séjour, qui sont présents légalement dans notre pays et qui travaillent n'ont pas vocation à ce qu'on leur demande de partir.\n\nEn revanche, s'ils se retrouvent au chômage, et qu'ils n'ont plus de droits, ils devront repartir chez eux.",
+      "also_by": [
+        "Rassemblement National"
+      ]
     },
     {
       "author_name": "Le Figaro Culture",
@@ -891,7 +894,10 @@
     {
       "author_name": "Le Parisien",
       "published_at": "2026-11-25 21:58",
-      "text": "Guerre en Ukraine : « Je ne suis pas pressé », Trump douche les espoirs d’un accord de paix rapide évoqué par Zelensky\n➡️ https://l.leparisien.fr/6aop"
+      "text": "Guerre en Ukraine : « Je ne suis pas pressé », Trump douche les espoirs d’un accord de paix rapide évoqué par Zelensky\n➡️ https://l.leparisien.fr/6aop",
+      "also_by": [
+        "Le Parisien | politique"
+      ]
     },
     {
       "author_name": "ThinkerView",
@@ -902,94 +908,262 @@
       "author_name": "ThinkerView",
       "published_at": "2026-11-25 21:59",
       "text": "[Retweet de @FT] Russian navy licks its wounds as another warship is sunk https://ft.trib.al/A4f0Q4f"
-    }
-  ],
-  "context": [
+    },
     {
       "author_name": "Causeur.fr",
-      "published_at": "2026-11-24 22:00",
-      "text": "\"Les juges refusent de lâcher l'ancien président...\"\n\nhttps://www.causeur.fr/nicolas-sarkozy-carla-bruni-mimi-marchand-proces-affaire-takieddine-337958"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-24 22:02",
-      "text": "Rétractation de Takieddine : pourquoi Nicolas Sarkozy et Carla Bruni seront jugés pour association de malfaiteurs\n\nÀ moins d’une semaine de la décision de la cour d’appel sur le financement libyen de sa campagne, Nicolas Sarkozy devra subir un nouveau procès\n\n➡️"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-24 22:03",
-      "text": "🗝️ Les Clefs d’une vie avec Jacques Pessis\n🗣️  Didier Barbelivien : \"« Comme autrefois » est un polaroïd de la France de mon enfance\"\n\nhttps://youtu.be/YDaPsBtEv74"
-    },
-    {
-      "author_name": "L’Infiltré",
-      "published_at": "2026-11-24 22:03",
-      "text": "🔴 « Deux semaines avant l’agression mortelle de Quentin Deranque, un militant de la Jeune Garde se vantait auprès de ses camarades d’avoir violemment frappé un homme. Ce militant est aujourd’hui mis en examen dans l’affaire Quentin. »\n\n@JulesTorres17 revient sur les nouvelles"
-    },
-    {
-      "author_name": "Bouli ☃️",
-      "published_at": "2026-11-24 22:04",
-      "text": "Ses parents avaient anticipé ses idées débiles en le mettant à l'École alsacienne.\n[Cite @AlertesInfos] 🇫🇷 FLASH - Voici les principales mesures que Gabriel Attal souhaite mettre en place s’il est élu président de la République en 2027 :\n\n- Fermer les 100 collèges qui cumulent le plus de difficultés scolaires et sociales et répartir leurs élèves dans d’autres établissements.\n\n-"
-    },
-    {
-      "author_name": "Le Point",
-      "published_at": "2026-11-24 22:06",
-      "text": "Vous avez le choix entre le grand retour de James Gray, le nouveau Disney, un brûlot social, une comédie avec Fabrice Luchini et un western féodal chinois.\n\nPar @WACHTHAUSEN @eschapasse @JohnPlissken\n➡️ https://l.lepoint.fr/oMR"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-24 22:07",
-      "text": "Audiovisuel public : «Ce n'est pas le parcours politique des dirigeants de France TV qui me gêne, mais plutôt leur comportement», déclare Paul Amar, journaliste, dans #100Politique"
-    },
-    {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-24 22:08",
-      "text": "« La fête est finie » : Frédéric Chatillon nie être « néonazi » ou « néofasciste » et annonce des plaintes pour diffamation https://l.leparisien.fr/Qt9K"
+      "published_at": "2026-11-25 22:00",
+      "text": "Avec sa nouvelle chanson rigolote et acide, le chanteur libertaire agace Mélenchon, ses députés et Benjamin Biolay... @causeur https://www.causeur.fr/gauche-pierre-perret-gache-l-ambiance-antisemitisme-melenchon-337982"
     },
     {
       "author_name": "Valeurs actuelles",
-      "published_at": "2026-11-24 22:09",
-      "text": "🗞️ TRIBUNE. À l'occasion du Salon des maires, Écologie responsable et l'Institut Thomas More remettent ce mercredi le Prix de l'Initiative écologique locale. Ils plaident pour une écologie de l'enracinement, des solutions et des liens, portée par ceux qu… https://l.valeursactuelles.com/RWJ"
+      "published_at": "2026-11-25 22:00",
+      "text": "🗞️ Les élections au Conseil supérieur de la magistrature confirment une tendance à gauche au sein de la magistrature. Des résultats qui interrogent, alors que les attentes des Français en matière de fermeté judiciaire vont dans une direction opposée.\nhttps://l.valeursactuelles.com/zMw"
     },
     {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-24 22:14",
-      "text": "« Désolé si ça vous gratte » : Pierre Perret se dit visé par une « meute » depuis la sortie de ses nouvelles chansons, ciblant notamment LFI\n➡️ https://l.leparisien.fr/sVc6"
-    },
-    {
-      "author_name": "ThinkerView",
-      "published_at": "2026-11-24 22:16",
-      "text": "[Retweet de @_SaxX_] UERSS 😪😪😪\n\nAu revoir @Quad9DNS... quelle tristesse ! \n\nPas bravo à nos politiques totalement largués sur le numérique !"
-    },
-    {
-      "author_name": "Jon De Lorraine",
-      "published_at": "2026-11-24 22:16",
-      "text": "Est-ce que @davidlisnard va accepter ou se défiler ?\nÉdouard Philippe veut débattre :\n[Cite @jon_delorraine] 🔴🇫🇷 ALERTE INFO - Édouard Philippe propose un débat à David Lisnard \"dans les 2 semaines\"."
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-25 22:01",
+      "text": "🗝️ Les Clefs d’une vie avec Jacques Pessis\n🗣️  Philippe Balland : \"Une interview m'a valu une garde à vue\"\n\nhttps://youtu.be/r75io4MBk6A"
     },
     {
       "author_name": "Europe 1",
-      "published_at": "2026-11-24 22:19",
-      "text": "L'Assemblée nationale adopte en première lecture le projet de loi logement https://ow.ly/VjKm106JA4Y"
+      "published_at": "2026-11-25 22:01",
+      "text": "Intercités : le train Oxygène dévoilé au public à Paris, avant Limoges et Clermont-Ferrand https://ow.ly/zxfG106JFmk"
     },
     {
-      "author_name": "Le Point",
-      "published_at": "2026-11-24 22:19",
-      "text": "Présider, c’est envisager la guerre et se montrer décidé à la faire. \n\nDe Louis XIII à Emmanuel Macron, l’Histoire a montré l’importance des prérogatives présidentielles du commandement de l’armée.\n\n🖋️ LA CHRONIQUE de @arthurchevallie\n➡️ https://l.lepoint.fr/Rkc"
+      "author_name": "Marine Le Pen",
+      "published_at": "2026-11-25 22:01",
+      "text": "Aujourd'hui, 55 % des élèves sont en filière générale. En Allemagne, c'est l'inverse.\n\nPour encourager l'apprentissage, nous augmenterons l'aide versée aux entreprises qui forment des jeunes, et celle versée aux apprentis et aux alternants."
     },
     {
-      "author_name": "L’Infiltré",
-      "published_at": "2026-11-24 22:25",
-      "text": "🔴 EXCLUSIF – L'Infiltré a eu accès à une nouvelle boucle Signal de la Jeune Garde : deux semaines avant la mort de Quentin Deranque, Dimitry Vanheulle, membre de la Jeune Garde, se vante d'avoir « déchiré un mec ». Le lendemain, un autre militant lance une consigne glaçante : «"
+      "author_name": "Bouli ☃️",
+      "published_at": "2026-11-25 22:01",
+      "text": "Edouard le flemmard, à chaque fois qu'il doit se lever de son lit :\n[Cite @EPhilippe_LH] @davidlisnard : grippe. Au lit pour la journée je le crains. On déjeunera une fois prochaine."
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-24 22:27",
-      "text": "« C’est la boucle de la honte absolue » : le directeur des écoles de police réagit après le scandale de Cannes-Écluse\n\n➡️ https://l.leparisien.fr/Up6y"
+      "published_at": "2026-11-25 22:02",
+      "text": "Royaume-Uni : le Premier ministre Andy Burnham critiqué après la vidéo d’un TikTokeur devant Downing Street\n➡️ https://l.leparisien.fr/LeAE"
     },
     {
-      "author_name": "Tribune Populaire🌐",
-      "published_at": "2026-11-24 22:27",
-      "text": "📂🇺🇸FLASH INFO - Les médias américains annoncent une « violation de la cybersécurité à la CIA » !"
+      "author_name": "Eric Zemmour",
+      "published_at": "2026-11-25 22:03",
+      "text": "📺 À demain, 21h sur CNews ! \n\nJe compte sur vous."
     },
+    {
+      "author_name": "Marine Le Pen",
+      "published_at": "2026-11-25 22:04",
+      "text": "Les aides à l’alternance mises en place par le gouvernement étaient une bonne chose, mais elles ont été détournées. On s’est retrouvé avec des alternants à BAC+5.\n\nNous limiterons l’aide à l’alternance à maximum BAC +3, pour la recentrer sur son objectif."
+    },
+    {
+      "author_name": "Marine Le Pen",
+      "published_at": "2026-11-25 22:05",
+      "text": "Les professeurs sont chargés d'orienter les élèves, mais bien souvent, ils connaissent mal les filières professionnelles. Ce n'est pas un reproche, ils n'y sont pas formés.\n\nNous mettrons en place des comités de filières, pour déterminer les besoins pour nos entreprises."
+    },
+    {
+      "author_name": "TVL",
+      "published_at": "2026-11-25 22:06",
+      "text": "🎙️ « Dans un univers concurrentiel libéral, les télévisions n'ont aucun avenir » - Fabrice @epelboin\n\nBistro Libertés sur TVL 🔻\nhttps://youtu.be/2rgO9UDchh0"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-25 22:06",
+      "text": "Violences sur les élus : plus de 3 100 faits depuis le début de l’année, en hausse de 24 % https://l.leparisien.fr/Upjt",
+      "also_by": [
+        "Le Parisien | politique"
+      ]
+    },
+    {
+      "author_name": "Bouli ☃️",
+      "published_at": "2026-11-25 22:06",
+      "text": "La France pratique l'inverse dans les HLM.\n[Cite @humanite_fr] Danemark : la justice légalise l’expulsion de locataires sur la base de critères ethniques \n\n➡️ https://l.humanite.fr/rkz"
+    },
+    {
+      "author_name": "Marine Le Pen",
+      "published_at": "2026-11-25 22:07",
+      "text": "J'ai eu trois enfants : l'un d'eux a fait un BTS de chaudronnerie, une a obtenu un diplôme des métiers d'art de costumière, une, une licence des métiers de l'immobilier en alternance. Trois sur trois.\n\nIl est absolument ridicule de traiter avec mépris ces filières."
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-25 22:08",
+      "text": "⚽ C'est reparti pour PSG-AS Rome, 1 partout après l'égalisation parisienne\n\nSuivez le match avec nous ➡️ https://l.leparisien.fr/ormQ"
+    },
+    {
+      "author_name": "Marine Le Pen",
+      "published_at": "2026-11-25 22:08",
+      "text": "Le compte personnel de formation, c’est une escroquerie : des gens l’abondent toute leur carrière et, s’ils ne l’utilisent pas, cet argent est perdu, alors qu'ils ont côtisé.\n\nNous utiliserons cet argent pour financer le pilier de capitalisation, qui offrira aux Français une"
+    },
+    {
+      "author_name": "ThinkerView",
+      "published_at": "2026-11-25 22:08",
+      "text": "[Retweet de @FT] The secretive Iranian cyber unit behind Europe’s freezer hacks https://ft.trib.al/rz6ZzCi"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-25 22:09",
+      "text": "🔵 INFO LE PARISIEN | La team de Clément Lanoue remplace Cyril Hanouna l’après-midi sur Fun Radio\n\n➡️ https://l.leparisien.fr/04ay"
+    },
+    {
+      "author_name": "Marine Le Pen",
+      "published_at": "2026-11-25 22:09",
+      "text": "Aujourd'hui, les Français sont pris à la gorge par la baisse du pouvoir d'achat : ils consomment moins, et ce sont nos commerces de proximité qui en souffrent.\n\nBaisser les prix du carburant, c'est rendre du pouvoir d'achat aux Français et de l'oxygène à toutes nos entreprises."
+    },
+    {
+      "author_name": "ThinkerView",
+      "published_at": "2026-11-25 22:09",
+      "text": "[Retweet de @lalopenguin] some people flex watches, chains, cars ....\n\nthis is mine"
+    },
+    {
+      "author_name": "Marine Le Pen",
+      "published_at": "2026-11-25 22:10",
+      "text": "Aujourd'hui, les entreprises payent des impôts avant même d'avoir produit quoi que ce soit.\n\nNous supprimerons la CFE, l'équivalent de trois milliards d'euros rendus aux entreprises. Avec la suppression de la CVAE et de la C3S, ce sera une baisse de 18 milliards d'euros des"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-25 22:11",
+      "text": "«Quand Teddy Riner parle, il est toujours obligé de faire un rectificatif», considère Jules Torres, journaliste, dans #100Politique\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Bouli ☃️",
+      "published_at": "2026-11-25 22:11",
+      "text": "Les HLM, selon les macronistes :\n[Cite @VincentJeanbrun] #LogementSocial : La préférence nationale n'a aucun sens et j'ai toujours combattu cette idée.\n\nJe préfère loger une infirmière ukrainienne plutôt qu'un multirécidiviste délinquant, même s'il est français depuis douze générations. 👇"
+    },
+    {
+      "author_name": "Marine Le Pen",
+      "published_at": "2026-11-25 22:12",
+      "text": "La commande publique, c'est 200 milliards d'euros par an. Une grande partie échappe aux TPE et aux PME, faute de critère territorial.\n\nAvec ce critère, nous pourrons flécher la commande publique vers nos entreprises et nos industries."
+    },
+    {
+      "author_name": "Marine Le Pen",
+      "published_at": "2026-11-25 22:13",
+      "text": "Aujourd'hui, l'électricité coûte 150 euros le mégawattheure. Nous retrouverons un prix français de l'électricité, qui est de 50 à 60 euros.\n\nPour un boucher dont les frigos tournent jour et nuit, ce sera un véritable soulagement."
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-25 22:14",
+      "text": "Football : un biopic sur Zinedine Zidane en préparation à Marseille ?\n➡️ https://l.leparisien.fr/cGnk"
+    },
+    {
+      "author_name": "ThinkerView",
+      "published_at": "2026-11-25 22:15",
+      "text": "[Retweet de @BenNollWeather] This is what the strongest El Niño on record looks like.\n\nNear Peru and Ecuador, the Niño 1+2 region is more than 6°C above average, smashing the previous record.\n\nKelvin waves have spread exceptionally warm water to California and beyond."
+    },
+    {
+      "author_name": "Marine Le Pen",
+      "published_at": "2026-11-25 22:15",
+      "text": "Nous baisserons également la TVA de 20 % à 5,5 % sur le fioul. Dans la ruralité, ceux qui se chauffent au fioul n'arrivent plus à remplir leur cuve.\n\nSi nous ne faisons rien, de nombreux Français ne pourront pas se chauffer cet hiver."
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-25 22:16",
+      "text": "Malgré certaines qualités dans sa direction artistique, la nouvelle série « Blade Runner » réplique la saga sans rien lui apporter de neuf. Quelle déception !\n➡️ https://l.lepoint.fr/t48"
+    },
+    {
+      "author_name": "Marine Le Pen",
+      "published_at": "2026-11-25 22:17",
+      "text": "L'impossibilisme est une maladie qui frappe la vie politique française : oui, nous baisserons la TVA sur l'énergie, et ce n'est en rien contraire au droit européen.\n\nLe manque à gagner sera de douze milliards d'euros, mais cette dépense sera compensée."
+    },
+    {
+      "author_name": "Marine Le Pen",
+      "published_at": "2026-11-25 22:17",
+      "text": "La complexité administrative coûte 3,5 points de PIB par an, l'équivalent de 110 milliards d'euros. Elle pèse bien plus sur les petites entreprises que sur les grandes, qui ont des salariés pour s'en occuper.\n\nL'Union européenne en est largement responsable, mais ceux qui nous"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-25 22:18",
+      "text": "💬 «J’ai enlevé l’épine» \n\nInstallée en Côte-d’Or depuis trois ans, l’humoriste Shirley Souagnon a quitté la scène, épuisée, après la résurgence d’un traumatisme d’enfance, et nous raconte sa reconstruction. \n\nRencontre ➡️ https://l.leparisien.fr/TEBJ"
+    },
+    {
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-25 22:18",
+      "text": "À Viterne, plusieurs habitants veulent installer des crèches dans leurs décorations de Noël. Un conseiller municipal défend une crèche artisanale sur une fontaine publique ; la question de la laïcité suscite le débat.  https://www.fdesouche.com/2026/11/25/viterne-54-creche-fontaine-village-polemique-laicite/"
+    },
+    {
+      "author_name": "Marine Le Pen",
+      "published_at": "2026-11-25 22:19",
+      "text": "Je veux qu'il y ait moins de normes pour toutes les entreprises, pour nos TPE, nos PME, mais aussi pour nos grandes entreprises.\n\nLa première des choses que nous ferons sera d'en supprimer des milliers, par l'intermédiaires de grandes ordonnances de libération de l'économie."
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-25 22:19",
+      "text": "💬 «J’ai un cri du cœur : que les blocages cessent et qu’on rouvre les amphis !»\n\nPour Philippe Baptiste, ministre de l’Enseignement supérieur, si la discussion doit se poursuivre avec les organisations étudiantes, les facs ne peuvent plus être bloquées\n\nInterview ➡️"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-25 22:20",
+      "text": "Edouard Geffray a annoncé que plus de 400 élèves ont été exclus définitivement de leur établissement depuis le début du mouvement de blocus des lycées. /france/2026-11-25/blocus-des-lycees-plus-de-400-eleves-exclus-definitivement-de-leur-etablissement"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-25 22:21",
+      "text": "Égypte : au moins 30 morts dans un incendie dans l'agglomération du Caire https://ow.ly/cUN1106JFoQ"
+    },
+    {
+      "author_name": "Marine Le Pen",
+      "published_at": "2026-11-25 22:21",
+      "text": "L'Union européenne a imposé récemment la transparence salariale à partir de cent salariés. La France a décidé d'aller encore plus loin, et de l'imposer dès cinquante salariés.\n\nToutes les normes seront abaissées au minimum imposé par l'Union européenne."
+    },
+    {
+      "author_name": "Marine Le Pen",
+      "published_at": "2026-11-25 22:22",
+      "text": "Aujourd’hui, certaines administrations et organismes font du zèle et empêchent les entreprises de s’agrandir, d’ouvrir ou de se transformer.\n\nNous les placerons sous l’autorité du préfet, qui pourra déroger aux règles, comme cela a été fait pour reconstruire Notre-Dame."
+    },
+    {
+      "author_name": "Rassemblement National",
+      "published_at": "2026-11-25 22:22",
+      "text": "Nos commerçants, nos artisans et nos petites entreprises croulent sous les impôts et sous des factures d’électricité qui ont augmenté de 70 % en dix ans.\n\nAvec nous, ce sera 18 milliards d’euros d’impôts de production en moins, le retour à un prix français de l’électricité et une"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-25 22:23",
+      "text": "Mouvement lycéen : plus de 400 élèves exclus définitivement de leur établissement selon le ministre de l’Éducation nationale\n➡️ https://l.leparisien.fr/1RWa"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-25 22:23",
+      "text": "Dembélé donne l'avantage au PSG sur pénalty après une faute sur Hakimi ! 2-1 face à la Roma\n\nSuivez le match avec nous ➡️ https://l.leparisien.fr/yIgb"
+    },
+    {
+      "author_name": "Marine Le Pen",
+      "published_at": "2026-11-25 22:23",
+      "text": "Je suis attachée à la nature et je veux que nos enfants vivent dans un pays protégé. Mais aujourd’hui, les normes environnementales sont devenues absurdes : on empêche des usines de s’installer à cause de l’ADN d’un crapaud.\n\nIl faut trouver un juste équilibre."
+    },
+    {
+      "author_name": "Rassemblement National",
+      "published_at": "2026-11-25 22:24",
+      "text": "Des milliers de normes inutiles et contraignantes étouffent nos entreprises. Chaque heure passée à remplir des papiers est une heure perdue pour le travail et pour les clients.\n\nNous supprimerons des milliers de normes, et la France cessera d’en rajouter sur les règles"
+    },
+    {
+      "author_name": "Marine Le Pen",
+      "published_at": "2026-11-25 22:24",
+      "text": "Lorsque David Lisnard dit vouloir broyer le code du travail, il oublie qu'aucun chef d'entreprise n'en a envie : ils savent que les salariés ont des droits, et c'est normal.\n\nQuand on est candidat à la présidentielle, on ne peut pas dire aux salariés qu'ils n'auront plus aucun"
+    },
+    {
+      "author_name": "ThinkerView",
+      "published_at": "2026-11-25 22:25",
+      "text": "[Retweet de @EricLDaugh] 🚨 BREAKING: The USAID FILES are LIVE and they prove EXACTLY why President Trump, DOGE and Marco Rubio were right to shutter it — IT WAS ENGAGED IN BIG TECH CENSORSHIP and MANIPULATION\n\nDOGE's \"Big Balls\" Edward Coristine confirmed the files are up and Elon Musk boosted it 🔥"
+    },
+    {
+      "author_name": "Marine Le Pen",
+      "published_at": "2026-11-25 22:26",
+      "text": "Aujourd’hui, plus une entreprise grandit, plus ses impôts augmentent de manière brutale.\n\nNous instaurerons un impôt sur les sociétés progressif, avec cinq tranches, comme pour l’impôt sur le revenu. Les TPE paieront moins, et les chefs d’entreprise arrêteront d’avoir peur du"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-25 22:28",
+      "text": "Immobilier : un village abandonné des Pyrénées proposé à la vente pour moins de 300 000 euros\n➡️ https://l.leparisien.fr/8mUM"
+    },
+    {
+      "author_name": "Marine Le Pen",
+      "published_at": "2026-11-25 22:29",
+      "text": "Aujourd'hui, une entreprise préfère parfois faire moins de chiffre d'affaires pour éviter de passer une nouvelle tranche d’imposition.\n\nNous instaurerons un impôt sur les sociétés progressif, avec comme objectif que les 3,5 millions de petites entreprises puissent embaucher"
+    },
+    {
+      "author_name": "Une Bonne Droite 👊🏻",
+      "published_at": "2026-11-25 22:29",
+      "text": "Femme du n°2 de france tv ET propagatrice de fausses informations. Et les gauchistes autour qui écoutent ça d'un air grave sans remettre en question l'énormité du truc 🤡\n[Cite @OccidentisMedia] 🚨❌ FAKE NEWS chez QUOTIDIEN !\n\nLa féministe Anne-Cécile Mailfert, qui avait quitté le plateau de France Info en colère, affirme ce soir sur Quotidien que la DGSI aurait désigné « la menace masculiniste » comme première menace terroriste en France."
+    }
+  ],
+  "context": [
     {
       "author_name": "Le Figaro",
       "published_at": "2026-11-24 22:30",
@@ -1115,6 +1289,11 @@
       "author_name": "Actu & Politique",
       "published_at": "2026-11-24 23:07",
       "text": "🚨‼️🇫🇷 URGENT - Éric Zemmour affirme ne pas être confiant quant à sa capacité à obtenir les 500 parrainages nécessaires pour se présenter à l’élection présidentielle, mais assure que « tout le monde a des difficultés » à les obtenir."
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-24 23:08",
+      "text": "« Désolé si ça vous gratte » : Pierre Perret se dit visé par une « meute » depuis la sortie de ses nouvelles chansons, ciblant notamment LFI\n➡️ https://l.leparisien.fr/bOia"
     },
     {
       "author_name": "Le Parisien | politique",
