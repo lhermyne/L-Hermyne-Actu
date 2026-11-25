@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-25 23:00",
-  "period": "du 2026-11-24 23:00 au 2026-11-25 23:00",
-  "new_period": "du 2026-11-25 20:00 au 2026-11-25 23:00",
-  "context_period": "du 2026-11-24 23:00 au 2026-11-25 20:00",
+  "generated_at": "2026-11-25 23:30",
+  "period": "du 2026-11-24 23:30 au 2026-11-25 23:30",
+  "new_period": "du 2026-11-25 20:00 au 2026-11-25 23:30",
+  "context_period": "du 2026-11-24 23:30 au 2026-11-25 20:00",
   "coverage_complete": false,
-  "new_count": 281,
-  "context_count": 1287,
-  "duplicates_merged": 102,
+  "new_count": 293,
+  "context_count": 1268,
+  "duplicates_merged": 101,
   "empty_removed": 5,
   "new": [
     {
@@ -1161,7 +1161,10 @@
     {
       "author_name": "Marine Le Pen",
       "published_at": "2026-11-25 22:29",
-      "text": "Aujourd'hui, une entreprise préfère parfois faire moins de chiffre d'affaires pour éviter de passer une nouvelle tranche d’imposition.\n\nNous instaurerons un impôt sur les sociétés progressif, avec comme objectif que les 3,5 millions de petites entreprises puissent embaucher"
+      "text": "Aujourd'hui, une entreprise préfère parfois faire moins de chiffre d'affaires pour éviter de passer une nouvelle tranche d’imposition.\n\nNous instaurerons un impôt sur les sociétés progressif, avec comme objectif que les 3,5 millions de petites entreprises puissent embaucher",
+      "also_by": [
+        "Rassemblement National"
+      ]
     },
     {
       "author_name": "Une Bonne Droite 👊🏻",
@@ -1445,132 +1448,81 @@
       "author_name": "Causeur.fr",
       "published_at": "2026-11-25 23:00",
       "text": "Le maire de Cannes, candidat surprise à l’élection présidentielle, vient d’être réélu haut la main à la tête de l’Association des Maires de France (72 %). La nouvelle coqueluche des médias s’était fait connaitre d’un large public en rabaissant le caquet d’une militante gauchiste"
+    },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-25 23:00",
+      "text": "L'armée américaine fait exploser du matériel militaire toxique dans l’Iowa. →https://l.lefigaro.fr/kjeK"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-25 23:01",
+      "text": "Ligue des champions : le PSG tenu en échec face à la Roma, Lille réalise l'exploit contre le Bayern Munich https://ow.ly/KgQr106JFwc"
+    },
+    {
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-25 23:03",
+      "text": "Évacuation ce matin à La Chapelle (Paris) : plus de 400 personnes sous la ligne 2, surtout des hommes isolés d’Afghanistan et du Soudan.\n119 en SAS régionaux (Rouen, Angers, Toulouse…), 235 en CAES Île-de-France, soixantaine de familles par la Ville."
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-25 23:05",
+      "text": "Guerre en Ukraine : l’émissaire américain Jared Kushner critique les achats européens d’énergie à la Russie\n➡️ https://l.leparisien.fr/9FdT",
+      "also_by": [
+        "Le Parisien | politique"
+      ]
+    },
+    {
+      "author_name": "Rassemblement National",
+      "published_at": "2026-11-25 23:06",
+      "text": "La désindustrialisation a été l’un des grands malheurs de la France ces 20 dernières années. Quand une usine ferme, c’est tout un territoire qui s’éteint, avec ses commerces, ses artisans et ses sous-traitants.\n\n@MLP_officiel lancera un grand plan de réindustrialisation. Faire"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-25 23:07",
+      "text": "L’acteur est revenu sur la carrière artistique de Louise, sa troisième enfant, âgée aujourd’hui de trente ans, qui s’est fait un prénom dans la musique. « Je l’admire beaucoup… »\n➡️ https://l.lepoint.fr/q2C"
+    },
+    {
+      "author_name": "Rassemblement National",
+      "published_at": "2026-11-25 23:10",
+      "text": "Aux responsabilités, nous baisserons les impôts de production qui pénalisent nos entreprises avant même qu’elles aient produit quoi que ce soit ! Il est temps d’en finir avec ce surplus de taxes !\n\n🇫🇷 Rejoignez-nous : https://marinelepen.com/"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-25 23:21",
+      "text": "Camille Breer s'exprime sur la crédibilité de Teddy Riner, dans #SoirInfo\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Jordan Bardella",
+      "published_at": "2026-11-25 23:22",
+      "text": "🇫🇷 Nous voulons incarner cette autre jeunesse française, que l’on entend moins dans les médias, mais qui est pourtant majoritaire : cette jeunesse attachée à son drapeau, à son histoire, au sens de l’effort et au respect des traditions ! #Haguenau\n\n📖 https://amzn.eu/d/0e0jD01P"
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-25 23:24",
+      "text": "« Ce n’est pas notre guerre » : Teddy Riner s’empêtre sur le confit en Ukraine avant de se rétracter\n➡️ https://l.leparisien.fr/qus8"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-25 23:25",
+      "text": "Un délégué syndical licencié après avoir perçu près de 900 000 euros grâce à un montage financier avec le cabinet qui intervenait en CSE\n➡️ https://l.leparisien.fr/VzMW"
+    },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-25 23:30",
+      "text": "Appels au djihad, armes, police de la charia : Émilie König, «l’égérie de Daech» qui jure s’être repentie. →https://l.lefigaro.fr/c2Hn"
     }
   ],
   "context": [
     {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-24 23:00",
-      "text": "La population diminuerait ensuite progressivement pour s'établir à 65,9 millions d'habitants en 2070. →https://l.lefigaro.fr/5ONv"
-    },
-    {
-      "author_name": "Reprenons le contrôle !",
-      "published_at": "2026-11-24 23:01",
-      "text": "La France doit pouvoir débattre et décider de la guerre ou de la paix. Dès maintenant. #Ukraine #Otan #ReprenonsLeControle\n[Cite @le_Parisien] Guerre en Ukraine : les pays de l’Otan doivent préparer leurs civils à une guerre avec la Russie, selon le secrétaire général de l’Alliance\n➡️ https://l.leparisien.fr/ewmg"
-    },
-    {
-      "author_name": "Causeur.fr",
-      "published_at": "2026-11-24 23:03",
-      "text": "\"Le maire de Cannes dépasse Édouard Philippe en popularité. Alors que les deux favoris de la présidentielle suscitent un rejet important, la progression du candidat libéral ouvre une nouvelle hypothèse pour 2027...\"\n\nhttps://www.causeur.fr/david-lisnard-troisieme-homme-presidentielle-2027-le-pen-melenchon-337950"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-24 23:05",
-      "text": "L'édito de Mickaël Dorian : «Iran : ces femmes qui dérangent le combat féministe ?»"
-    },
-    {
-      "author_name": "Reprenons le contrôle !",
-      "published_at": "2026-11-24 23:06",
-      "text": "[Retweet de @AntoineDantes] C'est un professionnel du secteur qui sait de quoi il parle."
-    },
-    {
-      "author_name": "Valeurs actuelles",
-      "published_at": "2026-11-24 23:06",
-      "text": "🗞️ REPORTAGE. Les inondations qui frappent le Pas-de-Calais depuis la fin de semaine dernière revivent le cauchemar de novembre 2023. Trois ans plus tard, les sinistrés accusent le coup. Certains cherchent le coupable, d’autres pensent à partir.\nhttps://l.valeursactuelles.com/FdX"
-    },
-    {
-      "author_name": "Actu & Politique",
-      "published_at": "2026-11-24 23:07",
-      "text": "🚨‼️🇫🇷 URGENT - Éric Zemmour affirme ne pas être confiant quant à sa capacité à obtenir les 500 parrainages nécessaires pour se présenter à l’élection présidentielle, mais assure que « tout le monde a des difficultés » à les obtenir."
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-24 23:08",
-      "text": "« Désolé si ça vous gratte » : Pierre Perret se dit visé par une « meute » depuis la sortie de ses nouvelles chansons, ciblant notamment LFI\n➡️ https://l.leparisien.fr/bOia"
-    },
-    {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-24 23:10",
-      "text": "Présidentielle 2027 : le mouvement des ex-Insoumis L’Après propose une rencontre avec LFI https://l.leparisien.fr/VzvO"
-    },
-    {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-24 23:11",
-      "text": "Affaire Nahel Merzouk : alors que la cour d’appel de Versailles vient de confirmer le renvoi du policier aux assises pour meurtre, des membres de la famille refusent de s’exprimer devant la journaliste de CNews et lui demandent de quitter les lieux."
-    },
-    {
-      "author_name": "Sarah Knafo",
-      "published_at": "2026-11-24 23:13",
-      "text": "[Retweet de @EricNaulleau] Ça s’appelle une master class…"
-    },
-    {
-      "author_name": "Jean Bexon",
-      "published_at": "2026-11-24 23:16",
-      "text": "[Retweet de @jean_bexon] 🔴🔴 EXCLU BV | Les enquêteurs ont determiné qu'une des antifas qui a porté des coups aux jeunes femmes de Némésis lors du lynchage de Quentin détenait les effets personnels de Blandine B au moment des faits.",
-      "also_by": [
-        "Boulevard Voltaire"
-      ]
-    },
-    {
-      "author_name": "Jean-Yves Le Gallou",
-      "published_at": "2026-11-24 23:16",
-      "text": "[Retweet de @brunogollnisch] Quoi que l’on pense des opinions d’Eric Zemmour sur le maréchal Pétain, rejoignant celles des historiens Robert Aron et François Georges Dreyfus, sa condamnation pénale constitue une « minoration abusive » et inquiétante de la liberté d’expression en France, où de ce qu’il en"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-24 23:16",
-      "text": "Après le braquage raté d’un fourgon blindé ce mardi matin, plusieurs hommes armés ont retenu en otage 30 personnes dans un magasin de Carthagène (Colombie). https://mrf.lu/2Pmtb"
-    },
-    {
-      "author_name": "Tribune Populaire🌐",
-      "published_at": "2026-11-24 23:18",
-      "text": "📂🪖FLASH INFO - « Les citoyens doivent savoir que leurs maisons resteront chaudes, que l’électricité restera allumée, que les hôpitaux, les transports et les systèmes de communication continueront de fonctionner » déclare le chef de l'OTAN si une guerre avec la Russie éclate"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-24 23:19",
-      "text": "Ghislain Benhessa : «Ce droit revendiqué d'être islamiste, il est le fruit de 50 ans de culpabilité», estime Ghislain Benhessa, avocat, dans #SoirInfo \n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Médias-Presse-Info",
-      "published_at": "2026-11-24 23:20",
-      "text": "🚀 Et si vous pouviez créer votre site ou application en décrivant simplement vos envies en français, sans coder ? Découvrez Kovos, la nouvelle IA française qui génère, teste et met en ligne votre projet instantanément ! \n\n#nocode #techfr #intelligencearti..."
-    },
-    {
-      "author_name": "Objectif Remigration",
-      "published_at": "2026-11-24 23:23",
-      "text": "On sait bien que vous ne faites pas parti du camp national, vous voulez laisser entrer 1 000 000 d’immigrés en plus pendant votre quinquennat.\n[Cite @EPhilippe_LH] J’ai toujours dit que je ne travaillerai jamais avec l’extrême droite. Jamais.\n\nMonsieur Lisnard a dit que son objectif était d’éliminer le centre. Le mien est de rassembler la droite et le centre, sans aucune compromission avec l’extrême droite. C’est une différence fondamentale"
-    },
-    {
-      "author_name": "Daniel Conversano",
-      "published_at": "2026-11-24 23:25",
-      "text": "[Retweet de @RonanPla] Il se passe quelque chose à savoir qu'on assiste au moment où une partie de la droite invente des tas de raisons sophistiquées pour ne pas avoir à voter comme la caissière de son supermarché."
-    },
-    {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-24 23:28",
-      "text": "Manchester : des vols de bijoux derrière l’évacuation d’une salle de concert après la diffusion d’une « substance inconnue » ?\n➡️ https://l.leparisien.fr/RbY0",
-      "also_by": [
-        "Le Parisien"
-      ]
-    },
-    {
-      "author_name": "Reprenons le contrôle !",
-      "published_at": "2026-11-24 23:29",
-      "text": "[Retweet de @RNational_off] Ne vous faites pas avoir par le nouveau Macron.\n\n@CH_Gallois vous révèle tout sur le « Macron de la Croisette » !\n\nRejoignez-nous : https://marinelepen.com/",
-      "also_by": [
-        "Daniel Conversano ⏩ e/acc 🚀"
-      ]
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-24 23:30",
-      "text": "Les métiers les plus exposés à l'IA sont majoritairement occupés par des femmes → https://l.lefigaro.fr/TVWf"
-    },
-    {
       "author_name": "CNEWS",
       "published_at": "2026-11-24 23:31",
       "text": "Laurent Nuñez a demandé mardi aux préfets «un renforcement des mesures de sécurité» sur les lieux de culte juifs pour Hanouka du 4 au 12 décembre. https://mrf.lu/2Pmqc"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-24 23:32",
+      "text": "Manchester : des vols de bijoux derrière l’évacuation d’une salle de concert après la diffusion d’une « substance inconnue » ?\n➡️ https://l.leparisien.fr/kKMQ"
     },
     {
       "author_name": "Jean-Yves Le Gallou",
@@ -2248,6 +2200,14 @@
       "author_name": "Jean Bexon",
       "published_at": "2026-11-25 10:07",
       "text": "[Retweet de @jean_bexon] 🔴🔴 EXCLU BV | L'appartement de Blandine, militante antifa de la Jeune garde et proche d'un des meurtriers présumés, aurait servi de refuge après le lynchage mortel de Quentin, pour un des suspects aujourd'hui incarcérés.\nAu moment des faits, Blandine était en Colombie.",
+      "also_by": [
+        "Boulevard Voltaire"
+      ]
+    },
+    {
+      "author_name": "Jean Bexon",
+      "published_at": "2026-11-25 10:08",
+      "text": "[Retweet de @jean_bexon] 🔴🔴 EXCLU BV | Les enquêteurs ont determiné qu'une des antifas qui a porté des coups aux jeunes femmes de Némésis lors du lynchage de Quentin détenait les effets personnels de Blandine B au moment des faits.",
       "also_by": [
         "Boulevard Voltaire"
       ]
@@ -3376,6 +3336,11 @@
       "author_name": "Sud Radio",
       "published_at": "2026-11-25 12:09",
       "text": "🗣️ Périco Légasse :\"Quand un maire se fait agresser, c'est au peuple français tout entier que s'en prend son agresseur\" #LaFranceDansTousSesEtats en direct du @salondesmaires depuis le stand de la confédération @LesBuralistes\n\n📻 Suivez le direct sur https://sudradio.fr et"
+    },
+    {
+      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
+      "published_at": "2026-11-25 12:09",
+      "text": "[Retweet de @RNational_off] Ne vous faites pas avoir par le nouveau Macron.\n\n@CH_Gallois vous révèle tout sur le « Macron de la Croisette » !\n\nRejoignez-nous : https://marinelepen.com/"
     },
     {
       "author_name": "Les Patriotes",
