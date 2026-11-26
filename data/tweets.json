@@ -1,9 +1,9 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-26T05:02:24.208Z",
+  "updated_at": "2026-11-26T05:25:09.018Z",
   "window_hours": 24,
-  "window_start": "2026-11-25T05:02:24.208Z",
+  "window_start": "2026-11-25T05:25:09.018Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": false,
   "possible_gaps": [
@@ -18,8 +18,99 @@
       "minutes": 4
     }
   ],
-  "count": 1719,
+  "count": 1726,
   "tweets": [
+    {
+      "id": "2125822617869283734",
+      "created_at": "2026-11-26T05:23:02.000Z",
+      "author": "Europe1",
+      "author_name": "Europe 1",
+      "type": "tweet",
+      "text": "Braquages, agressions, viols… À Mayotte, la population vit dans la peur https://ow.ly/jeYf106JGKH",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/Europe1/status/2125822617869283734"
+    },
+    {
+      "id": "2125822311773217146",
+      "created_at": "2026-11-26T05:21:49.000Z",
+      "author": "CNEWS",
+      "author_name": "CNEWS",
+      "type": "tweet",
+      "text": "Yoann Usaï décrypte le rapport concernant la mobilisation lycéenne : «La politisation des élèves s'inscrit souvent dans des établissements où le personnel est en empathie avec le mouvement» dans #LaMatinale\n\nToute l'info est à retrouver sur https://cnews.fr",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/CNEWS/status/2125822311773217146"
+    },
+    {
+      "id": "2125821872877027332",
+      "created_at": "2026-11-26T05:20:05.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "« C’est bizarre qu’on ne soit pas au courant » : à Gonesse, la mairie échoue à empêcher l’installation d’antennes-relais sur le toit d’une résidence\n➡️ https://l.leparisien.fr/2lQi",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2125821872877027332"
+    },
+    {
+      "id": "2125821177897910478",
+      "created_at": "2026-11-26T05:17:19.000Z",
+      "author": "SudRadio",
+      "author_name": "Sud Radio",
+      "type": "tweet",
+      "text": "⚽️Ligue des Champions : Lille réalise l'exploit face au Bayern Munich !\n\nLes Lillois se relancent dans la course à la qualification pour les barrages\n\nhttps://www.sudradio.fr/sport-rugby/sport/ligue-des-champions-lille-renverse-le-bayern-et-peut-encore-rever",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/SudRadio/status/2125821177897910478"
+    },
+    {
+      "id": "2125818916479885683",
+      "created_at": "2026-11-26T05:08:20.000Z",
+      "author": "LePoint",
+      "author_name": "Le Point",
+      "type": "tweet",
+      "text": "« Il a autant de chatte que Didier Deschamps ! » : comment Hollande affûte son plan pour 2027\n\nPar @H_brachet https://l.lepoint.fr/9nN",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/LePoint/status/2125818916479885683"
+    },
+    {
+      "id": "2125818824499077573",
+      "created_at": "2026-11-26T05:07:58.000Z",
+      "author": "leparisien_pol",
+      "author_name": "Le Parisien | politique",
+      "type": "tweet",
+      "text": "Guerre en Ukraine : « Technologie de pointe et puissance de feu », Kiev réceptionne ses premiers blindés Lynx flambant neufs venus d’Allemagne\n➡️ https://l.leparisien.fr/bOxS",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/leparisien_pol/status/2125818824499077573"
+    },
+    {
+      "id": "2125817871242510665",
+      "created_at": "2026-11-26T05:04:10.000Z",
+      "author": "Europe1",
+      "author_name": "Europe 1",
+      "type": "tweet",
+      "text": "SONDAGE - 81% des Français estiment que les pouvoirs publics doivent intervenir afin de permettre la reprise normale des cours dans les lycées https://ow.ly/VeEa106JGIG",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/Europe1/status/2125817871242510665"
+    },
     {
       "id": "2125817333247549793",
       "created_at": "2026-11-26T05:02:02.000Z",
