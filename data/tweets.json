@@ -1,9 +1,9 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-26T05:25:09.018Z",
+  "updated_at": "2026-11-26T05:32:29.711Z",
   "window_hours": 24,
-  "window_start": "2026-11-25T05:25:09.018Z",
+  "window_start": "2026-11-25T05:32:29.711Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": false,
   "possible_gaps": [
@@ -18,8 +18,60 @@
       "minutes": 4
     }
   ],
-  "count": 1726,
+  "count": 1730,
   "tweets": [
+    {
+      "id": "2125824508447637931",
+      "created_at": "2026-11-26T05:30:33.000Z",
+      "author": "Le_Figaro",
+      "author_name": "Le Figaro",
+      "type": "tweet",
+      "text": "Selon une étude de la BCE, les moyens de paiement dématérialisés séduisent de plus en plus les consommateurs. →https://l.lefigaro.fr/4eU2",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/Le_Figaro/status/2125824508447637931"
+    },
+    {
+      "id": "2125824304679903622",
+      "created_at": "2026-11-26T05:29:44.000Z",
+      "author": "CNEWS",
+      "author_name": "CNEWS",
+      "type": "tweet",
+      "text": "«C'est beau comme du Miss France » : Yoann Usaï critique la prise de position de Teddy Riner sur l'Ukraine dans #LaMatinale\n\nToute l'info est à retrouver sur https://cnews.fr",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/CNEWS/status/2125824304679903622"
+    },
+    {
+      "id": "2125824075306279157",
+      "created_at": "2026-11-26T05:28:50.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "« Je risque de perdre mon entreprise en quelques semaines ! » : vent de panique pour les pastilles Pulmoll\n➡️ https://l.leparisien.fr/gy6W",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2125824075306279157"
+    },
+    {
+      "id": "2125823332230594611",
+      "created_at": "2026-11-26T05:25:52.000Z",
+      "author": "CNEWS",
+      "author_name": "CNEWS",
+      "type": "tweet",
+      "text": "🔴 Notre sondage exclusif ➡️ https://mrf.lu/2PK4Y",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/CNEWS/status/2125823332230594611"
+    },
     {
       "id": "2125822617869283734",
       "created_at": "2026-11-26T05:23:02.000Z",
