@@ -1,9 +1,9 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-26T01:01:30.399Z",
+  "updated_at": "2026-11-26T01:31:36.089Z",
   "window_hours": 24,
-  "window_start": "2026-11-25T01:01:30.399Z",
+  "window_start": "2026-11-25T01:31:36.089Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": false,
   "possible_gaps": [
@@ -18,8 +18,34 @@
       "minutes": 4
     }
   ],
-  "count": 1692,
+  "count": 1695,
   "tweets": [
+    {
+      "id": "2125762533927645514",
+      "created_at": "2026-11-26T01:24:17.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "D’après un rapport de l'IGÉSR, des élèves «issus de milieux favorisés» ont donné «localement une dimension politique au mouvement» de blocus des lycées.\n\n«Certains ont eu une forte exposition médiatique sur des chaînes nationales de télévision» ➡️ https://l.leparisien.fr/SS3O",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2125762533927645514"
+    },
+    {
+      "id": "2125757781735309822",
+      "created_at": "2026-11-26T01:05:24.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "Soupçonné d’avoir adopté illégalement une jeune Philippine de 13 ans devenue son esclave sexuelle, un sexagénaire de l’Aude maintenu en détention\n➡️ https://l.leparisien.fr/aCbV",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2125757781735309822"
+    },
     {
       "id": "2125752500016030172",
       "created_at": "2026-11-26T00:44:25.000Z",
@@ -682,6 +708,19 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/CNEWS/status/2125716436395995233"
+    },
+    {
+      "id": "2125714214538891735",
+      "created_at": "2026-11-25T22:12:17.000Z",
+      "author": "RNational_off",
+      "author_name": "Rassemblement National",
+      "type": "retweet",
+      "text": "Pour financer le pilier de capitalisation, nous prendrons les 0,45 % de ce qu’on appelle le \"1 % logement\".\n\nJe me le permets parce que j’ai un grand plan pour le logement : mettre à disposition le foncier de l’État et des grandes entreprises pour créer du logement intermédiaire.",
+      "retweeted_author": "MLP_officiel",
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/RNational_off/status/2125714214538891735"
     },
     {
       "id": "2125714210399322443",

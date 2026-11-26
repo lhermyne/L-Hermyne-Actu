@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-26 02:01",
-  "period": "du 2026-11-25 02:01 au 2026-11-26 02:01",
-  "new_period": "du 2026-11-25 20:00 au 2026-11-26 02:01",
-  "context_period": "du 2026-11-25 02:01 au 2026-11-25 20:00",
+  "generated_at": "2026-11-26 02:31",
+  "period": "du 2026-11-25 02:31 au 2026-11-26 02:31",
+  "new_period": "du 2026-11-25 20:00 au 2026-11-26 02:31",
+  "context_period": "du 2026-11-25 02:31 au 2026-11-25 20:00",
   "coverage_complete": false,
-  "new_count": 337,
+  "new_count": 339,
   "context_count": 1243,
-  "duplicates_merged": 108,
+  "duplicates_merged": 109,
   "empty_removed": 4,
   "new": [
     {
@@ -1407,7 +1407,10 @@
     {
       "author_name": "Marine Le Pen",
       "published_at": "2026-11-25 22:50",
-      "text": "Pour financer le pilier de capitalisation, nous prendrons les 0,45 % de ce qu’on appelle le \"1 % logement\".\n\nJe me le permets parce que j’ai un grand plan pour le logement : mettre à disposition le foncier de l’État et des grandes entreprises pour créer du logement intermédiaire."
+      "text": "Pour financer le pilier de capitalisation, nous prendrons les 0,45 % de ce qu’on appelle le \"1 % logement\".\n\nJe me le permets parce que j’ai un grand plan pour le logement : mettre à disposition le foncier de l’État et des grandes entreprises pour créer du logement intermédiaire.",
+      "also_by": [
+        "Rassemblement National"
+      ]
     },
     {
       "author_name": "Marine Le Pen",
@@ -1764,6 +1767,16 @@
       "author_name": "Rassemblement National",
       "published_at": "2026-11-26 01:42",
       "text": "Merci l'Alsace ! 🇫🇷 \n\nVous étiez plus de 1700 patriotes à être venus à Haguenau à la rencontre de Jordan Bardella !\n Cette mobilisation témoigne de l'intérêt pour notre projet et pour les propositions que nous portons pour redresser la France. Dans 5 mois, notre pays pourra"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-26 02:05",
+      "text": "Soupçonné d’avoir adopté illégalement une jeune Philippine de 13 ans devenue son esclave sexuelle, un sexagénaire de l’Aude maintenu en détention\n➡️ https://l.leparisien.fr/aCbV"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-26 02:24",
+      "text": "D’après un rapport de l'IGÉSR, des élèves «issus de milieux favorisés» ont donné «localement une dimension politique au mouvement» de blocus des lycées.\n\n«Certains ont eu une forte exposition médiatique sur des chaînes nationales de télévision» ➡️ https://l.leparisien.fr/SS3O"
     }
   ],
   "context": [
