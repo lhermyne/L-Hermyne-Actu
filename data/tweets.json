@@ -1,9 +1,9 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-26T02:31:48.840Z",
+  "updated_at": "2026-11-26T03:01:54.541Z",
   "window_hours": 24,
-  "window_start": "2026-11-25T02:31:48.840Z",
+  "window_start": "2026-11-25T03:01:54.541Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": false,
   "possible_gaps": [
@@ -18,8 +18,21 @@
       "minutes": 4
     }
   ],
-  "count": 1697,
+  "count": 1699,
   "tweets": [
+    {
+      "id": "2125782799106129949",
+      "created_at": "2026-11-26T02:44:49.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "Sexisme ou mauvais coup de com’, pourquoi l’interview d’Hailey Bieber avec le New York Times fait polémique\n➡️ https://l.leparisien.fr/BN8w",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2125782799106129949"
+    },
     {
       "id": "2125777040884260998",
       "created_at": "2026-11-26T02:21:56.000Z",
@@ -968,6 +981,19 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/le_Parisien/status/2125710857749291177"
+    },
+    {
+      "id": "2125710836211806339",
+      "created_at": "2026-11-25T21:58:51.000Z",
+      "author": "RNational_off",
+      "author_name": "Rassemblement National",
+      "type": "retweet",
+      "text": "Des heures après le début de cette séance de dédicaces, vous êtes encore extrêmement nombreux : l'Alsace a, encore une fois, répondu présent ! #Haguenau\n\nMerci de faire de ce livre un succès 🙏\n\n📖 https://amzn.eu/d/0e0jD01P",
+      "retweeted_author": "J_Bardella",
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/RNational_off/status/2125710836211806339"
     },
     {
       "id": "2125710830138519569",

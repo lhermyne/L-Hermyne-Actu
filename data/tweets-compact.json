@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-26 03:31",
-  "period": "du 2026-11-25 03:31 au 2026-11-26 03:31",
-  "new_period": "du 2026-11-25 20:00 au 2026-11-26 03:31",
-  "context_period": "du 2026-11-25 03:31 au 2026-11-25 20:00",
+  "generated_at": "2026-11-26 04:01",
+  "period": "du 2026-11-25 04:01 au 2026-11-26 04:01",
+  "new_period": "du 2026-11-25 20:00 au 2026-11-26 04:01",
+  "context_period": "du 2026-11-25 04:01 au 2026-11-25 20:00",
   "coverage_complete": false,
-  "new_count": 341,
+  "new_count": 342,
   "context_count": 1241,
-  "duplicates_merged": 111,
+  "duplicates_merged": 112,
   "empty_removed": 4,
   "new": [
     {
@@ -1433,7 +1433,10 @@
     {
       "author_name": "Jordan Bardella",
       "published_at": "2026-11-25 22:52",
-      "text": "Des heures après le début de cette séance de dédicaces, vous êtes encore extrêmement nombreux : l'Alsace a, encore une fois, répondu présent ! #Haguenau\n\nMerci de faire de ce livre un succès 🙏\n\n📖 https://amzn.eu/d/0e0jD01P"
+      "text": "Des heures après le début de cette séance de dédicaces, vous êtes encore extrêmement nombreux : l'Alsace a, encore une fois, répondu présent ! #Haguenau\n\nMerci de faire de ce livre un succès 🙏\n\n📖 https://amzn.eu/d/0e0jD01P",
+      "also_by": [
+        "Rassemblement National"
+      ]
     },
     {
       "author_name": "Marine Le Pen",
@@ -1793,6 +1796,11 @@
       "author_name": "Le Parisien",
       "published_at": "2026-11-26 03:21",
       "text": "David Lisnard largement réélu à la tête de l’Association des maires de France\n➡️ https://l.leparisien.fr/fqw5"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-26 03:44",
+      "text": "Sexisme ou mauvais coup de com’, pourquoi l’interview d’Hailey Bieber avec le New York Times fait polémique\n➡️ https://l.leparisien.fr/BN8w"
     }
   ],
   "context": [
