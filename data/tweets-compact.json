@@ -1,13 +1,13 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-26 04:01",
-  "period": "du 2026-11-25 04:01 au 2026-11-26 04:01",
-  "new_period": "du 2026-11-25 20:00 au 2026-11-26 04:01",
-  "context_period": "du 2026-11-25 04:01 au 2026-11-25 20:00",
+  "generated_at": "2026-11-26 04:32",
+  "period": "du 2026-11-25 04:32 au 2026-11-26 04:32",
+  "new_period": "du 2026-11-25 20:00 au 2026-11-26 04:32",
+  "context_period": "du 2026-11-25 04:32 au 2026-11-25 20:00",
   "coverage_complete": false,
-  "new_count": 342,
-  "context_count": 1241,
+  "new_count": 343,
+  "context_count": 1240,
   "duplicates_merged": 112,
   "empty_removed": 4,
   "new": [
@@ -1441,7 +1441,10 @@
     {
       "author_name": "Marine Le Pen",
       "published_at": "2026-11-25 22:52",
-      "text": "Le \"1 % logement\" financera en partie notre retraite complémentaire. La garantie Visale, qui aide les jeunes et les salariés à se loger, ne disparaîtra pas pour autant.\n\nNous avons prévu un autre financement : elle sera maintenue."
+      "text": "Le \"1 % logement\" financera en partie notre retraite complémentaire. La garantie Visale, qui aide les jeunes et les salariés à se loger, ne disparaîtra pas pour autant.\n\nNous avons prévu un autre financement : elle sera maintenue.",
+      "also_by": [
+        "Rassemblement National"
+      ]
     },
     {
       "author_name": "Tribune Populaire🌐",
@@ -1801,22 +1804,14 @@
       "author_name": "Le Parisien",
       "published_at": "2026-11-26 03:44",
       "text": "Sexisme ou mauvais coup de com’, pourquoi l’interview d’Hailey Bieber avec le New York Times fait polémique\n➡️ https://l.leparisien.fr/BN8w"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-26 04:13",
+      "text": "Dans le cadre de grands travaux prévus pour 2027, Île-de-France Mobilités a annoncé ce mercredi la fermeture des stations de métro intra-muros de la ligne 14 du métro au mois d’août\n\n➡️ https://l.leparisien.fr/uUfS"
     }
   ],
   "context": [
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-25 04:07",
-      "text": "Guerre en Ukraine : les pays de l’Otan doivent préparer leurs civils à une guerre avec la Russie, selon le secrétaire général de l’Alliance\n➡️ https://l.leparisien.fr/GgUE",
-      "also_by": [
-        "ThinkerView"
-      ]
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-25 04:25",
-      "text": "Baisse des naissances, hausse des décès : La Réunion va voir sa population chuter après un pic en 2053, selon une étude de l’Insee\n➡️ https://l.leparisien.fr/SS5N"
-    },
     {
       "author_name": "Thaïs d’Escufon",
       "published_at": "2026-11-25 04:44",
@@ -2119,6 +2114,11 @@
       "author_name": "Le Figaro Culture",
       "published_at": "2026-11-25 09:36",
       "text": "« Les secrets de l’Alhambra sont encore nombreux » : le palais de Grenade se dévoile dans une grande exposition à l’Institut du monde arabe https://l.lefigaro.fr/L8Tx"
+    },
+    {
+      "author_name": "ThinkerView",
+      "published_at": "2026-11-25 09:37",
+      "text": "https://www.youtube.com/watch?v=ns82tHhJOr0&list=RDns82tHhJOr0&start_radio=1\n[Cite @le_Parisien] Guerre en Ukraine : les pays de l’Otan doivent préparer leurs civils à une guerre avec la Russie, selon le secrétaire général de l’Alliance\n➡️ https://l.leparisien.fr/GgUE"
     },
     {
       "author_name": "Le Média en 4⃣-4⃣-2⃣",
