@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-26 02:31",
-  "period": "du 2026-11-25 02:31 au 2026-11-26 02:31",
-  "new_period": "du 2026-11-25 20:00 au 2026-11-26 02:31",
-  "context_period": "du 2026-11-25 02:31 au 2026-11-25 20:00",
+  "generated_at": "2026-11-26 03:01",
+  "period": "du 2026-11-25 03:01 au 2026-11-26 03:01",
+  "new_period": "du 2026-11-25 20:00 au 2026-11-26 03:01",
+  "context_period": "du 2026-11-25 03:01 au 2026-11-25 20:00",
   "coverage_complete": false,
-  "new_count": 339,
-  "context_count": 1243,
-  "duplicates_merged": 109,
+  "new_count": 340,
+  "context_count": 1241,
+  "duplicates_merged": 110,
   "empty_removed": 4,
   "new": [
     {
@@ -1415,7 +1415,10 @@
     {
       "author_name": "Marine Le Pen",
       "published_at": "2026-11-25 22:51",
-      "text": "Avec notre proposition de retraite complémentaire par capitalisation, chaque jeune qui entre sur le marché du travail se constituera un capital, qui sera versé à la fin de sa vie en une fois ou sous forme de rente.\n\nMême sans apport, il pourra s'appuyer dessus pour acheter une"
+      "text": "Avec notre proposition de retraite complémentaire par capitalisation, chaque jeune qui entre sur le marché du travail se constituera un capital, qui sera versé à la fin de sa vie en une fois ou sous forme de rente.\n\nMême sans apport, il pourra s'appuyer dessus pour acheter une",
+      "also_by": [
+        "Rassemblement National"
+      ]
     },
     {
       "author_name": "Le Parisien",
@@ -1777,19 +1780,14 @@
       "author_name": "Le Parisien",
       "published_at": "2026-11-26 02:24",
       "text": "D’après un rapport de l'IGÉSR, des élèves «issus de milieux favorisés» ont donné «localement une dimension politique au mouvement» de blocus des lycées.\n\n«Certains ont eu une forte exposition médiatique sur des chaînes nationales de télévision» ➡️ https://l.leparisien.fr/SS3O"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Thaïs d’Escufon",
-      "published_at": "2026-11-25 02:41",
-      "text": "[Retweet de @ThoniaLaDroite] Tous les jours, je croise des hommes d’origine étrangère vêtus de joggings Lacoste ou de qamis, chaussés de TN ou de claquettes, qui me regardent avec des yeux remplis de haine. J’ai peur de mourir d’un coup de couteau simplement parce que je suis blanche."
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-25 02:43",
-      "text": "« Ça vous intéresserait de venir la voir ? » : Robert Ménard raconte comment il a invité Teddy Riner à Béziers\n➡️ https://l.leparisien.fr/KxXv"
-    },
+      "published_at": "2026-11-26 02:59",
+      "text": "États-Unis : le grand défilé de Thanksgiving décalé à New York en raison des intempéries\n➡️ https://l.leparisien.fr/IHI2"
+    }
+  ],
+  "context": [
     {
       "author_name": "Le Parisien",
       "published_at": "2026-11-25 04:07",

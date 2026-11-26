@@ -1,9 +1,9 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-26T01:31:36.089Z",
+  "updated_at": "2026-11-26T02:01:42.262Z",
   "window_hours": 24,
-  "window_start": "2026-11-25T01:31:36.089Z",
+  "window_start": "2026-11-25T02:01:42.262Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": false,
   "possible_gaps": [
@@ -20,6 +20,19 @@
   ],
   "count": 1695,
   "tweets": [
+    {
+      "id": "2125771338384290179",
+      "created_at": "2026-11-26T01:59:16.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "États-Unis : le grand défilé de Thanksgiving décalé à New York en raison des intempéries\n➡️ https://l.leparisien.fr/IHI2",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2125771338384290179"
+    },
     {
       "id": "2125762533927645514",
       "created_at": "2026-11-26T01:24:17.000Z",
@@ -708,6 +721,19 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/CNEWS/status/2125716436395995233"
+    },
+    {
+      "id": "2125714221996687465",
+      "created_at": "2026-11-25T22:12:19.000Z",
+      "author": "RNational_off",
+      "author_name": "Rassemblement National",
+      "type": "retweet",
+      "text": "Avec notre proposition de retraite complémentaire par capitalisation, chaque jeune qui entre sur le marché du travail se constituera un capital, qui sera versé à la fin de sa vie en une fois ou sous forme de rente.\n\nMême sans apport, il pourra s'appuyer dessus pour acheter une",
+      "retweeted_author": "MLP_officiel",
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/RNational_off/status/2125714221996687465"
     },
     {
       "id": "2125714214538891735",
@@ -22028,32 +22054,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/le_Parisien/status/2125426101090402630"
-    },
-    {
-      "id": "2125404858828124432",
-      "created_at": "2026-11-25T01:43:01.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "« Ça vous intéresserait de venir la voir ? » : Robert Ménard raconte comment il a invité Teddy Riner à Béziers\n➡️ https://l.leparisien.fr/KxXv",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2125404858828124432"
-    },
-    {
-      "id": "2125404371080904959",
-      "created_at": "2026-11-25T01:41:04.000Z",
-      "author": "ThaisEscufon",
-      "author_name": "Thaïs d’Escufon",
-      "type": "retweet",
-      "text": "Tous les jours, je croise des hommes d’origine étrangère vêtus de joggings Lacoste ou de qamis, chaussés de TN ou de claquettes, qui me regardent avec des yeux remplis de haine. J’ai peur de mourir d’un coup de couteau simplement parce que je suis blanche.",
-      "retweeted_author": "ThoniaLaDroite",
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/ThaisEscufon/status/2125404371080904959"
     }
   ]
 }
