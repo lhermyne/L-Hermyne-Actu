@@ -1,15 +1,15 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-26 01:31",
-  "period": "du 2026-11-25 01:31 au 2026-11-26 01:31",
-  "new_period": "du 2026-11-25 20:00 au 2026-11-26 01:31",
-  "context_period": "du 2026-11-25 01:31 au 2026-11-25 20:00",
+  "generated_at": "2026-11-26 02:01",
+  "period": "du 2026-11-25 02:01 au 2026-11-26 02:01",
+  "new_period": "du 2026-11-25 20:00 au 2026-11-26 02:01",
+  "context_period": "du 2026-11-25 02:01 au 2026-11-25 20:00",
   "coverage_complete": false,
-  "new_count": 334,
-  "context_count": 1246,
-  "duplicates_merged": 106,
-  "empty_removed": 5,
+  "new_count": 337,
+  "context_count": 1243,
+  "duplicates_merged": 108,
+  "empty_removed": 4,
   "new": [
     {
       "author_name": "Tocsin",
@@ -1384,7 +1384,10 @@
     {
       "author_name": "Marine Le Pen",
       "published_at": "2026-11-25 22:49",
-      "text": "Certains veulent introduire une dose de capitalisation dans notre système de retraites par répartition. Mais les cotisations retirées manqueront pour payer les retraites actuelles.\n\nNotre mesure est plus juste, sinon, il faudra baisser les pensions : j'y suis opposée."
+      "text": "Certains veulent introduire une dose de capitalisation dans notre système de retraites par répartition. Mais les cotisations retirées manqueront pour payer les retraites actuelles.\n\nNotre mesure est plus juste, sinon, il faudra baisser les pensions : j'y suis opposée.",
+      "also_by": [
+        "Rassemblement National"
+      ]
     },
     {
       "author_name": "CNEWS",
@@ -1746,24 +1749,24 @@
       "author_name": "Le Parisien",
       "published_at": "2026-11-26 01:12",
       "text": "Rhône : soupçonnés de reformer un groupe d’ultragauche dissous, deux hommes placés en garde à vue à Lyon\n➡️ https://l.leparisien.fr/Xozh"
-    }
-  ],
-  "context": [
+    },
     {
       "author_name": "Médias-Presse-Info",
-      "published_at": "2026-11-25 01:35",
-      "text": "👑 À 18 ans, elle surpassait les plus grands érudits : découvrez la vie inspirante de Sainte Catherine d'Alexandrie et du bienheureux Humilis de Bisignano en ce 25 novembre. \n\n#saintecatherine #catholique #oratoire https://www.medias-presse.info/mercredi-25-novembre-sainte-catherine-dalexandrie-vierge-et-martyre-bienheureux-humilis-de-bisignano-frere-lai-premier-ordre-franciscain/253407/"
+      "published_at": "2026-11-26 01:35",
+      "text": "🙏 Découvrez le sanctoral de ce jeudi 26 novembre : plongez dans la vie inspirante de Saint Sylvestre, Saint Léonard de Port Maurice, Saint Pierre d'Alexandrie et Saint Jean Berchmans. \n\n#catholique #saintdujour #tradition https://www.medias-presse.info/jeudi-26-novembre-saint-sylvestre-abbe-saint-leonard-de-port-maurice-confesseur-premier-ordre-franciscain-saint-pierre-dalexandrie-eveque-et-martyr-saint-jean-berchmans/253507/"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-25 01:50",
-      "text": "Pourquoi Nicolas Canteloup annule sa tournée\n\nAvec « Nicolas Canteloup lâche les chevaux », l’imitateur de 63 ans devait revenir sur scène après 14 ans d’absence\n\n➡️ https://l.leparisien.fr/h1QH"
+      "published_at": "2026-11-26 01:40",
+      "text": "💬 «Je suis assis à côté de toi, j’ai compris trois mots»\n\nQuand le patron de Nvidia Jensen Huang humiliait publiquement le Français Arthur Mensch, patron de Mistral AI\n➡️ https://l.leparisien.fr/VzMG"
     },
     {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-25 01:51",
-      "text": "« Ça vous intéresserait de venir la voir ? » : Robert Ménard raconte comment il a invité Teddy Riner à Béziers https://l.leparisien.fr/1RzC"
-    },
+      "author_name": "Rassemblement National",
+      "published_at": "2026-11-26 01:42",
+      "text": "Merci l'Alsace ! 🇫🇷 \n\nVous étiez plus de 1700 patriotes à être venus à Haguenau à la rencontre de Jordan Bardella !\n Cette mobilisation témoigne de l'intérêt pour notre projet et pour les propositions que nous portons pour redresser la France. Dans 5 mois, notre pays pourra"
+    }
+  ],
+  "context": [
     {
       "author_name": "Thaïs d’Escufon",
       "published_at": "2026-11-25 02:41",

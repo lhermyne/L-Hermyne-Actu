@@ -1,9 +1,9 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-26T00:31:24.662Z",
+  "updated_at": "2026-11-26T01:01:30.399Z",
   "window_hours": 24,
-  "window_start": "2026-11-25T00:31:24.662Z",
+  "window_start": "2026-11-25T01:01:30.399Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": false,
   "possible_gaps": [
@@ -18,8 +18,60 @@
       "minutes": 4
     }
   ],
-  "count": 1691,
+  "count": 1692,
   "tweets": [
+    {
+      "id": "2125752500016030172",
+      "created_at": "2026-11-26T00:44:25.000Z",
+      "author": "leparisien_pol",
+      "author_name": "Le Parisien | politique",
+      "type": "tweet",
+      "text": "Fuites du ministère de l’Intérieur au RN : qui est Christian de Rocquigny, le procureur surpris au siège du parti lors de la perquisition ? https://l.leparisien.fr/nDGz",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/leparisien_pol/status/2125752500016030172"
+    },
+    {
+      "id": "2125752057059533272",
+      "created_at": "2026-11-26T00:42:39.000Z",
+      "author": "RNational_off",
+      "author_name": "Rassemblement National",
+      "type": "tweet",
+      "text": "Merci l'Alsace ! 🇫🇷 \n\nVous étiez plus de 1700 patriotes à être venus à Haguenau à la rencontre de Jordan Bardella !\n Cette mobilisation témoigne de l'intérêt pour notre projet et pour les propositions que nous portons pour redresser la France. Dans 5 mois, notre pays pourra",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/RNational_off/status/2125752057059533272"
+    },
+    {
+      "id": "2125751479923355777",
+      "created_at": "2026-11-26T00:40:22.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "💬 «Je suis assis à côté de toi, j’ai compris trois mots»\n\nQuand le patron de Nvidia Jensen Huang humiliait publiquement le Français Arthur Mensch, patron de Mistral AI\n➡️ https://l.leparisien.fr/VzMG",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2125751479923355777"
+    },
+    {
+      "id": "2125750149259338238",
+      "created_at": "2026-11-26T00:35:04.000Z",
+      "author": "InfoMdia",
+      "author_name": "Médias-Presse-Info",
+      "type": "tweet",
+      "text": "🙏 Découvrez le sanctoral de ce jeudi 26 novembre : plongez dans la vie inspirante de Saint Sylvestre, Saint Léonard de Port Maurice, Saint Pierre d'Alexandrie et Saint Jean Berchmans. \n\n#catholique #saintdujour #tradition https://www.medias-presse.info/jeudi-26-novembre-saint-sylvestre-abbe-saint-leonard-de-port-maurice-confesseur-premier-ordre-franciscain-saint-pierre-dalexandrie-eveque-et-martyr-saint-jean-berchmans/253507/",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/InfoMdia/status/2125750149259338238"
+    },
     {
       "id": "2125744385342280078",
       "created_at": "2026-11-26T00:12:10.000Z",
@@ -630,6 +682,19 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/CNEWS/status/2125716436395995233"
+    },
+    {
+      "id": "2125714210399322443",
+      "created_at": "2026-11-25T22:12:16.000Z",
+      "author": "RNational_off",
+      "author_name": "Rassemblement National",
+      "type": "retweet",
+      "text": "Certains veulent introduire une dose de capitalisation dans notre système de retraites par répartition. Mais les cotisations retirées manqueront pour payer les retraites actuelles.\n\nNotre mesure est plus juste, sinon, il faudra baisser les pensions : j'y suis opposée.",
+      "retweeted_author": "MLP_officiel",
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/RNational_off/status/2125714210399322443"
     },
     {
       "id": "2125714203491344652",
@@ -21950,58 +22015,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/ThaisEscufon/status/2125404371080904959"
-    },
-    {
-      "id": "2125392613842784710",
-      "created_at": "2026-11-25T00:54:21.000Z",
-      "author": "jon_delorraine",
-      "author_name": "Jon De Lorraine",
-      "type": "tweet",
-      "text": "",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "zxx",
-      "url": "https://x.com/jon_delorraine/status/2125392613842784710"
-    },
-    {
-      "id": "2125391935758389250",
-      "created_at": "2026-11-25T00:51:40.000Z",
-      "author": "leparisien_pol",
-      "author_name": "Le Parisien | politique",
-      "type": "tweet",
-      "text": "« Ça vous intéresserait de venir la voir ? » : Robert Ménard raconte comment il a invité Teddy Riner à Béziers https://l.leparisien.fr/1RzC",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/leparisien_pol/status/2125391935758389250"
-    },
-    {
-      "id": "2125391622540026120",
-      "created_at": "2026-11-25T00:50:25.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "Pourquoi Nicolas Canteloup annule sa tournée\n\nAvec « Nicolas Canteloup lâche les chevaux », l’imitateur de 63 ans devait revenir sur scène après 14 ans d’absence\n\n➡️ https://l.leparisien.fr/h1QH",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2125391622540026120"
-    },
-    {
-      "id": "2125387761225957719",
-      "created_at": "2026-11-25T00:35:04.000Z",
-      "author": "InfoMdia",
-      "author_name": "Médias-Presse-Info",
-      "type": "tweet",
-      "text": "👑 À 18 ans, elle surpassait les plus grands érudits : découvrez la vie inspirante de Sainte Catherine d'Alexandrie et du bienheureux Humilis de Bisignano en ce 25 novembre. \n\n#saintecatherine #catholique #oratoire https://www.medias-presse.info/mercredi-25-novembre-sainte-catherine-dalexandrie-vierge-et-martyre-bienheureux-humilis-de-bisignano-frere-lai-premier-ordre-franciscain/253407/",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/InfoMdia/status/2125387761225957719"
     }
   ]
 }
