@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-26 04:32",
-  "period": "du 2026-11-25 04:32 au 2026-11-26 04:32",
-  "new_period": "du 2026-11-25 20:00 au 2026-11-26 04:32",
-  "context_period": "du 2026-11-25 04:32 au 2026-11-25 20:00",
+  "generated_at": "2026-11-26 05:02",
+  "period": "du 2026-11-25 05:02 au 2026-11-26 05:02",
+  "new_period": "du 2026-11-25 20:00 au 2026-11-26 05:02",
+  "context_period": "du 2026-11-25 05:02 au 2026-11-25 20:00",
   "coverage_complete": false,
-  "new_count": 343,
-  "context_count": 1240,
-  "duplicates_merged": 112,
+  "new_count": 345,
+  "context_count": 1238,
+  "duplicates_merged": 113,
   "empty_removed": 4,
   "new": [
     {
@@ -1454,7 +1454,10 @@
     {
       "author_name": "Marine Le Pen",
       "published_at": "2026-11-25 22:55",
-      "text": "Avec notre réforme des retraites, si vous avez commencé à travailler à 23 ans, il vous faudra 42 annuités de cotisation : vous partirez à 65 ans, avec le même niveau de retraite."
+      "text": "Avec notre réforme des retraites, si vous avez commencé à travailler à 23 ans, il vous faudra 42 annuités de cotisation : vous partirez à 65 ans, avec le même niveau de retraite.",
+      "also_by": [
+        "Rassemblement National"
+      ]
     },
     {
       "author_name": "Marine Le Pen",
@@ -1809,19 +1812,19 @@
       "author_name": "Le Parisien",
       "published_at": "2026-11-26 04:13",
       "text": "Dans le cadre de grands travaux prévus pour 2027, Île-de-France Mobilités a annoncé ce mercredi la fermeture des stations de métro intra-muros de la ligne 14 du métro au mois d’août\n\n➡️ https://l.leparisien.fr/uUfS"
-    }
-  ],
-  "context": [
+    },
     {
-      "author_name": "Thaïs d’Escufon",
-      "published_at": "2026-11-25 04:44",
-      "text": "[Retweet de @Will_Tanner_1] This white woman was arrested and convicted for pointing out that the migrant who raped her was a migrant and that such savages are dangerous to women. That's clear anti-white racism\n\nThe left knows it exists, it just supports it and wants it to continue happening\n\nVideo from"
+      "author_name": "Alain Weber",
+      "published_at": "2026-11-26 04:40",
+      "text": "Quand les Juifs ne peuvent plus chanter à Paris\n\nComment la France a-t-elle pu en arriver là ?\n\nUn concert réunissant de grandes voix de la musique israélienne à l’occasion de Hanouka vient d’être annulé par ses organisateurs pour des raisons de sécurité. \n\nMême la date et le"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-25 04:59",
-      "text": "« Je voulais juste une nuit tranquille » : Waad, victime de violences conjugales, attend un jugement depuis sept ans\n➡️ https://l.leparisien.fr/Osa8"
-    },
+      "published_at": "2026-11-26 04:52",
+      "text": "En Russie, la chaîne de télévision RT ressuscite Fiodor Dostoïevski pour commenter l’actualité et soutenir Vladimir Poutine\n➡️ https://l.leparisien.fr/QtCc"
+    }
+  ],
+  "context": [
     {
       "author_name": "CNEWS",
       "published_at": "2026-11-25 09:05",
