@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-26 05:02",
-  "period": "du 2026-11-25 05:02 au 2026-11-26 05:02",
-  "new_period": "du 2026-11-25 20:00 au 2026-11-26 05:02",
-  "context_period": "du 2026-11-25 05:02 au 2026-11-25 20:00",
+  "generated_at": "2026-11-26 05:32",
+  "period": "du 2026-11-25 05:32 au 2026-11-26 05:32",
+  "new_period": "du 2026-11-25 20:00 au 2026-11-26 05:32",
+  "context_period": "du 2026-11-25 05:32 au 2026-11-25 20:00",
   "coverage_complete": false,
-  "new_count": 345,
+  "new_count": 348,
   "context_count": 1238,
-  "duplicates_merged": 113,
+  "duplicates_merged": 116,
   "empty_removed": 4,
   "new": [
     {
@@ -1462,7 +1462,10 @@
     {
       "author_name": "Marine Le Pen",
       "published_at": "2026-11-25 22:56",
-      "text": "Notre réforme des retraites bénéficiera grandement aux mères de familles nombreuses.\n\nAvec la réforme Borne et ses 64 ans, les huit trimestres par enfant qui leur ont été accordés pour la naissance et l'éducation de leurs enfants ne leur servent plus à rien. Avec nous, ils leur"
+      "text": "Notre réforme des retraites bénéficiera grandement aux mères de familles nombreuses.\n\nAvec la réforme Borne et ses 64 ans, les huit trimestres par enfant qui leur ont été accordés pour la naissance et l'éducation de leurs enfants ne leur servent plus à rien. Avec nous, ils leur",
+      "also_by": [
+        "Rassemblement National"
+      ]
     },
     {
       "author_name": "Le Parisien",
@@ -1472,7 +1475,10 @@
     {
       "author_name": "Marine Le Pen",
       "published_at": "2026-11-25 22:58",
-      "text": "Aujourd’hui, on oublie trop souvent la transmission des entreprises. 500 000 entreprises devront changer de mains dans les dix prochaines années.\n\nC’est trois millions de salariés : sans transmission, nous perdrons beaucoup de richesses."
+      "text": "Aujourd’hui, on oublie trop souvent la transmission des entreprises. 500 000 entreprises devront changer de mains dans les dix prochaines années.\n\nC’est trois millions de salariés : sans transmission, nous perdrons beaucoup de richesses.",
+      "also_by": [
+        "Rassemblement National"
+      ]
     },
     {
       "author_name": "Fdesouche.com est une revue de presse",
@@ -1821,7 +1827,25 @@
     {
       "author_name": "Le Parisien",
       "published_at": "2026-11-26 04:52",
-      "text": "En Russie, la chaîne de télévision RT ressuscite Fiodor Dostoïevski pour commenter l’actualité et soutenir Vladimir Poutine\n➡️ https://l.leparisien.fr/QtCc"
+      "text": "En Russie, la chaîne de télévision RT ressuscite Fiodor Dostoïevski pour commenter l’actualité et soutenir Vladimir Poutine\n➡️ https://l.leparisien.fr/QtCc",
+      "also_by": [
+        "Le Parisien | politique"
+      ]
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-26 05:07",
+      "text": "Le procès d'Émilie König, figure des «revenantes» de l’État islamique s’ouvre ce jeudi devant la Cour d’assises spéciale de Paris. \n\nPionnière de Daech, cette mère de cinq enfants veut convaincre ses juges de son désengagement ➡️ https://l.leparisien.fr/nDGZ"
+    },
+    {
+      "author_name": "Ni Oubli Ni Pardon",
+      "published_at": "2026-11-26 05:15",
+      "text": "07/2021 Fabrice Epelboin : Mais ça met les employeurs dans une position détestable, c'est certain…\nL'État aurait dû prendre ses responsabilités et rendre la vaccination obligatoire pour tous, point barre, ce ne sont pas à eux de jouer aux flics."
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-26 05:22",
+      "text": "Le grand froid arrive ! Découvrez à quel point les journées glaciales sont de plus en plus rares et tardives https://l.leparisien.fr/rBtv"
     }
   ],
   "context": [
