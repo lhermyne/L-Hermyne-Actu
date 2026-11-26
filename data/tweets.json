@@ -1,9 +1,9 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-26T00:01:19.130Z",
+  "updated_at": "2026-11-26T00:31:24.662Z",
   "window_hours": 24,
-  "window_start": "2026-11-25T00:01:19.130Z",
+  "window_start": "2026-11-25T00:31:24.662Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": false,
   "possible_gaps": [
@@ -18,8 +18,47 @@
       "minutes": 4
     }
   ],
-  "count": 1690,
+  "count": 1691,
   "tweets": [
+    {
+      "id": "2125744385342280078",
+      "created_at": "2026-11-26T00:12:10.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "Rhône : soupçonnés de reformer un groupe d’ultragauche dissous, deux hommes placés en garde à vue à Lyon\n➡️ https://l.leparisien.fr/Xozh",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2125744385342280078"
+    },
+    {
+      "id": "2125743758972993655",
+      "created_at": "2026-11-26T00:09:41.000Z",
+      "author": "le_jarl",
+      "author_name": "Le Jarl",
+      "type": "quote",
+      "text": "Et c’est parfaitement normal. Médine politise ses interventions, il en a le droit, mais il ne faut donc plus financer ses prises de parole avec de l’argent public.",
+      "retweeted_author": null,
+      "quoted_author": "F_Desouche",
+      "quoted_text": "Après le retrait d’une aide de 32 000 € en juin lors de la programmation de Médine, le conseil départemental du Morbihan a annoncé en novembre que le festival Les Galettes du monde ne serait pas davantage aidé en 2027.  https://www.fdesouche.com/2026/11/25/sainte-anne-dauray-56-32-000-retires-au-festival-qui-avait-programme-medine-le/",
+      "lang": "fr",
+      "url": "https://x.com/le_jarl/status/2125743758972993655"
+    },
+    {
+      "id": "2125741806616723847",
+      "created_at": "2026-11-26T00:01:55.000Z",
+      "author": "dannyconversano",
+      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
+      "type": "retweet",
+      "text": "Everybody lived like a fish in water, taking for granted the demographic supermajority they enjoyed. The comparatively small number of foreigners were still socially incentivized to integrate, and some genuinely wanted to.\n\nThat dynamic changes when the demographic balance",
+      "retweeted_author": "FortySacks",
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "en",
+      "url": "https://x.com/dannyconversano/status/2125741806616723847"
+    },
     {
       "id": "2125741045610684654",
       "created_at": "2026-11-25T23:58:54.000Z",
@@ -591,6 +630,19 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/CNEWS/status/2125716436395995233"
+    },
+    {
+      "id": "2125714203491344652",
+      "created_at": "2026-11-25T22:12:14.000Z",
+      "author": "RNational_off",
+      "author_name": "Rassemblement National",
+      "type": "retweet",
+      "text": "Notre pays est l'un de ceux où il y a le moins de retraités pauvres. J'en suis très fière et je veux conserver ce record.\n\nLes retraites ont été sous-indexées au moins sept années sur les quinze dernières : lors du prochain quinquennat, je réindexerai les retraites sur",
+      "retweeted_author": "MLP_officiel",
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/RNational_off/status/2125714203491344652"
     },
     {
       "id": "2125714197887451494",
@@ -21950,45 +22002,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/InfoMdia/status/2125387761225957719"
-    },
-    {
-      "id": "2125384093395308866",
-      "created_at": "2026-11-25T00:20:30.000Z",
-      "author": "dannyconversano",
-      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
-      "type": "quote",
-      "text": "👌👌👌\nVoilà pourquoi se projeter dès maintenant en 2100 n'a pas de sens.\nImaginez ce que la technologie sera en 2060 et comment le monde et les moeurs vont évoluer en fonction.\nIl est tout simplement devenu impossible de prédire l'avenir au-delà de trois ou quatre ans, nous",
-      "retweeted_author": null,
-      "quoted_author": "MagellanQuest",
-      "quoted_text": "According to the most recent data, African birth rates are falling far faster than anyone predicted. If the current trends continue, Africa will reach below replacement level decades ahead of the UN projections.",
-      "lang": "fr",
-      "url": "https://x.com/dannyconversano/status/2125384093395308866"
-    },
-    {
-      "id": "2125382051314495803",
-      "created_at": "2026-11-25T00:12:23.000Z",
-      "author": "dannyconversano",
-      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
-      "type": "retweet",
-      "text": "@dannyconversano J'aurais pas mieux dit, ça me fend le coeur. Quand je vais au cinéma et que je vois dans les queues, des gens de tout âge, catégorie sociale ou ethnie devant un film de Marvell, j'ai une envie de vomir qui monte tellement que ça me déprime/angoisse sur l'état de l'humanité.",
-      "retweeted_author": "NBA_Mystery_Man",
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/dannyconversano/status/2125382051314495803"
-    },
-    {
-      "id": "2125381610623099255",
-      "created_at": "2026-11-25T00:10:38.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "Lio, Hoshi, Bilal Hassani, Sam Sauvage... En concert pour ses 25 ans, Superbus renverse une Accor Arena à moitié pleine\n➡️ https://l.leparisien.fr/quVB",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2125381610623099255"
     }
   ]
 }
