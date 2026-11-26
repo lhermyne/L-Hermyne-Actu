@@ -1,15 +1,15 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-26 13:04",
-  "period": "du 2026-11-25 13:04 au 2026-11-26 13:04",
-  "new_period": "du 2026-11-26 08:00 au 2026-11-26 13:04",
-  "context_period": "du 2026-11-25 13:04 au 2026-11-26 08:00",
+  "generated_at": "2026-11-26 13:34",
+  "period": "du 2026-11-25 13:34 au 2026-11-26 13:34",
+  "new_period": "du 2026-11-26 08:00 au 2026-11-26 13:34",
+  "context_period": "du 2026-11-25 13:34 au 2026-11-26 08:00",
   "coverage_complete": false,
-  "new_count": 581,
-  "context_count": 1231,
-  "duplicates_merged": 146,
-  "empty_removed": 7,
+  "new_count": 621,
+  "context_count": 1200,
+  "duplicates_merged": 139,
+  "empty_removed": 6,
   "new": [
     {
       "author_name": "Le Figaro",
@@ -2997,232 +2997,212 @@
       "author_name": "CNEWS",
       "published_at": "2026-11-26 13:03",
       "text": "40 coups de poing en près d’une minute… ➡️ https://mrf.lu/2yTmx"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Franc-Tireur",
-      "published_at": "2026-11-25 13:04",
-      "text": "🎬Au sommaire de Franc-Tireur n°263  :\n\n👉ACAB et amalgames\n👉Corruption : Préfet et secrets\n👉Poutine, la fuite en avant"
     },
     {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-25 13:05",
-      "text": "Une mère et sa fille traitées de «sales blanches», Hélène Roué reconnaît que «le racisme anti-blanc, c'est quelque chose qui est documenté» #100Frontieres\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-25 13:05",
-      "text": "[Retweet de @ClaireConruyt] 🔴 Info @Le_Figaro : «Ce n’est pas à lui de choisir ses adversaires» : la riposte de Retailleau après la proposition de Philippe de débattre avec Lisnard https://www.lefigaro.fr/politique/ce-n-est-pas-a-lui-de-choisir-ses-adversaires-la-riposte-de-retailleau-apres-la-proposition-de-philippe-de-debattre-avec-lisnard-20261125"
-    },
-    {
-      "author_name": "L’Infiltré",
-      "published_at": "2026-11-25 13:05",
-      "text": "🚨 Affaire Quentin Deranque : nouvelles révélations de @Jules_Laurans sur les échanges Signal de la Jeune Garde avant le drame et les rémunérations de deux de ses militants au sein de l’équipe parlementaire du député LFI Raphaël Arnault."
-    },
-    {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-25 13:05",
-      "text": "Présidentielle 2027 : « Je ferai toujours le front républicain », Boris Vallaud prêt à voter Mélenchon contre Le Pen https://l.leparisien.fr/VzM2"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-25 13:06",
-      "text": "Elle a dit avoir «disjoncté» en 2021 : Fabienne Carat revient sur le «burn-out» qui l’a poussée à quitter «Plus belle la vie», dont elle était l’une des stars pendant plus de quinze ans ➡️ https://l.leparisien.fr/SS3A"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-25 13:06",
-      "text": "Notation de la France : S&P rend son verdict vendredi, à quoi faut-il s'attendre ? https://ow.ly/8aSM106JCxn"
-    },
-    {
-      "author_name": "Pierre Sautarel",
-      "published_at": "2026-11-25 13:08",
-      "text": "Des magistrats socialistes, communistes, des préfets franc-maçons ou proches de Macron : c’est la liberté d’opinion.\n\nDeux hauts fonctionnaires soupçonnés de sympathies pour le RN : c’est de l'infiltration.",
-      "also_by": [
-        "Jean-Yves Le Gallou"
-      ]
-    },
-    {
-      "author_name": "Tocsin",
-      "published_at": "2026-11-25 13:10",
-      "text": "📻 L’histoire interdite de Yalta 1945 empêche de comprendre le Yalta 2026 - Annie Lacroix-Riz\n\n🔗 https://youtu.be/8i4sWWQjryc\n\n🗣️ @annielacroixriz"
-    },
-    {
-      "author_name": "Le Point",
-      "published_at": "2026-11-25 13:11",
-      "text": "Barrages filtrants, revendications nouvelles, présence médiatique accrue… Face à la baisse de la mobilisation et au gouvernement qui joue la montre, le mouvement lycéen cherche une nouvelle stratégie.\n\nPar @lefebvreclaire\n➡️ https://l.lepoint.fr/FZH"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-25 13:11",
-      "text": "Violences faites aux femmes : «La gauche s’est servie du féminisme comme d’un marchepied», dénonce Gabrielle Cluzel https://ow.ly/P18q106JCxJ",
-      "also_by": [
-        "Gabrielle Cluzel",
-        "Boulevard Voltaire"
-      ]
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-25 13:11",
-      "text": "🗣️ Jean-Michel Detchart, Président de Culture Presse :\"L'activité de presse pure est de plus en plus compliquée, mais elle est essentielle\" #LaFranceDansTousSesEtats en direct du @salondesmaires depuis le stand de la confédération @LesBuralistes\n\n📻 Suivez le direct sur"
-    },
-    {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-25 13:12",
-      "text": "Royaume-Uni : un village anglais organise un référendum pour faire sécession après l’annonce de l’arrivée possible de 931 demandeurs d’asile dans une ancienne base militaire, soit plus que sa population"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-25 13:13",
-      "text": "« Il faut rêver grand » : bientôt la fin des métiers « interdits » aux personnes handicapées\n➡️ https://l.leparisien.fr/xX7x"
-    },
-    {
-      "author_name": "LCP",
-      "published_at": "2026-11-25 13:14",
-      "text": "\"Des idées suicidaires\": la députée insoumise Ségolène Amiot raconte la souffrance générée par les parcours de PMA https://lcp.fr/actualites/des-idees-suicidaires-la-deputee-insoumise-segolene-amiot-raconte-la-souffrance-generee"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-25 13:14",
-      "text": "Blocus des lycées : «Ce sont les enfants des classes moyennes et des classes populaires qui trinquent», tranche Hélène Roué https://www.cnews.fr/france/2026-11-25/blocus-des-lycees-ce-sont-les-enfants-des-classes-moyennes-et-des-classes"
-    },
-    {
-      "author_name": "VA+",
-      "published_at": "2026-11-25 13:15",
-      "text": "🔴 PRÉSIDENTIELLE 2027 | Édouard Philippe défie David Lisnard et lui propose un débat télévisé.\n\n« Ma droite, elle est étanche avec l'extrême droite », affirme-t-il, accusant son rival d'entretenir une frontière « assez poreuse » avec celle-ci."
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-25 13:18",
-      "text": "Geoffrey Carvalhinho, vice-président de la région Île-de-France chargé de la jeunesse, réagit au refus de la LDH des sanctions : «Il est normal de ne pas financer les aides facultatives pour les casseurs» #PoliceJustice24H\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-25 13:19",
-      "text": "« Si vous voyez cette vidéo, cela signifie que je suis morte » : atteinte d’un cancer, une influenceuse annonce elle-même son décès à ses fans\n➡️ https://l.leparisien.fr/43yD"
-    },
-    {
-      "author_name": "Ligne Droite • La matinale de RC",
-      "published_at": "2026-11-25 13:20",
-      "text": "🤜 19 ans après le meurtre de sa fille : la colère du général Philippe Schmitt\n🗣️ Général Philippe Schmitt, père d’Anne-Lorraine Schmitt, assassinée de 34 coups de poignard dans le RER D en 2007\nEntretien complet :\n👉 https://youtu.be/qYGIo-FIUes\n🎙️ Avec @a_degalzain sur"
-    },
-    {
-      "author_name": "Jordan Bardella",
-      "published_at": "2026-11-25 13:21",
-      "text": "La sécurité des femmes et leur liberté devraient être des acquis : il faut pourtant les défendre quotidiennement face à la montée de l’obscurantisme et à la banalisation de la violence.\n\nEn cette journée internationale de lutte contre les violences faites aux femmes, j’apporte",
-      "also_by": [
-        "Rassemblement National"
-      ]
-    },
-    {
-      "author_name": "Cercle Aristote",
-      "published_at": "2026-11-25 13:22",
-      "text": "[Retweet de @Omerta_officiel] OLIVIER DELORME : EUROPE ET LA PRISON DES PEUPLES"
-    },
-    {
-      "author_name": "Cercle Aristote",
-      "published_at": "2026-11-25 13:22",
-      "text": "Qui sont ces gens ?\n[Cite @GG_RMC] 🇫🇷 Le Puy du Fou jugé « souverainiste » : un voyage scolaire annulé.\n\n📞 Le coup de fil d'@E2Villiers, ancien directeur : \"C'est dommage de mêler la politique au tourisme. Quand les gens pleurent ou rigolent au Puy du Fou, c'est de droite ou de gauche ça ?\"\n\n#GGRMC"
-    },
-    {
-      "author_name": "Pierre Sautarel",
-      "published_at": "2026-11-25 13:24",
-      "text": "L’infirmière ukrainienne vivant dans un HLM est, dans l’imaginaire extrême-centriste, une figure quasi mythologique. À elle seule, elle élève la préférence étrangère au rang de doctrine géostratégique de défense du monde libre.\nhttps://x.com/LCI/status/2125501033270976620\n[Cite @LCI] 🔴 Préférence nationale dans le logement social souhaitée par le RN :\n\n🗣️ \"J'ai toujours combattu cette idée (...) J'ai toujours dit au RN que je préférais loger une infirmière ukrainienne plutôt qu'un multirécidiviste délinquant, même s'il est français depuis douze générations\""
-    },
-    {
-      "author_name": "Marine Le Pen",
-      "published_at": "2026-11-25 13:24",
-      "text": "À Reims, dans une boucherie de quartier, pour échanger avec un artisan boucher et toute son équipe.\n\nBaisse du pouvoir d’achat, hausse des prix de l’énergie, poids des normes : nos artisans ne s'en sortent plus. Nous avons de nombreuses mesures à proposer pour leur permettre de",
-      "also_by": [
-        "Rassemblement National"
-      ]
-    },
-    {
-      "author_name": "Florian Philippot",
-      "published_at": "2026-11-25 13:24",
-      "text": "Je tombe sur ça et je ne suis pas surpris.\n\nSa réforme des retraites joue un rôle important dans cette chute :\n- la droite bourgeoise retient « 60/62 ans » et se dit que ce n’est pas financé. D’autant que l’abandon du discours sur la réindustrialisation ne rassure pas de ce côté.",
-      "also_by": [
-        "Les Patriotes"
-      ]
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-25 13:25",
-      "text": "« Votre club d’énarques » : David Lisnard s’en prend vivement à Jean-François Copé qui l’a qualifié de « populiste » https://l.leparisien.fr/LeAB",
-      "also_by": [
-        "Le Parisien | politique"
-      ]
-    },
-    {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-25 13:26",
-      "text": "Un amendement adopté le 18 novembre prévoit l’étude de la révolution haïtienne, de l’abolition de 1794, de son rétablissement sous Bonaparte et de Toussaint Louverture en classe de quatrième.  https://www.fdesouche.com/2026/11/25/la-revolution-haitienne-et-toussaint-louverture-font-leur-entree-dans-les-programmes-dhistoire-des-colleges-francais-des-la-4e/"
-    },
-    {
-      "author_name": "Marine Le Pen",
-      "published_at": "2026-11-25 13:27",
-      "text": "Nos commerçants sont les premiers à subir la hausse des prix de l’énergie : les prix de l’électricité, du gaz et du carburant sont un poids pour nos bouchers, nos boulangers, et pour tous nos artisans. \n\nAujourd’hui, certains patrons ne se versent même plus de salaire, d’autres",
-      "also_by": [
-        "Rassemblement National"
-      ]
-    },
-    {
-      "author_name": "Marine Le Pen",
-      "published_at": "2026-11-25 13:29",
-      "text": "Il y a des normes franco-françaises, qui sont parfois de véritables entraves au fonctionnement de nos entreprises, et qui ne sont pas utiles : nous les supprimerons.\n\nNous supprimerons aussi l’ensemble des surnormes qui ont été imposées, et qui vont au-delà de ce qui est imposé",
-      "also_by": [
-        "Rassemblement National"
-      ]
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-25 13:29",
-      "text": "🇫🇷 Village étape : un label officiel français\n\n🗣️ Elisabeth Abadie (Fédération Française des Villages Étapes) :\"Pour être affilié, il faut remplir certaines conditions : moins de 5 000 habitants, un hôtel et des restaurants\"\n\n📻 Suivez le direct sur https://sudradio.fr et"
-    },
-    {
-      "author_name": "LCP",
-      "published_at": "2026-11-25 13:30",
-      "text": "Soupçons de fuites vers le RN: Hugues Moutouh officiellement débarqué de son poste de préfet du Loiret\n⤵️\nhttps://lcp.fr/actualites/soupcons-de-fuites-vers-le-rn-hugues-moutouh-officiellement-debarque-de-son-poste-de"
+      "author_name": "ThinkerView",
+      "published_at": "2026-11-26 13:04",
+      "text": "[Retweet de @BBCWorld] Seven injured, four critically, after Bangkok oil refinery explosion https://bbc.in/4jE8zzy"
     },
     {
       "author_name": "TVL",
-      "published_at": "2026-11-25 13:30",
-      "text": "🗳️ Cinq proches de Rémi Muzeau, maire divers droite de Clichy-la-Garenne (Hauts-de-Seine), ont été renvoyés devant le tribunal correctionnel dans une affaire de fraude électorale lors des municipales de 2026, révèle Le Canard enchaîné.\n\nSelon l'hebdomadaire, les proches du maire"
-    },
-    {
-      "author_name": "Le Point",
-      "published_at": "2026-11-25 13:30",
-      "text": "Née dans le Nord, la chaîne de magasins de produits en circuits courts Otera a vu sa fréquentation doubler malgré la crise du pouvoir d’achat. ➡️ https://l.lepoint.fr/Vw7"
-    },
-    {
-      "author_name": "Frontières",
-      "published_at": "2026-11-25 13:31",
-      "text": "🚨 ALERTE - David Lisnard a été RÉÉLU à la tête des maires de France. (Le Figaro)"
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-25 13:31",
-      "text": "Les habitants de San Francisco s'apprêtent à affronter le 25 novembre de graves risques d'inondations en raison de marées historiques cumulées à des pluies torrentielles attendues dans la nuit."
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-25 13:31",
-      "text": "💉 Arthur Rinderknech sous enquête de l'Itia pour refus de contrôle antidopage  https://www.sudradio.fr/?p=935364"
-    },
-    {
-      "author_name": "Sarah Knafo",
-      "published_at": "2026-11-25 13:32",
-      "text": "🚨 Le Parlement européen vient de voter 225 milliards d'euros pour distribuer votre argent au monde entier. \n\nLes macronistes, les socialistes et les écologistes et même des députés LR ont dit OUI. \n\n👫85 % des actions devront viser l’égalité femmes-hommes et 30 % de l’enveloppe",
-      "also_by": [
-        "Daniel Conversano"
-      ]
+      "published_at": "2026-11-26 13:04",
+      "text": "🎙️ IA : « Toutes les professions cognitives vont être soit liquidées, soit radicalement transformées. » - Fabrice @epelboin\n\nBistro Libertés sur TVL 🔻\nhttps://youtu.be/2rgO9UDchh0"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-25 13:33",
-      "text": "« Ce n’est pas un combat contre les hommes » : à Toulouse, cette dirigeante veut faire bouger les lignes\n➡️ https://l.leparisien.fr/MPvw"
+      "published_at": "2026-11-26 13:05",
+      "text": "Révélations sur Jordan Bardella, budget de la Sécu, demande de suspension de CNews, naufrage d’un pétrolier : les infos à retenir ce midi\n➡️ https://l.leparisien.fr/kKkv"
     },
+    {
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-26 13:06",
+      "text": "Meurtre de Quentin : les 11 antifascistes incarcérés sont militants actifs de la Jeune garde fondée par Raphaël Arnault (LFI).\n\nRetrouvez le minute info de Quitterie de Prémesnil ⤵️"
+    },
+    {
+      "author_name": "Jean Bexon",
+      "published_at": "2026-11-26 13:06",
+      "text": "Quand je vous dis que les 11 antifas incarcérés dans le cadre de l'enquête sur le meurtre de Quentin sont membres de la Jeune garde et ont cotoyé Raphaël Arnault, c'est une information sourcée. \n\nJe vous en apporte une preuve prochainement pour compléter celles déjà publiées."
+    },
+    {
+      "author_name": "Gilbert Collard",
+      "published_at": "2026-11-26 13:07",
+      "text": "https://x.com/i/spaces/1JQopaMElOBOov"
+    },
+    {
+      "author_name": "Le JDD",
+      "published_at": "2026-11-26 13:08",
+      "text": "Gel des pensions de retraite, hausse de l'âge de départ... Les pistes de la Cour des comptes pour limiter le déficit https://ow.ly/WAQz106JHmu"
+    },
+    {
+      "author_name": "Tocsin",
+      "published_at": "2026-11-26 13:11",
+      "text": "📻 « La république des copains viole tous les codes des marchés » - Régis de Castelnau\n\n🔗 https://youtu.be/eJp0MHFSTLU\n\n🗣️ @R_DeCastelnau"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-26 13:11",
+      "text": "🔴 Suivez notre direct. ➡️ https://mrf.lu/2yTVQ"
+    },
+    {
+      "author_name": "Jean Bexon",
+      "published_at": "2026-11-26 13:11",
+      "text": "Affaire Quentin | Récap en vidéo synthétique présentée par ma collègue Quitterie. \n\nÀ voir pour comprendre la gravité de ce meurtre : \n⬇️⬇️\n[Cite @BVoltaire] Meurtre de Quentin : les 11 antifascistes incarcérés sont militants actifs de la Jeune garde fondée par Raphaël Arnault (LFI).\n\nRetrouvez le minute info de Quitterie de Prémesnil ⤵️"
+    },
+    {
+      "author_name": "🔥 LA FURIA 🔥",
+      "published_at": "2026-11-26 13:12",
+      "text": "[Retweet de @LaFuriaOff] #Elections2026 #Presidentielles2027"
+    },
+    {
+      "author_name": "Le JDD",
+      "published_at": "2026-11-26 13:14",
+      "text": "Santé : les Français attendent une révolution, pas un énième plan d'urgence https://ow.ly/28Tn106JHmX"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-26 13:14",
+      "text": "Un homme défenestré à Saint-Malo, deux suspects écroués https://ow.ly/yu7q106JHn0"
+    },
+    {
+      "author_name": "Le Média en 4⃣-4⃣-2⃣",
+      "published_at": "2026-11-26 13:17",
+      "text": "Sommet de Shenzhen, un \"Yalta à l’envers\" : Youssef Hindi voit Trump dans le rôle de Churchill https://lemediaen442.fr/sommet-de-shenzhen-un-yalta-a-lenvers-youssef-hindi-voit-trump-dans-le-role-de-churchill/\n\nLe 19 novembre, à Shenzhen, Xi Jinping a reçu Vladimir Poutine et Donald Trump. Les trois dirigeants ont publié une déclaration commune. Washington espérait"
+    },
+    {
+      "author_name": "Frontières",
+      "published_at": "2026-11-26 13:19",
+      "text": "« Personne ne parle de ces deux affaires à Rouen : les 13 catholiques agressés et l’agression dans un bar. Le parquet a qualifié ces expéditions punitives de rixe » : @Guillaume_fcqt\n\n👉🏻 Soutenez votre media de terrain et profitez du black friday (-50%) : https://www.frontieresmedia.fr/nos-abonnements"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-26 13:19",
+      "text": "🚙 Suzuki a confirmé que sa citadine électrique extrapolée à partir d’une kei car nipponne débarquera sur le vieux continent à l’été 2027. ⤵️\nhttps://l.lepoint.fr/PH1"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-26 13:19",
+      "text": "🗣️ Loïc Guérin, avocat en droit pénal :\"Depuis 20 ans, je vois une dégradation de la qualité du produit législatif. Les lois produites sont souvent mal rédigées et des coups de com'…\" #LaFranceDansTousSesEtats\n\n📻 Suivez le direct sur https://sudradio.fr"
+    },
+    {
+      "author_name": "Ligne Droite • La matinale de RC",
+      "published_at": "2026-11-26 13:21",
+      "text": "🤜 #Ukraine : il échappe aux missiles et raconte ce qu’il a vu au plus près du front\n🗣️ Xavier Maire, fondateur d’@UHumanitaireFR \nEntretien complet :\n👉 https://youtu.be/uPQ3HHR0G9c\n🎙️ Avec @MailysClauzel_ sur @radiocourtoisie"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-26 13:21",
+      "text": "🔴 Goncourt des lycéens 2026 : le prix attribué à Lilia Hassaine pour son roman «JE», à mi-chemin entre roman victorien et thriller intimiste\n➡️ https://l.leparisien.fr/FnpE"
+    },
+    {
+      "author_name": "Nicolas Dupont-Aignan",
+      "published_at": "2026-11-26 13:22",
+      "text": "Avec Gérard Gros, maire fidèle qui me parraine depuis 2012.\n\nLes maires ont la responsabilité de sélectionner les candidats qui pourront solliciter le suffrage des Français."
+    },
+    {
+      "author_name": "Comité Trump France",
+      "published_at": "2026-11-26 13:22",
+      "text": "[Retweet de @brivael] Je tape \"USAID\" sur Google Actualités en France.\n\nZéro mention des USAID Files mis en ligne hier : 248 documents internes, plus d'un giga, sur la collaboration de l'agence avec Meta, YouTube et… Google autour de la \"désinformation\"."
+    },
+    {
+      "author_name": "Polémia",
+      "published_at": "2026-11-26 13:22",
+      "text": "🔒 Une ONG réclame la suspension d’une chaîne de télévision ! Reporters sans frontières saisit l’Arcom pour demander que CNews soit coupée pendant un mois.\n\nJeudi 26 novembre, Reporters sans frontières (RSF) a saisi l’Arcom pour obtenir la suspension de CNews pendant un mois, en"
+    },
+    {
+      "author_name": "Marine Le Pen",
+      "published_at": "2026-11-26 13:23",
+      "text": "[Retweet de @RNational_off] Aux responsabilités, nous baisserons les impôts de production qui pénalisent nos entreprises avant même qu’elles aient produit quoi que ce soit ! Il est temps d’en finir avec ce surplus de taxes !\n\n🇫🇷 Rejoignez-nous : https://marinelepen.com/"
+    },
+    {
+      "author_name": "Comité Trump France",
+      "published_at": "2026-11-26 13:23",
+      "text": "[Retweet de @Divs_King] “Chaque enfant aux États-Unis recevra deux actions SpaceX, l’une offerte par l’entreprise et l’autre par moi personnellement.\n\nL’action offerte par SpaceX sera transférée le mois prochain. Celle que j’offre personnellement sera transférée à l’expiration de ma période de blocage,"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-26 13:24",
+      "text": "🗣🪙 Prix dans la grande distribution : bras de fer avant même les négociations commerciales\nhttps://www.sudradio.fr/sud-radio/prix-dans-la-grande-distribution-bras-de-fer-avant-meme-les-negociations-commerciales"
+    },
+    {
+      "author_name": "Gabrielle Cluzel",
+      "published_at": "2026-11-26 13:25",
+      "text": "Délirant ! @RSF_inter est censé défendre la liberté d’expression des journalistes, il se bat aujourd’hui pour leur dicter ce qu’ils doivent dire ou à défaut les bâillonner. Combien de cartes de presse à Cnews ainsi réduites au silence ? RSF dévoie complètement son objet social. À\n[Cite @DestinationTele] ❗️Véridique\nRSF exige la suspension d’1 mois de CNEWS au nom du «péril démocratique» (sic) que constitue la chaîne\npointant le \"bourrage de crâne (sic) avec des thèmes chers à l'extrême droite: immigration, insécurité, islamisme» et ses nombreuses «critiques de la gauche (sic)»😄"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-26 13:25",
+      "text": "«J’ai vraiment honte» : les premiers mots de la djihadiste française Émilie König à l’ouverture de son procès\n➡️ https://l.leparisien.fr/wZOJ"
+    },
+    {
+      "author_name": "Radio Courtoisie",
+      "published_at": "2026-11-26 13:27",
+      "text": "https://x.com/i/broadcasts/2lgYJbKNNVjjEj"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-26 13:27",
+      "text": "«Il n'y a pas de laxisme» : Maître Florence Rouas décrypte les procès liés aux affaires du périscolaire #PoliceJustice24H\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "JDNews",
+      "published_at": "2026-11-26 13:28",
+      "text": "Concerts de Noël : la ville-lumière chante à la bougie https://ow.ly/kL0t106JHnI",
+      "also_by": [
+        "Le JDD"
+      ]
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-26 13:28",
+      "text": "🗣️ Jean-Pierre Colombiès :\"Il faut sortir l’institution de la police de la situation actuelle, avec la succession de législateurs et de personnels de police d’une incompétence absolue\" #LaFranceDansTousSesEtats\n\n📻 Suivez le direct sur https://sudradio.fr et réagissez au 0"
+    },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-26 13:30",
+      "text": "Le maire de Béziers était l’invité de Pascal Praud dans son émission «L’heure des pros» sur CNews ce jeudi. →https://l.lefigaro.fr/KimE"
+    },
+    {
+      "author_name": "Sud Radio",
+      "published_at": "2026-11-26 13:30",
+      "text": "🚴 Cyclistes, piétons, trottinettes : faut-il imposer des équipements pour être plus visibles ?\n\nhttps://www.sudradio.fr/societe/cyclistes-pietons-trottinettes-faut-il-imposer-des-equipements-pour-etre-plus-visibles"
+    },
+    {
+      "author_name": "Cercle Aristote",
+      "published_at": "2026-11-26 13:31",
+      "text": "[Retweet de @RomainBESS85] Après avoir applaudi la fermeture de médias russophones en Ukraine et en Moldavie, réclamé la fermeture des chaines russes sur EUTELSAT, obtenu le scalp de RT, Sputnik et C8, CENSURE SANS FRONTIERES récidive et réclame le scalp de CNEWS.\nCQFD\nhttps://www.msn.com/fr-fr/actualite/other/rsf-demande-la-suspension-de-cnews-d%C3%A9non%C3%A7ant-un-p%C3%A9ril-d%C3%A9mocratique/ar-AA2ifSNM?ocid=entnewsntp&pc=U531&cvid=6b081acd6d8b4ec68fd14c8a194a11c9&ei=45"
+    },
+    {
+      "author_name": "TVL",
+      "published_at": "2026-11-26 13:31",
+      "text": "🇵🇸 Le député européen @NicolasBay_ (ECR) a dénoncé la situation dramatique à Gaza et plus particulièrement celle des chrétiens. « Rien ne justifie que le peuple palestinien soit sacrifié », a-t-il déclaré."
+    },
+    {
+      "author_name": "Tocsin",
+      "published_at": "2026-11-26 13:32",
+      "text": "💥 « Quand on ne veut surtout pas avoir des cercueils recouverts de drapeaux français dans la cour des Invalides, on fait appel à des mercenaires ! »\n\n🪖 « Vous avez plusieurs niveaux dans les engagements militaires. En France, on va engager l’armée traditionnelle. Si ça devient"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-26 13:32",
+      "text": "PSG-Roma (2-2) : manque de percussion, peu complémentaire… Pourquoi l’attaque Akliouche-Torres-Mayulu n’a pas fonctionné ?\n➡️ https://l.leparisien.fr/9FdP"
+    },
+    {
+      "author_name": "Gilbert Collard",
+      "published_at": "2026-11-26 13:33",
+      "text": "La grande peur de la liberté d'expression !\n[Cite @ojim_france] 🚨Reporters Sans Frontières (qui fonctionne majoritairement grâce aux subventions publiques) demande à l'ARCOM (financée à 99% par l'État) de CENSURER TOTALEMENT CNews pendant un mois et trois de ses émissions (dont celle de Pascal Praud)."
+    },
+    {
+      "author_name": "L’Infiltré",
+      "published_at": "2026-11-26 13:33",
+      "text": "🔴 EXCLUSIF – Primaire : le grand marché des désistements.\n\nLe scrutin n’est pas encore organisé que certains négocient déjà leur retrait. Accords secrets, scénarios de ralliement : les tractations s’accélèrent en coulisses.\n\n👉 À lire en intégralité dans L’Infiltré (-50%) :"
+    },
+    {
+      "author_name": "Daniel Conversano ⏩ e/acc 🚀",
+      "published_at": "2026-11-26 13:33",
+      "text": "J'invite vraiment les youtubeurs de droite à penser des économies de vie parallèles à la youtube money. Tout ce qui peut vous rendre indépendant d'elle est à considérer.\nProduits dérivés, dons via une plateforme perso (en plus de tipeee), livres que les gens achèteraient par"
+    }
+  ],
+  "context": [
     {
       "author_name": "Collectif Némésis",
       "published_at": "2026-11-25 13:34",
@@ -3597,6 +3577,21 @@
       "text": "🚨🏪Le ministère de l’Éducation nationale a présenté le 17 novembre 2026 les résultats des évaluations nationales de septembre, passées par plus de sept millions d’élèves du CP à la seconde. Seuls 50% des élèves maitrisent le français ❗\nhttps://www.lecourrierdesstrateges.fr/seuls-50-des-eleves-de-5e-maitrisent-le-francais/"
     },
     {
+      "author_name": "Rassemblement National",
+      "published_at": "2026-11-25 14:09",
+      "text": "[Retweet de @MLP_officiel] À Reims, dans une boucherie de quartier, pour échanger avec un artisan boucher et toute son équipe.\n\nBaisse du pouvoir d’achat, hausse des prix de l’énergie, poids des normes : nos artisans ne s'en sortent plus. Nous avons de nombreuses mesures à proposer pour leur permettre de"
+    },
+    {
+      "author_name": "Rassemblement National",
+      "published_at": "2026-11-25 14:09",
+      "text": "[Retweet de @MLP_officiel] Nos commerçants sont les premiers à subir la hausse des prix de l’énergie : les prix de l’électricité, du gaz et du carburant sont un poids pour nos bouchers, nos boulangers, et pour tous nos artisans. \n\nAujourd’hui, certains patrons ne se versent même plus de salaire, d’autres"
+    },
+    {
+      "author_name": "Rassemblement National",
+      "published_at": "2026-11-25 14:09",
+      "text": "[Retweet de @MLP_officiel] Il y a des normes franco-françaises, qui sont parfois de véritables entraves au fonctionnement de nos entreprises, et qui ne sont pas utiles : nous les supprimerons.\n\nNous supprimerons aussi l’ensemble des surnormes qui ont été imposées, et qui vont au-delà de ce qui est imposé"
+    },
+    {
       "author_name": "LCP",
       "published_at": "2026-11-25 14:09",
       "text": "Coût du fioul: \"Vous vous rendez compte qu'il y a des gens qui ne se chauffent plus dans la Creuse ? Est-ce que vous vous rendez compte de la violence de vos mots\", lance @bartolenoir à @sbastien_martin3.\n#QAG"
@@ -3614,12 +3609,25 @@
     {
       "author_name": "Gabrielle Cluzel",
       "published_at": "2026-11-25 14:11",
+      "text": "[Retweet de @Europe1] Violences faites aux femmes : «La gauche s’est servie du féminisme comme d’un marchepied», dénonce Gabrielle Cluzel https://ow.ly/P18q106JCxJ",
+      "also_by": [
+        "Boulevard Voltaire"
+      ]
+    },
+    {
+      "author_name": "Gabrielle Cluzel",
+      "published_at": "2026-11-25 14:11",
       "text": "[Retweet de @Europe1] Primaire de droite et du centre : «On va encore nous confisquer la campagne électorale», s'inquiète Gabrielle Cluzel https://ow.ly/lPr3106JCw7"
     },
     {
       "author_name": "LCP",
       "published_at": "2026-11-25 14:11",
       "text": "\"Contrairement à vous et la plupart de vos amis qui font du nomadisme électoral, je suis élu dans une circonscription où je défends les populations\", répond @sbastien_martin3 qui dit ne pas \"avoir de leçons à recevoir’\".\n#QAG"
+    },
+    {
+      "author_name": "Rassemblement National",
+      "published_at": "2026-11-25 14:11",
+      "text": "[Retweet de @J_Bardella] La sécurité des femmes et leur liberté devraient être des acquis : il faut pourtant les défendre quotidiennement face à la montée de l’obscurantisme et à la banalisation de la violence.\n\nEn cette journée internationale de lutte contre les violences faites aux femmes, j’apporte"
     },
     {
       "author_name": "Gabrielle Cluzel",
@@ -3785,6 +3793,11 @@
       "author_name": "LCP",
       "published_at": "2026-11-25 14:22",
       "text": "Loi intégrale contre les violences sexistes et sexuelles: le texte sera examiné \"tout début janvier\" au Sénat, précise @auroreberge.\n#QAG"
+    },
+    {
+      "author_name": "Jean-Yves Le Gallou",
+      "published_at": "2026-11-25 14:23",
+      "text": "[Retweet de @FrDesouche] Des magistrats socialistes, communistes, des préfets franc-maçons ou proches de Macron : c’est la liberté d’opinion.\n\nDeux hauts fonctionnaires soupçonnés de sympathies pour le RN : c’est de l'infiltration."
     },
     {
       "author_name": "Assemblée nationale",
@@ -4083,6 +4096,11 @@
       "author_name": "LCP",
       "published_at": "2026-11-25 14:48",
       "text": "Règle d'or: \"Ça fait 52 ans que la nation française n'a pas de budget équilibré\", répond @FrancoiseGatel. \"Je sais qu'à raison les collectivités ont un budget équilibré ; je pense que la Nation doit se rapprocher de cette tendance.\"\n#QAG"
+    },
+    {
+      "author_name": "Daniel Conversano",
+      "published_at": "2026-11-25 14:48",
+      "text": "[Retweet de @knafo_sarah] 🚨 Le Parlement européen vient de voter 225 milliards d'euros pour distribuer votre argent au monde entier. \n\nLes macronistes, les socialistes et les écologistes et même des députés LR ont dit OUI. \n\n👫85 % des actions devront viser l’égalité femmes-hommes et 30 % de l’enveloppe"
     },
     {
       "author_name": "Assemblée nationale",
@@ -4503,6 +4521,11 @@
       "author_name": "CNEWS",
       "published_at": "2026-11-25 15:27",
       "text": "«Le prédateur identifie les faiblesses», analyse le Docteur Gilles-Marie Valet, psychiatre, dans #PoliceJustice24H"
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-25 15:28",
+      "text": "[Retweet de @f_philippot] Je tombe sur ça et je ne suis pas surpris.\n\nSa réforme des retraites joue un rôle important dans cette chute :\n- la droite bourgeoise retient « 60/62 ans » et se dit que ce n’est pas financé. D’autant que l’abandon du discours sur la réindustrialisation ne rassure pas de ce côté."
     },
     {
       "author_name": "Les Patriotes",
