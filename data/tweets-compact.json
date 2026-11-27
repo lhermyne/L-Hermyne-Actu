@@ -1,13 +1,13 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-27 06:38",
-  "period": "du 2026-11-26 06:38 au 2026-11-27 06:38",
-  "new_period": "du 2026-11-26 20:00 au 2026-11-27 06:38",
-  "context_period": "du 2026-11-26 06:38 au 2026-11-26 20:00",
+  "generated_at": "2026-11-27 07:08",
+  "period": "du 2026-11-26 07:08 au 2026-11-27 07:08",
+  "new_period": "du 2026-11-26 20:00 au 2026-11-27 07:08",
+  "context_period": "du 2026-11-26 07:08 au 2026-11-26 20:00",
   "coverage_complete": true,
-  "new_count": 359,
-  "context_count": 1377,
+  "new_count": 388,
+  "context_count": 1350,
   "duplicates_merged": 126,
   "empty_removed": 9,
   "new": [
@@ -97,7 +97,10 @@
     {
       "author_name": "Jean Bexon",
       "published_at": "2026-11-26 20:04",
-      "text": "[Retweet de @jean_bexon] Affaire Quentin | Récap en vidéo synthétique présentée par ma collègue Quitterie. \n\nÀ voir pour comprendre la gravité de ce meurtre : \n⬇️⬇️"
+      "text": "[Retweet de @jean_bexon] Affaire Quentin | Récap en vidéo synthétique présentée par ma collègue Quitterie. \n\nÀ voir pour comprendre la gravité de ce meurtre : \n⬇️⬇️",
+      "also_by": [
+        "Gabrielle Cluzel"
+      ]
     },
     {
       "author_name": "L'Observatoire des violences politiques",
@@ -1228,7 +1231,10 @@
     {
       "author_name": "Observatoire de l'immigration et de la démographie",
       "published_at": "2026-11-26 22:42",
-      "text": "[Retweet de @marc_vanguard] 🚨 ALERTE INFO: enfin un gros sondage à 3000 répondants complet sur l'immigration !\n\nEn voici les 8 enseignements à retenir.\n\n1⃣ L'enquête teste 12 mesures restrictives. Elles sont TOUTES approuvées par une majorité de répondants. Même les plus fortes.\n\nEt ce n'est pas tout 🧵⬇️"
+      "text": "[Retweet de @marc_vanguard] 🚨 ALERTE INFO: enfin un gros sondage à 3000 répondants complet sur l'immigration !\n\nEn voici les 8 enseignements à retenir.\n\n1⃣ L'enquête teste 12 mesures restrictives. Elles sont TOUTES approuvées par une majorité de répondants. Même les plus fortes.\n\nEt ce n'est pas tout 🧵⬇️",
+      "also_by": [
+        "Marc Vanguard"
+      ]
     },
     {
       "author_name": "CNEWS",
@@ -1853,152 +1859,154 @@
       "author_name": "Europe 1",
       "published_at": "2026-11-27 06:38",
       "text": "«On se fait insulter de facho» : malgré les menaces et la fatigue, des parents se mobilisent contre le blocus des lycées https://ow.ly/8vOY106JNf9"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Régis Le Sommier",
-      "published_at": "2026-11-26 06:39",
-      "text": "[Retweet de @Reuters] Thirty-one killed in fire after vehicle overturns in Egypt https://reut.rs/4ARORpL"
-    },
-    {
-      "author_name": "JDNews",
-      "published_at": "2026-11-26 06:40",
-      "text": "«Sur le fleuve» : Édouard Cortès, à contre-courant https://ow.ly/Iapp106JGM0",
-      "also_by": [
-        "Le JDD"
-      ]
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-26 06:41",
-      "text": "Crustacés, œufs et abats : ces produits alimentaires plus exposés aux PFAS\n➡️ https://l.leparisien.fr/7Wh5"
     },
     {
       "author_name": "Sud Radio",
-      "published_at": "2026-11-26 06:42",
-      "text": "🔴Anorexie : \"Il faut bien s'entourer et toujours communiquer\"\n\n🗣️Olympe Diot, humoriste, raconte son combat : \"j'ai toujours utilisé l'humour comme médicament\"  #PetitMatin\n\n📻https://www.sudradio.fr/"
+      "published_at": "2026-11-27 06:40",
+      "text": "🔴À Villargondran (Savoie) : une pétition contre l'installation d'un data center\n\n🗣️Yves Pasquier (habitant retraité) : \"C'est l'invasion de l'IA qui s'empare de nos vies sans qu'on ait notre mot à dire.\" #PetitMatin\n\n📻https://www.sudradio.fr/"
+    },
+    {
+      "author_name": "Aldo Sterone",
+      "published_at": "2026-11-27 06:54",
+      "text": "Ce migrant est venu 3 fois par barque au Royaume-Uni et 3 fois il a été pris en charge. Il vient de cambrioler la résidence du Prince William, le futur roi britannique."
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-27 06:54",
+      "text": "[Retweet de @Patriotes71] https://youtu.be/vjKBo3Yx6RU?is=PWdix9s7Bvy7X4oL"
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-27 06:54",
+      "text": "[Retweet de @LIreLand1984] Florian Philippot, Président du mouvement politique Les Patriotes et candidat à l'élection présidentielle française 2027, présente sont programme pour la Santé ⤵️\n#Santé\n#Liberté\n#FrexitVite\nhttps://youtu.be/KDoCKKAwZME?si=VITPqn4jGLuS6bRr"
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-27 06:55",
+      "text": "[Retweet de @LesPatriotes21] 🔶 📢 🏥 Présidentielle 2027 : le projet de Florian Philippot pour la SANTÉ en 8 points principaux ! \n\n(la vidéo complète : https://youtu.be/KDoCKKAwZME?is=mzOkmPpjEBv-oTIb )"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-26 06:42",
-      "text": "Un procès très attendu en matière terroriste https://mrf.lu/2PJTm"
+      "published_at": "2026-11-27 06:55",
+      "text": "Le froid s’installe  https://mrf.lu/2y3nn"
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-27 06:55",
+      "text": "[Retweet de @LesPatriotes21] 🔶 En immersion aux Assises de la Souveraineté 2026 à Arras. 🇨🇵\n\nhttps://youtube.com/watch?v=NmO_HVkaC-M&is=dmJzRDaxo9ROK8_H"
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-27 06:55",
+      "text": "[Retweet de @LesPatriotes21] 🔶 📣 PÉTITION NATIONALE : « Non à la vaccination ARN messager obligatoire ! »\n\nNon au « paquet pharmaceutique européen » !\n\n✍️ Pour SIGNER : https://les-patriotes.fr/non-au-paquet-pharmaceutique-europeen/   🇫🇷\n\n« Le 25 novembre 2026, les eurodéputés voteront sur le « paquet pharmaceutique européen », constitué d’une"
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-27 06:55",
+      "text": "[Retweet de @LesPatriotes21] 🔶 GRAND DIRECT 🔶 \n\n- L’Ukraine au cœur de la présidentielle !\n- Vaccin ARNm obligatoire ?\n- Brigitte veut « choisir le successeur » de son mari 🫣\n- Paysans : nouvelle révolte !\n+ toute l’actualité et vos questions EN DIRECT !\n\nCe vendredi 🗓️ 27 novembre, à 🕖19 heures,  direct"
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-27 06:55",
+      "text": "[Retweet de @LesPatriotes21] 🔶 Formidable réunion publique hier soir à Kintzheim en Alsace !\n\nBeaucoup beaucoup de monde !\nUne grosse dynamique pour la présidentielle et les législatives !\nPour la France libre ! 🇫🇷\n\nBravo à Sophie Vanackère et Éric Quenot nos 2 référents d’Alsace !\n\n⏬\nRejoindre/Soutenir"
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-27 06:55",
+      "text": "[Retweet de @LesPatriotes21] Roumanie : Macron chassé ! Une incroyable révolution anti-UE éclate !\n\nhttps://youtube.com/watch?v=vjKBo3Yx6RU&is=KUz9GB3jvU__W3kz"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-27 06:55",
+      "text": "La chronique économique d'Éric de Riedmatten du 27/11/2026 dans #LaMatinale"
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-27 06:56",
+      "text": "[Retweet de @sylvie_jegou] Il est grand temps de montrer que nous ne voulons pas que les enfants de France servent de chair à canon au profit des exploiteurs de guerre,\n➡️ceux qui veulent la suppression de nos pays pour asseoir une dictature euromondialiste qui privilégiera tous les charognards des grands"
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-27 06:56",
+      "text": "[Retweet de @62PATRIOTES] 📢Grand rassemblement pour la Paix : samedi 12 décembre, rdv 15h Champ-de-Mars (place Jacques Rueff)\n➡️Soyons une marée humaine."
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-27 06:56",
+      "text": "[Retweet de @FrancoisDESCAM7] 👌💯👍"
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-27 06:56",
+      "text": "[Retweet de @62PATRIOTES] 🫵Souverainisme : Parmi les bonnes nouvelles de la semaine👍"
     },
     {
       "author_name": "Sud Radio",
-      "published_at": "2026-11-26 06:44",
-      "text": "🚨 Jannik Sinner forfait pour l'Open d'Australie !\n\nhttps://www.sudradio.fr/sport-rugby/sport/tennis-sinner-forfait-pour-lopen-daustralie-apres-son-operation-du-genou"
-    },
-    {
-      "author_name": "LCP",
-      "published_at": "2026-11-26 06:45",
-      "text": "Violences du 17 octobre: à Marseille, des casseurs interpellés et aussitôt relâchés, selon le maire Benoît Payan https://lcp.fr/actualites/violences-du-17-octobre-a-marseille-des-casseurs-interpelles-et-aussitot-relaches-selon"
-    },
-    {
-      "author_name": "Régis Le Sommier",
-      "published_at": "2026-11-26 06:47",
-      "text": "[Retweet de @RALee85] Russia plans to produce approximately 4,200 of these cheap cruise missiles in 2026 but plans to expand production to 30,000 next year. One of the determinants of how the war will unfold in 2027 is whether Ukraine's supporters can produce or fund production of enough missiles and"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-26 06:48",
-      "text": "INFO E1 – Les filières criminelles chinoises investissent le marché du faux-monnayage https://ow.ly/VxA4106JGMH"
-    },
-    {
-      "author_name": "Médias-Presse-Info",
-      "published_at": "2026-11-26 06:50",
-      "text": "📈 Quel est l'état du développement de la Tradition catholique dans le monde ? Découvrez les chiffres clés et le rapport exhaustif de la Maison Générale de la FSSPX.\n\n#fsspx #traditioncatholique #eglise https://www.medias-presse.info/statistiques-mondiales-fsspx-au-1er-novembre-2026-de-la/254482/"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-26 06:52",
-      "text": "Les dirigeants de l'UE se réunissent à Bruxelles les 26 et 27 novembre  https://mrf.lu/2PJZW"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-26 06:52",
-      "text": "La chronique économique de Bérénice Deville Fleuriot du 26/11/2026 dans #LaMatinale"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-26 06:53",
-      "text": "Guerre en Ukraine : « Technologie de pointe et puissance de feu », Kiev réceptionne ses premiers blindés Lynx flambant neufs venus d’Allemagne\n➡️ https://l.leparisien.fr/IHIn"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-26 06:53",
-      "text": "🎅Les tendances bûches de Noël 2026 : trompe-l'œil, Casse-Noisette, décors spectaculaires... #PetitMatin\n\n❓Quelles sont les desserts qui garniront nos tables de fêtes ? Avec Sandrine De Bruyne, directrice de @MaisonCreative \n\n📻https://www.sudradio.fr/"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-26 06:56",
-      "text": "L'édito de Yoann Usaï : «La ligue des droits de l'Homme contre Valérie Pécresse» dans #LaMatinale"
-    },
-    {
-      "author_name": "Kriss le Papillon",
-      "published_at": "2026-11-26 06:58",
-      "text": "Ils devraient changer les règles en \nBAM : qui tape sur la gueule sort ! Vu le niveau de ces têtes à claque 😅\n[Cite @CerfiaFR] 🇫🇷🤣 Le casting de la prochaine saison de LOL : qui rit sort, animée par Philippe Lacheau :\n\n- Léandre\n- Tom Baldetti\n- Bigflo et Oli\n- Isabelle Nanty\n- Marine\n- Adèle Castillon\n- Léna Situations\n- Gad Elmaleh\n- José Garcia"
-    },
-    {
-      "author_name": "Marc Vanguard",
-      "published_at": "2026-11-26 06:59",
-      "text": "[Retweet de @marc_vanguard] @grok, est-il vrai que les immigrés algériens bénéficient de conditions plus favorables ?\n\nPar exemple des délais raccourcis pour accéder à certaines aides ?"
-    },
-    {
-      "author_name": "Ligne Droite • La matinale de RC",
-      "published_at": "2026-11-26 06:59",
-      "text": "GTA VI : le succès du jeu est-il légitime ? https://x.com/i/broadcasts/2jPVAXPplVznyy"
-    },
-    {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-26 07:00",
-      "text": "Le 26 novembre 1965, la fusée française Diamant place Astérix en orbite depuis Hammaguir. L’exploit ouvre à la France la voie de l’espace et prépare Ariane.  https://www.fdesouche.com/2026/11/26/26-novembre-1965-france-satellite-asterix-fusee-diamant/"
-    },
-    {
-      "author_name": "Le JDD",
-      "published_at": "2026-11-26 07:00",
-      "text": "Selon un sondage CSA pour CNews, Europe 1 et le JDD, près de 8 Français sur 10 souhaitent que les pouvoirs publics interviennent pour rétablir le fonctionnement normal des cours dans les établissements perturbés. Un soutien largement majoritaire, qui traverse presque tout"
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-26 07:00",
-      "text": "Les travailleurs craignent principalement une perte de salaire, une accumulation du travail et le risque de pénaliser leurs collègues. →https://l.lefigaro.fr/kjeu"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-26 07:00",
-      "text": "« Je m’endors avec six couvertures » : à Creil, des locataires à bout s’invitent au siège de Oise Habitat pour demander des comptes\n➡️ https://l.leparisien.fr/5v9c"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-26 07:03",
-      "text": "Terrorisme : qui est Émilie König, cette djihadiste française jugée à Paris ? https://ow.ly/xEbI106JGNy"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-26 07:03",
-      "text": "«C'est pas un quartier dangereux» : Jérôme Moroge, maire d'Oullins-Pierre-Bénite intervient sur la fusillade qu'il y a eu dans sa commune dans #LaMatinale\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Gendarmerie nationale",
-      "published_at": "2026-11-26 07:05",
-      "text": "#BellesAffaires 🐕 Dans l'#Yonne, les #gendarmes mettent en sécurité 5 chiens détenus par un particulier dans des conditions préoccupantes.\n➡️ L'intervention des gendarmes et de la @SPA_Officiel a fait suite à un signalement de morsure entre chiens.\n👏 Bravo à nos camarades."
-    },
-    {
-      "author_name": "Le Point",
-      "published_at": "2026-11-26 07:05",
-      "text": "De Daech aux assises : Émilie König, itinéraire chaotique d’une revenante\n\nPar @S__Buisson https://l.lepoint.fr/DQi"
+      "published_at": "2026-11-27 06:56",
+      "text": "🚗Acheter une voiture sans se ruiner ? C'est possible !\n\n👉 Mandataires, véhicules de démonstration, fin d'année... Les conseils de @nicoheidet pour faire de bonnes affaires #PetitMatin\n\n📻https://www.sudradio.fr/"
     },
     {
       "author_name": "Alain Weber",
-      "published_at": "2026-11-26 07:06",
-      "text": "Le naufrage de cet homme est saisissant !\n\nSon passage à Matignon a été totalement calamiteux.\n\nEn écrivant ce tweet, je me suis interrogé : qu’y a-t-il à mettre à son crédit ?\n\nJe n’ai pas trouvé.\n\nPar souci d’objectivité, j’ai demandé à l’IA.\n\nElle n’a pas trouvé non plus !\n\nSa\n[Cite @BFMTV] Guerre à Gaza: Dominique de Villepin, candidat La France Humaniste à la présidentielle, \"assume\" de parler de \"génocide\""
+      "published_at": "2026-11-27 06:56",
+      "text": "Johannesburg, de l’apartheid à l’anarchie\n\nL’apartheid était un régime abominable auquel il fallait impérativement mettre fin. Sa disparition fut une immense victoire humaine.\n\nMais regardez ces images de Johannesburg. Elles sont effarantes. Des rues jonchées d’immondices, des\n[Cite @FaraiMazhindu] Johannesburg is in a pigsty state, and politicians are doing as they like.\n\nJohannesburg is not declining; it is rotting.\n\nThe CBD is rotting. Buildings are hijacked. Streets are filthy. Pavements are broken. Traffic lights have been dead for months. Water pipes are bursting and"
+    },
+    {
+      "author_name": "Nicolas Dupont-Aignan",
+      "published_at": "2026-11-27 07:00",
+      "text": "🔴 ET SI LE BLACK FRIDAY DURAIT 5 ANS ?\n\n🇫🇷 Pour un pouvoir d’achat gagnant en 2027 : \n\n1️⃣ une TVA à 0 % sur les produits de première nécessité.\n\n2️⃣ Un SMIC net à 1 600€ par mois.\n\n3️⃣ -50 % sur le prix de l’électricité en sortant du marché européen de l’électricité.\n\n4️⃣ -40"
+    },
+    {
+      "author_name": "Quenel+",
+      "published_at": "2026-11-27 07:00",
+      "text": "Rediffusion du live. https://quenelplus.com/vod/watch/rediffusion-live-x-les-primaires-cosmiques"
+    },
+    {
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-27 07:00",
+      "text": "Le 27 novembre 1942, la flotte française stationnée à Toulon est sabordée devant l’avancée allemande. Près de 90 navires détruits, cinq sous-marins échappés : les raisons et les conséquences d’un choix tragique.  https://www.fdesouche.com/2026/11/27/27-novembre-1942-sabordage-flotte-francaise-toulon/"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-27 07:00",
+      "text": "L'édito de Yoann Usaï : «RSF/LFI : Le goût de la censure» dans #LaMatinale"
+    },
+    {
+      "author_name": "Le Point",
+      "published_at": "2026-11-27 07:01",
+      "text": "À l’heure où elle s’impose massivement comme infrastructure, l’intelligence artificielle requiert plus que jamais une gouvernance mondiale.\n\n🖋️ L'édito de @NicolasBaverez\n➡️ https://l.lepoint.fr/KWM"
+    },
+    {
+      "author_name": "Gendarmerie nationale",
+      "published_at": "2026-11-27 07:01",
+      "text": "#BellesAffaires 🖼️ Un réseau de trafic d'œuvres d'art démantelé par les #gendarmes du #Loiret.\n➡️ Préjudice de 5,7 millions d'€ 💶\n➡️ 52 oeuvres et bijoux saisis et restitués 🖼️\n➡️ 7 individus interpellés ⚖️"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-27 07:01",
+      "text": "Ils visiteront ensemble la prison et la cave coopérative de Cers https://mrf.lu/2yz21"
+    },
+    {
+      "author_name": "Nicolas Dupont-Aignan",
+      "published_at": "2026-11-27 07:02",
+      "text": "[Retweet de @PhilippeMurer] Macron ment aux Français pour provoquer une guerre contre la Russie.\nMacron est un fou dangereux qui veut notre perte.\nQue les députés le destituent avant la catastrophe."
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-27 07:02",
+      "text": "« Une prime à la sécurité » : pour les parents inquiets à cause de la crise lycéenne, la tentation du privé\n➡️ https://l.leparisien.fr/Yi45"
     },
     {
       "author_name": "Europe 1",
-      "published_at": "2026-11-26 07:07",
-      "text": "🔵 [LA QUESTION ce DU JOUR]: Calais, Mayotte, Paris : l’immigration incontrôlée vous inquiète-t-elle ?\nRépondez ici : https://ow.ly/bCve50Ybq9T"
+      "published_at": "2026-11-27 07:03",
+      "text": "«C'est très impressionnant» : certaines des plus belles Bugatti exposées au musée automobile de Mulhouse https://ow.ly/PLe5106JNEV"
     },
+    {
+      "author_name": "Valeurs actuelles",
+      "published_at": "2026-11-27 07:04",
+      "text": "🗞️ À l’université Paris-Dauphine, l’ENS Paris, l’Inalco, Sciences Po Strasbourg et Sorbonne Paris-Nord, des étudiants dénoncent des blocages menés par des groupes d’extrême gauche qui perturbent les cours et imposent leur mobilisation à la majorité.\nhttps://l.valeursactuelles.com/Sal"
+    }
+  ],
+  "context": [
     {
       "author_name": "Le Parisien",
       "published_at": "2026-11-26 07:12",
@@ -2073,6 +2081,11 @@
       "author_name": "Europe 1",
       "published_at": "2026-11-26 07:29",
       "text": "Zucman : la taxe ou l’intox ?\n\n➡️ Retrouvez l’édito éco de Agnès Verdier Molinié  sur #Europe1"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-26 07:30",
+      "text": "La chronique économique de Bérénice Deville Fleuriot du 26/11/2026 dans #LaMatinale"
     },
     {
       "author_name": "Le Figaro",
