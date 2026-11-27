@@ -1,14 +1,27 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-27T00:07:29.161Z",
+  "updated_at": "2026-11-27T00:31:48.907Z",
   "window_hours": 24,
-  "window_start": "2026-11-26T00:07:29.161Z",
+  "window_start": "2026-11-26T00:31:48.907Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1879,
+  "count": 1878,
   "tweets": [
+    {
+      "id": "2126111062533529783",
+      "created_at": "2026-11-27T00:29:13.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "Présidentielle 2027 : Édouard Philippe poursuit sa chute selon un nouveau sondage, David Lisnard talonne Jean-Luc Mélenchon\n➡️ https://l.leparisien.fr/rBta",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2126111062533529783"
+    },
     {
       "id": "2126104728589545652",
       "created_at": "2026-11-27T00:04:03.000Z",
@@ -24409,32 +24422,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/InfoMdia/status/2125750149259338238"
-    },
-    {
-      "id": "2125744385342280078",
-      "created_at": "2026-11-26T00:12:10.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "Rhône : soupçonnés de reformer un groupe d’ultragauche dissous, deux hommes placés en garde à vue à Lyon\n➡️ https://l.leparisien.fr/Xozh",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2125744385342280078"
-    },
-    {
-      "id": "2125743758972993655",
-      "created_at": "2026-11-26T00:09:41.000Z",
-      "author": "le_jarl",
-      "author_name": "Le Jarl",
-      "type": "quote",
-      "text": "Et c’est parfaitement normal. Médine politise ses interventions, il en a le droit, mais il ne faut donc plus financer ses prises de parole avec de l’argent public.",
-      "retweeted_author": null,
-      "quoted_author": "F_Desouche",
-      "quoted_text": "Après le retrait d’une aide de 32 000 € en juin lors de la programmation de Médine, le conseil départemental du Morbihan a annoncé en novembre que le festival Les Galettes du monde ne serait pas davantage aidé en 2027.  https://www.fdesouche.com/2026/11/25/sainte-anne-dauray-56-32-000-retires-au-festival-qui-avait-programme-medine-le/",
-      "lang": "fr",
-      "url": "https://x.com/le_jarl/status/2125743758972993655"
     }
   ]
 }
