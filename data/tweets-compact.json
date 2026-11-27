@@ -1,13 +1,13 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-27 04:08",
-  "period": "du 2026-11-26 04:08 au 2026-11-27 04:08",
-  "new_period": "du 2026-11-26 20:00 au 2026-11-27 04:08",
-  "context_period": "du 2026-11-26 04:08 au 2026-11-26 20:00",
+  "generated_at": "2026-11-27 04:38",
+  "period": "du 2026-11-26 04:38 au 2026-11-27 04:38",
+  "new_period": "du 2026-11-26 20:00 au 2026-11-27 04:38",
+  "context_period": "du 2026-11-26 04:38 au 2026-11-26 20:00",
   "coverage_complete": true,
   "new_count": 335,
-  "context_count": 1405,
+  "context_count": 1404,
   "duplicates_merged": 126,
   "empty_removed": 9,
   "new": [
@@ -1730,11 +1730,6 @@
     }
   ],
   "context": [
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-26 04:13",
-      "text": "Dans le cadre de grands travaux prévus pour 2027, Île-de-France Mobilités a annoncé ce mercredi la fermeture des stations de métro intra-muros de la ligne 14 du métro au mois d’août\n\n➡️ https://l.leparisien.fr/uUfS"
-    },
     {
       "author_name": "Alain Weber",
       "published_at": "2026-11-26 04:40",

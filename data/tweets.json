@@ -1,13 +1,13 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-27T03:08:22.159Z",
+  "updated_at": "2026-11-27T03:38:28.765Z",
   "window_hours": 24,
-  "window_start": "2026-11-26T03:08:22.159Z",
+  "window_start": "2026-11-26T03:38:28.765Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1875,
+  "count": 1874,
   "tweets": [
     {
       "id": "2126131819728789796",
@@ -24370,19 +24370,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/alainpaulweber/status/2125796858949669252"
-    },
-    {
-      "id": "2125789950478102560",
-      "created_at": "2026-11-26T03:13:14.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "Dans le cadre de grands travaux prévus pour 2027, Île-de-France Mobilités a annoncé ce mercredi la fermeture des stations de métro intra-muros de la ligne 14 du métro au mois d’août\n\n➡️ https://l.leparisien.fr/uUfS",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2125789950478102560"
     }
   ]
 }
