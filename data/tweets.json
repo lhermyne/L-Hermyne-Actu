@@ -1,14 +1,40 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-27T00:37:36.114Z",
+  "updated_at": "2026-11-27T01:07:41.940Z",
   "window_hours": 24,
-  "window_start": "2026-11-26T00:37:36.114Z",
+  "window_start": "2026-11-26T01:07:41.940Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1880,
+  "count": 1878,
   "tweets": [
+    {
+      "id": "2126115601655398491",
+      "created_at": "2026-11-27T00:47:15.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "Un travailleur du sexe retrouvé mort dans le bois de Boulogne, dénudé et le visage tuméfié\n➡️ https://l.leparisien.fr/J6J3",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2126115601655398491"
+    },
+    {
+      "id": "2126113359758344221",
+      "created_at": "2026-11-27T00:38:20.000Z",
+      "author": "gregtabibian",
+      "author_name": "J'SUIS PAS CONTENT TV",
+      "type": "quote",
+      "text": "1) C'est faux.\n2) Rappel du bilan de Thierry Breton : \n- a vendu Alstom\n- a déglingué  Atos\n- a déinglingué Bull\n- a déglingué Thomson\n- est responsable des politique de \"management\" qui ont amené a une déferlante de suicides chez France Telecom.",
+      "retweeted_author": null,
+      "quoted_author": "ThierryBreton",
+      "quoted_text": "Nvidia a perdu la moitié de sa valeur par une absence de gouvernance. 2500 milliards de dollars en quelques heures. \n\nCe n’est pas mon modèle. \n\nC’est pour cela qu’il nous faut des règles en Europe. Vous voyez combien ça coûte de ne pas en avoir ?",
+      "lang": "fr",
+      "url": "https://x.com/gregtabibian/status/2126113359758344221"
+    },
     {
       "id": "2126112698878640192",
       "created_at": "2026-11-27T00:35:43.000Z",
@@ -24396,58 +24422,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/le_Parisien/status/2125762533927645514"
-    },
-    {
-      "id": "2125757781735309822",
-      "created_at": "2026-11-26T01:05:24.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "Soupçonné d’avoir adopté illégalement une jeune Philippine de 13 ans devenue son esclave sexuelle, un sexagénaire de l’Aude maintenu en détention\n➡️ https://l.leparisien.fr/aCbV",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2125757781735309822"
-    },
-    {
-      "id": "2125752500016030172",
-      "created_at": "2026-11-26T00:44:25.000Z",
-      "author": "leparisien_pol",
-      "author_name": "Le Parisien | politique",
-      "type": "tweet",
-      "text": "Fuites du ministère de l’Intérieur au RN : qui est Christian de Rocquigny, le procureur surpris au siège du parti lors de la perquisition ? https://l.leparisien.fr/nDGz",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/leparisien_pol/status/2125752500016030172"
-    },
-    {
-      "id": "2125752057059533272",
-      "created_at": "2026-11-26T00:42:39.000Z",
-      "author": "RNational_off",
-      "author_name": "Rassemblement National",
-      "type": "tweet",
-      "text": "Merci l'Alsace ! 🇫🇷 \n\nVous étiez plus de 1700 patriotes à être venus à Haguenau à la rencontre de Jordan Bardella !\n Cette mobilisation témoigne de l'intérêt pour notre projet et pour les propositions que nous portons pour redresser la France. Dans 5 mois, notre pays pourra",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/RNational_off/status/2125752057059533272"
-    },
-    {
-      "id": "2125751479923355777",
-      "created_at": "2026-11-26T00:40:22.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "💬 «Je suis assis à côté de toi, j’ai compris trois mots»\n\nQuand le patron de Nvidia Jensen Huang humiliait publiquement le Français Arthur Mensch, patron de Mistral AI\n➡️ https://l.leparisien.fr/VzMG",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2125751479923355777"
     }
   ]
 }

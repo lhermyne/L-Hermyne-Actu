@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-27 01:37",
-  "period": "du 2026-11-26 01:37 au 2026-11-27 01:37",
-  "new_period": "du 2026-11-26 20:00 au 2026-11-27 01:37",
-  "context_period": "du 2026-11-26 01:37 au 2026-11-26 20:00",
+  "generated_at": "2026-11-27 02:07",
+  "period": "du 2026-11-26 02:07 au 2026-11-27 02:07",
+  "new_period": "du 2026-11-26 20:00 au 2026-11-27 02:07",
+  "context_period": "du 2026-11-26 02:07 au 2026-11-26 20:00",
   "coverage_complete": true,
-  "new_count": 334,
-  "context_count": 1413,
-  "duplicates_merged": 124,
+  "new_count": 335,
+  "context_count": 1409,
+  "duplicates_merged": 125,
   "empty_removed": 9,
   "new": [
     {
@@ -1722,29 +1722,14 @@
       "author_name": "J'SUIS PAS CONTENT TV",
       "published_at": "2026-11-27 01:35",
       "text": "Ca va faire mal\n[Cite @Ced_haurus] Rien que sur les 20 premiers textes tirés au hasard et décortiqués mots par mots, on est à : 21 affirmations non étayées, 18 erreurs, 18 liens morts, 14 informations périmées, 8 sources qui ne disent pas ce que le texte affirme, 2 citations tronquées."
+    },
+    {
+      "author_name": "J'SUIS PAS CONTENT TV",
+      "published_at": "2026-11-27 01:38",
+      "text": "1) C'est faux.\n2) Rappel du bilan de Thierry Breton : \n- a vendu Alstom\n- a déglingué  Atos\n- a déinglingué Bull\n- a déglingué Thomson\n- est responsable des politique de \"management\" qui ont amené a une déferlante de suicides chez France Telecom.\n[Cite @ThierryBreton] Nvidia a perdu la moitié de sa valeur par une absence de gouvernance. 2500 milliards de dollars en quelques heures. \n\nCe n’est pas mon modèle. \n\nC’est pour cela qu’il nous faut des règles en Europe. Vous voyez combien ça coûte de ne pas en avoir ?"
     }
   ],
   "context": [
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-26 01:40",
-      "text": "💬 «Je suis assis à côté de toi, j’ai compris trois mots»\n\nQuand le patron de Nvidia Jensen Huang humiliait publiquement le Français Arthur Mensch, patron de Mistral AI\n➡️ https://l.leparisien.fr/VzMG"
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-26 01:42",
-      "text": "Merci l'Alsace ! 🇫🇷 \n\nVous étiez plus de 1700 patriotes à être venus à Haguenau à la rencontre de Jordan Bardella !\n Cette mobilisation témoigne de l'intérêt pour notre projet et pour les propositions que nous portons pour redresser la France. Dans 5 mois, notre pays pourra"
-    },
-    {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-26 01:44",
-      "text": "Fuites du ministère de l’Intérieur au RN : qui est Christian de Rocquigny, le procureur surpris au siège du parti lors de la perquisition ? https://l.leparisien.fr/nDGz"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-26 02:05",
-      "text": "Soupçonné d’avoir adopté illégalement une jeune Philippine de 13 ans devenue son esclave sexuelle, un sexagénaire de l’Aude maintenu en détention\n➡️ https://l.leparisien.fr/aCbV"
-    },
     {
       "author_name": "Le Parisien",
       "published_at": "2026-11-26 02:24",
