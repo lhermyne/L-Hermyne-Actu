@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-27 02:07",
-  "period": "du 2026-11-26 02:07 au 2026-11-27 02:07",
-  "new_period": "du 2026-11-26 20:00 au 2026-11-27 02:07",
-  "context_period": "du 2026-11-26 02:07 au 2026-11-26 20:00",
+  "generated_at": "2026-11-27 02:37",
+  "period": "du 2026-11-26 02:37 au 2026-11-27 02:37",
+  "new_period": "du 2026-11-26 20:00 au 2026-11-27 02:37",
+  "context_period": "du 2026-11-26 02:37 au 2026-11-26 20:00",
   "coverage_complete": true,
   "new_count": 335,
-  "context_count": 1409,
-  "duplicates_merged": 125,
+  "context_count": 1408,
+  "duplicates_merged": 126,
   "empty_removed": 9,
   "new": [
     {
@@ -1730,11 +1730,6 @@
     }
   ],
   "context": [
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-26 02:24",
-      "text": "D’après un rapport de l'IGÉSR, des élèves «issus de milieux favorisés» ont donné «localement une dimension politique au mouvement» de blocus des lycées.\n\n«Certains ont eu une forte exposition médiatique sur des chaînes nationales de télévision» ➡️ https://l.leparisien.fr/SS3O"
-    },
     {
       "author_name": "Le Parisien",
       "published_at": "2026-11-26 02:59",

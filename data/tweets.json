@@ -1,14 +1,27 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-27T01:07:41.940Z",
+  "updated_at": "2026-11-27T01:37:47.503Z",
   "window_hours": 24,
-  "window_start": "2026-11-26T01:07:41.940Z",
+  "window_start": "2026-11-26T01:37:47.503Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
   "count": 1878,
   "tweets": [
+    {
+      "id": "2126123718342844623",
+      "created_at": "2026-11-27T01:19:30.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "Boissons piégées, trous noirs, comptes bancaires siphonnés…\n\nÀ Tokyo, des touristes drogués et dépouillés dans les bars de nuit\n➡️ https://l.leparisien.fr/2lQ7",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2126123718342844623"
+    },
     {
       "id": "2126115601655398491",
       "created_at": "2026-11-27T00:47:15.000Z",
@@ -24409,19 +24422,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/le_Parisien/status/2125771338384290179"
-    },
-    {
-      "id": "2125762533927645514",
-      "created_at": "2026-11-26T01:24:17.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "D’après un rapport de l'IGÉSR, des élèves «issus de milieux favorisés» ont donné «localement une dimension politique au mouvement» de blocus des lycées.\n\n«Certains ont eu une forte exposition médiatique sur des chaînes nationales de télévision» ➡️ https://l.leparisien.fr/SS3O",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2125762533927645514"
     }
   ]
 }
