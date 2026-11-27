@@ -1,13 +1,13 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-27 03:07",
-  "period": "du 2026-11-26 03:07 au 2026-11-27 03:07",
-  "new_period": "du 2026-11-26 20:00 au 2026-11-27 03:07",
-  "context_period": "du 2026-11-26 03:07 au 2026-11-26 20:00",
+  "generated_at": "2026-11-27 03:38",
+  "period": "du 2026-11-26 03:38 au 2026-11-27 03:38",
+  "new_period": "du 2026-11-26 20:00 au 2026-11-27 03:38",
+  "context_period": "du 2026-11-26 03:38 au 2026-11-26 20:00",
   "coverage_complete": true,
   "new_count": 335,
-  "context_count": 1408,
+  "context_count": 1406,
   "duplicates_merged": 126,
   "empty_removed": 9,
   "new": [
@@ -1730,16 +1730,6 @@
     }
   ],
   "context": [
-    {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-26 03:07",
-      "text": "États-Unis : le grand défilé de Thanksgiving décalé à New York en raison des intempéries\n➡️ https://l.leparisien.fr/bOxb"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-26 03:21",
-      "text": "David Lisnard largement réélu à la tête de l’Association des maires de France\n➡️ https://l.leparisien.fr/fqw5"
-    },
     {
       "author_name": "Le Parisien",
       "published_at": "2026-11-26 03:44",
