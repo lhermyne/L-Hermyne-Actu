@@ -1,14 +1,40 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-27T03:38:28.765Z",
+  "updated_at": "2026-11-27T04:08:34.554Z",
   "window_hours": 24,
-  "window_start": "2026-11-26T03:38:28.765Z",
+  "window_start": "2026-11-26T04:08:34.554Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1874,
+  "count": 1872,
   "tweets": [
+    {
+      "id": "2126165355408265222",
+      "created_at": "2026-11-27T04:04:57.000Z",
+      "author": "leparisien_pol",
+      "author_name": "Le Parisien | politique",
+      "type": "tweet",
+      "text": "Guerre en Ukraine : « Une première mondiale », un laser de défense aérienne parvient à abattre un drone à réaction russe\n➡️ https://l.leparisien.fr/iL0H",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/leparisien_pol/status/2126165355408265222"
+    },
+    {
+      "id": "2126165349792170240",
+      "created_at": "2026-11-27T04:04:56.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "Guerre en Ukraine : « Une première mondiale », un laser de défense aérienne parvient à abattre un drone à réaction russe\n➡️ https://l.leparisien.fr/04aG",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2126165349792170240"
+    },
     {
       "id": "2126131819728789796",
       "created_at": "2026-11-27T01:51:42.000Z",
@@ -24318,58 +24344,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/NiONiPardon/status/2125805704443240705"
-    },
-    {
-      "id": "2125803687985516555",
-      "created_at": "2026-11-26T04:07:49.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "Le procès d'Émilie König, figure des «revenantes» de l’État islamique s’ouvre ce jeudi devant la Cour d’assises spéciale de Paris. \n\nPionnière de Daech, cette mère de cinq enfants veut convaincre ses juges de son désengagement ➡️ https://l.leparisien.fr/nDGZ",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2125803687985516555"
-    },
-    {
-      "id": "2125802947657297923",
-      "created_at": "2026-11-26T04:04:52.000Z",
-      "author": "leparisien_pol",
-      "author_name": "Le Parisien | politique",
-      "type": "tweet",
-      "text": "En Russie, la chaîne de télévision RT ressuscite Fiodor Dostoïevski pour commenter l’actualité et soutenir Vladimir Poutine\n➡️ https://l.leparisien.fr/Djrq",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/leparisien_pol/status/2125802947657297923"
-    },
-    {
-      "id": "2125799808904696301",
-      "created_at": "2026-11-26T03:52:24.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "En Russie, la chaîne de télévision RT ressuscite Fiodor Dostoïevski pour commenter l’actualité et soutenir Vladimir Poutine\n➡️ https://l.leparisien.fr/QtCc",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2125799808904696301"
-    },
-    {
-      "id": "2125796858949669252",
-      "created_at": "2026-11-26T03:40:41.000Z",
-      "author": "alainpaulweber",
-      "author_name": "Alain Weber",
-      "type": "tweet",
-      "text": "Quand les Juifs ne peuvent plus chanter à Paris\n\nComment la France a-t-elle pu en arriver là ?\n\nUn concert réunissant de grandes voix de la musique israélienne à l’occasion de Hanouka vient d’être annulé par ses organisateurs pour des raisons de sécurité. \n\nMême la date et le",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/alainpaulweber/status/2125796858949669252"
     }
   ]
 }
