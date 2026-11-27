@@ -1,14 +1,53 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-27T00:31:48.907Z",
+  "updated_at": "2026-11-27T00:37:36.114Z",
   "window_hours": 24,
-  "window_start": "2026-11-26T00:31:48.907Z",
+  "window_start": "2026-11-26T00:37:36.114Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1878,
+  "count": 1880,
   "tweets": [
+    {
+      "id": "2126112698878640192",
+      "created_at": "2026-11-27T00:35:43.000Z",
+      "author": "gregtabibian",
+      "author_name": "J'SUIS PAS CONTENT TV",
+      "type": "quote",
+      "text": "Ca va faire mal",
+      "retweeted_author": null,
+      "quoted_author": "Ced_haurus",
+      "quoted_text": "Rien que sur les 20 premiers textes tirés au hasard et décortiqués mots par mots, on est à : 21 affirmations non étayées, 18 erreurs, 18 liens morts, 14 informations périmées, 8 sources qui ne disent pas ce que le texte affirme, 2 citations tronquées.",
+      "lang": "fr",
+      "url": "https://x.com/gregtabibian/status/2126112698878640192"
+    },
+    {
+      "id": "2126112584369582486",
+      "created_at": "2026-11-27T00:35:16.000Z",
+      "author": "gregtabibian",
+      "author_name": "J'SUIS PAS CONTENT TV",
+      "type": "retweet",
+      "text": "Je ne m'étais jamais vraiment intéressé au site Conspiracy Watch \"Les faits contre le complotisme\" spécialisé \"dans la lutte contre la désinformation\".\nCe qui en soit est une belle mission salutaire dans l'époque dans laquelle on vit même si c'est bien biberonné avec l'argent",
+      "retweeted_author": "Ced_haurus",
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/gregtabibian/status/2126112584369582486"
+    },
+    {
+      "id": "2126112535011045504",
+      "created_at": "2026-11-27T00:35:04.000Z",
+      "author": "InfoMdia",
+      "author_name": "Médias-Presse-Info",
+      "type": "tweet",
+      "text": "🙏 Ce 27 novembre, l'Église célèbre saint François Antoine Fasani et la Médaille miraculeuse. Plongez dans la liturgie et l'histoire de ce grand saint franciscain des pauvres. \n\n#catholique #saints #medaillemiraculeuse https://www.medias-presse.info/vendredi-27-novembre-de-la-ferie-saint-francois-antoine-fasani-pretre-premier-ordre-franciscain-fete-de-lapparition-de-la-medaille-miraculeuse/253510/",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/InfoMdia/status/2126112535011045504"
+    },
     {
       "id": "2126111062533529783",
       "created_at": "2026-11-27T00:29:13.000Z",
@@ -24409,19 +24448,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/le_Parisien/status/2125751479923355777"
-    },
-    {
-      "id": "2125750149259338238",
-      "created_at": "2026-11-26T00:35:04.000Z",
-      "author": "InfoMdia",
-      "author_name": "Médias-Presse-Info",
-      "type": "tweet",
-      "text": "🙏 Découvrez le sanctoral de ce jeudi 26 novembre : plongez dans la vie inspirante de Saint Sylvestre, Saint Léonard de Port Maurice, Saint Pierre d'Alexandrie et Saint Jean Berchmans. \n\n#catholique #saintdujour #tradition https://www.medias-presse.info/jeudi-26-novembre-saint-sylvestre-abbe-saint-leonard-de-port-maurice-confesseur-premier-ordre-franciscain-saint-pierre-dalexandrie-eveque-et-martyr-saint-jean-berchmans/253507/",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/InfoMdia/status/2125750149259338238"
     }
   ]
 }
