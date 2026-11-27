@@ -1,13 +1,13 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-27 05:08",
-  "period": "du 2026-11-26 05:08 au 2026-11-27 05:08",
-  "new_period": "du 2026-11-26 20:00 au 2026-11-27 05:08",
-  "context_period": "du 2026-11-26 05:08 au 2026-11-26 20:00",
+  "generated_at": "2026-11-27 05:38",
+  "period": "du 2026-11-26 05:38 au 2026-11-27 05:38",
+  "new_period": "du 2026-11-26 20:00 au 2026-11-27 05:38",
+  "context_period": "du 2026-11-26 05:38 au 2026-11-26 20:00",
   "coverage_complete": true,
-  "new_count": 336,
-  "context_count": 1401,
+  "new_count": 339,
+  "context_count": 1398,
   "duplicates_merged": 126,
   "empty_removed": 9,
   "new": [
@@ -1735,24 +1735,24 @@
       "also_by": [
         "Le Parisien | politique"
       ]
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Ni Oubli Ni Pardon",
-      "published_at": "2026-11-26 05:15",
-      "text": "07/2021 Fabrice Epelboin : Mais ça met les employeurs dans une position détestable, c'est certain…\nL'État aurait dû prendre ses responsabilités et rendre la vaccination obligatoire pour tous, point barre, ce ne sont pas à eux de jouer aux flics."
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-26 05:22",
-      "text": "Le grand froid arrive ! Découvrez à quel point les journées glaciales sont de plus en plus rares et tardives https://l.leparisien.fr/rBtv"
     },
     {
       "author_name": "Sud Radio",
-      "published_at": "2026-11-26 05:33",
-      "text": "🔴Le député des Yvelines, Charles Rodwell, propose de \"refonder notre politique migratoire\" et créer \"des quotas\"\n\n⁉️Faut-il instaurer des quotas d’immigration par villes et par pays ?\n\n📻Votre avis nous intéresse dans le #GrandMatin ! Réagissez en commentaires."
+      "published_at": "2026-11-27 05:09",
+      "text": "🇫🇷 Les Français en attendent-ils « trop de l’État », comme le suggère Sébastien Lecornu ?\n\n📻Vos réactions seront reprises dans le #GrandMatin de 7h à 10h avec @JacquesCardoze.\n\n👇Réagissez en commentaires ou au 0826 300 300"
     },
+    {
+      "author_name": "Aldo Sterone",
+      "published_at": "2026-11-27 05:13",
+      "text": "La migration nette au Royaume-Uni est maintenant négative. L’année dernière : -77000\n\nCe chiffre cache une réalité terrible : les Britanniques les plus productifs sont en train de partir. Les grosses fortunes quittent le pays. Probablement des centaines de milliers par an. Des"
+    },
+    {
+      "author_name": "Ni Oubli Ni Pardon",
+      "published_at": "2026-11-27 05:16",
+      "text": "12/2024 Anne-Claude Crémieux, infectiologue et présidente de la Commission technique des vaccinations (HAS) : « N’oubliez pas la vaccination, c'est pour se protéger des hospitalisations, c'est pour se protéger des décompensations, des comorbidités cardiovasculaires, et à terme,"
+    }
+  ],
+  "context": [
     {
       "author_name": "Le Parisien",
       "published_at": "2026-11-26 05:42",
