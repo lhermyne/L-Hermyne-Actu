@@ -1,14 +1,40 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-28T02:48:36.036Z",
+  "updated_at": "2026-11-28T03:18:57.658Z",
   "window_hours": 24,
-  "window_start": "2026-11-27T02:48:36.036Z",
+  "window_start": "2026-11-27T03:18:57.658Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1713,
+  "count": 1715,
   "tweets": [
+    {
+      "id": "2126511903794929941",
+      "created_at": "2026-11-28T03:02:01.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "🔵 INFO LE PARISIEN | Un psychiatre parisien accusé d’avoir alcoolisé, drogué et violé plusieurs patientes dépressives\n\nSuspendu trois ans par l’Ordre des médecins, Olivier Chatillon pourra exercer à nouveau au printemps et ne devrait pas être jugé avant 2028\n➡️",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2126511903794929941"
+    },
+    {
+      "id": "2126509084572520676",
+      "created_at": "2026-11-28T02:50:49.000Z",
+      "author": "leparisien_pol",
+      "author_name": "Le Parisien | politique",
+      "type": "tweet",
+      "text": "Présidentielle 2027 : ni « cohésion » ni « confiance mutuelle », le climat est tendu entre LFI et ses ex de « L’Après » https://l.leparisien.fr/QtCK",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/leparisien_pol/status/2126509084572520676"
+    },
     {
       "id": "2126507610857758727",
       "created_at": "2026-11-28T02:44:57.000Z",
