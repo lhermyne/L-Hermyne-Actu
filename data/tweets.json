@@ -1,14 +1,40 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-28T04:19:12.333Z",
+  "updated_at": "2026-11-28T04:49:17.913Z",
   "window_hours": 24,
-  "window_start": "2026-11-27T04:19:12.333Z",
+  "window_start": "2026-11-27T04:49:17.913Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1712,
+  "count": 1713,
   "tweets": [
+    {
+      "id": "2126535556440170750",
+      "created_at": "2026-11-28T04:36:00.000Z",
+      "author": "LeSommierRgis",
+      "author_name": "Régis Le Sommier",
+      "type": "retweet",
+      "text": "Sunni youth tarnished Syria's second anniversary of overthrowing the Assad government by attacking an Alawite neighborhood in Damascus, looting and chanting that they \"want to eliminate Alawites.\"",
+      "retweeted_author": "joshua_landis",
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "en",
+      "url": "https://x.com/LeSommierRgis/status/2126535556440170750"
+    },
+    {
+      "id": "2126533144144642217",
+      "created_at": "2026-11-28T04:26:25.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "💬 «Il a reconnu avoir voulu voler un coupon de rail»\n\nUn jeune déficient intellectuel mis en examen pour «blessures involontaires» dans l'affaire du déraillement d’un TER en Normandie, le 11 septembre dernier\n➡️ https://l.leparisien.fr/dYYQ",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2126533144144642217"
+    },
     {
       "id": "2126530477754306574",
       "created_at": "2026-11-28T04:15:49.000Z",
@@ -22251,19 +22277,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/NiONiPardon/status/2126176762593763379"
-    },
-    {
-      "id": "2126174805259129170",
-      "created_at": "2026-11-27T04:42:30.000Z",
-      "author": "SudRadio",
-      "author_name": "Sud Radio",
-      "type": "tweet",
-      "text": "🚨 Incidents en marge du match Marseille - Levski Sofia : 12 supporters bulgares blessés\n\n👇\"Images effroyables\", \"violence inadmissible\"... Emmanuel Macron et la présidente bulgare Iliana Iotova ont réagi\n\nhttps://www.sudradio.fr/sport-rugby/sport/foot-incidents-et-blesses-a-marseille-la-bulgarie-exprime-son-indignation",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/SudRadio/status/2126174805259129170"
     }
   ]
 }
