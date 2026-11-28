@@ -1,14 +1,27 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-28T03:49:03.258Z",
+  "updated_at": "2026-11-28T04:19:12.333Z",
   "window_hours": 24,
-  "window_start": "2026-11-27T03:49:03.258Z",
+  "window_start": "2026-11-27T04:19:12.333Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1716,
+  "count": 1712,
   "tweets": [
+    {
+      "id": "2126530477754306574",
+      "created_at": "2026-11-28T04:15:49.000Z",
+      "author": "NiONiPardon",
+      "author_name": "Ni Oubli Ni Pardon",
+      "type": "tweet",
+      "text": "08/2021 La Tronche en Biais de Thomas C. Durand : « 7 enfants de moins de 10 ans sont morts du covid19 en France. 8 sont actuellement en soins critiques.\n\nLa balance bénéfice/risque est de plus en plus positive pour le vaccin. A tous les âges.\n\nCela appelle à une conclusion",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/NiONiPardon/status/2126530477754306574"
+    },
     {
       "id": "2126518360368099557",
       "created_at": "2026-11-28T03:27:40.000Z",
@@ -22251,71 +22264,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/SudRadio/status/2126174805259129170"
-    },
-    {
-      "id": "2126168194423386503",
-      "created_at": "2026-11-27T04:16:14.000Z",
-      "author": "NiONiPardon",
-      "author_name": "Ni Oubli Ni Pardon",
-      "type": "tweet",
-      "text": "12/2024 Anne-Claude Crémieux, infectiologue et présidente de la Commission technique des vaccinations (HAS) : « N’oubliez pas la vaccination, c'est pour se protéger des hospitalisations, c'est pour se protéger des décompensations, des comorbidités cardiovasculaires, et à terme,",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/NiONiPardon/status/2126168194423386503"
-    },
-    {
-      "id": "2126167464912265345",
-      "created_at": "2026-11-27T04:13:20.000Z",
-      "author": "AldoSterone111",
-      "author_name": "Aldo Sterone",
-      "type": "tweet",
-      "text": "La migration nette au Royaume-Uni est maintenant négative. L’année dernière : -77000\n\nCe chiffre cache une réalité terrible : les Britanniques les plus productifs sont en train de partir. Les grosses fortunes quittent le pays. Probablement des centaines de milliers par an. Des",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/AldoSterone111/status/2126167464912265345"
-    },
-    {
-      "id": "2126166372942229771",
-      "created_at": "2026-11-27T04:09:00.000Z",
-      "author": "SudRadio",
-      "author_name": "Sud Radio",
-      "type": "tweet",
-      "text": "🇫🇷 Les Français en attendent-ils « trop de l’État », comme le suggère Sébastien Lecornu ?\n\n📻Vos réactions seront reprises dans le #GrandMatin de 7h à 10h avec @JacquesCardoze.\n\n👇Réagissez en commentaires ou au 0826 300 300",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/SudRadio/status/2126166372942229771"
-    },
-    {
-      "id": "2126165355408265222",
-      "created_at": "2026-11-27T04:04:57.000Z",
-      "author": "leparisien_pol",
-      "author_name": "Le Parisien | politique",
-      "type": "tweet",
-      "text": "Guerre en Ukraine : « Une première mondiale », un laser de défense aérienne parvient à abattre un drone à réaction russe\n➡️ https://l.leparisien.fr/iL0H",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/leparisien_pol/status/2126165355408265222"
-    },
-    {
-      "id": "2126165349792170240",
-      "created_at": "2026-11-27T04:04:56.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "Guerre en Ukraine : « Une première mondiale », un laser de défense aérienne parvient à abattre un drone à réaction russe\n➡️ https://l.leparisien.fr/04aG",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2126165349792170240"
     }
   ]
 }

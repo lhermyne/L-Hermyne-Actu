@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-28 04:49",
-  "period": "du 2026-11-27 04:49 au 2026-11-28 04:49",
-  "new_period": "du 2026-11-27 20:00 au 2026-11-28 04:49",
-  "context_period": "du 2026-11-27 04:49 au 2026-11-27 20:00",
+  "generated_at": "2026-11-28 05:19",
+  "period": "du 2026-11-27 05:19 au 2026-11-28 05:19",
+  "new_period": "du 2026-11-27 20:00 au 2026-11-28 05:19",
+  "context_period": "du 2026-11-27 05:19 au 2026-11-27 20:00",
   "coverage_complete": true,
-  "new_count": 206,
-  "context_count": 1402,
-  "duplicates_merged": 97,
+  "new_count": 207,
+  "context_count": 1398,
+  "duplicates_merged": 96,
   "empty_removed": 11,
   "new": [
     {
@@ -1065,32 +1065,14 @@
       "author_name": "Le Parisien",
       "published_at": "2026-11-28 04:02",
       "text": "🔵 INFO LE PARISIEN | Un psychiatre parisien accusé d’avoir alcoolisé, drogué et violé plusieurs patientes dépressives\n\nSuspendu trois ans par l’Ordre des médecins, Olivier Chatillon pourra exercer à nouveau au printemps et ne devrait pas être jugé avant 2028\n➡️"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-27 05:04",
-      "text": "Guerre en Ukraine : « Une première mondiale », un laser de défense aérienne parvient à abattre un drone à réaction russe\n➡️ https://l.leparisien.fr/04aG",
-      "also_by": [
-        "Le Parisien | politique"
-      ]
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-27 05:09",
-      "text": "🇫🇷 Les Français en attendent-ils « trop de l’État », comme le suggère Sébastien Lecornu ?\n\n📻Vos réactions seront reprises dans le #GrandMatin de 7h à 10h avec @JacquesCardoze.\n\n👇Réagissez en commentaires ou au 0826 300 300"
-    },
-    {
-      "author_name": "Aldo Sterone",
-      "published_at": "2026-11-27 05:13",
-      "text": "La migration nette au Royaume-Uni est maintenant négative. L’année dernière : -77000\n\nCe chiffre cache une réalité terrible : les Britanniques les plus productifs sont en train de partir. Les grosses fortunes quittent le pays. Probablement des centaines de milliers par an. Des"
     },
     {
       "author_name": "Ni Oubli Ni Pardon",
-      "published_at": "2026-11-27 05:16",
-      "text": "12/2024 Anne-Claude Crémieux, infectiologue et présidente de la Commission technique des vaccinations (HAS) : « N’oubliez pas la vaccination, c'est pour se protéger des hospitalisations, c'est pour se protéger des décompensations, des comorbidités cardiovasculaires, et à terme,"
-    },
+      "published_at": "2026-11-28 05:15",
+      "text": "08/2021 La Tronche en Biais de Thomas C. Durand : « 7 enfants de moins de 10 ans sont morts du covid19 en France. 8 sont actuellement en soins critiques.\n\nLa balance bénéfice/risque est de plus en plus positive pour le vaccin. A tous les âges.\n\nCela appelle à une conclusion"
+    }
+  ],
+  "context": [
     {
       "author_name": "Sud Radio",
       "published_at": "2026-11-27 05:42",
