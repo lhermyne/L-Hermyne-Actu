@@ -1,14 +1,14 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-28 13:21",
-  "period": "du 2026-11-27 13:21 au 2026-11-28 13:21",
-  "new_period": "du 2026-11-28 08:00 au 2026-11-28 13:21",
-  "context_period": "du 2026-11-27 13:21 au 2026-11-28 08:00",
+  "generated_at": "2026-11-28 13:51",
+  "period": "du 2026-11-27 13:51 au 2026-11-28 13:51",
+  "new_period": "du 2026-11-28 08:00 au 2026-11-28 13:51",
+  "context_period": "du 2026-11-27 13:51 au 2026-11-28 08:00",
   "coverage_complete": true,
-  "new_count": 434,
-  "context_count": 983,
-  "duplicates_merged": 71,
+  "new_count": 482,
+  "context_count": 912,
+  "duplicates_merged": 78,
   "empty_removed": 8,
   "new": [
     {
@@ -177,7 +177,10 @@
     {
       "author_name": "Polémia",
       "published_at": "2026-11-28 08:30",
-      "text": "Toute ressemblance avec les candidats actuels à la présidentielle française est fortuite.\n\n\"Depuis 10 ans, tous les gouvernements allemands ont promis une ligne plus dure sur l'immigration. Et tous ont reculé\". Torben Braga, député AfD au Bundestag, intervenait lors de notre"
+      "text": "Toute ressemblance avec les candidats actuels à la présidentielle française est fortuite.\n\n\"Depuis 10 ans, tous les gouvernements allemands ont promis une ligne plus dure sur l'immigration. Et tous ont reculé\". Torben Braga, député AfD au Bundestag, intervenait lors de notre",
+      "also_by": [
+        "Jean-Yves Le Gallou"
+      ]
     },
     {
       "author_name": "CNEWS",
@@ -1336,7 +1339,8 @@
       "published_at": "2026-11-28 11:30",
       "text": "🎙️ « Jean-Luc Mélenchon représente, en gros, des salariés de la dépense publique qui voient bien qu’ils sont en plein effondrement et qui se protègent comme ils peuvent de leur fin très proche en essayant d’investir tous leurs espoirs et leurs fantasmes dans la racaille de",
       "also_by": [
-        "Tatiana Ventôse 🇫🇷🏹✨"
+        "Tatiana Ventôse 🇫🇷🏹✨",
+        "Jean-Yves Le Gallou"
       ]
     },
     {
@@ -2024,6 +2028,11 @@
       "text": "Sarah Tadlaoui, Louise Erdrich, Maxime Chattam… Notre sélection livres de la semaine\n➡️ https://l.leparisien.fr/N01m"
     },
     {
+      "author_name": "Jean Bexon",
+      "published_at": "2026-11-28 12:52",
+      "text": "[Retweet de @jean_bexon] J’ai répondu aux questions d’Atlantico au sujet des liens entre LFI et les suspects du meurtre de Quentin :"
+    },
+    {
       "author_name": "Le Crayon",
       "published_at": "2026-11-28 12:52",
       "text": "Jusqu’où êtes-vous prêt à aller pour vous révolter ?\n\nFace aux mouvements sociaux et aux mobilisations de la jeunesse, le politologue Thomas Guénolé, auteur de la BD Eiffel Eden, rappelle une réalité souvent oubliée : se révolter a un coût physique et personnel."
@@ -2171,7 +2180,10 @@
     {
       "author_name": "Les Patriotes",
       "published_at": "2026-11-28 13:19",
-      "text": "[Retweet de @FrancoisDESCAM7] 👊MAGISTRAL !\nRELAYEZ ! DIFFUSEZ UN MAX PARTOUT !\n- \"Ce pays est en train de crever !\"\n\nCe message doit être entendu !\nTransmettons le en dédicace à Mélenchon, MLP, Retailleau, Lisnard, Zemmour, Attal, Tondelier, etc !\n\n[DIRECT Florian PHILIPPOT 27/11/26: https://youtu.be/anmQ5g_FiFA]"
+      "text": "[Retweet de @FrancoisDESCAM7] 👊MAGISTRAL !\nRELAYEZ ! DIFFUSEZ UN MAX PARTOUT !\n- \"Ce pays est en train de crever !\"\n\nCe message doit être entendu !\nTransmettons le en dédicace à Mélenchon, MLP, Retailleau, Lisnard, Zemmour, Attal, Tondelier, etc !\n\n[DIRECT Florian PHILIPPOT 27/11/26: https://youtu.be/anmQ5g_FiFA]",
+      "also_by": [
+        "Florian Philippot"
+      ]
     },
     {
       "author_name": "Les Patriotes",
@@ -2196,7 +2208,10 @@
     {
       "author_name": "Le Parisien | politique",
       "published_at": "2026-11-28 13:19",
-      "text": "Migrants morts au large des Canaries : le bilan monte à 14 morts au lendemain de la découverte d’une embarcation\n➡️ https://l.leparisien.fr/uUgK"
+      "text": "Migrants morts au large des Canaries : le bilan monte à 14 morts au lendemain de la découverte d’une embarcation\n➡️ https://l.leparisien.fr/uUgK",
+      "also_by": [
+        "Le Parisien"
+      ]
     },
     {
       "author_name": "CNEWS",
@@ -2207,364 +2222,247 @@
       "author_name": "Bouli ☃️",
       "published_at": "2026-11-28 13:21",
       "text": "J'ai une solution pour aider nos amis marocains.\n[Cite @Le360fr] « Le Maroc découvre la pénurie de main-d’œuvre dans ses campagnes. À Agadir, la Chambre agricole de Souss-Massa et l’AMDRHA ont alerté sur les difficultés de recrutement. »\n\nhttps://fr.le360.ma/societe/la-crise-de-la-main-doeuvre-agricole-etait-previsible_SE6IQRRXJJBQNGZILHKNXLSFVA/"
-    }
-  ],
-  "context": [
-    {
-      "author_name": "Occidentis",
-      "published_at": "2026-11-27 13:21",
-      "text": "🚨⚡️ Les huit députés LR qui lâchent Bruno Retailleau pour soutenir David Lisnard ne sont pas sanctionnés par leur parti. (BFMTV)"
     },
     {
-      "author_name": "Polémia",
-      "published_at": "2026-11-27 13:21",
-      "text": "🇵🇹 Portugal : les juges donnent raison aux immigrés contre l’agence de l’immigration dans près de 80 % des cas, et des centaines d’ordres d’expulsion sont bloqués !\n\nDepuis le début de 2025, près de 21 000 actions et référés ont été déposés contre l’AIMA, l’agence portugaise"
-    },
-    {
-      "author_name": "Europe 1",
-      "published_at": "2026-11-27 13:22",
-      "text": "France-Afrique du Sud : Thomas Ramos, Louis Bielle-Biarrey... La composition des Bleus pour la finale du Championnat des nations https://ow.ly/YxtH106JOe6"
-    },
-    {
-      "author_name": "Front Populaire",
-      "published_at": "2026-11-27 13:22",
-      "text": "Par décision de la Cour de cassation, Eric Zemmour a été définitivement condamné pour avoir affirmé que le maréchal Pétain avait « sauvé les juifs français ».\n\nDécryptage d’un dossier plus juridique qu’historique. 👇\nhttps://frontpopulaire.fr/culture/contents/zemmour-petain-la-justice-et-lhistoire_tco_31992144"
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-27 13:23",
-      "text": "[Retweet de @MLP_officiel] Ces vingt dernières années, dont dix de macronisme, auront été un calvaire pour les Outre-mer.\n\nIl ne s’agit plus seulement de marginalisation économique et sociale, mais d’une relégation de nos compatriotes dans une France de second rang. Je ne peux l’accepter."
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-27 13:23",
-      "text": "[Retweet de @MLP_officiel] Regardons la réalité en face. Pas celle que vantent les neuf ministres qui se sont succédé rue Oudinot en dix ans de macronisme : celle que vivent nos concitoyens des Outre-mer.\n\nComment faire vivre sa famille quand le compte est dans le rouge à la moitié de chaque mois ?"
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-27 13:23",
-      "text": "[Retweet de @MLP_officiel] Trois morts en une semaine. Trois drames qui témoignent d’une réalité devenue insupportable : la violence gagne du terrain et l’État recule à Mayotte.\n\nUn gouvernement qui ne protège plus ses citoyens renonce à sa première raison d’être.\n\nLes Français exigent un État qui les"
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-27 13:23",
-      "text": "[Retweet de @MLP_officiel] La vie chère en Outre mer, c’est 15 à 20 % de plus en moyenne, avec un pouvoir d’achat inférieur de 20 à 35 % à celui de la métropole. C’est aussi un chômage de masse, entre 17 et 20 % de la population active, qui touche près de la moitié des jeunes.\n\nJ’en terminerai avec la vie"
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-27 13:23",
-      "text": "[Retweet de @MLP_officiel] Au XXIe siècle, dans la septième puissance mondiale, des milliers de familles subissent d’épuisants tours d’eau pour obtenir une eau de qualité dégradée. Qui accepterait cela en métropole ?\n\nJe mettrai à niveau les infrastructures, à commencer par l’accès à l’eau potable."
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-27 13:23",
-      "text": "[Retweet de @MLP_officiel] La réalité vécue, c’est l’enfer de l’insécurité. Un enfer nourri par un narcotrafic agressif, par la circulation des armes et par l’absence d’une politique pénale à la hauteur.\n\nJe rappelle ici les 29 homicides en Guadeloupe et 33 en Martinique depuis le début de l’année."
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-27 13:23",
-      "text": "[Retweet de @MLP_officiel] À Mayotte, les automobilistes se font attaquer dans les bouchons par des agresseurs armés de machettes. Tout récemment, une jeune conductrice a été violée en bord de route.\n\nIl y a quelques jours, le lycée de Kaweni était assailli par des pillards en plein jour."
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-27 13:23",
-      "text": "[Retweet de @MLP_officiel] À Mayotte, près d’un habitant sur deux est étranger, dont plus des trois quarts en situation irrégulière.\n\nLa Guyane connaît la même situation, qui déstabilise l’école, l’hôpital, le logement et toutes les infrastructures publiques."
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-27 13:23",
-      "text": "[Retweet de @MLP_officiel] La crise agricole est entretenue depuis des décennies par Bruxelles et les gouvernements français, qui imposent des normes pensées pour l’Europe continentale. Cela vaut aussi pour la pêche.\n\nLes victimes de ces échecs, ce sont les Français des Outre-mer."
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-27 13:23",
-      "text": "[Retweet de @MLP_officiel] En Outre-mer, Emmanuel Macron et ses gouvernements se sont limités à colmater quelques brèches et à multiplier les débats institutionnels sur l’autonomie, pour éviter d’aborder l’essentiel.\n\nMon projet présidentiel rompt radicalement avec ce cercle vicieux."
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-27 13:23",
-      "text": "[Retweet de @MLP_officiel] Certains sont dans une logique passéiste et bêtement technocratique qui considère la France des Outre-mer comme une charge. Mon projet présidentiel y met fin.\n\nJ’entends prendre le taureau par les cornes et cesser de lancer des fumigènes pour masquer le vide désespérant de"
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-27 13:23",
-      "text": "[Retweet de @MLP_officiel] Je me fixe trois grands objectifs à court, moyen et long terme : couvrir les besoins vitaux, bâtir l’autonomie économique, affirmer notre souveraineté maritime.\n\nMon programme repose sur une vision à vingt ans, un État-stratège et un véritable électrochoc économique."
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-27 13:23",
-      "text": "[Retweet de @MLP_officiel] Nous souhaitons en finir avec la vie chère en Outre-mer, assurer la sécurité, la maîtrise des frontières, relancer l’investissement, l’emploi et le logement.\n\nJe demanderai un bouclier tarifaire garantissant à chaque résident un aller-retour annuel vers l’Hexagone à un prix de"
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-27 13:23",
-      "text": "[Retweet de @MLP_officiel] L’Outre-mer ne doit plus avoir à demander une permission pour agir et doit peser à Paris dans le gouvernement de la France.\n\nJe présiderai un conseil interministériel deux fois par an et je créerai un grand ministère d’État des Outre-mer et du domaine maritime."
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-27 13:23",
-      "text": "[Retweet de @MLP_officiel] Je ferai voter, dans les premiers mois de mon mandat, une grande loi-programme pour l’Outre-mer, agissant sur douze ans, afin d’offrir une visibilité pluriannuelle aux collectivités, aux entreprises et aux investisseurs."
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-27 13:23",
-      "text": "[Retweet de @MLP_officiel] Ce qui n’est pas protégé est pillé, et ce qui est pillé est contesté. Les Outre-mer représentent 97 % des zones économiques exclusives de la France.\n\nJe lierai les Outre-mer au domaine maritime. Face aux ingérences étrangères, l’heure de la déstabilisation est terminée."
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-27 13:24",
-      "text": "Nice : deux hommes interpellés après avoir braqué des personnes âgées chez elles\n➡️ https://l.leparisien.fr/N01w"
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-27 13:24",
-      "text": "[Retweet de @MLP_officiel] Je veux que la France retrouve sa vocation de puissance d’équilibre dans le Pacifique et l’Indopacifique.\n\nJe propose une base interarmées renforcée à Nouméa pour que la France, puissance du Pacifique, contribue aux côtés de ses alliés à la liberté des mers et à la sécurité."
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-27 13:24",
-      "text": "[Retweet de @MLP_officiel] Nos compatriotes calédoniens ont besoin d’une longue période de paix, de rassemblement et de développement.\n\nLe monde est en train de basculer, et nos territoires ultramarins en sont les premiers témoins : il nous appartient d’y répondre, à notre niveau et avec nos moyens."
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-27 13:24",
-      "text": "[Retweet de @MLP_officiel] Collectivité unique ou non, compétences élargies ou non, État associé ou autonomie : ces débats clivants, menés par des ministres impécunieux et sans poids politique, ne trompent plus personne.\n\nLa seule priorité qui compte, c’est la prospérité de nos concitoyens ultramarins."
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-27 13:24",
-      "text": "[Retweet de @MLP_officiel] Les Outre-mer sont des territoires éloignés, isolés, exposés et trop souvent oubliés. Sans eux, la France ne serait plus la France.\n\nJe veux unir la France continentale et celle du grand large dans un même destin républicain : respect, justice, sécurité, fierté nationale."
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-27 13:24",
-      "text": "[Retweet de @MLP_officiel] Jordan Bardella ira dans quelques jours en Martinique et en Guadeloupe, et j’irai moi-même à Mayotte et à La Réunion quelques jours plus tard.\n\nNous rendrons aux Outre-mer le rang et la prospérité auxquels ils ont droit."
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-27 13:24",
-      "text": "[Retweet de @MLP_officiel] Les questions institutionnelles ont été instrumentalisées par l’extrême gauche, et utilisées depuis des années par le gouvernement pour ne pas avoir à répondre aux urgences de la vie quotidienne de nos compatriotes d’Outre-mer.\n\nL’urgence, c’est de leur rendre une vie abordable."
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-27 13:24",
-      "text": "[Retweet de @MLP_officiel] Si aller voir des électeurs, c’est faire de l’électoralisme, alors quelle serait la solution, ne pas aller les voir ?\n\nNous avons des élus en Outre-mer et nous ne cesserons jamais, même hors des périodes électorales, d’aller à la rencontre de nos compatriotes ultramarins."
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-27 13:24",
-      "text": "[Retweet de @MLP_officiel] Si j’étais intimidée par les violences à mon égard, je ne serais pas devant vous. Ça ne m’a jamais intimidée et ne m’intimidera pas.\n\nEn revanche, aujourd'hui, chaque déplacement devient une raison pour l’extrême gauche de troubler l’ordre public, et c'est inadmissible. Tous les"
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-27 13:24",
-      "text": "[Retweet de @MLP_officiel] Il y a dans certains territoires des monopoles problématiques. Je veux convaincre des structures de venir investir en Outre-mer pour y créer une concurrence nécessaire.\n\nL’octroi de mer est une injustice : la compensation des collectivités sera faite à l’euro près."
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-27 13:24",
-      "text": "[Retweet de @MLP_officiel] Emmanuel Macron cherche à faire signer le cadre financier pluriannuel fin 2026 et non fin 2027, pour empêcher celui qui sera élu dans cinq mois d’y peser. \n\nC'est antidémocratique, celui qui sera élu en mai prochain doit pouvoir conserver une liberté de manœuvre."
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-27 13:24",
-      "text": "[Retweet de @MLP_officiel] Malgré toute l’amitié que nous avons à l’égard de l’Ukraine, nous n’avons plus les moyens de nous engager financièrement au-delà des engagements déjà très lourds.\n\nSur le prêt de 90 milliards, 17 milliards pèsent sur la France, sans compter 2,5 milliards d’intérêts par an."
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-27 13:24",
-      "text": "[Retweet de @MLP_officiel] Depuis Jacques Chirac, les présidents de la République qui se sont succédé ont considéré l’Outre-mer comme une charge.\n\nC’est d’abord un état d’esprit à changer à la tête de l’État : un intérêt, un respect pour l’Outre-mer. Ce sera l’un des grands changements qui interviendront."
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-27 13:24",
-      "text": "[Retweet de @MLP_officiel] Des appels à se mobiliser contre ma venue dans la Vienne et à nous empêcher de faire campagne sont diffusés depuis hier sur les réseaux sociaux officiels de la France insoumise.\n\nCes méthodes indignes n’ont qu’un seul but : entraver, par la violence et l’intimidation, le bon"
-    },
-    {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-27 13:25",
-      "text": "🇰🇵 #GenerationBercoff avec @andrebercoff et @alonzoceline : André Bercoff évoque son voyage en Corée du Nord\n\n🗣️ André Bercoff :\"J'étais touriste, on ne nous a pas montré les prisons, les camps de travail. Les endroits sont choisis\"\n\n📻 Suivez le direct sur"
-    },
-    {
-      "author_name": "Médias-Presse-Info",
-      "published_at": "2026-11-27 13:25",
-      "text": "🎄 En cette période de l'Avent, aidez-nous à préserver une information catholique, libre et indépendante ! Votre soutien est vital pour l'avenir de MPI. \n\n#appelauxdons #informationcatholique #noel2026 https://www.medias-presse.info/soutenir-mpi-appel-aux-dons-de-noel-2026-soutenez/254571/"
-    },
-    {
-      "author_name": "Cercle Aristote",
-      "published_at": "2026-11-27 13:25",
-      "text": "[Retweet de @rougeyronpierre] Mon amie @asian_figolu est censurée pour une semaine pour mal-pensance. À soutenir."
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-27 13:26",
-      "text": "«Ça nous insultait de sale Corse qu'on devait rentrer chez nous. (...) Pour moi, il n'y aurait pas eu de problème à nous tuer» : Thomas, sportif victime de violences, raconte son déplacement à Marseille #PoliceJustice24H\n\nToute l'info est à retrouver sur https://cnews.fr"
-    },
-    {
-      "author_name": "Cercle Aristote",
-      "published_at": "2026-11-27 13:26",
-      "text": "[Retweet de @epelboin] C'est une véritable petite armée de bots qui sont au service de Conspiracy Watch sur Wikipedia... Leur cartographie va prendre du temps..."
-    },
-    {
-      "author_name": "Comité Trump France",
-      "published_at": "2026-11-27 13:27",
-      "text": "Complétez la phrase :\n\" Le programme de Zemmour est tellement bien, si seulement...\"\n\nà vous :"
-    },
-    {
-      "author_name": "Boulevard Voltaire",
-      "published_at": "2026-11-27 13:27",
-      "text": "[Retweet de @BVoltaire] Budget de la Sécu 2027 : retraités, soyez patients, votre sort n'est pas réglé ! | Par Georges Michel\nCe 26 novembre, la commission mixte paritaire (14 députés et sénateurs) n'a pas pu s'entendre sur le budget de la Sécu. \n \nhttps://www.bvoltaire.fr/budget-de-la-secu-2027-retraites-soyez-patients-votre-sort-nest-pas-regle/"
-    },
-    {
-      "author_name": "Comité Trump France",
-      "published_at": "2026-11-27 13:28",
-      "text": "[Retweet de @grok] @TrumpFrance Oui. Le 6 juin 2025, Jean-François Debat a fait afficher le drapeau palestinien sur le fronton de la mairie de Bourg-en-Bresse pour un rassemblement de France Palestine Solidarité. Il a confirmé et défendu ce geste comme une « solidarité humaine » avec les civils de Gaza, non"
-    },
-    {
-      "author_name": "Frontières",
-      "published_at": "2026-11-27 13:29",
-      "text": "🔴 Les huit députés LR qui rejoignent David Lisnard ne sont pas sanctionnés par le parti. (BFMTV)"
-    },
-    {
-      "author_name": "TVL",
-      "published_at": "2026-11-27 13:30",
-      "text": "🇮🇱 L'ancien chef d'état-major de l'armée israélienne, Gadi Eisenkot, a conclu jeudi un nouvel accord de coalition avec le parti de gauche de Yaïr Golan, de même qu'il a trouvé un accord avec la formation d'Avigdor Liberman.\n\nChargé de former un gouvernement, Eisenkot espère"
-    },
-    {
-      "author_name": "Le Figaro",
-      "published_at": "2026-11-27 13:30",
-      "text": "Un chien sauve de la noyade une fillette de deux ans. →https://l.lefigaro.fr/FPJo"
-    },
-    {
-      "author_name": "Comité Trump France",
-      "published_at": "2026-11-27 13:30",
-      "text": "🔴 URGENT - La France est officiellement en RÉCESSION. \n\nToutefois ⤵️"
-    },
-    {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-27 13:32",
-      "text": "Déraillement d'un TER en Seine-Maritime : un homme de 22 ans interpellés dans un camp de gens du voyage mis en examen pour vol et blessures involontaires, il est soupçonné d'avoir déplacé seul le morceau de rail à l'origine de l'accident (MàJ) https://www.fdesouche.com/2026/11/27/un-train-deraille-en-normandie-44-blesses-et-une-jeune-femme-de-18-ans-en-urgence-absolue-les-premiers-elements-de-lenquete-privilegient-lhypothese-dun-objet-non-identifie-percute-sur-la-voie/"
-    },
-    {
-      "author_name": "Le JDD",
-      "published_at": "2026-11-27 13:33",
-      "text": "Alexandre Pesey, fondateur de l’IFP : «Une France à l’agonie ne bâtit pas d’écoles» https://ow.ly/XlM5106JOeU"
-    },
-    {
-      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
-      "published_at": "2026-11-27 13:34",
-      "text": "[Retweet de @Smermesnil1] L'inversion de réalité et le gaslighting permanent qui y est associé est l'essence des Ministères imaginés par Orwell dans 1984.\nC'est le socle idéologique de l'ère de post-vérité dans laquelle nous somme pleinement plongés."
-    },
-    {
-      "author_name": "Occidentis",
-      "published_at": "2026-11-27 13:34",
-      "text": "🚨⚡️ « D’abord on fait 5 ans de dictature mélenchoniste et ensuite on fait la 6e République » souhaite la streameuse Emmodem qui possède plus de 38 000 abonnés sur Twitch. (@TwitchGauchiste)"
-    },
-    {
-      "author_name": "Ni Oubli Ni Pardon",
-      "published_at": "2026-11-27 13:35",
-      "text": "04/2026 Près de 300 personnalités signent une tribune à l'initiative de l'Institut Pasteur appelant à une mobilisation contre l'hésitation vaccinale. Brigitte Autran, ancienne présidente du Covars, redoute que « la vague antivax observée aux États-Unis ne gagne l'Europe, et en"
-    },
-    {
-      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
-      "published_at": "2026-11-27 13:35",
-      "text": "[Retweet de @BaronGrenouille] Page 199, on découvre l'objectif du président Camus :\n« la protection de la biodiversité »\n\nPour celà, deux mesures prioritaires :\n\n- La lutte contre les éoliennes\n- La décolonisation (aussi appelée remigration)"
-    },
-    {
-      "author_name": "Valeurs actuelles",
-      "published_at": "2026-11-27 13:35",
-      "text": "🗞️ Malgré l’opposition de Philippe Goujon, maire du XVe arrondissement de Paris, près de 500 migrants doivent être hébergés dans le quartier de Javel.\nhttps://l.valeursactuelles.com/2cH"
+      "author_name": "Jean Bexon",
+      "published_at": "2026-11-28 13:22",
+      "text": "[Retweet de @jean_bexon] 🔴🔴 Appel à témoin I \n\nEvan Dugied est le 11e antifasciste incarcéré et inculpé dans le cadre de l'enquête sur la mort de Quentin. \n\nSi vous avez déjà été agressé par ce cadre de la Jeune garde, vous pouvez me contacter en MP. \n\nAnonymat et protection des sources garantis."
     },
     {
       "author_name": "ThinkerView",
-      "published_at": "2026-11-27 13:36",
-      "text": "[Retweet de @Reuters] Exclusive: Hackers have breached the US Air Force's flagship cloud computing platform, three people familiar with the matter told Reuters, in a development that could jeopardize a vast swathe of sensitive tactical, personnel and logistics data https://reut.rs/4fVvpjM"
-    },
-    {
-      "author_name": "CNEWS",
-      "published_at": "2026-11-27 13:37",
-      "text": "Des températures négatives. ➡️ https://mrf.lu/2y0w7"
+      "published_at": "2026-11-28 13:22",
+      "text": "[Retweet de @harddis61809291] @Thinker_View Votons Jean-Marc Bouquetin pour 2027 !\nLe seul candidat qui donnera un sens à notre chute !"
     },
     {
       "author_name": "Le Point",
-      "published_at": "2026-11-27 13:38",
-      "text": "Deux prévenus ont comparu devant la cour d’appel de Bastia pour blanchiment et recel après la découverte d’un joli magot dans la villa d’un ancien baron du gang de la « Brise de mer », décédé onze ans auparavant.\n\nPar @JulianMattei\n➡️ https://l.lepoint.fr/yT1"
-    },
-    {
-      "author_name": "Occidentis",
-      "published_at": "2026-11-27 13:39",
-      "text": "🚨⚡️ Éric Ciotti détruit Xavier Bertrand, Jean-François Copé et Valérie Pécresse au micro de Jean-Jacques Bourdin."
-    },
-    {
-      "author_name": "LCP",
-      "published_at": "2026-11-27 13:39",
-      "text": "\"Je juge très sévèrement cela\": si elle est élue, Marine Le Pen veut obliger les journalistes à respecter le secret de l'instruction\n⤵️\nhttps://lcp.fr/actualites/si-elle-est-elue-marine-le-pen-veut-obliger-les-journalistes-a-respecter-le-secret-de-l"
-    },
-    {
-      "author_name": "Rassemblement National",
-      "published_at": "2026-11-27 13:41",
-      "text": "Retrouvez Jordan Bardella ce soir à Paris pour une séance de dédicaces de son livre « GOUVERNER » !\n\n📖 Commandez-le : https://www.amazon.fr/dp/2213736499"
+      "published_at": "2026-11-28 13:23",
+      "text": "REPORTAGE. Dans l’amphithéâtre bondé de l’université centrale de Caracas, la Prix Nobel de la paix vénézuélienne a, le 25 novembre, galvanisé le public. Le pays attend toujours le départ de la présidente et un vrai changement politique.\n\n➡️ https://l.lepoint.fr/3gq"
     },
     {
       "author_name": "CNEWS",
-      "published_at": "2026-11-27 13:42",
-      "text": "Le plus jeune maire de France, Yann Traiteur, en procédure judiciaire pour la crèche installée dans sa mairie : «Nous on veut simplement ramener un peu de magie, un peu de convivialité»  dans #PoliceJustice24H\n\nToute l'info est à retrouver sur https://cnews.fr"
+      "published_at": "2026-11-28 13:23",
+      "text": "«\"Vous êtes près du peuple, vous faites des frites\", les gens attendent autre chose que ça», souligne Michel Onfray, philosophe et essayiste, dans #FaceaMichelOnfray en référence à la séquence où Édouard Philippe a servi et préparé des frites"
     },
     {
-      "author_name": "Le Point",
-      "published_at": "2026-11-27 13:44",
-      "text": "[Retweet de @LePoint] Nadine de Rothschild : « Edmond ? Mais il ne savait pas où se trouvait la cuisine ! »\n\nPar @rollingraya https://l.lepoint.fr/4lv"
+      "author_name": "Bouli ☃️",
+      "published_at": "2026-11-28 13:23",
+      "text": "Les députés LFI ont compris la nature de leur électorat.\n[Cite @HadrienClouet] Le SMIC allemand est à 245 kebabs. \n\nLe SMIC français est à 214 kebabs.\n\nDans 6 mois, nous irons chercher les 31 kebabs manquants.\n\n#berlin"
     },
     {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-27 13:45",
-      "text": "🇰🇵 #GenerationBercoff avec @andrebercoff et @alonzoceline : Anne-Isabelle Tollet est partie en Corée du Nord en se faisant passer pour une marathonienne\n\n🗣️ \"J'avais l'impression de me jeter dans la gueule du loup\"\n\n📻 Suivez le direct sur https://sudradio.fr et réagissez au"
+      "author_name": "Pierre Sautarel",
+      "published_at": "2026-11-28 13:24",
+      "text": "Soit la police est débordée et Nuñez doit démissionner, soit Nuñez est complice et il doit démissionner."
     },
     {
-      "author_name": "Sud Radio",
-      "published_at": "2026-11-27 13:45",
-      "text": "🇰🇵 #GenerationBercoff avec @andrebercoff et @alonzoceline : Anne-Isabelle Tollet est partie en Corée du Nord, un pays fermé aux journalistes\n\n🗣️ \"Pour entrer dans ce pays, j'ai été courir un marathon ouvert à 200 étrangers\"\n\n📻 Suivez le direct sur https://sudradio.fr et"
-    },
-    {
-      "author_name": "Tocsin",
-      "published_at": "2026-11-27 13:45",
-      "text": "⚠️« Votre président pourrait aller en prison : Édouard Philippe ! C’est ce que m’a dit l’avocat ! »\n\n💶 « Il parle de centaines de milliers d’euros. Et si vous ne le faites pas, si elle est placée en liquidation, un liquidateur vraiment zélé pourrait se rendre compte du montage"
-    },
-    {
-      "author_name": "Boulevard Voltaire",
-      "published_at": "2026-11-27 13:46",
-      "text": "[AUTANT EN EMPORTE LA FRANCE] Neurones à vendre, cyborgs en vue | Par Virginie Fontcalel\nTout le monde semble fasciné par ces fameuses « avancées de la science ». Mais attention à la chute... \n \nhttps://www.bvoltaire.fr/autant-en-emporte-la-france-neurones-a-vendre-cyborgs-en-vue/"
-    },
-    {
-      "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-27 13:46",
-      "text": "La police nationale suspend l’usage des grenades assourdissantes de 40 mm dans toutes ses opérations  https://www.fdesouche.com/2026/11/27/la-police-nationale-suspend-lusage-des-grenades-assourdissantes-de-40-mm-dans/"
+      "author_name": "L'Observatoire des violences politiques",
+      "published_at": "2026-11-28 13:25",
+      "text": "👁️ Depuis le 4 novembre dernier, des étudiants d'extrême gauche occupent l’amphithéâtre Jean-Claude Eicher de l’université de #Dijon.\n\nLes occupants bénéficient du soutien d’une quinzaine d’enseignants-chercheurs, qui ont décidé de délocaliser tout ou partie de leurs cours au"
     },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-27 13:47",
-      "text": "Accueilli par le maire Robert Ménard, Teddy Riner est ce vendredi en déplacement à Béziers sur le thème de la sécurité, et a visité le centre pénitentiaire de Gasquinoy: \n\n💬 «Ce n’est pas facile, même si chaque détenu mérite son sort (…) aujourd’hui dire que les prisons sont"
+      "published_at": "2026-11-28 13:26",
+      "text": "Vers une pénurie de sapins de Noël ? À cause de la sécheresse et des canicules, des milliers d’arbres sont invendables https://l.leparisien.fr/m7Zn"
+    },
+    {
+      "author_name": "Eric Ciotti",
+      "published_at": "2026-11-28 13:27",
+      "text": "Les millions d'euros demandés à la Ville pour les Jeux olympiques n'avaient jamais été budgétés.\n\nCes crédits iront à ce dont les Niçois ont vraiment besoin : nos équipements sportifs de proximité, dont beaucoup sont aujourd'hui dans un état catastrophique."
     },
     {
       "author_name": "Fdesouche.com est une revue de presse",
-      "published_at": "2026-11-27 13:47",
-      "text": "OM–Levski Sofia. Au Vélodrome, onze supporters bulgares blessés et deux enquêtes ouvertes  https://www.fdesouche.com/2026/11/27/om-levski-sofia-violences-velodrome-onze-supporters-bulgares-blesses-deux-enquetes/"
+      "published_at": "2026-11-28 13:27",
+      "text": "Biarritz : un policier agressé à l'arme blanche par des antifas, le délégué \"Unité Police\" confirme l'information"
     },
     {
-      "author_name": "Le JDD",
-      "published_at": "2026-11-27 13:48",
-      "text": "Présidentielle 2027 : immigration, droit du sol, insécurité… Ce que les candidats proposent pour Mayotte https://ow.ly/gRtx106JOga"
+      "author_name": "CNEWS",
+      "published_at": "2026-11-28 13:29",
+      "text": "Michel Onfray, philosophe et essayiste, dans #FaceaMichelOnfray sur les propos de Teddy Riner sur l'Ukraine : «Il dit des choses, et nous invite à penser»\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-28 13:29",
+      "text": "« Je t’aime » : en larmes en écoutant le message de ses enfants, Kate Middleton évoque leur rôle dans son combat contre le cancer\n➡️ https://l.leparisien.fr/MPM0",
+      "also_by": [
+        "Le Parisien"
+      ]
+    },
+    {
+      "author_name": "Observatoire de l'immigration et de la démographie",
+      "published_at": "2026-11-28 13:30",
+      "text": "📺 « Le taux d’emploi des immigrés récents est de 46%, soit 23 points de moins que le taux d’emploi général en France. Il s’agit du taux le plus faible de l’UE. » \n\n@NPM_OID sur @LeFigaroTV ⬇️"
+    },
+    {
+      "author_name": "Agence France-Presse",
+      "published_at": "2026-11-28 13:30",
+      "text": "🇹🇼 Le candidat critique de la Chine à la mairie de Taipei, Puma Shen, a reconnu sa défaite à l'issue des élections locales à Taïwan, face à son rival Chiang Wan-an, membre du Kuomintang (KMT), parti favorable à un rapprochement avec Pékin."
+    },
+    {
+      "author_name": "Médias-Presse-Info",
+      "published_at": "2026-11-28 13:30",
+      "text": "🗞️ Politique, international, société... Ne manquez rien de l'actualité marquante de cette semaine du 21 au 27 novembre 2026. Revivez les faits forts qui ont agité l'actualité.\n\n#actualité #politique #société https://www.medias-presse.info/actualite-de-la-semaine-21-27-novembre-2026-en/254630/"
+    },
+    {
+      "author_name": "ThinkerView",
+      "published_at": "2026-11-28 13:30",
+      "text": "[Retweet de @VLBera] @CaronAymericoff @Thinker_View Et celui là"
+    },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-28 13:30",
+      "text": "Raphaël Glucksmann soutiendra l'ancien président de la République François Hollande s’il le devance dans les sondages, annonce un élu PS. →https://l.lefigaro.fr/bWkF"
+    },
+    {
+      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
+      "published_at": "2026-11-28 13:33",
+      "text": "[Retweet de @EuroDale] We couldn't solve a problem our politicians weren't even allowed to describe.\n\nMette finally broke that silence. Now we must all name the only solution:\n\nRemigration 🤝"
     },
     {
       "author_name": "Le Point",
-      "published_at": "2026-11-27 13:49",
-      "text": "[Retweet de @LePoint] Brad Pitt se verrait bien dans le rôle de l’antagoniste au côté de Robert Pattinson dans le prochain opus. Mais il n’est pas le seul à postuler, il va falloir jouer des coudes.\n➡️ https://l.lepoint.fr/NAD"
+      "published_at": "2026-11-28 13:33",
+      "text": "📣 TRIBUNE Viande « dopée » : un ancien ministre brésilien réplique à Emmanuel Macron https://l.lepoint.fr/gRC"
     },
     {
-      "author_name": "Eric Zemmour",
-      "published_at": "2026-11-27 13:50",
-      "text": "Je veux que mes enfants aient un avenir Français.\n\n📺 J’étais l’invité d’Objectif Elysée 2027 sur CNews. Regardez l’intégralité de mon entretien. ⤵️\n\nhttps://youtu.be/zplSsiIX7mc?is=C7KOosQExdHXCvjZ"
+      "author_name": "Renaud Camus 🇫🇷🇪🇺🇺🇦🇩🇰🇮🇱",
+      "published_at": "2026-11-28 13:34",
+      "text": "[Retweet de @LBMathiesen] Wauw! Avisen Information mener at Mette Frederiksen bør undskylde for endelig at sige tingene som det er. \n\nDer sker en befolkningsudskiftning. \n\nTænk lige over det. \n\nEn dansk avis, vi alle tvinges til at finansiere, mener at man som dansker skal undskylde for at man ikke mener"
     },
+    {
+      "author_name": "Le Jarl",
+      "published_at": "2026-11-28 13:34",
+      "text": "À force de les laisser tout faire, ils s’autorisent des choses de plus en plus dingues.\nDes participants au repas blessés, des enfants ont reçu des excréments, des policiers ont été blessés…. On sonne quand la fin des terroristes antifas en France ?"
+    },
+    {
+      "author_name": "Ni Oubli Ni Pardon",
+      "published_at": "2026-11-28 13:35",
+      "text": "📌 Merci à tous les créateurs qui participent à faire vivre Ni Oubli Ni Pardon par leurs vidéos et leurs visuels. Ensemble, on n’oublie rien. 🖤👊\n\nhttps://www.youtube.com/watch?v=cFhzxD6lMZQ"
+    },
+    {
+      "author_name": "Tribune Populaire🌐",
+      "published_at": "2026-11-28 13:35",
+      "text": "Au premier trimestre 2026, 41,5 % des jeunes diplômés américains exerçaient un emploi ne nécessitant PAS de diplôme universitaire, selon la Réserve fédérale de New York.\n\nEn France, l’indicateur équivalent au sous-emploi américain est appelé le déclassement professionnel. Selon\n[Cite @mufairly] @TribunePop23 Le système éducatif américain est meilleur que le nôtre \nLes meilleures universités du monde sont américaines \nVous n’aimez pas l’excellence ?"
+    },
+    {
+      "author_name": "Occidentis",
+      "published_at": "2026-11-28 13:35",
+      "text": "🚨⚡️ Hommes avec la tête en SANG, familles avec poussettes attaquées avec des EXCRÉMENTS…\n\n🗣️ Un des cofondateurs du Canon Français exprime sa colère face aux « fanatiques » d’ultra-gauche qui ont attaqué les convives du banquet."
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-28 13:36",
+      "text": "Son analyse complète ➡️ https://mrf.lu/2y9SX"
+    },
+    {
+      "author_name": "Jean-Yves Le Gallou",
+      "published_at": "2026-11-28 13:36",
+      "text": "Hallucinant !\nQue fait la police pour assurer la liberté de se restaurer ? \n@CanonFrancais\n[Cite @BFMTV] Manifestation contre le Canon français: des militants antifascistes forment une \"chaîne humaine\" pour empêcher les convives d’accéder au banquet"
+    },
+    {
+      "author_name": "Valeurs actuelles",
+      "published_at": "2026-11-28 13:37",
+      "text": "[Retweet de @AmauryBucco] 🔴 @Valeurs | « Y a deux Blancs, y a deux Blancs ! » : à Maurepas, deux frères encerclés, frappés et dépouillés, leurs agresseurs condamnés\nhttps://www.valeursactuelles.com/regions/ile-de-france/yvelines/na/faits-divers/y-a-deux-blancs-y-a-deux-blancs-a-maurepas-deux-freres-encercles-frappes-et-depouilles-leurs-agresseurs-condamnes"
+    },
+    {
+      "author_name": "Jean-Yves Le Gallou",
+      "published_at": "2026-11-28 13:37",
+      "text": "[Retweet de @LaurentObertone] Des gens en sang, attaqués à la barre de fer, visés par des jets d'excréments, un policier blessé au couteau...\nCe n'est pas une \"contre-manifestation\", mais la définition du terrorisme (art 421-1) : \"infractions commises intentionnellement en relation avec une entreprise"
+    },
+    {
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-28 13:37",
+      "text": "Biarritz : les participants du banquet du Canon Français entonnent la Marseillaise pendant que la gauche affronte les forces de l'ordre"
+    },
+    {
+      "author_name": "Jean-Yves Le Gallou",
+      "published_at": "2026-11-28 13:37",
+      "text": "[Retweet de @RomainEvenement] 🇷🇺 28 novembre 1918, naissance du dissident russe Alexandre Soljenitsyne (le 11 décembre dans le calendrier grégorien).\n\n« Les hommes n'étant pas dotés des mêmes capacités, s'ils sont libres ils ne seront pas égaux, et s'ils sont égaux c'est qu'ils ne sont pas libres. »"
+    },
+    {
+      "author_name": "Europe 1",
+      "published_at": "2026-11-28 13:38",
+      "text": "Chalets, vin chaud et étoiles plein les yeux... Le marché de Noël de Strasbourg accueille ses premiers visiteurs https://ow.ly/tWJa106JT7H"
+    },
+    {
+      "author_name": "ThinkerView",
+      "published_at": "2026-11-28 13:41",
+      "text": "https://www.youtube.com/watch?v=v_Lua2Xzg5s"
+    },
+    {
+      "author_name": "Jean-Yves Le Gallou",
+      "published_at": "2026-11-28 13:41",
+      "text": "Non, non et non les agresseurs du @CanonFrancais ne sont pas des « fascistes » ce sont des militants d’extrême gauche trotskystes, communistes ou héritiers de la terreur révolutionnaire de 1794 . Appelez les choses par leur nom !\n[Cite @LBleuBlancRouge] 🔴😳 À Biarritz, plusieurs participants au Canon Français ont été blessés par des antifas qui les empêchaient de se rendre à l’événement, certains ont la tête en sang, des poussettes et des enfants ont reçu des excréments, une Mamie a été poussée aux cris de « Que la canicule"
+    },
+    {
+      "author_name": "Le Figaro",
+      "published_at": "2026-11-28 13:42",
+      "text": "Des militants d’ultragauche ont attaqué ce samedi à Biarritz des participants à un banquet du Canon français, un organisme qui crée des évènements conviviaux à travers la France. Les forces de l’ordre ont repoussé les assaillants à l’aide de grenades lacrymogènes."
+    },
+    {
+      "author_name": "Jean-Yves Le Gallou",
+      "published_at": "2026-11-28 13:42",
+      "text": "👏👏👏\n[Cite @Midilibre] \"Stop immigration\" : ce tag qui se multiplie sur les panneaux routiers d’Occitanie et indigne les habitants\n➡️ https://l.midilibre.fr/6kuH"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-28 13:42",
+      "text": "Michel Onfray, philosophe et essayiste, réagit aux propos de Teddy Riner, qui estime que la guerre en Ukraine n'est «pas notre guerre» : «Monsieur Teddy Riner, il est formidable quand il dit ça». #FaceAMichelOnfray\n\nToute l'info est à retrouver sur https://cnews.fr"
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-28 13:45",
+      "text": "«Le système se cherche un candidat pour casser la dynamique de Jean-Luc Mélenchon et Marine Le Pen», estime Michel Onfray ➡️ https://mrf.lu/2y9bS"
+    },
+    {
+      "author_name": "J'SUIS PAS CONTENT TV",
+      "published_at": "2026-11-28 13:45",
+      "text": "Une bonne nouvelle tout les matins !\n[Cite @Ced_haurus] Les corrections s'enchaînent ce matin chez Conspiracy Watch. Toujours aucunes explications publiques.\n\n4 rectifications en moins d'1 h 30, toutes sur des erreurs relevées dans nos fiches :\n\n🔹 « Solution finale » : CW attribuait l'appel à Jake Shields, c'était Stew Peters."
+    },
+    {
+      "author_name": "CNEWS",
+      "published_at": "2026-11-28 13:45",
+      "text": "Voici de quoi il s'agit et les conditions pour en bénéficier ➡️ https://mrf.lu/2y9b9"
+    },
+    {
+      "author_name": "Boulevard Voltaire",
+      "published_at": "2026-11-28 13:47",
+      "text": "[POINT DE VUE] Le député PS Jérôme Guedj dénonce le séparatisme…du canon français | Par Arnaud Florac\nLa gauche déteste le canon français, parce que c'est franchouillard, et, s'il faut tout dire, parce que c'est paisible. \n \nhttps://www.bvoltaire.fr/point-de-vue-le-depute-ps-jerome-guedj-denonce-le-separatismedu-canon-francais/"
+    },
+    {
+      "author_name": "Florian Philippot",
+      "published_at": "2026-11-28 13:47",
+      "text": "Énorme ! (cf vidéo ⤵️)\n\nLa patronne de l’AFD, Alice Weidel, vient de balancer tout ce qui n’est jamais dit dans les médias au sujet de la guerre d’Ukraine !\n\n« Avant la guerre de 2022, le gouvernement ukrainien passait son temps depuis des années à bombarder les populations"
+    },
+    {
+      "author_name": "J'SUIS PAS CONTENT TV",
+      "published_at": "2026-11-28 13:47",
+      "text": "[Retweet de @epelboin] L'investigation sur la contaminationde Wikipedia par Conspiracy Watch et son armée de bot avance, les premiers résultats devraient être prêts pour la semaine prochaine. \nBon week end à tous."
+    },
+    {
+      "author_name": "Fdesouche.com est une revue de presse",
+      "published_at": "2026-11-28 13:48",
+      "text": "Gérald Darmnanin : «J'ai été voir mon père à la maison d'arrêt de Valenciennes pendant plusieurs mois. J'ai été marqué par la vétusté»"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-28 13:48",
+      "text": "Canada : 25 ans de prison requis contre un homme accusé d’avoir vendu des « kits de suicide » et d’être responsable de la mort de 93 personnes\n➡️ https://l.leparisien.fr/1RUk"
+    },
+    {
+      "author_name": "J'SUIS PAS CONTENT TV",
+      "published_at": "2026-11-28 13:49",
+      "text": "[Retweet de @Ced_haurus] La mauvaise foi des fact checkers de conspiracy : \"Merde vous êtes cons ! Fallait cliquer sur le lien bande d'incapables !\""
+    },
+    {
+      "author_name": "Occidentis",
+      "published_at": "2026-11-28 13:50",
+      "text": "🚨⚡️ Au JT de TF1, le Canon Français est ACCUSÉ d’être « proche des idées d’extrême droite », légitimant d’une certaine manière les attaques contre les convives par des antifas au banquet organisé ce samedi à Biarritz."
+    },
+    {
+      "author_name": "Les Patriotes",
+      "published_at": "2026-11-28 13:51",
+      "text": "[Retweet de @FrancoisDESCAM7] ❌Le sommet de Bruxelles écourté‼️\nOn arrive au bout des contradictions du Système UE !\n\n[Extrait du DIRECT de Florian PHILIPPOT (27/11/26) à retrouver sur https://youtu.be/anmQ5g_FiFA]"
+    }
+  ],
+  "context": [
     {
       "author_name": "Sud Radio",
       "published_at": "2026-11-27 13:52",
