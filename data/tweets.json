@@ -1,14 +1,40 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-28T01:18:19.124Z",
+  "updated_at": "2026-11-28T01:48:24.766Z",
   "window_hours": 24,
-  "window_start": "2026-11-27T01:18:19.124Z",
+  "window_start": "2026-11-27T01:48:24.766Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1710,
+  "count": 1711,
   "tweets": [
+    {
+      "id": "2126488185513369799",
+      "created_at": "2026-11-28T01:27:46.000Z",
+      "author": "leparisien_pol",
+      "author_name": "Le Parisien | politique",
+      "type": "tweet",
+      "text": "Guerre en Ukraine : « Une première mondiale », un laser de défense aérienne parvient à abattre un drone à réaction russe\n➡️ https://l.leparisien.fr/BN8d",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/leparisien_pol/status/2126488185513369799"
+    },
+    {
+      "id": "2126487975152255315",
+      "created_at": "2026-11-28T01:26:56.000Z",
+      "author": "le_Parisien",
+      "author_name": "Le Parisien",
+      "type": "tweet",
+      "text": "MotoGP : qu’est-ce que la diplopie, le trouble oculaire dont souffre Marc Marquez et qui l’a poussé à la retraite ?\n➡️ https://l.leparisien.fr/fqwr",
+      "retweeted_author": null,
+      "quoted_author": null,
+      "quoted_text": null,
+      "lang": "fr",
+      "url": "https://x.com/le_Parisien/status/2126487975152255315"
+    },
     {
       "id": "2126480597245956451",
       "created_at": "2026-11-28T00:57:37.000Z",
@@ -22225,19 +22251,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/leparisien_pol/status/2126131819728789796"
-    },
-    {
-      "id": "2126123718342844623",
-      "created_at": "2026-11-27T01:19:30.000Z",
-      "author": "le_Parisien",
-      "author_name": "Le Parisien",
-      "type": "tweet",
-      "text": "Boissons piégées, trous noirs, comptes bancaires siphonnés…\n\nÀ Tokyo, des touristes drogués et dépouillés dans les bars de nuit\n➡️ https://l.leparisien.fr/2lQ7",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/le_Parisien/status/2126123718342844623"
     }
   ]
 }

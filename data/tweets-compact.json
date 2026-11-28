@@ -1,13 +1,13 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-28 02:18",
-  "period": "du 2026-11-27 02:18 au 2026-11-28 02:18",
-  "new_period": "du 2026-11-27 20:00 au 2026-11-28 02:18",
-  "context_period": "du 2026-11-27 02:18 au 2026-11-27 20:00",
+  "generated_at": "2026-11-28 02:48",
+  "period": "du 2026-11-27 02:48 au 2026-11-28 02:48",
+  "new_period": "du 2026-11-27 20:00 au 2026-11-28 02:48",
+  "context_period": "du 2026-11-27 02:48 au 2026-11-27 20:00",
   "coverage_complete": true,
-  "new_count": 199,
-  "context_count": 1404,
+  "new_count": 201,
+  "context_count": 1403,
   "duplicates_merged": 96,
   "empty_removed": 11,
   "new": [
@@ -1030,14 +1030,19 @@
       "author_name": "Le Parisien | politique",
       "published_at": "2026-11-28 01:57",
       "text": "Reconquête le président du parti Éric Zemmour placé sous le statut de témoin assisté pour des prêts consentis\n➡️ https://l.leparisien.fr/ewDX"
+    },
+    {
+      "author_name": "Le Parisien",
+      "published_at": "2026-11-28 02:26",
+      "text": "MotoGP : qu’est-ce que la diplopie, le trouble oculaire dont souffre Marc Marquez et qui l’a poussé à la retraite ?\n➡️ https://l.leparisien.fr/fqwr"
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-28 02:27",
+      "text": "Guerre en Ukraine : « Une première mondiale », un laser de défense aérienne parvient à abattre un drone à réaction russe\n➡️ https://l.leparisien.fr/BN8d"
     }
   ],
   "context": [
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-27 02:19",
-      "text": "Boissons piégées, trous noirs, comptes bancaires siphonnés…\n\nÀ Tokyo, des touristes drogués et dépouillés dans les bars de nuit\n➡️ https://l.leparisien.fr/2lQ7"
-    },
     {
       "author_name": "Le Parisien | politique",
       "published_at": "2026-11-27 02:51",
