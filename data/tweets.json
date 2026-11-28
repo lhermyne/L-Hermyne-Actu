@@ -1,13 +1,13 @@
 {
   "list_id": "1896274078501126399",
   "list_name": "Info Patrie France",
-  "updated_at": "2026-11-28T01:48:24.766Z",
+  "updated_at": "2026-11-28T01:54:54.758Z",
   "window_hours": 24,
-  "window_start": "2026-11-27T01:48:24.766Z",
+  "window_start": "2026-11-27T01:54:54.758Z",
   "covered_since": "2026-11-02T22:44:33.000Z",
   "coverage_complete": true,
   "possible_gaps": [],
-  "count": 1711,
+  "count": 1710,
   "tweets": [
     {
       "id": "2126488185513369799",
@@ -22238,19 +22238,6 @@
       "quoted_text": null,
       "lang": "fr",
       "url": "https://x.com/le_Parisien/status/2126165349792170240"
-    },
-    {
-      "id": "2126131819728789796",
-      "created_at": "2026-11-27T01:51:42.000Z",
-      "author": "leparisien_pol",
-      "author_name": "Le Parisien | politique",
-      "type": "tweet",
-      "text": "Présidentielle 2027 : Emmanuel Macron tacle la « drôle d’arrogance » de Marine Le Pen https://l.leparisien.fr/qusP",
-      "retweeted_author": null,
-      "quoted_author": null,
-      "quoted_text": null,
-      "lang": "fr",
-      "url": "https://x.com/leparisien_pol/status/2126131819728789796"
     }
   ]
 }

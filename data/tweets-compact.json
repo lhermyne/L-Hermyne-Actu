@@ -1,13 +1,13 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-28 02:48",
-  "period": "du 2026-11-27 02:48 au 2026-11-28 02:48",
-  "new_period": "du 2026-11-27 20:00 au 2026-11-28 02:48",
-  "context_period": "du 2026-11-27 02:48 au 2026-11-27 20:00",
+  "generated_at": "2026-11-28 02:54",
+  "period": "du 2026-11-27 02:54 au 2026-11-28 02:54",
+  "new_period": "du 2026-11-27 20:00 au 2026-11-28 02:54",
+  "context_period": "du 2026-11-27 02:54 au 2026-11-27 20:00",
   "coverage_complete": true,
   "new_count": 201,
-  "context_count": 1403,
+  "context_count": 1402,
   "duplicates_merged": 96,
   "empty_removed": 11,
   "new": [
@@ -1043,11 +1043,6 @@
     }
   ],
   "context": [
-    {
-      "author_name": "Le Parisien | politique",
-      "published_at": "2026-11-27 02:51",
-      "text": "Présidentielle 2027 : Emmanuel Macron tacle la « drôle d’arrogance » de Marine Le Pen https://l.leparisien.fr/qusP"
-    },
     {
       "author_name": "Le Parisien",
       "published_at": "2026-11-27 05:04",
