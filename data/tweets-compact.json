@@ -1,13 +1,13 @@
 {
   "list_name": "Info Patrie France",
   "timezone": "Europe/Paris",
-  "generated_at": "2026-11-28 01:18",
-  "period": "du 2026-11-27 01:18 au 2026-11-28 01:18",
-  "new_period": "du 2026-11-27 20:00 au 2026-11-28 01:18",
-  "context_period": "du 2026-11-27 01:18 au 2026-11-27 20:00",
+  "generated_at": "2026-11-28 01:48",
+  "period": "du 2026-11-27 01:48 au 2026-11-28 01:48",
+  "new_period": "du 2026-11-27 20:00 au 2026-11-28 01:48",
+  "context_period": "du 2026-11-27 01:48 au 2026-11-27 20:00",
   "coverage_complete": true,
-  "new_count": 195,
-  "context_count": 1410,
+  "new_count": 198,
+  "context_count": 1404,
   "duplicates_merged": 96,
   "empty_removed": 11,
   "new": [
@@ -1010,39 +1010,24 @@
       "author_name": "J'SUIS PAS CONTENT TV",
       "published_at": "2026-11-28 01:12",
       "text": "[Retweet de @_MinutePapillon] Toc toc on frappe a ma porte ? Devine qui c'est ? \n#patricksebastien #toctoc #krisspapillon"
-    }
-  ],
-  "context": [
+    },
+    {
+      "author_name": "Le Parisien | politique",
+      "published_at": "2026-11-28 01:33",
+      "text": "Sondage présidentielle 2027 : testé pour la première fois au second tour, David Lisnard s’incline face à Marine Le Pen https://l.leparisien.fr/SS3U"
+    },
     {
       "author_name": "Le Parisien",
-      "published_at": "2026-11-27 01:29",
-      "text": "Présidentielle 2027 : Édouard Philippe poursuit sa chute selon un nouveau sondage, David Lisnard talonne Jean-Luc Mélenchon\n➡️ https://l.leparisien.fr/rBta"
+      "published_at": "2026-11-28 01:35",
+      "text": "💬 «J’ai besoin de savoir qu’il y a des choses qui n’appartiennent qu’à moi»\n\nAntoine Dupont et Iris Mittenaere, un couple à la discrétion revendiquée\n➡️ https://l.leparisien.fr/aCbE"
     },
     {
       "author_name": "Médias-Presse-Info",
-      "published_at": "2026-11-27 01:35",
-      "text": "🙏 Ce 27 novembre, l'Église célèbre saint François Antoine Fasani et la Médaille miraculeuse. Plongez dans la liturgie et l'histoire de ce grand saint franciscain des pauvres. \n\n#catholique #saints #medaillemiraculeuse https://www.medias-presse.info/vendredi-27-novembre-de-la-ferie-saint-francois-antoine-fasani-pretre-premier-ordre-franciscain-fete-de-lapparition-de-la-medaille-miraculeuse/253510/"
-    },
-    {
-      "author_name": "J'SUIS PAS CONTENT TV",
-      "published_at": "2026-11-27 01:35",
-      "text": "[Retweet de @Ced_haurus] Je ne m'étais jamais vraiment intéressé au site Conspiracy Watch \"Les faits contre le complotisme\" spécialisé \"dans la lutte contre la désinformation\".\nCe qui en soit est une belle mission salutaire dans l'époque dans laquelle on vit même si c'est bien biberonné avec l'argent"
-    },
-    {
-      "author_name": "J'SUIS PAS CONTENT TV",
-      "published_at": "2026-11-27 01:35",
-      "text": "Ca va faire mal\n[Cite @Ced_haurus] Rien que sur les 20 premiers textes tirés au hasard et décortiqués mots par mots, on est à : 21 affirmations non étayées, 18 erreurs, 18 liens morts, 14 informations périmées, 8 sources qui ne disent pas ce que le texte affirme, 2 citations tronquées."
-    },
-    {
-      "author_name": "J'SUIS PAS CONTENT TV",
-      "published_at": "2026-11-27 01:38",
-      "text": "1) C'est faux.\n2) Rappel du bilan de Thierry Breton : \n- a vendu Alstom\n- a déglingué  Atos\n- a déinglingué Bull\n- a déglingué Thomson\n- est responsable des politique de \"management\" qui ont amené a une déferlante de suicides chez France Telecom.\n[Cite @ThierryBreton] Nvidia a perdu la moitié de sa valeur par une absence de gouvernance. 2500 milliards de dollars en quelques heures. \n\nCe n’est pas mon modèle. \n\nC’est pour cela qu’il nous faut des règles en Europe. Vous voyez combien ça coûte de ne pas en avoir ?"
-    },
-    {
-      "author_name": "Le Parisien",
-      "published_at": "2026-11-27 01:47",
-      "text": "Un travailleur du sexe retrouvé mort dans le bois de Boulogne, dénudé et le visage tuméfié\n➡️ https://l.leparisien.fr/J6J3"
-    },
+      "published_at": "2026-11-28 01:35",
+      "text": "✝️ Découvrez l'Ordo et le martyrologe de ce samedi 28 novembre : honorons sainte Catherine Labouré et saint Jacques de la Marche dans la tradition catholique. \n\n#catholique #liturgie #orcat https://www.medias-presse.info/samedi-28-novembre-de-la-sainte-vierge-au-samedi-sainte-catherine-laboure-vierge-saint-jacques-de-la-marche-confesseur-premier-ordre-franciscain/253513/"
+    }
+  ],
+  "context": [
     {
       "author_name": "Le Parisien",
       "published_at": "2026-11-27 02:19",
