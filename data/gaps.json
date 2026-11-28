@@ -1,25 +1,35 @@
 {
-  "updated_at": "2026-11-28 15:53",
+  "updated_at": "2026-11-28 16:23",
   "last_run": {
-    "run_at": "2026-11-28 15:53",
-    "run_at_utc": "2026-11-28T14:53:16.416Z",
-    "fetched": 89,
-    "new_tweets": 52,
-    "saturation": 0.58,
+    "run_at": "2026-11-28 16:23",
+    "run_at_utc": "2026-11-28T15:23:21.943Z",
+    "fetched": 91,
+    "new_tweets": 35,
+    "saturation": 0.38,
     "gap_detected": false,
     "gap_minutes": 0,
-    "message": "Aucun trou détecté : 52 nouveaux tweets sur 89 récupérés."
+    "message": "Aucun trou détecté : 35 nouveaux tweets sur 91 récupérés."
   },
   "last_24h": {
     "runs": 51,
     "runs_with_gap": 0,
     "total_gap": "0 min",
-    "new_tweets": 1465,
+    "new_tweets": 1448,
     "max_new_tweets_per_run": 83,
     "max_saturation": 0.91
   },
   "advice": "Pas de trou, mais un lancement a vu plus de 80 % de nouveaux tweets : la fréquence est juste, envisager de l'augmenter.",
   "runs": [
+    {
+      "run_at": "2026-11-28 16:23",
+      "run_at_utc": "2026-11-28T15:23:21.943Z",
+      "fetched": 91,
+      "new_tweets": 35,
+      "saturation": 0.38,
+      "gap_detected": false,
+      "gap_minutes": 0,
+      "message": "Aucun trou détecté : 35 nouveaux tweets sur 91 récupérés."
+    },
     {
       "run_at": "2026-11-28 15:53",
       "run_at_utc": "2026-11-28T14:53:16.416Z",
@@ -3069,26 +3079,6 @@
       "gap_detected": false,
       "gap_minutes": 0,
       "message": "Aucun trou détecté : 17 nouveaux tweets sur 93 récupérés."
-    },
-    {
-      "run_at": "2026-11-21 16:16",
-      "run_at_utc": "2026-11-21T15:16:54.957Z",
-      "fetched": 94,
-      "new_tweets": 21,
-      "saturation": 0.22,
-      "gap_detected": false,
-      "gap_minutes": 0,
-      "message": "Aucun trou détecté : 21 nouveaux tweets sur 94 récupérés."
-    },
-    {
-      "run_at": "2026-11-21 16:03",
-      "run_at_utc": "2026-11-21T15:03:11.437Z",
-      "fetched": 96,
-      "new_tweets": 41,
-      "saturation": 0.43,
-      "gap_detected": false,
-      "gap_minutes": 0,
-      "message": "Aucun trou détecté : 41 nouveaux tweets sur 96 récupérés."
     }
   ]
 }
